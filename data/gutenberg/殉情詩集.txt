@@ -1,0 +1,894 @@
+﻿The Project Gutenberg EBook of Junjo Shishu, by Haruo Sato
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Junjo Shishu
+
+Author: Haruo Sato
+
+Release Date: January 28, 2012 [EBook #38697]
+
+Language: Japanese
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK JUNJO SHISHU ***
+
+
+
+
+Produced by Sachiko Hill and Kaoru Tanaka
+
+
+
+
+Title: 殉情詩集 (Junjo Shishu)
+Author: 佐藤春夫 (Kafu Nagai)
+Language: Japanese
+Character set encoding: UTF-8
+Produced by Sachiko Hill and Kaoru Tanaka.
+
+-------------------------------------------------------
+Notes on the signs in the text
+
+《...》 shows ruby (short runs of text alongside the
+base text to indicate pronunciation).
+Eg. 其《そ》
+
+｜ marks the start of a string of ruby-attached
+characters.
+Eg. 十三｜年目《ねんめ》
+-------------------------------------------------------
+
+殉情詩集
+
+殉情詩集自序
+
+　われ幼少より詩歌を愛誦し、自ら始めてこれが作を試みしは十六歲の時なりしと覺ゆ。いま早くも十五年の昔とはなりぬ。爾來、公《おほやけ》にするを得たるわが試作おほよそ百章はありぬべし。その一半は抒情詩にして、一半は當時のわが一面を表はして社會問題に對する傾向詩なりき。今ことごとく散佚《さんいつ》す。自らの記憶にあるものすら數へて僅に十指に足らず。然も、些の憾なし。寧ろこれを喜ぶ。後、志を詩歌に斷てりとは非ざりしも、われは無才《むざえ》にして且つは精進の念にさへ乏しく、自ら省みて深くこれを愧づるのあまり遂には人に示さずなりぬ。但、殉情の人は歌ふことにこそ纔《わづか》に慰めはあれ、譬へば、かの病劇しき者の呻くことによりて僅にその病苦を洩すが如し。されば哀傷の到るものある每にわれは恒に私《ひそか》に歌うて身をなぐさめぬ。又譬へば獵矢《さつや》を負へる獸の森深く逃れ來りて、世を惡み人を厭ひて然も己が命を愛するの念はいや募り、己が口もて己が創痍を舐め癒さんと努むるが如し。
+　世には强記にして好事《かうず》の士もあるものなり。面榮《おもは》ゆくもわがかの詩作を今更に語り出でて、時にはこれを編みて册子とせよなど勸むる友さへあり。されど誰かは、未熟にして早く地に墜ちたる果實を拾ひて客の爲めに饗宴の卓上に盛らんや。乃ち篤くこれを謝するのみなりき。この機にのぞみてわれは改めてかかる人人に乞はん。わが舊き詩歌は悉くこれを忘れたまへ。少しく言葉を弄ばんか、今日のものとても同じく然したまへ。然らば今この集を敢て世に問ふの故は如何。曰く米鹽に代へんとす。曰く春服を求めんとす。否、われは口籠ることなくして言ふべし。聽き給へ、われ今日人生の途なかばにして愛戀の小暗き森かげに到り、わが思ひは轉《うた》た落莫たり。わが胸は輞《おほわ》の下《もと》に碎かれたる薔薇《さうび》の如く呻く。心中の事、眼中の淚、意中の人。兒女の情われに極まりては偶成の詩歌乃ちまた多少あり。げに事に依りてわが身には切なくもあるかな、わがこの歌。然れども旣に世に問はん心なければ、わが息吹《いぶき》なるわが調べはいつしかに世の好尙と相去れるをいかにせん。われは古風なる笛をとり出でていま路のべに來り哀歌《かなしみうた》す。節古びて心をさなくただに笑止なるわが笛の音に慌しき行路の人いかで泣くべしやは。たとひわが目には水流るるとも、知らず、幾人《いくひと》かありて之に耳を假し、しばしそが步みを停《とど》むるやいかに。
+　嗟吁《ああ》、わが嗚咽は洩れて人の爲めに聞かれぬ。われは情癡《じやうち》の徒と呼ばるるとも今はた是非なし。
+　　大正十年四月十三日
+　　　　　　　　　　　　　　　　　　　　　佐藤春夫
+
+同心草
+　　　　　　　不結同心人
+　　　　　　　空結同心草
+　　　　　　　　　　薜濤
+
+　水邊月夜の歌
+
+せつなき戀《こひ》をするゆゑに
+月かげさむく身にぞ沁《し》む。
+もののあはれを知るゆゑに
+水のひかりぞなげかるる。
+身をうたかたとおもふとも
+うたかたならじわが思ひ。
+げにいやしかるわれながら
+うれひは淸《きよ》し、君ゆゑに。
+
+
+　或るとき人に與へて
+
+片《かた》こひの身にしあらねど
+わが得しはただこころ妻《づま》
+こころ妻こころにいだき
+いねがてのわが冬《ふゆ》の夜《よ》ぞ。
+うつつよりはかなしうつつ
+ゆめよりもおそろしき夢。
+こころ妻ひとにだかせて
+身《み》も靈《たま》もをののきふるひ
+冬の夜のわがひとり寢ぞ。
+
+　また或るとき人に與へて
+
+しんじつふかき戀《こひ》あらば
+わかれのこころな忘れそ、
+おつるなみだはただ祕《ひ》めよ、
+ほのかなるこそ吐息《といき》なれ、
+數《かず》ならぬ身といふなかれ、
+ひるはひるゆゑわするとも
+ねざめの夜半《よは》におもへかし。
+
+　海邊の戀
+
+こぼれ松葉をかきあつめ
+をとめのごとき君なりき。
+こぼれ松葉に火をはなち
+わらべのごときわれなりき。
+
+わらべとをとめよりそひぬ
+ただたまゆらの火をかこみ、
+うれしくふたり手をとりぬ
+かひなきことをただ夢み、
+
+入《い》り日《ひ》のなかに立つけぶり
+ありやなしやとただほのか、
+海べのこひのはかなさは
+こぼれ松葉の火なりけむ。
+
+　斷章
+
+さまよひくれば秋ぐさの
+一つのこりて咲きにけり、
+おもかげ見えてなつかしく
+手折《たを》ればくるし、花ちりぬ。
+
+　琴うた
+
+　　　　　　　吹く風に消息をだにつけばやと思
+　　　　　　　へどもよしなき野べに落ちもこそ
+　　　　　　　すれ　　　　　　　　梁塵祕抄
+
+かくまでふかき戀慕《れんぼ》とは
+わが身ながらに知らざりき、
+日をふるままにいやまさる
+みれんを何《なに》にかよはせむ。
+
+空《そら》ふくかぜにつてばやと
+ふみ書きみれどかひなしや、
+むかしのうたをさながらに
+よしなき野べにおつるとぞ。
+
+　後の日に
+
+つれなかりせばなか〳〵に
+そらにわすれて過《す》ぎなまし、
+そもいくそたびしぼりけむ
+たもとせつなしかのたもと。
+
+せつなさわれにつもるとも
+沾《ひ》ぢてはかわくものなれば
+昨日《きぞ》のたもとにこと問はむ
+ぬるるやいかになほけふも。
+
+　よきひとよ
+
+よきひとよ、はかなからずや
+うつくしきなれが乳ぶさも
+いとあまきそのくちびるも
+手をとりて泣けるちかひも
+わがけふのかかるなげきも
+うつり香《が》の明日《あす》はきえつつ
+めぐりあふ後《のち》さへ知らず
+よきひとよ、地上のものは
+切《せつ》なくもはかなからずや。
+
+　こころ通はざる日に
+
+こころを人にさらせども
+げにもとなげく人ぞなき、
+こころのいたで血を噴《ふ》けど
+あなやと叫ぶ人ぞなき。
+すまじきものは戀にして
+苦しきものぞこころなる、
+こころはいとし、すべもなし、
+手にはとられず目には見られず。
+
+　なみだ
+
+　　　　　　　埋火もきゆや泪の烹る音　芭蕉
+
+あるはのきばゆたつけぶり、
+あるは樋《ひ》をゆくたにのみづ、
+あるはわが目にわくなみだ。
+これをさだめとさとるゆゑ、
+ぜひなきものと知るらめど、
+とめてとまらぬものなれば、
+せつなやあはれほそぼそと、
+ひとすぢにこそながるらし。
+
+　感傷肖像
+
+摘《つ》めといふから
+ばらをつんでわたしたら、
+無心《むしん》でそれをめちやめちやに
+もぎくだいてゐる。
+それで、おこつたら
+おどろいた目を見ひらいて、
+そのこなごなの花びらを
+そつと私《わたし》の手にのせた。
+その目は淚ぐんで笑ひ
+その口は笑つて頰《ほ》は泣いてゐる。
+表情の戶まよひした
+このモナリザはまるで小娘《こむすめ》だ。
+
+　感傷風景
+
+あなたとわたしとは向ひあつて腰をかけ、
+あなたはまぶしげに西の方の山をのぞみ、
+わたしはうつとりと東の方の海をうかがひ、
+然しふたりはにこにこして同じ思ひを樂しむ。
+とありし日のとある家の明《あかる》いバルコン。
+何も知らない家の主人にはよき風景をほめ、
+ふたりはちらちらとお互《たがひ》の目のなかを樂しむ。
+戀人《こいびと》の目よそれはまあ何といふ美しい宇宙だらう。
+全くあなたのその目ほどの眺めも花もどこにあらう……
+おお、思ひ出すまい。ふたりは庭のコスモスより弱く、
+幸福は卓上につと消えた鳥かげよりも淡《あは》く儚《はかな》く、
+歎《なげ》きは永く心に建てられた。あの新築の山荘《さんさう》のやうに。
+
+
+　　　　　　　柔かきかかる日の光のなかに
+　　　　　　　いまひとたび、あはれ、いまひとたび
+　　　　　　　ほのかにも洩したまひね、
+　　　　　　　われを戀ふと。
+　　　　　　　　　　　　　北原白秋「斷章」二十五
+
+
+晝の月
+
+　　　　　　　舊作のうち記憶に殘れるもの三四。
+　　　　　　　別に「晝の月」及び讀み人知らぬ
+　　　　　　　古曲の一節を拾ひてここに採録す。
+　　　　　　　舊作は慨ね數年前わが二十二三歲
+　　　　　　　ごろの作なり。
+
+　ためいき
+
+　　　　一
+紀《き》の國《くに》の五月《ごぐわつ》なかばは
+椎《しひ》の木《き》のくらき下かげ
+うす濁るながれのほとり
+野うばらの花のひとむれ
+人知れず白くさくなり、
+佇《たたず》みてものおもふ目に
+小さなるなみだもろげの
+素直《すなほ》なる花をし見れば
+戀人《こひびと》のためいきを聞くここちするかな。
+
+　　　　二
+柳の芽はやはらかく吐息《といき》して
+丈《たけ》高《たか》くわかい梧桐《ごどう》はうれひたり
+杉は暗くして消しがたき憂愁《いうしゆう》を祕《ひ》め
+椿《つばき》の葉《は》日の光にはげしくすすりなく……
+
+　　　　三
+ふといづこよりともなく君が聲す。
+百合《ゆり》の花《はな》の匂ひのごとく君が聲す。
+
+　　　　四
+なげきつつ黄昏《たそがれ》の山をのぼりき。
+なげきつつ山に立ちにき。
+なげきつつ山をくだりき。
+
+　　　　五
+蜜柑《みかん》ばたけに來て見れば
+か弱き枝の夏蜜柑
+たのしげに
+大《おほい》なる實《み》をささへたり。
+われもささへん
+たへがたき重き愁《うれひ》を
+わが戀《こひ》の實《み》を。
+
+　　　　六
+ふるさとの柑子《かうじ》の山をあゆめども
+癒《い》えぬなげきは誰《た》がたまひけむ。
+
+　　　　七
+遠く離れてまた得難《えがた》き人を思ふ日にありて
+われは心《こゝろ》からなるまことの愛を學び得たり
+そは求むるところなき愛なり
+そは信《しん》ふかき少女《せうじよ》の願ふことなき日も
+聖母マリアの像《ざう》の前に指を組む心なり。
+
+　　　　八
+死なんといふにあらねども
+淚ながれてやみがたく
+ひとり出て佇《たたず》みぬ
+海の明けがた海の暮れがた
+――ただ靑くとほきあたりは
+たとふればふるき思ひ出
+波よする近きなぎさは
+けふの日のわれのこころぞ。
+
+　少年の日
+
+　　　　１
+野ゆき山ゆき海邊《うみべ》ゆき
+眞《ま》ひるの丘《をか》べ花を藉《し》き
+つぶら瞳《ひとみ》の君ゆゑに
+うれひは靑し空よりも。
+
+　　　　２
+影おほき林をたどり
+夢ふかきみ瞳《ひとみ》を戀ひ
+なやましき眞晝《まひる》の丘べ
+花を藉《し》き、あはれ若き日。
+
+　　　　３
+君が瞳はつぶらにて
+君が心は知りがたし。
+君をはなれて唯ひとり
+月夜の海に石を投ぐ。
+
+　　　　４
+君は夜《よ》な夜《よ》な毛糸｜編《あ》む
+銀《ぎん》の編み棒に編む糸は
+かぐろなる糸あかき糸
+そのラムプ敷き誰《た》がものぞ。
+
+　二つの小唄
+
+　　　　男のうたへる
+ひとりものかや二十日月《はつかづき》、海《うみ》の夜《よ》あけにのこりたる。
+
+　　　　女のうたへる
+かがみくもらすわがといき、夕《ゆふ》べは月《つき》の暈《かさ》となる。
+
+
+　　むかし、いかなる人のいか
+　　なるをりにやのこしたりけ
+　　む、かかる戀慕の祕曲ひと
+　　ふしあり。
+
+しんじつこひしきものならば、つまも子もある
+ものか、ともおぼすらめども、おもへども、わ
+りなさよえにしたたれず、切《せつ》なしやゆるさせた
+まへ、なわすれそ、互《かたみ》に、けふを。と、なけば
+ぜひもなしや、しんじつこひしきものゆゑに血
+をながしてもともおもへども、おもへども。あ
+きらめてさても得《え》わすれで、おもかげ。ゆめに
+見てゆめさめて、あなわが身、わが世、憂《う》き世《よ》。
+
+　晝の月
+
+野路《のぢ》の果《はて》、遠樹《ゑんじゆ》の上《うへ》、
+空《そら》澄《す》みて晝の月かかる。
+
+あざやかに且《か》つは仄《ほの》か
+消《け》ぬがに、しかも嚴《おごそ》か。
+
+見かへればわが心の靑空《あをぞら》、
+おお、初戀《はつこひ》の記憶かかる。
+
+
+心の廢墟
+
+
+　　　　……………………
+　　　　さるを今君ここにおはさず、
+　　　　われは今空しくも
+　　　　遠き君がこころに語を寄するのみ、
+　　　　われにはや歌つくる力はあらず、
+　　　　われわが爲めに口ずさめども
+　　　　君の聞き給はぬ歌を如何でわれつくるを得んや！
+　　　　……………………
+　　　　　　　ルネ・ヂオルジヤン「水邊悲歌」
+　　　　　　　堀口大學譯
+
+
+　心の廢墟
+
+　　　　　　　　　その戀人の中にはこれを慰むるも
+　　　　　　　　　のひとりだに無くその朋はこれに
+　　　　　　　　　背きて仇となれり　耶利米亞哀歌
+
+「主《しゆ》よ、わが心《こころ》の爲《た》めに
+さまよへるシオンの娘《むすめ》を
+遣《つかは》しめよ。
+
+「さまよへるシオンの娘《むすめ》よ、
+わが心《こころ》に來《きた》れ、
+來《きた》りわが心《こころ》の礎《いしずゑ》に坐《ざ》して哭《な》け。
+
+「來《きた》り見《み》よ、シオンの娘《むすめ》、
+わが心《こころ》は荒果《あれは》てて
+汝《な》がふるさとの都《みやこ》のごとし。
+
+「來《きた》り哭《な》け、シオンの娘《むすめ》、
+わが心《こころ》の廢墟《はいきよ》はいま
+かがやけるみ空《そら》の月《つき》かげに濕《うるほ》ふ。」
+
+かく歌《うた》へるわが歌《うた》により
+シオンの娘《むすめ》ひとり來《きた》り
+しばしわが心《こころ》に坐《ざ》して哭《な》きぬ。
+
+坐《ざ》して哭《な》けるシオンの娘《むすめ》は
+されど、現世《うつしよ》のものには非《あら》ず、
+これはこれ影《かげ》の影《かげ》にして。
+
+影《かげ》は影《かげ》なる聲《こゑ》によりて哭《な》く、
+わが心《こころ》の廢墟《はいきよ》より
+いや深《ふか》き寂寞《せきばく》を搖起《ゆりおこ》して哭《な》く。
+
+　斷片
+
+われら土《つち》より出《い》でたれば土《つち》にかへる
+われら裸《はだか》にて生《うま》れたれば裸《はだか》にて生《い》く。
+げにもよ――
+われらひとりにて產《うま》れたればひとりにて生《い》く。
+ひとりにて生《い》きて、さてひとりにて死《し》にゆく……
+
+　わが溜息
+
+　　　　　　　　　夜もすがら日もすがらわが長息《なげ》け
+　　　　　　　　　どもそも誰がためと問ふ人もなし
+
+わが靈《たましひ》は陰府《よみ》にくだる細《ほそ》き徑《みち》にして
+わが溜息《ためいき》は陰府《よみ》より洩《も》るる風《かぜ》なれば
+とほくかすかに通《かよ》ひ來《きた》りてわが唇《くちびる》の上《うへ》に消《き》ゆ。
+われはわれひとりしてわが溜息《ためいき》をもらし
+その一息《ひといき》ごとに陰府《よみ》の近《ちか》さを測《はか》り知《し》る。
+人《ひと》あり、これを感《かん》じこれを聞《き》くとも
+わが溜息《ためいき》をおもひやらずわが爲《た》めに泣《な》かず
+ただ身《み》ぶるひしてひたすらにこれを惡《にく》み怖《おそ》る。
+げにそは屍《しかばね》のにほひを帶《お》びて暗《くら》く冷《つめた》く
+光《ひかり》達《たつ》しがたき底《そこ》よりもるる風《かぜ》なれば。
+
+　メフィストフェレス登場
+
+海《うみ》につづける城《しろ》の櫓《やぐら》。
+夜《よる》。
+波《なみ》の音《おと》きこゆ。
+思《おも》ひ沈《しず》める騎士《きし》ひとり。
+この時《とき》、メフィストフェレス登場。
+　「今晩《こんばん》は！
+　大そう陰氣《いんき》なお顏《かほ》をして
+　お淋《さび》しさうだ。
+　ちよつとお話《はなし》相手《あいて》をさせてください。
+　さて、一本氣《いつぽんぎ》な殿樣《とのさま》！
+　物語風《ものがたりふう》の騎士《きし》！
+　君《きみ》は近《ちか》ごろ立派《りつぱ》なお城《しろ》を建《た》てましたね、
+　噂《うはさ》を聞《き》いて參上《さんじやう》して見たが、
+　見事《みごと》！　見事《みごと》！
+　それに思《おも》ひ出《で》といふ貴女《きぢよ》の
+　靑《あを》ざめた亡靈《ぼうれい》によく奉仕《ほうし》して御座《ござ》る。
+　感心《かんしん》！　感心《かんしん》！
+　ところで殿樣《とのさま》。
+　お城《しろ》は飛《と》んだところへ建《た》てましたなあ。
+　足場《あしば》は大丈夫《だいぢやうぶ》ですかい。
+　一《いつ》たい私《わたし》はその道《みち》のくろうと［＃「くろうと」に傍点］だが――
+　ちよつと御覽《ごらん》。
+　さて智惠《ちゑ》のない地盤《ぢばん》さね、
+　まるでこれや女《をんな》ごころの沙濱《すなはま》だ。
+　そうれ！　風《かぜ》が吹《ふ》けば沙丘《さきう》
+　波《なみ》が荒《あ》れれば洲《す》……」
+メフィスト雙手《もろて》をひろげて風《かぜ》と波《なみ》との身《み》ぶりよろしく闊步《くわつぽ》す。
+　「……どうです。
+　僕《ぼく》がかうちよつと步《ある》いただけでも、
+　何《なん》と！　少々《せうせう》は搖《ゆ》れませう。
+　これや一《いつ》そう中空《なかぞら》へ建《た》てた方《はう》がましだつた。
+　なるほどお城《しろ》は立派《りつぱ》さね、
+　今さら立退《たちの》くのは惜《を》しいやうだ。
+　だが惡《わる》い事《こと》は言《い》はない、
+　もういいかげんに立退《たちの》いては！
+　それとも殿樣《とのさま》！
+　お城《しろ》の崩《くづ》れる日《ひ》を待《ま》つて
+　幽靈《いうれい》と心中《しんぢゆう》なさるお心掛《こころが》けですかい。
+　それもよからう、御隨意《ごずゐい》だ。
+　私《わたし》は他人《たにん》の意志《いし》は尊重《そんちよう》しますからね。
+　おや、おや！
+　これやお氣《き》に觸《さは》つたかな。
+　それではせいぜいおひとりでお泣《な》きなさい。
+　たまにはしんみりひとりを知《し》るのも身《み》の爲《た》めです。
+　さやうなら。
+　陰氣《いんき》なところに長居《ながゐ》は無用《むよう》だ。
+　どうれ、ちよつと寄《よ》り道《みち》をして
+　あのしやれ［＃「しやれ」に傍点］た一組《ひとくみ》を見《み》て來《こ》ようか、
+　奴等《やつら》は全《まつた》くしやれ［＃「しやれ」に傍点］て居《ゐ》るよ――
+　泣《な》きながら唇《くちびる》を吸《す》ひ合《あ》つて靈《たましひ》とやらの傷《きず》を甜《なめ》あつてゐるのだからな……」
+突然《とつぜん》、騎士《きし》は立上《たちあが》り、長劍《ちやうけん》を拔《ぬ》きてメフィストを刺《さ》さんとす。
+この時《とき》櫓《やぐら》はおもむろに少《すこ》しづつ傾《かたむ》く事《こと》。
+騎士《きし》は聲《こゑ》を上《あ》げて呻《うめ》く。
+見《み》えざるところよりメフィストの哄笑《こうせう》聞《きこ》ゆ。
+騎士《きし》はよろめき倒《たふ》れんとして僅《わづか》に劍《けん》によりて身《み》を支《ささ》ふ。
+
+　夜深くして歌へる
+　　　　わが歎きの歌
+　　　　　　　　　燈暗無人說斷腸　陸放翁
+
+……わが歎《なげ》きは終《つひ》にわがものなれば
+人《ひと》、これをかへり見《み》ず。
+又《また》かへり見《み》ることを我《われ》は許《ゆる》さず、
+ヨブの友《とも》よ來《きた》りてヨブを慰《なぐさ》めざれ。
+わが歎《なげ》きよ、おおわがものよ、
+われは限《かぎ》りなくなんぢを愛《あい》す、
+彼等《かれら》が妻《つま》になすがごとく
+また彼《か》の女《ぢよ》らが幼子《をさなご》になすがごとく。
+わが歎《なげ》きよ、ただ一《ひと》つなるわがものよ、
+われは、妻《つま》なく幼子《をさなご》なきわれは
+夜《よ》もすがら强《つよ》くなんぢをかき抱《いだ》きて
+なんぢがうへにわが淚《なみだ》を盡《つく》す。
+おおわが歎《なげ》きよ、わがひとり子《ご》よ
+なんぢが母《はは》はわが戀《こひ》にして
+なんぢが母《はは》はなんぢが遺《のこ》して早《はや》く去《さ》りぬ。
+なんぢよ、なんぢは面《おも》かげ母《はは》に似《に》てかなし、
+わが歎《なげ》きよ。なんぢ生《お》ひ育《そだ》て。
+永《なが》く生《い》きよ。息《いき》絕《た》ゆること勿《なか》れ。
+われをして永《なが》く具《つぶさ》になんぢを愛《あい》し
+なんぢに依《よ》りてなんぢの母《はは》が面《おも》かげを忍《しの》ばしめよ。
+われは今《いま》、母《はは》なきなんぢをかく强《つよ》く抱《いだ》く。
+夜《よる》ふかし、見《み》ずやわが子《こ》、
+なんぢが母《はは》の亡靈《ばうれい》は今宵《こよひ》もまた來《きた》りて
+われとなんぢとの傍《かたはら》にやさしくも添寢《そひね》したり……
+
+　聖地パレスチナ
+
+聖地《せいち》パレスチナは何時《いつ》までも聖地《せいち》なり。
+たとひ異端《いたん》の寺《てら》立《た》ち並《なら》び、異端《いたん》の都《みやこ》となり
+異端《いたん》の弓櫓《ゆみやぐら》の上《うへ》に異端《いたん》の星《ほし》集《つど》ひ輝《かがや》き
+パレスチナの水《みづ》は異端《いたん》の噴井《ふんせい》よりふき溢《あふ》れ
+異端《いたん》の徒《と》は異端《いたん》の怪《あや》しき花《はな》を蒔《ま》き
+パレスチナの土《つち》は異端《いたん》の種《たね》を培《つちか》ひて
+荊《とげ》ある異端《いたん》の花《はな》を花《はな》ざかりにするとも、
+歎《なげ》く勿《なか》れ、そのかみの聖地《せいち》、今日《けふ》の聖地《せいち》、後《のち》の日《ひ》の聖地《せいち》、
+一《ひと》たびまことの聖地《せいち》なりしパレスチナ
+吾《わ》がパレスチナぞ何時《いつ》までも吾《わ》が聖地《せいち》なる。
+
+殉情詩集　畢
+
+
+Transcriber's Notes
+
+本テキストは昭和五十四年筑摩書房刊「近代日本文学26　佐藤春夫集」を底本にした。
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Junjo Shishu, by Haruo Sato
+
+*** END OF THIS PROJECT GUTENBERG EBOOK JUNJO SHISHU ***
+
+***** This file should be named 38697-0.txt or 38697-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/8/6/9/38697/
+
+Produced by Sachiko Hill and Kaoru Tanaka
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

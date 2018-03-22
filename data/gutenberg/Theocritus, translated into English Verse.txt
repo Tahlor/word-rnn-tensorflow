@@ -1,0 +1,4628 @@
+e Project Gutenberg EBook of Theocritus, by Theocritus
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Theocritus
+
+Author: Theocritus
+
+Release Date: March 10, 2004 [EBook #11533]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THEOCRITUS ***
+
+
+
+
+Produced by Ted Garvin, Garrett Alley and PG Distributed Proofreaders
+
+
+
+
+
+
+
+
+
+THEOCRITUS
+
+_TRANSLATED INTO ENGLISH VERSE_.
+
+BY
+
+C.S. CALVERLEY,
+
+_LATE FELLOW OF CHRIST'S COLLEGE, CAMBRIDGE_.
+
+AUTHOR OF "FLY LEAVES," ETC.
+
+THIRD EDITION.
+
+
+
+
+PREFACE.
+
+I had intended translating all or nearly all these Idylls into blank
+verse, as the natural equivalent of Greek or of Latin hexameters; only
+deviating into rhyme where occasion seemed to demand it. But I found
+that other metres had their special advantages: the fourteen-syllable
+line in particular has that, among others, of containing about the same
+number of syllables as an ordinary line of Theocritus. And there is also
+no doubt something gained by variety.
+
+Several recent writers on the subject have laid down that every
+translation of Greek poetry, especially bucolic poetry, must be in rhyme
+of some sort. But they have seldom stated, and it is hard to see, why.
+There is no rhyme in the original, and _prima facie_ should be none in
+the translation. Professor Blackie has, it is true, pointed out the
+"assonances, alliterations, and rhymes," which are found in more or less
+abundance in Ionic Greek.[A] These may of course be purely accidental,
+like the hexameters in Livy or the blank-verse lines in Mr. Dickens's
+prose: but accidental or not (it may be said) they are there, and ought
+to be recognised. May we not then recognise them by introducing similar
+assonances, etc., here and there into the English version? or by
+availing ourselves of what Professor Blackie again calls attention to,
+the "compensating powers"[B] of English? I think with him that it was
+hard to speak of our language as one which "transforms _boos megaloio
+boeien_ into 'great ox's hide.'" Such phrases as 'The Lord is a man of
+war,' 'The trumpet spake not to the armed throng,' are to my ear quite
+as grand as Homer: and it would be equally fair to ask what we are to
+make of a language which transforms Milton's line into [Greek: e
+shalpigx ohy proshephe ton hoplismhenon hochlon.][C] But be this as it
+may, these phenomena are surely too rare and too arbitrary to be
+adequately represented by any regularly recurring rhyme: and the
+question remains, what is there in the unrhymed original to which rhyme
+answers?
+
+To me its effect is to divide the verse into couplets, triplets, or (if
+the word may include them all) _stanzas_ of some kind. Without rhyme we
+have no apparent means of conveying the effect of stanzas. There are of
+course devices such as repeating a line or part of a line at stated
+intervals, as is done in 'Tears, idle tears' and elsewhere: but clearly
+none of these would be available to a translator. Where therefore he has
+to express stanzas, it is easy to see that rhyme may be admissible and
+even necessary. Pope's couplet may (or may not) stand for elegiacs, and
+the _In Memoriam_ stanza for some one of Horace's metres. Where the
+heroes of Virgil's Eclogues sing alternately four lines each, Gray's
+quatrain seems to suggest itself: and where a similar case occurs in
+these Idylls (as for instance in the ninth) I thought it might be met by
+taking whatever received English stanza was nearest the required length.
+Pope's couplet again may possibly best convey the pomposity of some
+Idylls and the point of others. And there may be divers considerations
+of this kind. But, speaking generally, where the translator has not to
+intimate stanzas--where he has on the contrary to intimate that there
+are none--rhyme seems at first sight an intrusion and a _suggestio
+falsi_.
+
+No doubt (as has been observed) what 'Pastorals' we have are mostly
+written in what is called the heroic measure. But the reason is, I
+suppose, not far to seek. Dryden and Pope wrote 'heroics,' not from any
+sense of their fitness for bucolic poetry, but from a sense of their
+universal fitness: and their followers copied them. But probably no
+scholar would affirm that any poem, original or translated, by Pope or
+Dryden or any of their school, really resembles in any degree the
+bucolic poetry of the Greeks. Mr. Morris, whose poems appear to me to
+resemble it more almost than anything I have ever seen, of course writes
+what is technically Pope's metre, and equally of course is not of Pope's
+school. Whether or no Pope and Dryden _intended_ to resemble the old
+bucolic poets in style is, to say the least, immaterial. If they did
+not, there is no reason whatever why any of us who do should adopt
+their metre: if they did and failed, there is every reason why we should
+select a different one.
+
+Professor Conington has adduced one cogent argument against blank verse:
+that is, that hardly any of us can write it.[D] But if this is so--if
+the 'blank verse' which we write is virtually prose in disguise--the
+addition of rhyme would only make it rhymed prose, and we should be as
+far as ever from "verse really deserving the name."[E] Unless (which I
+can hardly imagine) the mere incident of 'terminal consonance' can
+constitute that verse which would not be verse independently, this
+argument is equally good against attempting verse of any kind: we should
+still be writing disguised, and had better write undisguised, prose.
+Prose translations are of course tenable, and are (I am told) advocated
+by another very eminent critic. These considerations against them occur
+to one: that, among the characteristics of his original which the
+translator is bound to preserve, one is that he wrote metrically; and
+that the prattle which passes muster, and sounds perhaps rather pretty
+than otherwise, in metre, would in plain prose be insufferable. Very
+likely some exceptional sort of prose may be meant, which would dispose
+of all such difficulties: but this would be harder for an ordinary
+writer to evolve out of his own brain, than to construct any species of
+verse for which he has at least a model and a precedent.
+
+These remarks are made to shew that my metres were not selected, as it
+might appear, at hap-hazard. Metre is not so unimportant as to justify
+that. For the rest, I have used Briggs's edition[F] (_Poetae Bucolici
+Graeci_), and have never, that I am aware of, taken refuge in any various
+reading where I could make any sense at all of the text as given by him.
+Sometimes I have been content to put down what I felt was a wrong
+rendering rather than omit; but only in cases where the original was
+plainly corrupt, and all suggested emendations seemed to me hopelessly
+wide of the mark. What, for instance, may be the true meaning of
+[Greek: bolbhost tist kochlhiast] in the fourteenth Idyll I have no
+idea. It is not very important. And no doubt the sense of the last two
+lines of the "_Death of Adonis_" is very unlikely to be what I have made
+it. But no suggestion that I met with seemed to me satisfactory or even
+plausible: and in this and a few similar cases I have put down what
+suited the context. Occasionally also, as in the Idyll here printed
+last--the one lately discovered by Bergk, which I elucidated by the
+light of Fritzsche's conjectures--I have availed myself of an opinion
+which Professor Conington somewhere expresses, to the effect that, where
+two interpretations are tenable, it is lawful to accept for the purposes
+of translation the one you might reject as a commentator. [Greek:
+tetootaiost] has I dare say nothing whatever to do with 'quartan fever.'
+
+On one point, rather a minor one, I have ventured to dissent from
+Professor Blackie and others: namely, in retaining the Greek, instead of
+adopting the Roman, nomenclature. Professor Blackie says[G] that there
+are some men by whom "it is esteemed a grave offence to call Jupiter
+Jupiter," which begs the question: and that Jove "is much more musical"
+than Zeus, which begs another. Granting (what might be questioned) that
+_Zeus, Aphrodite_, and _Eros_ are as absolutely the same individuals
+with _Jupiter, Venus_, and _Cupid_ as _Odysseus_ undoubtedly is with
+_Ulysses_--still I cannot see why, in making a version of (say)
+Theocritus, one should not use by way of preference those names by which
+he invariably called them, and which are characteristic of him: why, in
+turning a Greek author into English, we should begin by turning all the
+proper names into Latin. Professor Blackie's authoritative statement[H]
+that "there are whole idylls in Theocritus which would sound ridiculous
+in any other language than that of Tam o' Shanter" I accept of course
+unhesitatingly, and should like to see it acted upon by himself or any
+competent person. But a translator is bound to interpret all as best he
+may: and an attempt to write Tam o' Shanter's language by one who was
+not Tam o' Shanter's countryman would, I fear, result in something more
+ridiculous still.
+
+C.S.C.
+
+*** For Cometas, in Idyll V., read _Comatas_.
+
+
+FOOTNOTES:
+
+[Footnote A: BLACKIE'S _Homer_, Vol. I., pp. 413, 414.]
+
+[Footnote B: _Ibid_., page 377, etc.]
+
+[Footnote C: Professor Kingsley.]
+
+[Footnote D: Preface to CONINGTON'S _AEneid_, page ix.]
+
+[Footnote E: _Ibid_.]
+
+[Footnote F: Since writing the above lines I have had the advantage of
+seeing Mr. Paley's _Theocritus_, which was not out when I made my
+version.]
+
+[Footnote G: BLACKIE'S _Homer_, Preface, pp. xii., xiii.]
+
+[Footnote H: BLACKIE'S _Homer_, Vol. I., page 384.]
+
+
+
+
+CONTENTS.
+
+  IDYLL I.
+  THE DEATH OF DAPHNIS
+
+  IDYLL II.
+  THE SORCERESS
+
+  IDYLL III.
+  THE SERENADE
+
+  IDYLL IV.
+  THE HERDSMAN
+
+  IDYLL V.
+  THE BATTLE OF THE BARDS
+
+  IDYLL VI.
+  THE DRAWN BATTLE
+
+  IDYLL VII.
+  HARVEST-HOME
+
+  IDYLL VIII.
+  THE TRIUMPH OF DAPHNIS
+
+  IDYLL IX.
+  PASTORALS
+
+  IDYLL X.
+  THE TWO WORKMEN
+
+  IDYLL XI.
+  THE GIANT'S WOOING
+
+  IDYLL XII.
+  THE COMRADES
+
+  IDYLL XIII.
+  HYLAS
+
+  IDYLL XIV.
+  THE LOVE OF AESCHINES
+
+  IDYLL XV.
+  THE FESTIVAL OF ADONIS
+
+  IDYLL XVI.
+  THE VALUE OF SONG
+
+  IDYLL XVII.
+  THE PRAISE OF PTOLEMY
+
+  IDYLL XVIII.
+  THE BRIDAL OF HELEN
+
+  IDYLL XIX.
+  LOVE STEALING HONEY
+
+  IDYLL XX.
+  TOWN AND COUNTRY
+
+  IDYLL XXI.
+  THE FISHERMEN
+
+  IDYLL XXII.
+  THE SONS OF LEDA
+
+  IDYLL XXIII.
+  LOVE AVENGED
+
+  IDYLL XXIV.
+  THE INFANT HERACLES
+
+  IDYLL XXV.
+  HERACLES THE LION SLAYER
+
+  IDYLL XXVI.
+  THE BACCHANALS
+
+  IDYLL XXVII.
+  A COUNTRYMAN'S WOOING
+
+  IDYLL XXVIII.
+  THE DISTAFF
+
+  IDYLL XXIX.
+  LOVES
+
+  IDYLL XXX.
+  THE DEATH OF ADONIS
+
+  IDYLL XXXI.
+  LOVES
+
+  FRAGMENT FROM THE "BERENICE"
+
+  EPIGRAMS AND EPITAPHS:--
+
+    I.--VI.
+    VII.--FOR A STATUE OF AESCULAPIUS
+    VIII.--ORTHO'S EPITAPH
+    IX.--EPITAPH OF CLEONICUS
+    X.--FOR A STATUE OF THE MUSES
+    XI.--EPITAPH OF EUSTHENES
+    XII.--FOR A TRIPOD ERECTED BY DAMOTELES TO BACCHUS
+    XIII.--FOR A STATUE OF ANACREON
+    XIV.--EPITAPH OF EURYMEDON
+    XV.--ANOTHER
+    XVI.--FOR A STATUE OF THE HEAVENLY APHRODITE
+    XVII.--To EPICHARMUS
+    XVIII.--EPITAPH OF CLEITA, NURSE OF MEDEIUS
+    XIX.--TO ARCHILOCHUS
+    XX.--UNDER A STATUE OF PEISANDER
+    XXI.--EPITAPH OF HIPPONAX
+    XXII.--ON HIS OWN BOOK
+
+
+
+
+IDYLL I.
+
+
+The Death of Daphnis.
+
+_THYRSIS. A GOATHERD._
+
+    THYRSIS.
+    Sweet are the whispers of yon pine that makes
+    Low music o'er the spring, and, Goatherd, sweet
+    Thy piping; second thou to Pan alone.
+    Is his the horned ram? then thine the goat.
+    Is his the goat? to thee shall fall the kid;
+    And toothsome is the flesh of unmilked kids.
+
+    GOATHERD.
+    Shepherd, thy lay is as the noise of streams
+    Falling and falling aye from yon tall crag.
+    If for their meed the Muses claim the ewe,
+    Be thine the stall-fed lamb; or if they choose
+    The lamb, take thou the scarce less-valued ewe.
+
+    THYRSIS.
+    Pray, by the Nymphs, pray, Goatherd, seat thee here
+    Against this hill-slope in the tamarisk shade,
+    And pipe me somewhat, while I guard thy goats.
+
+    GOATHERD.
+    I durst not, Shepherd, O I durst not pipe
+    At noontide; fearing Pan, who at that hour
+    Rests from the toils of hunting. Harsh is he;
+    Wrath at his nostrils aye sits sentinel.
+    But, Thyrsis, thou canst sing of Daphnis' woes;
+    High is thy name for woodland minstrelsy:
+    Then rest we in the shadow of the elm
+    Fronting Priapus and the Fountain-nymphs.
+    There, where the oaks are and the Shepherd's seat,
+    Sing as thou sang'st erewhile, when matched with him
+    Of Libya, Chromis; and I'll give thee, first,
+    To milk, ay thrice, a goat--she suckles twins,
+    Yet ne'ertheless can fill two milkpails full;--
+    Next, a deep drinking-cup, with sweet wax scoured,
+    Two-handled, newly-carven, smacking yet
+    0' the chisel. Ivy reaches up and climbs
+    About its lip, gilt here and there with sprays
+    Of woodbine, that enwreathed about it flaunts
+    Her saffron fruitage. Framed therein appears
+    A damsel ('tis a miracle of art)
+    In robe and snood: and suitors at her side
+    With locks fair-flowing, on her right and left,
+    Battle with words, that fail to reach her heart.
+    She, laughing, glances now on this, flings now
+    Her chance regards on that: they, all for love
+    Wearied and eye-swoln, find their labour lost.
+    Carven elsewhere an ancient fisher stands
+    On the rough rocks: thereto the old man with pains
+    Drags his great casting-net, as one that toils
+    Full stoutly: every fibre of his frame
+    Seems fishing; so about the gray-beard's neck
+    (In might a youngster yet) the sinews swell.
+    Hard by that wave-beat sire a vineyard bends
+    Beneath its graceful load of burnished grapes;
+    A boy sits on the rude fence watching them.
+    Near him two foxes: down the rows of grapes
+    One ranging steals the ripest; one assails
+    With wiles the poor lad's scrip, to leave him soon
+    Stranded and supperless. He plaits meanwhile
+    With ears of corn a right fine cricket-trap,
+    And fits it on a rush: for vines, for scrip,
+    Little he cares, enamoured of his toy.
+      The cup is hung all round with lissom briar,
+    Triumph of AEolian art, a wondrous sight.
+    It was a ferryman's of Calydon:
+    A goat it cost me, and a great white cheese.
+    Ne'er yet my lips came near it, virgin still
+    It stands. And welcome to such boon art thou,
+    If for my sake thou'lt sing that lay of lays.
+    I jest not: up, lad, sing: no songs thou'lt own
+    In the dim land where all things are forgot.
+
+    THYSIS [_sings_].
+      _Begin, sweet Maids, begin the woodland song_.
+    The voice of Thyrsis. AEtna's Thyrsis I.
+    Where were ye, Nymphs, oh where, while Daphnis pined?
+    In fair Peneus' or in Pindus' glens?
+    For great Anapus' stream was not your haunt,
+    Nor AEtna's cliff, nor Acis' sacred rill.
+      _Begin, sweet Maids, begin the woodland song_.
+    O'er him the wolves, the jackals howled o'er him;
+    The lion in the oak-copse mourned his death.
+      _Begin, sweet Maids, begin the woodland song_.
+    The kine and oxen stood around his feet,
+    The heifers and the calves wailed all for him.
+      _Begin, sweet Maids, begin the woodland song_.
+    First from the mountain Hermes came, and said,
+    "Daphnis, who frets thee? Lad, whom lov'st thou so?"
+      _Begin, sweet Maids, begin the woodland song_.
+    Came herdsmen, shepherds came, and goatherds came;
+    All asked what ailed the lad. Priapus came
+    And said, "Why pine, poor Daphnis? while the maid
+    Foots it round every pool and every grove,
+    (_Begin, sweet Maids, begin the woodland song_)
+    "O lack-love and perverse, in quest of thee;
+    Herdsman in name, but goatherd rightlier called.
+    With eyes that yearn the goatherd marks his kids
+    Run riot, for he fain would frisk as they:
+      (_Begin, sweet Maids, begin the woodland song_):
+    "With eyes that yearn dost thou too mark the laugh
+    Of maidens, for thou may'st not share their glee."
+    Still naught the herdsman said: he drained alone
+    His bitter portion, till the fatal end.
+      _Begin, sweet Maids, begin the woodland song_.
+    Came Aphrodite, smiles on her sweet face,
+    False smiles, for heavy was her heart, and spake:
+    "So, Daphnis, thou must try a fall with Love!
+    But stalwart Love hath won the fall of thee."
+      _Begin, sweet Maids, begin the woodland song_.
+    Then "Ruthless Aphrodite," Daphnis said,
+    "Accursed Aphrodite, foe to man!
+    Say'st thou mine hour is come, my sun hath set?
+    Dead as alive, shall Daphnis work Love woe."
+      _Begin, sweet Maids, begin the woodland song_.
+    "Fly to Mount Ida, where the swain (men say)
+    And Aphrodite--to Anchises fly:
+    There are oak-forests; here but galingale,
+    And bees that make a music round the hives.
+      _Begin, sweet Maids, begin the woodland song_.
+    "Adonis owed his bloom to tending flocks
+    And smiting hares, and bringing wild beasts down.
+      _Begin, sweet Maids, begin the woodland song_.
+    "Face once more Diomed: tell him 'I have slain
+    The herdsman Daphnis; now I challenge thee.'
+      _Begin, sweet Maids, begin the woodland song_.
+    "Farewell, wolf, jackal, mountain-prisoned bear!
+    Ye'll see no more by grove or glade or glen
+    Your herdsman Daphnis! Arethuse, farewell,
+    And the bright streams that pour down Thymbris' side.
+      _Begin, sweet Maids, begin the woodland song_.
+    "I am that Daphnis, who lead here my kine,
+    Bring here to drink my oxen and my calves.
+      _Begin, sweet Maids, begin the woodland song_.
+    "Pan, Pan, oh whether great Lyceum's crags
+    Thou haunt'st to-day, or mightier Maenalus,
+    Come to the Sicel isle! Abandon now
+    Rhium and Helice, and the mountain-cairn
+    (That e'en gods cherish) of Lycaon's son!
+      _Forget, sweet Maids, forget your woodland song_.
+    "Come, king of song, o'er this my pipe, compact
+    With wax and honey-breathing, arch thy lip:
+    For surely I am torn from life by Love.
+      _Forget, sweet Maids, forget your woodland song_.
+    "From thicket now and thorn let violets spring,
+    Now let white lilies drape the juniper,
+    And pines grow figs, and nature all go wrong:
+    For Daphnis dies. Let deer pursue the hounds,
+    And mountain-owls outsing the nightingale.
+      _Forget, sweet Maids, forget your woodland song_."
+
+    So spake he, and he never spake again.
+    Fain Aphrodite would have raised his head;
+    But all his thread was spun. So down the stream
+    Went Daphnis: closed the waters o'er a head
+    Dear to the Nine, of nymphs not unbeloved.
+      Now give me goat and cup; that I may milk
+    The one, and pour the other to the Muse.
+    Fare ye well, Muses, o'er and o'er farewell!
+    I'll sing strains lovelier yet in days to be.
+
+    GOATHERD.
+    Thyrsis, let honey and the honeycomb
+    Fill thy sweet mouth, and figs of AEgilus:
+    For ne'er cicala trilled so sweet a song.
+    Here is the cup: mark, friend, how sweet it smells:
+    The Hours, thou'lt say, have washed it in their well.
+    Hither, Cissaetha! Thou, go milk her! Kids,
+    Be steady, or your pranks will rouse the ram.
+
+
+
+
+IDYLL II.
+
+
+The Sorceress.
+
+    Where are the bay-leaves, Thestylis, and the charms?
+    Fetch all; with fiery wool the caldron crown;
+    Let glamour win me back my false lord's heart!
+    Twelve days the wretch hath not come nigh to me,
+    Nor made enquiry if I die or live,
+    Nor clamoured (oh unkindness!) at my door.
+    Sure his swift fancy wanders otherwhere,
+    The slave of Aphrodite and of Love.
+    I'll off to Timagetus' wrestling-school
+    At dawn, that I may see him and denounce
+    His doings; but I'll charm him now with charms.
+    So shine out fair, O moon! To thee I sing
+    My soft low song: to thee and Hecate
+    The dweller in the shades, at whose approach
+    E'en the dogs quake, as on she moves through blood
+    And darkness and the barrows of the slain.
+    All hail, dread Hecate: companion me
+    Unto the end, and work me witcheries
+    Potent as Circe or Medea wrought,
+    Or Perimede of the golden hair!
+      _Turn, magic wheel, draw homeward him I love_.
+    First we ignite the grain. Nay, pile it on:
+    Where are thy wits flown, timorous Thestylis?
+    Shall I be flouted, I, by such as thou?
+    Pile, and still say, 'This pile is of his bones.'
+      _Turn, magic wheel, draw homeward him I love_.
+    Delphis racks me: I burn him in these bays.
+    As, flame-enkindled, they lift up their voice,
+    Blaze once, and not a trace is left behind:
+    So waste his flesh to powder in yon fire!
+      _Turn, magic wheel, draw homeward him I love_.
+    E'en as I melt, not uninspired, the wax,
+    May Mindian Delphis melt this hour with love:
+    And, swiftly as this brazen wheel whirls round,
+    May Aphrodite whirl him to my door.
+      _Turn, magic wheel, draw homeward him I love_.
+    Next burn the husks. Hell's adamantine floor
+    And aught that else stands firm can Artemis move.
+    Thestylis, the hounds bay up and down the town:
+    The goddess stands i' the crossroads: sound the gongs.
+      _Turn, magic wheel, draw homeward him I love_.
+    Hushed are the voices of the winds and seas;
+    But O not hushed the voice of my despair.
+    He burns my being up, who left me here
+    No wife, no maiden, in my misery.
+      _Turn, magic wheel, draw homeward him I love_.
+    Thrice I pour out; speak thrice, sweet mistress, thus:
+    "What face soe'er hangs o'er him be forgot
+    Clean as, in Dia, Theseus (legends say)
+    Forgat his Ariadne's locks of love."
+      _Turn, magic, wheel, draw homeward him I love_.
+    The coltsfoot grows in Arcady, the weed
+    That drives the mountain-colts and swift mares wild.
+    Like them may Delphis rave: so, maniac-wise,
+    Race from his burnished brethren home to me.
+      _Turn, magic wheel, draw homeward him I love_.
+    He lost this tassel from his robe; which I
+    Shred thus, and cast it on the raging flames.
+    Ah baleful Love! why, like the marsh-born leech,
+    Cling to my flesh, and drain my dark veins dry?
+      _Turn, magic wheel, draw homeward him I love_.
+    From a crushed eft tomorrow he shall drink
+    Death! But now, Thestylis, take these herbs and smear
+    That threshold o'er, whereto at heart I cling
+    Still, still--albeit he thinks scorn of me--
+    And spit, and say, ''Tis Delphis' bones I smear.'
+      _Turn, magic wheel, draw homeward him I love_.
+
+                                            [_Exit Thestylis_.
+
+    Now, all alone, I'll weep a love whence sprung
+    When born? Who wrought my sorrow? Anaxo came,
+    Her basket in her hand, to Artemis' grove.
+    Bound for the festival, troops of forest beasts
+    Stood round, and in the midst a lioness.
+      _Bethink thee, mistress Moon, whence came my love_.
+    Theucharidas' slave, my Thracian nurse now dead
+    Then my near neighbour, prayed me and implored
+    To see the pageant: I, the poor doomed thing,
+    Went with her, trailing a fine silken train,
+    And gathering round me Clearista's robe.
+      _Bethink thee, mistress Moon, whence came my love_.
+    Now, the mid-highway reached by Lycon's farm,
+    Delphis and Eudamippus passed me by.
+    With beards as lustrous as the woodbine's gold
+    And breasts more sheeny than thyself, O Moon,
+    Fresh from the wrestler's glorious toil they came.
+      _Bethink thee, mistress Moon, whence came my love_.
+    I saw, I raved, smit (weakling) to my heart.
+    My beauty withered, and I cared no more
+    For all that pomp; and how I gained my home
+    I know not: some strange fever wasted me.
+    Ten nights and days I lay upon my bed.
+      _Bethink thee, mistress Moon, whence came my love_.
+    And wan became my flesh, as 't had been dyed,
+    And all my hair streamed off, and there was left
+    But bones and skin. Whose threshold crossed I not,
+    Or missed what grandam's hut who dealt in charms?
+    For no light thing was this, and time sped on.
+      _Bethink thee, mistress Moon, whence came my love_.
+    At last I spake the truth to that my maid:
+    "Seek, an thou canst, some cure for my sore pain.
+    Alas, I am all the Mindian's! But begone,
+    And watch by Timagetus' wrestling-school:
+    There doth he haunt, there soothly take his rest.
+      _Bethink thee, mistress Moon, whence came my love_.
+    "Find him alone: nod softly: say, 'she waits';
+    And bring him." So I spake: she went her way,
+    And brought the lustrous-limbed one to my roof.
+    And I, the instant I beheld him step
+    Lightfooted o'er the threshold of my door,
+      _(Bethink thee, mistress Moon, whence came my love_,)
+    Became all cold like snow, and from my brow
+    Brake the damp dewdrops: utterance I had none,
+    Not e'en such utterance as a babe may make
+    That babbles to its mother in its dreams;
+    But all my fair frame stiffened into wax.
+      _Bethink thee, mistress Moon, whence came my love_.
+    He bent his pitiless eyes on me; looked down,
+    And sate him on my couch, and sitting, said:
+    "Thou hast gained on me, Simaetha, (e'en as I
+    Gained once on young Philinus in the race,)
+    Bidding me hither ere I came unasked.
+      _Bethink thee, mistress Moon, whence came my love_.
+    "For I had come, by Eros I had come,
+    This night, with comrades twain or may-be more,
+    The fruitage of the Wine-god in my robe,
+    And, wound about my brow with ribands red,
+    The silver leaves so dear to Heracles.
+      _Bethink thee, mistress Moon, whence came my love_.
+    "Had ye said 'Enter,' well: for 'mid my peers
+    High is my name for goodliness and speed:
+    I had kissed that sweet mouth once and gone my way.
+    But had the door been barred, and I thrust out,
+    With brand and axe would we have stormed ye then.
+      _Bethink thee, mistress Moon, whence came my love_.
+    "Now be my thanks recorded, first to Love,
+    Next to thee, maiden, who didst pluck me out,
+    A half-burned helpless creature, from the flames,
+    And badst me hither. It is Love that lights
+    A fire more fierce than his of Lipara;
+      _(Bethink thee, mistress Moon, whence came my love_.)
+    "Scares, mischief-mad, the maiden from her bower,
+    The bride from her warm couch." He spake: and I,
+    A willing listener, sat, my hand in his,
+    Among the cushions, and his cheek touched mine,
+    Each hotter than its wont, and we discoursed
+    In soft low language. Need I prate to thee,
+    Sweet Moon, of all we said and all we did?
+    Till yesterday he found no fault with me,
+    Nor I with him. But lo, to-day there came
+    Philista's mother--hers who flutes to me--
+    With her Melampo's; just when up the sky
+    Gallop the mares that chariot rose-limbed Dawn:
+    And divers tales she brought me, with the rest
+    How Delphis loved, she knew not rightly whom:
+    But this she knew; that of the rich wine, aye
+    He poured 'to Love;' and at the last had fled,
+    To line, she deemed, the fair one's hall with flowers.
+    Such was my visitor's tale, and it was true:
+    For thrice, nay four times, daily he would stroll
+    Hither, leave here full oft his Dorian flask:
+    Now--'tis a fortnight since I saw his face.
+    Doth he then treasure something sweet elsewhere?
+    Am I forgot? I'll charm him now with charms.
+    But let him try me more, and by the Fates
+    He'll soon be knocking at the gates of hell.
+    Spells of such power are in this chest of mine,
+    Learned, lady, from mine host in Palestine.
+
+      Lady, farewell: turn ocean-ward thy steeds:
+    As I have purposed, so shall I fulfil.
+    Farewell, thou bright-faced Moon! Ye stars, farewell,
+    That wait upon the car of noiseless Night.
+
+
+
+
+IDYLL III.
+
+
+The Serenade.
+
+    I pipe to Amaryllis; while my goats,
+    Tityrus their guardian, browse along the fell.
+    O Tityrus, as I love thee, feed my goats:
+    And lead them to the spring, and, Tityrus, 'ware
+    The lifted crest of yon gray Libyan ram.
+      Ah winsome Amaryllis! Why no more
+    Greet'st thou thy darling, from the caverned rock
+    Peeping all coyly? Think'st thou scorn of him?
+    Hath a near view revealed him satyr-shaped
+    Of chin and nostril? I shall hang me soon.
+    See here ten apples: from thy favourite tree
+    I plucked them: I shall bring ten more anon.
+    Ah witness my heart-anguish! Oh were I
+    A booming bee, to waft me to thy lair,
+    Threading the fern and ivy in whose depths
+    Thou nestlest! I have learned what Love is now:
+    Fell god, he drank the lioness's milk,
+    In the wild woods his mother cradled him,
+    Whose fire slow-burns me, smiting to the bone.
+    O thou whose glance is beauty and whose heart
+    All marble: O dark-eyebrowed maiden mine!
+    Cling to thy goatherd, let him kiss thy lips,
+    For there is sweetness in an empty kiss.
+    Thou wilt not? Piecemeal I will rend the crown,
+    The ivy-crown which, dear, I guard for thee,
+    Inwov'n with scented parsley and with flowers:
+    Oh I am desperate--what betides me, what?--
+    Still art thou deaf? I'll doff my coat of skins
+    And leap into yon waves, where on the watch
+    For mackerel Olpis sits: tho' I 'scape death,
+    That I have all but died will pleasure thee.
+    That learned I when (I murmuring 'loves she me?')
+    The _Love-in-absence_, crushed, returned no sound,
+    But shrank and shrivelled on my smooth young wrist.
+    I learned it of the sieve-divining crone
+    Who gleaned behind the reapers yesterday:
+    'Thou'rt wrapt up all,' Agraia said, 'in her;
+    She makes of none account her worshipper.'
+      Lo! a white goat, and twins, I keep for thee:
+    Mermnon's lass covets them: dark she is of skin:
+    But yet hers be they; thou but foolest me.
+      She cometh, by the quivering of mine eye.
+    I'll lean against the pine-tree here and sing.
+    She may look round: she is not adamant.
+
+    [_Sings_] Hippomenes, when he a maid would wed,
+    Took apples in his hand and on he sped.
+    Famed Atalanta's heart was won by this;
+    She marked, and maddening sank in Love's abyss.
+
+      From Othrys did the seer Melampus stray
+    To Pylos with his herd: and lo there lay
+    In a swain's arms a maid of beauty rare;
+    Alphesiboea, wise of heart, she bare.
+
+      Did not Adonis rouse to such excess
+    Of frenzy her whose name is Loveliness,
+    (He a mere lad whose wethers grazed the hill)
+    That, dead, he's pillowed on her bosom still?
+
+      Endymion sleeps the sleep that changeth not:
+    And, maiden mine, I envy him his lot!
+    Envy Iasion's: his it was to gain
+    Bliss that I dare not breathe in ears profane.
+
+      My head aches. What reck'st thou? I sing no more:
+    E'en where I fell I'll lie, until the wolves
+    Rend me--may that be honey in thy mouth!
+
+
+
+
+IDYLL IV.
+
+
+The Herdsmen.
+
+_BATTUS. CORYDON._
+
+    BATTUS.
+    Who owns these cattle, Corydon? Philondas? Prythee say.
+
+    CORYDON.
+    No, AEgon: and he gave them me to tend while he's away.
+
+    BATTUS.
+    Dost milk them in the gloaming, when none is nigh to see?
+
+    CORYDON.
+    The old man brings the calves to suck, and keeps an eye on me.
+
+    BATTUS.
+    And to what region then hath flown the cattle's rightful lord?
+
+    CORYDON.
+    Hast thou not heard? With Milo he vanished Elis-ward.
+
+    BATTUS.
+    How! was the wrestler's oil e'er yet so much as seen by him?
+
+    CORYDON.
+    Men say he rivals Heracles in lustiness of limb.
+
+    BATTUS.
+    I'm Polydeuces' match (or so my mother says) and more.
+
+    CORYDON.
+    --So off he started; with a spade, and of these ewes a score.
+
+    BATTUS.
+    This Milo will be teaching wolves how they should raven next.
+
+    CORYDON.
+    --And by these bellowings his kine proclaim how sore they're vexed.
+
+    BATTUS.
+    Poor kine! they've found their master a sorry knave indeed.
+
+    CORYDON.
+    They're poor enough, I grant you: they have not heart to feed.
+
+    BATTUS.
+    Look at that heifer! sure there's naught, save bare bones, left of her.
+    Pray, does she browse on dewdrops, as doth the grasshopper?
+
+    CORYDON.
+    Not she, by heaven! She pastures now by AEsarus' glades,
+    And handfuls fair I pluck her there of young and green grass-blades;
+    Now bounds about Latymnus, that gathering-place of shades.
+
+    BATTUS.
+    That bull again, the red one, my word but he is lean!
+    I wish the Sybarite burghers aye may offer to the queen
+    Of heaven as pitiful a beast: those burghers are so mean!
+
+    CORYDON.
+    Yet to the Salt Lake's edges I drive him, I can swear;
+    Up Physcus, up Neaethus' side--he lacks not victual there,
+    With dittany and endive and foxglove for his fare.
+
+    BATTUS.
+    Well, well! I pity AEgon. His cattle, go they must
+    To rack and ruin, all because vain-glory was his lust.
+    The pipe that erst he fashioned is doubtless scored with rust?
+
+    CORYDON.
+    Nay, by the Nymphs! That pipe he left to me, the self-same day
+    He made for Pisa: I am too a minstrel in my way:
+    Well the flute-part in '_Pyrrhus_' and in '_Glauca_' can I play.
+    I sing too '_Here's to Croton_' and '_Zacynthus O 'tis fair_,'
+    And '_Eastward to Lacinium_:'--the bruiser Milo there
+    His single self ate eighty loaves; there also did he pull
+    Down from its mountain-dwelling, by one hoof grasped, a bull,
+    And gave it Amaryllis: the maidens screamed with fright;
+    As for the owner of the bull he only laughed outright.
+
+    BATTUS.
+    Sweet Amaryllis! thou alone, though dead, art unforgot.
+    Dearer than thou, whose light is quenched, my very goats are not.
+    Oh for the all-unkindly fate that's fallen to my lot!
+
+    CORYDON.
+    Cheer up, brave lad! tomorrow may ease thee of thy pain:
+    Aye for the living are there hopes, past' hoping are the slain:
+    And now Zeus sends us sunshine, and now he sends us rain.
+
+    BATTUS.
+    I'm better. Beat those young ones off! E'en now their teeth attack
+    That olive's shoots, the graceless brutes! Back, with your white face,
+        back!
+
+    CORYDON.
+    Back to thy hill, Cymaetha! Great Pan, how deaf thou art!
+    I shall be with thee presently, and in the end thou'lt smart.
+    I warn thee, keep thy distance. Look, up she creeps again!
+    Oh were my hare-crook in nay hand, I'd give it to her then!
+
+    BATTUS.
+    For heaven's sake, Corydon, look here! Just now a bramble-spike
+    Ran, there, into my instep--and oh how deep they strike,
+    Those lancewood-shafts! A murrain light on that calf, I say!
+    I got it gaping after her. Canst thou discern it, pray?
+
+    CORYDON.
+    Ay, ay; and here I have it, safe in my finger-nails.
+
+    BATTUS.
+    Eh! at how slight a matter how tall a warrior quails!
+
+    CORYDON.
+    Ne'er range the hill-crest, Battus, all sandal-less and bare:
+    Because the thistle and the thorn lift aye their plumed heads there.
+
+    BATTUS.
+    --Say, Corydon, does that old man we wot of (tell me please!)
+    Still haunt the dark-browed little girl whom once he used to tease?
+
+    CORYDON.
+    Ay my poor boy, that doth he: I saw them yesterday
+    Down by the byre; and, trust me, loving enough were they.
+
+    BATTUS.
+    Well done, my veteran light-o'-love! In deeming thee mere man,
+    I wronged thy sire: some Satyr he, or an uncouth-limbed Pan.
+
+
+
+
+IDYLL V.
+
+
+The Battle of the Bards.
+
+
+_COMETAS. LACON. MORSON_.
+
+
+    COMETAS.
+    Goats, from a shepherd who stands here, from Lacon, keep away:
+    Sibyrtas owns him; and he stole my goatskin yesterday.
+
+    LACON.
+    Hi! lambs! avoid yon fountain. Have ye not eyes to see
+    Cometas, him who filched a pipe but two days back from me?
+
+    COMETAS.
+    Sibyrtas' bondsman own a pipe? whence gotst thou that, and how?
+    Tootling through straws with Corydon mayhap's beneath thee now?
+
+    LACON.
+    'Twas Lycon's gift, your highness. But pray, Cometas, say,
+    What is that skin wherewith thou saidst that Lacon walked away?
+    Why, thy lord's self had ne'er a skin whereon his limbs to lay.
+
+    COMETAS.
+    The skin that Crocylus gave me, a dark one streaked with white,
+    The day he slew his she-goat. Why, thou wert ill with spite,
+    Then, my false friend; and thou would'st end by beggaring me quite.
+
+    LACON.
+    Did Lacon, did Calaethis' son purloin a goatskin? No,
+    By Pan that haunts the sea-beach! Lad, if I served thee so,
+    Crazed may I drop from yon hill-top to Crathis' stream below!
+
+    COMETAS.
+    Nor pipe of thine, good fellow--the Ladies of the Lake
+    So be still kind and good to me--did e'er Cometas take.
+
+    LACON.
+    Be Daphnis' woes my portion, should that my credence win!
+    Still, if thou list to stake a kid--that surely were no sin--
+    Come on, I'll sing it out with thee--until thou givest in.
+
+    COMETAS.
+    '_The hog he braved Athene._' As for the kid, 'tis there:
+    You stake a lamb against him--that fat one--if you dare.
+
+    LACON.
+    Fox! were that fair for either? At shearing who'd prefer
+    Horsehair to wool? or when the goat stood handy, suffer her
+    To nurse her firstling, and himself go milk a blatant cur?
+
+    COMETAS.
+    The same who deemed his hornet's-buzz the true cicala's note,
+    And braved--like you--his better. And so forsooth you vote
+    My kid a trifle? Then come on, fellow! I stake the goat.
+
+    LACON.
+    Why be so hot? Art thou on fire? First prythee take thy seat
+    'Neath this wild woodland olive: thy tones will sound more sweet.
+    Here falls a cold rill drop by drop, and green grass-blades uprear
+    Their heads, and fallen leaves are thick, and locusts prattle here.
+
+    COMETAS.
+    Hot I am not; but hurt I am, and sorely, when I think
+    That thou canst look me in the face and never bleach nor blink--
+    Me, thine own boyhood's tutor! Go, train the she-wolf's brood:
+    Train dogs--that they may rend thee! This, this is gratitude!
+
+    LACON.
+    When learned I from thy practice or thy preaching aught that's right,
+    Thou puppet, thou misshapen lump of ugliness and spite?
+
+    COMETAS.
+    When? When I beat thee, wailing sore: yon goats looked on with glee,
+    And bleated; and were dealt with e'en as I had dealt with thee.
+
+    LACON.
+    Well, hunchback, shallow be thy grave as was thy judgment then!
+    But hither, hither! Thou'lt not dip in herdsman's lore again.
+
+    COMETAS.
+    Nay, here are oaks and galingale: the hum of housing bees
+    Makes the place pleasant, and the birds are piping in the trees.
+    And here are two cold streamlets; here deeper shadows fall
+    Than yon place owns, and look what cones drop from the pinetree tall.
+
+    LACON.
+    Come hither, and tread on lambswool that is soft as any dream:
+    Still more unsavoury than thyself to me thy goatskins seem.
+    Here will I plant a bowl of milk, our ladies' grace to win;
+    And one, as huge, beside it, sweet olive-oil therein.
+
+    COMETAS.
+    Come hither, and trample dainty fern and poppy-blossom: sleep
+    On goatskins that are softer than thy fleeces piled three deep.
+    Here will I plant eight milkpails, great Pan's regard to gain,
+    Bound them eight cups: full honeycombs shall every cup contain.
+
+    LACON.
+    Well! there essay thy woodcraft: thence fight me, never budge
+    From thine own oak; e'en have thy way. But who shall be our judge?
+    Oh, if Lycopas with his kine should chance this way to trudge!
+
+    COMETAS.
+    Nay, I want no Lycopas. But hail yon woodsman, do:
+    'Tis Morson--see! his arms are full of bracken--there, by you.
+
+    LACON.
+    We'll hail him.
+
+    COMETAS.
+          Ay, you hail him.
+
+    LACON.
+            Friend, 'twill not take thee long:
+    We're striving which is master, we twain, in woodland song:
+    And thou, my good friend Morson, ne'er look with favouring eyes
+    On me; nor yet to yonder lad be fain to judge the prize.
+
+    COMETAS.
+    Nay, by the Nymphs, sweet Morson, ne'er for Cometas' sake
+    Stretch thou a point; nor e'er let him undue advantage take.
+    Sibyrtas owns yon wethers; a Thurian is he:
+    And here, my friend, Eumares' goats, of Sybaris, you may see.
+
+    LACON.
+    And who asked thee, thou naughty knave, to whom belonged these flocks,
+    Sibyrtas, or (it might be) me? Eh, thou'rt a chatter-box!
+
+    COMETAS.
+    The simple truth, most worshipful, is all that I allege:
+    I'm not for boasting. But thy wit hath all too keen an edge.
+
+    LACON.
+    Come sing, if singing's in thee--and may our friend get back
+    To town alive! Heaven help us, lad, how thy tongue doth clack!
+
+    COMETAS. [_Sings_]
+    Daphnis the mighty minstrel was less precious to the Nine
+    Than I. I offered yesterday two kids upon their shrine.
+
+    LACON. [_Sings_]
+    Ay, but Apollo fancies me hugely: for him I rear
+    A lordly ram: and, look you, the Carnival is near.
+
+    COMETAS.
+    Twin kids hath every goat I milk, save two. My maid, my own,
+    Eyes me and asks 'At milking time, rogue, art thou all alone?'
+
+    LACON.
+    Go to! nigh twenty baskets doth Lacon fill with cheese:
+    Hath time to woo a sweetheart too upon the blossomed leas.
+
+    COMETAS.
+    Clarissa pelts her goatherd with apples, should he stray
+    By with his goats; and pouts her lip in a quaint charming way.
+
+    LACON.
+    Me too a darling smooth of face notes as I tend my flocks:
+    How maddeningly o'er that fair neck ripple those shining locks!
+
+    COMETAS.
+    Tho' dogrose and anemone are fair in their degree,
+    The rose that blooms by garden-walls still is the rose for me.
+
+    LACON.
+    Tho' acorns' cups are fair, their taste is bitterness, and still
+    I'll choose, for honeysweet are they, the apples of the hill.
+
+    COMETAS.
+    A cushat I will presently procure and give to her
+    Who loves me: I know where it sits; up in the juniper.
+
+    LACON.
+    Pooh! a soft fleece, to make a coat, I'll give the day I shear
+    My brindled ewe--(no hand but mine shall touch it)--to my dear.
+
+    COMETAS.
+    Back, lambs, from that wild-olive: and be content to browse
+    Here on the shoulder of the hill, beneath the myrtle boughs.
+
+    LACON.
+    Run, (will ye?) Ball and Dogstar, down from that oak tree, run:
+    And feed where Spot is feeding, and catch the morning sun.
+
+    COMETAS.
+    I have a bowl of cypress-wood: I have besides a cup:
+    Praxiteles designed them: for _her_ they're treasured up.
+
+    LACON.
+    I have a dog who throttles wolves: he loves the sheep, and they
+    Love him: I'll give him to my dear, to keep wild beasts at bay.
+
+    COMETAS.
+    Ye locusts that o'erleap my fence, oh let my vines escape
+    Your clutches, I beseech you: the bloom is on the grape.
+
+    LACON.
+    Ye crickets, mark how nettled our friend the goatherd is!
+    I ween, ye cost the reapers pangs as acute as his.
+
+    COMETAS.
+    Those foxes with their bushy tails, I hate to see them crawl
+    Round Micon's homestead and purloin his grapes at evenfall.
+
+    LACON.
+    _I_ hate to see the beetles that come warping on the wind.
+    And climb Philondas' trees, and leave never a fig behind.
+
+    COMETAS.
+    Have you forgot that cudgelling I gave you? At each stroke
+    You grinned and twisted with a grace, and clung to yonder oak.
+
+    LACON.
+    That I've forgot--but I have not, how once Eumares tied
+    You to that selfsame oak-trunk, and tanned your unclean hide.
+
+    COMETAS.
+    There's some one ill--of heartburn. You note it, I presume,
+    Morson? Go quick, and fetch a squill from some old beldam's tomb.
+
+    LACON.
+    I think I'm stinging somebody, as Morson too perceives--
+    Go to the river and dig up a clump of sowbread-leaves.
+
+    COMETAS.
+    May Himera flow, not water, but milk: and may'st thou blush,
+    Crathis, with wine; and fruitage grow upon every rush.
+
+    LACON.
+    For me may Sybaris' fountain flow, pure honey: so that you,
+    My fair, may dip your pitcher each morn in honey-dew.
+
+    COMETAS.
+    My goats are fed on clover and goat's-delight: they tread
+    On lentisk leaves; or lie them down, ripe strawberries o'er their head.
+
+    LACON.
+    My sheep crop honeysuckle bloom, while all around them blows
+    In clusters rich the jasmine, as brave as any rose.
+
+    COMETAS.
+    I scorn my maid; for when she took my cushat, she did not
+    Draw with both hands my face to hers and kiss me on the spot.
+
+    LACON.
+    I love my love, and hugely: for, when I gave my flute,
+    I was rewarded with a kiss, a loving one to boot.
+
+    COMETAS.
+    Lacon, the nightingale should scarce be challenged by the jay,
+    Nor swan by hoopoe: but, poor boy, thou aye wert for a fray.
+
+    MORSON.
+    I bid the shepherd hold his peace. Cometas, unto you
+    I, Morson, do adjudge the lamb. You'll first make offering due
+    Unto the nymphs: then savoury meat you'll send to Morson too.
+
+    COMETAS.
+    By Pan I will! Snort, all my herd of he-goats: I shall now
+    O'er Lacon, shepherd as he is, crow ye shall soon see how.
+    I've won, and I could leap sky-high! Ye also dance and skip,
+    My horned ewes: in Sybaris' fount to-morrow all shall dip.
+    Ho! you, sir, with the glossy coat and dangerous crest; you dare
+    Look at a ewe, till I have slain my lamb, and ill you'll fare.
+    What! is he at his tricks again? He is, and he will get
+    (Or my name's not Cometas) a proper pounding yet.
+
+
+
+
+IDYLL VI.
+
+
+The Drawn Battle.
+
+DAPHNIS. DAMOETAS.
+
+    Daphnis the herdsman and Damoetas once
+    Had driven, Aratus, to the selfsame glen.
+    One chin was yellowing, one shewed half a beard.
+    And by a brookside on a summer noon
+    The pair sat down and sang; but Daphnis led
+    The song, for Daphnis was the challenger.
+
+    DAPHNIS.
+    "See! Galatea pelts thy flock with fruit,
+    And calls their master 'Lack-love,' Polypheme.
+    Thou mark'st her not, blind, blind, but pipest aye
+    Thy wood-notes. See again, she smites thy dog:
+    Sea-ward the fleeced flocks' sentinel peers and barks,
+    And, through the clear wave visible to her still,
+    Careers along the gently babbling beach.
+    Look that he leap not on the maid new-risen
+    From her sea-bath and rend her dainty limbs.
+    She fools thee, near or far, like thistle-waifs
+    In hot sweet summer: flies from thee when wooed,
+    Unwooed pursues thee: risks all moves to win;
+    For, Polypheme, things foul seem fair to Love."
+
+      And then, due prelude made, Damoetas sang.
+
+    DAMOETAS.
+    "I marked her pelt my dog, I was not blind,
+    By Pan, by this my one my precious eye
+    That bounds my vision now and evermore!
+    But Telemus the Seer, be his the woe,
+    His and his children's, that he promised me!
+    Yet do I too tease her; I pass her by,
+    Pretend to woo another:--and she hears
+    (Heaven help me!) and is faint with jealousy;
+    And hurrying from the sea-wave as if stung,
+    Scans with keen glance my grotto and my flock.
+    'Twas I hissed on the dog to bark at her;
+    For, when I loved her, he would whine and lay
+    His muzzle in her lap. These things she'll note
+    Mayhap, and message send on message soon:
+    But I will bar my door until she swear
+    To make me on this isle fair bridal-bed.
+    And I am less unlovely than men say.
+    I looked into the mere (the mere was calm),
+    And goodly seemed my beard, and goodly seemed
+    My solitary eye, and, half-revealed,
+    My teeth gleamed whiter than the Parian marl.
+    Thrice for good luck I spat upon my robe:
+    That learned I of the hag Cottytaris--her
+    Who fluted lately with Hippocooen's mowers."
+
+      Damoetas then kissed Daphnis lovingly:
+    One gave a pipe and one a goodly flute.
+    Straight to the shepherd's flute and herdsman's pipe
+    The younglings bounded in the soft green grass:
+    And neither was o'ermatched, but matchless both.
+
+
+
+
+IDYLL VII.
+
+
+Harvest-Home.
+
+    Once on a time did Eucritus and I
+    (With us Amyntas) to the riverside
+    Steal from the city. For Lycopeus' sons
+    Were that day busy with the harvest-home,
+    Antigenes and Phrasidemus, sprung
+    (If aught thou holdest by the good old names)
+    By Clytia from great Chalcon--him who erst
+    Planted one stalwart knee against the rock,
+    And lo, beneath his foot Burine's rill
+    Brake forth, and at its side poplar and elm
+    Shewed aisles of pleasant shadow, greenly roofed
+    By tufted leaves. Scarce midway were we now,
+    Nor yet descried the tomb of Brasilas:
+    When, thanks be to the Muses, there drew near
+    A wayfarer from Crete, young Lycidas.
+    The horned herd was his care: a glance might tell
+    So much: for every inch a herdsman he.
+    Slung o'er his shoulder was a ruddy hide
+    Torn from a he-goat, shaggy, tangle-haired,
+    That reeked of rennet yet: a broad belt clasped
+    A patched cloak round his breast, and for a staff
+    A gnarled wild-olive bough his right hand bore.
+    Soon with a quiet smile he spoke--his eye
+    Twinkled, and laughter sat upon his lip:
+    "And whither ploddest thou thy weary way
+    Beneath the noontide sun, Simichidas?
+    For now the lizard sleeps upon the wall,
+    The crested lark folds now his wandering wing.
+    Dost speed, a bidden guest, to some reveller's board?
+    Or townward to the treading of the grape?
+    For lo! recoiling from thy hurrying feet
+    The pavement-stones ring out right merrily."
+    Then I: "Friend Lycid, all men say that none
+    Of haymakers or herdsmen is thy match
+    At piping: and my soul is glad thereat.
+    Yet, to speak sooth, I think to rival thee.
+    Now look, this road holds holiday to-day:
+    For banded brethren solemnise a feast
+    To richly-dight Demeter, thanking her
+    For her good gifts: since with no grudging hand
+    Hath the boon goddess filled the wheaten floors.
+    So come: the way, the day, is thine as mine:
+    Try we our woodcraft--each may learn from each.
+    I am, as thou, a clarion-voice of song;
+    All hail me chief of minstrels. But I am not,
+    Heaven knows, o'ercredulous: no, I scarce can yet
+    (I think) outvie Philetas, nor the bard
+    Of Samos, champion of Sicilian song.
+    They are as cicadas challenged by a frog."
+
+      I spake to gain mine ends; and laughing light
+    He said: "Accept this club, as thou'rt indeed
+    A born truth-teller, shaped by heaven's own hand!
+    I hate your builders who would rear a house
+    High as Oromedon's mountain-pinnacle:
+    I hate your song-birds too, whose cuckoo-cry
+    Struggles (in vain) to match the Chian bard.
+    But come, we'll sing forthwith, Simichidas,
+    Our woodland music: and for my part I--
+    List, comrade, if you like the simple air
+    I forged among the uplands yesterday.
+
+    [_Sings_] Safe be my true-love convoyed o'er the main
+    To Mitylene--though the southern blast
+    Chase the lithe waves, while westward slant the Kids,
+    Or low above the verge Orion stand--
+    If from Love's furnace she will rescue me,
+    For Lycidas is parched with hot desire.
+    Let halcyons lay the sea-waves and the winds,
+    Northwind and Westwind, that in shores far-off
+    Flutters the seaweed--halcyons, of all birds
+    Whose prey is on the waters, held most dear
+    By the green Nereids: yea let all things smile
+    On her to Mitylene voyaging,
+    And in fair harbour may she ride at last.
+    I on that day, a chaplet woven of dill
+    Or rose or simple violet on my brow,
+    Will draw the wine of Pteleas from the cask
+    Stretched by the ingle. They shall roast me beans,
+    And elbow-deep in thyme and asphodel
+    And quaintly-curling parsley shall be piled
+    My bed of rushes, where in royal ease
+    I sit and, thinking of my darling, drain
+    With stedfast lip the liquor to the dregs.
+    I'll have a pair of pipers, shepherds both,
+    This from Acharnae, from Lycope that;
+    And Tityrus shall be near me and shall sing
+    How the swain Daphnis loved the stranger-maid;
+    And how he ranged the fells, and how the oaks
+    (Such oaks as Himera's banks are green withal)
+    Sang dirges o'er him waning fast away
+    Like snow on Athos, or on Haemus high,
+    Or Rhodope, or utmost Caucasus.
+    And he shall sing me how the big chest held
+    (All through the maniac malice of his lord)
+    A living goatherd: how the round-faced bees,
+    Lured from their meadow by the cedar-smell,
+    Fed him with daintiest flowers, because the Muse
+    Had made his throat a well-spring of sweet song.
+    Happy Cometas, this sweet lot was thine!
+    Thee the chest prisoned, for thee the honey-bees
+    Toiled, as thou slavedst out the mellowing year:
+    And oh hadst thou been numbered with the quick
+    In my day! I had led thy pretty goats
+    About the hill-side, listening to thy voice:
+    While thou hadst lain thee down 'neath oak or pine,
+    Divine Cometas, warbling pleasantly."
+
+      He spake and paused; and thereupon spake I.
+    "I too, friend Lycid, as I ranged the fells,
+    Have learned much lore and pleasant from the Nymphs,
+    Whose fame mayhap hath reached the throne of Zeus.
+    But this wherewith I'll grace thee ranks the first:
+    Thou listen, since the Muses like thee well.
+
+    [_Sings_] On me the young Loves sneezed: for hapless I
+    Am fain of Myrto as the goats of Spring.
+    But my best friend Aratus inly pines
+    For one who loves him not. Aristis saw--
+    (A wondrous seer is he, whose lute and lay
+    Shrined Apollo's self would scarce disdain)--
+    How love had scorched Aratus to the bone.
+    O Pan, who hauntest Homole's fair champaign,
+    Bring the soft charmer, whosoe'er it be,
+    Unbid to his sweet arms--so, gracious Pan,
+    May ne'er thy ribs and shoulderblades be lashed
+    With squills by young Arcadians, whensoe'er
+    They are scant of supper! But should this my prayer
+    Mislike thee, then on nettles mayest thou sleep,
+    Dinted and sore all over from their claws!
+    Then mayest thou lodge amid Edonian hills
+    By Hebrus, in midwinter; there subsist,
+    The Bear thy neighbour: and, in summer, range
+    With the far AEthiops 'neath the Blemmyan rocks
+    Where Nile is no more seen! But O ye Loves,
+    Whose cheeks are like pink apples, quit your homes
+    By Hyetis, or Byblis' pleasant rill,
+    Or fair Dione's rocky pedestal,
+    And strike that fair one with your arrows, strike
+    The ill-starred damsel who disdains my friend.
+    And lo, what is she but an o'er-ripe pear?
+    The girls all cry 'Her bloom is on the wane.'
+    We'll watch, Aratus, at that porch no more,
+    Nor waste shoe-leather: let the morning cock
+    Crow to wake others up to numb despair!
+    Let Molon, and none else, that ordeal brave:
+    While we make ease our study, and secure
+    Some witch, to charm all evil from our door."
+
+      I ceased. He smiling sweetly as before,
+    Gave me the staff, 'the Muses' parting gift,'
+    And leftward sloped toward Pyxa. We the while,
+    Bent us to Phrasydeme's, Eucritus and I,
+    And baby-faced Amyntas: there we lay
+    Half-buried in a couch of fragrant reed
+    And fresh-cut vineleaves, who so glad as we?
+    A wealth of elm and poplar shook o'erhead;
+    Hard by, a sacred spring flowed gurgling on
+    From the Nymphs' grot, and in the sombre boughs
+    The sweet cicada chirped laboriously.
+    Hid in the thick thorn-bushes far away
+    The treefrog's note was heard; the crested lark
+    Sang with the goldfinch; turtles made their moan,
+    And o'er the fountain hung the gilded bee.
+    All of rich summer smacked, of autumn all:
+    Pears at our feet, and apples at our side
+    Rolled in luxuriance; branches on the ground
+    Sprawled, overweighed with damsons; while we brushed
+    From the cask's head the crust of four long years.
+    Say, ye who dwell upon Parnassian peaks,
+    Nymphs of Castalia, did old Chiron e'er
+    Set before Heracles a cup so brave
+    In Pholus' cavern--did as nectarous draughts
+    Cause that Anapian shepherd, in whose hand
+    Rocks were as pebbles, Polypheme the strong,
+    Featly to foot it o'er the cottage lawns:--
+    As, ladies, ye bid flow that day for us
+    All by Demeter's shrine at harvest-home?
+    Beside whose cornstacks may I oft again
+    Plant my broad fan: while she stands by and smiles,
+    Poppies and cornsheaves on each laden arm.
+
+
+
+
+IDYLL VIII.
+
+
+The Triumph of Daphnis.
+
+_DAPHNIS. MENALCAS. A GOATHERD_.
+
+    Daphnis, the gentle herdsman, met once, as legend tells,
+    Menalcas making with his flock the circle of the fells.
+    Both chins were gilt with coming beards: both lads could sing and play:
+    Menalcas glanced at Daphnis, and thus was heard to say:--
+    "Art thou for singing, Daphnis, lord of the lowing kine?
+    I say my songs are better, by what thou wilt, than thine."
+    Then in his turn spake Daphnis, and thus he made reply:
+    "O shepherd of the fleecy flock, thou pipest clear and high;
+    But come what will, Menalcas, thou ne'er wilt sing as I."
+
+    MENALCAS.
+    This art thou fain to ascertain, and risk a bet with me?
+
+    DAPHNIS.
+    This I full fain would ascertain, and risk a bet with thee.
+
+    MENALCAS.
+    But what, for champions such as we, would, seem a fitting prize?
+
+    DAPHNIS.
+    I stake a calf: stake thou a lamb, its mother's self in size.
+
+    MENALCAS.
+    A lamb I'll venture never: for aye at close of day
+    Father and mother count the flock, and passing strict are they.
+
+    DAPHNIS.
+    Then what shall be the victor's fee? What wager wilt thou lay?
+
+    MENALCAS.
+    A pipe discoursing through nine mouths I made, full fair to view;
+    The wax is white thereon, the line of this and that edge true.
+    I'll risk it: risk my father's own is more than I dare do.
+
+    DAPHNIS.
+    A pipe discoursing through nine mouths, and fair, hath Daphnis too:
+    The wax is white thereon, the line of this and that edge true.
+    But yesterday I made it: this finger feels the pain
+    Still, where indeed the rifted reed hath cut it clean in twain.
+    But who shall be our umpire? who listen to our strain?
+
+    MENALCAS.
+    Suppose we hail yon goatherd; him at whose horned herd now
+    The dog is barking--yonder dog with white upon his brow.
+
+      Then out they called: the goatherd marked them, and up came he;
+    Then out they sang; the goatherd their umpire fain would be.
+    To shrill Menalcas' lot it fell to start the woodland lay:
+    Then Daphnis took it up. And thus Menalcas led the way.
+
+    MENALCAS.
+    "Rivers and vales, a glorious birth! Oh if Menalcas e'er
+      Piped aught of pleasant music in your ears:
+    Then pasture, nothing loth, his lambs; and let young Daphnis fare
+      No worse, should he stray hither with his steers."
+
+    DAPHNIS.
+    "Pastures and rills, a bounteous race! If Daphnis sang you e'er
+      Such songs as ne'er from nightingale have flowed;
+    Then to his herd your fatness lend; and let Menalcas share
+      Like boon, should e'er he wend along this road."
+
+    MENALCAS.
+    "'Tis spring, 'tis greenness everywhere; with milk the udders teem,
+      And all things that are young have life anew,
+    Where my sweet maiden wanders: but parched and withered seem,
+      When she departeth, lawn and shepherd too."
+
+    DAPHNIS.
+    "Fat are the sheep, the goats bear twins, the hives are thronged with
+        bees,
+      Rises the oak beyond his natural growth,
+    Where falls my darling's footstep: but hungriness shall seize,
+      When she departeth, herd and herdsman both."
+
+    MENALCAS.
+    "Come, ram, with thy blunt-muzzled kids and sleek wives at thy side,
+      Where winds the brook by woodlands myriad-deep:
+    There is _her_ haunt. Go, Stump-horn, tell her how Proteus plied
+      (A god) the shepherd's trade, with seals for sheep."
+
+    DAPHNIS.
+    "I ask not gold, I ask not the broad lands of a king;
+      I ask not to be fleeter than the breeze;
+    But 'neath this steep to watch my sheep, feeding as one, and fling
+      (Still clasping _her_) my carol o'er the seas."
+
+    MENALCAS.
+    "Storms are the fruit-tree's bane; the brook's, a summer hot and dry;
+      The stag's a woven net, a gin the dove's;
+    Mankind's, a soft sweet maiden. Others have pined ere I:
+      Zeus! Father! hadst not thou thy lady-loves?"
+
+
+    Thus far, in alternating strains, the lads their woes rehearst:
+    Then each one gave a closing stave. Thus sang Menalcas first:--
+
+    MENALCAS.
+    "O spare, good wolf, my weanlings! their milky mothers spare!
+    Harm not the little lad that hath so many in his care!
+    What, Firefly, is thy sleep so deep? It ill befits a hound,
+    Tending a boyish master's flock, to slumber over-sound.
+    And, wethers, of this tender grass take, nothing coy, your fill:
+    So, when it comes, the after-math shall find you feeding still.
+    So! so! graze on, that ye be full, that not an udder fail:
+    Part of the milk shall rear the lambs, and part shall fill my pail."
+      Then Daphnis flung a carol out, as of a nightingale:--
+
+    DAPHNIS.
+    "Me from her grot but yesterday a girl of haughty brow
+    Spied as I passed her with my kine, and said, "How fair art thou!"
+    I vow that not one bitter word in answer did I say,
+    But, looking ever on the ground, went silently my way.
+    The heifer's voice, the heifer's breath, are passing sweet to me;
+    And sweet is sleep by summer-brooks upon the breezy lea:
+    As acorns are the green oak's pride, apples the apple-bough's;
+    So the cow glorieth in her calf, the cowherd in his cows."
+    Thus the two lads; then spoke the third, sitting his goats among:
+
+    GOATHERD.
+    "O Daphnis, lovely is thy voice, thy music sweetly sung;
+    Such song is pleasanter to me than honey on my tongue.
+    Accept this pipe, for thou hast won. And should there be some notes
+    That thou couldst teach me, as I plod alongside with my goats,
+    I'll give thee for thy schooling this ewe, that horns hath none:
+    Day after day she'll fill the can, until the milk o'errun."
+
+      Then how the one lad laughed and leaped and clapped his hands for
+          glee!
+    A kid that bounds to meet its dam might dance as merrily.
+    And how the other inly burned, struck down by his disgrace!
+    A maid first parting from her home might wear as sad a face.
+
+      Thenceforth was Daphnis champion of all the country side:
+    And won, while yet in topmost youth, a Naiad for his bride.
+
+
+
+
+IDYLL IX.
+
+
+Pastorals.
+
+_DAPHNIS. MENALCAS. A SHEPHERD._
+
+
+    SHEPHERD.
+    A song from Daphnis! Open he the lay,
+    He open: and Menalcas follow next:
+    While the calves suck, and with the barren kine
+    The young bulls graze, or roam knee-deep in leaves,
+    And ne'er play truant. But a song from thee,
+    Daphnis--anon Menalcas will reply.
+
+    DAPHNIS.
+    Sweet is the chorus of the calves and kine,
+      And sweet the herdsman's pipe. But none may vie
+    With Daphnis; and a rush-strown bed is mine
+      Near a cool rill, where carpeted I lie
+      On fair white goatskins. From a hill-top high
+    The westwind swept me down the herd entire,
+      Cropping the strawberries: whence it comes that I
+      No more heed summer, with his breath of fire,
+    Than lovers heed the words of mother and of sire.
+
+    Thus Daphnis: and Menalcas answered thus:--
+
+    MENALCAS.
+    O AEtna, mother mine! A grotto fair,
+      Scooped in the rocks, have I: and there I keep
+    All that in dreams men picture! Treasured there
+      Are multitudes of she-goats and of sheep,
+      Swathed in whose wool from top to toe I sleep.
+    The fire that boils my pot, with oak or beech
+      Is piled--dry beech-logs when the snow lies deep;
+      And storm and sunshine, I disdain them each
+    As toothless sires a nut, when broth is in their reach.
+
+      I clapped applause, and straight produced my gifts:
+      A staff for Daphnis--'twas the handiwork
+      Of nature, in my father's acres grown:
+      Yet might a turner find no fault therewith.
+      I gave his mate a goodly spiral-shell:
+      We stalked its inmate on the Icarian rocks
+      And ate him, parted fivefold among five.
+    He blew forthwith the trumpet on his shell.
+      Tell, woodland Muse--and then farewell--what song
+      I, the chance-comer, sang before those twain.
+
+    SHEPHERD.
+      Ne'er let a falsehood scarify my tongue!
+        Crickets with crickets, ants with ants agree,
+      And hawks with hawks: and music sweetly sung,
+        Beyond all else, is grateful unto me.
+        Filled aye with music may my dwelling be!
+      Not slumber, not the bursting forth of Spring
+        So charms me, nor the flowers that tempt the bee,
+      As those sweet Sisters. He, on whom they fling
+    One gracious glance, is proof to Circe's blandishing.
+
+
+
+
+IDYLL X.
+
+
+The Two Workmen.
+
+_MILO. BATTUS._
+
+    What now, poor o'erworked drudge, is on thy mind?
+       No more in even swathe thou layest the corn:
+    Thy fellow-reapers leave thee far behind,
+       As flocks a ewe that's footsore from a thorn.
+    By noon and midday what will be thy plight
+    If now, so soon, thy sickle fails to bite?
+
+
+    BATTUS.
+    Hewn from hard rocks, untired at set of sun,
+    Milo, didst ne'er regret some absent one?
+
+    MILO.
+    Not I. What time have workers for regret?
+
+    BATTUS.
+    Hath love ne'er kept thee from thy slumbers yet?
+
+    MILO.
+    Nay, heaven forbid! If once the cat taste cream!
+
+    BATTUS.
+    Milo, these ten days love hath been my dream.
+
+    MILO.
+    You drain your wine, while vinegar's scarce with me.
+
+    BATTUS.
+    --Hence since last spring untrimmed my borders be.
+
+    MILO.
+    And what lass flouts thee?
+
+    BATTUS.
+            She whom we heard play
+    Amongst Hippocooen's reapers yesterday.
+
+    MILO.
+    Your sins have found you out--you're e'en served right:
+    You'll clasp a corn-crake in your arms all night.
+
+    BATTUS.
+    You laugh: but headstrong Love is blind no less
+    Than Plutus: talking big is foolishness.
+
+    MILO.
+    I talk not big. But lay the corn-ears low
+    And trill the while some love-song--easier so
+    Will seem your toil: you used to sing, I know.
+
+    BATTUS.
+    Maids of Pieria, of my slim lass sing!
+    One touch of yours ennobles everything.
+
+            [_Sings_]
+    Fairy Bombyca! thee do men report
+      Lean, dusk, a gipsy: I alone nut-brown.
+    Violets and pencilled hyacinths are swart,
+      Yet first of flowers they're chosen for a crown.
+    As goats pursue the clover, wolves the goat,
+    And cranes the ploughman, upon thee I dote.
+
+    Had I but Croesus' wealth, we twain should stand
+      Gold-sculptured in Love's temple; thou, thy lyre
+    (Ay or a rose or apple) in thy hand,
+      I in my brave new shoon and dance-attire.
+    Fairy Bombyca! twinkling dice thy feet,
+    Poppies thy lips, thy ways none knows how sweet!
+
+    MILO.
+    Who dreamed what subtle strains our bumpkin wrought?
+      How shone the artist in each measured verse!
+    Fie on the beard that I have grown for naught!
+      Mark, lad, these lines by glorious Lytierse.
+
+            [_Sings_]
+      O rich in fruit and cornblade: be this field
+      Tilled well, Demeter, and fair fruitage yield!
+
+      Bind the sheaves, reapers: lest one, passing, say--
+      'A fig for these, they're never worth their pay.'
+
+      Let the mown swathes look northward, ye who mow,
+      Or westward--for the ears grow fattest so.
+
+      Avoid a noontide nap, ye threshing men:
+      The chaff flies thickest from the corn-ears then.
+
+      Wake when the lark wakes; when he slumbers, close
+      Your work, ye reapers: and at noontide doze.
+
+      Boys, the frogs' life for me! They need not him
+      Who fills the flagon, for in drink they swim.
+
+      Better boil herbs, thou toiler after gain,
+      Than, splitting cummin, split thy hand in twain.
+
+    Strains such as these, I trow, befit them well
+      Who toil and moil when noon is at its height:
+    Thy meagre love-tale, bumpkin, though shouldst tell
+      Thy grandam as she wakes up ere 'tis light.
+
+
+
+
+IDYLL XI.
+
+
+The Giant's Wooing
+
+
+    Methinks all nature hath no cure for Love,
+    Plaster or unguent, Nicias, saving one;
+    And this is light and pleasant to a man,
+    Yet hard withal to compass--minstrelsy.
+    As well thou wottest, being thyself a leech,
+    And a prime favourite of those Sisters nine.
+    'Twas thus our Giant lived a life of ease,
+    Old Polyphemus, when, the down scarce seen
+    On lip and chin, he wooed his ocean nymph:
+    No curlypated rose-and-apple wooer,
+    But a fell madman, blind to all but love.
+    Oft from the green grass foldward fared his sheep
+    Unbid: while he upon the windy beach,
+    Singing his Galatea, sat and pined
+    From dawn to dusk, an ulcer at his heart:
+    Great Aphrodite's shaft had fixed it there.
+    Yet found he that one cure: he sate him down
+    On the tall cliff, and seaward looked, and sang:--
+
+    "White Galatea, why disdain thy love?
+    White as a pressed cheese, delicate as the lamb,
+    Wild as the heifer, soft as summer grapes!
+    If sweet sleep chain me, here thou walk'st at large;
+    If sweet sleep loose me, straightway thou art gone,
+    Scared like a sheep that sees the grey wolf near.
+    I loved thee, maiden, when thou cam'st long since,
+    To pluck the hyacinth-blossom on the fell,
+    Thou and my mother, piloted by me.
+    I saw thee, see thee still, from that day forth
+    For ever; but 'tis naught, ay naught, to thee.
+    I know, sweet maiden, why thou art so coy:
+    Shaggy and huge, a single eyebrow spans
+    From ear to ear my forehead, whence one eye
+    Gleams, and an o'erbroad nostril tops my lip.
+    Yet I, this monster, feed a thousand sheep
+    That yield me sweetest draughts at milking-tide:
+    In summer, autumn, or midwinter, still
+    Fails not my cheese; my milkpail aye o'erflows.
+    Then I can pipe as ne'er did Giant yet,
+    Singing our loves--ours, honey, thine and mine--
+    At dead of night: and hinds I rear eleven
+    (Each with her fawn) and bearcubs four, for thee.
+    Oh come to me--thou shalt not rue the day--
+    And let the mad seas beat against the shore!
+    'Twere sweet to haunt my cave the livelong night:
+    Laurel, and cypress tall, and ivy dun,
+    And vines of sumptuous fruitage, all are there:
+    And a cold spring that pine-clad AEtna flings
+    Down from, the white snow's midst, a draught for gods!
+    Who would not change for this the ocean-waves?
+
+      "But thou mislik'st my hair? Well, oaken logs
+    Are here, and embers yet aglow with fire.
+    Burn (if thou wilt) my heart out, and mine eye,
+    Mine only eye wherein is my delight.
+    Oh why was I not born a finny thing,
+    To float unto thy side and kiss thy hand,
+    Denied thy lips--and bring thee lilies white
+    And crimson-petalled poppies' dainty bloom!
+    Nay--summer hath his flowers and autumn his;
+    I could not bring all these the selfsame day.
+    Lo, should some mariner hither oar his road,
+    Sweet, he shall teach me straightway how to swim,
+    That haply I may learn what bliss ye find
+    In your sea-homes. O Galatea, come
+    Forth from yon waves, and coming forth forget
+    (As I do, sitting here) to get thee home:
+    And feed my flocks and milk them, nothing loth,
+    And pour the rennet in to fix my cheese!
+
+      "The blame's my mother's; she is false to me;
+    Spake thee ne'er yet one sweet word for my sake,
+    Though day by day she sees me pine and pine.
+    I'll feign strange throbbings in my head and feet
+    To anguish her--as I am anguished now."
+
+      O Cyclops, Cyclops, where are flown thy wits?
+    Go plait rush-baskets, lop the olive-boughs
+    To feed thy lambkins--'twere the shrewder part.
+    Chase not the recreant, milk the willing ewe:
+    The world hath Galateas fairer yet.
+
+      "--Many a fair damsel bids me sport with her
+    The livelong night, and smiles if I give ear.
+    On land at least I still am somebody."
+
+      Thus did the Giant feed his love on song,
+    And gained more ease than may be bought with gold.
+
+
+
+
+IDYLL XII.
+
+The Comrades
+
+    Thou art come, lad, come! Scarce thrice hath dusk to day
+    Given place--but lovers in an hour grow gray.
+    As spring's more sweet than winter, grapes than thorns,
+    The ewe's fleece richer than her latest-born's;
+    As young girls' charms the thrice-wed wife's outshine,
+    As fawns are lither than the ungainly kine,
+    Or as the nightingale's clear notes outvie
+    The mingled music of all birds that fly;
+    So at thy coming passing glad was I.
+    I ran to greet thee e'en as pilgrims run
+    To beechen shadows from the scorching sun:
+    Oh if on us accordant Loves would breathe,
+    And our two names to future years bequeath!
+
+      'These twain'--let men say--'lived in olden days.
+    This was a _yokel_ (in their country-phrase),
+    That was his _mate_ (so talked these simple folk):
+    And lovingly they bore a mutual yoke.
+    The hearts of men were made of sterling gold,
+    When troth met troth, in those brave days of old,'
+
+      O Zeus, O gods who age not nor decay!
+    Let e'en two hundred ages roll away,
+    But at the last these tidings let me learn,
+    Borne o'er the fatal pool whence none return:--
+    "By every tongue thy constancy is sung,
+    Thine and thy favourite's--chiefly by the young."
+    But lo, the future is in heaven's high hand:
+    Meanwhile thy graces all my praise demand,
+    Not false lip-praise, not idly bubbling froth--
+    For though thy wrath be kindled, e'en thy wrath
+    Hath no sting in it: doubly I am caressed,
+    And go my way repaid with interest.
+
+      Oarsmen of Megara, ruled by Nisus erst!
+    Yours be all bliss, because ye honoured first
+    That true child-lover, Attic Diocles.
+    Around his gravestone with the first spring-breeze
+    Flock the bairns all, to win the kissing-prize:
+    And whoso sweetliest lip to lip applies
+    Goes crown-clad home to its mother. Blest is he
+    Who in such strife is named the referee:
+    To brightfaced Ganymede full oft he'll cry
+    To lend his lip the potencies that lie
+    Within that stone with which the usurers
+    Detect base metal, and which never errs.
+
+
+
+
+IDYLL XIII.
+
+
+Hylas.
+
+    Not for us only, Nicias, (vain the dream,)
+      Sprung from what god soe'er, was Eros born:
+    Not to us only grace doth graceful seem,
+      Frail things who wot not of the coming morn.
+    No--for Amphitryon's iron-hearted son,
+    Who braved the lion, was the slave of one:--
+
+    A fair curled creature, Hylas was his name.
+      He taught him, as a father might his child,
+    All songs whereby himself had risen to fame;
+      Nor ever from his side would be beguiled
+    When noon was high, nor when white steeds convey
+    Back to heaven's gates the chariot of the day,
+
+    Nor when the hen's shrill brood becomes aware
+      Of bed-time, as the mother's flapping wings
+    Shadow the dust-browned beam. 'Twas all his care
+      To shape unto his own imaginings
+    And to the harness train his favourite youth,
+    Till he became a man in very truth.
+
+    Meanwhile, when kingly Jason steered in quest
+      Of the Gold Fleece, and chieftains at his side
+    Chosen from all cities, proffering each her best,
+      To rich Iolchos came that warrior tried,
+    And joined him unto trim-built Argo's crew;
+    And with Alcmena's son came Hylas too.
+
+    Through the great gulf shot Argo like a bird--
+      And by-and-bye reached Phasis, ne'er o'erta'en
+    By those in-rushing rocks, that have not stirred
+      Since then, but bask, twin monsters, on the main.
+    But now, when waned the spring, and lambs were fed
+    In far-off fields, and Pleiads gleamed overhead,
+
+    That cream and flower of knighthood looked to sail.
+      They came, within broad Argo safely stowed,
+    (When for three days had blown the southern gale)
+      To Hellespont, and in Propontis rode
+    At anchor, where Cianian oxen now
+    Broaden the furrows with the busy plough.
+
+    They leapt ashore, and, keeping rank, prepared
+      Their evening meal: a grassy meadow spread
+    Before their eyes, and many a warrior shared
+      (Thanks to its verdurous stores) one lowly bed.
+    And while they cut tall marigolds from their stem
+    And sworded bulrush, Hylas slipt from them.
+
+    Water the fair lad wont to seek and bring
+      To Heracles and stalwart Telamon,
+    (The comrades aye partook each other's fare,)
+      Bearing a brazen pitcher. And anon,
+    Where the ground dipt, a fountain he espied,
+    And rushes growing green about its side.
+
+    There rose the sea-blue swallow-wort, and there
+      The pale-hued maidenhair, with parsley green
+    And vagrant marsh-flowers; and a revel rare
+      In the pool's midst the water-nymphs were seen
+    To hold, those maidens of unslumbrous eyes
+    Whom the belated peasant sees and flies.
+
+    And fast did Malis and Eunica cling,
+      And young Nychea with her April face,
+    To the lad's hand, as stooping o'er the spring
+      He dipt his pitcher. For the young Greek's grace
+    Made their soft senses reel; and down he fell,
+    All of a sudden, into that black well.
+
+    So drops a red star suddenly from sky
+      To sea--and quoth some sailor to his mate:
+    "Up with the tackle, boy! the breeze is high."
+      Him the nymphs pillowed, all disconsolate,
+    On their sweet laps, and with soft words beguiled;
+    But Heracles was troubled for the child.
+
+    Forth went he; Scythian-wise his bow he bore
+      And the great club that never quits his side;
+    And thrice called 'Hylas'--ne'er came lustier roar
+      From that deep chest. Thrice Hylas heard and tried
+    To answer, but in tones you scarce might hear;
+    The water made them distant though so near.
+
+    And as a lion, when he hears the bleat
+      Of fawns among the mountains far away,
+    A murderous lion, and with hurrying feet
+      Bounds from his lair to his predestined prey:
+    So plunged the strong man in the untrodden brake--
+    (Lovers are maniacs)--for his darling's sake.
+
+    He scoured far fields--what hill or oaken glen
+      Remembers not that pilgrimage of pain?
+    His troth to Jason was forgotten then.
+      Long time the good ship tarried for those twain
+    With hoisted sails; night came and still they cleared
+    The hatches, but no Heracles appeared.
+
+    On he was wandering, reckless where he trod,
+      So mad a passion on his vitals preyed:
+    While Hylas had become a blessed god.
+      But the crew cursed the runaway who had stayed
+    Sixty good oars, and left him there to reach
+    Afoot bleak Phasis and the Colchian beach.
+
+
+
+
+IDYLL XIV.
+
+
+The Love of AEschines.
+
+_THYONICHUS. AESCHINES._
+
+    AESCHINES.
+    Hail, sir Thyonichus.
+
+    THYONICHUS.
+                AEschines, to you.
+
+    AESCHINES.
+    I have missed thee.
+
+    THYONICHUS.
+            Missed me! Why what ails him now?
+
+    AESCHINES.
+    My friend, I am ill at ease.
+
+    THYONICHUS.
+                Then this explains
+    Thy leanness, and thy prodigal moustache
+    And dried-up curls. Thy counterpart I saw,
+    A wan Pythagorean, yesterday.
+    He said he came from Athens: shoes he had none:
+    He pined, I'll warrant,--for a quartern loaf.
+
+    AESCHINES.
+    Sir, you will joke--But I've been outraged, sore,
+    And by Cynisca. I shall go stark mad
+    Ere you suspect--a hair would turn the scale.
+
+    THYONICHUS.
+    Such thou wert always, AEschines my friend.
+    In lazy mood or trenchant, at thy whim
+    The world must wag. But what's thy grievance now?
+
+    AESCHINES.
+    That Argive, Apis the Thessalian Knight,
+    Myself, and gallant Cleonicus, supped
+    Within my grounds. Two pullets I had slain,
+    And a prime pig: and broached my Biblian wine;
+    'Twas four years old, but fragrant as when new.
+    Truffles were served to us: and the drink was good.
+    Well, we got on, and each must drain a cup
+    To whom he fancied; only each must name.
+    We named, and took our liquor as ordained;
+    But she sate silent--this before my face.
+    Fancy my feelings! "Wilt not speak? Hast seen
+    A wolf?" some wag said. "Shrewdly guessed," quoth she,
+    And blushed--her blushes might have fired a torch.
+    A wolf _had_ charmed her: Wolf her neighbour's son,
+    Goodly and tall, and fair in divers eyes:
+    For his illustrious sake it was she pined.
+    This had been breathed, just idly, in my ear:
+    Shame on my beard, I ne'er pursued the hint.
+    Well, when we four were deep amid our cups,
+    The Knight must sing 'The Wolf' (a local song)
+    Right through for mischief. All at once she wept
+    Hot tears as girls of six years old might weep,
+    Clinging and clamouring round their mother's lap.
+    And I, (you know my humour, friend of mine,)
+    Drove at his face, one, two! She gathered up
+    Her robes and vanished straightway through the door.
+    "And so I fail to please, false lady mine?
+    Another lies more welcome in thy lap?
+    Go warm that other's heart: he'll say thy tears
+    Are liquid pearls." And as a swallow flies
+    Forth in a hurry, here or there to find
+    A mouthful for her brood among the eaves:
+    From her soft sofa passing-swift she fled
+    Through folding-doors and hall, with random feet:
+    _'The stag had gained his heath':_ you know the rest.
+    Three weeks, a month, nine days and ten to that,
+    To-day's the eleventh: and 'tis just two months
+    All but two days, since she and I were two.
+    Hence is my beard of more than Thracian growth.
+    Now Wolf is all to her: Wolf enters in
+    At midnight; I am a cypher in her eyes;
+    The poor Megarian, nowhere in the race.
+    All would go right, if I could once _unlove_:
+    But now, you wot, the rat hath tasted tar.
+    And what may cure a swain at his wit's end
+    I know not: Simus, (true,) a mate of mine,
+    Loved Epichalcus' daughter, and took ship
+    And came home cured. I too will sail the seas.
+    Worse men, it may be better, are afloat,
+    I shall still prove an average man-at-arms.
+
+    THYONICHUS.
+    Now may thy love run smoothly, AEschines!
+    But should'st thou really mean a voyage out,
+    The freeman's best paymaster's Ptolemy.
+
+    AESCHINES.
+    What is he else?
+
+    THYONICHUS.
+            A gentleman: a man
+    Of wit and taste; the top of company;
+    Loyal to ladies; one whose eye is keen
+    For friends, and keener still for enemies.
+    Large in his bounties, he, in kingly sort,
+    Denies a boon to none: but, AEschines,
+    One should not ask too often. This premised,
+    If thou wilt clasp the military cloak
+    O'er thy right shoulder, and with legs astride
+    Await the onward rush of shielded men:
+    Hie thee to Egypt. Age overtakes us all;
+    Our temples first; then on o'er cheek and chin,
+    Slowly and surely, creep the frosts of Time.
+    Up and do somewhat, ere thy limbs are sere.
+
+
+
+
+IDYLL XV.
+
+
+The Festival of Adonis.
+
+_GORGO. PRAXINOAe._
+
+    GORGO.
+    Praxinoae in?
+
+    PRAXINOAe.
+          Yes, Gorgo dear! At last!
+    That you're here now's a marvel! See to a chair,
+    A cushion, Eunoae!
+
+    GORGO.
+              I lack naught.
+
+    PRAXINOAe.
+                              Sit down.
+
+    GORGO.
+    Oh, what a thing is spirit! Here I am,
+    Praxinoae, safe at last from all that crowd
+    And all those chariots--every street a mass
+    Of boots and uniforms! And the road, my dear,
+    Seemed endless--you live now so far away!
+
+    PRAXINOAe.
+    This land's-end den--I cannot call it house--
+    My madcap hired to keep us twain apart
+    And stir up strife. 'Twas like him, odious pest!
+
+    GORGO.
+    Nay call not, dear, your lord, your Deinon, names
+    To the babe's face. Look how it stares at you!
+    There, baby dear, she never meant Papa!
+    It understands, by'r lady! Dear Papa!
+
+    PRAXINOAe.
+    Well, yesterday (that means what day you like)
+    'Papa' had rouge and hair-powder to buy;
+    He brought back salt! this oaf of six-foot-one!
+
+    GORGO.
+    Just such another is that pickpocket
+    My Diocleides. He bought t'other day
+    Six fleeces at seven drachms, his last exploit.
+    What were they? scraps of worn-out pedlar's-bags,
+    Sheer trash.--But put your cloak and mantle on;
+    And we'll to Ptolemy's, the sumptuous king,
+    To see the _Adonis_. As I hear, the queen
+    Provides us something gorgeous.
+
+    PRAXINOAe.
+                              Ay, the grand
+    Can do things grandly.
+
+    GORGO.
+                  When you've seen yourself,
+    What tales you'll have to tell to those who've not.
+    'Twere time we started!
+
+    PRAXINOAe.
+                        All time's holiday
+    With idlers! Eunoae, pampered minx, the jug!
+    Set it down here--you cats would sleep all day
+    On cushions--Stir yourself, fetch water, quick!
+    Water's our first want. How she holds the jug!
+    Now, pour--not, cormorant, in that wasteful way--
+    You've drenched my dress, bad luck t'you! There, enough:
+    I have made such toilet as my fates allowed.
+    Now for the key o' the plate-chest. Bring it, quick!
+
+    GORGO.
+    My dear, that full pelisse becomes you well.
+    What did it stand you in, straight off the loom?
+
+    PRAXINOAe.
+    Don't ask me, Gorgo: two good pounds and more.
+    Then I gave all my mind to trimming it.
+
+    GORGO.
+    Well, 'tis a great success.
+
+    PRAXINOAe.
+                              I think it is.
+    My mantle, Eunoae, and my parasol!
+    Arrange me nicely. Babe, you'll bide at home!
+    Horses would bite you--Boo!--Yes, cry your fill,
+    But we won't have you maimed. Now let's be off.
+    You, Phrygia, take and nurse the tiny thing:
+    Call the dog in: make fast the outer door!
+
+                                        [_Exeunt_.
+
+    Gods! what a crowd! How, when shall we get past
+    This nuisance, these unending ant-like swarms?
+    Yet, Ptolemy, we owe thee thanks for much
+    Since heaven received thy sire! No miscreant now
+    Creeps Thug-like up, to maul the passer-by.
+    What games men played erewhile--men shaped in crime,
+    Birds of a feather, rascals every one!
+    --We're done for, Gorgo darling--here they are,
+    The Royal horse! Sweet sir, don't trample me!
+    That bay--the savage!--reared up straight on end!
+    Fly, Eunoae, can't you? Doggedly she stands.
+    He'll be his rider's death!--How glad I am
+    My babe's at home.
+
+    GORGO.
+                    Praxinoae, never mind!
+    See, we're before them now, and they're in line.
+
+    PRAXINOAe.
+    There, I'm myself. But from a child I feared
+    Horses, and slimy snakes. But haste we on:
+    A surging multitude is close behind.
+
+    GORGO [_to Old Lady_].
+    From the palace, mother?
+
+    OLD LADY.
+                        Ay, child.
+
+    GORGO.
+                              Is it fair
+    Of access?
+
+    OLD LADY.
+                Trying brought the Greeks to Troy.
+    Young ladies, they must try who would succeed.
+
+    GORGO.
+    The crone hath said her oracle and gone.
+    Women know all--how Adam married Eve.
+    --Praxinoae, look what crowds are round the door!
+
+    PRAXINOAe.
+    Fearful! Your hand, please, Gorgo. Eunoae, you
+    Hold Eutychis--hold tight or you'll be lost.
+    We'll enter in a body--hold us fast!
+    Oh dear, my muslin dress is torn in two,
+    Gorgo, already! Pray, good gentleman,
+    (And happiness be yours) respect my robe!
+
+    STRANGER.
+    I could not if I would--nathless I will.
+
+    PRAXINOAe.
+    They come in hundreds, and they push like swine.
+
+    STRANGER.
+    Lady, take courage: it is all well now.
+
+    PRAXINOAe.
+    And now and ever be it well with thee,
+    Sweet man, for shielding us! An honest soul
+    And kindly. Oh! they're smothering Eunoae:
+    Push, coward! That's right! 'All in,' the bridegroom said
+    And locked the door upon himself and bride.
+
+    GORGO.
+    Praxinoae, look! Note well this broidery first.
+    How exquisitely fine--too good for earth!
+    Empress Athene, what strange sempstress wrought
+    Such work? What painter painted, realized
+    Such pictures? Just like life they stand or move,
+    Facts and not fancies! What a thing is man!
+    How bright, how lifelike on his silvern couch
+    Lies, with youth's bloom scarce shadowing his cheek,
+    That dear Adonis, lovely e'en in death!
+
+    A STRANGER.
+    Bad luck t'you, cease your senseless pigeon's prate!
+    Their brogue is killing--every word a drawl!
+
+    GORGO.
+    Where did he spring from? Is our prattle aught
+    To you, Sir? Order your own slaves about:
+    You're ordering Syracusan ladies now!
+
+    Corinthians bred (to tell you one fact more)
+    As was Bellerophon: islanders in speech,
+    For Dorians may talk Doric, I presume?
+
+    PRAXINOAe.
+    Persephone! none lords it over me,
+    Save one! No scullion's-wage for us from _you_!
+
+    GORGO.
+    Hush, dear. The Argive's daughter's going to sing
+    _The Adonis_: that accomplished vocalist
+    Who has no rival in "_The Sailor's Grave_."
+    Observe her attitudinizing now.
+
+    _Song_.
+    Queen, who lov'st Golgi and the Sicel hill
+      And Ida; Aphrodite radiant-eyed;
+    The stealthy-footed Hours from Acheron's rill
+      Brought once again Adonis to thy side
+    How changed in twelve short months! They travel slow,
+      Those precious Hours: we hail their advent still,
+    For blessings do they bring to all below.
+      O Sea-born! thou didst erst, or legend lies,
+    Shed on a woman's soul thy grace benign,
+      And Berenice's dust immortalize.
+    O called by many names, at many a shrine!
+      For thy sweet sake doth Berenice's child
+    (Herself a second Helen) deck with all
+      That's fair, Adonis. On his right are piled
+    Ripe apples fallen from the oak-tree tall;
+      And silver caskets at his left support
+    Toy-gardens, Syrian scents enshrined in gold
+      And alabaster, cakes of every sort
+    That in their ovens the pastrywomen mould,
+      When with white meal they mix all flowers that bloom,
+    Oil-cakes and honey-cakes. There stand portrayed
+      Each bird, each butterfly; and in the gloom
+    Of foliage climbing high, and downward weighed
+      By graceful blossoms, do the young Loves play
+    Like nightingales, and perch on every tree,
+      And flit, to try their wings, from spray to spray.
+    Then see the gold, the ebony! Only see
+      The ivory-carven eagles, bearing up
+      To Zeus the boy who fills his royal cup!
+    Soft as a dream, such tapestry gleams o'erhead
+      As the Milesian's self would gaze on, charmed.
+    But sweet Adonis hath his own sweet bed:
+      Next Aphrodite sleeps the roseate-armed,
+    A bridegroom of eighteen or nineteen years.
+      Kiss the smooth boyish lip--there's no sting there!
+    The bride hath found her own: all bliss be hers!
+      And him at dewy dawn we'll troop to bear
+    Down where the breakers hiss against the shore:
+      There, with dishevelled dress and unbound hair,
+    Bare-bosomed all, our descant wild we'll pour:
+
+    "Thou haunt'st, Adonis, earth and heaven in turn,
+      Alone of heroes. Agamemnon ne'er
+    Could compass this, nor Aias stout and stern:
+      Not Hector, eldest-born of her who bare
+    Ten sons, not Patrocles, nor safe-returned
+    From Ilion Pyrrhus, such distinction earned:
+      Nor, elder yet, the Lapithae, the sons
+    Of Pelops and Deucalion; or the crown
+      Of Greece, Pelasgians. Gracious may'st thou be,
+    Adonis, now: pour new-year's blessings down!
+      Right welcome dost thou come, Adonis dear:
+      Come when thou wilt, thou'lt find a welcome here."
+
+    GORGO.
+    'Tis fine, Praxinoae! How I envy her
+    Her learning, and still more her luscious voice!
+    We must go home: my husband's supperless:
+    And, in that state, the man's just vinegar.
+    Don't cross his path when hungry! So farewell,
+    Adonis, and be housed 'mid welfare aye!
+
+
+
+
+IDYLL XVI.
+
+
+The Value of Song.
+
+    What fires the Muse's, what the minstrel's lays?
+    Hers some immortal's, ours some hero's praise,
+    Heaven is her theme, as heavenly was her birth:
+    We, of earth earthy, sing the sons of earth.
+    Yet who, of all that see the gray morn rise,
+    Lifts not his latch and hails with eager eyes
+    My Songs, yet sends them guerdonless away?
+    Barefoot and angry homeward journey they,
+    Taunt him who sent them on that idle quest,
+    Then crouch them deep within their empty chest,
+    (When wageless they return, their dismal bed)
+    And hide on their chill knees once more their patient head.
+    Where are those good old times? Who thanks us, who,
+    For our good word? Men list not now to do
+    Great deeds and worthy of the minstrel's verse:
+    Vassals of gain, their hand is on their purse,
+    Their eyes on lucre: ne'er a rusty nail
+    They'll give in kindness; this being aye their tale:--
+
+    "Kin before kith; to prosper is my prayer;
+    Poets, we know, are heaven's peculiar care.
+    We've Homer; and what other's worth a thought?
+    I call him chief of bards who costs me naught."
+
+      Yet what if all your chests with gold are lined?
+    Is this enjoying wealth? Oh fools and blind!
+    Part on your heart's desire, on minstrels spend
+    Part; and your kindred and your kind befriend:
+    And daily to the gods bid altar-fires ascend.
+    Nor be ye churlish hosts, but glad the heart
+    Of guests with wine, when they must needs depart:
+    And reverence most the priests of sacred song:
+    So, when hell hides you, shall your names live long;
+    Not doomed to wail on Acheron's sunless sands,
+    Like some poor hind, the inward of whose hands
+    The spade hath gnarled and knotted, born to groan,
+    Poor sire's poor offspring, hapless Penury's own!
+
+    Their monthly dole erewhile unnumbered thralls
+    Sought in Antiochus', in Aleuas' halls;
+    On to the Scopadae's byres in endless line
+    The calves ran lowing with the horned kine;
+    And, marshalled by the good Creondae's swains
+    Myriads of choice sheep basked on Cranron's plains.
+    Yet had their joyaunce ended, on the day
+    When their sweet spirit dispossessed its clay,
+    To hated Acheron's ample barge resigned.
+    Nameless, their stored-up luxury left behind,
+    With the lorn dead through ages had they lain,
+    Had not a minstrel bade them live again:--
+    Had not in woven words the Ceian sire
+    Holding sweet converse with his full-toned lyre
+    Made even their swift steeds for aye renowned,
+    When from the sacred lists they came home crowned.
+    Forgot were Lycia's chiefs, and Hector's hair
+    Of gold, and Cycnus femininely fair;
+    But that bards bring old battles back to mind.
+    Odysseus--he who roamed amongst mankind
+    A hundred years and more, reached utmost hell
+    Alive, and 'scaped the giant's hideous cell--
+    Had lived and died: Eumaeus and his swine;
+    Philoetius, busy with his herded kine;
+    And great Laertes' self, had passed away,
+    Were not their names preserved in Homer's lay.
+    Through song alone may man true glory taste;
+    The dead man's riches his survivors waste.
+
+      But count the waves, with yon gray wind-swept main
+    Borne shoreward: from a red brick wash his stain
+    In some pool's violet depths: 'twill task thee yet
+    To reach the heart on baleful avarice set.
+    To such I say 'Fare well': let theirs be store
+    Of wealth; but let them always crave for more:
+    Horses and mules inferior things _I_ find
+    To the esteem and love of all mankind.
+
+      But to what mortal's roof may I repair,
+    I and my Muse, and find a welcome there?
+    I and my Muse: for minstrels fare but ill,
+    Reft of those maids, who know the mightiest's will.
+    The cycle of the years, it flags not yet;
+    In many a chariot many a steed shall sweat:
+    And one, to manhood grown, my lays shall claim,
+    Whose deeds shall rival great Achilles' fame,
+    Who from stout Aias might have won the prize
+    On Simois' plain, where Phrygian Ilus lies.
+    Now, in their sunset home on Libya's heel,
+    Phoenicia's sons unwonted chillness feel:
+    Now, with his targe of willow at his breast,
+    The Syracusan bears his spear in rest,
+    Amongst these Hiero arms him for the war,
+    Eager to fight as warriors fought of yore;
+    The plumes float darkling o'er his helmed brow.
+    O Zeus, the sire most glorious; and O thou,
+    Empress Athene; and thou, damsel fair,
+    Who with thy mother wast decreed to bear
+    Rule o'er rich Corinth, o'er that city of pride
+    Beside whose walls Anapus' waters glide:--
+    May ill winds waft across the Southern sea
+    (Of late a legion, now but two or three,)
+    Far from our isle, our foes; the doom to tell,
+    To wife and child, of those they loved so well;
+    While the old race enjoy once more the lands
+    Spoiled and insulted erst by alien hands!
+
+      And fair and fruitful may their cornlands be!
+    Their flocks in thousands bleat upon the lea,
+    Fat and full-fed; their kine, as home they wind,
+    The lagging traveller of his rest remind!
+    With might and main their fallows let them till:
+    Till comes the seedtime, and cicalas trill
+    (Hid from the toilers of the hot midday
+    In the thick leafage) on the topmost spray!
+    O'er shield and spear their webs let spiders spin,
+    And none so much as name the battle-din!
+    Then Hiero's lofty deeds may minstrels bear
+    Beyond the Scythian ocean-main, and where
+    Within those ample walls, with asphalt made
+    Time-proof, Semiramis her empire swayed.
+    I am but a single voice: but many a bard
+    Beside me do those heavenly maids regard:
+    May those all love to sing, 'mid earth's acclaim,
+    Of Sicel Arethuse, and Hiero's fame.
+
+    O Graces, royal nurselings, who hold dear
+    The Minyae's city, once the Theban's fear:
+    Unbidden I tarry, whither bidden I fare
+    My Muse my comrade. And be ye too there,
+    Sisters divine! Were ye and song forgot,
+    What grace had earth? With you be aye my lot!
+
+
+
+
+IDYLL XVII.
+
+
+The Praise of Ptolemy.
+
+    With Zeus begin, sweet sisters, end with Zeus,
+    When ye would sing the sovereign of the skies:
+    But first among mankind rank Ptolemy;
+    First, last, and midmost; being past compare.
+    Those mighty ones of old, half men half gods,
+    Wrought deeds that shine in many a subtle strain;
+    I, no unpractised minstrel, sing but him;
+    Divinest ears disdain not minstrelsy.
+    But as a woodman sees green Ida rise
+    Pine above pine, and ponders which to fell
+    First of those myriads; even so I pause
+    Where to begin the chapter of his praise:
+    For thousand and ten thousand are the gifts
+    Wherewith high heaven hath graced the kingliest king.
+
+      Was not he born to compass noblest ends,
+    Lagus' own son, so soon as he matured
+    Schemes such as ne'er had dawned on meaner minds?
+    Zeus doth esteem him as the blessed gods;
+    In the sire's courts his golden mansion stands.
+    And near him Alexander sits and smiles,
+    The turbaned Persian's dread; and, fronting both,
+    Rises the stedfast adamantine seat
+    Erst fashioned for the bull-slayer Heracles.
+    Who there holds revels with his heavenly mates,
+    And sees, with joy exceeding, children rise
+    On children; for that Zeus exempts from age
+    And death their frames who sprang from Heracles:
+    And Ptolemy, like Alexander, claims
+    From him; his gallant son their common sire.
+    And when, the banquet o'er, the Strong Man wends,
+    Cloyed with rich nectar, home unto his wife,
+    This kinsman hath in charge his cherished shafts
+    And bow; and that his gnarled and knotted club;
+    And both to white-limbed Hebe's bower of bliss
+    Convoy the bearded warrior and his arms.
+
+      Then how among wise ladies--blest the pair
+    That reared her!--peerless Berenice shone!
+    Dione's sacred child, the Cyprian queen,
+    O'er that sweet bosom passed her taper hands:
+    And hence, 'tis said, no man loved woman e'er
+    As Ptolemy loved her. She o'er-repaid
+    His love; so, nothing doubting, he could leave
+    His substance in his loyal children's care,
+    And rest with her, fond husband with fond wife.
+    She that loves not bears sons, but all unlike
+    Their father: for her heart was otherwhere.
+
+      O Aphrodite, matchless e'en in heaven
+    For beauty, thou didst love her; wouldst not let
+    Thy Berenice cross the wailful waves:
+    But thy hand snatched her--to the blue lake bound
+    Else, and the dead's grim ferryman--and enshrined
+    With thee, to share thy honours. There she sits,
+    To mortals ever kind, and passion soft
+    Inspires, and makes the lover's burden light.
+    The dark-browed Argive, linked with Tydeus, bare
+    Diomed the slayer, famed in Calydon:
+    And deep-veiled Thetis unto Peleus gave
+    The javelineer Achilles. Thou wast born
+    Of Berenice, Ptolemy by name
+    And by descent, a warrior's warrior child.
+    Cos from its mother's arms her babe received,
+    Its destined nursery, on its natal day:
+    'Twas there Antigone's daughter in her pangs
+    Cried to the goddess that could bid them cease:
+    Who soon was at her side, and lo! her limbs
+    Forgat their anguish, and a child was born
+    Fair, its sire's self. Cos saw, and shouted loud;
+    Handled the babe all tenderly, and spake:
+
+      "Wake, babe, to bliss: prize me, as Phoebus doth
+    His azure-sphered Delos: grace the hill
+    Of Triops, and the Dorians' sister shores,
+    As king Apollo his Rhenaea's isle."
+
+       So spake the isle. An eagle high overhead
+    Poised in the clouds screamed thrice, the prophet-bird
+    Of Zeus, and sent by him. For awful kings
+    All are his care, those chiefliest on whose birth
+    He smiled: exceeding glory waits on them:
+    Theirs is the sovereignty of land and sea.
+    But if a myriad realms spread far and wide
+    O'er earth, if myriad nations till the soil
+    To which heaven's rain gives increase: yet what land
+    Is green as low-lying Egypt, when the Nile
+    Wells forth and piecemeal breaks the sodden glebe?
+    Where are like cities, peopled by like men?
+    Lo he hath seen three hundred towns arise,
+    Three thousand, yea three myriad; and o'er all
+    He rules, the prince of heroes, Ptolemy.
+    Claims half Phoenicia, and half Araby,
+    Syria and Libya, and the AEthiops murk;
+    Sways the Pamphylian and Cilician braves,
+    The Lycian and the Carian trained to war,
+    And all the isles: for never fleet like his
+    Rode upon ocean: land and sea alike
+    And sounding rivers hail king Ptolemy.
+    Many are his horsemen, many his targeteers,
+    Whose burdened breast is bright with clashing steel:
+    Light are all royal treasuries, weighed with his.
+    For wealth from all climes travels day by day
+    To his rich realm, a hive of prosperous peace.
+    No foeman's tramp scares monster-peopled Nile,
+    Waking to war her far-off villages:
+    No armed robber from his war-ship leaps
+    To spoil the herds of Egypt. Such a prince
+    Sits throned in her broad plains, in whose right arm
+    Quivers the spear, the bright-haired Ptolemy.
+    Like a true king, he guards with might and main
+    The wealth his sires' arm won him and his own.
+    Nor strown all idly o'er his sumptuous halls
+    Lie piles that seem the work of labouring ants.
+    The holy homes of gods are rich therewith;
+    Theirs are the firstfruits, earnest aye of more.
+    And freely mighty kings thereof partake,
+    Freely great cities, freely honoured friends.
+    None entered e'er the sacred lists of song,
+    Whose lips could breathe sweet music, but he gained
+    Fair guerdon at the hand of Ptolemy.
+    And Ptolemy do music's votaries hymn
+    For his good gifts--hath man a fairer lot
+    Than to have earned much fame among mankind?
+    The Atridae's name abides, while all the wealth
+    Won from the sack of Priam's stately home
+    A mist closed o'er it, to be seen no more.
+    Ptolemy, he only, treads a path whose dust
+    Burns with the footprints of his ancestors,
+    And overlays those footprints with his own.
+    He raised rich shrines to mother and to sire,
+    There reared their forms in ivory and gold,
+    Passing in beauty, to befriend mankind.
+    Thighs of fat oxen oftentimes he burns
+    On crimsoning altars, as the months roll on,
+    Ay he and his staunch wife. No fairer bride
+    E'er clasped her lord in royal palaces:
+    And her heart's love her brother-husband won.
+    In such blest union joined the immortal pair
+    Whom queenly Rhea bore, and heaven obeys:
+    One couch the maiden of the rainbow decks
+    With myrrh-dipt hands for Hera and for Zeus.
+
+      Now farewell, prince! I rank thee aye with gods:
+    And read this lesson to the afterdays,
+    Mayhap they'll prize it: 'Honour is of Zeus.'
+
+
+
+
+IDYLL XVIII.
+
+
+The Bridal of Helen.
+
+    Whilom, in Lacedaemon,
+      Tript many a maiden fair
+    To gold-tressed Menelaus' halls,
+      With hyacinths in her hair:
+    Twelve to the Painted Chamber,
+      The queenliest in the land,
+    The clustered loveliness of Greece,
+      Came dancing hand in hand.
+    For Helen, Tyndarus' daughter,
+      Had just been wooed and won,
+    Helen the darling of the world,
+      By Atreus' younger son:
+    With woven steps they beat the floor
+      In unison, and sang
+    Their bridal-hymn of triumph
+      Till all the palace rang.
+
+    "Slumberest so soon, sweet bridegroom?
+      Art thou o'erfond of sleep?
+    Or hast thou leadenweighted limbs?
+      Or hadst thou drunk too deep
+    When thou didst fling thee to thy lair?
+      Betimes thou should'st have sped,
+    If sleep were all thy purpose,
+      Unto thy bachelor's bed:
+    And left her in her mother's arms
+      To nestle, and to play
+    A girl among her girlish mates
+      Till deep into the day:--
+    For not alone for this night,
+      Nor for the next alone,
+    But through the days and through the years
+      Thou hast her for thine own.
+
+    "Nay! heaven, O happy bridegroom,
+      Smiled as thou enteredst in
+    To Sparta, like thy brother kings,
+      And told thee thou should'st win!
+    What hero son-in-law of Zeus
+      Hath e'er aspired to be?
+    Yet lo! one coverlet enfolds
+      The child of Zeus, and thee.
+    Ne'er did a thing so lovely
+      Roam the Achaian lea.
+
+    "And who shall match her offspring,
+      If babes are like their mother?
+    For we were playmates once, and ran
+      And raced with one another
+    (All varnished, warrior fashion)
+      Along Eurotas' tide,
+    Thrice eighty gentle maidens,
+      Each in her girlhood's pride:
+    Yet none of all seemed faultless,
+      If placed by Helen's side.
+
+    "As peers the nascent Morning
+      Over thy shades, O Night,
+    When Winter disenchains the land,
+      And Spring goes forth in white:
+    So Helen shone above us,
+      All loveliness and light.
+
+    "As climbs aloft some cypress,
+      Garden or glade to grace;
+    As the Thessalian courser lends
+      A lustre to the race:
+    So bright o'er Lacedaemon
+      Shone Helen's rosebud face.
+
+    "And who into the basket e'er
+      The yarn so deftly drew,
+    Or through the mazes of the web
+      So well the shuttle threw,
+    And severed from the framework
+      As closelywov'n a warp:--
+    And who could wake with masterhand
+      Such music from the harp,
+    To broadlimbed Pallas tuning
+      And Artemis her lay--
+    As Helen, Helen in whose eyes
+      The Loves for ever play?
+
+    "O bright, O beautiful, for thee
+      Are matron-cares begun.
+    We to green paths and blossomed meads
+      With dawn of morn must run,
+    And cull a breathing chaplet;
+      And still our dream shall be,
+    Helen, of thee, as weanling lambs
+      Yearn in the pasture for the dams
+    That nursed their infancy.
+
+    "For thee the lowly lotus-bed
+      We'll spoil, and plait a crown
+    To hang upon the shadowy plane;
+      For thee will we drop down
+    ('Neath that same shadowy platan)
+      Oil from our silver urn;
+    And carven on the bark shall be
+      This sentence, 'HALLOW HELEN'S TREE';
+    In Dorian letters, legibly
+      For all men to discern.
+
+    "Now farewell, bride, and bridegroom
+      Blest in thy new-found sire!
+    May Leto, mother of the brave,
+      Bring babes at your desire,
+    And holy Cypris either's breast
+      With mutual transport fire:
+    And Zeus the son of Cronos
+      Grant blessings without end,
+    From princely sire to princely son
+      For ever to descend.
+
+    "Sleep on, and love and longing
+      Breathe in each other's breast;
+    But fail not when the morn returns
+      To rouse you from your rest:
+    With dawn shall we be stirring,
+      When, lifting high his fair
+    And feathered neck, the earliest bird
+      To clarion to the dawn is heard.
+        O god of brides and bridals,
+          Sing 'Happy, happy pair!'"
+
+
+
+
+IDYLL XIX.
+
+
+Love Stealing Honey.
+
+    Once thievish Love the honeyed hives would rob,
+    When a bee stung him: soon he felt a throb
+    Through all his finger-tips, and, wild with pain,
+    Blew on his hands and stamped and jumped in vain.
+    To Aphrodite then he told his woe:
+    'How can a thing so tiny hurt one so?'
+    She smiled and said; 'Why thou'rt a tiny thing,
+    As is the bee; yet sorely thou canst sting.'
+
+
+
+
+IDYLL XX.
+
+
+Town and Country
+
+    Once I would kiss Eunice. "Back," quoth she,
+    And screamed and stormed; "a sorry clown kiss me?
+    Your country compliments, I like not such;
+    No lips but gentles' would I deign to touch.
+    Ne'er dream of kissing me: alike I shun
+    Your face, your language, and your tigerish fun.
+    How winning are your tones, how fine your air!
+    Your beard how silken and how sweet your hair!
+    Pah! you've a sick man's lips, a blackamoor's hand:
+    Your breath's defilement. Leave me, I command."
+
+      Thrice spat she on her robe, and, muttering low,
+    Scanned me, with half-shut eyes, from top to toe:
+    Brought all her woman's witcheries into play,
+    Still smiling in a set sarcastic way,
+    Till my blood boiled, my visage crimson grew
+    With indignation, as a rose with dew:
+    And so she left me, inly to repine
+    That such as she could flout such charms as mine.
+
+      O shepherds, tell me true! Am I not fair?
+    Am I transformed? For lately I did wear
+    Grace as a garment; and my cheeks, o'er them
+    Ran the rich growth like ivy round the stem.
+    Like fern my tresses o'er my temples streamed;
+    O'er my dark eyebrows, white my forehead gleamed:
+    My eyes were of Athene's radiant blue,
+    My mouth was milk, its accents honeydew.
+    Then I could sing--my tones were soft indeed!--
+    To pipe or flute or flageolet or reed:
+    And me did every maid that roams the fell
+    Kiss and call fair: not so this city belle.
+    She scorns the herdsman; knows not how divine
+    Bacchus ranged once the valleys with his kine;
+    How Cypris, maddened for a herdsman's sake,
+    Deigned upon Phrygia's mountains to partake
+    His cares: and wooed, and wept, Adonis in the brake.
+    What was Endymion, sweet Selene's love?
+    A herdsman's lad. Yet came she from above,
+    Down to green Latmos, by his side to sleep.
+    And did not Rhea for a herdsman weep?
+    Didst not thou, Zeus, become a wandering bird,
+    To win the love of one who drove a herd?
+    Selene, Cybele, Cypris, all loved swains:
+    Eunice, loftier-bred, their kiss disdains.
+    Henceforth, by hill or hall, thy love disown,
+    Cypris, and sleep the livelong night alone.
+
+
+
+
+IDYLL XXI.
+
+
+The Fishermen.
+
+_ASPHALION, A COMRADE._
+
+    Want quickens wit: Want's pupils needs must work,
+    O Diophantus: for the child of toil
+    Is grudged his very sleep by carking cares:
+    Or, if he taste the blessedness of night,
+    Thought for the morrow soon warns slumber off.
+
+      Two ancient fishers once lay side by side
+    On piled-up sea-wrack in their wattled hut,
+    Its leafy wall their curtain. Near them lay
+    The weapons of their trade, basket and rod,
+    Hooks, weed-encumbered nets, and cords and oars,
+    And, propped on rollers, an infirm old boat.
+    Their pillow was a scanty mat, eked out
+    With caps and garments: such the ways and means,
+    Such the whole treasury of the fishermen.
+    They knew no luxuries: owned nor door nor dog;
+    Their craft their all, their mistress Poverty:
+    Their only neighbour Ocean, who for aye
+    Bound their lorn hut came floating lazily.
+
+      Ere the moon's chariot was in mid-career,
+    The fishers girt them for their customed toil,
+    And banished slumber from unwilling eyes,
+    And roused their dreamy intellects with speech:--
+
+    ASPHALION.
+      "They say that soon flit summer-nights away,
+    Because all lingering is the summer day:
+    Friend, it is false; for dream on dream have I
+    Dreamed, and the dawn still reddens not the sky.
+    How? am I wandering? or does night pass slow?"
+
+    HIS COMRADE.
+      "Asphalion, scout not the sweet summer so.
+    'Tis not that wilful seasons have gone wrong,
+    But care maims slumber, and the nights seem long."
+
+    ASPHALION.
+      "Didst thou e'er study dreams? For visions fair
+    I saw last night; and fairly thou should'st share
+    The wealth I dream of, as the fish I catch.
+    Now, for sheer sense, I reckon few thy match;
+    And, for a vision, he whose motherwit
+    Is his sole tutor best interprets it.
+    And now we've time the matter to discuss:
+    For who could labour, lying here (like us)
+    Pillowed on leaves and neighboured by the deep,
+    Or sleeping amid thorns no easy sleep?
+    In rich men's halls the lamps are burning yet;
+    But fish come alway to the rich man's net."
+
+    COMRADE.
+      "To me the vision of the night relate;
+    Speak, and reveal the riddle to thy mate."
+
+    ASPHALION.
+      "Last evening, as I plied my watery trade,
+    (Not on an o'erfull stomach--we had made
+    Betimes a meagre meal, as you can vouch,)
+    I fell asleep; and lo! I seemed to crouch
+    Among the boulders, and for fish to wait,
+    Still dangling, rod in hand, my vagrant bait.
+    A fat fellow caught it: (e'en in sleep I'm bound
+    To dream of fishing, as of crusts the hound:)
+    Fast clung he to the hooks; his blood outwelled;
+    Bent with his struggling was the rod I held:
+    I tugged and tugged: my efforts made me ache:
+    'How, with a line thus slight, this monster take?'
+    Then gently, just to warn him he was caught,
+    I twitched him once; then slacked and then made taut
+    My line, for now he offered not to ran;
+    A glance soon showed me all my task was done.
+    'Twas a gold fish, pure metal every inch
+    That I had captured. I began to flinch:
+    'What if this beauty be the sea-king's joy,
+    Or azure Amphitrite's treasured toy!'
+    With care I disengaged him--not to rip
+    With hasty hook the gilding from his lip:
+    And with a tow-line landed him, and swore
+    Never to set my foot on ocean more,
+    But with my gold live royally ashore.
+    So I awoke: and, comrade, lend me now
+    Thy wits, for I am troubled for my vow."
+
+    COMRADE.
+    "Ne'er quake: you're pledged to nothing, for no prize
+    You gained or gazed on. Dreams are nought but lies.
+    Yet may this dream bear fruit; if, wide-awake
+    And not in dreams, you'll fish the neighbouring lake.
+    Fish that are meat you'll there mayhap behold,
+    Not die of famine, amid dreams of gold."
+
+
+
+
+IDYLL XXII.
+
+
+The Sons of Leda
+
+    The pair I sing, that AEgis-armed Zeus
+    Gave unto Leda; Castor and the dread
+    Of bruisers Polydeuces, whensoe'er
+    His harnessed hands were lifted for the fray.
+    Twice and again I sing the manly sons
+    Of Leda, those Twin Brethren, Sparta's own:
+    Who shield the soldier on the deadly scarp,
+    The horse wild-plunging o'er the crimson field,
+    The ship that, disregarding in her pride
+    Star-set and star-rise, meets disastrous gales:--
+    Such gales as pile the billows mountain-high,
+    E'en at their own wild will, round stem or stern:
+    Dash o'er the hold, the timbers rive in twain,
+    Till mast and tackle dangle in mid-air
+    Shivered like toys, and, as the night wears on,
+    The rain of heaven falls fast, and, lashed by wind
+    And iron hail, broad ocean rings again.
+    Then can they draw from out the nether abyss
+    Both craft and crew, each deeming he must die:
+    Lo the winds cease, and o'er the burnished deep
+    Comes stillness; this way flee the clouds and that;
+    And shine out clear the Great Bear and the Less,
+    And, 'twixt the Asses dimly seen, the Crib
+    Foretells fair voyage to the mariner.
+    O saviours, O companions of mankind,
+    Matchless on horse or harp, in lists or lay;
+    Which of ye twain demands my earliest song?
+    Of both I sing; of Polydeuces first.
+
+      Argo, escaped the two inrushing rocks,
+    And snow-clad Pontus with his baleful jaws,
+    Came to Bebrycia with her heaven-sprung freight;
+    There by one ladder disembarked a host
+    Of Heroes from the decks of Jason's ship.
+    On the low beach, to leeward of the cliff,
+    They leapt, and piled their beds, and lit their fires:
+    Castor meanwhile, the bridler of the steed,
+    And Polydeuces of the nut-brown face,
+    Had wandered from their mates; and, wildered both,
+    Searched through the boskage of the hill, and found
+    Hard by a slab of rock a bubbling spring
+    Brimful of purest water. In the depths
+    Below, like crystal or like silver gleamed
+    The pebbles: high above it pine and plane
+    And poplar rose, and cypress tipt with green;
+    With all rich flowers that throng the mead, when wanes
+    The Spring, sweet workshops of the furry bee.
+    There sat and sunned him one of giant bulk
+    And grisly mien: hard knocks had stov'n his ears:
+    Broad were his shoulders, vast his orbed chest;
+    Like a wrought statue rose his iron frame:
+    And nigh the shoulder on each brawny arm
+    Stood out the muscles, huge as rolling stones
+    Caught by some rain-swoln river and shapen smooth
+    By its wild eddyings: and o'er nape and spine
+    Hung, balanced by the claws, a lion's skin.
+    Him Leda's conquering son accosted first:--
+
+    POLYDEUCES.
+    Luck to thee, friend unknown! Who own this shore?
+
+    AMYCUS.
+    Luck, quotha, to see men ne'er seen before!
+
+    POLYDEUCES.
+    Fear not, no base or base-born herd are we.
+
+    AMYCUS.
+    Nothing I fear, nor need learn this from thee.
+
+    POLYDEUCES.
+    What art thou? brutish churl, or o'erproud king?
+
+    AMYCUS.
+    E'en what thou see'st: and I am not trespassing.
+
+    POLYDEUCES.
+    Visit our land, take gifts from us, and go.
+
+    AMYCUS.
+    I seek naught from thee and can naught bestow.
+
+    POLYDEUCES.
+    Not e'en such grace as from yon spring to sip?
+
+    AMYCUS.
+    Try, if parched thirst sits languid on thy lip.
+
+    POLYDEUCES.
+    Can silver move thee? or if not, what can?
+
+    AMYCUS.
+    Stand up and fight me singly, man with man.
+
+    POLYDEUCES.
+    With fists? or fist and foot, eye covering eye?
+
+    AMYCUS.
+    Fall to with fists; and all thy cunning try.
+
+    POLYDEUCES.
+    This arm, these gauntlets, who shall dare withstand?
+
+    AMYCUS.
+    I: and "the Bruiser" lifts no woman's-hand.
+
+    POLYDEUCES.
+    Wilt thou, to crown our strife, some meed assign?
+
+    AMYCUS.
+    Thou shalt be called my master, or I thine.
+
+    POLYDEUCES.
+    By crimson-crested cocks such games are won.
+
+    AMYCUS.
+    Lions or cocks, we'll play this game or none.
+
+      He spoke, and clutched a hollow shell, and blew
+    His clarion. Straightway to the shadowy pine
+    Clustering they came, as loud it pealed and long,
+    Bebrycia's bearded sons; and Castor too,
+    The peerless in the lists, went forth and called
+    From the Magnesian ship the Heroes all.
+
+      Then either warrior armed with coils of hide
+    His hands, and round his limbs bound ponderous bands,
+    And, breathing bloodshed, stept into the ring.
+    First there was much manoeuvring, who should catch
+    The sunlight on his rear: but thou didst foil,
+    O Polydeuces, valour by address;
+    And full on Amycus' face the hot noon smote.
+    He in hot wrath strode forward, threatening war;
+    Straightway the Tyndarid smote him, as he closed,
+    Full on the chin: more furious waxed he still,
+    And, earthward bent, dealt blindly random blows.
+    Bebrycia shouted loud, the Greeks too cheered
+    Their champion: fearing lest in that scant space
+    This Tityus by sheer weight should bear him down.
+    But, shifting yet still there, the son of Zeus
+    Scored him with swift exchange of left and right,
+    And checked the onrush of the sea-god's child
+    Parlous albeit: till, reeling with his wounds,
+    He stood, and from his lips spat crimson blood.
+    Cheered yet again the princes, when they saw
+    The lips and jowl all seamed with piteous scars,
+    And the swoln visage and the half-closed eyes.
+    Still the prince teased him, feinting here or there
+    A thrust; and when he saw him helpless all,
+    Let drive beneath his eyelids at his nose,
+    And laid it bare to the bone. The stricken man
+    Measured his length supine amid the fern.
+    Keen was the fighting when he rose again,
+    Deadly the blows their sturdy gauntlets dealt.
+    But while Bebrycia's chieftain sparred round chest
+    And utmost shoulder, the resistless foe
+    Made his whole face one mass of hideous wounds.
+    While the one sweated all his bulk away,
+    And, late a giant, seemed a pigmy now,
+    The other's limbs waxed ever as he fought
+    In semblance and in size. But in what wise
+    The child of Zeus brought low that man of greed,
+    Tell, Muse, for thine is knowledge: I unfold
+    A secret not mine own; at thy behest
+    Speak or am dumb, nor speak but as thou wilt.
+
+      Amycus, athirst to do some doughty deed,
+    Stooping aslant from Polydeuces' lunge
+    Locked their left hands; and, stepping out, upheaved
+    From his right hip his ponderous other-arm.
+    And hit and harmed had been Amyclae's king;
+    But, ducking low, he smote with one stout fist
+    The foe's left temple--fast the life-blood streamed
+    From the grim rift--and on his shoulder fell.
+    While with his left he reached the mouth, and made
+    The set teeth tingle; and, redoubling aye
+    His plashing blows, made havoc of his face
+    And crashed into his cheeks, till all abroad
+    He lay, and throwing up his arms disclaimed
+    The strife, for he was even at death's door.
+    No wrong the vanquished suffered at thy hands,
+    O Polydeuces; but he sware an oath,
+    Calling his sire Poseidon from the depths,
+    Ne'er to do violence to a stranger more.
+
+      Thy tale, O prince, is told. Now sing I thee,
+    Castor the Tyndarid, lord of rushing horse
+    And shaking javelin, corsleted in brass.
+
+
+    PART II.
+
+    The sons of Zeus had borne two maids away,
+    Leucippus' daughters. Straight in hot pursuit
+    Went the two brethren, sons of Aphareus,
+    Lynceus and Idas bold, their plighted lords.
+    And when the tomb of Aphareus was gained,
+    All leapt from out their cars, and front to front
+    Stood, with their ponderous spears and orbed shields.
+    First Lynceus shouted loud from 'neath his helm:
+
+    "Whence, sirs, this lust for strife? Why, sword in hand,
+    Raise ye this coil about your neighbours' wives?
+    To us Leucippus these his daughters gave,
+    Long ere ye saw them: they are ours on oath.
+    Ye, coveting (to your shame) your neighbour's bed
+    And kine and asses and whatever is his,
+    Suborned the man and stole our wives by bribes.
+    How often spake I thus before your face,
+    Yea I myself, though scant I am of phrase:
+    'Not thus, fair sirs, do honourable men
+    Seek to woo wives whose troth is given elsewhere.
+    Lo, broad is Sparta, broad the hunting-grounds
+    Of Elis: fleecy Arcady is broad,
+    And Argos and Messene and the towns
+    To westward, and the long Sisyphian reach.
+    There 'neath her parents' roof dwells many a maid
+    Second to none in godliness or wit:
+    Wed of all these, and welcome, whom ye will,
+    For all men court the kinship of the brave;
+    And ye are as your sires, and they whose blood
+    Runs in your mother's veins, the flower of war.
+    Nay, sirs, but let us bring this thing to pass;
+    Then, taking counsel, choose meet brides for you.'
+    So I ran on; but o'er the shifting seas
+    The wind's breath blew my words, that found no grace
+    With you, for ye defied the charmer's voice.
+    Yet listen to me now if ne'er before:
+    Lo! we are kinsmen by the father's side.
+    But if ye lust for war, if strife must break
+    Forth among kin, and bloodshed quench our feud,
+    Bold Polydeuces then shall hold his hands
+    And his cousin Idas from the abhorred fray:
+    While I and Castor, the two younger-born,
+    Try war's arbitrament; so spare our sires
+    Sorrow exceeding. In one house one dead
+    Sufficeth: let the others glad their mates,
+    To the bride-chamber passing, not the grave,
+    And o'er yon maids sing jubilee. Well it were
+    At cost so small to lay so huge a strife."
+
+      He spoke--his words heaven gave not to the winds.
+    They, the two first-born, disarrayed and piled
+    Their arms, while Lynceus stept into the ring,
+    And at his shield's rim shook his stalwart spear.
+    And Castor likewise poised his quivering lance;
+    High waved the plume on either warrior's helm.
+    First each at other thrust with busy spear
+    Where'er he spied an inch of flesh exposed:
+    But lo! both spearpoints in their wicker shields
+    Lodged ere a blow was struck, and snapt in twain.
+    Then they unsheathed their swords, and framed new modes
+    Of slaughter: pause or respite there was none.
+    Oft Castor on broad shield and plumed helm
+    Lit, and oft keen-eyed Lynceus pierced his shield,
+    Or grazed his crest of crimson. But anon,
+    As Lynceus aimed his blade at Castor's knee,
+    Back with the left sprang Castor and struck off
+    His fingers: from the maimed limb dropped the sword.
+    And, flying straightway, for his father's tomb
+    He made, where gallant Idas sat and saw
+    The battle of the brethren. But the child
+    Of Zeus rushed in, and with his broadsword drave
+    Through flank and navel, sundering with swift stroke
+    His vitals: Lynceus tottered and he fell,
+    And o'er his eyelids rushed the dreamless sleep.
+    Nor did their mother see her elder son
+    Come a fair bridegroom to his Cretan home.
+    For Idas wrenched from off the dead man's tomb
+    A jutting slab, to hurl it at the man
+    Who had slain his brother. Then did Zeus bring aid,
+    And struck the marble fabric from his grasp,
+    And with red lightning burned his frame to dust.
+    So doth he fight with odds who dares provoke
+    The Tyndarids, mighty sons of mighty sire.
+    Now farewell, Leda's children: prosper aye
+    The songs I sing. What minstrel loves not well
+    The Tyndarids, and Helen, and the chiefs
+    That trod Troy down for Menelaeus' sake?
+    The bard of Chios wrought your royal deeds
+    Into his lays, who sang of Priam's state,
+    And fights 'neath Ilion's walls; of sailor Greeks,
+    And of Achilles towering in the strife.
+    Yet take from me whate'er of clear sweet song
+    The Muse accords me, even all my store!
+    The gods' most precious gift is minstrelsy.
+
+
+
+
+IDYLL XXIII.
+
+
+Love Avenged
+
+    A lad deep-dipt in passion pined for one
+      Whose mood was froward as her face was fair.
+    Lovers she loathed, for tenderness she had none:
+      Ne'er knew what Love was like, nor how he bare
+    A bow, and arrows to make young maids smart:
+    Proof to all speech, all access, seemed her heart.
+
+    So he found naught his furnace to allay;
+      No quiver of lips, no lighting of kind eyes,
+    Nor rose-flushed cheek; no talk, no lover's play
+      Was deigned him: but as forest-beasts are shy
+    Of hound and hunter, with this wight dealt she;
+    Fierce was her lip, her eyes gleamed ominously.
+
+    Her tyrant's-heart was imaged in her face,
+      That flushed, then altering put on blank disdain.
+    Yet, even then, her anger had its grace,
+      And made her lover fall in love again.
+    At last, unable to endure his flame,
+    To the fell threshold all in tears he came:
+
+    Kissed it, and lifted up his voice and said:
+      "O heart of stone, O curst and cruel maid
+    Unworthy of all love, by lions bred,
+      See, my last offering at thy feet is laid,
+    The halter that shall hang me! So no more
+    For my sake, lady, need thy heart be sore.
+
+    Whither thou doom'st me, thither must I fare.
+      There is a path, that whoso treads hath ease
+    (Men say) from love; Forgetfulness is there.
+      But if I drain that chalice to the lees,
+    I may not quench the love I have for you;
+    Now at your gates I cast my long adieu.
+
+    Your future I foresee. The rose is gay,
+      And passing-sweet the violet of the spring:
+    Yet time despoils them, and they soon decay.
+      The lily droops and dies, that lustrous thing;
+    The solid-seeming snowdrift melts full fast;
+    And maiden's bloom is rare, but may not last.
+
+    The time shall come, when you shall feel as I;
+      And, with seared heart, weep many a bitter tear.
+    But, maiden, grant one farewell courtesy.
+      When you come forth, and see me hanging here,
+    E'en at your door, forget not my hard case;
+    But pause and weep me for a moment's space.
+
+    And drop one tear, and cut me down, and spread
+      O'er me some garment, for a funeral pall,
+    That wrapped thy limbs: and kiss me--let the dead
+      Be privileged thus highly--last of all.
+    You need not fear me: not if your disdain
+    Changed into fondness could I live again.
+
+    And scoop a grave, to hide my loves and me:
+      And thrice, at parting, say, 'My friend's no more:'
+    Add if you list, 'a faithful friend was he;'
+      And write this epitaph, scratched upon your door:
+    _Stranger, Love slew him. Pass not by, until
+    Thou hast paused and said, 'His mistress used him ill_.'"
+
+    This said, he grasped a stone: that ghastly stone
+      At the mid threshold 'neath the wall he laid,
+    And o'er the beam the light cord soon was thrown,
+      And his neck noosed. In air the body swayed,
+    Its footstool spurned away. Forth came once more
+    The maid, and saw him hanging at her door.
+
+    No struggle of heart it cost her, ne'er a tear
+      She wept o'er that young life, nor shunned to soil,
+    By contact with the corpse, her woman's-gear.
+      But on she went to watch the athletes' toil,
+    Then made for her loved haunt, the riverside:
+    And there she met the god she had defied.
+
+    For on a marble pedestal Eros stood
+      Fronting the pool: the statue leaped, and smote
+    And slew that miscreant. All the stream ran blood;
+      And to the top a girl's cry seemed to float.
+    Rejoice, O lovers, since the scorner fell;
+    And, maids, be kind; for Love deals justice well.
+
+
+
+
+IDYLL XXIV.
+
+
+The Infant Heracles.
+
+      Alcmena once had washed and given the breast
+    To Heracles, a babe of ten months old,
+    And Iphicles his junior by a night;
+    And cradled both within a brazen shield,
+    A gorgeous trophy, which Amphitryon erst
+    Had stript from Pterelaeus fall'n in fight.
+    She stroked their baby brows, and thus she said:
+
+      "Sleep, children mine, a light luxurious sleep,
+    Brother with brother: sleep, my boys, my life:
+    Blest in your slumber, in your waking blest!"
+
+      She spake and rocked the shield; and in his arms
+    Sleep took them. But at midnight, when the Bear
+    Wheels to his setting, in Orion's front
+    Whose shoulder then beams broadest; Hera sent,
+    Mistress of wiles, two huge and hideous things,
+    Snakes with their scales of azure all on end,
+    To the broad portal of the chamber-door,
+    All to devour the infant Heracles.
+    They, all their length uncoiled upon the floor,
+    Writhed on to their blood-feast; a baleful light
+    Gleamed in their eyes, rank venom they spat forth.
+    But when with lambent tongues they neared the cot,
+    Alcmena's babes (for Zeus was watching all)
+    Woke, and throughout the chamber there was light.
+    Then Iphicles--so soon as he descried
+    The fell brutes peering o'er the hollow shield,
+    And saw their merciless fangs--cried lustily,
+    And kicked away his coverlet of down,
+    Fain to escape. But Heracles, he clung
+    Round them with warlike hands, in iron grasp
+    Prisoning the two: his clutch upon their throat,
+    The deadly snake's laboratory, where
+    He brews such poisons as e'en heaven abhors.
+    They twined and twisted round the babe that, born
+    After long travail, ne'er had shed a tear
+    E'en in his nursery; soon to quit their hold,
+    For powerless seemed their spines. Alcmena heard,
+    While her lord slept, the crying, and awoke.
+
+      "Amphitryon, up: chill fears take hold on me.
+    Up: stay not to put sandals on thy feet.
+    Hear'st thou our child, our younger, how he cries?
+    Seest thou yon walls illumed at dead of night,
+    But not by morn's pure beam? I know, I know,
+    Sweet lord, that some strange thing is happening here."
+
+      She spake; and he, upleaping at her call,
+    Made swiftly for the sword of quaint device
+    That aye hung dangling o'er his cedarn couch:
+    And he was reaching at his span-new belt,
+    The scabbard (one huge piece of lotus-wood)
+    Poised on his arm; when suddenly the night
+    Spread out her hands, and all was dark again.
+    Then cried he to his slaves, whose sleep was deep:
+    "Quick, slaves of mine; fetch fire from yonder hearth:
+    And force with all your strength the doorbolts back!
+    Up, loyal-hearted slaves: the master calls."
+
+      Forth came at once the slaves with lighted lamps.
+    The house was all astir with hurrying feet.
+    But when they saw the suckling Heracles
+    With the two brutes grasped firm in his soft hands,
+    They shouted with one voice. But he must show
+    The reptiles to Amphitryon; held aloft
+    His hands in childish glee, and laughed and laid
+    At his sire's feet the monsters still in death.
+
+      Then did Alcmena to her bosom take
+    The terror-blanched and passionate Iphicles:
+    Cradling the other in a lambswool quilt,
+    Her lord once more bethought him of his rest.
+
+      Now cocks had thrice sung out that night was e'er.
+    Then went Alcmena forth and told the thing
+    To Teiresias the seer, whose words were truth,
+    And bade him rede her what the end should be:--
+    'And if the gods bode mischief, hide it not,
+    Pitying, from me: man shall not thus avoid
+    The doom that Fate upon her distaff spins.
+    Son of Eueres, thou hast ears to hear.'
+
+      Thus spake the queen, and thus he made reply:
+    "Mother of monarchs, Perseus' child, take heart;
+    And look but on the fairer side of things.
+    For by the precious light that long ago
+    Left tenantless these eyes, I swear that oft
+    Achaia's maidens, as when eve is high
+    They mould the silken yarn upon their lap,
+    Shall tell Alcmena's story: blest art thou
+    Of women. Such a man in this thy son
+    Shall one day scale the star-encumbered heaven:
+    His amplitude of chest bespeaks him lord
+    Of all the forest beasts and all mankind.
+    Twelve tasks accomplished he must dwell with Zeus;
+    His flesh given over to Trachinian fires;
+    And son-in-law be hailed of those same gods
+    Who sent yon skulking brutes to slay thy babe.
+    Lo! the day cometh when the fawn shall couch
+    In the wolfs lair, nor fear the spiky teeth
+    That would not harm him. But, O lady, keep
+    Yon smouldering fire alive; prepare you piles
+    Of fuel, bramble-sprays or fern or furze
+    Or pear-boughs dried with swinging in the wind:
+    And let the kindled wild-wood burn those snakes
+    At midnight, when they looked to slay thy babe.
+    And let at dawn some handmaid gather up
+    The ashes of the fire, and diligently
+    Convey and cast each remnant o'er the stream
+    Faced by clov'n rocks, our boundary: then return
+    Nor look behind. And purify your home
+    First with sheer sulphur, rain upon it then,
+    (Chaplets of olive wound about your heads,)
+    Innocuous water, and the customed salt.
+    Lastly, to Zeus almighty slay a boar:
+    So shall ye vanquish all your enemies."
+
+      Spake Teiresias, and wheeling (though his years
+    Weighed on him sorely) gained his ivory car.
+    And Heracles as some young orchard-tree
+    Grew up, Amphitryon his reputed sire.
+    Old Linus taught him letters, Phoebus' child,
+    A dauntless toiler by the midnight lamp.
+    Each fall whereby the sons of Argos fell,
+    The flingers by cross-buttock, each his man
+    By feats of wrestling: all that boxers e'er,
+    Grim in their gauntlets, have devised, or they
+    Who wage mixed warfare and, adepts in art,
+    Upon the foe fall headlong: all such lore
+    Phocian Harpalicus gave him, Hermes' son:
+    Whom no man might behold while yet far off
+    And wait his armed onset undismayed:
+    A brow so truculent roofed so stern a face.
+    To launch, and steer in safety round the goal,
+    Chariot and steed, and damage ne'er a wheel,
+    This the lad learned of fond Amphitryon's self.
+    Many a fair prize from listed warriors he
+    Had won on Argive racegrounds; yet the car
+    Whereon he sat came still unshattered home,
+    What gaps were in his harness time had made.
+    Then with couched lance to reach the foe, his targe
+    Covering his rear, and bide the biting sword;
+    Or, on the warpath, place his ambuscade,
+    Marshal his lines and rally his cavaliers;
+    This knightly Castor learned him, erst exiled
+    From Argos, when her realms with all their wealth
+    Of vineyards fell to Tydeus, who received
+    Her and her chariots at Adrastus' hand.
+    Amongst the Heroes none was Castor's match
+    Till age had dimmed the glory of his youth.
+
+    Such tutors this fond mother gave her son.
+    The stripling's bed was at his father's side,
+    One after his own heart, a lion's skin.
+    His dinner, roast meat, with a loaf that filled
+    A Dorian basket, you might soothly say
+    Had satisfied a delver; and to close
+    The day he took, sans fire, a scanty meal.
+    A simple frock went halfway down his leg:
+
+       *       *       *       *       *
+
+
+
+
+IDYLL XXV.
+
+
+Heracles the Lion Slayer.
+
+       *       *       *       *       *
+
+      To whom thus spake the herdsman of the herd,
+    Pausing a moment from his handiwork:
+    "Friend, I will solve thy questions, for I fear
+    The angry looks of Hermes of the roads.
+    No dweller in the skies is wroth as he,
+    With him who saith the asking traveller nay.
+
+      "The flocks Augeas owns, our gracious lord,
+    One pasture pastures not, nor one fence bounds.
+    They wander, look you, some by Elissus' banks
+    Or god-beloved Alpheus' sacred stream,
+    Some by Buprasion, where the grape abounds,
+    Some here: their folds stand separate. But before
+    His herds, though they be myriad, yonder glades
+    That belt the broad lake round lie fresh and fair
+    For ever: for the low-lying meadows take
+    The dew, and teem with herbage honeysweet,
+    To lend new vigour to the horned kine.
+    Here on thy right their stalls thou canst descry
+    By the flowing river, for all eyes to see:
+    Here, where the platans blossom all the year,
+    And glimmers green the olive that enshrines
+    Rural Apollo, most august of gods.
+    Hard by, fair mansions have been reared for us
+    His herdsmen; us who guard with might and main
+    His riches that are more than tongue may tell:
+    Casting our seed o'er fallows thrice upturn'd
+    Or four times by the share; the bounds whereof
+    Well do the delvers know, whose busy feet
+    Troop to his wine-vats in fair summer-time.
+    Yea, all these acres wise Augeas owns,
+    These corn-clad uplands and these orchards green,
+    Far as yon ledges whence the cataracts leap.
+    Here do we haunt, here toil, as is the wont
+    Of labourers in the fields, the livelong day.
+    But prythee tell me thou--so shalt thou best
+    Serve thine own interests--wherefore art thou here?
+    Seeking Augeas, or mayhap some slave
+    That serves him? I can tell thee and I will
+    All thou would'st know: for of no churlish blood
+    Thou earnest, nor wert nurtured as a churl:
+    That read I in thy stateliness of form;
+    The sons of heaven move thus among mankind."
+
+    Then answered him the warrior son of Zeus.
+    "Yea, veteran, I would see the Epean King
+    Augeas; surely for this end I came.
+    If he bides there amongst his citizens,
+    Ruling the folk, determining the laws,
+    Look, father; bid some serf to be my guide,
+    Some honoured master-worker in the fields,
+    Who to shrewd questions shrewdly can reply.
+    Are not we made dependent each on each?"
+
+      To him the good old swain made answer thus:
+    "Stranger, some god hath timed thy visit here,
+    And given thee straightway all thy heart's desire.
+    Hither Augeas, offspring of the Sun,
+    Came, with young Phyleus splendid in his strength,
+    But yesterday from the city, to review
+    (Not in one day) his multitudinous wealth,
+    Methinks e'en princes say within themselves,
+    'The safeguard of the flock's the master's eye.'
+    But haste, we'll seek him: to my own fold I
+    Will pilot thee; there haply find the King."
+
+      He said and went in front: but pondered much
+    (As he surveyed the lion-skin and the club,
+    Itself an armful) whence this stranger came;
+    And fain had asked. But fear recalled the words
+    That trembled on his lip, the fear to say
+    Aught that his fiery friend might take amiss.
+    For who can fathom all his fellow's mind?
+
+      The dogs perceived their coming, yet far off:
+    They scented flesh, they heard the thud of feet:
+    And with wild gallop, baying furiously,
+    Ran at Amphitryon's son: but feebly whined
+    And fawned upon the old man at his side.
+    Then Heracles, just lifting from the ground
+    A pebble, scared them home, and with hard words
+    Cursed the whole pack; and having stopped their din
+    (Inly rejoiced, nathless, to see them guard
+    So well an absent master's house) he spake:
+
+      "Lo! what a friend the royal gods have given
+    Man in the dog! A trusty servant he!
+    Had he withal an understanding heart,
+    To teach him when to rage and when forbear,
+    What brute could claim like praise? But, lacking wit,
+    'Tis but a passionate random-raving thing."
+
+      He spake: the dogs ran scurrying to their lairs.
+    And now the sun wheeled round his westering car
+    And led still evening on: from every field
+    Came thronging the fat flocks to bield and byre.
+    Then in their thousands, drove on drove, the kine
+    Came into view; as rainclouds, onward driven
+    By stress of gales, the west or mighty north,
+    Come up o'er all the heaven; and none may count
+    And naught may stay them as they sweep through air;
+    Such multitudes the storm's strength drives ahead,
+    Such multitudes climb surging in the rear--
+    So in swift sequence drove succeeded drove,
+    And all the champaign, all the highways swarmed
+    With tramping oxen; all the sumptuous leas
+    Rang with their lowing. Soon enough the stalls
+    Were populous with the laggard-footed kine,
+    Soon did the sheep lie folded in their folds.
+    Then of that legion none stood idle, none
+    Gaped listless at the herd, with naught to do:
+    But one drew near and milked them, binding clogs
+    Of wood with leathern thongs around their feet:
+    One brought, all hungering for the milk they loved,
+    The longing young ones to the longing dams.
+    One held the pail, one pressed the dainty cheese,
+    Or drove the bulls home, sundered from the kine.
+    Pacing from stall to stall, Augeas saw
+    What revenue his herdsman brought him in.
+    With him his son surveyed the royal wealth,
+    And, strong of limb and purpose, Heracles.
+    Then, though the heart within him was as steel,
+    Framed to withstand all shocks, Amphitryon's son
+    Gazed in amazement on those thronging kine;
+    For none had deemed or dreamed that one, or ten,
+    Whose wealth was more than regal, owned those tribes:
+    Such huge largess the Sun had given his child,
+    First of mankind for multitude of flocks.
+    The Sun himself gave increase day by day
+    To his child's herds: whatever diseases spoil
+    The farmer, came not there; his kine increased
+    In multitude and value year by year:
+    None cast her young, or bare unfruitful males.
+    Three hundred bulls, white-pasterned, crumple-horned,
+    Ranged amid these, and eke two hundred roans,
+    Sires of a race to be: and twelve besides
+    Herded amongst them, sacred to the Sun.
+    Their skin was white as swansdown, and they moved
+    Like kings amid the beasts of laggard foot.
+    Scorning the herd in uttermost disdain
+    They cropped the green grass in untrodden fields:
+    And when from the dense jungle to the plain
+    Leapt a wild beast, in quest of vagrant cows;
+    Scenting him first, the twelve went forth to war.
+    Stern was their bellowing, in their eye sat death,
+    Foremost of all for mettle and for might
+    And pride of heart loomed Phaeton: him the swains
+    Regarded as a star; so bright he shone
+    Among the herd, the cynosure of eyes.
+    He, soon as he descried the sun-dried skin
+    Of the grim lion, made at Heracles
+    (Whose eye was on him)--fain to make his crest
+    And sturdy brow acquainted with his flanks.
+    Straight the prince grasped him with no tender grasp
+    By the left horn, and bowed that giant bulk
+    To earth, neck foremost: then, by pressure brought
+    To bear upon his shoulder, forced him back.
+    The web of muscles that enwraps the nerves
+    Stood out from the brute's fore-arm plain to see.
+    Marvelled the King, and Phyleus his brave son,
+    At the strange prowess of Amphitryon's child.
+
+      Then townwards, leaving straight that rich champaign,
+    Stout Heracles his comrade, Phyleus fared;
+    And soon as they had gained the paven road,
+    Making their way hotfooted o'er a path
+    (Not o'er-conspicuous in the dim green wood)
+    That left the farm and threaded through the vines,
+    Out-spake unto the child of Zeus most high,
+    Who followed in his steps, Augeas' son,
+    O'er his right shoulder glancing pleasantly.
+
+      "O stranger, as some old familiar tale
+    I seem to cast thy history in my mind.
+    For there came one to Argos, young and tall,
+    By birth a Greek from Helice-on-seas,
+    Who told this tale before a multitude:
+    How that an Argive in his presence slew
+    A fearful lion-beast, the dread and death
+    Of herdsmen; which inhabited a den
+    Or cavern by the grove of Nemean Zeus.
+    He may have come from sacred Argos' self,
+    Or Tiryns, or Mycenae: what know I?
+    But thus he told his tale, and said the slayer
+    Was (if my memory serves me) Perseus' son.
+    Methinks no islander had dared that deed
+    Save thee: the lion's skin that wraps thy ribs
+    Argues full well some gallant feat of arms.
+    But tell me, warrior, first--that I may know
+    If my prophetic soul speak truth or not--
+    Art thou the man of whom that stranger Greek
+    Spoke in my hearing? Have I guessed aright?
+    How slew you single-handed that fell beast?
+    How came it among rivered Nemea's glens?
+    For none such monster could the eagerest eye
+    Find in all Greece: Greece harbours bear and boar,
+    And deadly wolf: but not this larger game.
+    'Twas this that made his listeners marvel then:
+    They deemed he told them travellers' tales, to win
+    By random words applause from standers-by."
+
+    Then Phyleus from the mid-road edged away,
+    That both might walk abreast, and he might catch
+    More at his ease what fell from Heracles:
+    Who journeying now alongside thus began:--
+
+      "On the prior matter, O Augeas' child,
+    Thine own unaided wit hath ruled aright.
+    But all that monster's history, how it fell,
+    Fain would I tell thee who hast ears to hear,
+    Save only whence it came: for none of all
+    The Argive host could read that riddle right.
+    Some god, we dimly guessed, our niggard vows
+    Resenting, had upon Phoroneus' realm
+    Let loose this very scourge of humankind.
+    On peopled Pisa plunging like a flood
+    The brute ran riot: notably it cost
+    Its neighbours of Bembina woes untold.
+    And here Eurystheus bade me try my first
+    Passage of arms, and slay that fearsome thing.
+    So with my buxom bow and quiver lined
+    With arrows I set forth: my left hand held
+    My club, a beetling olive's stalwart trunk
+    And shapely, still environed in its bark:
+    This hand had torn from holiest Helicon
+    The tree entire, with all its fibrous roots.
+    And finding soon the lion's whereabouts,
+    I grasped my bow, and on the bent horn slipped
+    The string, and laid thereon the shaft of death.
+    And, now all eyes, I watched for that fell thing,
+    In hopes to view him ere he spied out me.
+    But midday came, and nowhere could I see
+    One footprint of the beast or hear his roar:
+    And, trust me, none appeared of whom to ask,
+    Herdsman or labourer, in the furrowed lea;
+    For wan dismay kept each man in his hut.
+    Still on I footed, searching through and through
+    The leafy mountain-passes, till I saw
+    The creature, and forthwith essayed my strength.
+    Gorged from some gory carcass, on he stalked
+    At eve towards his lair; his grizzled mane,
+    Shoulders, and grim glad visage, all adrip
+    With carnage; and he licked his bearded lips.
+    I, crouched among the shadows of the trees
+    On the green hill-top, waited his approach,
+    And as he came I aimed at his left flank.
+    The barbed shaft sped idly, nor could pierce
+    The flesh, but glancing dropped on the green grass.
+    He, wondering, raised forthwith his tawny head,
+    And ran his eyes o'er all the vicinage,
+    And snarled and gave to view his cavernous throat.
+    Meanwhile I levelled yet another shaft,
+    Ill pleased to think my first had fled in vain.
+    In the mid-chest I smote him, where the lungs
+    Are seated: still the arrow sank not in,
+    But fell, its errand frustrate, at his feet.
+    Once more was I preparing, sore chagrined,
+    To draw the bowstring, when the ravenous beast
+    Glaring around espied me, lashed his sides
+    With his huge tail, and opened war at once.
+    Swelled his vast neck, his dun locks stood on end
+    With rage: his spine moved sinuous as a bow,
+    Till all his weight hung poised on flank and loin.
+    And e'en as, when a chariot-builder bends
+    With practised skill his shafts of splintered fig,
+    Hot from the fire, to be his axle-wheels;
+    Flies the tough-rinded sapling from the hands
+    That shape it, at a bound recoiling far:
+    So from far-off the dread beast, all of a heap,
+    Sprang on me, hungering for my life-blood. I
+    Thrust with one hand my arrows in his face
+    And my doffed doublet, while the other raised
+    My seasoned cudgel o'er his crest, and drave
+    Full at his temples, breaking clean in twain
+    On the fourfooted warrior's airy scalp
+    My club; and ere he reached me, down he fell.
+    Headlong he fell, and poised on tremulous feet
+    Stood, his head wagging, and his eyes grown dim;
+    For the shrewd stroke had shattered brain and bone.
+    I, marking him beside himself with pain.
+    Fell, ere recovering he should breathe again,
+    At vantage on his solid sinewy neck,
+    My bow and woven quiver thrown aside.
+    With iron clasp I gripped him from the rear
+    (His talons else had torn me) and, my foot
+    Set on him, forced to earth by dint of heel
+    His hinder parts, my flanks entrenched the while
+    Behind his fore-arm; till his thews were stretched
+    And strained, and on his haunches stark he stood
+    And lifeless; hell received his monstrous ghost.
+    Then with myself I counselled how to strip
+    From off the dead beast's limbs his shaggy hide,
+    A task full onerous, since I found it proof
+    Against all blows of steel or stone or wood.
+    Some god at last inspired me with the thought,
+    With his own claws to rend the lion's skin.
+    With these I flayed him soon, and sheathed and armed
+    My limbs against the shocks of murderous war.
+    Thus, sir, the Nemean lion met his end,
+    Erewhile the constant curse of beast and man."
+
+
+
+
+IDYLL XXVI.
+
+
+The Bacchanals.
+
+      Agave of the vermeil-tinted cheek
+        And Ino and Autonoae marshalled erst
+      Three bands of revellers under one hill-peak.
+        They plucked the wild-oak's matted foliage first,
+      Lush ivy then, and creeping asphodel;
+    And reared therewith twelve shrines amid the untrodden fell:
+
+      To Semele three, to Dionysus nine.
+        Next, from a vase drew offerings subtly wrought,
+      And prayed and placed them on each fresh green shrine;
+        So by the god, who loved such tribute, taught.
+      Perched on the sheer cliff, Pentheus could espy
+    All, in a mastick hoar ensconced that grew thereby.
+
+    Autonoae marked him, and with, frightful cries
+        Flew to make havoc of those mysteries weird
+      That must not be profaned by vulgar eyes.
+        Her frenzy frenzied all. Then Pentheus feared
+      And fled: and in his wake those damsels three,
+    Each with her trailing robe up-gathered to the knee.
+
+      "What will ye, dames," quoth Pentheus. "Thou shalt guess
+        At what we mean, untold," Autonoae said.
+      Agave moaned--so moans a lioness
+        Over her young one--as she clutched his head:
+      While Ino on the carcass fairly laid
+    Her heel, and wrenched away shoulder and shoulder-blade.
+
+      Autonoae's turn came next: and what remained
+        Of flesh their damsels did among them share,
+      And back to Thebes they came all carnage-stained,
+        And planted not a king but aching there.
+      Warned by this tale, let no man dare defy
+    Great Bacchus; lest a death more awful he should die,
+
+      And when he counts nine years or scarcely ten,
+        Rush to his ruin. May I pass my days
+    Uprightly, and be loved of upright men!
+        And take this motto, all who covet praise:
+      ('Twas AEgis-bearing Zeus that spake it first:)
+    'The godly seed fares well: the wicked's is accurst.'
+
+      Now bless ye Bacchus, whom on mountain snows,
+        Prisoned in his thigh till then, the Almighty laid.
+      And bless ye fairfaced Semele, and those
+        Her sisters, hymned of many a hero-maid,
+      Who wrought, by Bacchus fired, a deed which none
+    May gainsay--who shall blame that which a god hath done?
+
+
+
+
+IDYLL XXVII.
+
+
+A Countryman's Wooing.
+
+_DAPHNIS. A MAIDEN_.
+
+    THE MAIDEN.
+    How fell sage Helen? through a swain like thee.
+
+    DAPHNIS.
+    Nay the true Helen's just now kissing me.
+
+    THE MAIDEN.
+    Satyr, ne'er boast: 'what's idler than a kiss?'
+
+    DAPHNIS.
+    Yet in such pleasant idling there is bliss.
+
+    THE MAIDEN.
+    I'll wash my mouth: where go thy kisses then?
+
+    DAPHNIS.
+    Wash, and return it--to be kissed again.
+
+    THE MAIDEN.
+    Go kiss your oxen, and not unwed maids.
+
+    DAPHNIS.
+    Ne'er boast; for beauty is a dream that fades.
+
+    THE MAIDEN.
+    Past grapes are grapes: dead roses keep their smell.
+
+    DAPHNIS.
+    Come to yon olives: I have a tale to tell.
+
+    THE MAIDEN.
+    Not I: you fooled me with smooth words before.
+
+    DAPHNIS.
+    Come to yon elms, and hear me pipe once more.
+
+    THE MAIDEN.
+    Pipe to yourself: your piping makes me cry.
+
+    DAPHNIS.
+    A maid, and flout the Paphian? Fie, oh fie!
+
+    THE MAIDEN.
+    She's naught to me, if Artemis' favour last.
+
+    DAPHNIS.
+    Hush, ere she smite you and entrap you fast.
+
+    THE MAIDEN.
+    And let her smite me, trap me as she will!
+
+    DAPHNIS.
+    Your Artemis shall be your saviour still?
+
+    THE MAIDEN.
+    Unhand me! What, again? I'll tear your lip.
+
+    DAPHNIS.
+    Can you, could damsel e'er, give Love the slip?
+
+    THE MAIDEN.
+    You are his bondslave, but not I by Pan!
+
+    DAPHNIS.
+    I doubt he'll give thee to a worser man.
+
+    THE MAIDEN.
+    Many have wooed me, but I fancied none.
+
+    DAPHNIS.
+    Till among many came the destined _one_.
+
+    THE MAIDEN.
+    Wedlock is woe. Dear lad, what can I do?
+
+    DAPHNIS.
+    Woe it is not, but joy and dancing too.
+
+    THE MAIDEN.
+    Wives dread their husbands: so I've heard it said.
+
+    DAPHNIS.
+    Nay, they rule o'er them. What does woman dread?
+
+    THE MAIDEN.
+    Then children--Eileithya's dart is keen.
+
+    DAPHNIS.
+    But the deliverer, Artemis, is your queen.
+
+    THE MAIDEN.
+    And bearing children all our grace destroys.
+
+    DAPHNIS.
+    Bear them and shine more lustrous in your boys.
+
+    THE MAIDEN.
+    Should I say yea, what dower awaits me then?
+
+    DAPHNIS.
+    Thine are my cattle, thine this glade and glen.
+
+    THE MAIDEN.
+    Swear not to wed, then leave me in my woe?
+
+    DAPHNIS.
+    Not I by Pan, though thou should'st bid me go.
+
+    THE MAIDEN.
+    And shall a cot be mine, with farm and fold!
+
+    DAPHNIS.
+    Thy cot's half-built, fair wethers range this wold.
+
+    THE MAIDEN.
+    What, what to my old father must I say?
+
+    DAPHNIS.
+    Soon as he hears my name he'll not say nay.
+
+    THE MAIDEN.
+    Speak it: by e'en a name we're oft beguiled.
+
+    DAPHNIS.
+    I'm Daphnis, Lycid's and Nomaea's child.
+
+    THE MAIDEN.
+    Well-born indeed: and not less so am I.
+
+    DAPHNIS.
+    I know--Menalcas' daughter may look high.
+
+    THE MAIDEN.
+    That grove, where stands your sheepfold, shew me please.
+
+    DAPHNIS.
+    Nay look, how green, how tall my cypress-trees.
+
+    THE MAIDEN.
+    Graze, goats: I go to learn the herdsman's trade.
+
+    DAPHNIS.
+    Feed, bulls: I shew my copses to my maid.
+
+    THE MAIDEN.
+    Satyr, what mean you? You presume o'ermuch.
+
+    DAPHNIS.
+    This waist is round, and pleasant to the touch.
+
+    THE MAIDEN.
+    By Pan, I'm like to swoon! Unhand me pray!
+
+    DAPHNIS.
+    Why be so timorous? Pretty coward, stay.
+
+    THE MAIDEN.
+    This bank is wet: you've soiled my pretty gown.
+
+    DAPHNIS.
+    See, a soft fleece to guard it I put down.
+
+    THE MAIDEN.
+    And you've purloined my sash. What can this mean?
+
+    DAPHNIS.
+    This sash I'll offer to the Paphian queen.
+
+    THE MAIDEN.
+    Stay, miscreant--some one comes--I heard a noise.
+
+    DAPHNIS.
+    'Tis but the green trees whispering of our joys.
+
+    THE MAIDEN.
+    You've torn my plaidie, and I am half unclad.
+
+    DAPHNIS.
+    Anon I'll give thee a yet ampler plaid.
+
+    THE MAIDEN.
+    Generous just now, you'll one day grudge me bread.
+
+    DAPHNIS.
+    Ah! for thy sake my life-blood I could shed.
+
+    THE MAIDEN.
+    Artemis, forgive! Thy eremite breaks her vow.
+
+    DAPHNIS.
+    Love, and Love's mother, claim a calf and cow.
+
+    THE MAIDEN.
+    A woman I depart, my girlhood o'er.
+
+    DAPHNIS.
+    Be wife, be mother; but a girl no more.
+
+      Thus interchanging whispered talk the pair,
+    Their faces all aglow, long lingered there.
+    At length the hour arrived when they must part.
+    With downcast eyes, but sunshine in her heart,
+    She went to tend her flock; while Daphnis ran
+    Back to his herded bulls, a happy man.
+
+
+
+
+IDYLL XXVIII.
+
+
+The Distaff.
+
+    Distaff, blithely whirling distaff, azure-eyed Athena's gift
+    To the sex the aim and object of whose lives is household thrift,
+    Seek with me the gorgeous city raised by Neilus, where a plain
+    Roof of pale-green rush o'er-arches Aphrodite's hallowed fane.
+    Thither ask I Zeus to waft me, fain to see my old friend's face,
+    Nicias, o'er whose birth presided every passion-breathing Grace;
+    Fain to meet his answering welcome; and anon deposit thee
+    In his lady's hands, thou marvel of laborious ivory.
+    Many a manly robe ye'll fashion, much translucent maiden's gear;
+    Nay, should e'er the fleecy mothers twice within the selfsame year
+    Yield their wool in yonder pasture, Theugenis of the dainty feet
+    Would perform the double labour: matron's cares to her are sweet.
+    To an idler or a trifler I had verily been loth
+    To resign thee, O my distaff, for the same land bred us both:
+    In the land Corinthian Archias built aforetime, thou hadst birth,
+    In our island's core and marrow, whence have sprung the kings of earth:
+    To the home I now transfer thee of a man who knows full well
+    Every craft whereby men's bodies dire diseases may repel:
+    There to live in sweet Miletus. Lady of the Distaff she
+    Shall be named, and oft reminded of her poet-friend by thee:
+    Men shall look on thee and murmur to each other, 'Lo! how small
+    Was the gift, and yet how precious! Friendship's gifts are priceless
+        all.'
+
+
+
+
+IDYLL XXIX.
+
+
+Loves.
+
+    'Sincerity comes with the wine-cup,' my dear:
+    Then now o'er our wine-cups let us be sincere.
+    My soul's treasured secret to you I'll impart;
+    It is this; that I never won fairly your heart.
+    One half of my life, I am conscious, has flown;
+    The residue lives on your image alone.
+    You are kind, and I dream I'm in paradise then;
+    You are angry, and lo! all is darkness again.
+    It is right to torment one who loves you? Obey
+    Your elder; 'twere best; and you'll thank me one day.
+    Settle down in one nest on one tree (taking care
+    That no cruel reptile can clamber up there);
+    As it is with your lovers you're fairly perplext;
+    One day you choose one bough, another the next.
+    Whoe'er at all struck by your graces appears,
+    Is more to you straight than the comrade of years;
+    While he's like the friend of a day put aside;
+    For the breath of your nostrils, I think, is your pride.
+    Form a friendship, for life, with some likely young lad;
+    So doing, in honour your name shall be had.
+    Nor would Love use you hardly; though lightly can he
+    Bind strong men in chains, and has wrought upon me
+    Till the steel is as wax--but I'm longing to press
+    That exquisite mouth with a clinging caress.
+
+      No? Reflect that you're older each year than the last;
+    That we all must grow gray, and the wrinkles come fast.
+    Reflect, ere you spurn me, that youth at his sides
+    Wears wings; and once gone, all pursuit he derides:
+    Nor are men over keen to catch charms as they fly.
+    Think of this and be gentle, be loving as I:
+    When your years are maturer, we two shall be then
+    The pair in the Iliad over again.
+    But if you consign all my words to the wind
+    And say, 'Why annoy me? you're not to my mind,'
+    I--who lately in quest of the Gold Fruit had sped
+    For your sake, or of Cerberus guard of the dead--
+    Though you called me, would ne'er stir a foot from my door,
+    For my love and my sorrow thenceforth will be o'er.
+
+
+
+
+IDYLL XXX.
+
+
+The Death of Adonis.
+
+    Cythera saw Adonis
+      And knew that he was dead;
+    She marked the brow, all grisly now,
+      The cheek no longer red;
+    And "Bring the boar before me"
+      Unto her Loves she said.
+
+    Forthwith her winged attendants
+      Ranged all the woodland o'er,
+    And found and bound in fetters
+      Threefold the grisly boar:
+    One dragged him at a rope's end
+      E'en as a vanquished foe;
+    One went behind and drave him
+      And smote him with his bow:
+    On paced the creature feebly;
+      He feared Cythera so.
+
+    To him said Aphrodite:
+      "So, worst of beasts, 'twas you
+    Who rent that thigh asunder,
+      Who him that loved me slew?"
+    And thus the beast made answer:
+      "Cythera, hear me swear
+    By thee, by him that loved thee,
+      And by these bonds I wear,
+    And them before whose hounds I ran--
+    I meant no mischief to the man
+      Who seemed to thee so fair.
+
+    "As on a carven statue
+      Men gaze, I gazed on him;
+    I seemed on fire with mad desire
+      To kiss that offered limb:
+    My ruin, Aphrodite,
+      Thus followed from my whim.
+
+    "Now therefore take and punish
+      And fairly cut away
+    These all unruly tusks of mine;
+      For to what end serve they?
+    And if thine indignation
+      Be not content with this,
+    Cut off the mouth that ventured
+      To offer him a kiss"--
+
+    But Aphrodite pitied
+      And bade them loose his chain.
+    The boar from that day forward
+      Still followed in her train;
+    Nor ever to the wildwood
+      Attempted to return,
+    But in the focus of Desire
+      Preferred to burn and burn.
+
+
+
+
+IDYLL XXXI.
+
+
+Loves.
+
+    Ah for this the most accursed, unendurable of ills!
+    Nigh two months a fevered fancy for a maid my bosom fills.
+    Fair she is, as other damsels: but for what the simplest swain
+    Claims from the demurest maiden, I must sue and sue in vain.
+    Yet doth now this thing of evil my longsuffering heart beguile,
+    Though the utmost she vouchsafes me is the shadow of a smile:
+    And I soon shall know no respite, have no solace e'en in sleep.
+    Yesterday I watched her pass me, and from down-dropt eyelids peep
+    At the face she dared not gaze on--every moment blushing more--
+    And my love took hold upon me as it never took before.
+    Home I went a wounded creature, with a gnawing at my heart;
+    And unto the soul within me did my bitterness impart.
+
+      "Soul, why deal with me in this wise? Shall thy folly know no bound?
+    Canst thou look upon these temples, with their locks of silver crowned,
+    And still deem thee young and shapely? Nay, my soul, let us be sage;
+    Act as they that have already sipped the wisdom-cup of age.
+    Men have loved and have forgotten. Happiest of all is he
+    To the lover's woes a stranger, from the lover's fetters free:
+    Lightly his existence passes, as a wild-deer fleeting fast:
+    Tamed, it may be, he shall voyage in a maiden's wake at last:
+    Still to-day 'tis his to revel with his mates in boyhood's flowers.
+    As to thee, thy brain and marrow passion evermore devours,
+    Prey to memories that haunt thee e'en in visions of the night;
+    And a year shall scarcely pluck thee from thy miserable plight."
+
+      Such and divers such reproaches did I heap upon my soul.
+    And my soul in turn made answer:--"Whoso deems he can control
+    Wily love, the same shall lightly gaze upon the stars of heaven
+    And declare by what their number overpasses seven times seven.
+    Will I, nill I, I may never from my neck his yoke unloose.
+    So, my friend, a god hath willed it: he whose plots could outwit Zeus,
+    And the queen whose home is Cyprus. I, a leaflet of to-day,
+    I whose breath is in my nostrils, am I wrong to own his sway?"
+
+
+
+
+FRAGMENT PROM THE "BERENICE."
+
+    Ye that would fain net fish and wealth withal,
+      For bare existence harrowing yonder mere,
+    To this our Lady slay at even-fall
+      That holy fish, which, since it hath no peer
+      For gloss and sheen, the dwellers about here
+    Have named the Silver Fish. This done, let down
+      Your nets, and draw them up, and never fear
+    To find them empty * * * *
+
+
+
+EPIGRAMS AND EPITAPHS.
+
+
+    I.
+
+    Yours be yon dew-steep'd roses, yours be yon
+    Thick-clustering ivy, maids of Helicon:
+    Thine, Pythian Paean, that dark-foliaged bay;
+    With such thy Delphian crags thy front array.
+    This horn'd and shaggy ram shall stain thy shrine,
+    Who crops e'en now the feathering turpentine.
+
+
+    II.
+
+    To Pan doth white-limbed Daphnis offer here
+      (He once piped sweetly on his herdsman's flute)
+    His reeds of many a stop, his barbed spear,
+      And scrip, wherein he held his hoards of fruit.
+
+
+    III.
+
+      Daphnis, thou slumberest on the leaf-strown lea,
+        Thy frame at rest, thy springes newly spread
+      O'er the fell-side. But two are hunting thee:
+        Pan, and Priapus with his fair young head
+      Hung with wan ivy. See! they come, they leap
+    Into thy lair--fly, fly,--shake off the coil of sleep!
+
+
+    IV.
+
+    For yon oaken avenue, swain, you must steer,
+      Where a statue of figwood, you'll see, has been set:
+    It has never been barked, has three legs and no ear;
+      But I think there is life in the patriarch yet.
+    He is handsomely shrined within fair chapel-walls;
+      Where, fringed with sweet cypress and myrtle and bay,
+    A stream ever-fresh from the rock's hollow falls,
+      And the ringleted vine her ripe store doth display:
+    And the blackbirds, those shrill-piping songsters of spring,
+      Wake the echoes with wild inarticulate song:
+    And the notes of the nightingale plaintively ring,
+      As she pours from her dun throat her lay sweet and strong.
+    Sitting there, to Priapus, the gracious one, pray
+      That the lore he has taught me I soon may unlearn:
+    Say I'll give him a kid, and in case he says nay
+      To this offer, three victims to him will I burn;
+    A kid, a fleeced ram, and a lamb sleek and fat;
+    He will listen, mayhap, to my prayers upon that.
+
+
+    V.
+
+    Prythee, sing something sweet to me--you that can play
+    First and second at once. Then I too will essay
+    To croak on the pipes: and yon lad shall salute
+    Our ears with a melody breathed through his flute.
+    In the cave by the green oak our watch we will keep,
+    And goatish old Pan we'll defraud of his sleep.
+
+
+    VI.
+
+    Poor Thyrsis! What boots it to weep out thine eyes?
+      Thy kid was a fair one, I own:
+    But the wolf with his cruel claw made her his prize,
+      And to darkness her spirit hath flown.
+    Do the dogs cry? What boots it? In spite of their cries
+      There is left of her never a bone.
+
+
+    VII.
+
+    For a Statue of AEsculapius.
+
+    Far as Miletus travelled Paean's son;
+    There to be guest of Nicias, guest of one
+    Who heals all sickness; and who still reveres
+    Him, for his sake this cedarn image rears.
+    The sculptor's hand right well did Nicias fill;
+    And here the sculptor lavished all his skill.
+
+
+    VIII.
+
+    Ortho's Epitaph.
+
+    Friend, Ortho of Syracuse gives thee this charge:
+    Never venture out, drunk, on a wild winter's night.
+    I did so and died. My possessions were large;
+    Yet the turf that I'm clad with is strange to me quite.
+
+
+    IX.
+
+    Epitaph of Cleonicus.
+
+    Man, husband existence: ne'er launch on the sea
+      Out of season: our tenure of life is but frail.
+    Think of poor Cleonicus: for Phasos sailed he
+      From the valleys of Syria, with many a bale:
+    With many a bale, ocean's tides he would stem
+      When the Pleiads were sinking; and he sank with them.
+
+
+    X.
+
+    For a Statue of the Muses.
+
+    To you this marble statue, maids divine,
+    Xenocles raised, one tribute unto nine.
+    Your votary all admit him: by this skill
+    He gat him fame: and you he honours still.
+
+
+    XI.
+
+    Epitaph of Eusthenes.
+
+    Here the shrewd physiognomist Eusthenes lies,
+    Who could tell all your thoughts by a glance at your eyes.
+    A stranger, with strangers his honoured bones rest;
+    They valued sweet song, and he gave them his best.
+    All the honours of death doth the poet possess:
+    If a small one, they mourned for him nevertheless.
+
+
+    XII.
+
+    For a Tripod Erected by Damoteles to Bacchus.
+
+    The precentor Damoteles, Bacchus, exalts
+      Your tripod, and, sweetest of deities, you.
+    He was champion of men, if his boyhood had faults;
+      And he ever loved honour and seemliness too.
+
+
+    XIII.
+
+    For a Statue of Anacreon.
+
+    This statue, stranger, scan with earnest gaze;
+      And, home returning, say "I have beheld
+    Anacreon, in Teos; him whose lays
+      Were all unmatched among our sires of eld."
+    Say further: "Youth and beauty pleased him best;"
+      And all the man will fairly stand exprest.
+
+
+    XIV.
+
+    Epitaph of Eurymedon.
+
+    Thou hast gone to the grave, and abandoned thy son
+    Yet a babe, thy own manhood but scarcely begun.
+    Thou art throned among gods: and thy country will take
+    Thy child to her heart, for his brave father's sake.
+
+
+    XV.
+
+    Another.
+
+    Prove, traveller, now, that you honour the brave
+    Above the poltroon, when he's laid in the grave,
+    By murmuring 'Peace to Eurymedon dead.'
+    The turf should lie light on so sacred a head.
+
+
+    XVI.
+
+    For a Statue of the Heavenly Aphrodite.
+
+    Aphrodite stands here; she of heavenly birth;
+    Not that base one who's wooed by the children of earth.
+    'Tis a goddess; bow down. And one blemishless all,
+    Chrysogone, placed her in Amphicles' hall:
+    Chrysogone's heart, as her children, was his,
+    And each year they knew better what happiness is.
+    For, Queen, at life's outset they made thee their friend;
+    Religion is policy too in the end.
+
+
+    XVII.
+
+    To Epicharmus.
+
+    Read these lines to Epicharmus. They are Dorian, as was he
+        The sire of Comedy.
+    Of his proper self bereaved, Bacchus, unto thee we rear
+        His brazen image here;
+    We in Syracuse who sojourn, elsewhere born. Thus much we can
+        Do for our countryman,
+    Mindful of the debt we owe him. For, possessing ample store
+        Of legendary lore,
+    Many a wholesome word, to pilot youths and maids thro' life, he spake:
+        We honour him for their sake.
+
+
+    XVIII.
+
+    Epitaph of Cleita, Nurse of Medeius.
+
+    The babe Medeius to his Thracian nurse
+      This stone--inscribed _To Cleita_--reared in the midhighway.
+      Her modest virtues oft shall men rehearse;
+    Who doubts it? is not 'Cleita's worth' a proverb to this day?
+
+
+    XIX.
+
+    To Archilochus.
+
+    Pause, and scan well Archilochus, the bard of elder days,
+        By east and west
+        Alike's confest
+      The mighty lyrist's praise.
+    Delian Apollo loved him well, and well the sister-choir:
+        His songs were fraught
+        With subtle thought,
+      And matchless was his lyre.
+
+
+    XX.
+
+    Under a Statue of Peisander,
+    WHO WROTE THE LABOURS OF HERACLES.
+
+    He whom ye gaze on was the first
+    That in quaint song the deeds rehearsed
+    Of him whose arm was swift to smite,
+    Who dared the lion to the fight:
+    That tale, so strange, so manifold,
+    Peisander of Cameirus told.
+    For this good work, thou may'st be sure,
+      His country placed him here,
+    In solid brass that shall endure
+    Through many a month and year.
+
+
+    XXI.
+
+    Epitaph of Hipponax.
+
+    Behold Hipponax' burialplace,
+      A true bard's grave.
+    Approach it not, if you're a base
+      And base-born knave.
+    But if your sires were honest men
+      And unblamed you,
+    Sit down thereon serenely then,
+      And eke sleep too.
+
+           *       *       *       *       *
+
+    Tuneful Hipponax rests him here.
+    Let no base rascal venture near.
+    Ye who rank high in birth and mind
+    Sit down--and sleep, if so inclined.
+
+
+    XXII.
+
+    On his own Book.
+
+    Not my namesake of Chios, but I, who belong
+    To the Syracuse burghers, have sung you my song.
+    I'm Praxagoras' son by Philinna the fair,
+    And I never asked praise that was owing elsewhere.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Theocritus, by Theocritus
+

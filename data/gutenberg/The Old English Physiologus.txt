@@ -1,0 +1,827 @@
+�The Project Gutenberg EBook of The Old English Physiologus, by Albert S. Cook
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Old English Physiologus
+
+Author: Albert S. Cook
+
+Release Date: December 30, 2004 [EBook #14529]
+
+Language: English and Old English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE OLD ENGLISH PHYSIOLOGUS ***
+
+
+
+
+Produced by David Starner, Ben Beasley and the Online Distributed
+Proofreading Team
+
+
+
+
+
+﻿YALE STUDIES IN ENGLISH
+ALBERT S. COOK, EDITOR
+LXIII
+
+
+THE
+OLD ENGLISH PHYSIOLOGUS
+
+
+TEXT AND PROSE TRANSLATION
+BY
+ALBERT STANBURROUGH COOK
+Professor of the English Language and Literature in Yale University
+
+
+VERSE TRANSLATION
+BY
+JAMES HALL PITMAN
+Fellow in English of Yale University
+
+
+NEW HAVEN: YALE UNIVERSITY PRESS
+LONDON: HUMPHREY MILFORD
+OXFORD UNIVERSITY PRESS
+MDCCCXXI
+
+
+[FACSIMILE]
+
+
+
+
+PREFACE
+
+
+The Old English _Physiologus_, or _Bestiary_, is a series of three brief
+poems, dealing with the mythical traits of a land-animal, a sea-beast,
+and a bird respectively, and deducing from them certain moral or
+religious lessons. These three creatures are selected from a much larger
+number treated in a work of the same name which was compiled at
+Alexandria before 140 B.C., originally in Greek, and afterwards
+translated into a variety of languages--into Latin before 431. The
+standard form of the _Physiologus_ has 49 chapters, each dealing with a
+separate animal (sometimes imaginary) or other natural object, beginning
+with the lion, and ending with the ostrich; examples of these are the
+pelican, the eagle, the phoenix, the ant (cf. Prov. 6.6), the fox, the
+unicorn, and the salamander. In this standard text, the Old English
+poems are represented by chapters 16, 17, and 18, dealing in succession
+with the panther, a mythical sea-monster called the asp-turtle (usually
+denominated the whale), and the partridge. Of these three poems, the
+third is so fragmentary that little is left except eight lines of
+religious application, and four of exhortation by the poet, so that the
+outline of the poem, and especially the part descriptive of the
+partridge, must be conjecturally restored by reference to the treatment
+in the fuller versions, which are based upon Jer. 17.11 (the texts drawn
+upon for the application in lines 5-11 are 2 Cor. 6.17,18; Isa. 55.7;
+Heb. 2.10,11).
+
+It has been said: 'With the exception of the Bible, there is perhaps no
+other book in all literature that has been more widely current in every
+cultivated tongue and among every class of people.' Such currency might
+be illustrated from many English authors. Two passages from Elizabethan
+literature may serve as specimens--the one from Spenser, the other from
+Shakespeare. The former is from the _Faerie Queene_ (1. 11.34):
+
+    At last she saw, where he upstarted brave
+    Out of the well, wherein he drenched lay;
+    As Eagle fresh out of the Ocean wave,
+    Where he hath left his plumes all hoary gray,
+    And deckt himselfe with feathers youthly gay,
+    Like Eyas hauke up mounts unto the skies,
+    His newly budded pineons to assay,
+    And marveiles at himselfe, still as he flies:
+    So new this new-borne knight to battell new did rise.
+
+The other is from _Hamlet_ (Laertes to the King):
+
+    To his good friends thus wide I'll ope my arms;
+    And like the kind life-rendering pelican,
+    Repast them with my blood.[1]
+
+However widely diffused, the symbolism exemplified by the _Physiologus_
+is peculiarly at home in the East. Thus Egypt symbolized the sun, with
+his death at night passing into a rebirth, by the phœnix, which, by a
+natural extension, came to signify the resurrection. And the Bible not
+only sends the sluggard to the ant, and bids men consider the lilies of
+the field, but with a large sweep commands (Job 12.7,8): 'Ask now the
+beasts, and they shall teach thee; and the fowls of the air, and they
+shall tell thee; or speak to the earth, and it shall teach thee; and the
+fishes of the sea shall declare unto thee.'
+
+[Footnote 1: Alfred de Musset, in _La Nuit de Mai_, develops the image
+of the pelican through nearly thirty lines.]
+
+The text as here printed is extracted from my edition, _The Old English
+Elenc, Phœnix, and Physiologus_ (Yale University Press, 1919), where a
+critical apparatus may be found; here it may be sufficient to say that
+Italic letters in square brackets denote my emendations, and Roman
+letters those of previous editors. The translations have not hitherto
+been published, and no complete ones are extant in any language, save
+those contained in Thorpe's edition of the _Codex Exoniensis_, which
+appeared in 1842. The long conjectural passage in the _Partridge_ is due
+wholly to Mr. Pitman.
+
+                                                                  A.S.C.
+
+March 27, 1921.
+
+
+
+
+PHYSIOLOGUS
+
+
+
+
+[**Transcriber's note: The following texts have been split into small
+sections based on the pagination of the original. These sections
+alternate as follows, each section being separated from its neighbors by
+rows of asterisks: Old English verse; Modern English verse translation;
+Modern English prose translation. While this fragments each version, it
+facilitates comparison in parallel.]
+
+
+I
+
+THE PANTHER
+
+
+      Monge sindon    geond middangeard
+    unrīmu cynn,    [_þāra_] þe wē æþelu ne magon
+    ryhte āreccan    nē rīm witan;
+    þæs wīde sind    geond wor[_u_]l[d] innan
+5   fugla and dēora    foldhrērendra
+    wornas widsceope,    swā wæter bibūgeð
+    þisne beorhtan bōsm,    brim grymetende,
+    sealtȳpa geswing.
+                         Wē bi sumum hȳrdon
+    wrǣtlīc[_um_] gecynd[_e_]    wildra secgan,
+10  fīrum frēamǣrne,    feorlondum on,
+    eard weardian,    ēðles nēotan,
+    æfter dūnscrafum.    Is þæt dēor Pandher
+    bi noman hāten,    þæs þe niþþa bear[n],
+
+       *       *       *       *       *
+
+      Of living creatures many are the kinds
+    Throughout the world--unnumbered, since no man
+    Can count their multitudes, nor rightly learn
+    The ways of their wild nature; wide they roam,
+    These beasts and birds, as far as ocean sets
+    A limit to the earth, embracing her
+    And all her sunny fields with salty seas
+    And toss of roaring billows.
+                                 We have heard
+    From men of wider lore of one wild beast,
+    Wonderful dweller in a far-off land
+    Renowned of men, who loves his native glens
+    And dusky caverns. Him have wise men called
+
+       *       *       *       *       *
+
+Many, yea numberless, are the tribes throughout the world whose natures
+we can not rightly expound nor their multitudes reckon, so immense are
+the swarms of birds and earth-treading animals wherever water, the
+roaring ocean, the surge of salt billows, encompasses the smiling bosom
+of earth.
+
+We have heard about one marvelous kind of wild beast which inhabits, in
+lands far off, a domain renowned among men, rejoicing there in his home
+amid the mountain-caves. This beast is called panther, as the learned
+
+       *       *       *       *       *
+
+    wīsfæste weras,    on gewritum cȳþa[_ð_]
+15  bi þām ānstapan.
+                        Sē is ǣ[_g_]hwām frēond,
+    duguða ēstig,    būtan dracan ānum;
+    þām hē in ealle tīd    andwrāð leofaþ,
+    þurh yfla gehwylc    þe hē geæfnan mæg.
+      Ðæt is wrǣtlīc dēor,    wundrum scȳne,
+20  hīwa gehwylces.    Swā hæleð secgað,
+    gǣsthālge guman,    þætte Iōsēphes
+    tunece wǣre    telga gehwylces
+    blēom bregdende,    þāra beorhtra gehwylc,
+    ǣghwæs ǣnlīcra,    ōþrum līxte
+25  dryhta bearnum,    swā þæs dēores hīw,
+    blǣc, brigda gehwæs,    beorhtra and scȳnra
+    wundrum līxeð,    þætte wrǣtlīcra
+    ǣghwylc ōþrum,    ǣnlīcra gīen
+    and fǣgerra,    frætwum blīceð,
+30  symle sellīcra.
+                       Hē hafað sundorgecynd,
+
+       *       *       *       *       *
+
+    The panther, and in books have told of him,
+    The solitary rover.
+                        He is kind,
+    A bounteous friend to every living thing
+    Save one alone, the dragon; but with him
+    The panther ever lives at enmity,
+    Employing every means within his power
+    To work him evil.
+                      Fair is he, full bright
+    And wonderful of hue. The holy scribes
+    Tell us how Joseph's many-colored coat,
+    Gleaming with varying dyes of every shade,
+    Brilliant, resplendent, dazzled all men's eyes
+    That looked upon it. So the panther's hues
+    Shine altogether lovely, marvelous,
+    While each fair color in its beauty glows
+    Ever more rare and charming than the rest.
+      His wondrous character is mild, and free
+
+       *       *       *       *       *
+
+among the children of men report in their books concerning that lonely
+wanderer.
+
+He is a friend, bountiful in kindness, to every one save only the
+dragon; with him he always lives at enmity by means of every injury he
+can inflict.
+
+He is a bewitching animal, marvelously beautiful with every color. Just
+as, according to men holy in spirit, Joseph's coat was variegated with
+hues of every shade, each shining before the sons of men brighter and
+more perfect than another, so does the color of this beast blaze with
+every diversity, gleaming in wondrous wise so clear and fair that each
+tint is ever lovelier than the next, glows more enchanting in its
+splendor, more rare, more beauteous, and more strange.
+
+He has a nature all his own, so gentle and so calm is
+
+       *       *       *       *       *
+
+    milde, gemetfæst.    Hē is monþwǣre,
+    lufsum and lēoftæl:    nele lāþes wiht
+    ǣ[ng]um geæfnan    būtan þām āttorsceaþan,
+    his fyrngeflitan,    þe ic ǣr fore sægde.
+35    Symle, fylle fægen,    þonne fōddor þigeð,
+    æfter þām gereordum    ræste sēceð,
+    dȳgle stōwe    under dūnscrafum;
+    ðǣr se þēo[d]wiga    þrēonihta fæc
+    swifeð on swe[_o_]fote,    slǣpe gebiesga[d].
+40  Þonne ellenrōf    ūp āstondeð,
+    þrymme gewelga[d],    on þone þriddan dæg,
+    snēome of slǣpe.    Swēghlēoþor cymeð,
+    wōþa wynsumast,    þurh þæs wildres mūð;
+    æfter pære stefne    stenc ūt cymeð
+45  of þām wongstede--    wynsumra stēam,
+    swēttra and swīþra,    swæcca gehwylcum,
+    wyrta blōstmum    and wudublēdum,
+    eallum æþelīcra    eorþan frætw[um].
+
+       *       *       *       *       *
+
+    From all disturbing passion. Gracious, kind,
+    And full of love, he meditates no harm
+    But to that venomous foe, as I have told,
+    His ancient enemy.
+                       Once he has rejoiced
+    His heart with feasting, straight he finds a nook
+    Hidden among dim caves, his resting-place.
+    There three nights' space, in deepest slumber wrapped,
+    The people's champion lies. Then, stout of heart,
+    The third day he arises fresh from sleep,
+    Endowed with glory. From the creature's mouth
+    Issues a melody of sweetest strains;
+    And close upon the voice a balmy scent
+    Fills all the place--an incense lovelier,
+    Sweeter, and abler to perfume the air,
+    Than any odor of an earthly flower
+    Or scent of woodland fruit, more excellent
+
+       *       *       *       *       *
+
+it. Kind, attractive, and friendly, he has no thought of doing harm to
+any save the envenomed foe, his ancient adversary of whom I spoke.
+
+When, delighting in a feast, he has partaken of food, ever at the end of
+the meal he betakes himself to his resting-place, a hidden retreat among
+the mountain-caves; there the champion of his race, overcome by sleep,
+abandons himself to slumber for the space of three nights. Then the
+dauntless one, replenished with vigor, straightway arises from sleep
+when the third day has come. A melody, the most ravishing of strains,
+flows from the wild beast's mouth; and, following the music, there
+issues a fragrance from the place--a fume more transporting, sweet, and
+strong than any odor whatever, than blossoms of plants or fruits of the
+forest, choicer
+
+       *       *       *       *       *
+
+    Þonne of ceastrum    and cynestōlum
+50  and of burgsalum    beornþrēat monig
+    farað foldwegum    folca þrȳþum;
+    ēoredcystum,    ofestum gefȳsde,
+    dareðlācende    --dēor [s]wā some--
+    æfter þǣre stefne    on þone stenc farað.
+55    Swā is Dryhten God,    drēama Rǣdend,
+    eallum ēaðmēde    ōþrum gesceaftum,
+    duguða gehwylcre,    būtan dracan ānum,
+    āttres ordfruman--    þæt is se ealda fēond
+    þone hē gesǣlde    in sūsla grund,
+60  and gefetrade    fȳrnum tēagum,
+    biþeahte þrēanȳdum;    and þȳ þriddan dæge
+    of dīgle ārās,    þæs þe hē dēað fore ūs
+    þrēo niht þolade,    Þēoden engla,
+    sigora Sellend.    Þæt wæs swēte stenc,
+65  wlitig and wynsum,    geond woruld ealle.
+    Siþþan tō þām swicce    sōðfæste men,
+
+       *       *       *       *       *
+
+    Than all this world's adornments. Then from town
+    And palace, then from castle-hall, come forth
+    Along the roads great troops of hurrying men--
+    The very beasts come also; all press on
+    Toward that sweet odor, when the voice is stilled.
+      Such as this creature is the Lord our God,
+    Giver of joys, to all creation kind,
+    To men benignant, save alone to him,
+    The dragon, author of all wickedness,
+    Satan, the ancient adversary whom,
+    Fettered with fire, shackled with dire constraint,
+    Into the pit of torments God cast down.
+    The third day Christ arose from out the grave,
+    For three nights having suffered death for us,
+    He, Lord of angels, he in whom alone
+    Is hope of overcoming. Far and wide
+    The tidings spread, like perfume fresh and sweet,
+    Through all the world. Then to that fragrance thronged
+
+       *       *       *       *       *
+
+than aught that clothes the earth with beauty. Thereupon from cities,
+courts, and castle-halls many companies of heroes flock along the
+highways of earth; the wielders of the spear press forward in hurrying
+throngs to that perfume--and so also do animals--when once the music has
+ceased.
+
+Even so the Lord God, the Giver of joy, is gracious to all creatures, to
+every order of them, save only the dragon, the source of venom, that
+ancient enemy whom he bound in the abyss of torments; shackling him with
+fiery fetters, and loading him with dire constraints, he arose from
+darkness on the third day after he, the Lord of angels, the Bestower of
+victory, had for three nights endured death on our behalf. That was a
+sweet perfume throughout the world, winsome and entrancing. Henceforth,
+
+       *       *       *       *       *
+
+    on healfa gehwone,    hēapum þrungon
+    geond ealne ymbhwyrft    eorþan scēat[a].
+    Swā se snottra gecwæð    Sanctus Paulus:
+70  'Monigfealde sind    geond middangeard
+    gōd ungnȳðe    þe ūs tō giefe dǣleð
+    and tō feorhnere    Fæder ælmihtig,
+    and se ānga Hyht    ealra gesceafta
+    uppe ge niþre.'    Þæt is æþele stenc.
+
+       *       *       *       *       *
+
+    From every side all men whose hearts were true,
+    Throughout the regions of the circled earth.
+    Thus spoke the wise St. Paul: 'In all the world
+    His gifts are many, which he gives to us
+    For our salvation with unstinting hand,
+    Almighty Father, he, the only Hope
+    Of all in heaven or here below on earth.'
+    This is that noble fragrance, rare and sweet,
+    Which draws all men to seek it from afar.
+
+       *       *       *       *       *
+
+through the whole extent of earth's regions, righteous men have streamed
+in multitudes from every side to that fragrance. As said the wise St.
+Paul: 'Manifold over the world are the lavish bounties which the Father
+almighty, the Hope of all creatures above and below, bestows on us as
+grace and salvation.' That, too, is a sweet odor.
+
+
+
+
+II
+
+THE WHALE (ASP-TURTLE)
+
+
+      Nū ic fitte gēn    ymb fisca cynn
+    wille wōðcræfte    wordum cȳþan
+    þurh mōdgemynd,    bi þām miclan hwale.
+    Sē bið unwillum    oft gemēted,
+5   frēcne and fer[_h_]ðgrim,    fareðlācendum,
+    niþþa gehwylcum;    þām is noma cenned,
+    fyr[ge]nstrēama geflotan,    Fastitocalon.
+      Is þæs hīw gelīc    hrēofum stāne,
+    swylce wōrie    bi wædes ōfre,
+10  sondbeorgum ymbseald,    sǣrȳrica mǣst,
+    swā þæt wēnaþ    wǣglīþende
+    þæt hȳ on ēalond sum    ēagum wlīten;
+    and þonne gehȳd[_i_]að    hēahstefn scipu
+    tō þām unlonde    oncyrrāpum,
+15  s[_ǣ_]laþ sǣmearas    sundes æt ende,
+
+       *       *       *       *       *
+
+      Now will I spur again my wit, and use
+    Poetic skill to weave words into song,
+    Telling of one among the race of fish,
+    The great asp-turtle. Men who sail the sea
+    Often unwillingly encounter him,
+    Dread preyer on mankind. His name we know,
+    The ocean-swimmer, Fastitocalon.
+      Dun, like rough stone in color, as he floats
+    He seems a heaving bank of reedy grass
+    Along the shore, with rolling dunes behind,
+    So that sea-wanderers deem their gaze has found
+    An island. Boldly then their high-prowed ships
+    They moor with cables to that shore, a land
+    That is no land. Still floating on the waves,
+    Their ocean-coursers curvet at the marge;
+
+       *       *       *       *       *
+
+This time I will with poetic art rehearse, by means of words and wit, a
+poem about a kind of fish, the great sea-monster which is often
+unwillingly met, terrible and cruel-hearted to seafarers, yea, to every
+man; this swimmer of the ocean-streams is known as the asp-turtle.
+
+His appearance is like that of a rough boulder, as if there were tossing
+by the shore a great ocean-reedbank begirt with sand-dunes, so that
+seamen imagine they are gazing upon an island, and moor their
+high-prowed ships with cables to that false land, make fast the
+ocean-coursers at the sea's end, and, bold of heart, climb up
+
+       *       *       *       *       *
+
+    and þonne in þæt ēglond    ūp gewītað
+    collenfer[_h_]þe;    cēolas stondað
+    bi staþe fæste    strēame biwunden.
+    Ðonne gewīciað    wērigfer[_h_]ðe,
+20  faroðlācende,    frēcnes ne wēnað.
+      On þām ēalonde    ǣled weccað,
+    hēah fyr ǣlað.    Hæleþ bēoþ on wynnum,
+    rēonigmōde,    ræste gel[y]ste.
+    Þonne gefēleð    fācnes cræftig
+25  þæt him þā fērend on    fæste wuniaþ,
+    wīc weardiað,    wedres on luste,
+    ðonne semninga    on sealtne wǣg
+    mid þā nōþe    niþer gewīteþ,
+    gārsecges gæst,    grund gesēceð,
+30  and þonne in dēaðsele    drence bifæsteð
+    scipu mid scealcum.
+                           Swā bið scinn[_en_]a þēaw,
+    dēofla wīse,    þæt hī droht[i]ende
+    þurh dyrne meaht    duguðe beswīcað,
+    and on teosu tyhtaþ    tilra dǣda,
+35  wēmað on willan,    þæt hȳ wraþe sēcen,
+
+       *       *       *       *       *
+
+    The weary-hearted sailors mount the isle,
+    And, free from thought of peril, there abide.
+      Elated, on the sands they build a fire,
+    A mounting blaze. There, light of heart, they sit--
+    No more discouraged--eager for sweet rest.
+    Then when the crafty fiend perceives that men,
+    Encamped upon him, making their abode,
+    Enjoy the gentle weather, suddenly
+    Under the salty waves he plunges down,
+    Straight to the bottom deep he drags his prey;
+    He, guest of ocean, in his watery haunts
+    Drowns ships and men, and fast imprisons them
+    Within the halls of death.
+                               Such is the way
+    Of demons, devils' wiles: to hide their power,
+    And stealthily inveigle heedless men,
+    Inciting them against all worthy deeds,
+    And luring them to seek for help and comfort
+
+       *       *       *       *       *
+
+on that island; the vessels stand by the beach, enringed by the flood.
+The weary-hearted sailors then encamp, dreaming not of peril.
+
+On the island they start a fire, kindle a mounting flame. The dispirited
+heroes, eager for repose, are flushed with joy. Now when the cunning
+plotter feels that the seamen are firmly established upon him, and have
+settled down to enjoy the weather, the guest of ocean sinks without
+warning into the salt wave with his prey (?), and makes for the bottom,
+thus whelming ships and men in that abode of death.
+
+Such is the way of demons, the wont of devils: they spend their lives in
+outwitting men by their secret power, inciting them to the corruption of
+good deeds, misguiding
+
+       *       *       *       *       *
+
+    frōfre tō fēondum,    oþþæt hy fæste ðǣr
+    æt þām wǣrlogan    wīc gecēosað.
+    Þonne þæt gecnāweð    of cwicsūsle
+    flāh fēond gemāh,    þætte fīra gehwylc
+40  hæleþa cynnes    on his hringe biþ
+    fæste gefēged,    hē him feorgbona,
+    þurh slīþen searo,    siþþan weorþeð,
+    wloncum and hēanum    þe his willan hēr
+    firenum fremmað;    mid þām hē fǣringa,
+45  heoloþhelme biþeaht,    helle sēceð,
+    gōda gēasne,    grundlēasne wylm
+    under mistglōme,    swā se micla hwæl
+    se þe bisenceð    sǣlīþende
+    eorlas and ȳðmearas.
+                            Hē hafað ōþre gecynd,
+50  wæterþisa wlonc,    wrǣtlīcran gīen.
+    Þonne hine on holme    hunger bysgað,
+    and þone āglǣcan    ǣtes lysteþ,
+    ðonne se mereweard    mūð ontȳneð,
+
+       *       *       *       *       *
+
+    From unsuspected foes, until at last
+    They choose a dwelling with the faithless one.
+    Then, when the fiend, by crafty malice stirred,
+    From where hell's torments bind him fast, perceives
+    That men are firmly set in his domain,
+    With treachery unspeakable he hastes
+    To snare and to destroy the lives of those,
+    Both proud and lowly, who in sin perform
+    His will on earth. Donning the mystic helm
+    Of darkness, with his prey he speeds to hell,
+    The place devoid of good--all misty gloom,
+    Where broods a sullen lake, black, bottomless,
+    Just as the monster, Fastitocalon,
+    Destroys seafarers, overwhelming men
+    And staunch-built ships.
+                             Another trait he has,
+    This proud sea-swimmer, still more marvelous.
+    When hunger grips the monster on the deep,
+    Making him long for food, his gaping mouth
+    The ocean-warder opens, stretching wide
+
+       *       *       *       *       *
+
+them at will so that they seek help and support from fiends, until they
+end by making their fixed abode with the betrayer. When, from out his
+living torture, the crafty, malicious enemy perceives that any one is
+firmly settled within his domain, he proceeds, by his malignant wiles,
+to become the slayer of that man, be he rich or poor, who sinfully does
+his will; and, covered by his cap of darkness, suddenly betakes himself
+with them to hell, where naught of good is found, a bottomless abyss
+shrouded in misty gloom--like that monster which engulfs the
+ocean-traversing men and ships.
+
+This proud tosser of the waves has another and still more wonderful
+trait. When hunger plagues him on the deep, and the monster longs for
+food, this haunter of the sea opens his mouth, and sets his lips agape;
+
+       *       *       *       *       *
+
+    wīde weleras;    cymeð wynsum stenc
+55  of his innoþe,    þætte ōþre þurh þone,
+    sǣfisca cynn,    beswicen weorðaþ.
+    Swimmað sundhwate    þǣr se swēta stenc
+    ūt gewīt[e]ð.    Hī þǣr in farað,
+    unware weorude,    oþþæt se wīda ceafl
+60  gefylled bið;    þonne fǣringa
+    ymbe þā herehūþe    hlemmeð tōgædre
+    grimme gōman.
+                     Swā biþ gumena gehwām
+    se þe oftost his    unwærlīce,
+    on þās lǣnan tīd,    līf biscēawað:
+65  lǣteð hine beswīcan    þurh swētne stenc,
+    lēasne willan,    þæt hē biþ leahtrum fāh
+    wið Wuldorcyning.    Him se āwyrgda ongēan
+    æfter hinsīþe    helle ontȳneð,
+    þām þe lēaslīce    līces wynne
+70  ofer ferh[ð]gereaht    fremedon on unrǣd.
+    Þonne se fǣcna    in þām fæstenne
+    gebrōht hafað,    bealwes cræftig,
+
+       *       *       *       *       *
+
+    His monstrous lips; and from his cavernous maw
+    Sends an entrancing odor. This sweet scent,
+    Deceiving other fishes, lures them on
+    In swiftly moving schools toward that fell place
+    Whence comes the perfume. There, unwary host,
+    They enter in, until the yawning mouth
+    Is filled to overflowing, when, at once,
+    Trapping their prey, the fearful jaws snap shut.
+      So, in this fleeting earthly time, each man
+    Who orders heedlessly his mortal life
+    Lets a sweet odor, some beguiling wish,
+    Entice him, so that in the eyes of God,
+    The King of glory, his iniquities
+    Make him abhorrent. After death for him
+    The all-accursed devil opens hell--
+    Opens for all who in their folly here
+    Let pleasures of the body overcome
+    Their spirits' guidance. When the wily fiend
+    Into his hold beside the fiery lake
+
+       *       *       *       *       *
+
+whereupon there issues a ravishing perfume from his inwards, by which
+other kinds of fish are beguiled. With lively motions they swim to where
+the sweet odor comes forth, and there enter in, a heedless host, until
+the wide gorge is full; then, in one instant, he snaps his fierce jaws
+together about the swarming prey.
+
+Thus it is with any one who, in this fleeting time, full oft neglects to
+take heed to his life, and allows himself to be enticed by sweet
+fragrance, a lying lure, so that he becomes hostile to the King of glory
+by reason of his sins. The accursed one will, when they die, throw wide
+the doors of hell to those who, in their folly, have wrought the
+treacherous delights of the body, contrary to the wise guidance of the
+soul. When the deceiver, skilful in wrongdoing, hath brought into that
+fastness,
+
+       *       *       *       *       *
+
+    æt þām [_ā_]dwylme,    þā þe him on cleofiað,
+    gyltum gehrodene,    and ǣr georne his
+75  in hira līfdagum    lārum hȳrdon,
+    þonne he þā grimman    gōman bihlemmeð,
+    æfter feorhcwale,     fæste tōgædre,
+    helle hlinduru.    Nāgon hwyrft nē swice,
+    ūtsīþ ǣfre,    þā [_þe_] þǣr in cumað,
+80  þon mā þe þā fiscas,    faraðlācende,
+    of þæs hwæles fenge    hweorfan mōtan.
+      Forþon is eallinga  . . . . . . . . .
+    . . . . . . . . . . . . . . . . . . . .
+    dryhtna Dryhtne, and ā dēoflum wiðsace
+85  wordum and weorcum,    þæt wē Wuldorcyning
+    gesēon mōton.    Uton ā sibbe tō him,
+    on þās hwīlnan tīd,    hǣlu sēcan,
+    þæt wē mid swā lēofne    in lofe mōtan
+    tō wīdan feore    wuldres nēotan.
+
+       *       *       *       *       *
+
+    With evil craft has led those erring ones
+    Who cleave to him, sore laden with their sins,
+    Those who in earthly life have hearkened well
+    To his instruction, after death close shut
+    He snaps those woful jaws, the gates of hell.
+    Whoever enters there has no relief,
+    Nor may he any more escape his doom
+    And thence depart, than can the swimming fish
+    Elude the monster.
+                       Therefore it is [best
+    And[1]] altogether [right for each of us
+    To serve and honor God,[1]] the Lord of lords,
+    And always in our every word and deed
+    To combat devils, that we may at last
+    Behold the King of glory. In this time
+    Of transitory things, then, let us seek
+    Peace and salvation from him, that we may
+    Rejoice for ever in so dear a Lord,
+    And praise his glory everlastingly.
+
+[Footnote 1: Conjecturally supplied.]
+
+       *       *       *       *       *
+
+the lake of fire, those that cleave to him and are laden with guilt,
+such as had eagerly followed his teachings in the days of their life, he
+then, after their death, snaps tight together his fierce jaws, the gates
+of hell. They who enter there have neither relief nor escape, no means
+of flight, any more than the fishes that swim the sea can escape from
+the clutch of the monster.
+
+Therefore is it by all means [best for every one of us to serve[1]] the
+Lord of lords, and strive against devils with words and works, that so
+we may come to behold the King of glory. Let us ever, now in this
+fleeting time, seek from him grace and salvation, that so with the
+Beloved we may in worship enjoy the bliss of heaven for evermore.
+
+[Footnote 1: Conjecturally supplied.]
+
+       *       *       *       *       *
+
+
+
+
+III
+
+THE PARTRIDGE[1]
+
+
+      Hȳrde ic secgan gēn    bi sumum fugle
+    wundorlīcne[2]. . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . . fǣger
+    þæt word þe gecwæð    wuldres Ealdor:
+5   'In swā hwylce tiid    swā gē mid trēowe tō mē
+    on hyge hweorfað,    and gē hellfirena
+    sweartra geswīcað,    swā ic symle tō ēow
+    mid siblufan    sōna gecyrre
+    þurh milde mōd;    gē bēoð mē siþþan
+
+[Footnote 1: The partridge (like the cuckoo) broods the eggs of other
+birds. When they are hatched and grown, they fly off to their true
+parents. So men may turn from the devil, who has wrongfully gained
+possession of them, to their heavenly Father, who will receive them as
+his children.]
+
+[Footnote 2: Gap in the manuscript, probably of considerable length.]
+
+       *       *       *       *       *
+
+      About another creature have I heard
+    A wondrous [tale.] [There is] a bird [men call
+    The partridge. Strange is she, unlike all birds
+    In field or wood who brood upon their eggs,
+    Hatching their young. The partridge lays no eggs,
+    Nor builds a dwelling; but instead, she steals
+    The well-wrought nests of others. There she sits,
+    Warming a stranger brood, until at last
+    The eggs are hatched. But when the stolen chicks
+    Are fledged, they straightway fly away to seek
+    Their proper kin, and leave the partridge there
+    Forsaken. In such wise the devil works
+    To steal the souls of those whose youthful minds
+    Or foolish hearts in vain resist his wiles.
+    But when they reach maturer age, they see
+    They are true children of the Lord of lords.
+    Then they desert the lying fiend, and seek
+    Their rightful Father, who with open arms
+    Receives them, as he long since promised them.[1]]
+      Fair is that word the Lord of glory spoke:
+    'In such time as you turn with faithful hearts
+    To me, and put away your hellish sins,
+    Abominable to me, then will I turn
+    To you in love for ever, for my heart
+    Is mild and gracious. Thenceforth you shall be
+
+[Footnote 1: Conjecturally supplied, on the basis of other versions.]
+
+       *       *       *       *       *
+
+So, too, I have heard tell a wondrous [tale[1]] about a certain bird.[2]
+... fair the word[3] spoken by the King of glory: 'At whatsoever time ye
+turn to me with faith in your soul, and forsake the black iniquities of
+hell, I will turn straightway to you with love, in the gentleness of my
+heart; and thenceforth ye shall be reckoned to
+
+[Footnote 1: Conjecturally supplied.]
+
+[Footnote 2: Gap in the manuscript, probably of considerable length.]
+
+[Footnote 3: Cf. 2 Cor. 6.17,18; Isa. 55.7; Heb. 2.10,11.]
+
+       *       *       *       *       *
+
+10  torhte, tīrēadge,    talade and rīmde,
+    beorhte gebrōþor    on bearna stǣl.'
+      Uton wē þȳ geornor    Gode ōliccan,
+    firene fēogan,    friþes earnian,
+    duguðe tō Dryhtne,    þenden ūs dæg scīne,
+15  þæt swā æþelne    eardwīca cyst
+    in wuldres wlite    wunian mōtan.
+                                                                  Finit.
+
+       *       *       *       *       *
+
+    Refulgent, glorious, numbered with the host
+    Of heaven, and, instead of children, called
+    Bright brethren of the Lord.'
+                                  Let us by this
+    Be taught to please God better, hating sin,
+    And strive to earn salvation from the Lord,
+    His full deliverance, so long as day
+    Shall shine upon us, that we may at last
+    Inhabit heavenly mansions, nobler far
+    Than earthly dwellings, gloriously bright.
+
+                                                                  Finit.
+
+       *       *       *       *       *
+
+me as glorious and renowned, as my illustrious brethren, yea, in the
+place of children.'
+
+Let us therefore propitiate God with all zeal, abhor evil, and gain
+forgiveness and salvation from the Lord while for us the day still
+shines, so that thus we may, in glorious beauty, inhabit a dwelling
+excellent beyond compare. Finit.
+
+
+
+
+
+End of Project Gutenberg's The Old English Physiologus, by Albert S. Cook
+

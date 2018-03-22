@@ -1,0 +1,2839 @@
+�The Project Gutenberg EBook of Hesiodi Carmina, by Hesiod
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Hesiodi Carmina
+
+Author: Hesiod
+
+Editor: Ambroise Firmin Didot
+
+Release Date: October 18, 2016 [EBook #53315]
+
+Language: Latin
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HESIODI CARMINA ***
+
+
+
+
+Produced by Carolus Raeticus
+
+
+
+
+                            HESIODI CARMINA.
+
+
+
+
+                               PARISIIS,
+
+                     EDITORE AMBROSIO FIRMIN DIDOT,
+
+                  INSTITUTI REGII FRANCIÆ TYPOGRAPHO,
+
+                             VIA JACOB, 56.
+
+
+
+                              M DCCC XLI.
+
+
+                        -----------------------
+
+
+
+
+                          Transcriber's Note:
+
+For the creation of this e-book the following text has been used:
+
+"Hesiodi Carmina. Graece et Latine cum Indicibus Nominum et Rerum"
+    (Parisiis, Editore Ambrosio Firmin Didot, 1841) for the extract
+    from the _Præfatio_ and the Latin text.
+
+All changes applied by the Transcriber to the Latin text are explained
+in the footnotes marked as "[TR1]", "[TR2]", etc. Footnotes not marked
+by a preceding "TR" belong to the original text.
+
+Excerpt from the _Præfatio:_
+
+  Gœttlingianus HESIODI textus quinquaginta emendationes in Theogonia,
+  viginti quinque in Scuto Herculis a nobis receptas egregiæ Hermanni
+  recensioni debet. Quum de prisca Theogoniæ forma hodiernæque origine
+  nihil constet,[1] versus longioresve locos transponere, quomodo
+  Hermannus hic illic faciendum docet, ausi non sumus, sed satis habuimus
+  uncis includere, quæ, quo loco hodie leguntur, carminis tenorem
+  interrumpunt, sive dispositionis hodierna antiquioris, sive variarum
+  recensionum, sive interpolationum vestigia sint. Quod ad Scutum
+  attinet, lectores ad egregiam Hermanni disputationem de triplici huius
+  poematis recensione remittamus oportet. Carminis enim intellectui
+  commodoque legentium male consultum fuisset, si nulla addita
+  adnotatione textum dispositioni a viro doctissimo propositæ adaptare
+  voluissemus.[2] De tertii, quod superest, poematis Hesiodei natura
+  Lehrsius frater dilectus _Quæstionum epicarum_ a. 1837 editarum
+  dissertatione tertia novam exposuit sententiam, quæ, quamvis minus
+  probata a nonnullis, maxime tamen idoneum harum rerum iudicem nacta est
+  defensorem.[3] In nostra editione singulas facile agnosces sententias,
+  quas Lehrsius non nisi propter verborum quorundam similitudinem
+  interpositas cum reliquo carmine vix cohærere demonstrat. Quæ idem
+  interpolata esse iudicat, uncis inclusimus; quæ e variis recensionibus
+  manasse vult, indicare non licuit. Multas lectiones in recensione
+  textus Gœttlingiani ab Hermanno commendatas in nostrum Operum et Dierum
+  textum nova hac ratione dispositum introduci non potuisse apparet.
+
+  [...]
+
+  In _interpretationibus latinis,_ quas nostris poetis addidimus,
+  elegantiam frustra quæres, quum græca, quantum fieri potuit, ad verbum
+  reddere statuerimus, quo consilio in Hesiodo magis etiam stetimus quam
+  in reliquis auctoribus. Priorum versionum, quæ earum natura erat, modo
+  plura, modo pauciora, interdum nulla reperies vestigia. Tzetzen etiam
+  interpretatione donavimus, non quo operæ pretium esse putaremus, hunc
+  laborem in poetillam impendere, sed ut æquabilitatis legem editioni
+  nostræ præscriptam observemus.
+
+  [...]
+
+  Iam lectores harum rerum periti operam nostram benigne iudicent,
+  reliqui iudicio abstineant velimus, valere iubemus omnes.
+
+  Parisiis, Kalendis Decembribus a. MDCCCXXXIX.
+
+
+[1] Mützellius, quem in his studiis totum esse viri docti non
+ignorant, in recensione libelli, in quo Sœtbeerus quidam sua
+Gruppiique somnia de primigenia Theogoniæ specie publici juris
+fecit (Zimmerm. ephemm. a. 1838, num. 10 sqq.), philologiæ
+hodiernæ vires difficultati hujus quæstionis pares esse negat.
+[2] Versum 144, qualem in una trium illarum recensionum fuisse
+Hermannus vult, textui suo loco subiunximus.
+[3] Hermannum, qui in Jahnii annalibus philologiæ hunc librum
+atque illam præsertim dissertationem iudicavit. Aliud de eadem
+dissertatione iudicium in Zimmermanni ephemm. (a. 1836, pag. 1006
+sqq.) sub calce recensionis, quam Iulius Cæsar de illo Sœtbeeri
+opusculo scripsit, nos legere meminimus.
+
+
+                        -----------------------
+
+
+                           Table of Contents.
+
+Theogonia.
+
+Scutum Herculis.
+
+Opera et Dies.
+
+
+                        -----------------------
+
+
+                               THEOGONIA.
+
+    1     A Musis Heliconiadibus incipiamus canere,
+        quæ Heliconis habitant montem magnumque divinumque,
+        atque circa fontem nigrum pedibus teneris
+        saltant, et aram præpotentis Saturnii,
+    5   atque ablutæ tenerum corpus aqua Permessi,
+        aut Hippocrenes, aut Olmii sacri,
+        summo in-Helicone choreas ducebant
+        pulchras, amabiles; tripudiabant vero pedibus:
+        Inde concitatæ, velatæ aere multo,
+   10   noctu incedebant, perpulchram vocem emittentes,
+        celebrantes Jovemque ægida-tenentem et venerandam Junonem
+        argivam, aureis calceamentis incedentem:
+        filiamque ægida-tenentis Jovis, cæruleis-oculis Minervam,
+        Phœbumque Apollinem et Dianam sagittis-gaudentem,
+   15   atque Neptunum terram-continentem, terram-moventem,
+        et Themin venerandam, et pætis-oculis Venerem,
+        Hebenque aurea-corona, formosamque Dionen,
+        [Auroramque, Solemque magnum, splendidamque Lunam,]
+        Latonamque, Japetumque et Saturnum versipellem,
+   20   Terramque, Oceanumque vastum et Noctem atram,
+        aliorumqe immortialium sacrum genus semper existentium:
+        quæ olim Hesiodum pulchrum docuerunt carmen,
+        agnos pascentem Helicone sub divino.
+        Hoc autem me primum Deæ sermone compellarunt,
+   25   Musæ Olympiades, filiæ Jovis ægida-tenentis:
+
+          Pastores agrestes, mala probra, ventres solum,
+        scimus falsa multa dicere veris similia:
+        scimus autem, quando voluerimus, vera loqui.
+
+          Sic dixerunt filiæ Jovis magni veridicæ,
+   30   et mihi sceptrum dederunt, lauri perviridis ramum,
+        ut-decerperem, mirandum. Inspirarunt autem mihi vocem
+        divinam, ut canerem futuraque præteritaque.
+        Et me jubebant celebrare beatorum genus sempiternorum,
+        se vero ipsas primo et postremo semper canere.
+   35   Sed quo mihi hæc circa quercum aut circa petram?
+
+          O tu, a Musis ordiamur, quæ Jovi patri
+        canendo oblectant magnum animum in Olympo,
+        memorantes præsentiaque futuraque præteritaque,
+        voce concinentes. Earum vero indefessa fluit vox
+   40   ab ore suavis. Ridet autem domus patris
+        Jovis valde-tonantis, Dearum voce liliacea
+        dispersa. Resonat vero vertex nivosi Olympi,
+        domusque immortalium. Hæ vero immortalem vocem emittentes,
+        deorum genus venerandorum primo celebrant cantilena
+   45   ab exordio, quos Tellus et Cœlum latum genuerunt,
+        quique ex his prognati-sunt Dii, datores bonorum.
+        Secundo etiam Jovem, Deorum patrem atque etiam hominum,
+        Incipientesque celebrant Deæ finiuntque carmine _celebrare,_
+        quam præstantissimus sit Deorum imperioque maximus.
+   50   Porro autem hominumque genus fortiumque gigantum
+        celebrantes oblectant Jovis mentem in Olympo
+        Musæ Olympiades, filiæ Jovis ægida-habentis:
+        quas in Pieria Saturnio peperit patri mista
+        Mnemosyne, arvis Eleutheris imperans,
+   55   oblivionemque malorum solatiumque curarum.
+        Novem enim cum-ea noctes mistus-est prudens Jupiter,
+        seorsim ab immortalibus, sacrum lectum conscendens.
+        Sed cum jam annus esset, circumvolverentur vero tempestates,
+        mensibus exactis, diesque multi transacti essent,
+   60   ipsa peperit novem filias concordes, quibus carmen
+        curæ-est, in pectoribus securum animum habentibus,
+        [paululum a summo vertice nivosi Olympi,
+        ubi ipsis splendidique chori et ædes pulchræ.
+        Juxta vero eas Gratiæque et Cupido domos habitant,]
+   65   in conviviis: amabilem autem per os vocem emittentes,
+        canunt omniumque leges et mores venerandos
+        immortalium celebrant, amabilem vocem emittentes.
+        Illæ tum ibant ad Olympum exsultantes voce pulchra,
+        immortali cantilena: circum vero resonabat terra atra
+   70   canentibus: jucundus vero a pedibus strepitus excitabatur,
+        euntium patrem ad suum. Is autem in cœlo regnat,
+        ipse habens tonitru atque ardens fulmen,
+        vi superato patre Saturno. Bene autem singula
+        immortalibus disposuit simul, et ordinavit honores.
+
+   75     Hæc sane Musæ canebant, cœlestes domos incolentes:
+        Novem filiæ magno e Jove prognatæ:
+        Clioque Euterpeque Thaliaque Melpomeneque,
+        Terpsichoreque Eratoque, Polymniaque Uraniaque,
+        Calliopeque: hæc autem præstantissima est omnium.
+   80   Hæc enim et reges venerandos comitatur.
+        Quemcunque honorarunt Jovis filiæ magni,
+        nascentemque adspexerunt a-Jove-nutritorum regum,
+        huic quidem super linguam dulcem fundunt rorem,
+        hujus vero verba ex ore fluunt suavia: at sane populi
+   85   omnes ipsum respiciunt, reddentem jus
+        rectis judiciis. Hic autem secure concionabundus
+        statim etiam magnam contentionem scite dirimebat.
+        Propterea enim reges prudentes _sunt,_ ut populis
+        læsis in-foro integras res restituant
+   90   facile, mollibus alloquentes verbis.
+        Incedentem vero per urbem, tanquam Deum, venerantur
+        reverentia blanda: eminet vero inter congregatos.
+        Taleque Musarum sanctum munus hominibus.
+        A Musis enim et eminus-feriente Apolline
+   95   viri cantores sunt super terram et citharœdi,
+        ex Jove vero reges. Ille vero beatus, quemcunque Musæ
+        amant: suavis ei ab ore fluit vox.
+        Si quis enim vel luctum habens recens-afflicto animo
+        tristetur, animo dolens, sed cantor
+  100   Musarum famulus gloriam priscorum hominum
+        celebraverit beatosque Deos, qui Olympum incolunt;
+        statim hic sollicitudinem obliviscitur, nec quicquam dolorum
+        meminit: cito vere deflexerunt _eos_ dona Dearum.
+
+          Salvete, natæ Jovis, date vero amabilem cantilenam.
+  105   [Celebrate autem immortalium sacrum genus, semper
+            exsistentium,
+        qui tellure prognati sunt et cœlo stellato,
+        nocteque caliginosa, quosque salsus nutrivit pontus.]
+        Dicite autem, quomodo primum Dii et terra facti-sint
+        et flumina et pontus immensus, æstu furens,
+  110   astraque fulgentia et cœlum latum superne:
+        et qui ex his nati sunt Dii, datores bonorum,
+        utque opes diviserint et quomodo honores distinxerint,
+        atque etiam quomodo primum multicavum tenuerint Olympum:
+        hæc mihi dicite, Musæ, celestes domos inhabitantes,
+  115   ab initio, et dicite quidnam primum fuerit illorum.
+
+          Igitur primum quidem Chaos fuit, ac deinde
+        Tellus lato-pectore, omnium sedes tuta semper
+        [immortalium, qui tenent juga nivosi Olympi,]
+        Tartaraque tenebricosa in-recessu terræ spatiosæ:
+  120   atque Amor, qui pulcherrimus inter immortales Deos,
+        solvens-curas omniumque Deorum omniumque hominum,
+        domat in pectoribus animum et prudens consilium.
+        Ex Chao vero Erebusque nigraque Nox editi-sunt.
+        Ex Nocte porro Ætherque et Dies prognati-sunt:
+  125   quos peperit, ubi-conceperat, Erebo concubitu mista.
+        Tellus vero primum quidem genuit æqualem sibi
+        Cœlum stellatum, ut ipsam totam circumtegat,
+        ut esset beatis Diis sedes tuta semper.
+        Genuit vero Montes altos, Dearum grata domicilia
+  130   Nympharum, quæ habitant per montes saltuosos.
+        Atque etiam infrugiferum pelagus peperit æstu furens,
+        Pontum, absque amore suavi: sed deinde
+        Cœlo concumbens, peperit Oceanum profundis-vorticibus,
+        Cœumque Criumque, Hyperionemque Japetumque,
+  135   Theamque Rheamque, Theminque Mnemosynenque,
+        Phœbenque aurea-corona, Tethynque amabilem.
+        Hos vero post natu-minimus natus-est Saturnus versutus,
+        sævissimus inter-liberos: floridum autem oderat parentem.
+        Vero etiam genuit Cyclopes superbum cor habentes,
+  140   Brontenque Steropenque et Argen forti-animo,
+        qui Jovi et tonitru dederunt et fabricarunt fulmen.
+        Hi autem sane cæterum quidem Diis similes erant,
+        unus vero oculus media positus-erat in-fronte.
+        [Hi vero ex immortalibus mortales evaserunt loquentes:
+        Cyclopes vero nomen erat impositum, eo quod ipsorum
+  145   orbiculatus oculus unus inerat fronti:]
+        roburque ac vires et variæ-artes erant in operibus.
+        Alii vero etiam e Tellureque et Cœlo prognati-sunt
+        tres filii magnique et prævalidi, nefandi,
+        Cottusque Briareusque Gyasque, superba proles.
+  150   Quorum centum quidem manus ab humeris prorumpebant
+        inaccessæ, capita vero unicuique quinquaginta
+        ex humeris prognata-erant super robustos artus.
+        Robur autem inaccessum, validum, ingenti in statura.
+        Quotquot enim Tellureque et Cœlo procreati-sunt,
+  155   potentissimi _sunt_ filiorum, a-suo vero infestabantur parente
+        ab initio. Et horum quidem ut quisque primum nascebatur,
+        omnes occultabat, et in lucem non emittebat,
+        Terræ in latebris malo autem oblectabatur opere
+        Cœlus, ipsa vero intus ingemiscebat Terra vasta,
+  160   referta: dolosam veor mala excogitavit artem.
+        Statim vero procreans genus cani ferri
+        fabricavit magnam falcem et edixit liberis caris.
+        Dixit autem animum-addens, suo mœrens corde:
+
+          Filii mei et patris nefarii, si volueritis
+  165   parere, patris malam ulciscemur contumeliam
+        vestri. Prior enim indigna machinatus-est opera.
+
+          Sic dixit: illos vero sane omnes invasit metus, neque
+            quisque eorum
+        locutus-est. Confirmato-animo tamen magnus Saturnus versutus
+        rursus verbis compellavit matrem venerandam:
+
+  170     Mater, ego hoc certe in-me-recipiens peragam
+        facinus, quoniam patrem detestabilem nihil curo
+        nostrum. Prior enim indigna machinatus-est opera.
+
+          Sic dixit: gavisa-est autem valde animo Tellus ingens.
+        Collocavit autem ipsum celans in-insidiis: indidit vero manui
+  175   harpen asperis-dentibus: dolum autem suppeditavit omnem.
+        Venit autem Noctem inducens magnus Cœlus: circum vero Telluri
+        cupiens amoris incumbebat, et sane extensus-est
+        undique: ex insidiis autem filius petiit manu
+        sinistra, dextra vero immanem cepit harpen,
+  180   longam, asperis-dentibus, suique genitalia patris
+        festinanter demessuit, retro autem jecit ut-ferrentur
+        pone. Illa quidem non incassum effugerunt manu:
+        quotquot enim guttæ proruperunt cruentæ,
+        omnes suscepit Terra: inversis autem annis,
+  185   produxit Erinnyasque validas magnosque Gigantes
+        armis nitentes, longas hastas manibus tenentes:
+        Nymphasque, quas Melias vocant super immensam terram.
+        Genitalia autem ut prius resecta ferro
+        projecerat ex Epiro in pontum undosum,
+  190   sic ferebantur per pelagus longo tempore: circumcirca vero
+            alba
+        spuma ab immortali corpore oriebatur: in ea autem puella
+        innutrita est: primum vero ad-Cythera divina
+        vehebatur, inde tum circumfluam pervenit ad-Cyprum.
+        Prodiit vero veneranda formosa Dea, circum vero herba
+  195   pedibus sub mollibus crescebat: ipsam autem Aphroditen
+        spumigenamque Deam et pulchre-coronatam Cytheream
+        nominant Diique et homines, quia in spuma
+        nutrita-fuit: at Cytheream, quod appulit Cythera:
+        Cyprigenam vero, quod nata-est undosa in Cypro:
+  200   atque amantem-genitalia, quod e genitalibus emersit.
+        Hanc vero Amor comitatus-est, et Cupido sequebatur pulcher,
+        natam primum Deorumque ad cœtum euntem.
+        Hunc vero ab initio honorem habet, atque sortita-est
+        sortem inter homines et immortales Deos,
+  205   virgineasque confabulationes risusque fallaciasque
+        oblectationemque suavem amoremque blanditiamque.
+
+          Illos vero pater Titanas cognomento vocabat,
+        filios objurgans magnus Cœlus, quos genuit ipse.
+        Dictitabat autem _eos_ tendentes-_manus_ protervia magnum
+            patrasse
+  210   facinus, cujus deinceps ultio in-posterum futura-sit.
+
+          Nox vero peperit odiosumque Fatum et Parcam atram,
+        et Mortem: peperit vero Somnum: peperit vero agmen Somniorum:
+        nemini concumbens Dea peperit Nox obscura.
+        Deinde etiam Momum et Ærumnam dolore-plenam,
+  215   Hesperidesque, quibus mala trans inclytum Oceanum
+        aurea pulchra curæ-sunt, ferentesque arbores fructum:
+        [et Parcas et fatales-Deas genuit inexorabiles,
+        Clothoque Lachesinque et Atropon, quæ mortalibus
+        nascentibus dant habendum bonumque malumque,
+  220   et quæ hominumque Deorumque delicta persequuntur,
+        neque unquam deponunt Deæ vehementem iram,
+        priusquam ab illo sumserint gravem pœnam, quisquis peccarit.]
+        Peperit autem et Nemesin, cladem mortalibus hominibus,
+        Nox perniciosa; post hanc vero Fraudem enixa-est et Concubitum
+  225   Seniumque perniciosum, et Contentionem peperit pertinacem.
+
+          At Contentio odiosa peperit quidem Laborem molestum,
+        Oblivionemque Famemque et Dolores lacrimabiles,
+        Pugnasque Cædesque Prœliaque Stragesque virorum,
+        Jurgiaque mendacesque Sermones Disceptationesque,
+  230   legum-contemtum Noxamque, familiares inter-se,
+        Jusjurandumque, quod sane plurimum terrestres homines
+        lædit, quando quispiam volens perjurium juraverit.
+
+          Nereum vero veracem et ingenuum genuit Pontus,
+        maximum-natu filiorum: sed vocant senem,
+  235   eo quod verusque et placidus: nec legum
+        obliviscitur, sed justa et moderata judicia novit;
+        rursum vero etiam Thaumantem magnum et fortem Phorcyn,
+        Terræ commistus, et Ceto formosis-genis
+        Eurybiamque, adamantis in pectore animum habentem.
+
+  240     Ex-Nereo autem prognatæ sunt peramabiles filiæ Dearum
+        Ponto in infructuoso, et e-Doride pulcra,
+        filia[TR1] Oceani, ultimi fluvii,
+        Protoque Eucrateque, Saoque Amphitriteque,
+        Eudoraque Thetisque, Galeneque Glauceque,
+  245   Cymothoë, Spioque, Toëque Haliaque amabilis
+        et Melita gratiosa et Eulimene et Agave,
+        Pasitheaque Eratoque, et Eunice roseis-brachiis,
+        Dotoque Protoque, Pherusaque Dynameneque,
+        Nesæaque et Actæa et Protomedia,
+  250   Doris et Panopia et formosa Galatea,
+        Hippothoëque amabalis et Hipponoë roseis-brachiis,
+        Cymodoceque, quæ fluctus in obscuro ponto
+        flatusque divinorum ventorum una-cum Cymatolege
+        facile mitigat et _cum_ Amphitrite pulcris-talis,
+  255   Cymoque, Ejoneque, pulchreque-coronata Halimede,
+        Glauconomeque hilaris et Pontoporia,
+        Liagoreque et Evagore et Laomedia,
+        Polynomeque et Autonoë et Lysianasse
+        Evarneque, indole grata et specie inculpata,
+  260   et Psamathe, decora corpore, divaque Menippe,
+        Nesoque Eupompeque, Themistoque Pronoëque,
+        Nemertesque, quæ patris habet mentem immortalis.
+        Hæ quidem ex-Nereo inculpato procreatæ-sunt
+        filiæ quinquaginta, inculpata opera callentes.
+
+  265     Thaumas vero Oceani profundiflui filiam
+        duxit Electram: hæc autem celerem peperit Irim,
+        pulchricomasque Harpyias, Aëlloque Ocypetenque,
+        quæ sane ventorum flamina et aves una comitantur
+        pernicibus alis: similes-tempori enim volitant.
+
+  270     Phorco vero dein Ceto Græas peperit formosas
+        a partu canas, quas inde Græas vocant
+        immortalesque Dii humique incedentes homines,
+        Perphredoque pulchro-peplo, Enyoque croceo-peplo,
+        Gorgonesque, quæ habitant trans celebrem Oceanum,
+  275   in-extrema-parte ad noctem, ubi Hesperides argutæ,
+        Sthenoque Euryaleque Medusaque gravia perpessa.
+        Illa quidem erat mortalis, hæ autem immortales et senii
+            expertes
+        duæ: cum una vero concubuit cærulea-cæsarie Neptunus
+        in molli prato et floribus vernis.
+  280   Ejus autem quum jam Perseus caput amputasset,
+        exsiluit Chrysaorque magnus et Pegasus equus.
+        Huic quidem cognomen erat, quoniam Oceani apud fontes
+        natus-erat, ille vero ensem aureum tenebat manibus suis.
+        Et-ille quidem cum-avolasset, relicta terra matre pecorum,
+  285   pervenit ad immortales: Jovis vero in domo habitat,
+        tonitruque fulgurque ferens Jovi prudenti.
+
+          Chrysaor autem genuit tricipitem Geryonem,
+        mistus Calliroæ filiæ nobilis Oceani.
+        Illum quidem armis-exuit vis Herculea,
+  290   boves apud flexipedes circumflua in Erythia:
+        die illo, ubi boves egit latas-frontes-habentes
+        Tirynthia in sacram, trajecto Oceano
+        Orthroque interfecto et bubulco Eurytione,
+        stabulo in obscuro, trans inclytum Oceanum.
+
+  295     Ipsam autem peperit aliud monstrum, intractabile, nihil
+            simile,
+        mortalibus hominibus neque immortalibus Diis,
+        specu in concavo, divinam infracto-animo Echidnam:
+        dimidam quidem nympham nigris-oculis, pulcris-genis,
+        dimidiam contra ingentem serpentem, horrendumque magnumque,
+  300   [varium, crudivorum, divinæ sub cavernis terræ.
+        Illic vero ei specus est in-imo cava sub petra,
+        procul ab immortalibusque Diis mortalibusque hominibus:
+        ibi sane ei destinarunt Dii inclytas domos incolere.]
+        At coercebatur apud Arimos sub terra misera Echidna,
+  305   immortalis nympha et senii-expers diebus omnibus.
+
+          Huic vero Typhaonem aiunt mistum-esse concubitu,
+        vehementemque violentumque ventum, nigris-oculis puellæ:
+        ea vero gravida-facta peperit truces liberos:
+        Orthrum quidem primo canem peperit Geryoni.
+  310   Secundo iterum edidit-partu intractabilem, haud effabilem
+        Cerberum, crudivorum, Plutonis canem ænea-voce,
+        quinquaginta-capitum, impudentemque fortemque.
+        Tertio Hydram rursus genuit perniciosa scientem,
+        Lernæam, quam enutrivit Dea albis-ulnis Juno,
+  315   implacabiliter irascens robori Herculeo.
+        Atque eam quidem Jovis filius occidit sævo ferro
+        Amphitryoniades cum bellicoso Jolao,
+        Hercules, ex-consiliis Mineræ prædatricis.
+        Illa vero Chimæram peperit, spirantem inexpugnabilem ignem,
+  320   trucemque magnamque, perniciemque validamque.
+        Hujus autem erant tria capita: unum quidem terribilis leonis,
+        alterum capellæ, tertium vero serpentis, robusti draconis.
+        [Ante leo, pone vero draco, in-medio autem capra,
+        horrende efflans ignis vim ardentis.]
+  325   hanc quidem Pegasus occidit et strenuus Bellerophontes.
+        At ea sane Sphingem perniciosam peperit, Cadmeis perniciem,
+        ab-Orthro compressa, Nemeaeumque leonem,
+        quem sane Juno cum-enutravisset, Jovis veneranda uxor,
+        in arvis collocavit Nemeæ, cladem hominibus.
+  330   ibi sane hic commorans damno-afficiebat genera hominum,
+        dominans Treto Nemeæ _monte_ atque Apesanti:
+        sed ipsum vis domuit roboris Herculei.
+
+          Ceto vero minimum-natu cum-Phorcyne concubitu mista
+        peperit sævum serpentem, qui obscuræ in-latibulis terræ
+  335   finibus in amplis aurea mala custodit.
+
+          Hæc quidem Cetus et Phorcynis soboles est.
+
+
+
+
+                        -----------------------
+
+          Tethys autem Oceano Flumina peperit vorticosa,
+        Nilumque Alpheumque et Eridanum profundis-vorticibus,
+        Strymonem, Mæandrumque et Istrum pulchrifluum,
+  340   Phasinque Rhesumque, Acheloum argenteis-vorticibus
+        Nessumque, Rhodiumque Haliacmonemque, Heptaporumque
+        Granicumque et Æsepum, divumque Simoënta,
+        Peneumque et Hermum, amœneque-fluentem Caïcum,
+        Sangariumque magnum, Ladonemque Partheniumque,
+  345   Evenumque et Ardescum, divumque Scamandrum.
+
+          Peperit autem filiarum sacrum genus, quæ per terram
+        viros tondent, cum Apolline rege,
+        et Fluminibus: hanc vero a Jove sortem habent,
+        Pithoque Admeteque, Jantheque Electraque,
+  350   Dorisque Prymnoque et Urania Deæ-similis,
+        Hippoque Clymeneque, Rhodiaque Calliroëque,
+        Zeuxoque Clytieque, Idyiaque Pasithoëque,
+        Plexaureque Galaxaureque, amabilisque Dione
+        Melobosisque, Thoëque et formosa Polydora,
+  355   Cerceïsque indole amabilis, Plutoque magnis-oculis,
+        Perseisque Janiraque, Acasteque Xantheque,
+        Petraeaque amabilis, Menestoque Europaque,
+        Metisque Eurynomeque, Telestoque croceo-peplo
+        Chyreisque, Asiaque et amabilis Calypso,
+  360   Eudoreque, Tycheque et Amphiro Ocyroëque,
+        et Styx, quæ sane ipsarum excellentissima est omnium.
+        Hæ vero Oceano et Thetye prognatæ-sunt,
+        majores-natu filiæ. Multæ quidem sunt et aliæ.
+        Ter mille enim sunt teneris-malleolis Oceanitides,
+  365   quæ sane multum-dispersæ terram et profunditates lacus
+        undique pariter obeunt, Dearum splendida proles.
+        Tot vero etiam alii fluvii cum-strepitu fluentes,
+        filii Oceani, quos peperit veneranda Tethys:
+        quorum nomina difficile _est_ omnium mortalem virum proloqui,
+  370   sed singuli noverunt, quicumque circum-habitant.
+
+          Thia autem Solemque magnum lucidamque Lunam
+        Auroramque, quæ omnibus terrestribus lumen-præbet
+        immortalibusque Diis, qui cœlum latum tenent,
+        peperit, compressa Hyperionis in concubitu.
+
+  375     Crio autem Eurybia peperit in concubitu mista,
+        Astræumque magnum Pallantemque diva Dearum,[TR2]
+        Persenque, qui omni eminebat peritia.
+
+          Astræo vero Aurora ventos peperit validos,
+        Argesten, Zephyrum, Boreamque velocem-viatorem
+  380   et Notum, in concubitu Dea cum-Deo congressa.
+        Post hos vero Aurora stellam peperit Luciferum mane-genita,
+        astraque fulgentia, quibus cœlum cinctum-est.
+
+          Styx vero peperit Oceani filia, Pallanti mista,
+        Zelum et Nicen pulcris-malleolis, in ædibus;
+  385   et Robur atque Vim, præclaros peperit filios,
+        quorum non est seorsim a-Jove domus, neque ulla sedes,
+        nec via, quin illis Deus præeat,
+        sed semper prope Jovem graviter-tonantem sedent.
+        Sic enim consuluit Styx, incorruptibilis Oceanitis,
+  390   die illo, quando omnes Olympius fulgurator
+        immortales vocavit Deos ad latum Olympum:
+        dixit autem, quisquis una secum Deorum, contra-Titanas pugnet,
+        nulli _se_ ademturum præmia, sed honorem quemque
+        habiturum, quem antea inter immortales Deos.
+  395   Illum vero dixit, qui honoris-expers _fuerit_ sub Saturno et
+            immunis,
+        ad honores ac præmia _se_ provecturum, ut æquum est.
+        Venit autem sane prima Styx incorruptibilis in-Olympum
+        cum suis filiis sui per consilia patris.
+        Eam vero Jupiter honoravit, eximiaque dona dedit.
+  400   Ipsam enim quidem constituit, Deorum magnum ut-sit
+            jusjurandum,
+        filii autem diebus omnibus sui inquilini ut-sint.
+        Similiter vero omnibus continuo, sicuti pollicitus-erat,
+        perfecit: ipse autem prævalet atque imperat.
+
+          Phœbe vero etiam Cœi perjucundum venit ad torum;
+  405   gravida-facta autem deinde Dea Dei in concubitu,
+        Latonam cæruleo-peplo peperit, blandam semper,
+        mitem hominibus atque immortalibus Diis,
+        [blandam ab initio, suavissimam in Olympo.]
+        Peperit vero Asteriam claram, quam olim Perses
+  410   duxit in amplam domum, sua ut-vocaretur uxor.
+
+
+                        -----------------------
+
+
+        [Illa autem gravida-facta Hecaten peperit, quam præ omnibus
+        Jupiter Saturnius honoravit: dedit vero ei splendida dona,
+        potestatem ut-habeat terræque et infructuosi maris.
+        Ea autem etiam stellato sub cœlo sortita-est honorem,
+  415   immortalibusque Diis honorata est maxime.
+        [Etenim nunc, quando alicubi aliquis terrestrium hominum
+        faciens sacra pulchra secundum ritum expiat,
+        invocat Hecaten: ingensque eum sequitur honor
+        facillime, cui benevola certe Dea suscipit preces:
+  420   atque illi divitias largitur, quoniam facultas sane _ei_
+            adest.]
+        Quotquot enim Terra Cœloque prognati-sunt
+        et honorem sorte-acceperunt, illorum habet sortem omnium,
+        neque quidquam ei Saturnius per-vim-ademit, neque abstulit,
+        quæcumque sortita-est Titanas inter priores Deos,
+  425   sed habet, sicut primum ab initio facta-est distributio.
+        Nec, quia unigenita _est_, minus Dea sortita-est honoris,
+        [et potestatem in terraque et cœlo atque _in_ mari:]
+        sed insuper etiam multo plus, quoniam Jupiter honorat eam.
+        Cui vero vult, magnifice præsto-est atque _eum_ juvat:
+  430   inque concione inter-homines eminet, quem voluerit:
+        quando autem ad bellum exitiosum armantur
+        viri, tum Dea adest, quibus voluerit,
+        victoriam benevole ut-præbeat et laudem porrigat:
+        inque judicio reges apud venerandos sedet:
+  435   eximia vero etiam, quando viri in-certamine colluctantur,
+        ibi dea et his præsto-est atque _eos_ juvat.
+        Qui-vicerit vero virtute et robore, pulcrum præmium
+        facile fert, gaudensque parentibus gloriam parat.
+        Bona autem equitibus adesse, quibus voluerit:
+  440   et his qui cæruleum _mare_ trajectu-difficile exercent:
+        vota-faciunt vero Hecatæ, et valde-sonanti Neptuno.
+        Facile etiam prædam inclyta Dea dedit copiosam;
+        facile autem abstulit apparentem, volens animo.
+        Bona item in stabulis cum Mercurio pecus ad-augendum;
+  445   armentaque-boum gregesque magnos caprarum,
+        gregesque lanigerarum ovium, animo certe volens,
+        ex paucis copiosos-reddit et ex multis pauciores reddit.
+        Ita sane etiam unigenita ex matre (exsistens)
+        omnes inter immortales honorata-est muneribus.
+  450   Fecit autem eam Saturnius altricem-juvenum, qui post eam
+        oculis adspexerunt lumen multa-contuentis Auroræ.
+        Sic ab initio nutrix puerorum _est_: hi igitur _sunt_ honores.
+
+
+                        -----------------------
+
+
+          Rhea autem compressa a-Saturno peperit illustres liberos,
+        Vestam, Cererem, et Junonem aureis-calceamentis,
+  455   fortemque Plutonem, qui sub terra domos incolit,
+        immite cor habens, et valde-sonantem Neptunum,
+        Jovemque sapientem, Deorum patrem atque etiam hominum,
+        cujus etiam a tonitru concutitur lata terra.
+        Et illos quidem deglutiebat Saturnus magnus, quicumque
+  460   utero ex sacro matris ad genua venerat,
+        hæc agitans, ne quis clarorum Cœli-filiorum
+        alius inter immortales haberet regium decus.
+        Adierat enim ex-Terraque et Cœlo stelligero,
+        quod sibi fatale-esset suo a filio domari,
+  465   quamvis robusto (exsistenti), Jovis magni per consilia:
+        ideoque hic non vanam-speculationem habuit, sed insidias-
+            struens
+        filios suos devorabat: Rheam autem tenebat luctus gravis.
+        Sed quando jam Jovem erat Deorum patrem atque etiam virorum
+        paritura, tum tandem caris supplicabat parentibus
+  470   suis, Terræque et Cœlo stellato,
+        consilium ut-conferrent, quo-pacto clam pareret
+        filium carum, ulcisceretur vero furias patris sui
+        contra-filios, quos devoraverat ingens Saturnus versutus.
+        Illi vero filiæ dilectæ bene quidem auscultarunt atque morem-
+            gesserunt,
+  475   et ei commemorarunt, quæcumque constitutum-esset fieri
+        circa Saturnum regem et filium magnanimum.
+        Miserunt autem in Lyctum, Cretæ in pinguem tractum
+        cum minimum-natu filiorum esset paritura,
+        Jovem magnum: hunc quidem sibi suscepit Terra vasta
+  480   Creta in lata educandum enutriendumque.
+        [Tum eum pervenit ferens celerem per noctem nigram,
+        primum ad Lyctum: abscondit autem ipsum manibus prehensum
+        antro in excelso, divinæ sub latebris terræ,
+        Ægeo in monte, denso, silvoso.]
+  485   Illi autem fasciis-involutum magnum lapidem in-manus-dedit
+        Cœli-filio, præpotenti, Deorum priori regi:
+        quem tum arreptum manibus suam condidit in-alvum
+        miser, nec cogitavit animo, quod sibi in-posterum
+        pro lapide suus filius invictus et securus
+  490   superesset, qui ipsum mox esset vi et manibus domitum
+        honore expulsurus, ipse vero inter immortales regnaturus.
+
+          Celeriter autem deinde robur et splendida membra
+        crescebant illius regis: inversis vero annis,
+        Terræ consilio astuto circumventus,
+  495   suam sobolem iterum emisit magnus Saturnus versutus,
+        victus artibus vique filii sui.
+        Primum vero evomuit lapidem, ultimo devoratum:
+        hunc quidem Jupiter defixit in terram spatiosam
+        Pytho in divina, sub amfractibus Parnassi,
+  500   monumentum ut-sit in posterum, miraculum mortalibus hominibus.
+
+          Solvit vero patruos perniciosis a vinculis
+        Cœligenos, quos vinxerat pater ex-amentia:
+        qui ipsi retulerunt gratiam beneficiorum,
+        dederuntque tonitru atque candens fulmen
+  505   et fulgur: antea vero immanis Terra _ea_ occultaverat:
+        quibus confisus, mortalibus et immortalibus imperat.
+
+          Puellam vero Japetus pulcris-malleolis Oceanidem
+        duxit Clymenen et eundem lectum conscendit.
+        Ipsa vero ei Atlantem magnanimum peperit filium:
+  510   peperit præterea præclarum Menœtium atque Prometheum
+        varium, versutum, amentemque Epimetheum,
+        qui noxa ab-initio fuit hominibus inventoribus:
+        primus enim sane Jovis fictam suscepit mulierem
+        virginem. Flagitiosum vero Menœtium late-videns Jupiter
+  515   in Erebum demisit feriens ardente fulmine,
+        propter improbitatemque et fortitudinem insolentem.
+        Atlas vero cœlum latum sustinet dura ex necessitate,
+        finibus in terræ, e-regione Hesperidum argutarum,
+        stans, capiteque et indefessis manibus.
+  520   Hanc enim ipsi sortem destinavit prudens Jupiter.
+        Ligavit vero indissolubilibus-compedibus Promethea versutum,
+        vinculis duris mediam in columnam affigens.
+        Et ei aquilam immisit expansis-alis: at hæc hepar
+        comedebat immortale; id autem crescebat tantum ubique
+  525   noctu, quantum toto die edisset extentis-alis avis.
+        Hanc quidem sane Alcmenæ formosis-malleolis fortis filius
+        Hercules occidit, malam vero pestem profligavit
+        ab-Japetionida, et liberavit _eum_ ab ægritudine:
+        non invito Jove Olympio in-alto-imperante,
+  530   quo Herculis Thebis-geniti gloria esset
+        major etiam quam antea super terram multos-pascentem.
+        His igitur is venerabundus honorabat præclarum filium:
+        quamvis iratus remisit iram, quam prius habuerat,
+        eo-quod certasset consilio _cum_ præpotente Saturnio.
+  535   Etenim quando disceptabant _inter se_ Dii mortalesque homines
+        Meconæ, ibi tum magnum bovem volente animo
+        divisum proposuit, Jovis mentem fallens.
+        Hic enim carnesque et intestina cum pingui adipe
+        in pelle deposuit, tegens ventre bubulo;
+  540   illic rursum ossa alba bovis dolosa arte
+        rite-disponens deposuit, tegens candida arvina.
+        Jam tum ipsum allocutus-est pater hominumque Deorumque:
+
+          Japetionida, omnium illustrissime regum,
+        o amice, quam inique partitus-es portiones!
+
+  545     Sic dixit _eum_ carpens Jupiter perpetua consilia sciens.
+        Hunc vero vicissim allocutus-est Prometheus vafer,
+        leniter arridens; dolosæ autem non obliviscebatur artis:
+
+          Jupiter gloriosissime, maxime Deorum sempiternorum,
+        harum elige utram tibi in pectoribus animus suadet.
+
+  550     Dixit igitur dolosa-cogitans. Jupiter autem æterna consilia
+            sciens[TR3]
+        cognovit certe nec ignoravit dolum: mala autem spectabat animo
+        hominibus mortalibus, quæ etiam perficienda erant.
+        Manibus vero hic utrisque sustulit album adipem.
+        [Irascebatur autem mente: ira vero ejus circumvenit animum,
+  555   ut vidit ossa alba bovis _disposita_ dolosa arte.]
+        Ex illo vero _tempore_ immortalibus super terram genera
+            hominum
+        adolent ossa alba odoratis in aris.
+        Hunc autem valde indignatus allocutus-est nubicogus Jupiter:
+
+          Japetionida super omnibus _rebus_ consilia sciens,
+  560   o amice, nondum sane dolosæ oblitus-es artis.
+
+          Sic dixit irascens Jupiter æterna consilia sciens:
+        ex illo _tempore_ sane deinceps, doli memor semper,
+        non dabat miseris ignis vim insatiabilis
+        mortalibus hominibus, qui super terram habitant.
+  565   Sed ipsum decepit egregius filius Japeti,
+        furatus indomiti ignis eminus-apparentem splendorem
+        in concava ferula: momordit vero sane intus-in animo
+        Jovem in-alto-tonantem, et ad-iram commovit eum carum cor,
+        ubi vidit inter-homines ignis procul-apparentem splendorem.
+  570   Protinus autem pro igne struxit malum hominibus.
+        E-terra enim conformavit perceleber Vulcanus
+        virginis pudicæ simulacrum Saturnii per consilia.
+        Cinxit vero et adornavit Dea lucidis-oculis Minerva
+        candida veste: capiti vero calyptram
+  575   artificiosam manibus imposuit, mirum visu:
+        [circum vero ei serta, recens-florentis floribus herbæ
+        amœna, imposuit capiti Pallas Minerva:]
+        circum vero ei coronam auream caput posuit,
+        quam ipse fecerat inclytus Vulcanus,
+  580   elaborans manibus, gratificans Jovi patri.
+        In hac autem artificiosa multa cælata-erant, mira visu,
+        belluæ, quales continens multas alit atque mare.
+        Harum ille multas in-ea-posuit, (gratia vero resplendebat
+            magna,)
+        mirabiles, animantibus similes vocalibus.
+
+  585     At postquam effecit pulchrum malum pro bono,
+        eduxit, ubi alii erant Dii atque homines,
+        ornatu gestientem _Palladis_ splendidis-oculis, forti-patre-
+            prognatæ.
+        Admiratio autem cepit immortalesque Deos mortalesque homines,
+        ubi viderunt dolum exitiosum, inexplicabilem hominibus.
+
+  590     [Ex illa enim genus est mulierum,
+        Illius enim perniciosum est genus et gens mulierum
+            feminearum.]
+        clades ingens, quæ mortales inter homines habitant,
+        perniciosæ paupertatis non comites, sed luxus.
+        Veluti vero cum in alveariis tectis apes
+  595   fucos pascunt, malorum participes operum;
+        illæque quidem _per_ totum diem ad solem occidentem
+        [diurnæ] laborant, figuntque favos albos,
+        hi vero intus permanentes coopertis in alveariis,
+        alienum laborem suum in ventrem metunt:
+  600   ita vero similiter viris rem-malam mortalibus mulieres
+        Jupiter altitonans dedit, participes operum
+        molestorum: alterum autem præbuit malum pro bono:
+        qui nuptias refugiens et anxia opera mulierum,
+        non uxorem-ducere velit, gravemque attigerit senectutem,
+  605   ob-inopiam senectutem-foventis, is autem non victus indigens
+        vivit, mortui tamen possessionem _inter se_ dividunt
+        remoti-cognati. Cui vero contra nuptiarum conditio contigerit,
+        pudicam autem habuerit conjugem, firmam in-mente,
+        huic tamen etiam post hominum-memoriam malum cum-bono certat,
+  610   ut-adsit: qui vero adeptus-fuerit noxium genus _mulierum,_
+        vivit in pectore gestans perpetuum mœrorem
+        animo et cordi, et immedicabile malum est.
+
+          Adeo non licet Jovis fallere consilium neque effugere.
+        Neque enim Japetionides innocens Prometheus
+  615   illius evitavit gravem iram, sed per necessitatem _eum,_
+        quamvis multiscium (exsistentem), magnum vinculum coercet.
+
+          Briareo vero ubi primum pater iratus-erat animo
+        Cottoque atque Gyæ, ligavit forti vinculo,
+        fortitudinem immanem admirans atque etiam formam
+  620   et magnitudinem: collocavit autem _eos_ sub terram latam:
+        ibi illi dolores habentes sub terra habitantes,
+        sedent in extrema-plaga, magnæ in finibus terræ,
+        usque valde, mœrentes, corde magnum luctum habentes;
+        sed ipsos Saturniusque et immortales Dii alii,
+  625   quos peperit pulchricoma Rhea Saturni in amore,
+        Terræ consiliis reduxerunt in lucem iterum:
+        ipsa enim eis cuncta longius recensuit,
+        cum illis victoriamque et splendidam gloriam _eos_ accepturos-
+            esse.
+        Diu enim pugnarunt, laborem animum-cruciantem habentes,
+  630   Titanesque Dii et quotquot e-Saturno nati-sunt,
+        contra sese-invicem per validas pugnas:
+        hi quidem ab alta Othry, Titanes gloriosi,
+        illi vero sane ab Olympo, Dii datores bonorum:
+        quos peperit pulchricoma Rhea Saturno concumbens;
+  635   illi igitur tum inter-se pugnam animum-excruciantem habentes,
+        continenter pugnabant decem totos annos.
+        Neque ullus erat contentionis gravis exitus neque finis
+        alterutris; æqualiter autem finis extendebatur belli.
+        Sed quando jam illis præbuit congruentia omnia,
+  640   nectarque ambriosamque, quibus Dii ipsi vescuntur,
+        [omnium in pectoribus augebatur animus generosus.
+        Ubi vero nectar gustarunt et ambrosiam amabilem,]
+        jam tum ipsos _sic_ affatus-est pater hominumque Deorumque:
+
+          Audite me, Terræque et Cœli inclyti liberi,
+  645   ut dicam quæ me animus in pectore jubet.
+        Jam enim admodum diu adversi nobis-invicem
+        victoriæ et imperii gratia pugnavimus dies omnes,
+        Titanesque Dii et quotquot e-Saturno nati-sumus.
+        Vos vero magnamque vim et manus invictas
+  650   ostendite Titanibus contrarii in pugna tristi,
+        memores amicitiæ placidæ, quam-multa perpessi
+        ad lucem redieritis, molesto a vinculo,
+        nostra per consilia, e caligine obscura.
+
+          Sic dixit: hunc vero rursum excepit Cottus egregius:
+  655   venerande, non ignota loqueris: sed et ipsi
+        scimus, quod tibi excellat quidem mens, excellat autem
+            intellectus,
+        depulsor vero immortalibus damni sis horrendi.
+        Retro vero acerbis a vinculis,
+        tua providentia e caligine tenebrosa
+  660   venimus, Saturni fili rex, insperata passi.
+        Ideo et nunc intentoque animo et prudenti consilio
+        vindicabimus imperium vestrum in gravi conflictu,
+        pugnantes cum-Titanibus in acribus præliis.
+
+          Sic dixit: collaudarunt vero Dii, datores bonorum,
+  665   sermone audito: bellumque cupiebat animus
+        magis etiam quam antea: pugnam vero lugubrem ciebant
+        omnes, feminæque et mares, die illo,
+        [Titanesque Dii et quotquot Saturno prognati-sunt,]
+        quosque Jupiter ex-Erebo sub terra misit ad lucem,
+  670   acresque fortesque, vires immensas habentes.
+        Horum centum quidem manus ab humeris erumpebant
+        omnibus simul, capita vero unicuique quinquaginta
+        ex humeris enata-erant in robustis artubus.
+        Hi cum Titanibus oppositi-fuere in pugna luctuosa,
+  675   rupes ingentes validis in manibus gestantes
+        [Titanes vero ab-altera-parte confirmabant phalanges]
+        alacriter, manuumque viriumque simul opus ostentabant
+        utrique; horrende vero insonuit pontus immensus,
+        terra autem valde stridebat, ingemiscebat vero cœlum latum
+  680   quassatum, penitusque concutiebatur amplus Olympus
+        ab impetu immortalium, concussio vero pervenit gravis
+        _ad_ Tartarum tenebricosum, pedumque acris fragor,
+        immodici tumultus ictuumque fortium:
+        ita igitur in sese-mutuo jaciebant tela lamentabilia.
+  685   Vox autem utrorumque pervenit _ad_ cœlum stellatum
+        adhortantium: at illi congrediebantur magno _cum_ clamore.
+        Neque sane amplius Jupiter cohibebat suum robur, sed jam
+            ipsius
+        statim quidem robore implebatur animus, atque etiam omnem
+        ostendebat vim: simul vero sane a cœlo atque ab Olympo
+  690   fulgurans incedebat continuo: fulmina autem
+        confertim una-cum tonitruque et fulgure volabant
+        manu a robusta, sacram flammam circumvolventia,
+        crebra; circum vero terra alma reboabat
+        ardens, crepitabatque undique igne valde immensa silva.
+  695   Fervebatque terra tota, et Oceani fluenta,
+        pontusque immensus: illos autem circumdedit calidus vapor
+        Titanes terrestres; flamma vero _ad_ aërem divinum pervenit
+        ingens: oculos vero visu-privabat quantumvis fortium
+        splendor radians fulminisque fulgurisque.
+  700   Incendium autem ingens corripuit chaos: videbatur vero coram
+        oculis adspicienti atque auribus vocem audienti
+        eodem-modo, ac si terra et cœlum latum superne
+        miscebantur: talis enim maximus strepitus excitabatur
+        illius quidem dirutæ, hujus autem ex-alto proruentis.
+  705   Tantus fragor erat Deorum certamine confligentium.
+        Simul vero venti motumque pulveremque una cum-strepitu-
+            excitabant
+        tonitruque fulgurque et ardens fulmen,
+        tela Jovis magni, ferebantque fremitum clamoremque
+        in medium utrorumque: strepitus igitur intolerabilis
+            excitabatur
+  710   horrendi certaminis; robur autem apparebat operum.
+        Inclinata vero est pugna: prius autem sibi-mutuo imminentes,
+        constanter pugnabant in forti prælio.
+        Illi vero sane inter primos pugnam acrem ciebant,
+        Cottusque Briareusque Gyasque insatiabilis belli.
+  715   Hi igitur trecentas petras robustis e manibus
+        mittebant frequentes, obumbrarunt autem jaculis
+        Titanas, atque hos quidem sub terram late-patentem
+        miserunt et vinculis molestis alligarunt,
+        cum-vicissent manibus superbi licet essent,
+  720   tantum infra sub terram, quantum cœlum distat a terra:
+        par enim _spatium_ a terra ad Tartarum caliginosum.
+        Novem enim noctesque et dies ærea incus
+        cœlitus delabens decimo _die_ ad terram perveniret:
+        novem vero rursus noctesque et dies ærea incus
+  725   ex terra descendens decimo _die_ ad Tartarum perveniret.
+        Quem circa æreum septum ductum-est: circum vero ipsum nox
+        tripliciter fusa-est circa collum: sed superne
+        terræ radices sunt et infructuosi maris:
+        illic Dii Titanes sub caligine tenebrosa
+  730   absconditi-sunt consiliis Jovis nubicogi.
+        [loco in putrido, _ubi_ vastæ ultima _loca sunt_ terræ.]
+        His non exeundum est, portas enim imposuit Neptunus
+        æreas, murusque circuit utrimque.
+        Illic Gyas Cottusque et Briareus magnanimus
+  735   habitant, custodes fidi Jovis ægida-tenentis.
+
+
+                        -----------------------
+
+
+          Ibi vero terræ tenebricosæ et Tartari caliginosi
+        pontique infructuosi et cœli stelligeri
+        ex-ordine omnium fontes et fines sunt,
+        molesti, squalidi, quos oderunt Dii quidem,
+  740   hiatus ingens, nec _quisquam_ toto integro anno
+        solum attingeret, ubi primum portas intra venisset.
+        Sed sane huc et illuc ferret antea procella procellæ
+        [molesta: horrendum vero etiam immortalibus Diis
+        hoc monstrum: et noctis obscuræ domus horrenda
+  745   stat, nubibus obtecta nigris.]
+
+          Has ante _portas_ Japeti filius sustinet cœlum latum
+        stans, capiteque et indefessis manibus,
+        firmiter, ubi Noxque et Dies prope euntes
+        sese-mutuo compellabant, alternis-subeuntes magnum limen
+  750   æreum: hæc quidem intus itura-est, illa vero foras
+        egreditur, neque unquam utrasque domus intus cohibet;
+        sed semper altera saltem extra domum (existens)
+        super terram versatur; altera rursum intra domum (existens)
+        exspectat sui tempus itineris, donec veniat.
+  755   [Hæc quidem terrestribus lumen multa-cernens habens,
+        illa vero Somnum in manibus, fratrem Mortis,
+        Nox noxia, nube tecta caliginosa.]
+
+          Ibi autem Noctis filii obscuræ domus habent,
+        Somnus et Mors, graves Dii: neque unquam eos
+  760   Sol lucidus intuetur radiis,
+        cœlum scandens, nec cœlitus descendens.
+        Horum alter quidem terramque et lata dorsa maris
+        quietus percurrit et placidus hominibus;
+        alterius vero ferreum quidem cor, aheneum vero ei pectus
+  765   crudele in præcordiis: tenet autem quem primum arripuerit
+        hominum: hostis vero etiam immortalibus Diis.
+
+          Illic dei inferi in-anteriore-parte ædes resonantes,
+        fortisque Plutonis et terribilis Proserpinæ,
+        stant: horrendus autem canis foris custodit,
+  770   sævus, artemque malam habet: introeuntibus quidem
+        adulatur pariter caudaque et auribus ambabus;
+        exire vero non iterum permittit retro, sed observans
+        devorat, quemcunque prenderit extra portas euntem
+        [fortisque Plutonis et terribilis Proserpinæ.]
+
+  775     Ibidem vero habitat abominanda dea immortalibus,
+        horrenda Styx, filia reciprocantis Oceani
+        maxima-natu. Seorsum vero a diis inclytas ædes incolit
+        ingentibus saxis supertectas: circum autem quaque
+        columnis argenteis ad cœlum firmatæ-sunt.
+  780   Raro vero Thaumantis filia, pedibus velox Iris,
+        nuntii _causa_ versatur super lata dorsa maris,
+        quando lis et contentio inter Deos exorta-fuerit,
+        et sane quisquis mentiatur cœlestes domos tenentium:
+        Jupiter vero Irim misit Deorum magnum jusjurandum ut-ferat
+  785   e-longinquo in aureo vase, multum-celebratam aquam,
+        frigidam, quæ e petra destillat excelsa,
+        alta: multum vero etiam subtus terram spatiosam
+        e sacro flumine fluit per noctem nigram
+        Oceani cornu: decima vero pars secreta-est.
+  790   Novem quidem circa terramque et lata dorsa maris
+        vorticibus argenteis volvens in mare cadit;
+        illa vero una e saxo profluit, magnum damnum Diis.
+        Quisquis perjurium libans juraverit
+        immortalium, qui tenent verticem nivosi Olympi,
+  795   jacet spiritus-expers integrum per annum,
+        neque unqum ambrosiæ et nectaris accedit propius
+        cibum, sed jacet non-respirans et mutus
+        stratis in lectis, malus autem sopor _eum_ obtegit.
+        Sed postquam morbo defunctus-est magnum per annum,
+  800   alia ex alia excipit molestior ærumna.
+        Novennio autem a Diis separatur æternis,
+        neque unquam ad concilium miscetur neque ad epulas,
+        novem totis annis: decimo vero miscetur iterum
+        cœtibus immortalium, qui cœlestes domos incolunt.
+  805   Tale itaque jusjurandum constituerunt Dii Stygis perennem
+            aquam,
+        priscam, quæ fluit valde-asperum per locum.
+
+          [Ibi autem terræ caliginosæ et Tartari obscuri
+        pontique infructuosi et cœli stellati,
+        ex-ordine omnium fontes et fines sunt,
+  810   molesti, squalidi, quos oderunt Dii ipsi.
+        Illic autem splendidæque portæ et aureum limen
+        immotum, radicibus longis compactum,
+        sua-sponte-natum: ante-illud vero deos extra omnes
+        Titanes habitant, ultra Chaos caliginosum.
+  815   Ceterum valde-crepantis Jovis inclyti auxiliarii
+        domus incolunt in Oceani fundamentis,
+        Cottusque atque Gyas. Briareum quippe fortem (existentem)
+        generum suum fecit graviter-fremens Neptunus;
+        dedit autem Cymopoliam in-matrimonium-ducendam, filiam suam.]
+
+
+                        -----------------------
+
+
+  820     Ast ubi Titanes e Cœlo expulerat Jupiter,
+        minimum-natu peperit filium Typhoëum Terra ingens
+        Tartari in concubitu per auream Venerem.
+        Cujus manus quidem sunt ob robur laboribus aptæ
+        et pedes indefessi robusti Dei: ex humeris vero ei
+  825   erant centum capita serpentis, horrendi draconis,
+        lingus nigris lambentia; hujus autem in oculorum
+        admirandis capitibus sub superciliis ignis micabat:
+        [omnibus autem ex capitibus ignis flagrabat cernentis,]
+        voces autem in omnibus erant horrendis capitibus,
+  830   omnigenum sonitum emittentes, ineffabilem. Interdum enim
+            quidem
+        sonabant, ut Diis intelligendum-esset, interdum vero etiam
+        tauri valde-mugientis, robore indomiti, vocem ferocis,
+        interdum vero etiam leonis sævum animum habentis,
+        interdum vero etiam catulis similia, mira auditu,
+  835   interdum vero stridebat, resonabant autem montes alti.
+        Et sane evenisset res inevitabilis die illo,
+        et hic mortalibus et immortalibus imperasset,
+        nisi sane bene intellexisset pater hominumque Deorumque.
+        Graviter autem intonuit atque fortiter, circum vero terra
+  840   horrende edidit-fragorem et cœlum latum superne,
+        pontusque Oceanique fluctus et tartara terræ.
+        Pedibus vero sub immortalibus magnus contremuit Olympus,
+        insurgente rege: ingemiscebat autem tellus.
+        Ardor vero ab utroque occupabat cæruleum pontum
+  845   tonitruque fulgurisque, ignisque ab illo monstro,[TR4]
+        [flammisque ventisque fulmineque ardenti:]
+        fervebat autem terra omnis et cœlum atque mare:
+        furebant vero sane circum littora undique fluctus magni
+        ab impetu Deorum, concussioque non-sedanda oriebatur:
+  850   expavit Pluto, inferis mortuis imperans,
+        Titanesque sub-tartarum circa Saturnum (exsistentes),
+        [_ob_ inexstinguibilem fremitum et gravem conflictum.]
+        Jupiter vero postquam jam incitavit suum robur sumpsitque
+            arma,
+        tonitruque fulgurque et corscans fulmen,
+  855   percussit ab Olympo insiliens: circum vero omnia
+        combussit ingentia capita sævi monstri.
+        Ast ubi jam hoc vicit ictibus percutiens,
+        _id_ cecidit mutilatum, ingemiscebat autem terra vasta:
+        flamma vero fulminato prosiliebat a-rege
+  860   montis in saltibus opacis, asperis,
+        percusso: multaque vasta ardebat terra
+        vapore ingenti et liquescebat velut stannum
+        per artem juvenum, inque bene-forato catino
+        calefactum, vel ferrum, quod solidissimum est,
+  865   [montis in saltibus victum igne flammeo,
+        liquescit in terra divina, sub Vulcani manibus.]
+        Sic igitur liquescebat terra jubare ignis ardentis.
+        Abjecit autem illum animo mœstus in Tartarum vastum.
+
+          Ex Typhoëo autem est ventorum vis humide flantium,
+  870   excepto Noto Boreaque, et Argeste Zephyroque.
+        Qui quidem ex Diis _sunt natum_ genus, hominibus magna
+            utilitas.
+        Alii vero sine-usu venti inspirant mare.
+        Hi sane incidentes in obscurum pontum,
+        clades magna hominibus, gravi sæviunt turbine;
+  875   alibi autem alii flant, dissipantque naves,
+        nautasque perdunt: mali autem non est remedium
+        viris, qui illis occurrerint in ponto:
+        illi rursum etiam per terram immensam, floridam,
+        opera jucunda corrumpunt humi-prognatorum hominum,
+  880   replentes pulvereque et molesto tumultu.
+
+
+                        -----------------------
+
+
+          Sed postquam sane laborem beati Dii perfecerunt,
+        cum-Titanibus autem honorum _causa_ certarunt vi,
+        jam tum jubebant regnare atque imperare,
+        Terræ ex-consilio, Olympium late-cernentem Jovem
+  885   immortalibus. Hic vero ipsis bene distribuit honores.
+
+          Jupiter autem Deorum rex primam uxorem duxit Metidem,
+        plurimum ex-Diis edoctam atque mortalibus hominibus.
+        Sed cum jam esset Deam splendidis-oculis Minervam
+        paritura, tum jam dolose animo decepto
+  890   blandis sermonibus, in suam condidit alvum _Jupiter,_
+        Telluris consiliis et Cœli stellati.
+        Sic enim ei suaserunt, ne regium honorem
+        alius haberet Jovis loco Deorum sempiternorum.
+        Ex hac enim in-fatis-erat prudentes liberos nasci:
+  895   primam quidem virginem splendidis-oculis Tritonidem
+        par habentem patri robur et prudens consilium:
+        sed deinde sane filium Deorum regem et virorum
+        erat paritura, superbum animum habentem:
+        sed sane illam Jupiter ante in suum condidit ventrem,
+  900   ut sibi indicaret Dea bonumque malumque.
+
+          Postea duxit splendidam Themidem, quæ peperit Horas,
+        Eunomiamque Dicenque et Irenen florentem,
+        quæ opera curant mortalium hominum;
+        Parcasque, quibus maximum honorem dedit prudens Jupiter,
+  905   Clothoque Lachesinque et Atropon, quæ dant
+        mortalibus hominibus habendum bonumque malumque.
+
+          Tres vero ei Eurynome Gratias peperit pulcris-genis,
+        Oceani filia, peroptabilem formam habens,
+        Aglajamque et Euphrosynen Thaliamque amabilem:
+  910   harum etiam e palpebris amor destillabat specantium
+        solvens-membra: jucundum vero sub superciliis spectant.
+
+          Ceterum hic Cereris multorum-altricis ad lectum venit,
+        quæ peperit Proserpinam candidis-ulnis, quam Pluto
+        rapuit sua a matre; dedit autem sapiens Jupiter.
+
+  915     Mnemosynen vero deinceps amavit pulchricomam,
+        ex qua ipsi Musæ aureis-diadematis natæ-sunt
+        novem, quibus placent convivia, et oblectatio cantus.
+
+          Latona autem Apollinem et Dianam sagittis-gaudentem,
+        suavissimam prolem præ omnibus Cœlitibus,
+  920   peperit sane, ægida-tenenti Jovi concubitu mista.
+
+         Postremam vero Junonem floridam duxit uxorem.
+        Hæc autem Heben et Martem et Lucinam peperit,
+        mista in concubitu Deorum regi et hominum;
+        ipse vero ex capite splendidis-oculis Tritonidem,
+  925   acrem, tumultus-excitantem, ducem-exercitus, indomitam,
+        venerandam, cui clamoresque placuerunt bellaque pugnæque.
+
+          Juno autem Vulcanum inclytum, concubitu non mista,
+        peperit, (ac succensuit et contendit _cum_ suo marito,)
+        præ omnibus artibus ornatum Cœlitibus.
+
+  930     Ex Amphitrite autem et valde-resonante Neptuno
+        Trito late-potens natus-est magnus, qui maris
+        fundum tenens apud matrem caram et patrem regem
+        incolit aureas ædes, sævus Deus. Sed Marti
+        clypeos-dissecanti Cytherea Terrorem et Pavorem peperit
+  935   sævos, qui virorum densas turbant phalanges
+        in bello horrido cum Marte urbes-devastanti,
+        Harmoniamque, quam Cadmus magnanimus duxit uxorem.
+
+          Jovi vero Atlantis Maja peperit gloriosum Mercurium,
+        præconem Deorum, sacrum lectum conscendens.
+  940   Cadmea vero ei Semele peperit clarum filium,
+        mixta in concubitu, Bacchum multum-hilarantem,
+        immortalem mortalis: nunc vero ambo Dii sunt.
+        Alcmene vero peperit vim Herculeam,
+        mixta in concubitu Jovi nubes-cogenti.
+
+  945     Aglajam vero Vulcanus, percelebris utrimque-claudus,
+        minimam-natu Gratiarum floridam duxit uxorem.
+        Aureo-crine autem Bacchus flavam Ariadnen,
+        filiam Minois, floridam fecit conjugem.
+        Hanc vero ei immortalem expertemque-senii fecit Saturnius.
+  950   Heben autem Alcmenæ pulcris-talis fortis filius,
+        vis Herculis, peractis luctuosis certaminibus,
+        filiam Jovis magni et Junonis aureis-calceamentis,
+        pudicam duxit uxorem in Olympo nivoso:
+        felix, qui magno facinore inter Deos confecto,
+  955   habitat illæsus et expers-senii omnibus diebus.
+
+          Soli autem indefesso peperit inclyta Oceanis
+        Perseis Circenque et Æëtem regem.
+        Æëtes autem filius mortales-illuminantis Solis
+        filiam Oceani, extremi fluvii,
+  960   duxit Deorum ex-consiliis, Idyiam pulcris-genis.
+        Hæc autem ei Medeam pulcris-talis in concubitu
+        peperit subacta per auream Venerem.
+
+          Vos quidem nunc valete, Olympias domos tenentes,
+        [insulæque continentesque-terræ et salsu intus pontus.]
+  965   Nunc autem Dearum genus cantate, blandiloquæ
+        Musæ Olympiades, filiæ Jovis ægida-tenentis,
+        quæcunque quidem mortales apud viros cubantes
+        immortales pepererunt Diis similes liberos.
+
+          Ceres quidem Plutum peperit, diva Dearum,
+  970   Jasio heroï mista jucundo amore
+        novali in ter-proscisso, Cretæ in pingui tractu,
+        egregium, qui vadit super terramque et lata dorsa maris
+        omnibus (_ut prosit_): occurrenti vero et cujus ad manus
+            venerit,
+        illum locupletem reddidit, multasque ei præbuit fortunas.
+
+  975     Cadmo autem Harmonia, filia aureæ Veneris,
+        Ino et Semelen et Agaven pulcris-genis,
+        Autonoënque, quam duxit Aristæus densa-cæsarie,
+        peperit et Polydorum pulchre-cinctis (in) Thebis.
+
+          [Filia vero Oceani, Chrysaori magnanimo
+  980   mixta in concubitu aureæ Veneris,
+        Calliroë, peperit filium mortalium robustissimum omnium,
+        Geryonem, quem interfecit vis Herculea
+        boves propter flexipedes circumflua in Erythea.]
+        Tithono vero Aurora peperit Memnona ære-armatum,
+  985   Æthiopum regem, et Hemationem regem.
+        Verum Cephalo sevit inclytum filium,
+        fortem Phaëthontem, Diis similem virum:
+        Hunc sane juvenem, tenerum florem habentem gloriosæ
+            pubertatis,
+        puerum juvenilia cogitantem amans-risum Venus
+  990   aufugit quum-abripuisset, et ipsum sacris in templis
+        templi-custodem nocturnum fecit, dæmonem divinum.
+
+          Filiam vero Æëtæ a Jove-nutriti regis
+        Æsonides, voluntate Deorum æternorum,
+        abduxit ab Æëta, peractis luctuosis certaminibus,
+  995   quæ multa imperabat magnus rex superbus,
+        injurius Pelias et impius, fortium-facinorum-patrator.
+        His peractis ad Jolcum rediit, multa perpessus,
+        veloci in nave vehens pætis-oculis puellam,
+        Æsonides, et ipsam floridam fecit uxorem.
+ 1000   Et hæc quidem subacta ab Jasone, pastore populorum,
+        Medeum peperit filium, quem in-montibus educabat Chiron
+        Philyrides: magni vero Jovis voluntas perficiebatur.
+
+          At Nerei filiæ, marini senis,
+        nimirum Phocum quidem Psamathe peperit, diva Dearum,
+ 1005   Æaci in amore per auream Venerem,
+        Peleo autem subacta Dea Thetis argenteis-pedibus
+        peperit Achillem prosternentem-viros, animo-leonino.
+
+          Æneam vero peperit pulchre-coronata Cytherea
+        Anchisæ heroï mixta jucundo concubitu,
+ 1010   Idæ in verticibus multicavæ, silvosæ.
+        Circe vero, Solis filia, Hyperionis,
+        peperit Ulixis ærumnosi in amore
+        Agrium atque Latinum inculpatumque fortemque,
+        Telegonumque peperit per auream Venerem.
+ 1015   Hi vero sane valde procul in-recessu insularum sacrarum
+        omnibus Tyrrhenis valde-inclytis imperabant.
+        Nausithoum vero Ulixi Calypso, diva Dearum,
+        peperit Nausinoumque, mista ambili concubitu.
+
+          [Hæ quidem, mortales apud viros cubantes,
+ 1020   immortales pepererunt Diis pares liberos.
+        Nunc vero feminarum genus cantate, suaviloquæ
+        Musæ Olympiades, filiæ Jovis ægida-tenentis.]
+
+
+[1] "fiilia" -> "filia"
+[2] "Dearum,]" -> "Dearum,"
+[3] In the original text line number 550 is one line below ("cognovit
+certe...").
+[4] In the original text line number 845 is one line below ("flammisque
+ventisque...").
+
+
+                        -----------------------
+
+
+                            SCUTUM HERCULIS.
+
+    1   Aut qualis, relicta domo ac patria terra,
+        venit Thebas secuta martium Amphitryonem
+        Alcmena, filia populorum-incitatoris Electryonis.[TR1]
+        Ea sane mulierum genus superabat feminearum
+    5   Formaque proceritateque: prudentia quidem nulla _cum ea_
+            certabat
+        earum, quas mortales mortalibus peperere concumbentes.
+        Ejus et a vertice palpebrisque a nigricantibus
+        tale _quiddam_ spirabat, quale etiam _ab_ aureæ Veneris.
+        Hæc vero etiam sic in animo suum colebat conjugem,
+   10   quomodo numquam ulla coluit mulierum feminearum:
+        quamquam _ille_ ei patrem præstantem occiderat, vi domitum,
+        iratus propter boves: relicta autem idem patria terra
+        Thebas venit-supplicans scutatis Cadmeis.
+        Ibi is domum habitabat cum veneranda conjuge,
+   15   seorsim absque concubitu desiderabili; neque-enim ei licebat
+        ante lectum conscendere pulchris-talis Electryonidis,
+        quam cædem ultus-esset fratrum magnanimorum
+        suæ conjugis validoque combussisset igne vicos
+        virorum heroum Taphiorum atque Teleboarum.
+   20   Ita enim ipsi constitutum-erat, dii vero testes erant:
+        eorum ille verebatur iram, festinabat autem quam celerrime
+        exsequi magnum opus, quod ei divinitus fas erat.
+        Hunc autem una, cupidi bellique præliique,
+        Bœotii equorum-domitores, super clypeos (_robur_) spirantes,
+   25   Locrique cominus-pugnantes et Phocenses magnanimi
+        sequebantur: ducebat autem eos egregius filius Alcæi,
+        glorians populis. At pater hominumque Deorumque
+        aliud consilium texebat in animo, ut Diis
+        hominibusque inventoribus damni depulsorem generaret.
+   30   Pofectus-est autem ab Olympo dolum mente intus-struens,
+        desiderans concubitum pulchre-cinctæ mulieris,
+        nocturnus: celeriter autem venit _in_ Typhaonium, inde rursum
+        Phicium summum accessit prudens Jupiter.
+        Ubi sedens mente meditabatur divina opera:
+   35   nam eadem quidem nocte teneris-talis Electryonidi
+        lecto et concubitu mistus-est, perfecitque sane desiderium;
+        eadem autem Amphitryo populorum-incitator, splendidus heros,
+        perfecto magno opere, rediit suam domum.
+        Neque is ad famulos et pastores agrestes
+   40   festinabat ire anteaquam suæ conjugis conscendisset lectum.
+        Tale enim corde desiderium ceperat pastorem populorum.
+        Sicut autem quando vir voluptuose subterfugit malum
+        morbo ex gravi aut etiam validis ex vinculis;
+        ita sane tunc Amphitryo difficili labore exantlato,
+   45   voluptuose lubenterque suam domum reversus-est.
+        Tota-nocte vero concubuit cum veneranda uxore,
+        se-oblectans muneribus aureæ Veneris.
+        Illa autem a-Deo compressa et viro longe optimo,
+        Thebis septem-portis geminos peperit pueros,
+   50   non-amplius consentientes; fratres quamquam erant:
+        alterum quidem deteriorem, alterum autem contra longe
+            præstantiorem virum,
+        Validum ac fortem, vim Herculeam:
+        hunc quidem compressa a-nubilo Saturnio,
+        contra Iphicleum _ab_ hastarum-concussore Amphitryone,
+   55   diversam sobolem: hunc quidem mortali viro mixta,
+        illum autem Jovi Saturnio, Deorum imperatori omnium.
+
+
+                        -----------------------
+
+
+          Is et Cycnum occidit, Martis-filium magnanimum.
+        Invenit enim in luco longe-jaculantis Apollinis
+        ipsum et patrem ejus, Martem, insatiabilem bello,
+   60   armis fulgentes, ceu jubar ignis ardentis,
+        stantes in curru: terram autem pulsabant veloces equi,
+        ferientes ungulis; pulvisque circa ipsos fervebat,
+        excitatus compacto sub curru et pedibus equorum.
+        Currus autem fabrefactus et rotæ circum resonabant,
+   65   equis festinantibus: gaudebat vero Cycnus egregius,
+        sperans _se_ Jovis filium bellicosum aurigamque
+        ferro interemturum-esse, et inclytis armis exuturum.
+        Sed ei vota non exaudivit Phœbus Apollo:
+        ipse enim illi concitavit vim Herculeam.
+   70   Totus vero lucus et ara Apollinis Pagasæi
+        collucebat (a) sævi Dei armisque et ipso;
+        ignis autem instar oculis effulgebat. Quis illi
+        sustinuisset mortalis (exsistens) obviam ferri,
+        præter Herculem et præclarum Iolaum?
+   75   illi enim magnaque vis et manus invictæ
+        ex humeris crescebant in robustis membris.
+        Is igitur tunc aurigam allocutus-est fortem Iolaum:
+
+          Heros, o Iolae, mortalium longe carissime omnium,
+        utique aliquid magnum in immortales beatos, qui Olympum
+            tenent,
+   80   deliquit Amphitrye, ubi bene-cinctas (ad) Thebas
+        abiit relicta Tiryntho, bene-condita urbe,
+        occiso Electryone boum causa latis-frontibus:
+        venitque ad Creontem et Heniochen longo-peplo,
+        qui eum comiter-exceperunt et grata omnia _ei_ præbuerunt,
+   85   ut æquum est supplicibus, coluerunt autem ex-animo magis.
+        Vivebat vero exsultabundus cum formosa Electryonide,
+        sua conjuge: mox autem nos inverso anno
+        nati-sumus, neque statura similes, neque ingenio,
+        paterque tuus et ego. Ejus quidem mentem sustulit Jupiter,
+   90   qui relictis suaque domo suisque parentibus,
+        abiit honoraturus nefarium Eurystheum,
+        temerarius: certo multum ingemiscebat postea
+        suæ culpæ, lugens: ea vero non revocabilis est.
+        Sed mihi Deus difficiles imperavit labores.
+   95   O amice, sed tu cito arripe habenas purpureas
+        equorum celeripedum: magnamque _in_ mente fiduciam augens
+        recta dirige velocem currum et celeripedum robur equorum,
+        nihil veritus strepitum Martis homicidæ,
+        qui nunc crepitans furit-circum sacrum nemus
+  100   Phœbi Apollinis, longe-jaculantis Regis:
+        enimvero quamvis validus (exsistens) satiatur bello.
+
+          Hunc autem contra allocutus-est egregius Iolaus:
+
+          Carissime, certo valde pater hominumque Deorumque
+        honorat tuum caput et taurinus Neptunus,
+  105   qui Thebarum mœnia tenet tueturque civitatem:
+        sicut jam et hunc mortalem validumque magnumque
+        tuas in manus adducunt, ut gloriam eximiam auferas.
+        Sed age, indue arma Mavortia, ut celerrime
+        currus committentes, Martisque nostrumque,
+  110   decertemus, quoniam non-sane intrepidum Jovis filium,
+        neque Iphiclidem perterrebit: sed ipsum puto
+        fugiturum duos filios inculpati Alcidæ,
+        qui jam ei prope sunt, cupientes belli
+        prælium conserere: quæ ipsis multo gratiora _sunt_ epulis.
+
+  115     Sic ait: arrisit autem vis Herculea,
+        animo oblectatus: admodum enim ipsi grata dixerat:
+        et eum excipiens verbis volucribus allocutus-est:
+
+          Heros, o Iolae, Jovis-alumne, non-jam procul
+        pugna aspera. Tu vero quomodo antea fuisti bellicosus,
+  120   ita et nunc magnum equum Arionem nigris-jubis
+        quoquoversum converte, et auxiliare, quomodo poteris.
+
+          Sic locutus, ocreas orichalci splendidi,
+        Vulcani inclyta dona, circum tibias posuit;
+        deinde etiam thoracem pectori induit
+  125   pulchrum, aureum, valde-artificiosum, quem ipsi dederat
+        Pallas Minerva, filia Jovis, ubi erat
+        primum luctuosa aggressurus certamina.
+        Posuit autem circa humeros exitii depulsorem ferrum
+        fortis vir: cavam autem circa pectora pharetram
+  130   rejecit in-tergum: multæ vero intus _erant_ sagittæ
+        horrendæ, mortis vocem-eripientis datrices.
+        Ab-anteriori-parte quidem mortem habebant et lacrimis
+            madebant;
+        mediæ autem politæ _erant_, perlongæ, sed a-tergo
+        nigræ aquilæ contectæ pennis.
+  135   Corripuit autem validam hastam acutam corusco ære:
+        capiti vero in robusto galeam fabrefactam posuit,
+        artificiosam, ferream, ad tempora aptatam,
+        quæ muniebat caput Herculis divini.
+
+          Manibus quidem clypeum cepit undique-varium: nec quisquam
+            eum
+  140   perrupisset jaciendo neque comminuisset, mirum visu.
+        Nam totus quidem circum gypso candidoque ebore
+        et electro lucidus erat, auroque fulgido
+        splendens; chalybis vero laminæ erant-ductæ.
+        [1] In medio autem draconis erat terror haudquaquam effabilis,
+  145   retro oculis igne lucentibus spectans:
+        hujus etiam dentibus quidem repletum-erat os candide
+            dispositis,
+        sævis, inaccessis; supra terribilem autem frontem
+        sæva contentio volitabat, parans pugnam virorum,
+        tetra, quæ sane mentemque et præcordia eximebat viris,
+  150   quicumque bellum adversus Jovis filium gererent.
+        Horum et animæ quidem _sub_ terram submerguntur ad-Orcum intro
+        ipsorum; ossa autem eorum, circum pelle putrefacta,
+        Sirio torrido, _in_ nigra putrescunt terra.
+        In _eo_ autem Propulsatioque Repulsioque factæ-erant;
+  155   in _eo_ Tumultusque Nexque Homicidiumque ardebant.
+        In _eo_ Contentio Turbaque furebant, in _eo_ perniciosa Mors,
+        alium virum tenens recens-vulneratum, alium illæsum,
+        alium mortuum per pugnam trahebat pedibus.
+        Vestem autem habebat circum humeros cruentam sanguine virorum,
+  160   sævum intuens clamoribusque vociferans.
+        In _eo_ autem serpentum capita sævorum erant, haudquaquam
+            effabilium,
+        duodecim, quæ perterrefaciebant super terram genera hominum,
+        quicumque bellum contra Jovis filium gererent;
+        eorum et dentium quidem crepitus erat, quoties pugnabat
+  165   Amphitryoniades: hæc autem fulgurabant miranda opera:
+        punctorum vero instar apparebant conspicuæ sævis draconibus,
+        (_qui erant_) cærulei per terga, _quorum_ vero nigricabant
+            maxillæ.
+        In _eo_ autem suum greges agrestium erant atque leonum
+        sese adspicientium, irascientumque cupientiumque.
+  170   Quorum etiam turmatim ordines incedebant; neque sane hi
+        neutri tremebant; horrebant tamen colla utrique.
+        Jam enim ipsis jacebat magnus leo, circum autem apri
+        duo, spoliati anima, deorsumque iis niger
+        cruor destillabat in-terra: ipsi autem , cervicibus dejectis,
+  175   jacebant mortui sub terribilibus leonibus.
+        Hi vero etiam magis excitabantur, incensi ad-pugnandum,
+        utrique, agrestesque sues trucesque leones.
+        In _eo_ autem erat pugna Lapitharum bellatorum
+        Cæneumque circa regem Dryantemque Pirithoumque
+  180   Hopleumque Exadiumque Phalerumque Prolochumque
+        Mopsumque Ampyciden, Titaresium, prolem Martis,
+        Theseumque Ægiden, similem immortalibus:
+        (_qui erant_) argentei, aurea circum coprus arma habentes.
+        Centauri autem ex-altera-parte adversi congregabantur
+  185   circum magnum Petræum atque Asbolum augurem
+        Arctumque Huriumque, nigrisque-pilis Mimantem
+        et duos Peucidas, Perimedeum Dryalumque,
+        argentei, aureas abietes in manibus habentes.
+        Atque simul-impetu-facto tanquam (exsistentes) vivi
+  190   lanceis atque abietibus cominus contendebant.
+        In _eo_ autem Martis terribilis celeripedes stabant equi
+        aurei, in _eo_ vero etiam ipse spoliator perniciosus Mars,
+        hastam in manibus habens, milites exhortans,
+        sanguine cruentus, quasi vivos spolians,
+  195   currui insistens: juxta autem Pavorque Terrorque
+        stabant cupientes bellum subire virorum.
+        In _eo_ autem Jovis filia prædatrix Tritogenia,
+        ei similis quasique pugnam volens parare,
+        hastam habens in manibus atque auream galeam,
+  200   ægidemque circum humeros: ingrediebatur autem prælium sævum.
+        In _eo_ autem erat immortalium sacer chorus; in medio vero
+        dulce citharizabat Jovis et Latonæ filius
+        aurea lyra: Deorum autem sedes, sanctus Olympus
+        [in _eo_ autem forum, circum vero opes immensæ fusæ-erant]
+  205   immortalium in certamine: Deæ autem incipiebant cantum
+        Musæ Pierides, acute canentibus similes.
+        In _eo_ autem portus appulsu-facilis immensi maris
+        rotundus factus-erat purissimo _e_ stanno,
+        undanti similis: multi vero per medium ipsius
+  210   delphines hac et illac ferebantur piscantes,
+        natantibus similes: duo autem flando-excitantes
+        argentei delphines natabant mutos pisces.
+        Sub his vero ærei trepidabant pisces: at in ripis
+        sedebat vir piscator observans; habebat autem manibus
+  215   piscium rete, projecturo similis.
+        In _eo_ autem erat pulcricomæ Danaës filius, eques Perseus,
+        neque sane contingens clypeum pedibus, neque procul ab eo,
+        miraculum magnum dictu, quoniam nusquam nitebatur.
+        Ita enim hunc manibus fecerat inclytus Vulcanus
+  220   aureum; circum autem pedes habebat alata talaria.
+        Et humeros quidem circum nigre-munitum ensem suspensum habebat
+        æreum e loro: ipse autem velut cogitatio volabat.
+        Totum vero tergum _ejus_ tenebat caput sævi monstri
+        Gorgonis: circum autem ipsum pera complectebatur, mirum visu,
+  225   argentea, fimbriæque dependebant lucidæ
+        aureæ: terribilis autem circum tempora regis
+        posita-erat Orci galea, noctis caliginem gravem habens.
+        Ipse vero fugienti et formidanti similis
+        Perseus Danaides protendebatur. At post eum
+  230   Gorgones inaccessæ neque effabiles ruebant,
+        cupientes apprehendere. In pallido autem chalybe
+        euntium resonabat clypeus magno strepitu
+        acutum et tinnulum: in zonis autem dracones
+        duo dependebant incurvantes capita.
+  235   Lambebant vero illi, iraque acuebant dentes,
+        sævum tuentes. Supra sæva autem capita
+        Gorgonum agitabatur magnus terror: sed supra ipsas
+        viri pugnabant, bellica arma habentes,
+        hi quidem a sua civitate suisque parentibus
+  240   pestem depellentes, illi autem devastare studentes.
+        Multi quidem jacebant, plures autem sustinentes pugnam
+        dimicabant: mulieres autem bene-constructis in turribus,
+        æreis, acute clamabant, lacerabantque genas,
+        vivis similes, opera inclyti Vulcani.
+  245   Viri autem, qui seniores erant, et _quos_ senectus arripuerat,
+        conferti extra portas erant, sursumque Diis
+        manus tendebant beatis, pro suis liberis
+        metuentes: illi vero contra pugnam sustinebant: at post ipsos
+        Fatales-Deæ nigræ candidis crepantes dentibus,
+  250   torvæ terribilesque, cruentæque inaccessæque
+        pugnam sustinebant de cadentibus. Omnes enim cupiebant
+        cruorem nigrum bibere: quem vero primum forte-ceperant
+        jacentem vel cadentem recens-saucium, ei quidem
+        injiciebat _una_ ungues magnos: anima vero ad Orcum
+            descendebat,
+  255   Tartarum in frigidum. Illæ autem animum quum satiassent
+        sanguine humano, hunc _hominem_ quidem abjiciebant post-
+            tergum,
+        retro autem _in_ tumultum et stragem festinabant iterum
+            euntes.
+        Clotho et Lachesis iis adstabant; debilior quidem
+        Atropos nequaquam erat, magna Dea: sed sane hæc
+  260   aliis quidem præstantiorque erat maximaque-natu.
+        Omnes circa unum virum pugnam acerbam committebant:
+        truculente vero se-mutuo adspiciebant oculis succensentes,
+        ungues vero manusque audaces conserebant.
+        Juxta autem Tristitia stabat fœdaque et misera,
+  265   pallida, arida, fame oppressa,
+        rigidis-genibus: longi vero ungues manibus insidebant.
+        Hujus quidem ex naribus mucus manabat, ex genis autem
+        cruor destillabat in-terram: hæc vero immense dentes-
+            stringens,
+        stabat, multus autem pulvis inspersus-erat humeris,
+  270   lacrymis madens. Juxta vero turrita urbs hominum:
+        aureæ autem eam tenebant superliminaribus adaptatæ
+        septem portæ: homines vero in voluptatibusque choreisque
+        oblectationem capiebant: nam alii quidem bene-rotali in rheda
+        ducebant viro uxorem, multusque hymenæus excitabatur:
+  275   procul autem ab ardentibus facibus fulgor resplendebat
+        in manibus famularum: hæ vero venustate florentes
+        præibant: illos autem chori saltantes sequebantur.
+        Hæ quidem ad canoras fistulas emittebant cantum
+        ex teneris oribus, circumque eas frangebatur echo.
+  280   Illi vero ad citharas ducebant chorum amabilem.
+        Inde rursum ex-alia-parte juvenes comissabantur ad tibiam,
+        alii quidem etiam ludentes inter saltationem et cantum,
+        alii vero etiam ridentes: sub tibicine autem singuli
+        procedebant: totam vero urbem voluptatesque choreæque
+  285   festivitatesque tenebant. Alii autem rursus extra oppidum
+        tergis equorum conscensis currebant. Aratores vero
+        proscindebant terram divam, succinctisque tunicis
+        cincti-erant: sed erat profunda seges: alii quidem metebant
+        mucronibus acutis cauliculata folia,
+  290   gravidas spicis, tamquam Cereris donum.
+        Alii autem (in) restibus ligabant et sternebant aream:
+        alii vero vindemiabant vinum, falces in manibus habentes:
+        alii vero etiam in qualos ferebant a vindemiatoribus
+        albos et nigros racemos magnis ex vineis,
+  295   gravidis foliis et argenteis capreolis:
+        alii vero etiam in qualos ferebant. Juxtaque illos vinea
+        aurea erat, inclyta opera prudentis Vulcani,
+        agitata foliis et argenteis perticis,
+        [alii quidem etiam ludentes sub tibicine singuli]
+  300   onerata uvis; nigritabant tamen ipsæ.
+        Alii quidem calcabant, alii autem hauriebant; alii autem
+            dimicabant
+        pugilandoque et luctando: alii vero celeripedes lepores
+            venabantur
+        viri venatores, et asperis-dentibus canes-duo ante _eos_,
+        cupientes capere, illi vero cupientes effugere:
+  305   juxta ipsos autem equites habebant laborem, proque præmiis
+        certamen habebant et pugnam: bene-contextis vero in curribus
+        aurigæ stantes immittebant veloces equos,
+        habenas laxantes, illi autem crepitantes volabant
+        currus compacti, et modioli valde resonabant.
+  310   Illi quidem igitur perpetuum habebant laborem, neque unquam
+            iis
+        victoria expedita-erat, sed anceps habebant certamen.
+        Illis autem etiam propositus-erat magnus tripus in stadio,
+        aureus, inclyta opera prudentis Vulcani.
+        Circa vero marginem manabat Oceanus, turgenti similis;
+  315   totum autem amplectebatur clypeum artificiosissimum. At per
+            ipsum
+        cygni altivolantes magnum clangebant, qui sane multi
+        natabant in summa aqua, juxta autem pisces lasciviebant.
+        Mirum visu etiam Jovi gravitonanti, cujus per consilia
+        Vulcanus fecit clypeum magnum validumque
+  320   aptans manibus. Hunc quidem Jovis fortis filius
+        vibrabat violenter: in equinum autem insiliit currum,
+        similis fulguri patris Jovis ægida-tenentis,
+        leviter ingrediens: huic autem auriga, fortis Iolaus,
+        bigis insistens regebat curvum currum.
+  325   Prope autem his advenit Dea splendidis-oculis Minerva,
+        atque ipsos confirmans verbis volucribus allocuta-est:
+
+          Salvete, Lyncei progenies longe inclyti:
+        nunc itaque Jupiter robur vobis dat beatis (_deis_) imperans,
+        Cycnumque interficiendi et inclyta arma despoliandi.
+  330   Aliud autem tibi verbum dicam, multo fortissime hominum:
+        postquam enim Cycnum dulci vita spoliaveris,
+        illum quidem tum ibidem relinque et arma ejus:
+        ipse autem homicidam Martem accedentem observans,
+        ubi nudatum clypeo (_ab_) artificioso
+  335   oculis videris, ibi vulnera acuto ferro:
+        retro autem te-recipe, quoniam non sane tibi in-fatis est
+        neque equos capere, neque inclyta arma illius.
+
+          Sic locuta in currum adscendit diva Dearum,
+        victoriam immortalibus manibus et gloriam tenens,
+  340   celeriter. Tunc jam igitur Jove-natus Iolaus
+        horrendum equos increpuit: hi autem ex adhortatione
+        raptim ferebant celerem currum pulverem-cientes per-campum.
+        Nam iis animum addiderat Dea splendidis-oculis Minerva,
+        ægide concussa: circum-ingemiscebat autem tellus.
+  345   Illi autem simul procedebant, similes igni sive procellæ,
+        Cycnusque equum-domitor et Mars insatiabilis belli.
+        Horum equi quidem deinde obvii sibi-mutuo
+        acutum hinnivere, circaque eos resonabat echo.
+        Hunc prior alloquebatur vis Herculea:
+
+  350     Cycne ignave, cur jam nobis immittitis veloces equos,
+        viris, qui laboris et ærumnæ experti sumus?
+        agedum præterage currum bene-politum, atque e-via
+        cede prætergrediendo. Trachinem enim tendo
+        ad Ceycem regem: is enim potentiaque et reverentia
+  355   Trachini præest: tu vero satis bene scis etiam ipse:
+        ejus enim uxorem-habes filiam Themistonoën nigris-oculis.
+        O ignave, non quidem enim tibi neque Mars mortis exitium
+        prohibebit, si jam nos congressi-fuerimus ad-pugnandum.
+        Jam quidem ipsum aio etiam alias periculum-fecisse
+  360   hastæ nostræ, quando pro Pylo arenosa
+        adversus stetit mihi, pugnam insatiabiliter cupiens.
+        Ter quidem mea ab hasta percussus nixus-est terra,
+        vulnerato clypeo: quarto autem transadegi femur
+        omnibus viribus incumbens, magnumque clypeum peforavi:
+  365   pronus autem in pulveribus humi cecidit hastæ impetu.
+        Ibi jam infamis inter immortales fuit,
+        manibus sub nostris relictis spoliis cruentis.
+
+          Sic dixit: neque tamen Cycnus bene-hastatus volebat,
+        huic obtemperans, retinere trahentes-currum equos.
+  370   Jam tunc a bene-compacto curru desilierunt celeriter in
+            terram,
+        filiusque Jovis magni et Enyalii regis.
+        Aurigæ autem propius egerunt pulcricomos equos:
+        illis autem sub irruentibus sonabat pedibus lata terra.
+        Ut autem quando ab alto vertice montis magni
+  375   rupes desiliunt, super alias-aliæ vero cadunt,
+        multæque quercus alticomæ, multæque et piceæ,
+        populique radicibus-altis franguntur ab ipsis
+        raptim volventibus, donec in-campum perveniant:
+        ita illi in se-mutuo ruebant, magnum crepantes.
+  380   Tota autem Myrmidonumque civitas celebrisque Iolcus,
+        Arneque atque Helice Antheaque herbosa
+        (sub) voce utriusque valde resonabant: ii autem _cum_ clamore
+        mirando congressi-sunt: valde autem intonuit prudens Jupiter,
+        deorsumque sane a cœlo guttas jecit sanguinolentas,
+  385   signum ponens belli suo magnanimo filio.
+        Qualis autem in saltibus montis sævus adspectu
+        aper dentibus-exsertis meditatur animo pugnare
+        cum-viris venatoribus, acuitque candidum dentem
+        incurvatus, spuma autem circa os mandenti
+  390   destillat, oculique ejus igni splendenti similes-sunt,
+        erectis autem in dorso horret setis circaque collum:
+        huic similis Jovis filius ab equino desiliit curru.
+        Quando autem viridi nigris-alis sonora cicada
+        ramo insidens æstatem hominibus canere
+  395   incipit, cui potus et cibus fecundus ros _est,_
+        atque per-totum-diem et matutina fundit vocem
+        æstu in gravissimo, quando cutem Sirius exsiccat:
+        (tum jam milio circum aristæ nascuntur,
+        quod æstate seminant, cum uvæ-acerbæ variegantur,
+  400   qualia Bacchus dedit hominibus lætitiam et laborem;)
+        ea tempestate pugnabant, magnus autem tumultus excitabatur.
+        [Ut vero leones duo pro occiso cervo
+        sibi-mutuo irati in se-ipsos irruunt,
+        sævusque ipsis rugitus strepitusque exoritur dentium:]
+  405   hi autem, sicut vultures incurvis-unguibus, repandis-rostris,
+        rupe in excelsa magnum clangentes dimicaverint
+        capræ montivagæ _gratia_ aut feræ cervæ,
+        pinguis, quam interfecit jaculans juvenis vir
+        sagitta e nervo, ipse autem aberrarit alibi
+  410   loci ignarus (exsistens): at illi celeriter animadverunt,
+        rapideque pro ea pugnam acrem instituunt:
+        sic hi clamantes contra se-mutuo irruerunt.
+        Ibi sane Cycnus quidem potentis Jovis filium
+        occidere cupiens, clypeo adegit æream hastam,
+  415   neque perrupit æs: defendebant enim dona Dei.
+        Amphitryoniades autem, vis Herculea,
+        inter galeamque et scutum hasta longa
+        cervicem nudatam celeriter infra mentum
+        percussit violenter; at ambos abscidit nervos
+  420   homicida fraxinus: magnum enim robur inciderat viri.
+        Cecidit autem, veluti quum aliqua quercus, aut quum rupes
+        excelsa,[TR2] icta Jovis fumanti fulmine:
+        sic cecidit: circum ipsum autem resonabant arma variata ære.
+        Hunc quidem dein reliquit Jovis ærumnosus filius:
+  425   ipse autem homicidam Martem accedentem observans,
+        sævum videns oculis, ut leo corpus _aliquod_ forte-nactus,
+        qui admodum avide pelle validis unguibus
+        dissecta quam celerrime dulcem animam abstulit:
+        ferocia autem sane hujus nigrum intumuit cor:
+  430   splendidis-spectans vero oculis sævum costasque et humeros
+        cauda flagellans pedibus fodit, neque quisquam ipsum
+        sustinuit ex-adverso adspiciens prope ire, neque pugnare:
+        talis igitur Amphitryoniades insatiabilis belli
+        adversus stetit Marti in præcordiis audaciam augens,
+  435   celeriter: is autem ipsi prope accessit mœsto corde;
+        utrique autem clamantes se-invicem invaserunt.
+        Ut autem, quando a magno rupes cacumine præcipitarit,
+        longe vero insiliendo volvitur, atque cum fragore
+        venit irruens, collis autem huic obvius-fuit
+  440   altus: huic iam concucurrit; ibi _is_ eam retinet:
+        tanto ille quidem fremitu, gravans-currum perniciosus Mars,
+        vociferans irruit; ille autem prompte _eum_ excepit.
+        Ast Minerva, filia Jovis ægida-tenentis,
+        obviam venit Marti, tenebrosam ægidem habens:
+  445   sæva autem torve intuens verbis volucribus allocuta-est:
+
+          Mars, inhibe animos fortes et manus invictas.
+        Neque nim tibi fas est inclytis armis spoliare
+        Herculem occisum, Jovis magnanimum filium.
+        Sed age, desine pugna, neve adversus sta mihi.
+
+  450     Sic ait: sed non persuasit Martis magnanimi animo;
+        sed magnum crepans flammæ similia arma vibrans,
+        celeriter invasit vim Herculeam,
+        occidere cupiens: et igitur conjecit æratam hastam
+        vehementer, sui filii irascens gratia mortui,
+  455   in clypeum magnum: at splendidis-oculis Minerva
+        hastæ impetum avertit, protendens-se a curru.
+        Acerbus autem Martem dolor cepit: extracto vero gladio acuto
+        irruit contra Herculem magnanimum: at hunc accedentem
+        Amphitryoniades, sævi insatiabilis belli,
+  460   femore nudatum clypeo sub artificioso
+        vulneravit violenter: at valde carnem perscidit
+        hastâ jaculans, inque terram _eum_ prostravit mediam.
+        Huic autem Terror et Pavor bene-rotalem currum et equos
+        adegerunt celeriter propius, et a terra spatiosa
+  465   in currum posuerunt artificiosissimum: celeriter autem deinde
+        equos flagellabant: venerunt vero _in_ magnum Olympum.
+        Filius autem Alcmenæ et gloriosus Iolaus,
+        Cycno detractis ab humeris armis pulcris
+        revertebantur: mox autem exinde _ad_ urbem Trachinis venerunt
+  470   equis celeripedibus. At splendidis-oculis Minerva
+        pervenit _in_ Olympumque magnum et domos patris.
+        Cycnum autem contra Ceyx sepelivit et populus innumerus,
+        qui prope urbem habitabant inclyti regis
+        Anthen Myrmidonumque urbem celebremque Iolcum,
+  475   Arnenque atque Helicen: multus autem congregabatur populus,
+        honorantes Ceycem, carum beatis Diis.
+        Illius vero sepulcrum et monumentum invisibile reddidit
+            Anaurus,
+        imbre hiemali inundans. Ita enim eum Apollo
+        Latonæ-filius jussit, quoniam (_Cycnus_), inclytas hecatombas
+        quicumque ageret Delphos, _eum_ vi spoliabat insidiatus.
+
+
+[1] In medio autem e chalybe (_factus_) erat Timor, haudquaquam
+effabilis, [_Vid. præfat._]
+
+
+                        -----------------------
+
+
+                             OPERA ET DIES.
+
+    1   Musæ, ex Pierica carminibus celebrantes,
+        adeste, Jovem dicite, vestrum patrem canentes,
+        per quem mortales homines pariter obscurique clarique _sunt,_
+        nobilesque ignobilesque, Jovis magni voluntate.
+    5   Nam facile quidem extollit, facile vero elatum deprimit,
+        facileque præclarum minuit et obscurum auget,
+        facileque corrigit pravum et superbum attenuat
+        Jupiter altitonans, qui supremas ædes incolit.
+        Audi intuens auscultansque, juste autem rege judicia.
+   10   Agedum, ego vero, Persa, vera dixerim.
+
+
+                        -----------------------
+
+
+          Non igitur unum erat Contentionum genus, sed super terram
+        sunt duo: alteram quidem probaverit prudens,
+        altera vero vituperanda; diversam autem mentem habent.
+        Nam hæc quidem bellumque malum et discordiam fovet,
+   15   noxia: nemo hanc sane amat mortalis, sed necessario
+        immortalium consiliis Contentionem colunt molestam.
+        Alteram vero priorem quidem genuit nox obscura,
+        posuit vero eam Saturnius altithronus, in-æthere habitans,
+        terræque in radicibus et _inter_ homines, longe meliorem.
+   20   Hæc quamvis inertem tamen ad opus excitat.
+        In alium enim quispiam intuens opere vacans
+        divitem, ipse festinat quidem arare atque plantare,
+        domumque bene instituere: æmulatur enim vicinum vicinus,
+        ad divitias contendentem: bona autem Contentio hæc hominibus.
+   25   Et figulus figulo succenset et fabro faber,
+        et mendicus mendico invidet et cantor cantori.
+
+          O Persa, tu vero hæc tuo repone-in animo:
+        neve tibi Contentio malis-gaudens ab opere animum abducat,
+        lites spectanti fori auditori (exsistenti).
+   30   Tempus enim raro litiumque est forique,
+        cuicumque non victus domi in-annum repositus-est,
+        tempestivus, quem terra fert, Cereris munus.
+
+          Hoc satiatus lites ac rixam moveas
+        de facultatibus alienis: tibi vero non-amplius secunda-vice
+            licebit
+   35   sic facere: sed extemplo dirimamus litem
+        rectis judiciis, quæ ex Jove sunt optima.
+        Nam jam quidem patrimonium divisimus, aliaque multa
+        rapiens auferebas, valde adulans reges
+        donivoros, qui hoc jus volunt judicasse.
+
+   40     Stulti, neque sciunt quanto plus dimidium _sit_ toto,
+        neque quam in malvaque et asphodelo magna utilitas.
+
+          Absconditum enim habent Dii victum hominibus.
+        Facile enim vel uno die acquisivisses,
+        ut tu in annum haberes, etiam otiosus (exsistens):
+   45   statim gubernaculum quidem super fumo poneres,
+        opera boum vero cessarent et mulorum laboris-patientium.
+        Sed Jupiter abscondit iratus animo suo,
+        quod ipsum decepit Prometheus versutus.
+        Idcirco igitur hominibus machinatus-est molestias tristes.
+
+   50     Abscondit vero ignem: hunc quidem rursus egregius filius
+            Japeti
+        furatus-est hominibus-_dandum_ Jove a prudenti
+        in cava ferula, fallens Jovem fulmine-gaudentem.
+        Hunc autem indignatus affatus-est nubicogus Jupiter:
+
+          Japetionide, præ omnibus consilia sciens,
+   55   gaudes ignem furatus et meam mentem quod-deceperis,
+        tibique ipsi magnum exitium et posteris.
+        Ipsis vero pro igne dabo malum, quo omnes
+        oblectentur[TR1] (in) animo, suum malum amore-amplectentes.
+
+          Sic ait: risitque pater hominumque Deorumque.
+   60   Vulcanum vero jussit inclytum quam celerrime
+        terram aqua miscere, et hominis indere vocem
+        et robur, immortalibus vero Deabus facie assimilare
+        virginis pulcram speciem, peramabilem: at Minervam
+        opera docere, artificiose telam texere:
+   65   et gratiam circumfundere capiti auream Venerem,
+        et desiderium grave, et membra-rodentes curas:
+        indere vero impudentem mentem et fallaces mores
+        Mercurium jussit nuntium Argicidam.
+
+          Sic dixit: illi autem obtemperarunt Jovi Saturnio regi.
+   70   Statim vero ex terra finxit inclytus Vulcanus
+        virgini verecundæ similem, Saturnii ex consiliis:
+        cinxit vero et ornavit Dea splendidis-oculis Minerva:
+        circum autem (huic) Charitesque Deæ et veneranda Suada
+        monilia aurea posuerunt corpori: circumque eam
+   75   Horæ pulcricomæ coronarunt floribus vernis:
+        [omnem vero ejus corpori ornatum adaptavit Pallas Minerva.]
+        At ipsi in pectore nuntius Argicida
+        mendaciaque blandosque sermones et dolosos mores
+        condidit Jovis consilio graviter-tonantis; ac nomen
+   80   imposuit Deorum præco; appellavit autem hanc mulierem
+        Pandoram, quia omnes Olympias domos habentes
+        donum donarunt, detrimentum hominibus inventoribus.
+
+          At postquam dolum perniciosum inevitabilem absolvit,
+        ad Epimetheum misit pater inclytum Argicidam
+   85   munus ferentem, Deorum celerem nuntium: neque Epimetheus
+        cogitavit, quod ipsi dixissit Prometheus, ne quando munus
+        acciperet a Jove Olympio, sed remitteret
+        retro, ne forte quidquam mali mortalibus eveniret.
+        Verum ille recepto-_eo_, cum jam malum haberet, sensit.
+
+   90     Prius enim quidem vivebant in terra genera hominum
+        procul absque malis et sine difficili labore,
+        morbisque molestis, qui hominibus mortem dederunt.
+        [Mox enim in miseria mortales consenescunt.]
+        Sed mulier manibus amphoræ magnum operculum cum-dimovisset,
+   95   dispersit; hominibus autem paravit curas tristes.
+        Sola vero illic Spes in illæso domicilio
+        intus mansit dolii sub labris, neque foras
+        evolavit: prius enim injecit operculum dolii,
+        ægida-tenentis consiliis Jovis nubes-cogentis.
+  100   Alia vero innumera mala inter homines vagantur.
+        Plena enim quidem terra _est_ malis, plenum vero mare:
+        morbi autem hominibus interdiu atque noctu
+        spontanei ventitant, mala mortalibus ferentes
+        tacite; nam vocem exemit prudens Jupiter.
+  105   [Sic non usquam licet Jovis voluntatem evitare.]
+
+
+                        -----------------------
+
+
+          Si autem volueris, alium tibi ego sermonem summatim-faciam
+        belle ac scienter: tu vero menti infige tuæ:
+        [quomodo ex-eadem-origine nati-sunt Dii mortalesque homines.
+
+          Aureum quidem primo genus loquentium hominum
+  110   immortales fecerunt Olympias domos habentes.
+        Ii quidem sub Saturno erant, cum in cœlo regnaret:
+        sicut Dii autem vivebant securum animum habentes,
+        procul absque et laboribus et ærumna: neque misera
+        senectus aderat, semper vero pedibus ac manibus _sibi_ similes
+  115   oblectabantur in conviviis mala extra omnia;
+        moriebantur autem tamquam somno obruti: bona vero omnia
+        illis erant; fructumque ferebat fertile arvum
+        sponte-sua multumque et copiosum: ii vero lubentes
+        quieti operibus fruebantur cum bonis multis.
+  120   [abundantes pomis, cari beatis Diis.]
+ (120)  Verum postquam hoc genus terra abscondit,
+        ii quidem dæmones sunt, Jovis magni ex consiliis,
+        boni, in-terra-versantes, custodes mortalium hominum:
+        qui sane custodiunt et justitiam et prava opera,
+  125   aëre induti ubique oberrantes per terram,
+ (125)  opum-datores: et hoc munus regium obtinebant.
+
+          Secundum inde genus multo deterius postea
+        argenteum fecerunt Olympias domos habentes,
+        aureo neque forma simile, neque ingenio.
+  130   Sed centum quidem puer annis apud matrem sedulam
+ (130)  educabatur crescens valde rudis sua in domo:
+        sed quum pubuisset et pubertatis metam advenisset,
+        pauxillum vivebant ad tempus, dolores habentes
+        ob-stultitias: injuriam enim temerariam non poterant
+  135   a-se-mutuo abstinere, neque immortales colere
+ (135)  volebant, neque sacrificare beatorum sacris in aris,
+        uti fas est hominibus ex-more. Hos quidem deinde
+        Jupiter Saturnius abscondit iratus, quia honores
+        non dabant beatis Diis, qui Olympum habitant.
+  140   At postquam et hoc genus terra occultavit,
+ (140)  hi quidem subterranei beati mortales vocantur,
+        secundi; sed tamen honor etiam hos comitatur.
+
+          Jupiter vero pater tertium aliud genus loquentium hominum
+        æneum fecit, omnino argenteo nihil simile,
+  145   e fraxinis, violensque et robustum: quibus Martis
+ (145)  opera curæ-erant luctuosa et injuriæ: neque ullum frumentum
+        edebant, sed adamantis habebant durum animum,
+        inaccessi: magna autem vis et manus invictæ
+        ex humeris nascebantur in validis membris.
+  150   His autem erant ænea quidem arma, æneæ vero etiam domus;
+ (150)  æreque operabantur: nigrum enim non erat ferrum.
+        Et hi quidem manibus sub suis domiti
+        abierunt in putridam domum horribilis Plutonis,
+        ignobiles: mors autem _eos_, terribiles quamvis (exsistentes),
+  155   cepit atra, splendidumque liquerunt lumen solis.
+
+ (155)    Sed postquam et hoc genus terra operuit,
+        rursum etiam aliud quartum super terram multorum-altricem
+        Jupiter Saturnius fecit, justius et melius,
+        virorum heroum divinum genus, qui vocantur
+  160   semidei priore ætate per immensam terram.
+ (160)  Et hos quidem bellumque malum et pugna gravis,
+        alios quidem ab septiportes Thebas, Cadmea _in_ terra,
+        perdidit pugnantes propter oves Œdipodæ;
+        alios vero etiam in navibus trans magnam latitudinem maris
+  165   ad Trojam ducens Helenæ gratia pulcricomæ.
+ (165)  Ibi sane eos quidem mortis exitium occultavit:
+        iis autem seorsum ab-hominibus vitam et sedem tribuens
+        Jupiter Saturnius constituit pater ad fines terræ
+        procul ab immortalibus: horum Saturnus rex-est.
+  170   Et ii quidem habitant securum animum habentes
+        in beatorum insulis, juxta Oceanum vorticosum,
+ (170)  felices heroes, quibus mellitum fructum
+        ter quotannis florentem fert fecundus ager.
+
+          Utinam non jam debuissem ego quintis interesse
+  175   hominibus, sed aut prius mori, aut postea nasci!
+        Nunc enim jam genus est ferreum: neque unquam interdiu
+ (175)  cessabunt a-labore et miseria, neque noctu,
+        corrupti: graves vero Dii dabunt curas.
+        Sed tamen et hisce admiscebuntur bona malis.
+  180   Jupiter autem perdet etiam hoc genus loquentium hominum,
+        postquam nati cani-circum-tempora facti-fuerint.
+ (180)  Neque pater liberis concordans, neque liberi _patri,_
+        neque hospes hospiti, neque amicus amico,
+        neque frater carus erit, ut antehac certe.
+  185   Celeriter vero senescentes dehonestabunt parentes;
+        incusabunt autem sane hos molestis alloquentes verbis,
+ (185)  impii, neque Deorum vindictam scientes: neque hi
+        senibus parentibus educationis-præmia reddent,
+        violenti: alter autem alterius civitatem diripiet.
+  190   Neque ulla pii gratia erit, neque justi,
+        neque boni; magis vero maleficium et injurium
+ (190)  virum honorabunt: justitia autem in manibus, et pudor
+        non erit: lædetque malus meliorem virum,
+        verbis pravis alloquens, perjurium vero jurabit.
+  195   Livor autem homines miseros omnes
+        maledicus, malis-gaudens comitabitur inviso-vultu.
+
+
+                        -----------------------
+
+
+ (195)    Et tum jam ad cœlum a terra spatiosa,
+        candidis verstibus tectæ corpus pulcrum,
+        immortalium ad genus iverunt relictis hominibus
+  200   Pietas et Nemesis: at relinquentur dolores graves
+        mortalibus hominibus; contra-malum vero non erit defensio.
+
+
+                        -----------------------
+
+
+ (200)    Nunc vero fabulam regibus narrabo, sapientibus quamvis
+            ipsis.
+        Sic accipiter affatus-est lusciniam varii-gutturis,
+        admodum alte in nubibus ferens unguibus correptam:
+  205   hæc vero misere, curvos fixa circum ungues,
+        lugebat: eam autem ille imperiose sermone allocutus-est:
+
+ (205)    Infelix, quid strepis? habet sane te multo fortior:
+        hac ibis, qua te equidem ducam, licet cantatricem
+            (exsistentem):
+        cœnam vero, si voluero, faciam, aut dimittam.
+  210   Imprudens autem, quicumque voluerit cum potentioribus
+            contendere;
+        victoriaque privatur, præterque contumelias dolores patitur.
+ (210)  Sic ait velociter-volans accipiter, latis-alis avis.
+
+          O Persa, tu vero audi justitiam, neque injuriam fove:
+        injuria enim etiam mala misero _est_ homini; nec quidem dives
+  215   facile ferre potest, gravaturque ab ea,
+        illapsus damnis: via vero aliter perveniendi
+ (215)  melior ad justa: justitia autem injuriam superat
+        ad finem progressa: passus vero _damna_ stultus cognovit.
+
+          Cito enim currit jusjurandum una-cum injustis judiciis.
+  220   [At Justitiæ tumultus _est_ tractæ, quo viri duxerint
+        donivori, pravis autem sententiis deciderint jura.]
+ (220)  Hæc vero sequitur deplorans urbemque et sedes populorum,
+        aerem induta, malum hominibus adferens,
+        qui ipsam expellunt, neque justam _partem_ distribuunt.
+
+  225     Qui vero jura peregrinis et civibus dant
+        recta, neque quidquam prætergrediuntur justum,
+ (225)  his floret urbs, populique florent in ipsa:
+        pax vero per terram juvenum-altrix, neque umquam illis
+        molestum bellum decernit late-cernens Jupiter,
+  230   neque umquam justos inter homines fames versatur,
+        neque damnum: in-conviviis autem cura-partis operibus
+            fruuntur.
+ (230)  His quidem fert terra multum victum, in-montibus vero quercus
+        summa quidem fert glandes, media vero apes:
+        lanigeræ autem oves velleribus onustæ-sunt:
+  235   pariunt vero mulieres similes liberos parentibus:
+        florent autem bonis perpetuo: neque in navibus
+ (235)  iter-faciunt; fructum vero fert fecundus ager.
+
+          Quibus autem injuriaque curæ-est mala pravaque opera,
+        iis vindictam Saturnius decernit late-cernens Jupiter.
+
+  240     Sæpe etiam universa urbs malo viro detrimentum-cepit,
+        quicumque peccat et iniqua machinatur.
+ (240)  Illis autem cœlitus magnum importavit malum Saturnius,
+        famem simul et pestem: intereunt vero populi;
+        neque mulieres pariunt; minuuntur autem familiæ,
+  245   Jovis consiliis Olympii: interdum vero etiam
+        aut eorum exercitum ingentem perdidit aut idem murum,
+ (245)  aut naves in ponto Saturnius punit ipsorum.
+
+          O reges, vos autem considerate etiam ipsi
+        hanc vindictam: prope enim inter homines versantes
+  250   immortales observant, quotquot pravis judiciis
+        se-mutuo atterunt, Deorum vindictam non curantes.
+ (250)  Ter enim decies-mille sunt in terra multorum-altrice
+        immortales Jovis custodes mortalium hominum:
+        hi igitur custodiunt et justitiam et prava opera,
+  255   aëre induti, ubique oberrantes per terram.
+        Illa autem virgo est, Justitia, _ex_ Jove, procreata
+ (255)  augustaque venerandaque Diis qui Olympum habent.
+        Et igitur, cum quis eam lædat impie spernens,
+        statim apud Jovem patrem considens Saturnium,
+  260   refert hominum injustam mentem, ut luat
+        [populus peccata regum, qui perniciosa meditantes
+ (260)  alio inflectunt jura prave dicentes.]
+        Hæc observantes reges, corrigite sententias,
+        donivori, pravorum vero judiciorum prorsus obliviscamini.
+
+  265     Sibi ipsa mala struit vir alii mala struens,
+        malumque consilium consulenti pessimum.
+
+ (265)    Omnia videns Jovis oculus et omnia animadvertens
+        etiam hæc, siquidem vult, inspicit: neque eum latet,
+        quale jam hoc quoque judicium urbs intus exerceat.
+
+  270     Nunc jam ego neque ipse inter homines justus
+        sim, nec meus filius: quoniam malum _est_ virum justum
+ (270)  esse, siquidem majus jus injustior habebit.
+        [Sed hæc nondum spero perfecturum Jovem fulmine-gaudentem.]
+
+          O Persa, tu vero hæc in animo repone tuo,
+  275   et quidem justitiæ obtempera, violentiæ autem obliviscere
+            omnino.
+        Hanc enim hominibus legem imposuit Saturnius:
+ (275)  piscibus quidem et feris et avibus volucribus,
+        ut devorent se-mutuo, quoniam non justitita est inter eos:
+        hominibus autem dedit justitiam, quæ multo optima
+  280   est. Si enim quis velit justa profiteri
+        cognoscens, ei opes dat late-videns Jupiter:
+ (280)  qui vero testimoniis volens perjurium jurans
+        mentietur, justitiamque impediens immedicabiliter læsus-sit,
+        ejus certe obscurior progenies posthac relicta-est:
+  285   viri autem juste-jurantis progenies posthac præstantior.
+
+          Tibi vero bona intelligens dicam, valde stulte Persa.
+ (285)  Vitium quidem sane etiam cumulatim est capere
+        facile: plana quidem via _est,_ valde autem procul habitat.
+        Virtuti vero sudorem Dii anteposuerunt
+  290   Immortales: longa vero et ardua via _est_ ad eam,
+        et aspera primum: ubi vero ad summum _aliquis_ venerit,
+ (290)  facilis jam deinceps est, quamvis difficilis (exsistens).
+
+          Ille quidem optimus est, qui per-se omnia intellexerit,
+        cogitans quæcumque dein et ad finem sint meliora.
+  295   Bonus vero etiam ille, qui bene monenti paruerit.
+        Qui vero neque ipse sapit, neque alium audiens
+ (295)  in animo reposuerit, ille contra inutilis vir _est._
+
+          At tu quidem nostri memor semper præcepti
+        operare, Persa, diva proles, ut te Fames
+  300   oderit, amet autem pulcre-coronata Ceres
+        veneranda, victuque tuum impleat horreum.
+ (300)  Fames enim semper ignavo comes _est_ viro.
+
+          Huic vero Dii indignantur et homines, quicumque otiosus
+        vivit,[TR2] fucis aculeo-carentibus similis indole,
+  305   qui apum laborem absumunt otiosi,
+        vorantes: tibi vero opera gratum esto decentia obire,
+ (305)  ut tibi tempestivo victu impleantur horrea.
+
+          Ex laboribus autem viri _evadunt_ pecorosique opulentique:
+        etiam laborans multo carior immortalibus
+  310   eris atque hominibus: valde enim oderunt otiosos.
+
+          Labor autem minime dedecus, ignavia autem dedecus _est._
+
+ (310)    Quod si laboraveris, mox te æmulabitur otiosus
+        Ditescentem: divitias vero virtus et gloria comitatur.
+
+          Fortuna autem qualis sis, laborare est melius.**
+  315   si quidem ab alienis facultatibus stolidum animum
+        ad opus convertens curam-habeas victus, sicut te jubeo.
+
+ (315)    Pudor autem non bonus egenum hominem tenet,
+        pudor, qui homines valde lædit atque juvat.
+
+          Pudor sane cum inopia, audacia vero cum opibus.
+
+  320     Opes autem non rapiendæ: divinitus-datæ multo meliores.
+        Si quis enim et manibus per-vim magnas opes ceperit,
+ (320)  aut is lingua prædatus-fuerit, qualia multa
+        fiunt,[TR3] quam primum lucrum mentem deceperit
+        hominum, pudorem vero impdentia expulerit:
+  325   facile autem illum obscurant Dii, minuuntur vero familiæ
+        viro tali; exiguumque ad tempus divitiæ comitantur.
+
+ (325)    Pariter vero, et qui supplicem et qui hospitem male
+            tractaverit;
+        quique fratris sui lectum adscenderit
+        secreti concubitus uxoris, scelerata patrans;
+  330   quique cujuspiam imprudentia fraudat orphanos liberos;
+        quique parentem senem misero in senectutis limite
+ (330)  increpuerit gravibus incessens verbis:
+        huic autem certo Jupiter ipse irascitur, ad extremum vero
+        operibus pro iniquis gravem exhibet talionem.
+  335   Verum tu ab-his quidem omnino cohibe stultum animum.
+
+          Pro facultate autem facito sacra immortalibus Diis
+ (335)  caste et pure, nitida vero femora adoleto:
+        alias autem libationibus thuribusque placato,
+        et quando cubitum-is, et quum lux sacra venerit:
+  340   ut tibi benevolum cor et animum habeant;
+        [ut aliorum emas agrum, non tuum alius.]
+
+ (340)    Amicum ad convivium vocato, inimicum vero relinque:
+        eum autem potissimum vocato, quicumque te prope habitat.
+        Quotiescumque enim tibi etiam domesticum aliud _quid_ accidat,
+  345   vicini non-cincti accurrunt, cinguntur autem cognati.
+
+          Damnum malus vicinus, quantum bonus magnum commodum.
+ (345)  Nactus-est sane pretium, quicumque nactus est vicinum bonum.
+        Neque bos interierit, nisi vicinus malus sit.
+
+          Recte quidem metiaris _mutuans_ a vicino, recte vero redde,
+  350   eadem mensura, et amplius, si quidem possis:
+        ut indigens etiam in posterum æquum _eum_ invenias.
+
+ (350)    Ne mala lucra-captes: mala lucra æqualia damnis.
+
+          Amantem ama, et succurrenti succurre:
+        et da ei-qui dederit, neve da ei-qui non dederit.
+
+  355     Datori quidem aliquis dedit, non-danti vero nemo dedit.
+
+          Donatio bona, rapina vero mala, mortis datrix.
+
+ (355)    Quicumque enim quidem vir libens _dat,_ is etiam multum
+            dederit.*
+        gaudet dono et delectatur suo in animo.
+        Qui vero ipse ceperit impudentiæ obsecutus
+  360   quamvis exiguum (exsistens), id tamen rigidat ejus animum.
+
+          Siquidem enim et parvum ad parvum posueris,
+ (360)  et frequenter istud feceris, mox magnum et hoc evaserit.
+
+          Qui vero ad id-quod adest adjicit, is vitabit atram famem.
+
+          Neque vero quod domi repositum _est_ hominem cruciat.
+  365   Domi melius _est_ esse, quoniam damnosum, quod foris _est._
+
+          Bonum quidem de-præsenti capere, miseria vero animo,
+ (365)  egere absente: quæ te meditari jubeo.
+
+          Incipiente autem dolio et desinente saturare,
+        in-medio parce: sera vero in fundo parsimonia.
+
+  370     Merces autem viro amico constituta æqua esto.
+        Etiam cum-fratre ludens testem adhibeto:
+ (370)  credulitas autem sane pariter ac diffidentia perdiderunt
+            homines.
+
+          Ne vero mulier tibi animum nates-exornans decipiat,
+        blanda garriens, tuum inquirens domicilium.
+  375   Qui enim mulieri confidit, confidit is furibus.
+
+          Unicus vero filius sit, paternam domum
+ (375)  qui-servet: ita enim opulentia crescet in ædibus.
+
+          Senex autem moriaris, alterum filium relinquens.
+
+          Facile vero et pluribus præbuerit Jupiter ingentes opes.
+
+  380     Major quidem plurium cura, major autem accessio.
+        [Tibi vero si opes mens appetit in animo tuo,
+ (380)  sic facito, et operi super opus operare.]
+
+
+                        -----------------------
+
+
+          Pleiadibus Atlante-natis exorientibus,
+        incipe messem; arationem vero, occidentibus.
+  385   Hæ autem sane noctesque et dies quadraginta
+        latent: rursum vero inverso anno
+ (385)  apparent primum ubi-acuitur ferrum.
+        Hæc utique camporum est lex, _iis_que, qui mare
+        prope habitant _iis_que, qui valles flexuosas,
+  390   a-mari fluctuante procul, pinguem regionem
+        incolunt: nudus serito, nudusque arato,
+ (390)  nudusque metito, si quidem tempestiva omnia voles***
+        opera tibi-parare Cereris, ut tibi singula
+        tempestiva crescant,ne quando interim egens
+  395   mendices _ad_ alienas domos, et nihil efficias.
+        Sicut et nunc ad me venisti: ego vero tibi non amplius-dabo,
+ (395)  neque admetiar: operare, stolide Persa,
+        operibus, quæ hominibus Dii destinarunt:
+        ne-quando cum liberis uxoreque animo dolens
+  400   quæras victum per vicinos, hi vero negligant.
+        Bis quidem enim et ter forsitan consequeris: si vero amplius
+            molestus-tueris,
+ (400)  rem quidem non facies, tu vero inania mula dices:
+        inutilis autem erit verborum copia. Sed te jubeo
+        cogitare debitorumque solutionem famisque evitationem.
+
+  405     Domum quidem primum, fœminamque bovemque aratorem,
+        [servam non nuptam, quæ et boves sequatur:]
+ (405)  utensilia vero domi omnia apta parato:
+        ne tu quidem petas ab alio, is vero recuset, tuque careas,
+        tempus autem prætereat, minuaturque etiam opus.
+
+  410     Neve differas in crastinum inque perendinum:
+        non enim frustra-laborans[TR4] vir implet horreum,
+ (410)  neque differens: studium vero opus auget.
+        Semper autem dilator-operum vir cum-damnis luctatur.
+
+          Quum jam desinit vis acuti solis
+  415   æstum sudoriferum, per-autumnum pluente
+        Jove præpotente, mutatur vero humana cutis*
+ (415)  multo agilior: jam enim tunc Sirius stella
+        paulisper supra caput mortalium hominum
+        venit interdiu, magis autem nocte fruitur:
+  420   tum minime-rosa (_vermibus_) est cæsa ferro
+        silva, folia autem[TR5] humi fundit, germinationeque desinit:
+ (420)  tunc igitur lignari memento tempestiva opera.
+        Mortarium quidem tripetale seca, pistillum vero tricubitale,
+        axemque septempedalem: valde enim certe conveniens sic:
+  425   si vero octopedalem, inde et malleum secueris.
+        Trium-palmorum vero rotam secato decem-palmorum plaustro.
+ (425)  Multa curva ligna: ferto autem buram, cum inveneris
+        domum, in monte quærens vel in campo,
+        ilignam: hæc enim bobus ad-arandum firmissima est,
+  430   si Minervæ famulus, dentali infigens,
+        clavis conjungens adaptaverit temoni.
+ (430)  Bina vero facito aratra, fabricans domi,
+        _alterum_ nativa-bura et _alterum_ compactile: quoniam multo
+            melius sic:
+        si alterum quidem fregeris, alterum bobus injeceris.
+  435   E-lauro autem vel ulmo minime-vermiculati temones,
+        e-quercu dentale, bura ex-ilice. Boves vero _duos_ novennes
+ (435)  mares comparato (horum enim robur non imbellicum _est_)
+        juventutis mensuram habentes: hi ad-laborandum optimi.
+        Non hi utique dimicantes in sulco quidem aratrum
+  440   fregerint, opus vero inutile ibi reliquerint.
+
+          Hos autem simul quadragenarius juvenis sequatur,
+ (440)  panem postquam-prandit quadrifidum, octo-quadrarum,
+        qui opus curans rectum sulcum ducat,
+        non-amplius circumspiciens æquales, sed in opere
+  445   animum habens: hoc vero neque junior alius melior
+        ad-spargendum semina et iteratam-sationem ad-evitandam.
+ (445)  Junior enim vir ad æquales desiderio-trahitur.
+
+          Observa vero, cum gruis vocem audieris
+        alte in nubibus quotannis clangentis:
+  450   hæc arationisque signum affert, et hyemis tempus
+        indicat imbriferæ: cor autem rodit viri bobus-carentis.
+ (450)  Tunc sane pasce camuros boves domi manentes.
+        [Facile enim _est_ verbum dicere: Par-boum da et plaustrum;
+        facile autem recusare: Sunt vero opera bobus.
+  455   Putat autem vir mente _nempe_ dives se fabricaturum plaustrum,
+        stultus, neque hocce scit: centum enim _sunt_ ligna plaustri,
+ (455)  quorum ante curam habere oportet domum ferendorum.]
+
+          Cum vero primum arationis-tempus mortalibus apparuerit,
+        jam[TR6] tunc aggredere, simul servique et ipse,
+  460   siccum et humidum arans arationis per tempus,
+        mane valde festinans, ut tibi impleantur arva.
+ (462)  [Vere vertito; æstate vero iteratum _arvum_ non te fallet.]
+        Novalem autem serito adhuc levem agrum.
+        [Novalis exsecrationum-expultrix, liberorum placatrix.]
+
+  465     Supplica vero Jovi infero, Cererique castæ,
+        perfecte ut-onerent Cereris sacrum munus,
+ (465)  incipiens primum arationem, cum extremum stivæ
+        manu capiens stimulum, boum ad terga adtigeris
+        temonis-cuneum trahentium subjugiis: puer autem a-tergo
+            _sequens_
+  470   servus tenens ligonem negotium avibus facessat,
+        semina abscondens. Diligentia enim optima
+ (470)  mortalibus hominibus, negligentia vero pessima.
+        Sic ubertate spicæ nutaverint ad-terram,
+        si finem ipse postea Olympius præbuisset,
+  475   e vasis autem ejeceris araneas; et te spero
+        gavisurum, de-victu sumentem intus reposito.
+ (475)  Bene-onustus autem pervenies _ad_ album ver, neque ad alios
+        respicies: tui vero alius vir indigus erit.
+
+          Si vero sole vertente (_bruma_) divam araveris terram,
+  480   sedens metes, pauxillum manu cormprehendens,
+        alternatim ligans pulverulentus,[TR7] non valde gaudens.
+ (480)  Feres autem in sporta: pauci vero te suspicient.
+
+          [Alias autem alia Jovis mens ægida-habentis,]
+        difficilis vero hominibus mortalibus intellectu.
+  485   Sin autem sero araveris, id tibi remedium fuerit.
+        Quando cuculus canit quercus in foliis,
+ (485)  primum, delectatque mortales super immensam terram;
+        tunc Jupiter pluat tertio die, neve desinat,
+        neque sane excedens bovis ungulam neque deficiens:
+  490   ita serus-arator priorem æquarit.
+        [Animo autem bene omnia serva: neve te lateat
+ (490)  neque ver evadens album, neque tempestivus imber.]
+
+          Præteri autem ærariam officinam et calidam tabernam,
+        tempore hiberno, quando frigus virum ab-operibus
+  495   arcet, ubi impiger vir valde domum augeat:
+        ne te malæ hyemis difficultas deprehendat
+ (495)  cum paupertate, macra vero crassum pedem manu premas.
+        Multa autem ignavus vir, vanam ob spem exspectans,
+        egens victus, mala locutus-est ad-animum _suum._
+  500   [Spes vero non bona indigentem virum fovet,
+        sedentem in taberna, cui non victus sufficiens sit.
+ (500)  Demonstra autem servis, æstate adhuc media (exsistente):
+        Non semper æstas erit, exstruite casas.]
+
+          [Mensem[TR8] vero Lenæonem, malos dies, boves-cruciantes
+            omnes,
+  505   hunc vitate, et glacies, quæ super terram
+        flante Borea molestæ exsistunt,
+ (505)  qui per Thraciam equorum-altricem lato mari
+        inspirans _id_ concutit: remugit autem terra et silva:
+        multas vero quercus alticomas abietesque densas
+  510   montis in saltibus dejicit terræ multos-pascenti
+        irruens, et omnis reboat tunc innumera silva.
+ (510)  Feræ autem horrent, caudasque sub pudenda ponunt,
+        quarum etiam villis cutis obtecta _est:_ sed sane et has
+        frigidus cum-sit perflat, villosis-pectoribus licet
+            exsistentes.
+  515   Et per pellem bovis penetrat, neque _hæc_ eum arcet;
+        et etiam per capram flat longis-pilis: sed ovium-greges
+            omnino,
+ (515)  quia valde-densi villi ipsarum, non perflat
+        vis venti Boreæ: incurvum vero senem facit.
+        Etiam per virginem tenelli-corporis non perflat,
+  520   quæcumque intra ædes caram apud matrem manet,
+        nondum opera sciens aureæ Veneris;
+ (520)  quando lota tenerum corpus et pingui oleo
+        uncta in-recessu cubat intra domum
+        die hiberno, quando exossis (_polypus_) suum pedem arrodit,
+  525   inque domo sine-igne et in latibulis tristibus,
+        neque ei sol ostendit pabulum invadendum:
+ (525)  sed super nigrorum hominum populumque urbemque
+        vertitur, tardius autem Græcis lucet.
+        Et tunc jam cornuti et non-cornuti silvicolæ
+  530   misere manducantes per nemora saltuosa
+        fugiunt, (et omnibus in animo id curæ-est,)
+ (530)  ubi tecta quærentes densas latebras habent,
+        et antrum petrosum: illi vero tripodi (_seni_) homines
+            similes,
+        cujus dorsum fractum-est, caputque ad terram spectat,
+  535   huic similes incedunt, vitantes nivem albam.]
+
+          Et tunc indue munimentum corporis, ut te jubeo,
+ (535)  lænamque mollem et talarem tunicam:
+        stamine vero in pauco multum subtegmen intexe.
+        Hanc circuminduito, ne tibi pili tremant,
+  540   neve erecti horreant surgentes per corpus.
+        Circum vero pedes calceos bovis vi occisi
+ (540)  aptos ligato, pilis intus condensatos.
+        Primogenitorum vero hœdorum, cum frigus tempestivum venerit,
+        pelles consulto nervo bovis, ut super dorsum
+  545   pluviæ circum-injicias munimentum: in capite vero superne
+        pileum habeto elaboratum, ne aures humefias:
+ (545)  frigida enim et aurora est Borea cessante:
+        matutina vero super terram a cœlo stellato
+        nebula frugifera extenditur fortunatorum super operibus:
+  550   quæ hauriens fluminibus e perennibus,
+        alte supra terram sublata venti procella,
+ (550)  interdum quidem etiam pluit ad versperam, interdum vero
+            descendit
+        densas Thracio Borea nubes excitante.
+
+          Hunc antevertens, opere perfecto, domum redi,
+  555   ne-quando te cœlitus tenebrosa nubes circumtegat
+        corpusque madidum reddat, vestesque humectet.
+ (555)  Sed evitato: mensis enim gravissimus hic
+        hibernus, gravis pecudibus, gravisque hominibus.
+
+          Tunc dimidium bobus, homini vero plus adsit
+  560   cibariorum: longæ enim adjutrices noctes sunt.
+        [Hæc observans totum in annum
+ (560)  æquato noctesque et dies, donec rursum
+        terra, omnium mater, fructum omnigenum ferat.]
+
+          Quum autem sexaginta, post conversionem Solis (_brumam_),
+  565   hibernos exegerit Jupiter dies, jam sane tunc stella
+        Arcturus relinquens sacrum fluctum Oceani
+ (565)  primum totus-apparens exoritur vespertinus.
+        Post hunc autem mane-querula Pandionis surgit hirundo
+        in lucem hominibus, vere recens-ineunte.
+  570   Hanc prævertens vites amputato: sic enim melius.
+
+          At cum domiporta (_cochlea_) e terra plantas adscenderit,
+ (570)  Pleiades fugiens, tunc jam circumfossura non-amplius vitium:
+        sed falcesque acuito et servos excitato.
+        Fugito vero umbrosas sedes et matutinum somnum,
+  575   tempore messis, quando et Sol cutem exsiccat.[TR9]
+        Tunc festina et domum fruges congere,
+ (575)  mane surgens, ut tibi victus sufficiens sit.
+        Aurora enim etiam operis tertiam sortitur partem.
+        Aurora sane promovet quidem viam, vero etiam promovet opus:
+  580   Aurora, quæ apparens multos ingredi-fecit viam
+        homines, multis autem juga bobus imponit.
+
+ (580)    Quum vero scolymosque floret, et canora cicada
+        arbori insidens stridulum defundit cantum
+        frequenter sub alis, æstatis laborioso tempore,
+  585   tunc pinguissimæque capræ et vinum optimum,
+        lascivissimæ autem mulieres, imbecillissimi vero etiam viri
+ (585)  sunt, quoniam caput et genua Sirius siccat,
+        siccum vero etiam corpus ob æstum. Sed tunc jam
+        sit petræque umbra, et Biblinum vinum,
+  590   panisque bene-coctus, lacque caprarum non-amplius-lactantium,
+        et vaccæ in-silva-pascentis caro nondum enixæ,
+ (590)  primogenitorumque hœdorum: insuper vero nigrum bibito vinum,
+        in umbra sedens, saturatus cor cibo,
+        contra acute-spirantem Zephyrum vertens vultum,
+  595   fontisque[TR10] perennis ac defluentis, quique illimis _sit,_
+        tres _partes_ aquæ infunde, quartam vero immitte vini.
+
+ (595)    Famulis autem impera Cereris sacrum munus
+        triturare, quando primum apparuerit robur Orionis,
+        loco in ventoso et bene-orbiculata in area:
+  600   mensura vero diligenter recondito in vasis. Sed postquam jam
+        omnem victum deposueris paratum intra domum,
+ (600)  [servumque domo-carentem conducere, et sine-liberis servam
+        quærere te jubeo: molesta autem liberos-habens serva.]
+        Et canem asperis-dentibus nutrito, nec parcas cibo,
+  605   ne quando tibi interdiu-dormiens vir res auferat.
+
+          Fœnum autem importato et paleas, ut tibi sit
+ (605)  bobus ac mulis annuum _pabulum._ Sed postea
+        servorum refocilla cara genua et boves solve.
+
+          Quum vero Orion et Sirius in medium venerit
+  610   cœlum, Arcturum autem inspexerit roseis-digitis Aurora,
+        o Persa, tunc omnes decerptas-fer domum uvas:
+ (610)  monstrato vero soli decemque dies et decem noctes,
+        quinque autem in-umbra-pone, sexto autem in vasa haurito
+        dona Bacchi oblectatoris. Sed postquam jam
+  615   Pleiadesque Hyadesque ac robur Orionis
+        occiderint, tunc deinde arationis memor esto
+ (615)  tempestivæ: annus autem per terram prosper sit.
+
+
+                        -----------------------
+
+
+          Sin autem te navigationis periculosæ desiderium capit:
+        quando Pleiades robur validum Orionis
+  620   fugientes ceciderint in obscurum pontum,
+        jam tunc omnigenorum ventorum furunt flamina:
+ (620)  et tunc ne-amplius naves habeto in nigro ponto:
+        terram autem exercere memento: uti te jubeo.
+        Navem vero in continentem trahito, munitoque lapidibus
+  625   undique, ut arceant ventorum vim humide flantium,
+        paxillo extracto, ne putrefaciat Jovis imber.
+ (625)  Armamenta vero disposita omnia tuæ repone domi,
+        diligenter componens navis alas (_vela_) marivagæ:
+        clavum vero fabrefactum super fumum suspendito.
+  630   Ipse autem tempestivam exspectato navigationem, dum veniat:
+        et tum navem celerem in-mare trahito, intus vero etiam onus
+ (630)  aptum imponito, ut domum lucrum reportes
+        quemadmodum meusque pater et tuus, valde stolide Persa,
+        navigabat in navibus, victus indigens honesti:
+  635   qui olim et huc venit, multum pontum emensus,
+        Cuma Æolide relicta, in navi nigra:
+ (635)  non abundantiam fugiens neque divitiasque et fortunam,
+        sed malam pauperiem, quam Jupiter hominibus dat.
+        Habitavit autem prope Heliconem misero in vico,
+  640   Ascra, hyeme malo, æstate molesto, neque umquam bono.
+        Tu vero, o Persa, operum memor esto
+ (640)  tempestivorum omnium, de navigatione vero maxime.
+        [Navem parvam laudato, magnæ vero onera imponito;
+        majus quidem onus, majus vero ad lucrum lucrum
+  645   erit, si venti quidem malos contineant flatus.]
+
+          Quando ad mercaturam verteris imprudentem animum,
+ (645)  volueris autem debita effugere et injucundam famem,
+        ostendam jam tibi rationes multisoni maris,
+        neque omnino navigandi peritus, neque omnino navium.
+  650   Neque enim umquam navi tranavi latum mare;
+        nisi in Eubœam ex Aulide, ubi quondam Argivi,
+ (650)  exspectantes tempestatem (_desinentem_), multum populum
+            collegerunt
+        Græcia e sacra in Trojam pulcris-fœminis.
+        Ibi vero ego ad certamina strenui Amphidamantis
+  655   Chalcidemque trajeci: indicta (_per præcones_) vero multa
+        præmia posuerunt filii magnanimi: ubi me glorior
+ (655)  carmine victorem tulisse tripodem auritum.
+        Quem quidem ego Musis Heliconiadibus dicavi,
+        ubi me primum dulci adduxerunt cantui.
+  660   Tantum igitur naves quidem expertus-sum multos-clavos-
+            habentes.
+        Sed etiam sic dicam Jovis voluntatem ægida-habentis:
+ (660)  Musæ enim me docuerunt divinum carmen canere.
+
+          Dies quinquaginta post conversionem solis,
+        ad finem progressa æstate, laborioso tempore,
+  665   tempestiva est mortalibus navigatio: neque navem
+        fregeris, neque homines perdiderit mare,
+ (665)  nisi forte data-opera Neptunus terræ-concussor
+        aut Jupiter, immortalium rex, velit perdere.
+        Penes hos enim exitus est pariter bonorumque malorumque.
+  670   Tunc vero dispositæque auræ et mare innocuum:
+        securus tunc navem celerem, ventis fretus,
+ (670)  deducito in pontum, onus vero bene omne colloca.
+        Propera autem quam celerrime rursus domum redire:
+        neque exspectato vinumque novum et autumnalem imbrem,
+  675   et hyemem accedentem, Notique sævos flatus,
+        qui concitat mare, comitans Jovis imbrem
+ (675)  multum, autumnalem, difficilemque pontum reddit.
+
+          Alia vero verna est navigatio hominibus.
+        Cum enim primum, quantum incedens cornix
+  680   vestigium facit, tantum folia homini apparuerint
+        in ficu summa; tum etiam pervium est mare.
+
+ (680)    Verna autem hæc est navigatio: non ipsam equidem
+        probo: neque enim meo animo grata est;
+        arreptum ægre effugeris malum. Sed tamen et hæc
+  685   homines faciunt, stultitia mentis:
+        opes enim anima sunt miseris mortalibus.
+ (685)  Dirum vero est mori in fluctibus: at te jubeo
+        considerare hæc omnia in animo, uti dico.
+
+          Ne vero in navibus omnem fortunam cavis pone:
+  690   sed plura relinquito, pauciora vero imponito.
+        Dirum enim ponti in fluctibus exitio occurrere.
+ (690)  [Dirumque, si in plaustrum prægrande onere imposito
+        axem fregeris, onera vero corrumpantur.]
+        Modum servato: opportunum-tempus vero in omnibus optimum.
+
+
+                        -----------------------
+
+
+  695     Mature autem uxorem tuam ad domum ducito,
+        neque triginta annis valde multum deficiens
+ (695)  neque adjiciens valde multum: nuptiæ vero tibi tempestivæ hæ,
+        mulier autem quatuor _annos_ pubescat, quinto vero
+            (_pubertatis_) nubat.
+        Virginem vero ducito, ut mores castos doceas.
+  700   Eam vero potissimum ducito, quæ te prope habitat:
+        omnia bene circumspiciens, ne vicinis ludibria ducas.
+ (700)  Neque enim quicquam muliere vir sortitur melius
+        bona, verum contra mala non gravius aliud,
+        comissatrice: quæ virum, etiamsi robustum (exsistentem),
+  705   torret sine face et crudæ senectæ tradit.
+
+          Bene vero vindictam immortalium beatorum observato.
+ (705)  Neque fratri æqualem facito amicum:
+        sin autem feceris, ne ipsum prior malo afficias.
+        Ne vero mentiaris dicis gratia: sin autem tibi cœperit
+  710   aut aliquod verbum dicere infestum, aut facere,
+        bis tantum puniri memento: si vero rursus
+ (710)  redeat ad amicitiam, pœnam autem velit dare,
+        recipe: miser sane vir amicum alias alium
+        facit. Tuum vero ne quid animum coarguat vultus.
+
+  715     Ne vero multorum-hospes, neve nullius-hospes dicaris,
+        neve malorum socius, neve bonorum conviciator.
+ (715)  Neque umquam perniciosam pauperiem animum-comedentem homini
+        patiaris exprobrare, beatorum munus sempiternorum.
+        Linguæ certo thesaurus inter homines optimus
+  720   parcæ, plurima vero gratia modum servantis:
+        Sin autem malum dixeris, forsan ipse majus audies.
+ (720)  Neve in communi convivio morosus sis
+        de symbolis: plurima vero gratia sumtusque minimus.
+        Neve umquam ex aurora Jovi libato nigrum-vinum
+  725   manibus illotis, neve aliis immortalibus:
+        neque enim hi exaudiunt, respuunt vero etiam preces.
+ (725)  Neu contra solem versus stans meito,
+        sed-etiam postquam occidit, memento, adversus orientem
+        neque in via, neque extra via inter-eundum meiere.
+  730   Neve denuderis: Deorum quippe noctes sunt:
+        sedens vero in-fumeto vir prudentia doctus,
+ (730)  aut idem ad parietem accedens bene-septæ caulæ.
+        Neu pudenda semine pollutus intra domum
+        focum juxta revelato, sed caveto.
+  735   Neve a mali-ominis funebribus reversus
+        seminato progeniem, sed immortalium a convivio.
+ (735)  Neve umquam perennium fluviorum pulcre-fluentem aquam
+        pedibus transito, priusquam precatus-fueris adspiciens pulcra
+            fluenta,
+        manus lotus amœna aqua limpida.
+  740   Qui fluvium transierit, malitia vero manus illotus,
+        huic Dii succensent et dolores dant in-posterum.
+ (740)  Ne vero a manu, Deorum in convivio splendido,
+        siccum a viridi reseca nigro ferro.
+        Neve umquam cythum pone super craterem
+  745   bibentium: perniciosum enim in eo fatum est.
+        Neu domum exstruens impolitam relinquito,
+ (745)  ne forte insidens crociat stridula cornix.
+        Neve ex ollis-pedatis nondum-dedicatis capiens
+        edito, neve lavator: quia et hisce inest pœna.
+  750   Neve in immobilibus (_monimentis_) ponito, non enim mlius
+            _est_,
+        puerum duodecennem, quod virum impubem reddit:
+ (750)  [neque duodecim mensium: æquale et hoc est.]
+        Neu muliebri balneo corpus abluito
+        vir: gravis enim ad tempus est etiam in eo
+  755   pœna. Neu sacrificia in accensa incidens,
+        reprehende arcana: Deus sane et hæc indigne-fert.
+ (755)  Neve umquam in alveo fluviorum mare influentium,
+        neu super fontes meito, sed valde evitato;
+        neve incacato; id enim nihilo melius est.
+
+  760     Sic facito: gravem vero mortalium evitato famam.
+        Fama enim mala est levis quidem levatu
+ (760)  facillime, molesta vero portatu, difficilisque depositu.
+        Fama vero nulla omnino perit, quam-quidem multi
+        populi divulgant; Dea sane quædam est et ipsa.
+
+
+                        -----------------------
+
+
+  765     Dies vero ex Jove observans bene secundum decorum,
+        doce servos: tricesimum mensis optimum
+ (765)  operaque ad-inspicienda atque demensum dividendum,
+        quum ex-veritate populi _eum_ judicantes degunt.
+        Hi enim dies sunt Jove a prudente
+  770   Primum primus quartusque et septimus sacer dies,
+        (hoc enim Apollinem ense-aureo peperit Latona),
+ (770)  octavusque nonusque; duo quidem dies mensis
+        egregii crescentis mortalia opera ad-curanda,
+        undecimusque duodecimusque: ambo quidem boni,
+  775   hic quidem ovibus tondendis, ille vero lætis segetibus
+            metendis:
+        duodecimus autem undecimo multo melior:
+ (775)  hoc enim net fila alte-suspensa aranea
+        die ex pleno, quum et prudens (_formica_) acervum colligit.
+        Hoc vero telam instituat mulier, proponatque sibi opus.
+  780   Mensis autem ineuntis decimotertio evitato
+        sementem incepturus: plantis vero inferendis optimus _est._
+ (780)  Sextus vero medius valde incommodus est plantis,
+        viriparus autem bonus: puellæ vero non utilis est,
+        neque gignendæ primum, nec nuptui collocandæ.
+  785   Nec primus quidem sextus puellis gignendis
+        aptus, sed hœdis castrandis et gregibus ovium,
+ (785)  stabuloque circumsepiendo pastorali benignus dies:
+        bonus autem viriparus: amat vero etiam convitia loqui,
+        mendaciaque blandosque sermones occultaque colloquia.
+  790   Mensis vero octavo verrem et bovem mugientem
+        castrato, mulos autem duodecimo patientes-laboris.
+ (790)  Vicesimo vero (in) magno _nono_, pleno die, prudentem virum
+        generato: valde enim animo sapiens est.
+        Bonus autem viriparus decimus, puellæ vero et quartus
+  795   medius; hoc vero et oves et flexipedes camuros boves,
+        et canem asperis-dentibus et mulos patientes-laboris
+ (795)  cicurato, manum imponens; cave vero iram _eorum._
+        Quarto caveto finientis inchoantisque _mensis_
+        doloribus animum conficias: valde sane perfectus diest _est._
+  800   Quarto autem mensis in domum uxorem ducito
+        auguriis observatis, quæ ad rem hanc optima.
+ (800)  Quintos vero evitato, quia difficilesque _sunt_ et graves:
+        (in) quinto enim aiunt Furias servire
+        Horco _eo die_ nato, quem Eris peperit pestem perjuris.
+  805   Medio vero septimo Cereris sacrum munus
+        bene valde inspiciens bene-orbiculata in area
+ (805)  ventilato: lignicidaque secato cubicularia ligna
+        navaliaque ligna multa, quæ apta navibus sunt.
+        Quarta vero incipito naves compingere fragiles.
+  810   Nonus autem medius ad vesperam melior dies.
+        Primus vero nonus prorsus-innoxius hominibus:
+ (810)  bonus quidem enim et hic ad plantandum atque generandum,
+        viroque et mulieri: neque umquam prorsus-malus dies.
+        Pauci vero etiam sciunt tertium-nonum mensis optimum
+  815   [ad-relinendum[TR11] dolium et jugum collo imponendum
+        bobus et mulis et equis celeripedibus,]
+ (815)  navem multis-transtris celerem in nigrum pontum
+        ad-trahendam: pauci autem veracam dicunt
+        [quarto vero aperi dolium: præ omnibus sacer dies:]
+  820   medium: pauci vero etiam post vicesimum mensis optimum
+        aurora oriente: ad vesperam autem est deterior.
+ (820)  Hi quidem dies sunt hominibus magno commodo.
+        Cæteri autem intercidentes innoxii, nihil ferentes.
+        Alius vero alium laudat, pauci autem norunt.
+  825   Interdum noverca est dies, interdum mater.
+        Horum _dierum,_ beatusque et fortunatus _est is,_ qui hæc
+            omnia
+ (825)  sciens operatus-fuerit, inculpatus immortalibus,
+        auguria observans et delicta evitans.
+
+
+[1] "Electryonis" -> "Electryonis."
+[2] "Excelsa" -> "excelsa"
+[3] "Oblectentur" -> "oblectentur"
+[4] "Vivit" -> "vivit"
+[5] "Fiunt" -> "fiunt"
+[6] "fustra-laborans" -> "frustra-laborans"
+[7] "antem" -> "autem"
+[8] "Jam" -> "jam"
+[9] "puluerulentus" -> "pulverulentus"
+[10] "Mensem" -> "[Mensem"
+[11] Line number "575" added.
+[12] "fontisquc" -> "fontisque"
+[13] "ad-relinendum" -> "[ad-relinendum"
+
+
+                                 FINIS.
+
+
+
+
+
+End of the Project Gutenberg EBook of Hesiodi Carmina, by Hesiod
+

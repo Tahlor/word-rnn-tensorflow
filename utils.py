@@ -7,6 +7,9 @@ import numpy as np
 import re
 import itertools
 
+from gensim.summarization.summarizer import summarize
+
+
 class TextLoader():
     def __init__(self, data_dir, batch_size, seq_length, encoding=None):
         self.data_dir = data_dir
@@ -17,7 +20,7 @@ class TextLoader():
         vocab_file = os.path.join(data_dir, "vocab.pkl")
         tensor_file = os.path.join(data_dir, "data.npy")
 
-        # Let's not read voca and data from file. We many change them.
+        # Let's not read vocab and data from file. We many change them.
         if True or not (os.path.exists(vocab_file) and os.path.exists(tensor_file)):
             print("reading text file")
             self.preprocess(input_file, vocab_file, tensor_file, encoding)
@@ -102,9 +105,15 @@ class TextLoader():
 
         ydata[:-1] = xdata[1:]
         ydata[-1] = xdata[0]
+        
+        # Create sequence of vocab indices (inputs, outputs)
+        # Find the word before newline; give this word for every word in that line; occasionally give it a synonym
         self.x_batches = np.split(xdata.reshape(self.batch_size, -1), self.num_batches, 1)
+        print(x_batches)
+        Stop
         self.y_batches = np.split(ydata.reshape(self.batch_size, -1), self.num_batches, 1)
 
+    #X is input, Y is output
     def next_batch(self):
         x, y = self.x_batches[self.pointer], self.y_batches[self.pointer]
         self.pointer += 1
@@ -112,3 +121,16 @@ class TextLoader():
 
     def reset_batch_pointer(self):
         self.pointer = 0
+
+        
+    def get_last_word():
+        
+        
+    def get_sentiment():
+        pass
+        
+    def get_summary():
+        gensim.summarization.summarizer.summarize(text, ratio=0.2, word_count=None, split=False)
+
+    
+    

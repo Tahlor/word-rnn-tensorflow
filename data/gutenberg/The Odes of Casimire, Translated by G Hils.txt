@@ -1,0 +1,3783 @@
+�The Project Gutenberg EBook of The Odes of Casimire, Translated by G. Hils, by 
+Mathias Casimire Sarbiewski
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Odes of Casimire, Translated by G. Hils
+
+Author: Mathias Casimire Sarbiewski
+
+Commentator: Maren-Sofie Roestvig
+
+Translator: G. Hils
+
+Release Date: April 12, 2008 [EBook #25055]
+
+Language: Latin
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ODES OF CASIMIRE ***
+
+
+
+
+Produced by Louise Hope, David Starner, and the Online
+Distributed Proofreading Team.
+
+
+
+
+
+
+[Transcriber’s Note:
+
+This text uses utf-8 (unicode) file encoding. If the apostrophes and
+quotation marks in this paragraph appear as garbage, make sure your
+text reader’s “character set” or “file encoding” is set to Unicode
+(UTF-8). You may also need to change the default font. As a last
+resort, use the latin-1 version of the file instead.
+
+The Greek word παραφραστικῶς (paraphrastikôs) occurs three times in
+poem headers. There is no other Greek in the text.
+
+Spelling and punctuation are unchanged unless otherwise noted.
+Typographical errors are listed at the end of the e-text, along with
+longer notes. The Latin -que was variously written out in full or
+abbreviated; the abbreviated forms are shown here as -q; with
+semicolon.]
+
+
+
+
+  The Augustan Reprint Society
+
+
+  MATHIAS CASIMIRE
+  SARBIEWSKI
+
+  _The Odes of Casimire, Translated by G. Hils_
+
+  (1646)
+
+
+  With an Introduction by
+  Maren-Sofie Roestvig
+
+
+  Publication Number 44
+
+  Los Angeles
+  William Andrews Clark Memorial Library
+  University of California
+  1953
+
+
+
+
+GENERAL EDITORS
+
+  RICHARD C. BOYS, _University of Michigan_
+  RALPH COHEN, _University of California, Los Angeles_
+  VINTON A. DEARING, _University of California, Los Angeles_
+  LAWRENCE CLARK POWELL, _Clark Memorial Library_
+
+ASSISTANT EDITOR
+
+  W. EARL BRITTON, _University of Michigan_
+
+ADVISORY EDITORS
+
+  EMMETT L. AVERY, _State College of Washington_
+  BENJAMIN BOYCE, _Duke University_
+  LOUIS BREDVOLD, _University of Michigan_
+  JOHN BUTT, _King’s College, University of Durham_
+  JAMES L. CLIFFORD, _Columbia University_
+  ARTHUR FRIEDMAN, _University of Chicago_
+  EDWARD NILES HOOKER, _University of California, Los Angeles_
+  LOUIS A. LANDA, _Princeton University_
+  SAMUEL H. MONK, _University of Minnesota_
+  ERNEST C. MOSSNER, _University of Texas_
+  JAMES SUTHERLAND, _University College, London_
+  H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+CORRESPONDING SECRETARY
+
+  EDNA C. DAVIS, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+Mathias Casimire Sarbiewski (1595-1640) vas a Polish Jesuit whose
+neo-Latin Horatian odes and Biblical paraphrases gained immediate
+European acclaim upon their first publication in 1625 and 1628.[1] The
+fine lyric quality of Sarbiewski’s poetry, and the fact that he often
+fused classical and Christian motifs, made a critic like Hugo Grotius
+actually prefer the “divine Casimire” to Horace himself, and his
+popularity among the English poets is evidenced by an impressive number
+of translations.
+
+G. Hils’s _Odes of Casimire_ (1646), here reproduced by permission from
+the copy in the Henry E. Huntington Library, is the earliest English
+collection of translations from the verse of the Polish Horace. It is
+also the most important. Acknowledged translations of individual poems
+appeared in Henry Vaughan’s _Olor Iscanus_ (1651), Sir Edward
+Sherburne’s _Poems and Translations_ (1651), the _Miscellany Poems and
+Translations by Oxford Hands_ (1685), Isaac Watts’s _Horae Lyricae_
+(1706), Thomas Brown’s _Works_ (1707-8), and John Hughes’s _The Ecstasy.
+An Ode_ (1720). Unacknowledged paraphrases from Casimire include Abraham
+Cowley’s “The Extasie,”[2] John Norris’s “The Elevation,”[3] and a
+number of Isaac Watts’s pious and moral odes.[4] Latin editions of
+Casimire’s odes appeared in London in 1684, and in Cambridge in 1684
+and 1689.
+
+Another striking example of the direct influence of Casimire upon
+English poetry is presented by Edward Benlowes’s _Theophila_ (1652).
+This long-winded epic of the soul exhibits not only a general
+indebtedness in imagery and ideas, but also direct borrowings of whole
+lines from Hils’s _Odes of Casimire_. One example will have to suffice:
+
+  Casimire, Ode IV, 44
+
+      _Theophila_, XIII, 68
+
+  Let th’ _Goth_ his strongest chaines prepare,
+  The _Scythians_ hence mee captive teare,
+  My mind being free with you, I’le stare
+  The Tyrants in the face....
+
+    Then let fierce Goths their strongest chains prepare;
+    Grim Scythians me their slave declare;
+    My soul being free, those tyrants in the face I’ll stare.
+
+Casimire’s greatest achievement was in the field of the philosophic
+lyric, and in a number of cases he anticipated poetic techniques and
+motifs which later grew popular also with the English poets. Thus, long
+before Denham and Marvell, he practised the technique of investing the
+scenes of nature with a moral or spiritual significance. A comparison
+of Casimire’s loco-descriptive first epode on the estate of the Duke of
+Bracciano with Denham’s _Cooper’s Hill_ (1642) reveals that the Polish
+poet was the first to mix description with moral reflection, and to
+choose the gentle hills, the calmly flowing river, and a retired country
+life as symbols of the Horatian golden mean.
+
+Some of Casimire’s richest imagery is found in his paraphrases of
+_Canticles_, and particularly in Ode IV, 21. Parts of this ode provide a
+striking parallel to the famous fifth stanza of Marvell’s “The Garden.”
+In it Horace and Virgil meet with Solomon, the _hortus conclusus_ of the
+Hebrew poet merging with the landscape of retirement as we find it in
+Virgil’s eclogues or in Horace’s second and sixteenth epodes. Much of
+Casimire’s poetry, is indeed best understood as a conscious effort to
+apply the allegorical technique of _Canticles_ to the classical _beatus
+ille_-themes,[5] just as his thought presents an interesting combination
+of Stoic and Platonic ideas.
+
+The Polish poet, who was a university professor and a doctor of
+theology, may easily have learned from the Hermetic writers how to
+combine these great classical traditions. There is direct proof of
+Casimire’s familiarity with the Hermetic tradition in his Ode II, 5
+(“E Rebus Humanis Excessus”), which is a paraphrase of _Libellus I_,
+sections 25 and 26.[6] Since Henry Vaughan was familiar with Casimire’s
+poetry, it is reasonable to suspect that Vaughan’s own treatment of
+Hermetic motifs owed much to this influence. If one compares Vaughan’s
+religious nature lyrics and Casimire’s odes, a number of common poetical
+motifs are easily found, and so we are here again faced with the fact
+that themes which became popular in England in the mid-seventeenth
+century were anticipated in the Latin odes of Casimire.[7]
+
+Hermetic ideas are also encountered in Casimire’s third epode,
+which combines a Horatian Stoicism with a neo-Platonlc or Hermetic
+interpretation of the classical landscape of retirement. An avowed reply
+to Horace’s second epode, it expands the Horatian philosophy through the
+addition of three new themes: the theme of solitude, the theme of the
+Earthly Paradise, and the theme of Nature as a divine hieroglyph. Its
+presentation of the garden ecstasy of the retired _beatus vir_ thus
+strikes the same note to which we know from Mildmay Fane’s “To
+Retiredness” and Andrew Marvell’s “The Garden.” In slightly adapted
+form, these themes were to flourish in the poetry of the Countess
+of Winchilsea, Isaac Watts, John Hughes, and a number of early
+eighteenth-century nature poets.
+
+In the Romantic period Casimire’s fame was again revived. While still a
+young man, Coleridge planned a complete translation of Casimire’s odes,
+but never finished more than the ode “Ad Lyram.” It was also Coleridge
+who said that with the exception of Lucretius and Statius he knew no
+Latin poet, ancient or modern, who could be said to equal Casimire
+in boldness of conception, opulence of fancy, or beauty of
+versification.[8] A knowledge of the themes and techniques of this
+Latin poet should therefore be of interest to all students of English
+poetry.
+
+  Maren-Sofie Roestvig
+  University of Oslo
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+1. For a complete bibliography, see Carlos Sommervogel, Bibliothèque de
+la Compagnie de Jésus (Bruxelles et Paris, 1896), VII, 627-646.
+
+2. In the preface to _The Ecstasy. An Ode_ (1720), John Hughes comments
+on Cowley’s indebtedness, in “The Extasie,” to Casimire.
+
+3. Norris’s indebtedness has been pointed out by Hoxie N. Fairchild,
+_Religious Trends in English Poetry_ (New York, 1939- ), I, 110, n. 21.
+
+4. Compare Watts’s “False Greatness,” “’Tis Dangerous to Follow the
+Multitude,” and “The Kingdom of the Wise Man” to Casimire’s Ode IV, 34;
+IV, 10; and IV, 3.
+
+5. By this term is understood the themes presented in Horace’s second
+epode on the happy country life.
+
+6. Hermes Trismegistus, _Hermetica_, ed. Walter Scott (Oxford, 1924-36),
+I, 129.
+
+7. No study has as yet been made of Casimire’s influence upon English
+literature, but I hope shortly to publish the results of my own
+investigation of this problem.
+
+8. Coleridge prefaced his translation of the ode “Ad Lyram” with this
+remark. See also _Biographia Literaria_, ed. John Shawcross (Oxford,
+1907), II, 209. For further critical estimates, see Sir John Bowring,
+trans., _Specimens of the Polish Poets_ (London, 1827), and Caecilius
+Metellus, pseud., “On the Life and Writings of Casimir,” _The Classical
+Journal_, XXV (1822), 103-110.
+
+       *       *       *       *       *
+           *       *       *       *
+
+
+  The
+  ODES
+  of
+  CASIMIRE
+
+  Translated by
+  _G. H._
+
+
+  [Illustration]
+
+
+  LONDON,
+
+  Printed by _T. W._ for _Humphrey Moseley_,
+  at the signe of the Princes Armes in
+  _Pauls_ Church-yard, _1646_.
+
+
+
+
+  [Illustration]
+
+  The
+  ODES of
+  CASIMIRE
+
+  _Translated by_
+  G. H.
+
+  _Printed for _Humphrey Moseley_ at the Princes-Armes
+  in Pauls Churchyard 1646. W. M. sculp:_
+
+
+
+
+  [Decoration]
+
+  _Od. 1. Lib. 1._
+
+  Cum infestæ Thracum Copiæ Pannoniâ excessissent.
+
+      [Decoration]
+
+      Od. 1. Lib. 1.
+
+      When the hatefull forces of the Thracians departed out of
+      _Pannonia_.
+
+  Jam minæ sævi cecidere belli:
+  Jam profanatis malè pulsa terris
+  Et salus, & pax niveis revisit
+        Oppida bigis:
+  Iam fides, & fas, & amæna præter
+  Faustitas, læto volat arva curru:
+  Iam fluunt passim pretiosa largis
+        Sæcula rivis.
+  Candidi soles veterisq; venæ
+  Fontibus nati revocantur Anni:
+  Grandinat Gemmis, riguoq; Cœlum
+        Depluit Auro.
+
+      The threats of cruell Warre now cease:,
+      In stead of them safety and peace,
+      Banish’d th’unhallowed earth, doe please
+            ’Returne in their white Waine;
+      Faith joyn’d with Truth, and Plenty too
+      O’re pleasant fields doe nimbly goe;
+      The precious Ages past, doe flow
+            With liberall streames againe.
+      Cleare dayes, such yeares as were of old
+      Recalled are, o’th’ ancient mold,
+      The Heavens hayle Pearles, and molten Gold
+            Doth raine down-right in showres;
+
+  Meq; veraci cecinisse plectro
+  Inter Octobreis, tua festa, pompas,
+  Prisca _Saturni_ rediisse sæcla,
+        Approbat Orbis.
+  Aurei patrum niveiq; mores,
+  Exul & serâ procul usq; Thule,
+  Candor, & pulchro remeare virtus
+        Audet _Olympo_.
+
+      Whilst I with my Prophetique string
+      Thy Winter feastivalls doe sing,
+      The whole world doth with Ecchoes ring
+            Old _Saturn’s_ age is ours.
+      Our Fathers pure and golden rule
+      Exil’d as farre as farthest Thule,
+      Justice from bright _Olympus_ schoole
+            Comes boldly back againe.
+
+  Lactis, & fusi per aprica mellis
+  Garruli Campos secuêre rivi:
+  Et superfuso tumuêre plenæ
+        Nectare ripæ.
+  Lætior vulgò seges inquietis
+  Fluctuat culmis, titubantq; frugum
+  Uberes Campi, nec avara sulcis
+        Invidet æstas.
+  Pastor Erranteis comitatus Hœdos
+  Provocat raucas calamo cicadas:
+  Mugiunt Colles, & anhela fessis
+        Silva Iuvencis.
+
+      The streams which Milk and Honey yeild,
+      Their passage cut through open field,
+      And the full banks with Nectar swell’d
+            Doe drowne the flowrie plaine.
+      The glad Corne in the restles stalke
+      Waves, and the fields as wee doe walke,
+      So fruitfull reele, to any balke
+            The Heat no spight doth owe.
+      The Herdsmans Pipe to’s wandring Goats,
+      Provokes the Grashoppers hoarse notes;
+      The tyred Herd with strayned throats,
+            Makes Hills and Woods to low.
+
+  Pace subsultant juga, pace rident
+  Tetrica rupes: leve separatos
+  Otium colleis amat, & sequestri
+        Gaudia pagi.
+  Te _Ceres_ flavis redimita culmis,
+  Magne pacati moderator orbis,
+  Te suis Æstas opulenta Circum-
+        fundit aristis.
+  Supplici Myrtus tibi servit umbrâ,
+  Serviunt Lauri: tibi celsa longè
+  Quercus assurgit, tremuloq; pinus
+        Vertice nutat.
+  Siderum præses, dominusq; terræ,
+  Lucidâ Romam speculatus aree,
+  Regna tranquillet, Cupidoq; patrem
+        Te velit orbi.
+
+      The Mountaines leape, and rough Rocks smile
+      For gentle Peace rejoyceth still
+      Such solitary roomes to fill
+            Hills set apart, ’lone Townes.
+      _Ceres_ with yellow Chaplet, and
+      The Summer rich with eares doth stand,
+      Great Prince of our appeased Land,
+            Thee to encompasse round.
+      The Myrtle begs with humble shade
+      To serve thee and the Laurel’s glade;
+      The lofty Oake doth rise; Its head
+            The trembling Pine doth bow;
+      Hee that o’re Starrs and earth hath powre,
+      Beholding us, from his bright Towre,
+      Calms all, and sets thee father o’re
+            The covetous world below.
+
+  Laurus annosum tibi signet ævum:
+  Fata te norint, properentque parcæ
+  Nescium carpi tibi destinatos
+        Stamen in annos.
+  Quæq; formosos sedet inter igneis,
+  Sedulam pro te miserata _Romam_
+  Virgo, quam circum glomerantur albis
+        Astra choreis.
+  Curet effusas Latii querelas,
+  Virginum castas juvenumque voces
+  Curet, & votis procerum reclinem
+        accommodet aurem.
+
+      The Laurell signe long life to thee,
+      Let Fates and destinies agree
+      To twine thy thred, which cannot bee
+            Cut ’till th’appointed time.
+      May shee amidst those glorious fires,
+      For thy sake, pittying our desires,
+      ’Bout whom the beauteous starrs inquires,
+            And flowing measures swim;
+      May shee, I say, our Country’s griefe
+      Cure, and the chast complaints releive
+      Of all our youth, and willing eares
+            Apply to th’ praiers of all our Peeres.
+
+
+
+
+  Ad Aurelium Lycum.
+
+  _Ode 2. Lib. 1._
+
+  Nè plus æquo de adversâ fortunâ queratur.
+
+      To _Aurelius Lycas_.
+
+      Ode 2. Li. 1.
+
+      _That hee would not complaine too much of adverse fortune._
+
+  Indignas, Lyce, nænias,
+      Et mæstum gemitu pectus, & hispidis
+  Frontem nubibus expedi,
+      Cum Sol non solito lumine riserit,
+  Et fortuna volubilis
+      Fati difficilem jecerit aleam.
+  Quod vexant hodié Noti,
+      Cras lambent hilares æquor Ætesiæ.
+  Mœstum sol hodiè caput,
+      Cras lætum roseo promet ab æquore.
+  Alterno redeunt choro
+      Risus & gemitus, & madidis propè
+  Sicci cum Lacrymis joci.
+      Nascuntur mediis gaudia luctibus,
+  Sic fatis placitum. suis
+      Tempestiva fluunt fata periculis.
+
+      Unmanly howlings, _Lycuas_, leave,
+      Thy sad breast doe not vex, nor grieve;
+      Thy rugged brow from cloudes set free,
+      Although with usuall beames ’on thee
+      The Sun not shines; or fortune late
+      Hath throwne the hardest chance of Fate.
+      With th’ waves, that South windes tosse to day,
+      The cheerfull Easterne gales will play;
+      The Sun that now hangs downe his head,
+      With joy from blushing _Thetis_ bed
+      I’th’ morne will rise. Laughter and woe
+      Keepe time, and in their courses goe.
+      Cleare merriment succeeds wet eyes,
+      And joyes in mid’st of sorrows rise.
+      Thus pleaseth it the Fates, that flow
+      With various hazards here below.
+
+  Fessos duxit heri boves,
+      Dat magnis hodiè jura Quiritibus:
+  Et quæ bobus ademerat,
+      Imponit Gabiis, & Curibus juga.
+  Idem Phosphorus aspicit
+      Magnum quem tenuem viderat Hesperus.
+  Quod si seria ludicris
+      Fortuna placeat texere; Rusticus
+  Hesternam repetet casam,
+      Ridentis populi non humilis jocus:
+  Et queis rexerat omnia,
+      Findet laurigeris ligna securibus.
+  Quod si defuerit salix
+      Fasces pauperibus subjiciet focis.
+
+      Hee who his Oxen tyr’d, did drive,
+      Doth lawes to day, to th’ City give:
+      And the same yokes he tooke from those,
+      Upon the Citizens impose.
+      The day-starre great, that man doth see,
+      Whom th’Evening saw in low degree.
+      But if the things that serious are
+      With Fortunes pastimes to compare
+      Doth please you; See, this Country-man
+      Betakes himselfe to’s farme againe,
+      Of’s jeering neighbours th’only sport,
+      And with those Axes which i’th’ Court
+      Hee ruled all with, Cleaves his wood,
+      Whose Helves are made of Laurell good.
+      And if a want of wood there growes,
+      The _Fasces_ on the fire he throwes.
+
+
+
+
+  Ad _Tarquinium Lavinum_.
+
+  Od. 13. lib. 1.
+
+  Non si Sol semel occidit,
+    Non rubris iterum surget ad Indiis;
+  Nec si quos celeris rotæ
+    Sors non exiguo proruit impetu,
+  Non lapsos iterum levet,
+    Arguto docilis ludere cum joco.
+  Ne spem projice, _Tarquini_:
+    Cujus pænè retro lambere pulverem
+  Et vestigia diceris,
+    Cum fortuna levem verterit orbitam,
+  Effusam super & luto
+    Fumantem poteris cernere purpuram.
+  Tunc & risibus abstine,
+    Neu turpi domino Lumina paveris:
+  Neu calces nimium, memor
+    Fortunæ geminam sæpe jaci pilam.
+
+
+      To _Tarquinius Lavinus_.
+
+      _Ode 13. lib. 1._
+
+      As if the Sun that once doth set,
+        From th’ blushing East a new birth doth not get
+      As if that those whom Fortunes frowne
+        By the swift violence of her wheele, throwes down,
+      Shee would not raise again with ease,
+        So active in such nimble sports as these.
+      Despaire not (Sir) whose footsteps now
+        Thou’rt said to kisse, and lick the dust of’s shooe,
+      Let Fortune her light wheele but turne,
+        And then _Tarquinius_, thou shalt soon discerne
+      From his proud height, him downward thrust,
+        His trampled robes smoking in mire and dust.
+      Thy jeeres and laughter then forbeare,
+        His all-bespattred lookes thou shalt not feare,
+      Nor trample on, remembring how
+        Fortune a double ball doth often throw.
+
+
+
+
+  Ad _Publium Memmium_.
+
+  _Ode 2. Lib. 2._
+
+  Vitæ humanæ brevitatem benefactis extendendam esse.
+
+  Qua tegit Canas modò bruma valleis,
+  Sole vicinos jaculante monteis
+  Deteget rursum. Tibi cum nivosa
+        Bruma senecta
+  In caput seris cecidit pruinis,
+  Decidet nunquam. Cita fugit Æstas,
+  Fugit Autumnus, fugient propinqui
+        Tempora veris:
+  At tibi frigus, capitiq; cani
+  Semper hærebunt, neq; multa Nardus
+  Nec parum gratum repetita dement
+        Serta colorem.
+  Una quem nobis dederat juventus:
+  Una te nobis rapiet senectus:
+  Sed potes, _Publi_, geminare magnâ
+        Sæcula famâ,
+  Quem sui raptum gemuêre cives.
+  Hic diu vixit. Sibi quisq; famam
+  Scribat Hæredem: rapiunt avaræ
+        Cetera Lunæ.
+
+
+      To _Publius Memmius_.
+
+      _Ode 2. Lib. 2._
+
+      _That the shortnesse of mans life is to bee lengthened
+      by good deeds._
+
+      The Valleys, now, all clad in gray
+      By Winter, when Sol darts his ray
+      On neighbouring hills, hee’l naked lay,
+            As heretofore.
+      But when the winter of thy yeares
+      With snow, within thy locks appeares,
+      When hoary frost shall dye thine haires,
+            It parts no more.
+      Summer, and Autumn’s quickly gone,
+      Th’approaching Spring will passe as soon:
+      Gray hayres, and chilling cold alone
+            With thee will stay.
+      To thy ill colour, Nard distill’d,
+      Nor the renew’d perfumes o’th’ field
+      Of flowres, can any vertue yeild,
+            Or tak’t away.
+      Thee, whom thy youth hath giv’n tó day.
+      At night old age will take away.
+      Thy time to double, is, to lay
+            A fame most bright.
+      Whom snach’d by death, his friends bemone,
+      He hath liv’d long. Let every one
+      Write Fames sole heire: that’s free alone,
+            From th’ rape of night.
+
+
+
+
+  E Rebus Humanis Excessus.
+
+  _Ode 5. Lib. 2._
+
+      _A Departure from things humane._
+
+      _Ode 5. Lib. 2._
+
+  Humana linquo: tollite præpetem
+  Nubesque ventique. Ut mihi devii
+    Montes resedere, & volanti
+    Regna porcul, populosque vastos
+  Subegit aer! jam radiantia
+  Delubra Divum, jam mihi regiæ
+    Turres recessere, & relicta in
+    Exiguum tenuantur urbes;
+  Totasq; qua se cunque ferunt vaga
+  Despecto Gentes. O lacrymabilis
+    Jncerta fortuna! ô fluentûm
+    Principia, interitúsque rerum!
+
+        Lift me up quickly on your wings,
+      Ye Clouds, and Winds; I leave all earthly things;
+        How Devious Hills give way to mee!
+      And the vast ayre brings under, as I fly,
+        Kingdomes and populous states! see how
+      The Glyst’ring Temples of the Gods doe bow;
+        The glorious Tow’rs of Princes, and
+      Forsaken townes, shrunke into nothing, stand:
+        And as I downward looke, I spy
+      Whole Nations every where all scattred lye.
+        Oh the sad change that Fortune brings!
+      The rise and fall of transitory things!
+
+  Hîc ducta primis oppida mœnibus
+  Minantur in Cœlum: hîc veteres ruunt
+    Muríque turresq;: hîc supinas
+    Pæné cinis sepelivit arces.
+  Hîc mite Cœlum, sed rapidæ ruunt
+  In Bella Gentes: hîc placida sedent
+    In pace, sed latè quietos
+    Dira lues populatur agros.
+
+        Here walled townes that threatned Heav’n,
+      Now old and ruin’d, with the earth lye even:
+        Here stately Pallaces, that thrust
+      Their heads i’th’ayre, lye buried all in dust.
+        Here the Ayre Temp’rate is and mild,
+      But the fierce people rush to warres, most wild:
+        Here in a joyfull peace they rest,
+      But Direfull Murraines their quiet fields lay wast.
+
+  Hîc pænè tellus tota micantibus
+  Ardet sub armis: stant acies adhuc
+    Pendente fatorum sub ictu,
+    Et dubio furor hæsitavit
+  In bella passu: parte aliâ recens
+  Jam mista Mavors agmina mutuam
+    Collisit in mortem, & Cadentûm
+    Cæde virûm, Cumulísque latos
+  Insternit agros: hîc Mareotica
+  Secura merces æquora navigant,
+    Portusq; certatim frequentes
+    Centum operis populisque fervent.
+
+        Here the whole Land doth scorching lye
+      Under the glittering Armes o’ th’Enemy:
+        Under the hovering stroke o’ th’ Fates
+      The Armies yet both stand; and fury waites
+        With doubfull steps, upon the warre;
+      Fresh courage here, the mingled troopes prepare.
+        Each against other fiercely run,
+      And mutually they worke destruction:
+        The slaughtered heapes in reeking gore
+      With bloudy covering spread the fields all o’re:
+        Here on safe Seas, as joyfull prize
+      Is strip’d away th’Ægyptian Merchandize,
+        Whilst the full Havens thick beset,
+      Doe furiously with fierce contention fret.
+
+  Nec una Marti causa, nec unius
+  Sunt Arma moris. Bellat Adultera
+    Ridentis è vultu voluptas,
+    Inq; _Helena_ procus ardet orbis.
+  Hic verba bellis vindicat: hic canis,
+  Heu vile furtum! Se mala comparant;
+    Rarum sub exemplo superbit,
+    Nec sceleris scelus instar omne est.
+
+        _Mars_ hath his divers Causes, and
+      His severall fashion’d weapons to command.
+        From the Adultresse smiling lookes
+      Pleasure doth fight, and unto Warre provokes,
+        The doting world with _Helen_ burnes.
+      This sordid man, oh base advantage! turnes
+        Revenge of vvords to blowes;
+      Mischiefe begets it selfe, from mischiefe growes.
+        Small sins by example higher dare,
+      Nor doth all sin, alvvaies like sin appeare.
+
+  Eous illinc belligerâ latet
+  Sub Classe pontus: Jam _Thetis_ æneá
+    Mugire flammarum procellâ, &
+    Attonitæ trepidare cautes,
+  Et ipsa circum littora percuti
+  Majore fluctu. Sistite barbari,
+    Ferroq; neu simplex, & igni &
+    Naufragio geminate fatum.
+
+        There th’Easterne Sea lyes coverd o’re
+      With vvarlike Fleets: _Thetis_ begins to rore
+        With stormes of flaming Brasse, and here
+      Th’astonish’d Rocks all trembling stand with feare.
+        The troubled Sea vvith vvinds beset
+      With stronger vvaves ’gainst the full shore doth beat.
+        Forbeare, cruell men to multiply
+      With fire, Sword-vvrack your single destiny.
+
+  Parumnè Tellus in miseras patet
+  Immensa mortes? hinc miserabili
+    Quassata terrarum tumultu
+    Stare pavent titubantq; regna,
+  Unâq; tandem funditus obruunt
+  Cives ruinâ. Stat tacitus cinis,
+    Cui serus inscribat viator:
+    _Cum populo jacet hic & ipso
+  Cum Rege Regnũ._ Quid memorem super-
+  Infusa totis æquora portubus
+    Urbes inundare, & repenti
+    Tecta Deúm sonuisse fluctu.
+  Regumq; Turres, & pelago Casas
+  Jamjam latentes? jam video procul
+    Merceisq; differri, & natantem
+    Oceano fluitare gazam.
+
+        Is the large Earth too narrovv grovvne,
+      Such slaughters, such dire tragedies to ovvne?
+        Large Kingdomes there, brought under thrall
+      With Tumult, stagger, and for feare doe fall;
+        Where in one Ruine wee may see
+      The dying people all o’rewhelmed lye.
+        The silent dust remaines, to let
+      The weary Pilgrim this Inscription set
+        (In after times, at hee goes by)
+      _King, Kingdome, People here entombed lye_.
+        What should I name the raging Seas,
+      Whole Havens over-flowing, and with these
+        I’th’ sudden floud whole Cities drown’d
+      The shaken Temples of the Gods that found?
+        Kings Pallaces what should I name
+      Now sunke i’th’ deepe, small Cottages i’th’ same?
+        Vast wealth I see swept downe with th’ tyde
+      Rich treasure in the Ocean floting glyde.
+
+  Alterna rerum militat efficax
+  In damna mundus. Cladibus instruit
+    Bellisq; rixisq; & ruinis
+    Sanguineam libitina scenam,
+  Suprema doxec stelligerum dies
+  Claudat Theatrum. Quid morer hactenus
+    Viator aurarum & serenas
+    Sole domos aditurus usque
+  Humana mirer? tollite præpetem
+  Festina vatem, tollite nubila
+    Qua solis & Lunæ Labores
+    Cæruleo vehit æthra Campo.
+
+        The active world t’each others harmes
+      Doth daily fight, and the pale Goddesse armes
+        The bloudy scene with slaughters, warrs,
+      With utter ruins, and with deadly jarrs;
+        Thus there’s no _Exit_ of our woes,
+      Till the last day the Theater shall close,
+        Why stay I then, when goe I may--
+      To’a house enlightned by the Suns bright ray?
+        Shall I still dote on things humane?
+      Lift up your longing Priest, yee Clouds, oh deigne
+        Lift m’up where th’aire a splendour yeilds
+      Lights the sun’s chariot through the azure fields.
+
+  Ludor? sequaces aut subeunt latus
+  Ferunt; venti? Jamque iterum mihi
+    Et regna decrevere, & immensæ
+    Ante oculos periêre gentes;
+  Suóque semper terra minor Globo
+  Jam jamque cerni difficilis, suum
+    Vanescit in punctum? ô refusum
+    Numinis Oceanum! ô carentem
+  Mortalitatis portubus insulam!
+  O clausa nullis marginibus freta!
+    Haurite anhelantem, & perenni
+    _Sarbivium_ glomerate fluctu.
+
+        Am I deceived? or doe I see
+      The following winds on their wings mounting me,
+        And now againe Great kingdomes lye
+      Whole Nations perishing before mine eye?
+        The earth which alwayes lesse hath beene
+      Then’s Globe, and now, just now can scarce be seene,
+        Into it’s point doth vanish, see!
+      Oh the brim’d Ocean of the Deitie!
+        Oh Glorious Island richly free
+      From the cold Harbours of mortality!
+        Yee boundlesse Seas, with endlesse flouds of rest
+        Girt round _Sarbinius_ your panting Priest.
+
+
+
+
+  Ad Publium Memmium.
+
+  Od. 7. Lib. 2.
+
+  Esset humanis aliquod levamen
+  Cladibus, si res caderent eâdem
+  Quâ morâ surgunt; sed humant repentes
+        Alta ruinæ.
+  Nil diu felix stetit; inquieta
+  Urbium currunt hominumq; Fata:
+  Totq; vix horis jacuêre, surgunt
+        Regna quot annis.
+  Casibus longum dedit ille tempus,
+  Qui diem regnis satis eruendis
+  Dixit: elato populos habent mo-
+        menta sub ictu.
+  Parce crudeles, moriture _Publi_,
+  Impio divos onerare questu,
+  Densa vicinis nimiùm vagari
+        Funera tectis.
+  Quæ tibi primùm dedit hora nasci,
+  Hæc mori primùm dedit. Ille longùm
+  Vixit, æternum sibi qui merendo
+        Vindicat ævum.
+
+
+      To _Publius Memmius_.
+
+      _Ode 7. Lib. 2._
+
+        Amidst our losse it were some ease,
+      If things did fall, with the same stay, and leisure
+        They rise; but sudden ruines seize
+      On our most lofty things, and richest treasure.
+        Nothing long time hath happy been.
+      The restlesse Fates of peopled-Cities, passe:
+        In a few hour’s destroy’d w’have seen,
+      In many yeares what never raised was.
+        He gave to Chance long time, that said
+      One day’s enough, whole Kingdomes t’overthrow:
+        Each moment holds a people swayd
+      Under a fatall and exalted blow.
+        Being neere thy death, then, _Publius_, spare
+      To load the Gods, with thy blasphemous plaints;
+        That Funeralls so frequent are,
+      Or death so much thy neighbours house haunts.
+        The houre, that first to thee gave life,
+      That thou should’st likewise dye, gave first to thee.
+        He hath liv’d long, who well doth strive
+      Sure alwaies of eternall life to bee.
+
+
+
+
+  Ad Asterium. Ode 8. lib 2.
+
+  At nos inani pascit imagine
+  Fortuna rerum. Ludimur _Asteri_,
+    Umbris amicorum; & doloso
+      Verba simul placuêre fuco,
+  Res esse stulti credimus. at simul
+  Sors infidelem corripuit rotam,
+    Gaudent recedenti Sodales
+      Non eadem dare verba Divæ.
+  Plerumq; falsis nominibus placent
+  Humana. Rari pollicitis data
+    Aequamus: & minor loquaci
+      Relligio solet esse voto.
+
+
+      To Asterius. _Od 8. l. 2._
+
+      VV’Are mock’d with ’baytes that fortune flings
+      And fed with th’empty husks of things:
+          Shadowes, not friends we entertaine;
+          W’are pleas’d with the deceitfull traine
+      Of words, and thinke them deeds. But when
+      Th’unconstant wheele shall turne agen
+          To th’ parting Goddesse, wee shall see
+          Those friends the selfe-same words deny.
+      Things Humane under false names please.
+      Our gifts match not our promises;
+          Religion, lesse to be doth use,
+          Then the large language of our vowes.
+
+
+
+
+  Ex sacro Salomonis Epithal.
+
+  Ode 19. l. 2.
+
+    Similis est dilectus meus capreæ, hinnuloque cervorum.
+
+      Out of _Solomon’s_ sacred Mariage Song.
+
+      _Ode 19. Lib. 2._
+
+  Vitas sollicitæ me similis capræ,
+  Quam vel nimbisoni sibilus Africi,
+  Vel motum subitis murmur Etesiis
+        Vano corripit impetu.
+  Nam seu prima metum bruma trementibus
+  Incussit foliis, sive Diespiter
+  Elisit resonis tela Cerauniis,
+        Incertâ trepidat fugâ.
+  At qui non ego te quærere desinam,
+  Clamatura retrò, _Christe_, Revertere: &
+  Rursus, cùm rapido fugeris impetu,
+        Clamatura, Revertere.
+
+      Thou shunnest me, like to a fearfull Roe,
+        Which, as the stormy North-winds blow,
+      Or the rough noise o’ th’ suddaine Easterne blast,
+        Is snatch’d away with forcelesse hast.
+      For th’early frost the trembling leaves doth fright,
+        Or else the Father of the light
+      Hath hewne from th’ecchoing rocks his thundring darts,
+        Hee hastens with such doubtfull starts.
+      But till I find thee, I’le not cease, nor rest,
+        But cry aloud, Returne, ô Christ:
+      And when with swifter speed thou fly’st away,
+        Returne againe, ô Christ, I’le say.
+
+  O seu te Libani terga virentia,
+  Seu formosa rubræ culta Bethuliæ,
+  Seu pinguis Solymæ, sive procul cavæ
+        Cingunt rura Capharniæ;
+  Tandem sollicitæ pone modum fugæ.
+  Nam non effugies, Te mihi sedulis
+  Aether excubiis prodet, & aureis
+        Prodet Cynthia cornibus.
+  Te neglecta gemunt littora, te procul
+  Suspirat tacitis aura Pavoniis,
+  Te noctis vigiles, te mihi vividis
+        Signant sidera nutibus.
+
+      The tops of _Lebanus_, so green and gay,
+        The faire tilths of _Bethulia_,
+      Encompasse thee, old _Salem_’s fruitfull Land,
+        Or else _Capharnia_ low doth stand.
+      At length give o’re thy sad and carefull flight:
+        Thou shalt not scape me, th’evening bright
+      With its so watchfull Centry, thee’l betray,
+        And th’Moone with golden hornes doth stray.
+      By th’grones of the neglected shores I’le find
+        Thee; and by th’sighs o’th’ Westerne wind;
+      Thee the night’s watch, the starrs that walke about
+        With lively signes will point thee out.
+
+
+
+
+  Diræ in Herodem.
+
+  Ode 24. l. 2.
+
+      _Diræ_ in _Herodem_.
+
+      _Ode 24. Lib. 2._
+
+  Devota sacræ progenies domus!
+  Fatale monstrum! prodigialium
+    Monstrum parentum! seu Libyssa
+      Marmaricis leæ pavit antris,
+  Seu te maligno sidere degener
+  Pardus maritâ tigride prodidit,
+    Furoris hæredem paterni;
+      Sive gregis populator Afri
+  Nudum sub alto destituit jugo;
+  Seu belluosis fluctibus exspuit
+    Irata tempestas nocentem
+      Alitibusq; ferisq; prædam;
+
+      Thou Cursed off-spring of that sacred place!
+      Thou fatall monster of prodigious race!
+      A Libyan Lyonesse in some Affrick den
+      Gave nourishment to thee, thou shame of men.
+      Or mungrill Libard with a shee-Tiger, hurl’d
+      Thee, with a mischiefe, into th’hatefull world,
+      Heyre to the fury of thy Syre, and damm;
+      Or some wild Wolfe left thee a naked shame:
+      Under a huge hard rock: some angry storme,
+      From waves, with things so full of divers forme,
+      For birds and beasts, spew’d th’up a banefull prey;
+
+  Tuo severas pectore marmora
+  Duxêre venas, marmora rupibus
+    Decisa, quas Gætula cælebs
+      Deucalio super arva iecit:
+  Te sede primum livida regiâ
+  Megæra fixit: Tisiphone dedit
+    Sceptrum cruentandum feraq;
+      Imposuit Diadema fronti; &
+  Regale nuper cum premeres ebur
+  Adsedit altis fulta curulibus,
+    Et per Palæstinos Tyrannis
+      Explicuit sua signa campos.
+
+      The Marble quarry, ’mid’st the raging Sea,
+      It’s rigid veynes, from thy rough bosome drew;
+      Marble, from those rocks hewne, _Deucalion_ threw
+      Over _Gætulian_ fields: _Megara_ first
+      Fix’d th’in thy regall seat, on thee accurst
+      Then _Tisiphon_ the Scepter did bestow,
+      And set the Diadem on thy savage brow:
+      And as thy princely Ivory, of late
+      Thou proudly lean’dst upon, close by thee sate
+      With stately columnes prop’d, fell tyrannie,
+      Her Ensignes, who through _Palestine_ let fly:
+
+  Tremensq; & atrum sanguine â manu
+  Telum coruscans secum Odia, & Minas,
+    Cædemque & insanos tumultus,
+      Funeraq; & populorum iniquas
+  Strages, & indignum excidium retrò
+  Lactantis ævi traxit, & inclyta
+    Regnorum, inexhaustasque longis
+      Cladibus evacuavit urbies.
+  Illam & parentum dira gementium
+  Lamenta, Questusque, & Gemitus retrò,
+    Luctusque vicatim secuti, &
+      Irriguis Lacrymæ catervis.
+
+      And her black sword with bloudy trembling hand
+      Did brandish round, when straight at her command
+      Hatreds, and strifes appear’d, murder and rage
+      The horrid ruine of the new-borne age,
+      Shee drew along; Tumultuous madness, all
+      The slaughter’d peoples unjust funerall:
+      Each famous kingdome, inexhausted towne
+      In a large streame of bloud by her, o’re-throwne.
+      Next followed Her, the plaints, and direfull grones
+      Of sighing parents, rob’d of their little ones,
+      Whole tydes of teares, sobs, and lamentings great
+      And mourning in each corner of the street.
+
+  Quòd si caducis decidit amnibus
+  Præsagus imber, quid pluvias sequi
+    Cunctantur ultrices procellæ,
+      Et volucrum strepitu quadrigarum
+  Incussus æther pigra tonitrua &
+  Immugientûm fulmina nubium
+    Compescit, indulgentque metæ
+      Aëriis vaga tela pennis?
+
+      But if this show’r, from this sad cause begun,
+      In too too narrow rivulets doth run;
+      Why doe revenging stormes so much delay
+      To back the rayne? what doth their fury stay?
+      Why doth the shaken sky with rustling noise
+      Of the Sun’s chariot, bridle in the voice
+      Of the slow thunder? why the lightning stop
+      From breaking through the clouds with hideous clap?
+      Those ayrie feather’d arrowes in the darke
+      That stray, why do they spare their cursed marke?
+
+  At nil trisulcis Acroceraunia
+  Dejecta flammis, nil Rhodopes jugum,
+    Quassæve peccavêre Cautes
+      Aemathiæ, risi forté dirum
+  Inominatis marmora partubus
+  Fudêre monstrum: rumpite, rumpite
+    Monteisque, facundasque Regum
+      Fulmina præcipitate rupeis.
+
+      _Acroceraunia_ with his three-fork’d flame.
+      And that huge Hill the Thracian Queen gave name,
+      _Æmathia’s_ craggy trembling rocks may passe
+      Guiltlesse; they have not sin’d at all, alasse!
+      Unlesse their Marble, with a prodigious birth,
+      This direfull Monster teem’d, t’infest the earth:
+      Breake then the mountaines, break yee lightnings,
+      Throw headlong downe ye fruitfull rocks of Kings.
+
+  Exspiret auras; occidat, occidat
+  Funestus, execrabilis, efferus
+    Sector; crematuramque taxum
+      Ipse super cumulumque regni
+  Summum cadaver fumet, & aëra
+  Cælumque diro liberet halitu
+    Fatale monstrum, dissidentûm
+      Ludibrium Furiarum, & Orci.
+
+      May hee exspire! oh may the murth’rer fall!
+      Most execrable, cruell, tragicall!
+      Upon his kingdom’s pile, and flaming yew
+      Let his high carkasse blaze; the ayre anew
+      May th’ monster purge from his infectious breath,
+      The mocke of wrangling furyes, and of death.
+
+  Perrumpe tractus impenetrabileis
+  Ignava tellus, desuper arduâ
+    Volvente saxorum ruinâ:
+      Quam pelagus super, & refusis
+  Bis terque Nereus Syrtibus insonet.
+  Audimur. Ingens sidera verberat,
+    Spumamque, limumque, & rapaceis
+      Oceanus glomeravit undas:
+
+      Oh breake your entrayles, sluggish earth, and downe
+      Let the high ruins of the rocks be throwne;
+      ’Gainst which the waves o’th’raging Sea may rore
+      And _Nereus_ with his Quicksands Boyling o’re:
+      Wee’re heard. The climbing surges strike the stars
+      And the big Ocean all her strength prepares;
+      Her foame, and slimy mud sh’hath heap’d together
+      Devouring waves toss’d with the worst of weather:
+
+  Jam nutat æther, jam barathrum propé,
+  Vastisque campi dissidiis hiant:
+    Jam fractus illabetur orbis
+      Sacrilego capiti. i, profunda
+  Inexpiato pollue Tartara
+  Tyranni leto: solus & igneum
+    Insume Cocytum, & frementem
+      Sulphureis Acheronta ripis.
+
+      The firmament doth shake, & Hell so neere
+      Through the earths large chinks, which gapeth doth appear:
+      The shatt’red world now falls on’s impious head,
+      Goe, Tyrant with thy death unpardoned,
+      Even Hell it selfe pollute, possesse, alone,
+      _Cocytus_, and sulphureous _Acheron_.
+
+
+
+
+  Ex sacro Salomonis Epithalamio.
+
+    Fulcite me floribus, &c.
+
+    Adiuro vos, filiæ Jerusalem, ne suscitetis, &c.
+    Ecce iste venit, saliens in montibus, transiliens colles, &c.
+
+  ODE 25. LIB. 2.
+
+      Out of _Solomons_ sacred Marriage Song, Cant. 2.
+
+        _Stay me with flagons, &c._
+        _I charge O yee daughters of _Jerusalem_, that yee stirre
+        not up, nor wake, &c._
+        _Behold hee commeth leaping upon the Mountaines &c._
+
+      ODE 25. LIB. 2.
+
+  Me stipate rosariis,
+    Me fulcite crocis, me violariis,
+  Me vallate Cydoniis,
+    Me canis, sociæ, spargite liliis:
+  Nam visi mora Numinis
+    Mî sacris animam torret in ignibus.
+  Vos ô, vos ego filiæ
+    Cælestis Solymæ; vos Galaditides,
+  Vos ô per capreas ego
+    Errantesq; jugis hinnuleos precor,
+  Antiqui genus Isaci,
+    Quæ saltus Libani, quæ viridem vago
+  Carmelum pede visitis,
+    Nymphæ nobilium gloria montium:
+
+      Stay mee with saffron, underneath me set
+        Full banks of Roses, beds of violet;
+      Refresh mee with the choicest fruit, and spread
+        The whitest Lillies round about my head:
+      For the delay of the seene-pow’re divine
+        In sacred flames, consumes this breast of mine.
+      Yee Daughters of that holy Citie, yee!
+        Yee Sisters! I, ’tis I, that humbly pray!
+      O, I, intreat you, by each Hind, and Roe,
+        That straying o’re the tops of Hills doe goe,
+      Yee stock of ancient _Isaac_, yee that move
+        With nimble foot through _Lebanus_ sweet grove,
+      O’re _Carmels_ fragrant top! yee Nymphs so faire
+        The glory of the noble Hills that are,
+
+  Ne vexate tenacibus
+    Acclinem violis: neu strepitu pedum,
+  Neu plausæ sonitu manus
+    Pacem solliciti rumpite somnii:
+  Donec sponsa suo leves
+    Somnos ex oculis pollice terserit:
+  Donec Lucifer aureus
+    Rerum paciferum ruperit otium.
+
+      Molest not my beloved with your cryes,
+        Amongst the twining Violets that lyes:
+      Doe not with claps of hands, or noise of feet,
+        Awake her, from her carefull slumbers yet:
+      Untill my Spouse, of her owne selfe, shall rise
+        And wipe away the soft sleep, from her eyes;
+      Untill the golden day-starre shall release
+        All things from silent rest, and gentle peace.
+
+  Summis ecce venit jugis
+    Formosæ soboles matris, & unica
+  Formosi soboles patris:
+    Silvarumq; super colla comantium,
+  Et intonsum Libani caput,
+    Magnorumq; salit terga cacuminum, ac
+  Proceras nemorum domos
+    Prono transiliens præterit impetu:
+  Veloci similis capræ
+    Qua visis humili in valle leonibus,
+  Per prærupta, per ardua
+    Sublimi volucris fertur anhelitu.
+
+      Behold from tops of yonder hills doth come
+        The blessed off-spring of’s faire mothers womb,
+      The only issue of’s bright father too,
+        On the thick tops o’th’ groves doth leaping goe,
+      The unshorne head of _Lebanus_ so hye
+        Hee leaps, and the great backs of Mountaines by,
+      The stately dwellings of the woods hee skips,
+        And down again with nimble foot hee trips:
+      Like to a frighted, and swift running Roe.
+        Beholding Lions in a vale below,
+      With an amazed haste, and deep fetch’d breath
+        Through uncouth places runs t’escape his death.
+
+
+
+
+  Ad Egnatium Nollium.
+
+  Æquo semper rectoq; animo, adversus fortunæ inconstantiam
+  standum esse.
+
+  _Ode 4. Lib. 3._
+
+      To _Egnatius Nollius_.
+
+      _That we ought to be of an even and upright mind, against
+      the inconstancy of fortune._
+
+      _Ode 4. Lib. 3._
+
+  Sive te molli vehet aura vento,
+  Sive non planis agitabit undis,
+  Vince Fortunam, dubiasque _Nolli_,
+        Lude per artes.
+  Riserit? vultum generosus aufer.
+  Fleverit? dulci refer ora risu:
+  Solus, & semper tum esse quovis
+        Disce tumultu.
+  Ipse te clausus modereris urbem
+  Consul aut Cæsar; quoties minantûm
+  Turba fatorum quatient serenam
+        Pectoris arcem.
+
+      Art thou blow’n on, with gentle gale,
+      Or in rough waters forc’d to sayle?
+      Still conquer Fortune, make but sports
+      Of her, and her uncertain Arts.
+      Laughs shee? turne bravely away thy face.
+      Weeps shee? bring’t back, with smiling grace:
+      When shee’s most busie, be thou than
+      Retyr’d, and alwayes thine own man.
+      Thus close shut up, thine owne free state
+      Thou best mayst rule, chiefe Magistrate;
+      When the fierce Fates shall most molest,
+      The serene palace of thy brest.
+
+  Cum leves visent tua tecta casus,
+  Lætus occurres: præeunte luctu
+  Faustitas & pax subeunt eosdem
+        Sæpe Penates.
+  Dextra sors omnis gerit hoc sinistrum,
+  Quòd facit molleis: habet hoc sinistra
+  Prosperum, quem nunc ferit, imminenteis
+        Durat in ictus.
+  Ille qui longus fuit, esse magnus
+  Desinit mœror, facilem ferendo
+  Finge Fortunam; levis esse longo
+        Discit ab usu.
+
+      When light mischance, thy fort, or thee
+      Shall visit; meet it merrily:
+      Good luck, and peace, in that house stay
+      Where mourning, first, hath led the way.
+      In dext’rous chance, this hurt we see,
+      It makes us soft: Extremity--
+      This, prosperous hath, wheresoe’re it hits,
+      It hardens, and for danger fits.
+      The griefe that hath been of such length,
+      Doth ’bate its violence and strength.
+      By bearing much, make fortune frees
+      Shee learnes, by custome, light to be.
+
+
+
+
+  Ad Marcum Silicernium.
+
+  Veras esse divitias, quæ à bonis animi petuntur.
+
+  _Ode 6. Lib. 3._
+
+  Nunquam præcipiti credulus aleæ
+  Cum Fatis avidas composui manus,
+  Ut mecum taciti fœdere prælii
+        Aequâ pace quiescerent.
+  Quid Fortuna ferat crastina, nesciam,
+  Hæres ipse neci. Quas dedit, auferet,
+  Non avellet opes, quæ procul extime
+        Semotæ spatio jacent.
+  Quæ possunt adimi, non mea credidi;
+  Nunquam pauperior, si mens integer.
+  Regnum, _Marce_, mei si benè de meis
+        Vectigalia censibus--
+  Intra me numerem. Pars animi latet
+  Ingens, divitibus lætior Indiis,
+  Quo non ter spatio longiùs annuo
+        Itur navibus, aut equis.
+  Sed mens assiduum visitur in diem
+  Hospes sæpe sui; non ebur, aut novas
+  Mercatura dapes, ipsa sui satis
+        Dives, si sibi cernitur.
+
+
+      To Marcus Silicernius.
+
+      _That those are the true riches which are fetch’d
+      from the goods of the mind._
+
+      _Ode 6. lib. 3._
+
+      A rash believer of their ticklish play,
+        With Fates, I ne’re joyn’d greedy hands in hast.
+      From the strict course of private jarres, that they
+        With mee, in such an equall peace should rest.
+      I know not what to morrow’s fortune brings
+        Heire to my selfe alone. The wealth she gave
+      Lyes in my outmost roomes, ’mongst worst of things;
+        Which, without force, she may for taking have.
+      Things can be ta’ne away, I ne’re thought mine;
+        Not poorer I, if mine owne selfe compleat.
+      I kingdome, _Marcus_, of my selfe I find
+        If the great custome of mine owne estate--
+      Within me I could in just numbers cast.
+        A great part of my mind lyes close, more wide
+      Then the rich Indyes are, to which at most
+        But thrice a yeare, we can but sayle or ride.
+      But my rich mind, oft to it selfe a guest,
+        By its owne selfe is daily visited;
+      Not ’bout to buy Toyes for a roome, or feast,
+        If of its selfe it’s seen, it’s richly fed.
+
+
+
+
+  _Ad Aurelium Fuscum._
+
+  Omnia humana Caduca, incertaque esse.
+
+  _Ode 12. Lib. 3._
+
+  Si primum vacuis demere corticem
+  Rebus. _Fusce_, velis, cetera diffluunt
+  Vernæ more nivis, quæ modò nubium
+        Leni tabuit halitu.
+  Formosis reseces fortia; displicent.
+  Externis trahimur; si malè Dardanis
+  Respondens Helenæ pectus amoribus
+        Famosus videat Paris;
+  Nusquam per medii prælia Nerei
+  Ventorumque minas splendida deferat
+  Graii furta thori sed benè mutuo
+        Rerum consuluit jugo
+  Naturæ Dominus, quòd niveis nigra,
+  Lætis occuluit tristia. Qui bona
+  Rerum de vario deliget agmine,
+        Consulto sapiet Deo.
+
+
+      To _Aurelius Fuscus_.
+
+      _That all humane things are fraile and uncertaine._
+
+      Ode 12. Lib. 3.
+
+      If the first barke, _Fuscus_, thou would’st but pare
+          From empty things, the rest will flow,
+          And vanish quite like vernal snow;
+      Which melts away, with the mild breath o’th’ ayre.
+      Valour from beauty sever’d, slowly moves.
+          Meere outsides please: had _Paris_ seene
+          Faire _Helens_ heart, how foule ’t had beene,
+      How ill requiting to the _Trojan_ Loves,
+      Ne’re, through the midst of _Nereus_ broyles, had hee
+          Or the winds anger, borne away
+          O’th’ Grecian bed that beauteous prey.
+      But Nature’s Lord, the mutuall yoke, we see,
+      Of things hath ord’red well, that black with white,
+          Sad things with joyfull cov’red lye.
+          And from this various mixture, hee
+      The best would choose, from Heav’n must learne the right.
+
+
+
+
+  _Ad Cæsarem Pausilipium._
+
+  Regnum sapientis.
+
+  _Ode 3. Lib. 4._
+
+      To Cæsar Pausilipius.
+
+      _The kingdome of a wise man._
+
+      _Ode 3. Lib. 4._
+
+  Latè minaces horruimus Lethi
+  Regnare Thracas. Latius imperat,
+    Qui solus, exemptusque vulgo
+      Certa sui tenet arma voti.
+  Imbelle pectus parce fidelibus
+  Munire parmis; neu latus aspero
+    Lorica cinctu, neu decorum
+      Arcus amet pharetraque collum.
+
+      The large-commanding Thracians wee
+      Have fear’d. More large command hath hee,
+      Who all alone himselfe retyres,
+      And keepes sure guard o’re his desires.
+      Thy unwarlike breast, with shield of proofe
+      Forbeare to fortifie; throw off
+      From thy unpractic’d sides the shirt
+      Of Mayle, so hard about thee girt.
+      Let not the Quiver and the bow
+      Such homage to thy soft neck doe.
+
+  An Cimber, an te lectus ab ultimis
+  Pictus Britannis ambiat, an Geta,
+    Nil allabores; ipse miles,
+      Ipse tibi pugil, ipse Ductor.
+  Exile regnum, _Pausilipi_, sumus:
+  Sed se obsequentem qui sibi subdidit,
+    Hic grande fecit, si suasmet
+      Ipse roget peragatque leges.
+
+      Whether’t bee _Dane_, or _Pict_, ta’ne out
+      From farthest _Brittaine_, hems th’about
+      Or _Goth_, ne’re labour much to know
+      Thine owne Commander, Champion too.
+      Wee are--’tis true a kingdome small;
+      But, _Pausilipius_, hee that shall
+      His flatt’ring selfe, t’ himselfe subdue,
+      A businesse great doth undergoe;
+      If his owne lawes hee can perswade,
+      And doth performe them being made,
+
+  Armata Regem non faciet cohors,
+  Non tincta vulgi purpura sanguine,
+    Aut nobili stellatus auro
+      Frontis apex, teretique gemmâ.
+  Rex est, profanos qui domuit metus:
+  Qui cùm stat unus, castra sibi facit;
+    Casumq; fortunamque pulchro
+      Provocat assiduus duello.
+
+      An host, makes no Kings title good,
+      Nor Robes deepe dy’d in peoples blood.
+      A high brow set with starrs of gold,
+      Or Jems more glorious to behold.
+      Hee who hath tam’d all coward feares,
+      And his owne Guard himselfe prepares,
+      Who practic’d, in faire combate, first
+      Dares Chance and Fortune do their worst;
+
+  Non ille vultum fingit ad improbi
+  Decreta vulgi, non popularia
+    Theatra, non illum trophæa,
+      Non volucri movet aura plausu.
+  Beatus, à quo non humilem gravis
+  Fortuna vocem, non tumidam levis
+    Expressit umquam curiosis
+      Dum tacitus premit ora fatis.
+
+      That man’s a King. Hee doth not faine
+      His lookes to th’ votes o’th’ vulgar straine,
+      The popular stage, and publike showes
+      Ne’re moves him, nor the ayre that blowes
+      With swift applause; Hee’s blest whose sprite
+      Fall Fortune sad, or fall she light,
+      Hath ne’re exprest, to th’standers by,
+      A low complaint, or haughty cry;
+      But, lest the curious Fates displease--
+      Hee should, holds modestly his peace.
+
+  Ad prima si quis vulnera non gemit,
+  Solo peregit bella silentio:
+    Celare qui novit sinistros,
+      Ille potest benè ferre casus.
+  Ille, & caducis se licet undi;
+  Suspendat auris pontus, & in caput
+    Unius & flammas, & undam, &
+      Vertat agens maria omnia Auster,
+  Rerum ruinas, mentis ab arduà
+  Sublimis aulà, non sine gaudio
+    Spectabit, & latè ruenti
+      Subjiciens sua collo cælo
+
+      At’s first wounds, who nor grones, nor quakes,
+      A Conquest with his silence makes:
+      Hee that mischance knowes how to hide,
+      The worst of ills, can best abide.
+      Hee, though the Sea should every where
+      Hang up its waves i’th’ flitting ayre;
+      And the rough winds on him, should presse
+      Flames mix’d with billowes, nay whole Seas,
+      From the high Court of’s lofty mind
+      I’th’ midst o’th’ ruine, sport can find;
+      Sets to his neck to th’ falling skye,
+
+  Mundum decoro vulnere fulciet;
+  Interq; cæli fragmina, lugubre
+    Telluris insistet sepulchrum, ac
+      Incolumis morientis ævi
+  Heres, ab alto prospiciet, magis
+  Hæc magnæ quam sint quæ pedibus premit,
+    Quàm quæ relinquet; jam tum Olympi
+      Non dubius moriturus hospes.
+
+      And props the world most valiantly:
+      To the now gasping Age safe heyre,
+      Leans on the Earth’s sad sepulchre,
+      Whence, ’midst the fragments of the skye,
+      Hee sees most clearly from on hye,
+      How much more great those things appeare,
+      Hee treads on, then indeed they are,
+      Being then prepar’d, and ready drest
+      To dye _Olympus_ certaine guest.
+
+  Quò cùm volentem fata reduxerint,
+  Nil interest, an morbus, an hosticus
+    Impellat ensis, quò supremum
+      Urget itur. Semel advehemur
+  Quam navigamus semper in insulam
+  Seu lata magnis stravimus æquora
+    Regis carinis; seu Quirites,
+      Exiguâ vehimur phaselo.
+  Illo beatum margine me meus
+  Exponat asser. Cur ego sistere
+    Aeterno reformidens quietus
+      Littore, si peritura linquam?
+
+      Where, when by th’ Fates hee’s gladly brought,
+      Whether disease, it matter’s not,
+      Or enemies sword, doth thrust him on,
+      When his last journey he must run.
+      To th’ Port wee are but once brought in
+      To which w’have alwayes sayling bin:
+      Whether, as mighty Princes, wee
+      In gallant ships have spread the Sea;
+      Or, as the common sort of men,
+      In smaller Barks, have carryed been.
+      May my poore bottome to that brinke
+      Mee happy bring; why should I shrinke--
+      Safe on th’Aeternall shore to stand,
+      If with such trash I can shake hand?
+
+
+
+
+  _Ad Q. Delliam._
+
+  Non tam populari exemplo, quâm potius rationis ductu
+  vitam esse instituendam.
+
+  _Ode 10. Lib. 4._
+
+      To Q. Dellius.
+
+      _That our life ought not to bee instituted so much by
+      popular example, as by the guiding of reason._
+
+      _Ode 10. Lib. 4._
+
+  Delli, si populo duce
+    Vita degenerem carpimus orbitam,
+  Erramus, procul arduis
+    Virtus se nimium seposuit jugis.
+  Illuc quò via tritior,
+    Hoc est certa minùs. Longus inutili
+  Error nectitur ordine:
+    Et mores populum, non ratio trahit.
+
+      Wee erre (my _Dellius_) if wee take
+        That baser path of life, the people make;
+      In highest and remotest Hills
+        Vertue sequesters up her selfe, and dwells.
+      There where the way more beaten lyes,
+        Lesse certaine, and more slipp’ry alwayes ’tis.
+      From fruitlesse order, errours grow;
+        Custome, not reason, drawes the people now.
+
+  Casu vivitur, & viam
+    Non metam premimus, quà præeuntium
+  Per vestigia civium
+    Insanæ strepitus plebis, & improbæ
+  Voces invidiæ vocant.
+    Exemplis trahimur & trahimus retrò,
+  Soli nemo sibi est malus,
+    Nulli vita sua est: dum vaga postero
+  Tubam turba premit gradu,
+    Sunt primi exitio sæpè sequentibus.
+
+      Men live by Chance, our time we spend
+        I’th’ way, like Truants, and forget the end,
+      Where ’mid’st the throng of passers by,
+        The noyse of the mad rout, the hatefull cry
+      Of envy, calls, wee’re drawne amaine
+        B’example; others wee draw back againe;
+      No man is ill to himselfe alone,
+        Nor no mans life is onely call’d his owne.
+      Whil’st that the rambling rout treads o’re
+        With after steps, the heeles of them before,
+      They that goe formost are design’d
+        A mischiefe oft to those that come behind.
+
+  Me Parnassus & integer
+    Plebeiis Helicon cætibus eripit
+  Sublimem; undè vagantium
+    Errores animorum, & malè desidis
+  Vulgi damna patent. juvat
+    Ex alto intrepidum colle jacentià
+  Despectare pericula, &
+    Cantum non propriis vivere casibus.
+
+      _Pernassus_, and chaste _Helicon_
+        Sublimes and takes mee from the vulgar throng:
+      From whence, the false mistakes I view
+        And wandring mindes of the too slothfull crew;
+      And from on hye I fearelesse see,
+        With sport, the dangers that below me lye;
+      Thus warily with joy I live,
+        And by, other mens mischances I can thrive.
+
+
+
+
+  _Ad Sigismundum Lætum._
+
+  Gloriæ inanis despicientiam & silentium commendat.
+
+  Ode 11. l. 4.
+
+      To Sigismundus Lætus.
+
+      _Hee Commends the despising of vaine-glory, and silence._
+
+      Od. 11. Lib. 4.
+
+  Læte, quid cassis sequimur fugacem
+  Gloriam telis? fugit illa Mauri
+  More, vel Parthi, regeritque ab ipso
+        Vulnera tergo.
+  Hospes unius negat esse tecti
+  Garrulus vulgi favor: hîc inani
+  Aure rumores legit, inde veris
+        Falsa remiscet.
+
+      Why fleeting glory follow wee,
+        _Lætus_, with weapons all in vaine?
+      When like a Moore, or Parthian, shee
+        Flyes at her backe with wounded Trayne.
+      The Talking-peoples love, denyes
+        Under one roofe a guest to fix:
+      With’s empty care, one takes up lyes,
+        And them with truths, doth subt’ly mix,
+
+  Hîc velut nidum positurus hæsit,
+  Mox ubi vano vacuum tumultu
+  Pectus illusit, tacitis in altum
+        Subsilit alis,
+  Vera laus sciri fugit. ipse pulcher
+  Se suâ Titan prohibet videri
+  Luce: qui totus potuit latere,
+        Major habetur.
+
+      Another sticks, and thinkes to build
+        His nest: but when he plainly sees
+      His empty breast with noise beguild,
+        Aloft with silent wings, hee flees.
+      True praise would not be knowne; the Sun
+        Forbids from being seen below
+      By his own light: and hee that can
+        Ecclipse himselfe, doth brighter show.
+
+  Qui premit sacram taciturnitate
+  Pectoris gazam; benè non silenti
+  Tutus in vulgo benè suspicaci
+        Regnat in aulâ.
+  Præterit mutas benè cymba ripas;
+  Quæ simul raucis strepuêre saxis,
+  In latus cautam sapiens memento
+        Avertere proram.
+
+      Hee that in silence, of his mind
+        The sacred Treasury containes;
+      Safety i’th’ vulgar noyse doth find:
+        In’s doubtfull Court, and wisely raignes.
+      Still banks thy Pinnace well may passe.
+        But when with hoarse rocks they do roare,
+      Remember wisely to forecast
+        And turn’t aside with wary Oare.
+
+
+
+
+  _Ad Ianum Libinium._
+
+  Solitudinem suam excusat.
+
+  _Ode 12. Lib 4._
+
+      To Ianus Libinius.
+
+      _Hee excuses his retyrednesse._
+
+      _Ode 12. Lib. 4._
+
+  Quid me latentem sub tenui lare
+  Dudum moretur, cùm mihi civium
+    Amica certatim patescant
+      Atria, sæpe rogas _Libini_.
+  Me plenus, extra quid cupiam? meo
+  In memet ipsum clausus ab ostio,
+    In se recedentis reviso
+      Scenam animi vacuumq; relustro
+  Vitæ theatrum, sollicitus mei
+  Spectator, an quæ fabula prodii
+    Matura procedam, & supremo
+      Numinis excipienda plausu.
+  Omnes recenset numen, & approbat
+  Vel culpat actus: quo mea judice
+    Si scena non levè peracta est,
+      Sim populo sine teste felix.
+
+      What ’tis detaines me here, and why--
+      I hide my selfe from every eye.
+      How in so poore a house I spend
+      My houres, y’have often ask’d me, friend;
+      When the free Courts of free-borne men,
+      Fall out, which first shall let me in.
+      I enjoy my selfe, what need I more?
+      Of every sense I lock the dore;
+      And close shut up, a taske I find
+      In the retyring house o’th’ mind:
+      The Theatre of my life I view
+      My owne spectator and iudge too--
+      Whether the tale I first begun
+      In well digested Acts I’ue spun;
+      In every scene, if every clause
+      Goes neatly off, with heav’ns applause:
+      Each Action scan’d, is there set free
+      Or sentenc’d by authoritie--
+      If there, with _well Done_ I escape,
+      I’me blest without the peoples clap.
+
+  Odi loquacis compita gloriæ
+  Plebeia: quam cùm fama faventibus
+    Evexit auris, sæpe misso
+      Invidiæ stimulata telo,
+  Aut invidentûm territa vocibus,
+  Parùm obstinatis & malè fortibus
+    Dimittit alis. Illa nudam
+      Plangit humum, lacerosq; saxis
+  Affligit artus. Me meliùs tegat
+  Privata virtus, & popularia
+    Numquam volaturum per ora
+      Celet iners sine laude tectum.
+  Semota laudem si meruit, vetat
+  Audire virtus. tutiùs invidi
+    Longinqua miramur: propinquis
+      Lævus amat comes ire Livor.
+
+      I hate the common road of praise,
+      Or what the gaping vulgar raise,
+      Which with a pleasant gale a while
+      Fame hurries, but doth soone beguile:
+      Now Envie’s sting it feeles, ere long
+      Th’Artillery of some spightfull tongue:
+      Thus chac’d, with weak’ned wings it dyes;
+      Or torne, on the bare ground it lyes.
+      A private fame, a meane house, where
+      I live conceal’d from popular ayre,
+      Best fits my mind, and shelters me:
+      Vertue t’her owne praise deafe should be.
+      Our emulation, things a farre off command,
+      But Envy haunts things that are neere at hand.
+
+
+
+
+  _Ad Cæsarem Pausilippium._
+
+  Adversa constanti animo ferenda esse.
+
+  _Ode 13. Lib. 4._
+
+  Si quæ flent mala lugubres
+    Auferrent oculi, Sidoniisego
+  Mercarer benè lacrymas
+    Gemmis, aut teretum merce monilium,
+  At ceu rore seges viret,
+    Sic crescunt riguis tristia fletibus.
+  Urget lacryma lacrymam;
+    Fecundusq; sui se numerat Dolor.
+  Quem fortuna semel virum
+    Udo degenerem lumine viderit,
+  Illum sæpè ferit; mala
+    Terrentur tacito fatæ silentio.
+  Ne te, ne tua fleveris
+    Quæ tu, care, vocas, _Pausilipi_, mala,
+  Quam pellunt lacrymæ, fovent
+    Sortem: dura negant cedere mollibus.
+  Siccas si videat genas,
+    Duræ cedet hebes sors patientiæ.
+
+
+      To Cæsar Pausilippius.
+
+      _That adversity is to bee endured with a constant mind._
+
+      Ode 13. l. 4.
+
+      If mournfull eyes could but prevent
+      The evils they so much lament
+      Sidonian Pearles, or Gems more rare,
+      Would be too cheap for ev’ry teare.
+      But moyst’ned woes grow fresh, and new,
+      As Come besprinkled with the dew.
+      Teare followes teare, and fruitfull griefe
+      Hath from it selfe, its owne reliefe.
+      The man whom Fortune doth espy
+      With drooping spirit, and moyst’ned eye,
+      Shee, often strikes; ill Fate, amaine
+      Runs Scarr’d no notice being ta’ne.
+      Bewayle not then thy selfe, deare friend,
+      Or evills that on thee attend;
+      What they expell, teares cherish oft;
+      Hard things deny to yeild to soft.
+      Mischance is conquered, when she spies
+      A valiant patience with dry eyes.
+
+
+
+
+  _Ad Crispum Lævinium._
+
+  Rogatus cur sæpè per viam caneret, respondet.
+
+  _Ode 44. Lib 4._
+
+      To Crispus Lævinius.
+
+      _Being asked why hee sung so often as hee travailed,
+      hee answers._
+
+      _Ode 44. Lib. 4._
+
+  Cum meam nullis humeros onustus
+  Sarcinis tecum patriam reviso
+  Lætus, & parvo mihi cumque dives
+        Canto viator.
+  Tu siles mœstùm: tibi cura Musas
+  Demit, & multi grave pondus auri.
+  Quæque te quondam male fida rerum
+        Turba relinquet.
+  Dives est qui nil habet; illa tantùm
+  Quæ potest certâ retinere dextrâ,
+  Seque fert secum vaga quò, migrare
+        Jussit egestas.
+
+      As cheerefully I walke with thee,
+      My shoulders from all burdens free.
+      Our native soyle again to see
+            Rich to my selfe I sing,
+      Whil’st care strikes thee, and thy Muse dumb,
+      The heavy weight of thy vast summe,
+      Or what estate in time to come
+            The faithlesse rout may bring.
+      Hee’s rich that nothing hath; Hee that
+      In’s certaine hand holds his estate,
+      That makes himselfe his constant mate
+            Where need commands him go;
+
+  Quid mihi, qui nil cupiam, deesse
+  Possit? umbro si placet una _Pindi_
+  Vallis: ô sacrum nemus, ô jocosa
+        Rura Camœna!
+  Quæ meos poscet via cunq; gressus,
+  Delphici mecum, mea regna, colles
+  Itis, & fessum comitante circum-
+        Sistitis umbrâ.
+  Me Gothus sævis religet catenis,
+  Me Scythes captum rapiat; solutâ
+  Mente, vobiscum potero tremendos
+        Visere Reges.
+
+      What can I want, that nought desire?
+      Then _Pindus_ vale, I reach no higher:
+      O sacred Grove! O pleasant quire
+            In those coole shades below!
+      What paths soe’re my steps invite
+      Ye Delphian hills, my sole delight
+      Doe goe with mee; in weary plight,
+            And veyle me with good grace.
+      Let th’_Goth_ his strongest chaines prepare,
+      The _Scythian_ hence mee captive teare,
+      My mind being free with you, I’le stare
+            The Tyrants in the face.
+
+
+
+
+  _Ad Munatium._
+
+  Nihil in rebus humanis non tædio plenum esse.
+
+  _Ode 15. Lib. 4._
+
+      To Munatius.
+
+      _That nothing in humane affaires is not full of tediousnesse._
+
+      Ode 15. l. 4.
+
+  Nil est, _Munati_, nil, iterùm canam,
+  Mortale, nil est, immedicabilis
+    Immune tædî. Clarus olim
+      Sol proavis atavisque nobis,
+  Parùm salubris, nec maculâ reus
+  Damnatur unâ; quicquid in arduo
+    Immortale mortales _Olympo_
+      Vidimus, invidiæ caducâ
+  Fuscamus umbrâ. non placet incolis
+  Qui Sol avitis exoritur jugis;
+    Aut prisca quæ dudum paternam
+      Luna ferit radiis fenestram.
+
+      Nothing _Munatius_, nothing I sing’t againe,
+      That’s mortall, nothing from th’uncured paine
+          Of tediousnesse is free. The Sun
+          Which bright to our forefathers shone
+      To us, but little healthfull, doth appeare,
+      And though not guilty of one spott, not cleare:
+          Whatsoe’re immortall thing we see
+          In high _Olympus_, silly wee
+      Doe over-cast with Envy’s shade; here one
+      From his owne native Hills the rising Sun.
+          Disclaimes; or th’ancient Moone, that strikes
+          Her beames through’s fathers glasse, dislikes.
+
+  Cælo quotannis, & patriis leves
+  Migramus arvis; hunc tepidæ vocant
+    Brumæ Batavorum, huic aprici
+      Ausoniæ placuêre soles.
+  Frustrà; fideles si dominum retrò
+  Morbi sequuntur, nec tacitus Dolor
+    Absistit, aut Veiente curru,
+      Aut Venetâ comes ire cymbâ.
+
+      Each yeare we change our ayre, and soyle, so light;
+      Him, _Hollands_ warmer Climate doth invite:
+          Another differs, and doth cry
+          _Ausonia_’s clearer Suns please mee.
+      In vaine all this, if faithfull sicknesses
+      Wait close behind; if secret griefes ne’re cease,
+          All’s one, whether in Chariot
+          Thou goest, or in Venetian boat.
+
+  Tandemque nobis exulibus placent
+  Relicta; certam cui posuit domum
+    Virtus, huic nunquam paternæ
+      Fumus erit lacrymosus aulæ.
+  Virtus agresti dives in otio
+  Sese ipsa claudit finibus in suis
+    Plerumque, & insonti quietum
+      In paleâ solium reclinat.
+
+      Poore exiles! then, things left doe please us most,
+      Who a sure building can from vertue boast,
+          To him the smoke of’s father’s Hall
+          Doth never hurt his eyes at all.
+      Vertue oft-times, rich in a rustick ease
+      Confines her selfe to her owne private blisse;
+          And in the guiltlesse straw, her throne
+          With great delight can leane upon.
+
+
+
+
+  Ad Iesum Opt. Max.
+
+  Ex sacro Salomonis Epithalamio.
+
+    _Indica mihi quem diligit anima mea, ubi pascas,
+    ubi cubes in meridie._
+
+  Ode 19. Lib. 4.
+
+  Dicebas abiens: Sponsa vale; simul
+  Vicisti liquidis nubila passibus.
+    Longam ducis, Jesu,
+      In desideriis moram.
+  Ardet iam medio summa dies polo,
+  Jam parcit segeti messor, & algidas
+    Pastor cum grege valleis,
+      Et picta volucres petunt.
+  At te quæ tacitis destinet otiis
+  O Jesu regio? quis mihi te locus
+    Cæcis invidet umbris,
+      Aut spissâ nemorum coma?
+  Scirem quo jaceas cespite languidus,
+  Quis ventus gracili præflet anhelitu,
+    Quis rivus tibi grato
+      Somnum prætereat sono;
+  Ah! nè te nimio murmure suscitent
+  Nostræ diluerent flumina lacrymæ,
+    Et suspiria crudis
+      Miscerentur Etesiis.
+
+
+      Out of _Solomon_’s sacred Marriage Song.
+
+        CHAP. 1. 7.
+        _Tell mee (ô thou whom my soule loveth) where thou feedest,
+        where thou makest thy flocks to rest at noone, &c._
+        παραφραστικῶς
+
+      Od. 19. Lib. 4.
+
+      Thou said’st, farewell my Spouse, & went’st away
+      More fleet then Clouds with liquid paces stray:
+        Oh what a longing, Jesu thus
+          With thy delay thou mak’st in us?
+      ’Tis now high noone, the scorching Sun doth burne
+      I’th’ mid’st o’th’ pole, the mower spares the corne,
+        The Shepheard, with his flocks, is glad--
+          And painted birds, to seeke coole shade.
+      But Jesu! where art thou? what region’s blest
+      By holding thee so long in silent rest?
+        What darksome shade denyes my love?
+          Or with thick boughs what shady Grove?
+      Knew I on what green Turfe thou dost repose
+      Thy fainting limbs; what wind with soft breath blowes’
+        What streame, with bubling, passing by
+          Disturbs thy sleep, or wakens thee;
+      Oh! lest the too much noise should raise thee, I
+      Would let fall streams of teares should qualifie;
+        My warmer sighes thou mix’d should’st find
+          With the cold blasts o’th’Easterne wind.
+
+
+
+
+  _Ex sacro Salomonis Epithalamio._
+
+    En dilectus meus loquitur mihi: Surge, propera amica mea,
+    columba mea, formosa mea, & veni. Iam enim hiems transiit,
+    imber abiit & recessit. &c.
+
+  _Ode 21. Lib. 4._
+
+      Out of _Salomon_’s sacred marriage song.
+
+        _My beloved spake and said unto mee, rise up my love,
+        my Dove, my faire one, and come away; for loe the winter
+        is past, the raine is over and gone: the flowers appeare
+        on the earth, the time of singing of birds is come,
+        and the voice of the Turtle is heard in our Land.
+        The fig tree putteth forth, &c._
+
+      _Ode 21. Lib. 4._
+
+  Fallor? an Elysii lævâ de parte Sereni
+      Me mea vita vocat!
+  Surge soror, pulchris innectito lora columbis;
+      Pulchrior ipsa super
+  Scande rotas, Libaniq; levem de vertice currum,
+      Has, age flecte domos.
+  Ad tua decidu fugiunt vestigia nimbi,
+      Turbidus imber abiît:
+  Ipsa sub innocuis mitescunt fulmina plantis,
+      Ipsa virescit hiems.
+
+      Do I mistake? or from Elyzium cleare
+          My life’s call doe I heare?
+      Sister arise, and harnesse thy sweet paire
+          Of Doves, thy selfe more faire;
+      Mount and drive hither, here let thy Chariot stop,
+          From _Libanus_ hye top;
+      At thy approach the falling showres doe fly,
+          Tempestuous stormes passe by,
+      The lightning’s quench’d under thy harmlesse feet,
+          Winter turnes Spring to see’t.
+
+  Interea sacris aperit se scena viretis
+      Sub pedibusq; tibi
+  Altera floret humus, alterq; vagantia lætus
+      Sidera pascit ager.
+  Hic etiam trepidi pendent è rupibus hædi,
+      Præcipitesq; capræ;
+  Hinnuleique suis, passim dum flumina tranant,
+      Luxuriantur aquis.
+
+      While in the sacred Green, a bow’re we see
+          Doth spread it selfe for thee.
+      The Earth new Turff’s it selfe for thee to tread,
+          The straying starrs fresh fields make glad.
+      Here with their dams, of Kids th’amazed flocks
+          Hang on steep sides of Rocks;
+      Here as they swim, the wanton Hinds do play
+          In the coole streames all day.
+
+  It Leo cum Pardo viridis de colle Saniri
+      Mitis uterque regi,
+  Cumque suo passim ludunt in montibus agno
+      Exsuperantque juga.
+  Plurimus hos circum tacito pede labitur amnis,
+      Pumicibusque cavis
+  Per violas lapsæ per declives hyacinthos,
+      Exspatiantur aquæ.
+
+      The Lion with the Libard downe is l’ed
+          Tame and well governed;
+      Each with his Lamb about the Mountaines skip,
+          O’re Hills they lightly trip.
+      By these a spacious brooke doth slowly glide,
+          Which with a spreading tyde
+      Through bending Lilyes, banks of Violets
+          From th’hollow Pumice sweats.
+
+  Lenè fluunt rivi, muscosis lenè susurrus
+      Murmurat è scopulis.
+  In vitrio pisces saliunt hilares crystallo,
+      Dulcè queruntur aves.
+  Nec verò, si mœsta placent saletia cælo
+      Flebile murmur abest:
+  Nam sibi dum vestro regemunt ex orbe palumbes,
+      Huc sonus ille venit.
+  Sic dum se viduo solatur Carmine turtur,
+      Gaudia nostra placent.
+
+      The rivers gently flow, and a still sound
+          From mossie Rocks doth bound.
+      The sporting fish dance in the christall Mayne,
+          The Birds sweetly complaine,
+      The ayre, if dolefull comforts please, doth ring
+          With mournfull murmuring.
+      For when the Doves eccho each others cry
+          That sound doth hither fly.
+      As they with widowed notes themselves do please,
+          Just so, our joyes increase.
+
+  Cetera non desunt, pronis vindemia pendet
+      Officiosa botris,
+  Hîc etiam vulgò violas, albentia vulgó
+      Ungue ligustra leges:
+  Ipsa tibi, leti succos oblita priores,
+      Mitia poma cadent:
+  Ipsæ maturâ labentur ab arbore ficus,
+      Percutientq; sinum.
+  Intereà falcem vindemia nescit, aratrum
+      Saucia nescit humus.
+  Ipsæ sponte virent segetes, innoxius ipse
+      Messibus albet ager.
+  Præbent Hospitium platani: præbet formosos
+      Graminis herba toros.
+
+      No want appeares; th’officious Vine doth stand
+          With bending clusters to our hand.
+      Here, thou shalt pick sweet Violets, and there
+          Fresh Lillyes all the yeare:
+      The Apple ripe drops from its stalke to thee,
+          From tast of death made free.
+      The luscious fruit from the full Figtree shall
+          Into thy bosome fall.
+      Meane while, the Vine no pruning knife doth know,
+          The wounded earth no plow.
+      The Corne growes green alone, and th’unhurt land
+          Doth white with harvest stand.
+      The grasse affords a stately bed, the Plane
+          Spreads thee to entertaine.
+
+  Cædua Pãchæos sudant opobalsama nimbos;
+      Et genialis odor
+  Aspirat quoties, nutantibus hinc atque illinc
+      Ingruit aura comit.
+  Surge; quid indignos ducis per tædia soles?
+      Surge, age, cara soror.
+  Ecce tuis ipsæ iam circum fræna columbæ
+      Ingemuêre moris.
+  Huc age, formosas formosior ipsa columbas
+      Hospita flecte furor.
+
+      Arabian mists sweat from the gummy tree
+          Of Balme, and all for thee;
+      Which through the ayre, a rich perfume doe throw,
+          Fann’d with each neighb’ring bough.
+      Arise my Sister deare, why dost thou stay,
+          And spend th’unwilling day?
+      Behold thy harness’d Doves, at thy delay
+          Doe sigh, come, drive away.
+      Put on, and hither drive thy beauteous paire
+          Of Doves, thy selfe more faire.
+
+
+
+
+  _Ad Ianussium Skuminum._
+
+  Cùm conjugi charissimæ justa persolveret.
+    παραφραστικῶς.
+
+  _Ode 30. Lib. 4._
+
+      To _Ianusius Skuminus_.
+
+      _When hee performed the Funerall obsequies of his
+      most deare Wife._
+        παραφραστικῶς.
+
+      Ode 30. Lib. 4.
+
+  Si tibi pollicitum numen, si fata fuissent
+      Æternos fere conjugis annos;
+  Jure per assiduos (procerum fortissime) fletus
+      Ereptam quererêre, _Janussi_.
+  Quem Pietas quem non moveat non tristibus unquam
+      Arx animi concussa procellis
+  Et pudor, & proni niveo de pectore sensus,
+      Et Regina modestia morum,
+  Aut bona sedulitas, aut non incauta futuri
+      Præsagæ solertia montis?
+
+       What though the Gods have promis’d she shall bee
+          Enfranchis’d to Eternity?
+      Yet (valiant Sir) so great a losse still cryes
+          For a just tribute from your eyes;
+      View but her pious mind, that tow’re of state
+          Not shaken by sad stownes of Fate,
+      Her humble innocent soule, her guiltlesse feare,
+          Her modesty chiefe Regent there;
+      The prudent thrift of her presaging mind
+          Her constant zeale, pure and refin’d;
+      _And who can then forbeare t’embalme her Hearse_
+          _With the daily precious dew of teares?_
+
+  Provida sed longam magnis virtutibus ævum
+      Non audent promittere fata:
+  Nec possunt, si quæ maturavére, profanis
+      Astra diu committere terris.
+  Nunc adeò parces longis onerare querelis
+      Depositum repetentia magnum,
+  Ingentes animi gazas, & robur, & aureo
+      Incoctum benè pectus honesto.
+
+      Tis not in Fate to promise length of dayes,
+          To things of such esteeme and praise;
+      Nor can the starrs suffer so ripe a birth
+          To be long sullied with dull earth.
+      Load not the Heavens then with unjust complaints,
+          For taking back one of their Saints.
+      The courage of her richly temp’red breast
+          Made her for them a fitter guest:
+      Such jewells of her mind sparkle about her
+          The starres themselves can’t shine without her.
+
+  Sic Tanaquil, sic quæ cunctantem Claudia rexit
+      Virgineâ cervice Cybellen,
+  Quæque maritali successit Thessala fato,
+      Et Latiis vaga Clœlia ripis;
+  Ante diem raptæ vivunt post funera, vatum
+      Perpetuos in carmine fastos.
+  Illa quidẽ non, si surdos ad carmina Manes
+      Orpheâ testudine vincam,
+  Eductas adamante fores, & ahenea rumpat
+      Elysiii pomœria muri,
+  Reddaturq; tibi. Stat nulli janua voto,
+      Nullis exorata Poëtis.
+
+      Thus _Tanaquil_; thus _Claudia_’s virgin band
+          Steer’d the unwilling Barke to land.
+      Thus shee, that durst her Husbands fate abide,
+          And _Cloelia_ over _Tiber’s_ tyde;
+      Too early crop’d, survive in Poesie,
+          And keepe perpetuall jubilie.
+      ’Tis not in Art to fetch her back againe,
+          Or charme the spirits with _Orpheus_ straine,
+      To breake the bars of Adamant or scale
+          The Rampiers of th’Elysian wall,
+      No Orisons prevaile, sent from the breast
+          Of great _Apollo_’s choisest Priest.
+
+  Sunt tamen exiles insigni in limine rimæ
+      Quà possint arcana videri,
+  Hæc ego si nullos fallunt insomnia maneis,
+      Aut vidi, aut vidisse putavi
+  Errantem campo in magno, quem gemmea circum
+      Perspicuis stant mœnia portis:
+  Auro prata virent; arbor crinitur in aurum;
+      Crispantur violaria gemmis,
+  Quæ nec Apellæus liquor, nec pulchra trigoni
+      Assimulent mendacia vitri.
+
+      Yet in the arched entrance chinks there bee,
+          Which may befriend the covetous eye;
+      Through these to th’hidden mysteries I peep,
+          And (if the spirits nor dream, nor sleep)
+      I saw, or else me thoughts, I there had seene
+          Her, wandring o’re a Spacious Greene,
+      With walls of Diamond, gates of purest glasse,
+          No Chrystall more transparent was:
+      Each blade of grasse was gold, each tree was there,
+          A golden Periwig did weare.
+      The swelling banks of Violets did curle
+          Themselves with Gems, and Orient Pearle;
+      The glorious nothing, of the _Trigon_ glasse--
+          And all _Apelles_ Art, which passe.
+
+  Centum ibi formosis in vallibus Heroïnæ
+      Aeternum Pæana frequentant.
+  Stant virides campo stellæ, madidisque corusca
+      Connivent sibi sidera flammis.
+  Illa inter medias parvo comitata nepote
+      Et roseo vivacior ore,
+  Ibat ovans, grandemq; sibi, grandemque nepoti
+      Nectebat de flore coronam.
+  Cetera me vetuit magni caligo sereni
+      Mortali percurrere visu.
+  Nectu plura velis; satis est, cui fata dederunt
+      Aeternis mutasse caduca.
+
+      Through the sweet vales a Quire of Damsels sing
+          Eternall Pæans to their King.
+      The stars with sparkling light stand round I see,
+          Twinkling to their shrill melodie.
+      Her and her tender darling, then I spy,
+          I’th’ mid’st of that blest company;
+      With looks more fresh and sweet, then are the Roses
+          Of which her Garlands shee composes--
+      Two flowry Chaplets, which with Gems set round
+          Her owne and Nephew’s temples crown’d.
+      But here a veyle was drawne, I must not prie
+          Nor search too farre with mortall eye,
+      Nor would you more. It may suffice that shee
+          Hath chang’d fraile flesh for blest Eternitie.
+
+
+
+
+  _Ad Albertum Turscium._
+
+  De suis somniis & lyricis.
+
+  _Ode 32. Lib. 4._
+
+      To _Albertus Turscius_.
+
+      _Of his Dreames, and Lyricks._
+
+      _Ode 32. Lib. 4._
+
+  _Tursci_, seu brevior mihi
+      Seu pernox oculos composuit sopor,
+  Pennas Somnia lævibus
+      Affigunt humeris; jamque virentia
+  Latus prata superuolo,
+      Quà se cumque novum mollè tumentibus
+  Campis explicuit nemus,
+      Herbosæque patet scena superbiæ:
+  Mox & nubibus altior,
+      Mistus flumineis ales oloribus;
+  Vivos despicio lacus,
+      Et dulci volucrem carmine mentior.
+
+      VVhether a shorter sleep, or whether
+        A long one (_Turscius_) joyns mine eyes together
+      In my soft dreames, me thinks, I see
+        To my light shoulders wings set on, and I
+      With joy transported, upward soare,
+        The flowry Meddowes, and the pastures o’re;
+      Where the greene Grove its coole shade yeilds
+        To th’stately grasse plotts, and ripe swelling fields:
+      Straight, ’mid’st the river Swans, up hyer
+        A winged fowle above the cloudes I’aspire;
+      The lively Lakes below, I sleight,
+        And with sweet straines a bird I counterfeit.
+
+  Jam tunc nubila, jam mihi
+      Blandis dissiliunt fulmina cantibus;
+  Et quæ plurima circuit
+      Collum, puniceâ vincior Iride.
+  Idem jam vigil, & meus,
+      Non ingrata simul somnia dispuli,
+  Cùm ter mobilibus lyram
+      Percussi digitis, immemor & ducis
+  Nil sectator Horatii,
+      Sublimis liquidum nitor in aëra;
+  Et nunc littera, nunc vagas
+      Siccis trajiciens passibus insulas,
+  Nil mortale mei gero, &
+      Jam nil sollicito debeo ponderi.
+
+      See, now me thinkes, the cloudes in throngs
+        The lightning leaps too, at my ravishing songs;
+      _Iris_ about my neck hangs round,
+        And with her divers colour’d bow, I’me bound.
+      Being now my selfe, and newly wak’d,
+        My not unwelcome dreames, just now off shak’d;
+      Thrice o’re my Lute, I scarce had run
+        With nible finger neat division;
+      Remembring _Horace_, Thee, my guide,
+        When my high Genius through th’ayre doth ride;
+      Now o’re the scatt’red Islands, then
+        O’re Seas, with dry feet passing back again;
+      Nothing that’s mortall of mee, now
+        I beare, and nought to my dull bulke I owe.
+
+  _Tursci_, sæpè tamen mones
+      Olim ne veteri clarior Icaro
+  Veris fabula casibus
+      Mutem Parrhasii nomina Balthiri.
+  Frustra; nam memor Icari,
+      Addo stultitiæ consilium brevi:
+  Nam, seu dormio, me torus;
+      Seu scribo, stabili sella tenet situ.
+
+      Yet _Turscius_ thou hast often told,
+        And warn’d mee, lest then _Icarus_ of old
+      By a true fall indeed, I make
+        A lowder tale, and change the name o’th’Lake.
+      In vaine: Remembring Him, I had
+        A care, and counsell, to my folly, add:
+      For when I sleep, in bed I lye,
+        And if I write, my secure chaire holds mee.
+
+
+
+
+  Ad Quintum Tiberinum.
+
+  Ode 34. Lib. 4.
+
+  Divitem numquam, _Tiberine_, dices,
+  Cuius Eois potiora glebis
+  Rura, fortunæ sine fæce pulcher
+        Rivus inaurat;
+  Quem per insigneis geniale ceras
+  Stemma claravit; vaga quem per urbes
+  Quem per & gentes radiante vexit
+        Gloria curru.
+  Pauper est, qui se caret; & superbè
+  Ipse se librans, sua rura latam
+  Addit in lancem, socioq; fallens
+        Pondus in auro,
+  Ceteris parvus, sibi magnus uni,
+  Ipse se nescit, pretioque falsa
+  Plebis attollit, propriaq; se mi-
+        ratur in umbrâ.
+  Splendidam verâ sine luce gazam,
+  Turgidum plenâ sine laude nomen
+  Mitte; te solo, _Tiberine_, disces
+        Esse beatus.
+
+
+      To _Quintus Tiberinus_.
+
+      _Ode 34. Lib. 4._
+
+      Thou shalt not _Tiberinus_, call
+      Him rich, whose every Acre shall
+      Outvie the Easterne glebe, whose field
+      Faire Fortune’s clearest streame doth gild.
+      Nor him, whose birth, and pedigree
+      Is fam’d abroad by’s Heraldrie;
+      Hee who by fleeting glory’s hurld
+      In his rich Chariot through the world:
+      He’s poore that wants himselfe, yet weighs
+      Proudly himselfe; in this scale layes
+      His lands, in th’other broad one, by,
+      The false weight of his gold doth lye,
+      Great to himselfe, to others small,
+      That never knowes himselfe at all,
+      As the false people raise him higher,
+      Himselfe in’s shadow hee’l admire.
+      The fairest Gemme without true light,
+      Without true praise great titles, flight:
+      Blest _Tiberinus_, and most free
+      In thy selfe alone thoul’t learne to bee.
+
+
+
+
+  Ad Paulum Coslovium.
+
+  _Ode 35. Lib. 4._
+
+      To _Paulus Coslovius_.
+
+      _Ode 35. Lib. 4._
+
+  Iam pridem tepido veris anhelitu
+  Afflarunt reduces arva Favonii;
+    Jam se florida vernis
+      Pingunt prata coloribus:
+  Stratus frugiferis Vilia puppibus
+  Grato præter abit rura silentio,
+    Quamvis proximus omni
+      Collis personet alite;
+  Quamvis & viridi pastor ab aggere
+  Dicat gramineâ carmina fistulâ.
+    Et qui navita debet
+      Plenis otia carbasis.
+
+      The Westerne winds, with the warm breath o’th’Spring,
+      Returne, and o’re our fields their soft gales fling;
+        The flowry-garnish’d Meadowes by,
+          With freshest colours painted lye.
+      The River, which the gainfull ships so throng,
+      With welcome silence gently glides along,
+        Although the neighbouring Hill doth ring
+          With the shrill notes of birds that sing;
+      Although the Swaine, on the green bank that sits
+      Old Sonnets with his Oaten Pipe repeats,
+        Although the Seaman doth not faile
+          At length to strike his full blowne sayle.
+
+  Æquat Palladiis, _Paulle_, laboribus
+  Interpone vices. Cras simul aureo
+    Sol arriserit ore
+      Summorum juga montium,
+  Scandemus viridis terga Luciscii,
+  Quà celsâ tegitur plurimus ilice,
+    Et se prætereuntûm
+      Audit murmura fontium.
+  Illinc è medio tota videbitur
+  Nobis Vilna jugo; tota videbitur
+    Quæ Vilnam sinuosis
+      Ambit Vilia flexibus.
+
+      To thy _Palladian_ labours interpose
+      Such changes _Paullus_; when the Sun forth showes
+        And with his golden presence smiles
+          On the hye tops of highest Hills,
+      Wee’l mount the back of green _Luciscus_, where
+      Hee’s thickest set with tallest Okes, and heare
+        The bubbling noise of streames that flow
+          From Fountaines that close by him goe.
+      Thence from the midst o’th’hill all _Vilna_ shall
+      Our prospect be; our eye shall lower fall--
+        On _Vilia_’s cooler streames, that wind,
+          And with embraces _Vilna_ bind.
+
+  Illinc picta procul quæ radiantibus
+  Fulgent fana tholis, & geminam super
+    Despectabimus arcem,
+      Magni regna Palæmonis.
+  Ut longo faciles Pacis in otio
+  Se tollunt populi! nam tria tertio
+    Surrexêre sub anno
+      Priscis templa Quiritibus;
+  Et quà conspicuis se Gediminia
+  Jactant saxa jugis, & Capitolium,
+    Et quæ tecta superbis
+      Intrant nubila turribus.
+
+      From thence, farre off, the Temples wee’l behold,
+      And radiant Scutcheons all adorn’d with gold;
+        Then wee’l looke o’re that double towre,
+          Th’extent of great _Palæmon_’s pow’re.
+      How in a settled peace, and kingdomes rest
+      The easie people raise themselves, so blest!
+        Three Temples in three yeares w’have seen
+          To th’Citizens have reared been;
+      Where _Gediminian_ Rocks themselves extoll
+      With their plaine tops, and then the Capitol,
+        Those buildings, whose proud turrets stretch
+          Themselves to th’Cloudes, and stars doe reach:
+
+  Auget magna, Quies: exiguus labor
+  In majus modico provenit otio.
+    Hinc & terga virentûm
+      Latè prospice collium.
+  Quæ nunc mobilibus nutat Etesiis,
+  Segni cana stetit sub nive populus:
+    Qui nunc defluit, altà
+      Hæsit sub glacie latex:
+  Qui nunc purpureis floret ager rosis,
+  Immoto sterilis delituit gelu:
+    Verno quæ strepit ales,
+      Hiberno tacuit die.
+  Ergò rumpe moras, & solidum gravî
+  Curæ deme diem, quem tibi candidus
+    Spondet vesper, & albis
+      Cras Horæ revehent equis.
+
+      Great things to greater growth doe thus increase,
+      And with least paines, improve themselves by peace.
+        Here, tops of Hills, themselves behold,
+          In all their flowry pride unfold.
+      The Poplar now that shakes, when th’East winds blow
+      Stood cloth’d in gray, under the ling’ring snow:
+        The Springs that now so nimbly rise,
+          Were all of late lock’d up, in Ice:
+      The fields that now with blushing Roses spread,
+      Lay barren, and in hardest frost all hid:
+        The birds which chirping sit i’th’Spring;
+          When Winter comes, forget to sing.
+      Breake off delayes then, and from grievous care
+      A constant day, set by; which th’ev’ning faire
+        Doth promise, and the next dayes Sun
+          With his white Steeds will freely run.
+
+
+
+
+  [Decoration]
+
+  _Ad Paulum Iordanum Vrsinum Bracciani Ducem._
+  Bracciani agri amœnitatem commendat, ad quam per ferias Septembres
+  secesserat Româ.
+
+  _Ode 1. Lib. Epod._
+
+          [Decoration]
+
+          To _Paulus Iordanus Vrsinus_, Duke of _Bracciano_.
+          Hee commends the pleasantnesse of the Countrey, where
+          in the feasts of _September_, he retyred from _Rome_.
+
+          _Ode 1. Lib. Epod._
+
+  Huc ô quietis apta Musis otia,
+    Levesque Ludorum chori;
+  Huc feriantûm Phœbe Musarum pater,
+    Huc hospitales Gratiæ;
+  Huc delicatis ite permisti Jocis
+    Non inverecundi Sales:
+  Hîc otiosi mite Bracciani solum
+    Vago coronemus pede.
+
+      Appeare ye spritefull Quire with choicest sports,
+        All pastime fit for _Phœbus_ Courts;
+      And Thou great Master of the Revels, joyne
+        The Graces, to thy Daughters nine;
+      Witt pure and quaint, with rich conceits and free
+        From all obscæne scurrilitie:
+      Here free from care, nimbly let’s dance a round
+        Upon _Bracciano_’s softer ground.
+
+  Clemens supino clivus assurgit jugo,
+    Cælumq; paulatim subit,
+  Et solida subter terga scopulorum arduo
+    Securus insessu premit:
+  Arcisq; jactat inter alta turrium
+    Insigne propugnacula,
+  Timenda quondam Cæsarum turmis ducum,
+    Timenda magno Borgiæ,
+  Cùm per minantûm militum aratos globos
+    Metuenda jaceret fulmima,
+  Ageretque profugum Cæsarem, & quassum metu;
+    Adusque promissum _Nihil_.
+
+      A gentle Cliffe from a steep Hill doth rise
+        That even to Heaven, mounts by degrees,
+      And safe, with uncouth passage, leanes upon
+        The solid backs, of Rocks and stone:
+      Whence ’mid’st the Bulwark’d Forts, we may descry
+        A displayd Banner from on hye,
+      Which to th’Imperiall force a terrour was,
+        A terrour to great _Borgias_,
+      When through the brasen troops of’s threatning foes,
+        His fearfull thunder-bolts he throwes,
+      Pursuing routed _Cæsar_, whom he brought
+        To that he promis’d him, to _nought_.
+
+  Hîc ille magnus frænat Etruscas opes
+    _Ursinus_ Heroum decus,
+  Hæres avitæ laudis, & princeps caput
+    Magnæq; laus Oenotriæ.
+  Circùm coruscis scena quercetis viret,
+    Cælumque verrit frondibus,
+  Suoque colles vestit, & patentibus
+    Sese theatris explicat.
+  Admota muris ponè Nympharum domus
+    Aprica præbet littora:
+  Ripamque Baccho jungit, & vallum propè.
+    Lentis flagellat fluctibus.
+
+      Great _Ursin_ here puts reynes toth’_Tuscan_ pow’re
+        The grace of _Heroes_ and the flow’re;
+      Heire to his father’s worth, chiefe guide and stay
+        And praise of great _Oenotria_.
+      A Bow’re growes green, set round with trembling Okes
+        Which fanns the Heavens with gentle strokes.
+      It clothes the Hills, and spreads it selfe all over
+        To th’open Theaters a cover.
+      Close joyn’d to th’walls, the Nymphs coole Arbour stands,
+        Which to the Sunny shore commands;
+      By these a banke of Vines, which th’neighbour Trench
+        With milder waves doth daily drench.
+
+  Majore nusquam stagna Neptuno sonant,
+    Aut æstuantis Larii,
+  Aut qui severo tangit Albanus lacu
+    Inenatabilem Styga:
+  Aut quæ procellis gaudet, & magno fremit
+    Superba ponto Julia:
+  Nec major usquam spumat, & rupes truci
+    Benacus assultat salo.
+  Intonsa curvo monte circumstant juga,
+    Mitesque despectant aquas.
+
+      Nowhere the Lakes with fuller Sea doth roare,
+        Either of _Larius_ that boyles o’re,
+      Or rough _Albanus_ whose troubled waves doe mix
+        With the unnavigable Styx:
+      Not stormy _Julia_, when her swelling pride
+        Most rageth in her highest tyde:
+      _Benacus_ doth not raise more froth, when he
+        Assaults the rocks with fiercest Sea.
+      With rugged tops the bending mountaines round
+        Upon the slow calme streames looke downe.
+
+  Nivosus illinc terga Romanus movet,
+    Cæloque diducit minas:
+  Illinc caducis ilicem quassat comis
+    Sublime Cymini caput:
+  Crudumque Boream frangit impotentibus
+    Depræliaturum Notis,
+  Terrisque latè regnat, & cæli minis
+    Opponit hibernum latus.
+
+      _Romanus_ here his snowy back up-reares.
+        And drawes downe envy from the starres:
+      The lofty head of _Cyminus_ here shakes
+        The Oke with trembling leaves which quakes,
+      And holds off _Boreas_, when his rawer blasts
+        ’Gainst the weake Southerne winds he casts,
+      Commands the Country farre, and out he sets
+        His Winter sides against Heavens threats.
+
+  Amica sternit interim lacum quies,
+    Fluctusque fluctu nititur,
+  Et ipsa secum pigra luctatur Thetis,
+    Aquæque colludunt aquis:
+  Quas vel carinâ, vel citata turgido
+    Findit phaselus linteo:
+  Pinnâque latè vitreum cogens pecus
+    Velente lino truditur,
+  Setâque piscem ducit, & raris procul
+    Lacum coronat retibus.
+
+      Meane while a pleasant calme doth smooth the Lake,
+        The waves ’gainst one another breake,
+      Mild _Thetis_ selfe, with her own selfe finds sport,
+        And waters doe the waters court:
+      Through which a ship doth cut, with pleasant gales,
+        Or nimble Barke with swelling sayles:
+      The large-fin’d Chrystall cattell as they goe
+        Are forced whether they will or no
+      With ready dragnet; then with lines of haire
+        They round the Lake, or Nets more rare.
+
+  Hinc alta lucet divitis Pollæ domus,
+    Hinc pinguis Anguilaria:
+  Trebonianas hinc amica vineas
+    Vadosa plangunt æquora:
+  Hinc delicati fundus Aurelî nitet,
+    Lymphæ salutarîs pater:
+  Undàque morbos arcet, & vivacibus
+    Lucem fluentis eluit.
+
+      Rich _Polla’s_ stately house there shines, and here
+        Full stored Fish-ponds doe appeare:
+      The friendly Foords which toward the Sea doe lye
+        Water _Trebonian_ Vineyards by;
+      Here neat _Aurelius_ farme looks gay, chiefe Lord
+        And Master of that healthfull Foord,
+      Whose water cures diseases, whose quick springs
+        Doe purge out all infectious things.
+
+  At quà superbum fontibus nomen dedit
+    Suumque Flora marginem,
+  Vivis perennes decidunt saxis aquæ,
+    Camposque decursu lavant,
+  Patremque longè Tybrin, & regem sonant,
+    Romæque servitum fluunt.
+  Sincera circùm regna naturæ nitent;
+    Et artis immunes loci:
+  Adhucque virgo sulcus, & montes adhuc
+    Molleis inexperti manus,
+  Meramque Bacchus Tethyn, & Bacchum Thetis,
+    Et pinguis invitat Ceres.
+
+      Where _Flora_ makes the banks, and gives the name
+        To Fountaines, proud of so much fame;
+      From lively stones perpetuall waters flow,
+        And wash the fields wheresoe’re they goe,
+      Their father _Tyber_, and their King they found
+        And flow to _Rome_, with homage bound.
+      Nature doth purely there advance each part,
+        Not any place is help’d by Art:
+      As yet the virgin furrow, th’Hills yet stand
+        Untouch’d, by any tender hand.
+      Chast _Tethys_, _Bacchus_ courts, _Thetis_ doth woo
+        _Bacchus_ againe, and _Ceres_ too.
+
+  Hinc ille lætus surgit, & tenacibus
+    Inserpit ulmis Evius,
+  Udoque cornu turget, & fluentibus
+    Crinem racemis impedit.
+  Non Lesbos illi, non odorati magis
+    Vineta rident Massici,
+  Aut quæ Falernis educata solibus
+    Sublucet uvæ purpura.
+
+      Hence _Evius_ cheerfull rises, and doth twine
+        With th’Elme, that closely clings toth’ Vine,
+      With’s plenteous horne he swells, his locks hang by--
+        With flowing Clusters tangled lye.
+      Not _Lesbos_ him, nor the sweet smelling grace,
+        Of rich _Campania_’s fruitfull race
+      Delights; the purple Grape not so faire showes,
+        In the _Falernian_ sun that growes.
+
+  Sed nec Falisci glaream malit soli,
+    Nec pinguis uber Rhætiæ;
+  Nec flava tantùm culta felicis Cypri,
+    Graiámve dilexit Rhodon:
+  Quantùm suis superbit, & sese suis
+    Miratur in canalibus.
+  Circùm beatis imperat campis Ceres.
+    Lateque rura possidet:
+  Et arva flavo messium fluctu tument,
+    Motuque culmorum natant.
+
+      Hee’l not preferre _Faliscus_ sandy ground,
+        Nor _Rhætia_, that doth so abound;
+      The yellow Tilths of happy _Cyprus_, hee
+        Ne’re lov’d so much, nor _Rhodos_ by:
+      As in his owne -- in his owne channells hee
+        Hugging himselfe, doth proudly lye.
+      Sole Empresse _Ceres_ of the fertile lands
+        Whose large possessions shee commands:
+      The fields with yellow waves doe ebbe and flow,
+        The ripe eares swim, when winds doe blow.
+
+  Innube rarus inquinat cælum vapor,
+    Aut tensa nimbis vellera:
+  Aut è Boreis bella ventorum plagis,
+    Raucusque silvarum fragor
+  Auditur usquam: non protervis insonant
+    Exercitati Syrtibus,
+  Euris & Austris contumaces Africi,
+    Et perduellibus Notis.
+  Tantùm serenus Vesper, & tenerrima
+    Etesiarum flamina.
+
+      No vapour, here, Heavens cleared face doth staine,
+        No clowdy fleece stretch’d out with raine:
+      The Northerne blasts are still, and all at peace,
+        And the hoarse noise o’th’ woods doth cease:
+      The stubborne _Africke_ winds that use to stray
+        About th’unruly sandy Sea,
+      Are all hush’d up, and no Alarum sound
+        To th’other winds, entrenched round;
+      Onely the Evening faire, a gentle gale
+        Of winds that each year never faile:
+
+  Albique soles, & serena lucidis
+    Aspirat aura montibus:
+  Puramque cælo provehunt Horæ facem,
+    Et Phœbus Horarum pater
+  Peculiari luce colles irrigat,
+    Pronáque perfundit die.
+  Ramis tepentes ingruunt Favonii
+    Jocantis auræ sibilo,
+  Et temperatis provocant suspiriis,
+    Leniq; somnum murmure.
+
+      The bright Sun darting through th’enlightned Ayre
+        His beames, doth guild the Moutaines cleare,
+      The houres drive on heav’ns torch, that shine so bright,
+        And _Phœbus_ father of the light--
+      With a peculiar influence bedewes
+        The Hills all o’re, when night ensues.
+      The warme _Favonian_ winds with whistling gale
+        Doe merrily the boughs assaile,
+      And with their temperate breath, and gentle noise,
+        Sweet pleasing slumbers softly raise.
+
+  At non loquaces interim nidi tacent,
+    Matresque nidorum vagæ.
+  Sed aut maritis turtur in ramis gemit,
+    Et saxa rumpit questibus,
+  Aut læta latè cantibus mulcet loca
+    Famosa pellex Thraciæ.
+  Silvisq; coram plorat, & crudelibus
+    Accusat agris Terea:
+  Quæcumque mœsta vocibus dicunt aves,
+    Respondet argutum nemus,
+  Affatur alnum quercus, ornum populus,
+    Affatur ilex ilicem,
+  Et se vicissim collocuta redditis
+    Arbusta solantur sonis.
+
+      The prateling Nests meane while no silence keep,
+        Their wandring guests ne’re sleep.
+      To’s mate, the Turtle ’mong’st the branches grones,
+        And with complaints breakes hardest stones,
+      The Nightingale, the pleasant Groves about
+        Refresheth, with her warbling note,
+      Bewayles her losse to th’woods, i’th’ cruell fields
+        ’Gainst _Tereus_ her cryes shee yeilds:
+      And what the mournfull birds doe so complaine,
+        The shrill woods answer back againe.
+      The Oke, the Alder tells; the Poplar tree
+        The Ash; and that, the Elme stands by.
+      The Groves rejoyce with th’Eccho they afford
+        And tell them backe--ev’n word for word.
+
+  Huc ô Quiritûm ductor, huc Oenotriæ
+    O magne regnator plagæ
+  _Jordane_, tandem plenus urbis & fori,
+    Rerumque magnarum satur,
+  Sepone curis temet, & domesticis
+    Furare pectus otiis.
+  Hic vel tuarum lene tranabis vadum
+    Opacus umbris arborum,
+  Tuosque colleis inter, & tuas procul
+    Perambulabis ilices:
+
+      _Jordanus_ here, hither thy selfe command,
+        Great Ruler of th’_Oenotrian_ land.
+      Withdraw thy selfe from cares, from all resort
+        So cloy’d with’ Citie, and with Court,
+      So full of great affaires, at length thy breast
+        Convey to thy domestick rest.
+      Here thou may’st passe thy Foord, in gloomy shade,
+        On each side, by thine owne trees made,
+      And here between thy Mounts, with tall Okes set,
+        A large walke thou shalt get:
+
+  Vel cum Decembri campus, & prima nive
+    Vicina canescent juga;
+  Nunc impeditas mollibus plagis feras,
+    Silvamq; præcinges metu:
+  Nunc incitato capream rumpes equo,
+    Teloque deprendes aprum;
+  Jactoq; cervos collocabis spiculo,
+    Furesq; terrebis lupos.
+  Quid si Latinæ laus _Alexander_ plagæ,
+    Sacræque sidus purpuræ,
+  Tecum paterno feriabitur solo,
+    Seseq; curis eximet;
+  Tuique cives, hospitesq; civium
+    Toto fruemur gaudio.
+
+      Or in _December_, when the fields looke white,
+        And th’Hills, with the earlyest snow doth light;
+      Sometime th’entangled game, with twining nett
+        I’th’ wood, with feare thou shalt besett:
+      Sometimes with courser fleet, pursue full sore,
+        The Buck thou mayst, sometimes the Bore;
+      With thy thrown dart the red Deer thou shalt stick.
+        And th’frighted ravenous Wolves shalt strick,
+      And if that Starre o’th’ sacred dignity
+        The glory of all _Italy_,
+      Will also from his cares, himselfe make free,
+        And keepe his Festivals with thee;
+      Each Citizen of thine, and every guest
+        With the compleatest joy is blest.
+
+
+
+
+  _Ad fontem Sonam._
+
+  In patrio fundo, dum Româ rediisset.
+
+  Ode 2. Lib. Epod.
+
+  Fons innocenti lucidus magis vitro
+    Purâque purior nive,
+  Pagi voluptas, una Nympharum sitis,
+    Ocelle natalis soli.
+  Longis viarum languidus laboribus
+    Et mole curarum gravis
+  Thuscis ab usque gentibus redux, tibi
+    Accline prosterno latus:
+  Permitte siccus, quà potes, premi; cavâ
+    Permitte libari manu.
+  Sic te quietum nulla perturbet pecus,
+    Ramusvè lapsus arbore:
+  Sic dum loquaci prata garritu secas,
+    Et lætus audiri salis;
+  Assibilantes populetorum comæ
+    Ingrata ponant murmura
+  Tibi, lyræq; Vatis: haud frustrà sacer
+    Nam si quid _Urbanus_ probat,
+  Olim fluenti leuè Blandusiæ nihil
+    Aut Sirmioni debeas.
+
+
+      To the Fountaine Sona,
+
+      _When hee returned._
+
+      _Ode 2. Lib. Epod._
+
+      O Fount more cleare then spotlesse glasse,
+        More pure, then purest snow e’re was,
+      The Nymphs desire, and Countries grace,
+        Thou joy of this my Native place.
+      Tyr’d with a tedious journey, I,
+        And press’d with cares that grievous lye,
+      From the farre _Tuscan_ Land made free
+        Thus low I bow my selfe to thee:
+      Oh, if thou canst, vouchsafe to bee
+        Press’d, and with hollow palme drawne dry.
+      So let thy peace no wandring beast
+        Disturb, no broken bough, thy rest:
+      So when thou cutt’st with prattling noise
+        The Meads, and leap’st, men heare thy voice;
+      May th’whistling leaves of Poplar trees
+        With their unwelcome murmurs cease--
+      To thee, and thy Priests Lute: if nought
+        _Urban_ approves, in vaine is thought
+      T’_Blandusia_ thou canst nothing owe;
+        Nor to milde flowing _Sirmio_.
+
+
+
+
+  Palinodia
+  Ad secundam libri Epodon Odam _Q. Horatii Flacci_.
+
+  _Laus otii Religiosi._
+
+  _Ode 3. Lib. Epod._
+
+      A Palinode
+      To the second Ode of the booke of Epodes of _Q. H. Flaccus_.
+
+      _The praise of a Religious Recreation._
+
+      _Ode 3. Lib. Epod._
+
+  At ille, _Flacce_, nunc erit beatior
+    Qui mole curarum procul
+  Paterna liquit rura, litigantium
+    Solutus omni jurgio;
+  Nec solis æstum frugibus timet suis,
+    Nec sidus hiberni Jovis,
+  Rixasq; vitat, & scelesta curiæ
+    Rapacioris limina.
+  Ergo aut profanis hactenus negotiis
+    Amissa plorat sidera;
+  Aut in reductâ sede dispersum gregem
+    Errantis animi colligit,
+  Postquam beatæ lucra conscientiæ
+    Quadrante libravit suo.
+
+      But, _Flaccus_, now more happy he appeares,
+        Who, with the burthen of his cares,
+      Farre off hath left his father’s ground, set free
+        From the fierce wrangling Lawyer’s fee;
+      No scorching heat, nor blasts of Winter _Jove_,
+        Doth hurt his fruit, or him can move:
+      Hee shuns all strifes, and never doth resort
+        The sinfull gates o’th’ greedy Court.
+      But either doth bewayle those dayes and nights,
+        Lost by him in prophane delights;
+      Or else retyr’d, strives to collect and find
+        The dispers’d flock of’s wandring mind;
+      Having first fairly pois’d the recompence
+        And gaines of a good conscience.
+
+  Idem, propinquâ nocte, stellatas vigil
+    Cùm vesper accendit faces,
+  Ut gaudet immortale mirari jubar,
+    Terrâque majores globos,
+  Et per cadenteis intueri lacrymas
+    Rimosa lucis atria,
+  Quæ Christe tecum, virgo quæ tecum colat
+    Perennis hæres sæculi!
+  Volvuntur aureis interim stellaæ rotis,
+    Pigrumque linquunt exulem,
+  Per ora cujus uberes eunt aquæ,
+    Somnos quod avertat graveis.
+
+      At evening, when the harbinger of night
+        The torches of the sky doth light,
+      How he admires th’immortall rayes breake forth,
+        And their bright Orbes, more large then earth;
+      How through his trickling teares, he heips his fight,
+        Unto the open Courts of light,
+      Which with thy selfe, ô Christ, thy selfe in pray’r
+        He’ Adores, t’Eternall life an heire!
+      The Starres with golden wheeles, are hurried by,
+        And let their prostrate exile lye,
+      Over whose face, the plenteous teares doe stray,
+        Which chase all drowsie sleepe away;
+
+  At quando lotum Gangis aut Indi fretis
+    Jam Phœbus attollit caput,
+  Mentis profundus, & sui totus minor
+    Irata flectit numina:
+  Vel cum sereno fulserit dies Jove,
+    Aprilibusque feriis,
+  Assueta cælo lumina, in terras vocat
+    Lateq; prospectum jacit,
+  Camposq; lustrat, & relucentem suâ
+    Miratur in scenâ _Deum_.
+
+      Assoone as _Phœbus_ head begins t’appeare,
+        Lately in _Indus_ streames made cleare,
+      From depth of soule, lesse then himselfe he lies,
+        And bends the angry pow’rs with cryes:
+      Or when the Sun shines cleare, the aire serene,
+        And _Aprill_ Festivals begin,
+      His eyes, so us’d to Heaven, he downe doth throw,
+        On a large prospect here below:
+      He viewes the fields, and wondring stands to see
+        In’s shade the shining Deitie.
+
+  En omnis inquit, herba non morantibus
+    In astra luctatur comis:
+  Semota cælo lacrymantur, & piis
+    Liquuntur arva fletibus;
+  Ligustra canis, & rosæ rubentibus
+    Repunt in auras brachiis;
+  Astrisque panda nescio quid pallido
+    Loquuntur ore lilia,
+  Et serò blandis ingemunt suspiriis,
+    Et manè rorant lacrymis.
+  Egóne solus, solus in terris piger
+    Tenace figor pondere?
+
+      See how (saies he) each herb with restlesse leaves
+        To th’ starres doth strive and upward heaves:
+      Remov’d from heaven they weep, the field appeares
+        All o’re dissolv’d in pious teares:
+      The white-flowr’d Woodbine, and the blushing Rose
+        Branch into th’aire with twining boughs;
+      The pale-fac’d Lilly on the bending stalke,
+        To th’starres I know not what doth talke;
+      At night with fawning sighes they’expresse their fears
+        And in the morning drop downe teares.
+      Am I alone, wretch that I am, fast bound
+        And held with heavy weight, to th’ground?
+
+  Sic & propinquas allocutus arbores,
+    Et multa coram fontibus
+  Rivisque fatus, quærit Auctorem _Deum_
+    Formosa per vestigia.
+  Quod si levandas mentis in curas vigil
+    Ruris suburbani domus,
+  Quales Lucisci, vel Nemecini Lares,
+    Udumvè Besdani nemus
+  Rudeis adornet rusticâ mensas dape
+    Siccos sub Augusti dies;
+
+      Thus spake he to the neighbouring trees, thus he
+        To th’Fountaines talk’d, and streames ran by,
+      And after, seekes the great Creator out
+        By these faire traces of his foot.
+      But if a lightsome Country house that’s free
+        From care, such as _Luciscu’s_ bee,
+      Or _Nemicini’s,_ if _Besdan_’s fruitfull field
+        Can Grace to his rude table yeild,
+      To his plaine board with country dainties set,
+        In _August_’s dry and parching heat;
+
+  Jam tunc sub ipsum limen, aut domesticâ
+    Lenis sub umbrâ populi,
+  Expectat omnis hospitem suum penses,
+    Et concha sinceri salis,
+  Pressiq; meta lactis, & purus calix,
+    Et hospitalis amphora,
+  Et fraga, raris verna quæ dumis legit,
+    Jucunda panis præmia.
+  Non me scari tunc, non Lucrinorum gravis
+    Sagina mulorum juvet:
+  Sed cereus palumbus, aut turtur niger;
+    Aut anser amnis accola,
+  Et eruditam quæ fugit gulam faba,
+    Lætumque nec simplex olus,
+  Et quæ suprema colligitur, ac gravi
+    Patella nil debet foro.
+
+      Even at his dore, under a private shade
+        By a thick pleasant Poplar made,
+      Provision of all sorts, expect their guest,
+        A shell with salt, pure and the best,
+      New bread, for which, ’midst the thin bryars, the Mayd
+        Picks Strawberries, and’s gladly payd.
+      Cheese newly press’d, close by, the friendly Cann
+        With Cup cleane wash’d, doth ready stan’.
+      With me the _Lucrine_ dainties will not downe,
+        The Scare, nor Mullet that’s well growne;
+      But the Ring-dove plump, the Turtle dun doth looke,
+        Or Swan, the sojourner o’th’ brooke,
+      A messe of Beanes which shuns the curious pallet,
+        The cheerfull and not simple sallet;
+      Clusters of grapes last gathered, that misse
+        And nothing owe to th’weighty presse.
+
+  Post hæc vel inter læta quercetis juga,
+    Vel inter amneis juverit
+  Vitare tristeis post meridiem Notos
+    Sub æsculo vel ilice;
+  Nigrumvè littus, aut opaca lubricis
+    Tranare stagna lintribus,
+  Jactâque fruge ludibundum ducere
+    Tremente piscem lineâ.
+  Remugit ingens interim tauris nemus,
+    Umbrosa balant flumina;
+  Et aut in antris garriunt acanthides,
+    Aut in rubis luscinia.
+
+      Then after noone he takes a kind of pride
+        To th’Hills to walke, or River side,
+      And ’midst the pleasant Okes, a shade doth find,
+        T’avoyd the blasts o’th’ Southern wind;
+      To th’darksome shore, by the deep poole he goes,
+        And through, with nimble Boat he rowes;
+      Sometimes the sporting fish, his baite thrown in,
+        Hee plucks up with his trembling line.
+      Meane while th’ spacious woods with ecchoing note
+        Doe answer to the Bulls wide throat,
+      The shady rivers bleat; the Nightingale
+        I’th’ bushes chirps her dolefull tale.
+
+  Hinc per rubeta pastor errantes capras
+    Vocante cogit fistulâ:
+  Illinc herili messor è campo redux
+    Alterna plaudit carmina;
+  Et pressa sectos plaustra per sulcos gemunnt
+    Ruptura ruris horrea.
+  At nec tacemus ponè considentium
+    Dulcis manus sodalium;
+  Nec infacetâ sermo differtur morâ,
+    Sed innocentibus jocis,
+  Multoq; tinctus, sed verecundo sale,
+    Innoxium trahit dîem.
+  Hæc si videret fænerator Alphius,
+    Olim futurus rusticus,
+  Quam collocarat Idibus pecuniam,
+    Nollet Kalendis ponere.
+
+      With’s hastning pipe the sheapheard drives away
+        His flocke, which through the thickets stray:
+      To which as from the field they passe along,
+        Each mower sings by course, his song;
+      O’re yeilding furrowes, carts full press’d with corne
+        Groane, and are like to breake the barne.
+      Our worke once done, we doe not silent sit,
+        When knots of our good fellowes meet;
+      Nor is our talke prolong’d with rude delay;
+        In harmlesse jests we spend the day;
+      Jests dip’d in so much salt, which rubbing shall
+        Onely make fresh our cheeks, not gall.
+      If that rich churle, this had but seen, when hee
+        A Country man began to be,
+      The money which i’th’ Ides hee scraped in
+        Next month hee’d not put out agen.
+
+
+
+
+  [Decoration]
+
+  _Epig._ 4. _Ex Lib. Ep._
+
+  Veniat delectus meus in hortum suum. _Cant._ 5.
+
+  Pulcher Amor sumpsit rudis instrumenta coloni,
+    Et sua deposuit tela suasque faces:
+  Et manibus stivam rapuit; castique laboris
+    Ad sua ruricolas junxit aratra boves.
+  Ilicet, ut facili subvertit vomere corda,
+    Castaque virginibus Gratia crevit agris;
+  Flos, ait, unus abest: sunt cetera millia florum;
+    Ut nullus possit, _Christe_, deesse, Veni.
+
+
+  [Decoration]
+
+      Epig. 4.
+
+      _Let my beloved come into his Garden._ Cant. 5.
+
+      Love takes the tooles of a rude Country clowne,
+        His owne Artill’ry, and his torch layes down;
+      With staffe in’s hand, Oxen to th’Plow he set
+        For tillage, and such honest labour fit;
+      Straight, as he turn’d up hearts with easie share,
+        And grace i’th’ virgin-furrowes did appeare,
+      ’Mongst thousand others, one flower, quoth he, is mist:
+        That none may wanting be, come thou, O Christ.
+
+
+
+
+  Qualis est Dilectus tuus? ex _Cant._ 5.
+
+  Ex Lib. Epig. 37.
+
+  Qualis erat, tuus ille? tuus pulcherrimus ille?
+    Dicebat nuper barbara turba mihi.
+  Arripio dextrâ pennam, lævaque tabellam,
+    Et noto, _Christe_, tuo quicquid in orbe noto.
+  Pingo rosas, aurum, gemmas, viridaria, silvas,
+    Arva, lacus, celeri sidera pingo manu;
+  Et tabulam monstrans, Noster pulcherrimus, inquam,
+    Qualis erat, vultis discere? talis erat.
+
+
+      Who is thy Beloved? _Out of Cant._ 5.
+
+      _Lib. Epig._ 37.
+
+      What is that Spouse of thine? that fairest Hee?
+        The barb’rous people said, of late, to mee.
+      A Pen I tooke, and in a Tablet drew
+        Whatsoe’re, O Christ, in thy blest orbe I view.
+      Roses, and Gold I paint, Gems, Groves, Corne-land,
+        Green Gardens, Lakes, and Stars with nimble hand;
+      Would you needs learne, what might my fairest bee?
+        Looke o’re this tablet, pray, O such was Hee.
+
+
+
+
+  _Epig. 40. Lib. Ep._
+
+  Veni de Libano sponsa.
+
+  Et fugis, & fugiens clamas, quid sponsa moraris?
+    Non fugis, ut fugias: ut capiare, fugis.
+
+
+      Epig. 40.
+
+      Thou run’st, & running cry’st, why dost thou stay
+        My Spouse? thou would’st be ta’ne, not get away.
+
+
+
+
+  Ex lib. Epi. 48.
+
+  ---- Lilia manu præferenti.
+
+  Hæc, quæ virgineis nituntur lilia culmis,
+    Undè verecundas explicuêre comas?
+  Non generant similes Pæstana rosaria flores,
+    Nec simili Pharius messe superbit ager:
+  Non hæc purpureis mater Corcyra viretis,
+    Nec parit æquoreis pulsa Carystos aquis.
+  Cùm nullas habeant natales lilia terras,
+    Qui neget è castâ lilia nata manu?
+
+
+      Ep. 48.
+
+      _To ---- bearing Lillyes in her hand._
+
+      These Lillyes which on virgin stalks doe bend,
+        From whence do they their chaster leaves extend?
+      The _Pæstan_ beds such flowres did ne’re bring forth,
+        Nor _Pharian_ fields e’re gloried in such worth:
+      _Alcinous_ purple banks, ne’re teem’d with these,
+        Nor rich _Carystos_ watred by the Seas.
+      Since then these flow’res no native place do know,
+        Who can deny from her chast hand they grow.
+
+
+
+
+  Ex Lib. Ep. 51.
+
+  _Iohanni de Lugo_, dum post morbum ad intermissam de Pœenitentiâ
+  doctrinam rediret.
+
+  Fertur inornatis nuper Metanœa capillis
+    Flesse, repentinâ cùm raperêre febri:
+  Fertur & indomito frænos laxasse dolori,
+   Et lacrymis madidos exhibuisse sinus:
+  Cùm rursus domito repetis tua pulpita morbo,
+    Fertur inornatas disposuisse comas:
+  Et domitos hilari risu frænasse dolores,
+    Et lacrymis vacuos explicuisse sinus.
+  Quis, Pater, incolumi de te non gaudeat, ipsæ
+    Si gaudent Lacrymæ, ridet & ipse Dolor?
+
+
+      Ex. Lib. Ep. 51.
+
+      To _Iohan de Lugo_, when after a long sicknesse,
+      he returned to his intermitted Lecture of Repentance.
+
+      With hairs unkemb’d Repentance late did mourn,
+        When with so feirce a Feaver thou wert torne:
+      Shee’s said, to let loose raynes t’untamed griefe,
+        To’affoord her moyst’ned bosome, no reliefe,
+      But when th’desks agen, thy sicknesse tam’d,
+        Thou mountd’st, she’s said her careless haire t’have kemb’d
+      T’have bridled in her conquer’d griefe, and smile,
+        Of teares, her open’d bosome to beguile.
+      Who cannot then be glad, thou being safe?
+        When teares rejoyce, and griefe it selfe doth laugh.
+
+
+
+
+  Christi in Cruce vox. Ep. 110.
+
+  SITIO.
+
+  Ah sitio, clamas, Princeps pulcherrime rerum:
+    Non habeo pro te dulcia vina, siti.
+  Tu tamen, ah sitio, clamas: dabo pocula, Sponse:
+    Heu mihi! sed misto pocula felle dabo.
+  Hæc mi Sponse, bibe: quæris cui fortè propines?
+    Ad me pro mundi, _Christe_, salute bibe.
+
+
+      _The voyce of Christ upon the Crosse._
+
+      I THIRST.
+
+      Alas I thirst, great King, thou loude dost grone,
+        I have no pleasant Wine for Thee, thirst on.
+      Yet oh I thirst, thou cry’st: a Cup to thee
+        Woes mee! I’le give: but mix’d with gall’t must be.
+      Drink this, my Spouse: perhaps thou’lt ask to whom?
+        To me, O Christ, to th’health o’th’world let’t come.
+
+
+
+
+_FINIS._
+
+_Imprimatur_, Na. Brent.
+
+_Feb._ 10. 1645.
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+  [Where available, Project Gutenberg e-text numbers are shown in
+  brackets.]
+
+
+FIRST YEAR (1946-1947)
+
+Numbers 1-6 out of print.
+
+  [Titles:
+  1. Blackmore, Essay upon wit  [13484]
+
+  2. Flecknoe, On wit; Warton, The adventurer  [14973]
+
+  3. Letter to A. H. Esq., concerning the Stage (1698),
+  and Richard Willis’ Occasional Paper No. IX (1698).  [14047]
+
+  4. Cobb, Discourse on Criticism and of Poetry (1707) From
+  Poems On Several Occasions (1707)  [14528]
+
+  5. Samuel Wesley’s _Epistle to a Friend Concerning Poetry_ (1700)
+  and _Essay on Heroic Poetry_ (1693).  [16506]
+
+  6. _Representation of the Impiety and Immorality of the Stage_ (1704)
+  and _Some Thoughts Concerning the Stage_ (1704).  [15656] ]
+
+
+SECOND YEAR (1947-1948)
+
+7. John Gay’s _The Present State of Wit_ (1711): and a section on Wit
+from _The English Theophrastus_ (1702).  [14800]
+
+8. Rapin’s _De Carmine Pastorali_, translated by Creech (1684).  [14495]
+
+9. T. Hanmer’s (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+[14899]
+
+10. Corbyn Morris’ _Essay towards Fixing the True Standards of Wit,
+etc._ (1744).  [16233]
+
+11. Thomas Purney’s _Discourse on the Pastoral_ (1717).  [15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+Krutch.  [16335]
+
+
+THIRD YEAR (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).  [15999]
+
+14. Edward Moore’s _The Gamester_ (1753).  [16267]
+
+15. John Oldmixon’s _Reflections on Dr. Swift’s Letter to Harley_
+(1712); and Arthur Mainwaring’s _The British Academy_ (1712).
+[IN PREPARATION]
+
+16. Nevil Payne’s _Fatal Jealousy_ (1673).  [16916]
+
+17. Nicholas Rowe’s _Some Account of the Life of Mr. William
+Shakespeare_ (1709).  [16275]
+
+18. “Of Genius,” in _The Occasional Paper_, Vol. III, No. 10 (1719);
+and Aaron Hill’s Preface to _The Creation_ (1720).  [15870]
+
+
+FOURTH YEAR (1949-1950)
+
+19. Susanna Centlivre’s _The Busie Body_ (1709).  [16740]
+
+20. Lewis Theobold’s _Preface to The Works of Shakespeare_ (1734).
+[16346]
+
+21. _Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_
+(1754).
+
+22. Samuel Johnson’s _The Vanity of Human Wishes_ (1749) and Two
+_Rambler_ papers (1750).  [13350]
+
+23. John Dryden’s _His Majesties Declaration Defended_ (1681).  [15074]
+
+24. Pierre Nicole’s _An Essay on True and Apparent Beauty in Which from
+Settled Principles is Rendered the Grounds for Choosing and Rejecting
+Epigrams_, translated by J. V. Cunningham.  [IN PREPARATION]
+
+
+FIFTH YEAR (1950-1951)
+
+25. Thomas Baker’s _The Fine Lady’s Airs_ (1709).  [14467]
+
+26. Charles Macklin’s _The Man of the World_ (1792).  [14463]
+
+27. Frances Reynolds’ _An Enquiry Concerning the Principles of Taste,
+and of the Origin of Our Ideas of Beauty, etc._ (1785).  [13485]
+
+28. John Evelyn’s _An Apologie for the Royal Party_ (1659); and
+_A Panegyric to Charles the Second_ (1661).  [17833]
+
+29. Daniel Defoe’s _A Vindication of the Press_ (1718).  [14084]
+
+30. Essays on Taste from John Gilbert Cooper’s _Letters Concerning
+Taste,_ 3rd edition (1757), & John Armstrong’s _Miscellanies_ (1770).
+[13464]
+
+
+SIXTH YEAR (1951-1952)
+
+31. Thomas Gray’s _An Elegy Wrote in a Country Church Yard_ (1751); and
+_The Eton College Manuscript_.  [15409]
+
+32. Prefaces to Fiction; Georges de Scudéry’s Preface to _Ibrahim_
+(1674), etc.  [14525]
+
+33. Henry Gally’s _A Critical Essay_ on Characteristic-Writings (1725).
+[16299]
+
+34. Thomas Tyers’ A Biographical Sketch of Dr. Samuel Johnson (1785).
+
+35. James Boswell, Andrew Erskine, and George Dempster. _Critical
+Strictures on the New Tragedy of Elvira, Written by Mr. David Malloch_
+(1763).  [15857]
+
+36. Joseph Harris’s _The City Bride_ (1696).  [22974]
+
+
+SEVENTH YEAR (1952-1953)
+
+37. Thomas Morrison’s _A Pindarick Ode on Painting_ (1767).
+[IN PREPARATION]
+
+38. John Phillips’ _A Satyr Against Hypocrites_ (1655).
+
+39. Thomas Warton’s _A History of English Poetry_.
+
+40. Edward Bysshe’s _The Art of English Poetry_ (1708).
+
+41. Bernard Mandeville’s “_A Letter to Dion_” (1732).
+
+42. Prefaces to Four Seventeenth-Century Romances.
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+ERRATA (Noted by transcriber)
+
+_As printed:_
+
+  _Introduction:_ The editor’s name, printed “Roestvig”, is more
+  correctly Røstvig.
+
+  _Latin:_ The use of œ and æ in words such as “mœstus” is in the
+  original. Accents are variously acute ´, grave ` or circumflex ^,
+  with no apparent difference in meaning. Some do not even mark long
+  syllables.
+
+  _English:_ Variation between -w- and -vv- is as in the original.
+
+  _Typography:_ In both languages, titles were randomly Italic or Roman.
+  Italicization (or de-italicization) of ’s in possessives is also
+  random.
+
+_Introduction_
+
+  an interesting combination of Stoic and Platonic ideas
+    [_“of / of” at line break_]
+
+_Odes_
+
+  _All headers were in the form “Ode 2, Lib. 1” with the poem number
+  given before the Book number. They have been conventionalized for
+  this Errata list._
+
+  Lib. 1 Ode 1
+  Cum infestæ Thracum Copiæ Pannoniâ excessissent.
+    [_“Co./piæ” for “Co-/piæ” at line break_]
+  The threats of cruell Warre now cease:, [_punctuation unchanged_]
+
+  Lib. 1 Ode 2
+  [title] de adversâ fortunâ  [adverfa]
+  Unmanly howlings, _Lycuas_, leave,
+    [_error for Lycas or Lycus (English title has “Lycas”; Latin has
+    “Lycus”)_]
+
+  Lib. 1 Ode 13
+  Fortune a double ball doth often throw. [doulble]
+
+  Lib. 2 Ode 5
+  Regna procul, populosque vastos  [porcul]
+
+  Lib. 2 Ode 8
+  ... that fortune flings
+    [_final “s” missing at end of long line_]
+
+  Lib. 2 Ode 24
+  And _Nereus_ with his Quicksands Boyling o’re:  [Nerens]
+
+  Lib. 2 Ode 25
+      [_The title of this Ode is printed in anomalous small capitals
+      on both the Latin and the English sides_]
+    Donec Lucicer aureus  [_text unchanged: probably “Lucifer”_]
+    Silvarumq; super colla comantium,  [comantnium]
+    Magnorumq; salit terga cacuminum, ac  [cacumium] ac
+      [_These words appear in consecutive indented lines_]
+
+  Lib. 3 Ode 6
+  I kingdome, _Marcus_, of my selfe I find
+    [_Text unchanged: error for ‘1 kingdome‘ or ‘A kingdome’?_]
+
+  Lib. 3 Ode 12
+  The best would choose, from Heav’n must learne the right.
+    [_comma at end_]
+
+  Lib. 4 Ode 3
+  With swift applause; Hee’s blest whose sprite,  [sptite]
+
+  Lib. 4 Ode 44
+  _Ode 44. Lib. 4._
+    [_Number shown as printed on both Latin and English sides. The
+    error may have been in the source text._]
+  But Jesu! where art thou? what region’s blest  [where at]
+
+  Lib. 4 Ode 15
+  Immune tædî. Clarus olim  [_first word illegible_]
+
+  Lib. 4 Ode 30
+  _Ad Ianussium Skuminum._ : To _Ianusius Skuminus_.
+    [_inconsistent spelling (ss:s) in original_]
+  Hæc ego si nullos fallunt insomnia maneis,  [insomia]
+  Her owne and Nephew’s temples crown’d.  [Nepew’s]
+
+  Lib. 4 Ode 32
+  With nimble finger neat division;  [nible]
+  And if I write, my secure chaire holds mee.  [_comma at end_]
+
+  Lib. 4 Ode 34
+  Splendidam verâ sine luce gazam  [fine luce (f for long s)]
+
+  Lib. 4 Ode 35
+    [_“Vilna” is the city (modern Vilnius, Wilna in Polish), “Vilia”
+    the river (modern Vilnia)_]
+
+  Epode 1
+  His beames, doth guild the Moutaines cleare  [_spelling unchanged_]
+
+  Epode 3
+  Thus spake he to the neighbouring trees, thus he  [neigbouring]
+
+_Long “s”_
+
+  Lib. 1, Odes 2 and 13 (Latin pages 10, 12):
+  Mœstum sol hodiè caput ...  [Mœstum fol ...]
+
+_At the beginning of p. 10 there appears to have been an accident
+with the Italic type trays. Almost all long s’s (ſ) on p. 10 (signature
+5v), and many on p. 12 (signature 6v), are misprinted as f, except in
+the -st- and -ss- ligatures. The last two lines of Ode 1.2, top of
+p. 12:_
+
+    Quod fi deſuerit ſalix
+    Fafces pauperibus ſubjiciet focis.
+
+_Note the s-for-f error. In Italic fonts--used for all Latin poems
+in this text--long “s” is generally _easier_ to distinguish from “f”
+than it is in Roman fonts._
+
+_Page Numbering_
+
+  In Lib. 1 Ode 2, English, page 13 is misprinted as page 31.
+  In Lib. 4 Ode 12, Latin, page 68 is misprinted as page 98.
+  In Lib. 4, Ode 30, page numbers 95-96 are repeated, and the setback
+    in numbering continues to the end of the text. The folio numbers
+    (in duodecimo, or sets of 24 pages) remain correct.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Odes of Casimire, Translated by G.
+Hils, by Mathias Casimire Sarbiewski
+

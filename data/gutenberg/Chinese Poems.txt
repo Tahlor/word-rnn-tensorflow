@@ -1,0 +1,3845 @@
+The Project Gutenberg EBook of Chinese Poems, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Chinese Poems
+
+Author: Various
+
+Translator: Charles Budd
+
+Release Date: November 6, 2011 [EBook #37938]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CHINESE POEMS ***
+
+
+
+
+Produced by Delphine Lettau, Matthew Wheaton and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+    CHINESE POEMS
+
+    TRANSLATED BY
+
+    CHARLES BUDD
+
+    HENRY FROWDE
+    OXFORD UNIVERSITY PRESS
+    LONDON, NEW YORK, TORONTO AND MELBOURNE
+    1912
+
+    OXFORD: HORACE HART
+    PRINTER TO THE UNIVERSITY
+
+
+
+
+_PREFACE_
+
+
+_The initiative of this little book was accidental. One day in the early
+part of last summer, feeling weary of translating commercial documents,
+I opened a volume of Chinese poetry that was lying on my desk and
+listlessly turned over the pages. As I was doing so my eye caught sight
+of the phrase, 'Red rain of peach flowers fell.' That would be
+refreshing, I said to myself, on such a day as this; and then I went on
+with my work again. But in the evening I returned to the book of Chinese
+poetry and made a free translation of the poem in which I had seen the
+metaphor quoted above. The translation seemed to me and some friends
+pleasantly readable; so in leisure hours I have translated some more
+poems and ballads, and these I now venture to publish in this volume,
+thinking that they may interest readers in other lands, and also call
+forth criticism that will be useful in preparing a larger volume which
+I, or some better qualified scholar, may publish hereafter; for it
+can hardly be said that the field of Chinese poetry has been widely
+explored by foreign students of the Chinese language._
+
+_Many of the translations in this book are nearly literal, excepting
+adaptations to meet the exigencies of rhyme and rhythm; but some are
+expanded to enable readers to understand what is implied, as well as
+actually written, in the original; for, after all, the chief aim of the
+translator of poetry should be to create around the mind of the reader
+the sensory atmosphere in which the mind of the poet moved when he wrote
+the poem. Whether I have attained a measure of success in such a very
+difficult task must be decided by the readers of these translations._
+
+_It should be borne in mind by students more or less familiar with the
+Chinese language that there are many versions of the stories and legends
+related in these poems, and these versions, again, have been variously
+interpreted by Chinese poets. A little reflection of this kind will
+often save a critic from stumbling into difficulties from which it is
+not easy to extricate himself._
+
+_A few notes are given at the end of each poem to explain historical
+names, &c., but not many other notes are required as the poems explain
+themselves. Indeed, the truth of the saying, 'One touch of nature makes
+the whole world kin,' has been impressed on my mind deeply by this
+little excursion into the field of Chinese poetry, for the thoughts and
+words of such poems as the 'Journey Back,' 'A Maiden's Reverie,' 'Only a
+Fragrant Spray,' 'The Lady Lo-Fu, 'Conscripts leaving for the Frontier,'
+'The River by Night in Spring,' 'Reflections on the Brevity of Life,'
+'The Innkeeper's Wife,' 'A Soldier's Farewell to his Wife,' &c., show us
+that human nature two or three thousand years ago differed not a whit
+from human nature as it is to-day._
+
+    _CHARLES BUDD._
+
+    _Tung Wen Kwan Translation Office,_
+    _Shanghai, March, 1912._
+
+
+
+
+CONTENTS
+
+
+    A FEW REMARKS ON THE HISTORY AND CONSTRUCTION OF CHINESE POETRY
+
+    THE TECHNIQUE OF CHINESE POETRY
+
+    BIOGRAPHICAL NOTES OF A FEW OF THE MORE EMINENT CHINESE POETS
+
+    _POEMS_
+
+    _Only a Fragrant Spray_
+    _The River by Night in Spring_
+    _The Beauty of Snow_
+    _A Maiden's Reverie_
+    _A Song of the Marches_
+    _The Cowherd and the Spinning-Maid_
+    _The Old Soldier's Return_
+    _On the Lake near the Western Mountains_
+    _The Happy Farmer_
+    _An Old House Unroofed by an Autumn Gale_
+    _The Lament of the Ladies of the Siang River_
+    _The Waters of the Mei-Pei_
+    _The Swallow's Song_
+    _Farewell to a Comrade_
+    _Beauty's Fatal Snare_
+    _A Reverie in a Summer-house_
+    _The Flower-Seller_
+    _The Red-Flower Pear-Tree_
+    _A Song of Princess Tze-Yuh_
+    _Distaste for Official Life_
+    _The Fragrant Tree_
+    _A Song of the Snow_
+    _The Old Temple among the Mountains_
+    _A Soldier's Farewell to his Wife_
+    _The Wanderer's Return_
+    _The Pleasures of a Simple Life with Nature_
+    _Listening to the Playing on a Lute in a Boat_
+    _Reflections on the Past_
+    _A Lowly Flower_
+    _On returning to a Country Life_
+    _The Brevity of Life_
+    _Conscripts leaving for the Frontier_
+    _Estimating the Value of a Wife_
+    _The Lady Lo-Fu_
+    _An Autumn Evening in the Garden_
+    _Muh-Lan_
+    _The Old Fisherman_
+    _Midnight in the Garden_
+    _Reflections on the Brevity of Life_
+    _So-fei gathering Flowers_
+    _A Farewell_
+    _The Khwun-ming Lake_
+    _Reflections_
+    _Pride and Humility_
+    _Dwellers in the Peach Stream Valley_
+    _The Five Sons_
+    _The Journey Back_
+    _The Gallant Captain and the Innkeeper's Wife_
+    _The Lady Chao-Chiuen_
+    _Night on the Lake_
+    _The Fisherman's Song_
+    _The Students' Ramble_
+    _The Priest of T'ien Mountain_
+    _Maidens by the River-side_
+    _The Poet-Beggar_
+
+
+
+
+A FEW REMARKS ON THE HISTORY AND CONSTRUCTION OF CHINESE POETRY
+
+
+The earliest Chinese poems which have been preserved and handed down to
+posterity are contained in the 'Shi-King', or Book of Poetry.
+Translations of this book were first made by Roman Catholic
+missionaries, and later by Dr. Legge whose translation, being in
+English, is better known.
+
+The Shi-King contains three hundred odd poetical compositions, or odes,
+as they might more correctly be described, most of them being set to
+music and sung on official and public occasions.
+
+But many more odes than those in the Shi-King existed at the dawn of
+Chinese literature. Some native scholars think that several thousand
+odes were composed by princes, chiefs, and other men of the numerous
+petty States which were included in Ancient China; and that criticism
+and rejection by later literary compilers, especially Confucius, reduced
+the number deemed worthy of approval to 305, which make up the Shi-King.
+It is, however, quite impossible to say how many odes were composed in
+that early period; many more than those preserved in the Shi-King
+undoubtedly were made, and we can only regret that, when later scholars
+began to collect and criticize these earliest poetical effusions of
+their ancestors, political and other motives induced them to prune or
+lop off whole branches of the nascent tree of poetry with such unsparing
+hands. Fragments of a few early odes not contained in the Shi-King
+remain, but such fragments are not numerous.
+
+As to the value of these early odes critics differ widely. By some
+Western writers they have been compared favourably with the Psalms, the
+Homeric poems, &c., while other writers think that they do not rise
+above the most primitive simplicity. Some of the odes are undoubtedly of
+considerable poetical value; and all critics must acknowledge that the
+Shi-King contains a great deal of valuable information respecting the
+States of Ancient China, and the people who inhabited them in the
+earliest stages of their existence.
+
+It has been necessary to give this brief account of the Shi-King because
+it has loomed so largely in the eyes of students of Chinese literature
+as to exclude from their vision the vast field of Chinese poetry in
+which hundreds of famous Chinese poets have, at different periods,
+wandered, and mused, and sung, for two or three thousand years, and
+their wanderings are described and their musings sung in thousands of
+poems which are unknown to foreign students of Chinese literature. They
+have heard of the Shi-King, a few even have read it; but of the great
+poets of China, who have in a long succession appeared and done immortal
+work and passed away during nearly three thousand years, they know but
+little or nothing at all. My object in publishing this little book is to
+correct this false perspective, not by assailing the Shi-King, but by
+bringing into view a few of the poets and a few of their poems (which
+can only be very inadequately set forth in translations by a writer who
+is not a poet), and thus make a beginning in an undertaking that will
+be, I hope, continued and perfected by men who have more leisure and
+greater poetical skill and inspiration than I possess.
+
+After the compilation of the 300 odes by Confucius, there was a period
+of about one hundred years during which but little attention was given
+to the making of poetry. The earliest poetical compositions handed down
+after those preserved in the Shi-King are the 'Li-Sao' by Kueh-Yuen, of
+the Tsu State, 280 B.C., several poems by Su-Wu and Li-ling, and
+nineteen poems by unknown writers. All these were composed during the
+Han Dynasty or earlier, and they are regarded as poetical compositions
+of great worth by native scholars, although they do not conform to the
+rules which have guided Chinese poets in writing poetry since the T'ang
+Dynasty. Indeed, one commentator has described their perfection as 'the
+seamless robe of heaven', i.e. the dome of heaven--the sky. These early
+poetical compositions are marked by greater simplicity of language,
+deeper feeling, and more naturalness than the poetry of later dynasties,
+which is often cramped by the highly elaborate technique introduced by
+the poets of the T'ang Dynasty.
+
+'The Journey Back,' 'Only a Fragrant Spray,' 'The Swallow's Song,' 'The
+Innkeeper's Wife,' 'A Song of Tze-Yuh,' 'A Maiden's Reverie,' 'Su Wu's
+Farewell to his Wife,' 'Reflections on the Brevity of Life,' are
+specimens of this period.
+
+During the later Han Dynasty, especially in the reign of Kien-An (A.D.
+196), and in the reign of Hwang-T'su (A.D. 220) of the Wei Dynasty,
+several poets of conspicuous ability arose, and their compositions
+compare favourably with the three hundred odes and the ancient poems
+following the odes.
+
+From the Wei Dynasty to the T'sin Dynasty, and on through the 'Luh-Chao'
+(Six Dynasties--the Wu, Tsing, Sung, T'si, Liang, and Chen, covering the
+period from A.D. 220 to 587), one poet after another gained an
+ascendancy and each found many imitators; but the poetry of this period
+is more elaborate and florid than deep and natural.
+
+From the Chen Dynasty (A.D. 557-587) to the end of the Sui Dynasty (A.D.
+589-618) there was but little good poetry produced: it was, in fact, a
+time of literary decadence which continued even into the beginning of
+the T'ang Dynasty. Then a change took place, and great poets arose who
+formed the T'ang School of Poetry, and the poetical technique of that
+school has been more or less closely copied by all writers of poetry to
+this day; and during the most flourishing years of the T'ang Dynasty the
+production of poetry was so rich and abundant that that period is
+regarded by the Chinese as the Golden Age of Poetry.
+
+One native commentator has likened the development of poetry to a tree:
+'The three hundred odes of the Shi-King may be regarded as the root: the
+poems of Su-Wu and Li-ling as the first sprout from the root, and those
+of the Kien-An period as the increasing growth of the sprout into a
+stem, while the poems of the Six Dynasties are the first branches and
+leaves; then in the T'ang Dynasty the branches and leaves became more
+and more abundant, and flowers and fruit appeared crowning the noble
+tree of perfect poetry.' He then goes on to say: 'Students of poetry
+should carefully study the matter, and form, and style of the poetry of
+this period, as they show the source and development, the root and the
+full-grown flourishing tree of poetry. The root must not be lost sight
+of in the profusion of branches and leaves, that is, students must not
+read the poems of the T'ang period and neglect those of ancient times;
+both must be studied together in order to understand the poetry of the
+later periods.'
+
+Another native critic writes: 'The poets of the T'ang Dynasty developed
+a style of their own in poetry different from those that preceded it.'
+The leading poets of the T'ang period had ability to seize all that was
+best in ancient poetry and embody it in a style of their own which is a
+natural development and not a slavish imitation.
+
+The most prominent among the men of genius who effected this great
+change were Chen Tze-ang, Chang Kiu-ling, Li-Peh, Wei Ying-wuh, Liu
+Tsong-Yuen, Tu-Fu, Han-Yue, Tsen-T'san, Wang-Wei, Wang-Han, Li-Kiao and
+Chang-Shoh; and of these Li-Peh is regarded by all Chinese as a
+heaven-born genius--'an Immortal banished to earth,' while Tu Fu is the
+scholarly poet, deeply versed in all branches of Chinese literature,
+which gives depth, and breadth, and style, and infinite variety to his
+poetical compositions, which, however, though very numerous, form but a
+part of his contributions to the literature of his country.
+
+The glory of the T'ang poetry dimmed somewhat towards the end of the
+dynasty; but during the Song Dynasty (A.D. 960-1278), which followed the
+brief epoch of the Five Dynasties (A.D. 907-960), Eo Yang Siu,
+Wang-An-shih, Hwang Ting-kien, Ch'ao Pu-chi, Luh-Yu, and other poets
+added fresh lustre to the glory of Chinese literature by producing many
+poetical compositions which could not be omitted from a large anthology
+containing all the best Chinese poems; but in this small book space for
+two or three only can be found.
+
+It should be remembered that the great poets of the T'ang and later
+dynasties did not always follow the new poetical technique of the T'ang
+Dynasty. Many of their best poems are written in the ancient style; and
+I have written 'ancient style' against a few of such poems among the
+translations, but not against all of them.
+
+An introduction to Chinese poetry, reviewing extensively its rise and
+progress, the style of each period, and the characteristics of the work
+of each poet, would fill a large volume--several volumes indeed would
+hardly suffice for an exhaustive review of such a vast field of work.
+But the very brief review contained in the preceding pages will enable
+readers to see that the three hundred odes are by no means the whole of
+Chinese poetry; they are, indeed, only the beginning--the source of a
+great river whose countless branches, some deep and pure, others
+shallow and sparkling, have flowed down the ages, fertilizing and
+beautifying every period of Chinese life and thought, and producing a
+vast reservoir of poetry which has inspired many in every generation
+with higher sentiments of nature, country, love, friendship, and
+literature.
+
+As this book of translations is chiefly intended for readers who do not
+understand the Chinese language, no attempt has been made to insert the
+Chinese characters for the names, &c., printed in the Romanized form;
+but, following the advice of friends who are well versed in Chinese
+themselves, I hope, hereafter, to publish a small volume containing the
+Chinese text of the translated poems only, with a few notes which may be
+useful to beginners. To reprint the Chinese text and notes with the
+English translations in one volume would add considerably to the cost of
+the book, while only a comparatively small number of readers--students
+of the Chinese language--would find the Chinese text and notes useful.
+
+
+
+
+THE TECHNIQUE OF CHINESE POETRY
+
+
+Form of 7-character Lueh poem beginning in the Ping tone:
+
+  A. Ping ping tseh tseh tseh ping ping
+     Tseh tseh ping ping tseh tseh ping
+     Tseh tseh ping ping ping tseh tseh
+     Ping ping tseh tseh tseh ping ping
+     Ping ping tseh tseh ping ping tseh
+     Tseh tseh ping ping tseh tseh ping
+     Tseh tseh ping ping ping tseh tseh
+     Ping ping tseh tseh tseh ping ping.
+
+Form of 7-character Lueh poem beginning in the Tseh tone:
+
+  B. Tseh tseh ping ping tseh tseh ping
+     Ping ping tseh tseh tseh ping ping
+     Ping ping tseh tseh ping ping tseh
+     Tseh tseh ping ping tseh tseh ping
+     Tseh tseh ping ping ping tseh tseh
+     Ping ping tseh tseh tseh ping ping
+     Ping ping tseh tseh ping ping tseh
+     Tseh tseh ping ping tseh tseh ping.
+
+Form of 5-character Lueh poem beginning in the Ping tone:
+
+  C. Ping ping tseh tseh ping
+     Tseh tseh tseh ping ping
+     Tseh tseh ping ping tseh
+     Ping ping tseh tseh ping
+     Ping ping ping tseh tseh
+     Tseh tseh tseh ping ping
+     Tseh tseh ping ping tseh
+     Ping ping tseh tseh ping.
+
+Form of 5-character Lueh poem beginning in the Tseh tone:
+
+  D. Tseh tseh tseh ping ping
+     Ping ping tseh tseh ping
+     Ping ping ping tseh tseh
+     Tseh tseh tseh ping ping
+     Tseh tseh ping ping tseh
+     Ping ping tseh tseh ping
+     Ping ping ping tseh tseh
+     Tseh tseh tseh ping ping.
+
+In order to understand this arrangement of characters, it should be
+borne in mind that Chinese characters are distinguished not only by the
+phonetic sounds, but also by tones resembling musical notes.
+
+Of these only four are generally recognized in poetical compositions:
+
+(1) The Ping-sheng, or low and even note.
+
+(2) The Shang-sheng, or sharp and ascending note.
+
+(3) The Khue-sheng, or clear and far-reaching note.
+
+(4) The Ruh-sheng, or straight and abruptly finished note.
+
+These tones help to distinguish words which have the same phonetic sound
+but different meanings. For instance, the word--
+
+    'li' (Ping-sheng)  = black.
+    'li' (Shang-sheng) = village.
+    'li' (Khue-sheng)   = sharp.
+    'li' (Ruh-sheng)   = strength.
+
+In written Chinese each of these words is distinguished by a different
+character, and the tone is, therefore, of secondary importance; but
+occasionally a character has two tones--a ping and a khue, for instance,
+and then each tone indicates a difference of meaning, or distinguishes
+the use of the word as a substantive from its use as a verb.
+
+But in poetry these tones are used to make rhythm as well as to express
+meaning, and when used for this purpose they are divided into ping and
+tseh, the ping representing the ping or low, even tone, and the tseh the
+other three tones, Shang, Khue, and Ruh. This brief explanation will
+enable the reader, I think, to perceive what is regarded by Chinese as
+the rhythm of a poem. In the diagrams given above, the first line
+consists of two ping tones, followed by three tseh tones, which are
+followed by two ping tones; and the arrangement of the characters in
+each line in terms of ping and tseh forms the rhythm of Chinese poetry.
+When compared, it will be seen that there are lines or couplets which
+are in contrast to, or harmonize with, other lines, &c.
+
+But it is not necessary that the tones of all the characters in each
+couplet should agree, excepting the first and last lines which always
+agree exactly--tone for tone. In the other lines, the tones of the
+first, third, and fifth characters in a seven-character line, and the
+first and third in a five-character line, may be varied--ping for tseh,
+or tseh for ping; but the second, fourth, and sixth characters in
+seven-character poems, and the second and fourth in five-character poems
+must not be changed; when the ping tone should be used it must be used,
+the tseh may not be substituted for it, and when the tseh should be used
+it must be used, the ping may not be substituted for it. And when the
+opening tone of the first line is a ping, the opening tone of the line
+following must be tseh, and vice versa.
+
+The following two poems are perfect specimens of the 'Tsueeh', or poem of
+four lines, which may be regarded as the unit of Chinese poetical
+composition. The first specimen shows a 'tsueeh' beginning in the Ping
+tone; and the second specimen a 'tsueeh' beginning in the Tseh tone:
+
+  (1)   _p._     _p._     _ts._     _ts._     _ts._     _ts._     _p._
+       Ch'un     fung      tseh      ye        tao       Yue       Kwan
+
+        _ts._     _ts._     _p._     _p._     _ts._     _ts._     _p._
+         Ku       kwoh       yen      hwa     siang       i       tsan
+
+        _ts._     _ts._     _p._     _p._     _p._     _ts._     _ts._
+        Shao       fu       puh      chi      kwei     wei       teh
+
+        _p._     _p._     _ts._     _ts._     _ts._     _p._      _p._
+        Chao     chao      ying     shang     wang       fu      shan.
+
+  (2)   _ts._     _ts._     _p._     _p._     _ts._     _ts._     _p._
+         Tze       meh      hong     ch'en     fuh      mien       lai
+
+        _p._     _p._     _ts._     _ts._     _ts._     _p._      _p._
+         Wu      ren       puh       tao       k'un     hwa       hwei
+
+        _p._     _p._     _ts._     _ts._     _p._     _p._      _ts._
+       Hsueen      tu      kwan       li       tao     ts'ien      shu
+
+        _ts._     _ts._     _p._     _p._     _ts._     _ts._     _p._
+        Tsin       shi      liu      lang      ku        heo      tsai
+
+As I have stated above the 'tsueeh' of four lines, whether the line is
+composed of five or seven characters, may be regarded as the unit of
+Chinese poetical composition. In order to make a 'lueh' poem four more
+lines, composed exactly according to the ping-tseh arrangement of tones
+in the tsueeh, are added to the tsueeh; while a 'p'ai-lueh' poem is made by
+continuing this process beyond eight lines.
+
+Besides the ping and tseh arrangement of tones in each line to form the
+metre or rhythm, the final characters of the first, second, and fourth
+lines of the tsueeh may rhyme with each other; but these rhymes are also
+controlled by the ping-tseh tones. For instance, in the specimen of a
+perfect tsueeh given above, the final characters of the first, second,
+and fourth lines are kwan, ts'an, and shan, and these sounds rhyme in
+Chinese; but it will be observed that all three words belong to the ping
+tone, and this is the rule generally followed in the technique of modern
+poetry, that is, poetry made according to the new rules introduced by
+the poets of the T'ang Dynasty; but in ancient poetry, words both in
+ping and tseh tones were used for rhymes; and poets of all periods have
+used both systems--ancient and modern--in their poetical compositions.
+The tendency in recent dynasties, however, has been to follow the
+elaborate technique of the modern school of poetry in which great skill
+in the art of poetical composition is too often more highly prized than
+true poetry, and consequently mere cleverness is mistaken for genius.
+
+These few remarks on the use of the ping-tseh tones in the rhythm and
+rhyme of Chinese poetry must not be regarded by readers as an exhaustive
+summary of the system, which is much more intricate than it seems, owing
+to many qualifying rules and conditions as to its application in
+relation to the other factors required to form a correct poetical
+composition; they will, however, suffice to give a general conception of
+the part played by the ping and tseh tones in the technique of Chinese
+poetry, especially in modern poetical compositions. But although the
+ping-tseh tones are indispensable to the rhythm of the modern poem,
+there are, as I have remarked above, other factors required to form a
+perfect 'tsueeh', or 'Lueh', or 'pai-lueh', and most elaborate instructions
+as to the use of each character or line in relation to other characters
+and lines in the same stanza must be mastered before a poem can be
+constructed that would satisfy the eye and ear, and literary standard,
+of the modern Chinese critic of poetry. But it must not be forgotten
+that the scholarly Chinese poet is just as familiar as his Western
+_confrere_ with the metaphor, simile, allegory, epigram, climax, and all
+other figures of speech which are common in the prose and poetry of a
+literary people; and the skilful use of these in harmony with the rigid
+ping-tseh rules concerning rhythm and rhyme is a task of considerable
+difficulty for the conscientious poet. Fortunately the ancient poets did
+not adhere very rigidly to technique; and not a few modern poets have in
+many of their compositions imitated the ancient style. Besides the
+tsueeh and lueh there are many poetical compositions, such as the ko,
+hsing, yin, tz'e, k'ueh, p'ien, yong, yao, t'an, ai, yuen, and pieh--many
+of them of very ancient origin, which are all put under the generic term
+'yoh-fu', implying that they are compositions which can be set to music
+and sung, chanted, recited, &c. Some of the most charming poetical
+compositions are found in Chinese anthologies under the above-mentioned
+headings; but in this brief introduction it is only possible just to
+call the attention of readers to them without attempting to describe the
+form of each separately. For the same reason I cannot attempt any
+description of the ancient terms fung, ya, song, &c., to which, however,
+translators of the Shi-King have given some attention.
+
+It is doubtful, indeed, whether the information which I can crowd into a
+few introductory pages will help readers to gain an insight into Chinese
+poetry in the making, or utterly confuse them; but I am loath to send
+forth the translations without an introduction, and I must, therefore,
+remind readers again that this introduction gives only the barest
+outline of the rise and progress of Chinese poetry, and of a few of the
+factors which are required by modern technique in the construction of
+poetical compositions since the revival of literature and poetry in the
+T'ang Dynasty.
+
+It should be observed that no attempt has been made to reproduce the
+technique outlined above in the English translations of Chinese poems in
+this book, as it would be impossible to restrict the translations to
+lines of five and seven words. In Chinese each character is a word of
+one syllable only, therefore a five-character line of poetry contains
+only five monosyllabic words, and a seven-character line seven
+monosyllabic words; but as many articles, pronouns, prepositions,
+auxiliary verbs, &c., which are understood in the Chinese, must be
+inserted in the English translation in order to connect the meaning of
+the five or seven monosyllabic words which form a line of Chinese
+poetry, it is obvious that, in most cases, the length of the line in the
+translation must be longer than that in the original Chinese. Some
+Chinese poems might be rendered into English in lines of five or seven
+syllables without doing much violence to the meaning of the original,
+but in most cases, the five or seven monosyllabic line in Chinese is
+translated into English far more correctly and accurately by a line of
+eight, ten, or more syllables, because the Chinese reader mentally
+inserts connecting parts of speech which must be written in English to
+make the grammar correct and the meaning of a line complete.
+
+
+
+
+BIOGRAPHICAL NOTES OF A FEW OF THE MORE EMINENT CHINESE POETS
+
+
+LI PEH.
+
+Li Peh (Tai Peh; Tsing Lien) lived during the T'ang Dynasty, probably
+from A.D. 699 to 762, and he is regarded as the most brilliant of all
+Chinese poets.
+
+He was connected by descent in the ninth generation with the Imperial
+family of the T'ang Dynasty, but was born in a remote part of the Empire
+now included in the Szechwan Province.
+
+When but ten years old Li Peh was familiar with poetry and other
+branches of literature, and, as he grew older, his ability and genius
+attracted the attention and praise of the highest in the land. When
+introduced to the Court at Chang-an, Ho Chi-chang, one of the courtiers,
+exclaimed:--'He is one of the immortal genii banished to earth.' For a
+short time, too, he was greatly favoured by the Emperor, Hsueen-Tsung,
+but, having incurred the enmity of the Emperor's chief concubine, he had
+to withdraw from the Court and relinquish all hopes of official
+promotion.
+
+He then travelled widely, writing many poems on the beauties of nature,
+and also in praise of wine and music, to the former of which he was too
+strongly addicted.
+
+In the later part of his life, it seems, he became involved in political
+intrigues, for which offence he was banished to a distant region. But in
+his old age he was allowed to return, and he ended his days peacefully
+at T'ang-t'u (a place near the modern Nankin), whose governor was a
+kinsman named Li Yang-ping.
+
+
+CHANG KIU-LING.
+
+Chang Kiu-ling (Tze Sheo) was the son of an official in the T'ang
+Dynasty. At a very early age he displayed great ability, and while still
+comparatively young, took a high literary degree (Tsintze), and then
+held high office under the Emperor Hsueen-Tsung, with whom he sometimes
+ventured to remonstrate for his licentious life. Once when all the
+courtiers presented valuable gifts to the Emperor on his birthday, Chang
+Kiu-ling presented him with a book written by himself and styled 'The
+Thousand Year Mirror', showing the causes of success and failure in
+former dynasties. His advice, however, was not seriously heeded at the
+time, but after his death his faithfulness was appreciated and he was
+ennobled and afterwards canonized by the Emperor.
+
+It is recorded by one writer that Chang Kiu-ling, when a youth, trained
+pigeons to carry letters to his friends.
+
+
+WEI YING-WUH.
+
+Wei Ying-wuh was a native of Honan during the T'ang Dynasty, and his
+poetical skill ranks very high even in that famous period. During the
+Cheng-Yuen reign (A.D. 785-804) he was appointed Prefect of Suchow,
+where his beneficent rule and devotion to literature called forth the
+gratitude and admiration of the people.
+
+
+SU SHI.
+
+Su Shi (Tze-Chan; Tong-Po), A.D. 1036-1101, was a native of Mei-shan in
+Szechwan. He won the highest literary degrees, and was advanced from one
+official office to another until he became a Minister of State; but,
+owing to political feuds and intrigues, he was degraded from his high
+office in the capital and sent to fill inferior posts in distant parts
+of the Empire, where he wrote poetry and diffused a love of literature
+among the people he ruled.
+
+
+TU FU (A.D. 712-770).
+
+Tu Fu (Tu Tze-Mei) was the son of Tu Fan-yen, a high official in the
+T'ang Dynasty. In the estimation of his countrymen he ranks next to Li
+Peh among the great poets of the Tang Dynasty, and a few critics would
+give him a still higher place.
+
+When Tu Fu's literary ability and poetical genius were made known to the
+Emperor, office and honours were bestowed on him.
+
+In the poetical composition known as the Seven-character Pai-lueh, Tu Fu
+is the most famous of all the poets of the T'ang Dynasty, if not of all
+Chinese poets.
+
+
+EO YANG SIU (A.D. 1017-1072).
+
+Eo Yang Siu (Yong-Shuh) was a famous scholar of the Song Dynasty; and he
+filled high official posts both in the capital and provinces, under the
+Emperor Ren-Tsong.
+
+Being a man of integrity and independence he remonstrated with his
+Imperial master on several occasions, and sometimes suffered temporarily
+for his courage. His character, however, was appreciated by the Emperor,
+and restoration to favour followed every temporary eclipse. After his
+death he was canonized as Wen Chong Kong. His literary works are
+numerous.
+
+
+SU WU (200-100 B.C.).
+
+Su Wu (Tze K'ing) lived in the Han Dynasty. When sent on a mission to
+the Khan of the Hsiung-nu he was seized by that ruler and ordered to
+renounce his allegiance to the Han Emperor; and on refusing to do this
+he was cast into prison. Afterwards he was banished for many years to
+the desert region around Lake Balkash, where he was compelled to tend
+the flocks of the Hsiung-nu; but he persisted in his loyalty to the Han
+Dynasty. On his return to China, when a grey-headed old man, he was
+greatly honoured by the Emperor, and his portrait was hung up in the
+Khi-lin Koh (Council Chamber).
+
+He is held up as a pattern of loyalty by Chinese writers. His poetical
+compositions are ancient but not numerous.
+
+
+LI LING (First Century B.C.).
+
+Li Ling was a military commander in the Han Dynasty. Given command of an
+army in the war against the Hsiung-nu he rashly advanced into the
+enemy's country with only a few thousand soldiers, who were surrounded
+and all but three or four hundred killed, and Li Ling was captured, and
+spent the rest of his life in exile. His name is mentioned in the
+Introduction to this book of translations.
+
+
+CHU KWANG-HI.
+
+Chu Kwang-hi was a soldier of the T'ang Dynasty. He passed the highest
+literary examinations, and was appointed a member of the Censorate by
+the Emperor Hsueen Tsong.
+
+
+CHEN TZE-ANG.
+
+A celebrated scholar of the T'ang Dynasty. He filled various official
+offices, but is most famous for the work he did in advancing the
+renaissance of literature during the T'ang Dynasty. Wang Shih, a learned
+writer of the same period, said that Chen Tze-ang was the most famous
+scholar in the Empire of that time.
+
+
+T'AO YUEN-MING (A.D. 365-427).
+
+T'ao T'sien (T'ao Yuen-ming) was a scholar and poet of the Song Dynasty.
+He was appointed Magistrate of a district, but after filling the office
+only a short time he resigned it and retired into private life, spending
+the remainder of his years in writing poetry and in musical pursuits.
+
+
+
+
+CHINESE POEMS
+
+
+
+
+_Only a Fragrant Spray_
+
+NAME OF POET UNKNOWN (HAN DYNASTY OR EARLIER)
+
+
+    Ah me, the day you left me
+      Was full of weary hours;
+    But the tree 'neath which we parted
+      Was rich with leaves and flowers.
+
+    And from its fragrant branches
+      I plucked a tiny spray,
+    And hid it in my bosom
+      In memory of that day.
+
+    I know the endless distance
+      Must shut you from my view,
+    But the flower's gentle fragrance
+      Brings sweetest thoughts of you.
+
+    And, though it's but a trifle,
+      Which none would prize for gain,
+    It oft renews our parting,
+      With all the love and pain.
+
+
+
+
+_The River By Night in Spring_
+
+BY CHANG POH-HSUe
+
+
+    In Spring the flooded river meets the tide
+      Which from the ocean surges to the land;
+    The moon across the rolling water shines
+      From wave to wave to reach the distant strand.
+
+    And when the heaving sea and river meet,
+      The latter turns and floods the fragrant fields;
+    While in the moon's pale light as shimmering sleet
+      Alike seem sandy shores and wooded wealds.
+
+    For sky and river in one colour blend,
+      Without a spot of dust to mar the scene;
+    While in the heavens above the full-orbed moon
+      In white and lustrous beauty hangs serene.
+
+    And men and women, as the fleeting years,
+      Are born into this world and pass away;
+    And still the river flows, the moon shines fair,
+      And will their courses surely run for ay.
+
+    But who was he who first stood here and gazed
+      Upon the river and the heavenly light?
+    And when did moon and river first behold
+      The solitary watcher in the night?
+
+    The maples sigh upon the river's bank,
+      A white cloud drifts across the azure dome;
+    In yonder boat some traveller sails to-night
+      Beneath the moon which links his thoughts with home.
+
+    Above the home it seems to hover long,
+      And peep through chinks within her chamber blind;
+    The moon-borne message she cannot escape,
+      Alas, the husband tarries far behind!
+
+    She looks across the gulf but hears no voice,
+      Until her heart with longing leaps apace,
+    And fain would she the silvery moonbeams follow
+      Until they shine upon her loved one's face.
+
+    'Last night,' she murmured sadly to herself,
+      'I dreamt of falling flowers by shady ponds;
+    My Spring, ah me! half through its course has sped,
+      But you return not to your wedded bonds.'
+
+    For ever onward flows the mighty stream;
+      The Spring, half gone, is gliding to its rest;
+    While on the river and the silent pools
+      The moonbeams fall obliquely from the west.
+
+    And now the moon descending to the verge
+      Has disappeared beneath the sea-borne dew;
+    While stretch the waters of the 'Siao and Siang',[1]
+      And rocks and cliffs, in never-ending view.
+
+    How many wanderers by to-night's pale moon
+      Have met with those from whom so long apart:--
+    As on the shore midst flowerless trees I stand
+      Thoughts old and new surge through my throbbing heart!
+
+[1] Two streams flowing into the Yangtze River.
+
+
+
+
+_The Beauty of Snow_
+
+BY PAO-CHAO
+
+
+    A thousand miles across the Dragon Mountains
+      The North Wind blows the whirling flakes of snow,
+    Until they gather on my terraced garden,
+      And drift before the gate in furrowed row.
+
+    Unlike the coloured plum and fragrant peach trees,
+      Whose buds stretch forth to greet the warm Spring days,
+    At dawn the snow lies in unsullied whiteness,
+      But flees to shelter from the sun's bright rays.
+
+    The peach flower and the plum flower have a beauty,
+      Which flourish in the warmth of sun and shower;
+    The snow's brief charm is purity and brightness,
+      It does not claim the sun tints of the flower.
+
+
+
+
+_A Maiden's Reverie_
+
+T'SIN DYNASTY, A.D. 265-419
+
+
+    The plum-tree's flower awakens
+      Thoughts of my lover now,
+    And I would pluck some blossoms
+      And send to far Si-chow.
+
+    But such a distant region
+      The flowers might never reach,
+    While if I go in person,
+      How great the joy to each!
+
+    I'll brush my glossy tresses,
+      More dark than raven's plume;
+    I'll wear my plum silk mantle,
+      And banish tears and gloom.
+
+    But where, alack, is Si-chow?
+      Far in the North, I know;
+    Oh, when I've crossed the river
+      I'll ask which way to go!
+
+    Ah me, the sun is setting,
+      Si-chow is far away;
+    The birds are homeward turning,
+      I cannot start to-day.
+
+    I'll keep an evening vigil
+      Beneath the cedar-tree
+    That stands outside the porch-way;
+      My love may come to me!
+
+    The jewels my hair adorning
+      Are glistening with the dew;
+    But still my lover tarries;--
+      What keeps him from my view?
+
+    A gentle breeze is blowing,
+      The night is bright as day;
+    I'll go and gather lilies,
+      And meet him on the way.
+
+    In the early Autumn season
+      The lotus lilies red
+    Are in the south pool growing,
+      And reach above my head.
+
+    My thoughts on old times musing,
+      I stoop to pluck some seeds,
+    In their shimmering greenness
+      As water 'mongst the reeds.
+
+    I put some in my bosom,
+      For the core is red as blood,
+    As the heart of a true lover,
+      When love is at the flood.
+
+    Pressed to my bosom closely--
+      No safer place, I wot,
+    For tokens of betrothal;
+      And yet my love comes not!
+
+    Above my head in batches
+      The wild geese northward hie,
+    And they will pass o'er Si-chow!
+      Oh, would that I could fly!
+
+    I'll mount the northern turret;
+      Perhaps from that lofty height
+    I'll see my lover coming,
+      The herald of the light.
+
+    Although the tower is lofty,
+      I cannot see afar
+    To where my love is dwelling,
+      Beneath the Northern Star.
+
+    From morn until the evening--
+      How long the hours do seem!--
+    I've paced around the turret,
+      As in a weary dream.
+
+    Once more I'll raise the curtain,
+      And show my lamp's pale light;
+    My love may miss the pathway,
+      And wander in the night.
+
+    How lofty are the heavens!
+      How vast the heaving sea!
+    Ah, life is sad and dreary
+      When love comes not to me!
+
+    But though my heart is weary,
+      I trust my lover's vow;
+    The south wind knows my longings
+      And will bear them to Si-chow.
+
+    And though the seas divide us
+      Our hearts are one for ay,
+    And in sweet dreams will mingle
+      Until the meeting day.
+
+
+
+
+_A Song of the Marches_
+
+BY LI TAI-PEH
+
+T'ANG DYNASTY
+
+
+    The Tien-shan peaks still glisten
+      In robes of spotless white;
+    To songs of Spring I listen,
+      But see no flowers around.
+
+    The ground is bare and dreary,
+      No voice of Spring I hear,
+    Save the 'Willow Song',[2] so eerie,
+      I play upon my flute.
+
+    At morn the fight will follow
+      The sound of bugle call;
+    Each man, in sleep, the hollow[3]
+      Across his saddle clasps.
+
+    And by his side unrusted,
+      His sword is closely laid,
+    With which he long has trusted
+      The tyrant foe[4] to slay.
+
+    On noble chargers riding,
+      And fleeter than the wind,
+    All fears and risks deriding,
+      They cross the river Wei.
+
+    Their bows are tautened tightly,
+      Their quivers full of shafts,
+    They face the danger lightly,
+      And charge the haughty foe.
+
+    As rocks by lightning riven
+      Their ranks are rent apart;
+    As clouds by tempest driven
+      They break and flee away.
+
+    Then on the sand, blood-streaming,
+      The weary victors sleep,
+    Their swords with hoar-frost gleaming,
+      Their bows dark shadows cast.
+
+    The Pass has been defended,
+      The foes are scattered far,
+    The soldiers' wives untended
+      May seek their homes again.
+
+[2] The name of a tune.
+
+[3] The Chinese saddle is curved upwards both in front and at the back,
+leaving a deep hollow in the centre where the rider sits.
+
+[4] Tartar tribes beyond the frontiers.
+
+
+
+
+_The Cowherd and the Spinning-Maid_[5]
+
+BY LUH-KI
+
+
+    Brightly shines the Starry River
+      Flowing down the Heavenly glade;
+    From the north-west comes the 'Herd-Boy',
+      From the south-east looks the 'Maid'.
+
+    Quickly waves a white hand shapely,
+      Sadly smiles her beauteous face,
+    When she sees her faithful lover
+      Far across the glittering space.
+
+    Arms stretched out towards each other--
+      With impulsive feet they stand;
+    Eyes with sorrow's tears bedewed--
+      On the Star-Stream's shining strand.
+
+    But, alas, that bridgeless River
+      Is the cause of all their pain,
+    Dooming 'Spinning-Maid' and 'Herd-Boy'
+      Nevermore to meet again.
+
+[5] According to a Chinese legend the stars K'ien-Niu (Cowherd) and
+Chih-Nue (Spinning-Maid) are two lovers, doomed by the gods to live on
+opposite sides of the 'River of Stars' (Milky Way). As there is no
+bridge over this river, the two lovers can only stand afar and gaze at
+each other. (See note to 'The Swallow's Song'.)
+
+
+
+
+_The Old Soldier's Return_
+
+AN ANCIENT POEM: POET UNKNOWN
+
+
+    I was but fifteen when I left my friends
+      For distant climes to fight our Country's foe,
+    And now I'm eighty--back for the first time
+      To see the home I left so long ago.
+
+    Where is the house? I should be near it now,
+      Yet possibly I may have gone astray;
+    Long years abroad have blurred the youthful brain,
+      I'll ask this countryman to point the way.
+
+    'The house is yonder--midst those grassy mounds,
+      Beneath the shade of fir and cypress trees,
+    And there lie buried all the kith and kin
+      Of former tillers of these fallow leas.'
+
+    The veteran sighed and wandered to the house,
+      And found it overgrown and desolate;
+    A startled hare fled through the kennel's hole,
+      And pheasants flew from ceiling beams ornate.
+
+    Exhausted by the journey and his grief,
+      The old man plucked some grain from patches wild,
+    And mallows from around the courtyard well,
+      As in the days when but a little child.
+
+    But when the homely fare was cooked and spread,
+      And not a friend to cheer the lonely place,
+    He rose, and going out to eastward gazed,
+      While tears flowed down his worn and furrowed face.
+
+
+
+
+_On the Lake near the Western Mountains_
+
+BY CH'ANG KIEN.
+
+T'ANG DYNASTY (ANCIENT STYLE)
+
+
+    Here at the foot-hills of the Western Mountains
+      My boat rides idly on the current's trail,
+    And in the lengthening radiance of the sunset
+      It seems to chase its own reflected sail.
+
+    While in the rarer light that heralds evening
+      The forms of all things clearer seem to grow;
+    The forests and the glades and mountain ranges
+      Catch added beauty from the afterglow.
+
+    The graceful minarets in cloudland floating
+      From jadestone green take on a sombre hue,
+    But still flush rose tints in the darkness falling,
+      Although the sun has disappeared from view.
+
+    The shadows of the islands and the islets
+      Stretch far across the surface of the lake;
+    The evening mists that float above the waters
+      Are bright as rain-clouds after showers break.
+
+    In the distance Tsu's[6] abounding forests
+      Reveal their sombre outlines in the gloom;
+    While on the farther shore the gates of King-chow
+      Within the growing darkness faintly loom.
+
+    The atmosphere with nightfall groweth clearer,
+      A north wind blows with shrill voice through the land;
+    While on the sandy stretches by the waters
+      The swan and stork in dreamy silence stand.
+
+    The waters now have ceased from restless heaving,
+      My little boat is screened by rushes green;
+    The moon emerging from the lake's horizon
+      A soft light sheds upon the silent scene.
+
+    Amid the silence and the ghostly beauty
+      I touch my lute to plaintive songs of old,
+    And soon the pleasant strains and long-drawn cadence
+      Have seized my senses in their subtle hold.
+
+    Thus in such ecstasy the hours pass quickly,
+      And midnight comes with undetected speed;
+    But now the heavy dew upon me falling
+      Recalls my senses to the body's need.
+
+    Ah me! my body's but a fragile vessel
+      Upon the ever-moving sea of life,
+    Where light and shade and fitful joys and sorrows
+      Control me in their everchanging strife.
+
+[6] The name of a large feudal State in the Cheu Dynasty; it included
+Hupeh and Hunan and parts of Honan and Kiangsu. King-chow on the Yangtze
+was the capital.
+
+
+
+
+_The Happy Farmer_
+
+BY CHU KWANG-HI
+
+T'ANG DYNASTY
+
+
+    I've a hundred mulberry trees
+      And thirty 'mow' of grain,
+    With sufficient food and clothes,
+      And friends my wine to drain.
+
+    The fragrant grain of 'Ku-mi' seed
+      Provides our Summer fare;
+    Our Autumn brew of aster wine
+      Is rich beyond compare.
+
+    My goodwife comes with smiling face
+      To welcome all our guests;
+    My children run with willing feet
+      To carry my behests.
+
+    When work is done and evening come,
+      We saunter to the park,
+    And there, 'neath elm and willow trees
+      We're blithe as soaring lark.
+
+    With wine and song the hours fly by
+      Till each in cloudland roams,
+    And then, content with all the world,
+      We wander to our homes.
+
+    Through lattice-window steals a breeze,
+      As on my couch I lie,
+    While overhead the 'Silver Stream'
+      Flows through a splendid sky.
+
+    And as I gaze it comes to mind--
+      A dozen jars at least
+    Of the aster-scented wine remain
+      To grace to-morrow's feast.
+
+
+
+
+_An Old House Unroofed by an Autumn Gale_
+
+BY TU FU
+
+T'ANG DYNASTY
+
+
+    The roof of my house has been blown away
+      By the fiercest of Autumn winds to-day;
+    It was merely of grass and branches built--
+      Yet my only shelter save a wadded quilt.
+
+    Across the river it scurried and whirled,
+      In tangled tufts, by the hurricane hurled,
+    Ascending in gusts till caught by the trees,
+      Or falling in ponds and on furrowed leas.
+
+    In great delight the village urchins shout,
+      And say I'm old and cannot run about;
+    And now before my face the rogues begin
+      To steal things, and then run away and grin.
+
+    At last I drive them off and hobble back
+      To find my home is shelterless, alack!
+    My lips are parched, my tongue is stiff and dry;
+      My strength is gone, I can but rest and sigh.
+
+    The wind has slackened but dark clouds affright,
+      And wintry is the fast approaching night;
+    My bed is worn and hard, my clothing spare,
+      I cannot sleep for pain and anxious care.
+
+    The rain still drizzles through the rafters high,
+      'Tween which I see the drifting stormy sky,
+    And everything is damp and comfortless:
+      What can be done to lighten such distress?
+
+    Oh, would there were a mansion of delight,
+      A hundred million rooms both fair and bright,
+    To shelter all the poor beneath the skies,
+      And give the joy which lasting peace supplies.
+
+    Could I but see this mansion rise sublime
+      Before my eyes at this, or any time;
+    My house and life to lose I'd be content,
+      Could such great blessing to the world be sent.
+
+
+
+
+_The Lament of the Ladies of the Siang River_[7]
+
+BY YUEN I-SHAN
+
+
+    The rose and orchid deck the fragrant isles,
+      And white clouds fly towards the Northern strand;
+    But though a thousand autumns pass away,
+      Our 'Lord' will not return to mortal's land.
+
+    The clouds are drifting to and fro in vain,
+      Across the river blows the autumn breeze,
+    And o'er the water floats a fine, white mist,
+      While moonlight falls on stream and wooded leas.
+
+    Upon the lofty 'Kiu-e'[8] mountain range
+      Throughout the night the gibbons wail and call,
+    And from the voiceless boughs of tall bamboos
+      The tears so long retained in dewdrops fall.
+
+[7] According to a Chinese legend the Ladies of the Siang River are
+Nue-Ying and Ngo-Hwang, the two wives of the Emperor Shun, and this poem
+describes their lament for his death.
+
+[8] According to another legend the Emperor Shun was buried in the Kiu-i
+Mountains.
+
+
+
+
+_The Waters of the Mei-Pei_
+
+BY TU FU
+
+T'ANG DYNASTY
+
+
+    Two friends whose love of wonders led them oft
+      To leave the haunts and scenes of every day,
+    Invited me to join them in a voyage
+      Across the waters of the dread Mei-Pei![9]
+
+    Where nature in her changeful moods is seen,
+      In grandeur and in terror side by side;
+    Where mighty forces alter heaven and earth,
+      And puny human strength and life deride.
+
+    Will countless billows of the wide expanse
+      In ceaseless motion mount and roll afar?
+    Through fluid piles of seeming crystal rocks
+      Will our boat sail beyond the sheltering bar?
+
+    Delightful is the venture that we take,
+      And yet dire fears will gather in our throat,
+    The gavial huge may come in search of prey,
+      The monster whales may overturn our boat!
+
+    Fierce winds may rise and billows roll and break!
+      But our brave friends unloose the flowing sail,
+    And through the scattering flocks of duck and tern
+      The boat glides on--the white foam in our trail.
+
+    The pure and bracing air inflates our lungs--
+      Afar from towns where dust with cleanness vies;
+    The boatmen chant gay ditties as they work,
+      While sounds of lutes rise to the azure skies.
+
+    As fresh as dew on early morning flowers
+      The leaves of water-lilies float around,
+    Upon the surface of the water clear,
+      Through which we peer in vain to find the ground.
+
+    Then yielding to the current, broad and strong,
+      Toward the central flood we quickly forge;
+    The waters pure as those of Puh and Hsiai,[10]
+      Yet darkly deep as in the Chong-Nan gorge.[11]
+
+    The mountain heights whose base abuts the lake
+      Are mirrored clearly in the southern end;
+    The Great Peace Temple, which in cloudland hangs,
+      Reflects its image in the eastern bend.
+
+    The moon has risen, and its silver beams
+      Across the Lan-Tien Pass[12] in beauty glow,
+    While we sit idly on the vessel's side
+      And watch the nodding peaks in depths below.
+
+    And as we view the mirage of the heights
+      Which tower in mighty strength above our heads,
+    The swift Li-Long[13] in prodigal display
+      A shower of pearls upon the water spreads.
+
+    The Ruler of the Rivers[14] beats his drum,
+      And dragons haste the summons to obey;
+    The Consorts[15] of the ancient king descend,
+      Led by the Maiden of the Star-lit Way.[16]
+
+    To branched instruments of beaten gold,
+      Adorned with pendants of sapphire and jade,
+    They sing, and dance, midst lights of many hues,
+      Which flash in splendour, then in darkness fade.
+
+    In ecstasy we watch the wondrous scene,
+      But awe and joy are mingled in our mind,
+    For now far off we hear the thunder peal,
+      And lowering clouds with lurid lights are lined.
+
+    The waters heave with burdensome unrest,
+      The air is full of shadows of the dead;
+    The Spirits of the Universe are near,
+      And we cannot divine their portents dread.
+
+    And such is life--an hour of changing scenes
+      Of fitful joy and quickly following grief;
+    An hour of buoyant youth in rapid flight,
+      And then old age to end life--sad and brief!
+
+[9] A vast body of water in some wild and remote part of the Empire,
+probably in the north-west; but the exact locality is disputed.
+
+[10] The names of two rivers, or the two words combined may mean the
+clear water of a deep cove or inlet.
+
+[11] A deep gorge in the Chong-nan Mountains in Shen-si.
+
+[12] A famous Pass near Si-ngan, the provincial capital of Shen-si.
+
+[13] A fabulous Dragon whose mythological ancestry and habitat I am
+unable to trace.
+
+[14] Ping-i, name of the Chinese God of Waters.
+
+[15] Nue-Ying and Ngo-Hwang, daughters of the Emperor Yao, and wives of
+the Emperor Shun (2288 B.C.?).
+
+[16] The Spinning-Maid. See legend of Cowherd and Spinning-Maid.
+
+
+
+
+_The Swallow's Song_[17]
+
+BY EMPEROR WEN
+
+OF THE WEI DYNASTY (A.D. 220-264)
+
+
+    The autumn winds are blowing,
+      The air is cool and drear,
+    The forest leaves are falling,
+      The grass is scant and sear.
+
+    The dew to hoar-frost changes,
+      And swallows southward fly;
+    While from the North in batches
+      The wild swan cloud the sky.
+
+    And I such signs discerning
+      Think of you, husband dear,
+    And long for your home-coming
+      From marches long and drear.
+
+    Why do you longer tarry
+      In such a distant place?
+    Think of my lonely vigils,
+      Sad thoughts and tear-stained face!
+
+    The harp I often finger,
+      And try to sing a song;
+    But soon I sigh and falter,
+      And for your coming long.
+
+    The Moon's pure light is shining
+      Upon my lonely bed;
+    The 'Star-Stream's'[18] westward flowing,
+      The night is not far sped.
+
+    The Cowherd and the Spinning-Girl[19]
+      Lament the doom that bars
+    The meeting of true lovers,
+      Across the Stream of Stars.
+
+    What folly did they ponder
+      To meet so dire a fate?
+    I wonder if we also
+      Are doomed to trial as great!
+
+[17] In this poem the thoughts of a woman, whose husband is engaged in
+the wars beyond the frontier, are described by the poet.
+
+[18] The Milky Way.
+
+[19] K'ien-Niu (Cowherd) and Chih-Nue (Spinning-Girl) are the names of
+two stars and, according to a Chinese legend, these two stars are lovers
+doomed to gaze at each other across the wide 'River of Stars'; i.e. the
+Milky Way, but never meet. According to one version of the legend,
+however, the lovers are allowed to meet once a year, on the seventh
+night of the Seventh Month, when birds form a bridge over the 'River of
+Stars' to enable the Spinning-Girl to meet her lover.
+
+
+
+
+_Farewell to a Comrade_
+
+BY CHEN KIA-CHOW
+
+T'ANG DYNASTY
+
+
+    Cold gusts from Arctic regions sweep the ground,
+      And snowflakes countless fly through the wintry sky,
+    Covering with spotless robe the earth around,
+      While snow flowers frail on twigs and branches lie.
+
+    As when a genial breeze in early Spring
+      Shakes open all the pear-trees' blossoms white,
+    And sombre-looking trees with leafless boughs
+      Are decked with radiance in a single night.
+
+    Through crevices and slits in bamboo blinds,
+      Which shield the entrance to our hempen tent,
+    Snow-whirls and keen winds blow and chill the blood,
+      In spite of furs and wadded garments blent.
+
+    Cold so intense is felt by all alike--
+      The General cannot stretch his horn-tipped bow,
+    In coats of mail the Captains stiffly move,
+      While soldiers growl or mutter curses low.
+
+    Far off the desert stretches as a sea,
+      In frozen ridges like to driven clouds,
+    Alas, the multitudes of warriors brave
+      The pathless waste of cruel sand enshrouds!
+
+    But now our happy comrade homeward turns,
+      We'll drink his health to sound of viol and flute,
+    And see him safely on his journey start;
+      Another cup, and then the old salute!
+
+    Falls thick the snow around the fortress walls,
+      The red flag frozen stirs not in the air,
+    As forth we ride from out the Eastern gate,--
+      In jostling groups, or quietly pair by pair.
+
+    Nearing the Tien-shan[20] road we draw in rein,
+      To bid our comrade there a last farewell,
+    And watch him upward climb the mountain path
+      To peaks that touch the clouds where genii dwell.[21]
+
+    But soon the winding path conceals from view
+      The fading horsemen as they upward wend;
+    All we now see are footprints in the snow,
+      As 'ih-lu fuh-sing'[22] we towards them send.
+
+[20] The Tien Mountains; in many books of geography erroneously
+described as Tien-Shan Mountains.
+
+[21] According to Chinese mythology, the top of the Tien Mountains touch
+heaven and are the abode of the genii.
+
+[22] May the Star of Happiness accompany you to the end of the journey.
+
+
+
+
+_Beauty's Fatal Snare_[23]
+
+BY LI HAN-LIN
+
+T'ANG DYNASTY
+
+
+      The ravens roost upon the towers of Su,
+      While revels reign within the Court of Wu;
+    The rustic Si-Shi with her peerless face,
+    Her slender form, her witching smile and grace.
+
+      Inflamed by wine, she now begins to sing
+      The songs of Wu to please the fatuous king;
+    And in the dance of Tsu she subtly blends
+    All rhythmic movements to her sensuous ends.
+
+      Si-Shi o'er Wu her spell has surely cast,
+      The King of Yueeh has snared his foe at last;
+    With wine, and song, and dance, the hours fly by:
+    The water-clock[24] has dripped till almost dry.
+
+      Behind the hills appears the flush of dawn,
+      Beyond the river sinks the moon forlorn;
+    And now the sun climbs up the towers of Su;
+    What of the revellers in the Halls of Wu!
+
+[23] The Prince of Yueeh wishing to ruin his rival, the Prince of Wu,
+presented to him a very beautiful girl, named Si-Shi, who had been
+taught all feminine accomplishments. Fu-Ch'a, the Prince of Wu, fell
+into the snare, and besotted by dissolute pleasures, became an easy
+victim to the Prince of Yueeh who annexed the State of Wu to his own
+dominions. After his defeat Fu-Ch'a committed suicide.
+
+[24] Time was measured by the clepsydra, and the expression indicates
+that the night was far spent and dawn near.
+
+
+
+
+_A Reverie in a Summer-house_
+
+BY MENG HAO-RAN
+
+T'ANG DYNASTY (A.D. 618-905)
+
+
+    The daylight fades behind the Western Mountains,
+      And in the east is seen the rising moon,
+    Which faintly mirrored in the garden fountains
+      Foretells that night and dreams are coming soon.
+
+    With window open--hair unloosed and flowing,[25]
+      I lie in restful ease upon my bed;
+    The evening breeze across the lilies blowing
+      With fragrant coolness falls upon my head.
+
+    And in the solemn stillness--all-prevailing,
+      The fall of dewdrops from the tall bamboos--
+    Which grow in graceful rows along the railing--
+      Sounds through the silence soft as dove's faint coos.
+
+    On such an eve as this I would be singing,
+      And playing plaintive tunes upon the lute,
+    And thus to mind old friends and pleasures bringing;
+      But none are here to join with harp and flute!
+
+    So in a pleasant stillness I lie dreaming
+      Of bygone days and trusty friends of old,
+    Among whom Sin-tze's[26] happy face is beaming;
+      I would my thoughts could now to him be told.
+
+[25] In ancient times the hair was worn long and knotted on the top of
+the head.
+
+[26] The name of a genial companion of earlier days.
+
+
+
+
+_The Flower-Seller_[27]
+
+BY TSING-NIEN
+
+TSING DYNASTY
+
+
+    The sun is sinking in the sky,
+    It scarcely reaches a flagstaff high;
+    And now the pretty flower-girl dares
+    Come out to sell her fragile wares.
+    Her voice rings out a message sweet,
+    As on she trips with lightsome feet,
+    To buy her musk and jessamine,
+    Her violets and white eglantine.
+    And the fresh perfumes of her flowers,
+    After last night's refreshing showers,
+    Borne on the gentle breeze soon find
+    An entrance through my lattice blind.
+    The windows of the rich and great
+    Are opened wide, and heads, ornate
+    With glossy hair and jewels bright,
+    Are thrust forth in the evening light
+    Of the setting sun, whose shadow falls
+    On the straight lines of brick-built walls,
+    By which men marked the time of day[28]
+    Ere clocks and watches came their way.
+    And many flowers of beauteous hue,
+    Still sparkling with the morning dew,
+    Are bought by ladies rich and fair,
+    To deck their deep black lustrous hair.
+
+[27] A modern poem composed by a successful student at a Government
+Examination.
+
+[28] Formerly the time of day was roughly ascertained by such means.
+
+
+
+
+_The Red-Flower Pear-Tree_
+
+BY EO YANG SIU
+
+SONG DYNASTY
+
+
+    Posted to a distant mountain region,
+      The old Lang-Kwan,[29] grown grey in honest work,
+    Oft wandered through the valleys rough and dreary
+      In search of treasures which might therein lurk.
+
+    One day, growing in a sheltered corner,
+      He found a red-flowered pear-tree in full bloom,
+    And before it stood transfixed with wonder,
+      As when a dazzling brightness shines through gloom.
+
+    Wondering how so fair a plant could flourish
+      Away from genial clime and native earth,
+    Circled by a thousand mist-clad mountains,
+      And far from fragrant trees of kindred birth.
+
+    High its beauty-laden branches rising
+      Above the gaudy brambles trailing there,
+    Standing lonely in its perfect grandeur,
+      With none, alas! to view the picture rare.
+
+    Save the vernal breeze which strips its blossoms
+      And blows them open, year by year, again;
+    Or the feathered tribes of mountain ranges
+      In search of shelter from the mist or rain.
+
+    Showing it has braved the storms for ages,
+      Its roots are curved and knotted with the fight;
+    Yet the Lang-Kwan is the first of mankind
+      To look with pleasure on so fair a sight.
+
+    Drinking in the wealth of dewy fragrance,
+      He walked around the tree for many hours,
+    But held by reverential love and wonder,
+      He durst not raise a hand to pluck the flowers.
+
+    To himself the old man murmured gently,
+      I wish I could remove the tree from here
+    To grace the garden of the King's demesne,
+      And find a royal consort for its peer.
+
+    Such a task, alas! would be much harder
+      Than the long and toilsome journey of Chang-K`an,[30]
+    When he brought the beautiful pomegranate
+      From Western regions to the Land of Han.
+
+[29] A District Magistrate in ancient times.
+
+[30] Chang-K`an, or Chang-K`ien, a Minister of the Emperor Wu of the Han
+Dynasty. In this poem it is said that he brought the pomegranate to
+China, but other writers say the grape-vine.
+
+
+
+
+_A Song of Princess Tze-Yuh_[31]
+
+BY HAN-CHONG
+
+(ANCIENT)
+
+
+    As Southern birds avoid a Northern snare,
+      My kin avoid alliances with thine;
+    And though my love for thee would greatly dare,
+      I know our clans the marriage would decline.
+
+    I would have followed thee, but evil talk
+      Besmirched our names and sent us far apart;
+    But why the world its love of slander balk?
+      'Tis evil fate that has despoiled my heart!
+
+    I wept for thee and mourned for three long years,
+      As mourns the phoenix when her consort's dead;
+    And then death came and ended grief and tears;
+      For after thee no other could I wed.
+
+    And now you stand before my grave and grieve,
+      My wraith's permitted for a moment's space,
+    The confines of the Spirit land to leave
+      And visit earth to see thee face to face.
+
+    And, oh believe, though quick we part once more,
+      And in the body cannot meet and love,
+    Our souls are one till life and time are o'er,
+      And we united in the realms above.
+
+[31] Tze-Yuh, daughter of Fu-Chai, Prince of the Wu State, and Han-Chong
+loved each other and wished to marry, but political feuds prevented
+their union. Thereupon Han-Chong travelled abroad, and Tze-Yuh, after
+three years of fruitless mourning, died of grief. When Han-Chong
+returned and visited Tze-Yuh's grave to mourn there, he had a vision of
+her beautiful face, which inspired him to compose this song.
+
+
+
+
+_Distaste for Official Life_
+
+BY TAO TSIEN
+
+T'SIN DYNASTY
+
+
+    For thirty years I read, and mused, and wrote,
+    Or idly angled from my fishing-boat;
+    Or wandered through the woods, or climbed the hills,
+    Listening to songsters and to murmuring rills;
+
+    Or sauntering in my garden talked with flowers,
+    As friend with friend, for many happy hours;
+    Or working in my fields ablaze with golden grain,
+    And herbs and fruits which keep life clean and sane.
+
+    Far from the busy mart and huckstering crowd,
+    Striving for gold or place with brawlings loud,--
+    From youth to middle age I've passed my days
+    Midst flowers and fields hearing what Nature says.
+
+    And now, alas! I'm on this boat and bound
+    For far King-chow, with rank and office crowned;
+    To village home and friends I've bid farewell,
+    And of life's peace, I fear, I've tolled the knell.
+
+    From off the shore a pleasant breeze now blows,
+    And on and on the placid river flows;
+    While the pale shining of the Queen of Night
+    Floods the great universe with silvery light.
+
+    I cannot sleep, the future weights my mind,
+    The calls of office--cares of every kind
+    Oppress me with a sense of coming woes--
+    A forlorn hope against unnumbered foes!
+
+    I fain would tune my harp and ballads sing,
+    Some comfort to my sinking heart to bring;
+    But such poor solace even is denied--
+    My hands are nerveless and my tongue is tied.
+
+    How can I leave my former happy life
+    To mingle in ambition's worldly strife!
+    What care I for the spoils of rank and power,
+    The petty triumphs of the passing hour!
+
+    My office I'll resign and homeward turn
+    To till my farm beside the rippling burn,
+    Where I in happy freedom may once more
+    The Muses and the Book of Nature pore.
+
+    There in my rustic lodge in leisure time,
+    I'll cherish every thought and scene sublime,
+    And following still the teachers of my youth
+    A name I'll build upon eternal truth.
+
+
+
+
+_The Fragrant Tree_
+
+BY WEI YING-WUH
+
+T'ANG DYNASTY
+
+
+    In a far-off fragrant garden
+      Grows a tree of beauty rare,
+    Whose reflection on the brooklet
+      Makes a vision fair.
+
+    But when now I see this vision,
+      Heart and mind are wrung with grief,
+    Mourning hours of blissful meeting--
+      Every hour too brief.
+
+    Rich as ever is the foliage,
+      Opal clouds the shimmering boughs,
+    And the dewy leaves still glisten
+      While the sun allows.
+
+    But, alas, Her presence lacking,
+      What are all such things to me!
+    She will never more be plucking
+      Blossoms from this tree.
+
+    Here beside the brook are traces
+      Of her light and gladsome feet;
+    But again we two shall never
+      In this garden meet.
+
+
+
+
+_A Song of the Snow_
+
+BY LUH FANG-WENG
+
+
+    Three days it snowed on Chang-an[32] plain,
+      With drifts the Pass[33] was stacked;
+    The iron cows[34] could not be moved,
+      The dew-pans[35] froze and cracked.
+
+    A traveller of handsome mien,
+      And clad in white foxskin,
+    With curled moustache and strong of limb,
+      Came to the Pao-chan[36] inn.
+
+    At night he supped and drank full well
+      Until he soundly slept;
+    But in the early dawn he woke
+      And on his strong horse leapt.
+
+    Then riding through the drifts of snow
+      He reached the South Range bare,
+    And hunted for a tiger fierce
+      Which long had 'scaped the snare.
+
+    And when the crafty beast was met,
+      An arrow from his bow
+    Transfixed its bounding body huge,
+      And reddened deep the snow.
+
+    With dying strength it beat the air,
+      And uttered piercing yells,
+    Which shook the hills and forest trees,
+      And echoed through the dells.
+
+    The carcase then he dragged back
+      Along a crowded course;
+    The bones a pillow frame supplied,
+      The skin adorned his horse.
+
+    But when confusion fills the land,
+      And peace is under ban,
+    Why don't such men of might come forth
+      To help the King of Han!
+
+[32] Now Si-ngan, the provincial capital of Shen-si, but in the Han
+Dynasty the capital of China.
+
+[33] A very important mountain pass near Si-ngan.
+
+[34] Vessels used in the conservancy of the Yellow River.
+
+[35] Pans to hold dew, which was collected to provide the Emperor Wu of
+the Han Dynasty with bathing-and drinking-water and thus promote
+longevity.
+
+[36] 'The Precious Hairpin,' merely the sign of the inn.
+
+
+
+
+_The Old Temple among the Mountains_
+
+BY CHANG WEN-CHANG
+
+T'ANG DYNASTY (618-905 B.C.)
+
+
+    The temple courts with grasses rank abound,
+    And birds throng in the forest trees around;
+    But pilgrims few, though tablets still remain,
+    Come to the shrine while revolutions reign.
+
+    The mice climb through the curtains--full of holes,
+    And thick dust overspreads the broidered stoles;
+    The temple pool in gloomy blackness lies
+    To which the sleeping dragon[37] sometimes hies.
+
+[37] The meaning of this expression is not clear; it has a political
+signification.
+
+
+
+
+_A Soldier's Farewell to his Wife_
+
+BY SU-WU[38]
+
+HAN DYNASTY, OR EARLIER
+
+
+    My dear wife, you and I have been as one,
+    No doubt has marred the faith, which love has won,
+    Our chief desire throughout the married state
+    Has been of love and joy to give and take.
+
+    But now, alas! the joy of Spring departs,
+    And sorrow's shafts must enter both our hearts;
+    I cannot sleep; I must arise and see
+    The time; ah me, how quick the hours do flee!
+
+    Awake, my dearest, for the stars have set,
+    The grief of parting must be bravely met;
+    And yet the dreary marches weight my mind,--
+    As through defiles and desert plains they wind.
+
+    And then, at last, the awful battle-field,
+    Where I must fight and naught to foemen yield;
+    But, oh! the bitter, paralysing pain--
+    To think that we may never meet again!
+
+    I must let fall the long restrained tears
+    As, clasping hands, you calm my anxious fears;
+    If not, my heart will break with sighs repressed
+    To hear your love so tenderly confessed.
+
+    But courage, we will think of Young Love's day,
+    And all the pleasures which therein did stay;
+    And this shall cheer me on the toilsome road,
+    And help you here to bear your weary load.
+
+    Then with what joy we shall renew our life,
+    When I return safe from the dreadful strife;
+    But if, alas! the Fates should death decree,
+    My spirit shall for ever live with thee.
+
+[38] Chinese commentators regard this poem as Su's farewell to his own
+wife, written when he was sent on an expedition to the land of the
+Hsiung-nu, where he was captured and kept in captivity for many years.
+
+
+
+
+_The Wanderer's Return_
+
+BY TU FU
+
+T'ANG DYNASTY
+
+
+    The setting sun beneath the red-lined clouds,
+      Which mass around the foot-hills in the west,
+    Still floods the valley with a rose-hued light,
+      And lures the chirping birds to seek their rest.
+
+    The wayworn traveller pauses near the gate,
+      From which he sallied forth so long ago;
+    Unconscious then of what Fate held in store--
+      The years of separation, loss, and woe.
+
+    The neighbours press around the garden fence,
+      And gaze with mouth agape, or quietly sigh;
+    While wife and children awestruck, rigid stand,
+      And then tears flow and to his arms they fly.
+
+    'For years on revolution's waves I've tossed,
+      While wife and bairns mourned me in hopeless plight;
+    And now to-night, as in a dream, I sit
+      With all my loved ones 'neath the lamp's bright light.'
+
+
+
+
+_The Pleasures of a Simple Life with Nature_
+
+BY LI-SHANG-YIN
+
+T'ANG DYNASTY
+
+
+    On these pleasant hills residing,
+      Far from worldly din and strife,
+    Leisurely with nature living,
+      Here I pass a happy life.
+
+    Gently wave the bamboo copses,
+      Fanned by evening breezes light;
+    While the flowers and moon-beams mingle
+      In the ghostly hours of night.
+
+    Through ravines the waters gurgle,
+      Stemmed by scattered rock and stone;
+    Round the bends the footpath wanders--
+      By the mosses overgrown.
+
+    Here with friends and habits simple,
+      And a cup of generous wine,
+    Fingering lute and old songs singing--
+      For no other heaven I pine.
+
+
+
+
+_Listening to the Playing on a Lute in a Boat_
+
+BY SU-SHIH
+
+
+    In my boat I sat alone,
+      And the hours were fast in flight,
+    When the sound of music broke
+      The stillness of the night.
+
+    Sighing winds through fir-trees swept,
+      Falling cascades murmured low,
+    As the master touched his lute--
+      So lovingly and slow.
+
+    Clutching fast my lapelled coat,
+      Rapture swayed me without bounds,
+    As with every nerve intent,
+      I listened to the sounds.
+
+    Yet again I longed to hear
+      Ancient chimes on jadestone bell,
+    Drawn forth by the Master's hand
+      From lute he loved so well.
+
+    Since the days of Chen and Wei,[39]
+      When confusion filled the land,
+    Music rare of ancient style
+      Has found but scant demand.
+
+    Times and instruments alike,
+      For a thousand years and more,
+    Silent and forgotten lay,
+      And few the loss deplore!
+
+    One alone--the priceless lute--
+      Change and storm and wreck survives,
+    Watching nations rise and wane,
+      As god of mortal lives.
+
+    Music old is now decried,
+      Light songs and ditties sought,
+    Strains insipid, jerky turns,
+      Light and crispy wrought.
+
+    Instruments of wood remain,
+      Void of human feelings sweet,
+    Which the soul of ancient song
+      Never more may greet.
+
+    Peaceful is the river now,
+      Moon-beams play upon the scene,
+    From the ceaseless din of life
+      Night provides a pleasant screen.
+
+    In the silence of this hour,
+      Will you, Master, yet once more,
+    Wen-wang's[40] melodies revive,
+      As in the days of yore?
+
+[39] The Wei and Ch'en Dynasties.
+
+[40] Duke Chang, the virtual founder of the Chow Dynasty; Wen Wang being
+his posthumous title. His son, Prince Wu, was the first ruler of the
+Chow Dynasty.
+
+
+
+
+_Reflections on the Past_[41]
+
+THIS IS ONLY ONE SECTION OF A LONG POEM BY TAO TSIEN.
+
+
+    The sun went down and cloudless came the night,
+      A gentle zephyr breathed through moonlit skies;
+    And bevies of fair women thronged the Court,
+      The beauty of the starlight in their eyes.
+
+    With wine and singing swiftly flew the hours
+      Until the herald of the dawn appeared;
+    But when the music and the rapture ceased,
+      Deep sighs were heard and weird forebodings feared.
+
+    Such beauty even in the Halls of T'sin
+      As on this fateful night was seldom seen,--
+    A lustrous moon in fleecy clouds it shines!
+      A splendid flower amidst the foliage green!
+
+    How fair the groups of revellers--fair the scene!
+      But pleasures such as these must pass away!
+    How keen the raptures of those fleeting hours!
+      What of the burdens of the coming day?
+
+[41] This poem probably refers to the revelries of the Court at the end
+of the T'sin Dynasty 300-200 B.C., before it was overthrown by the
+founder of the Han Dynasty.
+
+
+
+
+_A Lowly Flower_
+
+BY BAY SIE T'IAO
+
+T'ANG DYNASTY
+
+
+    A flowering grass I rise
+      From the side of a far-spread lake,
+    Whose waters lave and fertilize,
+      And all my thirsty tissues slake.
+
+    The dews of Spring with gentle power
+      Evolve my glossy emerald leaves;
+    The colours of my fragrant flower
+      The rime of early Autumn weaves.
+
+    And yet in trembling fear I grow,
+      Lest root and stem should be uptorn
+    By sudden storm or rushing flow,
+      And leave me helpless and forlorn.
+
+    So here contented will I lie,
+      Although a plant of humble birth;
+    Nor try to soar to realms on high
+      Above the confines of the earth.
+
+    For never yet has living soul
+      By strength or wisdom changed his fate;
+    All things are under heaven's control,
+      Who allocates to each his state.
+
+
+
+
+_On returning to a Country Life_
+
+BY TAO TSIEN
+
+
+    My youth was spent amidst the simple charms
+      Of country scenes--secure from worldly din,
+    And then, alas! I fell into the net
+      Of public life, and struggled long therein.
+
+    The captive bird laments its forest home;
+      The fish in tanks think of the sea's broad strands;
+    And I oft longed, amidst official cares,
+      To till a settler's plot in sunny lands.
+
+    And now I have my plot of fifteen 'mow',[42]
+      With house thereon of rustic build and thatch;
+    The elm and willow cast a grateful shade,
+      While plum-and peach-trees fill the entrance patch.
+
+    Away from busy towns and dusty marts,
+      The dog barks in the silent country lane;
+    While chickens cluck among the mulberry-trees,
+      And life is healthy and the mind is sane.
+
+    Here in my house--with room for friend or two,
+      On my own farm--won from the barren plain,
+    Escaped from cares of office and routine,
+      I live a free and natural life again.
+
+[42] A Chinese acre, a measure of land equal to about one-fifth of an
+English acre.
+
+
+
+
+_The Brevity of Life_
+
+POET UNKNOWN: HAN DYNASTY, OR EARLIER
+
+
+    Our years on earth are brief,
+      But few a hundred win;
+    A thousand years of grief
+      Are packed therein.
+
+    The day quick takes its flight,
+      The dark is sad and long;
+    Then let us cheer the night
+      With feast and song.
+
+    The niggard thinks it wise
+      To save and live by rule;
+    But sages may arise
+      To call him fool!
+
+
+
+
+_Conscripts leaving for the Frontier_[43]
+
+BY TU-FU
+
+T'ANG DYNASTY
+
+
+    Chariots rumbling; horses neighing;
+      Soldiers shouting martial cries;
+    Drums are sounding; trumpets braying;
+      Seas of glittering spears arise.
+
+    On each warrior's back are hanging
+      Deadly arrows, mighty bows;
+    Pipes are blowing, gongs are clanging,
+      On they march in serried rows.
+
+    Age-bowed parents, sons and daughters
+      Crowd beside in motley bands;
+    Here one stumbles, there one falters
+      Through the clouds of blinding sands.
+
+    Wives and mothers sometimes clinging
+      To their loved ones in the ranks,
+    Or in grief their bodies flinging
+      On the dusty crowded flanks.
+
+    Mothers', wives', and children's weeping
+      Rises sad above the din,--
+    Through the clouds to Heaven creeping--
+      Justice begging for their kin.
+
+    'To what region are they going?'
+      Asks a stranger passing by;
+    'To the Yellow River, flowing
+      Through the desert bare and dry!
+
+    'Forced conscription daily snapping
+      Ties which bind us to our clan;
+    Forced conscription slowly sapping
+      All the manhood of the Han.'
+
+    And the old man went on speaking
+      To the stranger from afar:
+    ''Tis the Emperor, glory seeking,
+      Drives them 'neath his baleful star.
+
+    'Guarding river; guarding passes
+      On the frontier, wild and drear;
+    Fighting foes in savage masses--
+      Scant of mercy, void of fear.
+
+    'Proclamations, without pity,
+      Rain upon us day by day,
+    Till from village, town, and city
+      All our men are called away.
+
+    'Called away to swell the flowing
+      Of the streams of human blood,
+    Where the bitter north wind blowing
+      Petrifies the ghastly flood.
+
+    'Guarding passes through the mountains,
+      Guarding rivers in the plain;
+    While in sleep, in youth's clear fountain,
+      Scenes of home come back again.
+
+    'But, alas! the dream is leaded
+      With the morn's recurring grief,
+    Only few return--grey-headed--
+      To their homes, for days too brief.
+
+    'For the Emperor, still unheeding
+      Starving homes and lands untilled,
+    On his fatuous course proceeding,
+      Swears his camps shall be refilled.
+
+    'Hence new levies are demanded,
+      And the war goes on apace,
+    Emperor and foemen banded
+      In the slaughter of the race.
+
+    'All the region is denuded
+      Of its men and hardy boys,
+    Only women left, deluded
+      Of life's promise and its joys.
+
+    'Yet the prefects clamour loudly
+      That the taxes must be paid,--
+    Ride about and hector proudly!
+      How can gold from stones be made?
+
+    'Levy after levy driven,
+      Treated more like dogs than men,
+    Over mountains, tempest riven,
+      Through the salty desert fen.
+
+    'There by Hun and Tartar harried--
+      Ever fighting, night or day;
+    Wounded, left to die, or carried
+      Far from kith and kin away.
+
+    'Better bring forth daughters only
+      Than male children doomed to death,
+    Slaughtered in the desert lonely,
+      Frozen by the north wind's breath.
+
+    'Where their bodies, left unburied,
+      Strew the plain from west to east,
+    While above in legions serried
+      Vultures hasten to the feast.
+
+    'Brave men's bones on desert bleaching,
+      Far away from home and love,
+    Spirits of the dead beseeching
+      Justice from the heaven above.'
+
+[43] This poem is an attempt to describe the miseries of the people
+under compulsory military service during the long wars carried on by the
+Emperor Hsueen-Tsung of the Han Dynasty.
+
+
+
+
+_Estimating the Value of a Wife_
+
+UNKNOWN: ANCIENT
+
+
+    Once upon a time a husband, weary
+      Of the selfsame face before him day by day,
+    Determined to dismiss his goodwife promptly,
+      And take a new one--to her great dismay!
+
+    Without delay the little deal was settled,--
+      The husband on his purpose being bent,--
+    The new wife through the front door entered grandly,
+      The old one from a side-door sadly went.
+
+    One day the old wife to her home returning
+      From gathering wild flowers on the mountain side,
+    Met with her quondam master in the valley,
+      And, kneeling, asked him how the new one vied.
+
+    'The new wife', said the husband very slowly,
+      'Has beauty that is equal to your own,
+    But still her hands are not so deft and useful,
+      Nor can she compass so much work alone.
+
+    'The new wife's hands are very skilled in weaving
+      Embroidered satins with her dainty touch;
+    The old wife's fingers, faster and unwearied,
+      Of useful fabrics weave five times as much.
+
+    'So when I reckon up the charms and uses
+      Of goodwives, number One and number Two,
+    There's little room within my mind for doubting,
+      I had the better bargain when I'd you.'
+
+
+
+
+_The Lady Lo-Fu_
+
+HAN DYNASTY, OR EARLIER
+
+
+    On a bright and sunny morning,
+      From her mother's house there came,
+    One who needed no adorning,--
+      Lo-Fu was the lady's name.
+
+    On her arm a basket swinging,
+      Made of silk her own hand weaves,
+    Forth she wanders blithely singing,
+      Bent on gathering mulberry leaves.
+
+    From her head in graceful tresses
+      Falls the fine and lustrous hair,
+    While each shapely ear caresses
+      Just one pearl of beauty rare.
+
+    Purple bodice, broidered quaintly,
+      Silken skirt with amber lace,
+    Gave the touch demure and saintly
+      To her sweetly winsome face.
+
+    Travellers dropped the loads they carried,
+      And in wonder stroked their chin;
+    Young men, whether free or married,
+      Doffed their hats a glance to win.
+
+    Farmers stay their hand in ploughing,
+      Peasants stand as in a dream,
+    Now and then the trees allowing
+      Of the girl a passing gleam.
+
+    On this morn an Envoy passing,
+      From a mission to the sea,
+    Where much wealth he'd been amassing,
+      Saw Lo-Fu beneath a tree.
+
+    For her silkworms food providing,
+      Work she did with greatest zest;
+    All her friends around residing
+      Owned her silk was of the best.
+
+    Near the tree the Envoy stopping
+      With his escort in array,
+    Soldiers boughs of mulberries lopping
+      Helped to make a fine display.
+
+    From his retinue emerging
+      Came the Envoy's trusty man,
+    Who his master's message urging,
+      Gently asked her name and clan.
+
+    'Lo-Fu,' came the answer proudly,
+      'Of the ancient house of T'sin!'
+    Adding, too, a little loudly,
+      'And my age is seventeen.'
+
+    'Will you join me?' asked the Envoy,
+      'Sharing all my wealth and power,
+    All the treasures of this convoy
+      Would not far exceed your dower!'
+
+    'You have a wife,' she answered coldly,
+      'And most foolish are, I fear;
+    I,' she added firm and boldly,
+      'Also have a husband dear.
+
+    'And my husband is the leader
+      Of a thousand horsemen brave,
+    Midst whom not one base seceder
+      Would another captain crave!
+
+    'On his charger, white and fiery,
+      'Mongst the troop he's first espied,
+    Soldier-like, erect and wiry,
+      With his keen sword by his side.
+
+    'When but fifteen he enlisted
+      Without patronage or fame,
+    And at twenty, unassisted,
+      Officer at Court became.
+
+    'Then at thirty, unexpected,
+      Captain in the Royal Clan;
+    Now at forty he's selected
+      Chief commandant of Ch'ang-an.
+
+    'Gallant, but of gentle bearing,
+      When the battle's fought and won,
+    For the praise of men less caring
+      Than the meed for duty done.
+
+    'Yes, a clear-eyed, clean-souled hero
+      Is the man I'm praising now,
+    And your value sinks to zero
+      When compared with his, I vow.
+
+    'True, a lowly work I'm doing,
+      And the silk we use I spin,
+    But remember you are wooing
+      Lo-Fu of the House of T'sin.'[44]
+
+[44] The ancient State of T'sin, which finally embraced the whole of
+Shen-si and Kansuh. In 221 B.C. this State under Shi Hwang Ti subdued
+all China, and thereafter the ruling sovereigns are known as the T'sin
+Dynasty.
+
+
+
+
+_An Autumn Evening in the Garden_
+
+BY LI YI
+
+
+    The Summer's gone, but summer heat remains,
+      And sleepless nights still leave us all repining;
+    So to the garden I have moved my couch,
+      And on it I am peacefully reclining.
+
+    The white clouds spread themselves across the sky,
+      And through the rifts the moon's soft light is falling
+    On dewy grass and flowers and trees around,
+      While from the towers night birds are faintly calling.
+
+    The gentle rustling of the tall bamboos
+      In subtle symphony of tone is blending
+    With the waters of the fountain and the brook,
+      Which flow and murmur on their ways unending.
+
+    While through the gauzy garments which I wear
+      The cooling evening breeze is gently blowing,
+    My feeling of contentment is more deep
+      Than when I'm where the ruby wine is flowing.
+
+
+
+
+_Muh-Lan_[45]
+
+
+    Muh-Lan's swift fingers flying to and fro
+    Crossed warp with woof in deft and even row,
+    As by the side of spinning-wheel and loom
+    She sat at work without the women's room.[46]
+    But tho' her hand the shuttle swiftly plies
+    The whir cannot be heard for Muh-Lan's sighs;
+    When neighbours asked what ills such mood had wrought,
+    And why she worked in all-absorbing thought;
+    She answered not, for in her ears did ring
+    The summons of last evening from the King,
+    Calling to arms more warriors for the west,
+    The name of Muh-Lan's father heading all the rest.
+    But he was ill--no son to take his place,
+    Excuses meant suspicion and disgrace;
+    Her father's honour must not be in doubt;
+    Nor friend, nor foe, his stainless name shall flout;
+    She would herself his duty undertake
+    And fight the Northern foe for honour's sake.
+    Her purpose fixed, the plan was soon evolved,
+    But none should know it, this she was resolved;
+    Alone, unknown, she would the danger face,
+    Relying on the prowess of her race.
+    A charger here, a saddle there, she bought,
+    And next a bridle and a whip she sought;
+    With these equipped she donned the soldier's gear,
+    Arming herself with bow and glittering spear.
+    And then before the sun began his journey steep
+    She kissed her parents in their troubled sleep,
+    Caressing them with fingers soft and light,
+    She quietly passed from their unconscious sight;
+    And mounting horse she with her comrades rode
+    Into the night to meet what fate forbode;
+    And as her secret not a comrade knew,
+    Her fears soon vanished as the morning dew.
+    That day they galloped westward fast and far,
+    Nor paused until they saw the evening star;
+    Then by the Yellow River's rushing flood
+    They stopped to rest and cool their fevered blood.
+    The turbid stream swept on with swirl and foam
+    Dispelling Muh-Lan's dreams of friends and home;
+    Muh-Lan! Muh-Lan! she heard her mother cry--
+    The waters roared and thundered in reply!
+    Muh-Lan! Muh-Lan! she heard her father sigh--
+    The river surged in angry billows by!
+    The second night they reach the River Black,
+    And on the range which feeds it, bivouac;
+    Muh-Lan! Muh-Lan! she hears her father pray--
+    While on the ridge the Tartars' horses neigh;
+    Muh-Lan! Muh-Lan! her mother's lips let fall!
+    The Tartars' camp sends forth a bugle call!
+    The morning dawns on men in armed array
+    Aware that death may meet them on that day;
+    The Winter sun sends forth a pallid light
+    Through frosty air on knights in armour bright;
+    While bows strung tight, and spears in glittering rows,
+    Forebode the struggle of contending foes.
+    And soon the trumpets blare--the fight's begun;
+    A deadly _melee_--and the Pass is won!
+    The war went on, and many a battle-field
+    Revealed Muh-Lan both bow and spear could wield;
+    Her skill and courage won her widespread fame,
+    And comrades praised, and leaders of great name.
+    Then after several years of march and strife,
+    Muh-Lan and others, who had 'scaped with life
+    From fields of victory drenched with patriots' blood,
+    Returned again to see the land they loved.
+    And when at last the Capital[47] was reached,
+    The warriors, who so many forts had breached,
+    Were summoned to the presence of the King,
+    And courtiers many did their praises sing;
+    Money and presents on them, too, were showered,
+    And some with rank and office were empowered;
+    While Muh-Lan, singled out from all the rest,
+    Was offered fief and guerdon of the best.
+    But gifts and honours she would gladly lose
+    If she might only be allowed to choose
+    Some courier camels, strong and fleet of pace,
+    To bear her swiftly to her native place.
+
+           *       *       *       *       *
+
+    And now, at last, the journey nears the end,
+    And father's, mother's voices quickly blend
+    In--'Muh-Lan, Muh-Lan! welcome, welcome, dear!'
+    And this time there was naught but joy to fear.
+    Her younger sisters decked the house with flowers,
+    And loving words fell sweet as summer showers;
+    Her little brother shouted Muh-Lan's praise,
+    For many proud and happy boastful days!
+    The greetings o'er, she slipped into her room--
+    Radiant with country flowers in fragrant bloom--
+    And changed her soldier's garb for woman's dress:
+    Her head adorned with simple maiden's tress--
+    A single flower enriched her lustrous hair--
+    And forth she came, fresh, maidenly, and fair!
+    Some comrades in the war had now come in,
+    Who durst not mingle in the happy din;
+    But there in awe and admiration stood,
+    As brave men do before true womanhood;
+    For not the boldest there had ever dreamed,
+    On toilsome march, or when swords flashed and gleamed
+    In marshalled battle, or on sudden raid,
+    That their brave comrade was a beauteous maid.
+
+[45] Muh-Lan was a famous heroine of the Liang Dynasty (A.D. 502-556)
+who, when her father was summoned to serve as a soldier in the wars on
+the north-western frontier, and was unable to obey the order on account
+of sickness, put on a soldier's dress and took his place in the army for
+several years. She fought in many battles, winning great praise for her
+bravery, and ever since she has been regarded as the ideal of daughterly
+devotion and feminine courage.
+
+[46] In the porch of the women's apartment.
+
+[47] The capital of China at that time was Chang-an, now Si-an-Fu the
+provincial capital of Shen-si.
+
+
+
+
+_The Old Fisherman_
+
+BY LUH FANG-WEN
+
+T'ANG DYNASTY
+
+
+    While wandering up the river-side alone
+      To view the landscape of my new-found home,
+    Away from cities and the haunts of men
+      Where I midst nature's scenes can quietly roam,
+
+    I came upon a fisher's lonely hut
+      Ensconced within a winding of the stream,
+    And in a boat the fisherman himself;
+      While on his sail the sunlight sent a gleam.
+
+    Across the river stands a stately mountain
+      Which wandering artists oft have tried to paint,
+    But none could seize the subtle blend of colours--
+      Of purple blues and rose-dawn flushes faint.
+
+    Alas! the fisherman through summers many,
+      Has gazed upon the glory of this scene,
+    And yet his mind's unwakened to its beauty,
+      His hand unskilled to limn its tints and sheen.
+
+    And my hand, too, alas! has lost its cunning
+      And cannot serve my brain as in my youth,
+    So men will lose another glorious picture
+      Of Nature with her beauty and her truth.
+
+
+
+
+_Midnight in the Garden_
+
+BY LIU TSONG-YUEN
+
+T'ANG DYNASTY (ANCIENT STYLE)
+
+
+    The midnight hours were passing
+      And sleep still past me flew;
+    My mind--so keenly working--
+      Could hear the dropping dew.
+
+    So from my bed arising
+      I open wide the door--
+    The western park revealing,
+      And hills that heavenward soar.
+
+    Across the Eastern ranges
+      The clear moon coldly shines
+    On bamboos, loosely scattered,
+      And trailing mountain vines.
+
+    And so intense the stillness,
+      That from the distant hills
+    I hear the pigeons cooing,
+      And murmuring streams and rills.
+
+    For hours I have been thinking,
+      As in a silent dream,
+    And now beyond the mountains
+      I see the dawn's first gleam.
+
+
+
+
+_Reflections on the Brevity of Life_
+
+POET'S NAME UNKNOWN: HAN DYNASTY OR EARLIER (206 B.C.-220 A.D.)
+
+
+    We sought the city by the Eastern gate,
+    Our chariot moving at a leisured rate,
+    Along the road on which the sunlight weaves
+    The trembling of the willow's rustling leaves.
+
+    And far away are pine-trees towering high,
+    Beneath whose shade the graves of heroes lie;
+    In Hades now their last long sleep they take,
+    From which a mortal never more shall wake.
+
+    How vast the gulf between the quick and dead!
+    Yet as the morning dew our life is sped;
+    The rocks and hills enduring strength retain,
+    But mortals pass in fast and endless train.
+
+    Alas! the sages are inert to trace
+    Beyond the grave the future of our race;
+    Alchemic nostrums, too, are used in vain,
+    They cannot turn life's ills to endless gain.
+
+    Then let us drain the goblet while we live,
+    And take the best the fleeting hour can give.
+    In life a little pleasure may be won,
+    To-morrow we must die and there'll be none.
+
+
+
+
+_So-fei gathering Flowers_
+
+BY WANG CHANG-LING
+
+
+    In a dress of gauzy fabric
+      Of the 'Lien' leaf's emerald hue
+    So-fei glides amongst the lilies
+      Sprinkled with the morning dew.
+
+    Rose-hued are the lotus-blossoms,
+      Rose-hued, too, the maiden's cheeks;
+    Is it So-fei's form I follow,
+      Or the flowers she seeks?
+
+    Now I hear a song arising
+      From the lotus bowers,
+    Which distinguishes the maiden
+      From her sister flowers.
+
+
+
+
+_A Farewell_[48]
+
+BY LI TAI-PEH
+
+
+    Far up the Song-Yang's sacred mountain,
+      Unrestrained by lock or bridge,
+    Plows a pure and peaceful streamlet
+      'Neath the 'Gem-Maid's' grassy ridge.
+
+    There at eve midst pine-trees sombre
+      Looms the large and lustrous moon;
+    And within my ancient dwelling
+      You I hope to welcome soon.
+
+    Yes, my friend, I'll come to see you
+      At the closing of the year,
+    In your home among the mountains,
+      Where you live without a fear.
+
+    Deep in searching for the Chang-pu,
+      With its bloom-flushed purple flower,
+    Which endows the happy finder
+      With immortal life and power.
+
+    Ere I come you may have found it,
+      And to realms where genii dwell
+    Winged your flight upon the dragon,
+      Bidding to our earth farewell.
+
+[48] Poems similar to this one are frequently written by literary men in
+China when bidding farewell to a friend.
+
+
+
+
+_The Khwun-ming Lake_
+
+BY TU FU
+
+
+    In ancient times the flags of Wu[49]
+      Made gay the Khwun-ming Lake,[50]
+    On which his ships in mimic strife
+      The decks of foemen rake.
+
+    But now deserted is the scene,
+      And in the moon's pale light,
+    The Spinning-Maid[51] upon the shore
+      Sits silent in the night.
+
+    The Autumn breezes seem to move
+      The mammoth stony whales,[52]
+    And send a tremor through their frames
+      Vibrating all their scales.
+
+    The Ku-mi[53] seeds float on the waste,
+      As clouds of sombre hue;
+    The lotus-flowers are crushed beneath
+      The weight of frozen dew.
+
+    While from the cloud-capped Pass[54] above,
+      The eagle's eye aglow,
+    Sees but an aged fisherman
+      Midst lakes and streams below.
+
+[49] The Emperor Wu of the Han Dynasty ascended the throne 140 B.C.
+
+[50] A lake probably situated to the south-west of Chang-an, the capital
+of China in the Han Dynasty. This city is now the provincial capital of
+Shen-si and better known as Si-an.
+
+[51] A stone image of the Spinning-Maid stood on one shore of the lake,
+and another of the Cowherd on the opposite shore.
+
+[52] A stone image of an immense fish covered with finely carved scales
+was also placed by the side of the lake.
+
+[53] A kind of rice.
+
+[54] Probably the celebrated 'Tung' Pass near Chang-an.
+
+     The whole poem has a political signification implying that
+     revolution had turned the country into a wilderness, and
+     desolation taken the place of former prosperity and greatness.
+
+
+
+
+_Reflections_
+
+BY CHANG KIU-LING
+
+
+    The foliage of the lilies in the Spring
+      In glowing freshness shows its vernal birth;
+    While in the Autumn cassia-blossoms bright
+      Renew the beauty of the fading earth.
+
+    In seasons such as these our hearts rejoice,
+      And deeper thoughts arise within the mind,
+    As Nature woos us in a tender mood,
+      And teaches lessons that are true and kind.
+
+    Who would not be as grass and flowers and trees,
+      That denizen the forest and the hill,
+    And listening to the music of the winds,
+      With sympathy and mutual gladness thrill!
+
+    For flowers have natures teaching them to live
+      In sweet content in glen, or glade, or field;
+    By plucking them fair women cannot add
+      Aught to the happiness their own lives yield.
+
+     These four stanzas are but a section of a long poem. In this
+     allegory the poet reveals his own distaste for official life
+     and his love of Nature. Beautiful women cannot add to the
+     happiness of the flowers by plucking them, &c., implies that
+     the Emperor cannot increase the happiness of the poet by
+     appointing him to high official posts, and inviting him to the
+     Court.
+
+
+
+
+_Pride and Humility_[55]
+
+BY CHANG-KIU-LING
+
+T'ANG DYNASTY (A.D. 618-905)
+
+
+    I'm but a sea-bird, wandering here alone,
+    And dare not call the ponds and lakes my own;
+    But what are those two lovely birds on high,
+    Shining resplendent 'gainst the morning sky?
+
+    Upon the top bough of the San-Chu[56] tree,
+    Presumptuously they build that all may see;
+    Their feathers than the iris lovelier far,
+    What if a missile should their beauty mar!
+
+    Such brilliant robes, which they with joy expose,
+    Might well excite the envy of their foes;
+    And even the gods may view with dire disdain
+    The high ambition of the proud and vain.
+
+    Now I in quiet obscurity can roam
+    Far from my nest, flecked by the ocean's foam;
+    Yet, in a world where greed is always rife,
+    No one would raise a hand to take my life.
+
+[55] This translation is only a portion of a long poem.
+
+[56] A mythical tree of the genii; but in the poem it may mean a very
+conspicuous tree.
+
+
+
+
+_Dwellers in the Peach Stream Valley_[57]
+
+BY CHANG-HSUeEN
+
+T'SING DYNASTY
+
+
+    While the master was wrapped in slumber the fishing-boat slipped its
+      stake,
+    And drifted, and swirled, and drifted far over the broadening lake,
+    Till islets, and mainland, and forests came into view once more,
+    While the fisherman gazed and pondered the lay of the new-found
+      shore.
+    But erelong he espied an opening, shown by the broken wave,
+    And in venturous mood he steered his boat into a narrow cave,
+    Where an azure mist obscured the scenes through channels long and
+      low,
+    As the current bore him gently into a world of long ago.
+    In this old, flower-bestrewed land, at first no path the eye could
+      tell,
+    For on the streams and on the banks the red rain of peach flowers
+      fell;
+    Yet from the purple-shadowed mountains which screened this favoured
+      land
+    Flowed forth the Peach-Fount river along its bed of silver sand;
+    But, winding with the stream, the thickset peach-tree groves with
+      red-veined flowers
+    Hid the cooling waters flowing in and out the shady bowers.
+    And here and there along the banks, set in nooks of calm repose,
+    Were cottage homes of rustic work from which the wreathed blue smoke
+      arose;
+    Showing that in this happy valley beyond the world's dull roar,
+    Life went on as sweet and simple as in the golden days of yore,
+    And the people of this valley in their ancient garments clad
+    Were courteous in their manners and rejoiced in all they had;
+    While the dogs and fowls beside them harmonized with all at hand,
+    And the mulberry-tree and flax-plant hid the former barren land.
+    When the dwellers in this favoured region saw the stranger guest,
+    They set before him food and wine and kindly bade him rest;
+    And when true courtesy allowed they asked of the things and men
+    In the world of sin and sorrow far beyond their quiet life's ken.
+    And when the time to leave them came, and the stranger could not
+     stay,
+    They led him through the cavern's channels and saw him sail away.
+    In after life the fisherman often tried again, but failed
+    To find the opening to the Valley through which he once had sailed;
+    But when the sand of life through the glass its course had nearly
+      run,
+    He thought he saw the way lay to it beyond the westering sun.
+
+[57] There are many versions of this legend both in poetry and prose.
+The introductory and closing lines of the translation are partly based
+on other versions of the story than that in the poem translated.
+
+This poem and 'The Fishermen's Song', and 'The Students' Ramble', are
+taken from 'A Selection of Poems' written by successful graduates at the
+Government Examinations during the present dynasty.
+
+Many of these prize poems are cleverly and beautifully written, and they
+reveal considerable poetic talent, but not the power and genius found in
+the work of ancient Chinese poets.
+
+
+
+
+_The Five Sons_
+
+BY TAO TSIEN
+
+T'SIN DYNASTY (A.D. 265-419)
+
+
+    I am wrinkled and gray,
+    And old before my day;
+    For on five sons I look,
+    And not one loves a book.
+
+    Ah-Shu is sixteen years,
+    The sight of work he fears;
+    He is the laziest lout
+    You'd find the world throughout.
+
+    Ah-sueen has tried in vain
+    A little wit to gain;
+    He shirks the student's stool,
+    At grammar he's a fool!
+
+    Yong-twan is thirteen now,
+    And yet I do avow
+    He can't discriminate
+    The figures six and eight![58]
+
+    Tong-tze is only nine,
+    But clearly does opine
+    That life, with all its cares,
+    Consists of nuts and pears.
+
+    Alas, that Fate so dour
+    On me her vials should pour!
+    What can I do but dine,
+    And drown my woes in wine!
+
+[58] Implies that he is a thorough dunce.
+
+
+
+
+_The Journey Back_
+
+BY A POET OF THE HAN DYNASTY
+
+NAME UNKNOWN[59] (206 B.C. TO A.D. 220)
+
+
+    The journey back has now begun,
+      The Chariot winds along the road--
+    The road which seems for aye to run
+      To me with my sad load!
+
+    How vast the wilderness around,
+      As o'er the endless track we pass;
+    The only moving thing and sound--
+      The east wind through the grass!
+
+    The things I see are not the old,
+      As mile on mile the way is won,
+    And quick as these things change are told
+      Our years--and age comes on.
+
+    By nature's law each cycle brings
+      A time to flourish and decay,
+    And, with her perishable things,
+      We, too, must pass away.
+
+    No power have we with time to brave,
+      As iron and stone, the grave's stern claim,
+    One treasure only can we save--
+      An everlasting fame.
+
+[59] The poet's name is unknown, but he (or she?) lived during the Han
+Dynasty (206 B.C. to A.D. 220), or earlier.
+
+
+
+
+_The Gallant Captain and the Innkeeper's Wife_
+
+BY SIN YEN-NIEN
+
+HAN DYNASTY (206 B.C. TO A.D. 220)
+
+
+    Among the near attendants of the famous General Ho,[60]
+    The Champion of the Emperor Wu and terror of his foe,
+    Was a gay and gilded youth of the name of Fung Tze-tu,
+    Who loved to slay the fair sex as the general did Hsiong-nu;
+    Presuming on his master's fame he bantered every girl,
+    And fancied he himself was great--he lived in such a whirl.
+    The landlord of the wine-shop was scarcely a man of means,
+    But had a young and pretty wife not yet out of her teens;
+    And with this charming lady Fung Tze-tu was wont to flirt;
+    But though so young and charming she was very much alert.
+    One day in Spring this hostess fair, in gracious serving mood,
+    Alone attended to the wants of guests for wine and food.
+    Attired in flowing skirt, and girdled loose with girlish wile,
+    Embroidered vest and wide-sleeved outer robe of ancient style;
+    Her slender head on either side with massive tresses graced,
+    And crowned with Lan-tien[61] jade, below with Ta-tsin[62] pearls
+      enlaced:
+    This young and dainty figure, said the gallants with a sigh,
+    Was a sight with which no other on this earth could ever vie;
+    And as they posed before her in their elegant attire,
+    She deftly filled their glasses, and allowed them to admire.
+    Just as this dainty hostess stood alone within the inn,
+    Preparing special vintages selected from the bin,
+    Up rode a gay young officer with canopy of rank,
+    Accompanied by attendants afoot on either flank;
+    His charger's handsome trappings richly bound at every joint,
+    And silver-mounted saddle burnished to the flashing point,--
+    Alighting from his horse there stood the son of the Kin-Wu,[63]
+    The very gallant officer, the dashing Fung Tze-tu.
+    He called for wine in tasselled jug, and carp on golden plate,
+    And thought such lavish bravery the lady would elate;
+    Besides such show he offered her a mirror burnished bright,
+    Together with a red silk skirt of gauzy texture light;
+    All these, he thought, must surely daze the eyes of woman vain,
+    Who does not give her smiles for love, but for the greatest gain:
+    Alas! within the lady's mind quite other thoughts found vent,
+    More poignant when she spied within the red silk skirt a rent.
+    The rent within the skirt, she mused, no pang in you has wrought,
+    Nor would the loss of my good name cause you a serious thought;
+    For men soon tire of wives and seek their joys in faces new,
+    But wives are true to their first spouse and gallants do eschew;
+    Among the lowly born, as in the camp or royal abode,
+    Are women who are true to death to honour's stainless code:
+    I thank you for the favours shown, brave son of the Kin-Wu,
+    But this time you have loved in vain, my gallant Fung Tze-tu!
+
+[60] General Ho K'ue-ping, died 117 B.C., Commander of the Armies of Han
+Wu Ti in several victorious campaigns against the Hsiung-nu.
+
+[61] Lan-tien, a district in Shen-si, famous for its jade.
+
+[62] Ta-tsin, the Roman Empire.
+
+[63] A military officer of the Han Dynasty, holding a rank similar to
+that of Captain-General.
+
+
+
+
+_The Lady Chao-Chiuen_[64]
+
+BY EO YANG SIU
+
+SONG DYNASTY (A.D. 960-1278)
+
+
+    The Court of Han which shone with beauty rare
+    Of high-born women dowered with faces fair,
+    Had one within it, yet unknown to fame,
+    Of lowly fortune but of gentle name.
+
+    Now every flower had spared some hue or grace
+    To form Chao-Chiuen's divinely lovely face;
+    But courtier's greed had barred the Palace gate,
+    Which Chao-Chiuen's father would not try to sate.
+
+    Nor could the maid herself her beauty flaunt,
+    And hold her fair name light for gold or taunt;
+    Her Royal Master, therefore, did but jibe
+    At portraits of her, painted for a bribe.
+
+    And so this peerless girl was left alone,
+    Who might have shared Yueen's imperial throne.
+    But Yen-Show's greed at last itself betrayed,
+    And charges grave against him were arrayed;
+
+    Then traitor-like, as harried fox, or doe,
+    He fled the Court to help the Northern foe;
+    And with true portraits of the lovely maid,
+    He fired the Tartar Chief his plans to aid.
+
+    Abetted by this courtier, wise and arch,
+    The Tartar armies crossed the Emperor's march,
+    And devastated all the country near,
+    From which the people fled in piteous fear.
+
+    The Han King, conscious of his waning power,
+    Now sought for terms of peace in danger's hour;
+    And these were granted, if, with parlance brief
+    The Lady Wang would wed the Tartar chief.
+
+    But ere the peerless maiden left her home,
+    To brave the mountains and the desert roam,
+    The Emperor saw her, and his heart stood still,
+    Yet basely feared to thwart the Tartar's will.
+
+    The silence passed, he raved in passion's whirl,
+    And slew the painter who had limned the girl;
+    But useless were such puny acts, and cruel,
+    Which to a burning throne were added fuel.
+
+    For how could monarch, who perceived no more,
+    Of things which happened near his Palace door,
+    Expect to force the Hun to own his sway,
+    Encamped in strength a thousand miles away?
+
+    And so Chao-Chiuen, beneath her weary load,
+    With royal guards began the endless road,
+    Watering with tears each lowly wayside flower,
+    The sport, alas! of beauty's fateful power.
+
+[64] Chao-Chiuen, or Wang Chao-Chiuen, was a very beautiful girl who was
+precluded from entering the presence of the Emperor Yuan (Han Yuan Ti)
+by an avaricious courtier, Mao Yen-sheo, who bribed the court painter
+to present ugly portraits of Chao-Chiuen to the Emperor, because her
+family would not pay the large sums of money he demanded. Afterwards Mao
+Yen-sheo's wiles became known to the Emperor, and he fled to the Khan of
+the Hsiung-nu to whom he showed a true portrait of Chao-Chiuen. Thereupon
+the Khan invaded China with a great army, and demanded the Lady
+Chao-Chiuen as the price of peace. Afraid to refuse, the Chinese Emperor
+surrendered Chao-Chiuen to the Tartar chief who then retired beyond the
+Wall. According to a popular but untrustworthy version of this story,
+Chao-Chiuen, when she reached the Heh-long Kiang (Amur River), jumped
+into the stream rather than cross the boundary which separated her from
+her native land.
+
+
+
+
+_Night on the Lake_
+
+BY SU TONG-PO
+
+SONG DYNASTY (A.D. 960-1278)
+
+
+    The breeze is sighing through the water grass,
+    As up and down the narrow deck I pass;
+    And through the rarest mist of Autumn night
+    The rain-moon floods the lake with pallid light.
+
+    The boatmen and the water-fowl sleep sound,
+    And in their dreams see other worlds around;
+    The big fish startled sneak in haste away,
+    As flurried fox flees from the dawning day.
+
+    In depths of night it seems the human soul
+    Its sway o'er other things has lost control;
+    I and my shadow play upon the strand
+    That marks the boundary of the silent land.
+
+    We watch the secret tides in noiseless work,
+    Forming new isles where earthworms safely lurk;
+    And on the moon--a monstrous pearl--we gaze,
+    Looming through willow-trees in silver haze.
+
+    Amidst our life of changing grief and woe,
+    A glimpse of purer worlds will come and go,
+    As on this lake when nature's holy power
+    Speaks to us in the dark and silent hour.
+
+    But hark, the cock crows; rings the temple bell!
+    And birds awake in mountain, plain, and dell;
+    The guardship beats its drum, the boats unmoor,
+    While din and shouting on the hearer pour.
+
+
+
+
+_The Fishermen's Song_
+
+PRIZE POEM, BY CHENG-CHENG
+
+T'SING DYNASTY
+
+
+    The sun is sinking in the west,
+    Bidding the fishermen think of rest.
+    'To-day,' they cry, 'no need to search,
+    The people rush to buy our perch;
+    Of shell-fish, too, we are bereft,
+    We've scarcely half a basket left!'
+    And at the piles of silver bright
+    They laugh, and shout, 'Good wine to-night!'
+    'We'll with the village wits combine
+    And drink our fill of "Luh-e"[65] wine;
+    Then if we feel inclined to roam,
+    The fisher-boys shall lead us home.'
+    So off they go to the evening meal,
+    And 'Luh-e' wine is drunk with zeal;
+    And after draining every glass,
+    They doff the fishers' coat of grass,
+    And with wild shouts a net they seize
+    And rush out in the evening breeze,
+    Intent on catching the mirrored moon,
+    Bright in the sea as the sun at noon.
+    Tricked by the moon to their hearts' content,
+    Shoreward they move on music bent;
+    The pipes of Pan, and flutes, come out,
+    Wine and music have a fine bout;
+    Voices and instruments combined
+    Soon leave no discord undefined!
+    After the shouting and the din
+    Even fishermen had to turn in;
+    So spreading their sails in a sandy cave,
+    And soothed by the sound of the lapping wave,
+    Tired and languorous the reveller yields
+    To sleep, and dreams of Elysian fields!
+
+[65] 'Luh-e,' the name of a famous wine.
+
+
+
+
+_The Students' Ramble_[66]
+
+BY LU-TEH
+
+T'SING DYNASTY
+
+
+    No longer could the blue-robed students cling
+    To essay, or angle, or such like thing;
+    The white-fleeced sky in depths of sapphire blue,
+    The mother-earth, in Spring's bewitching hue,
+    Enticed them forth to ponder fresher lore,
+    And gather strength from nature's boundless store,
+    So leaving college desk, and book, and file,
+    They tramp the green-robed country--mile on mile;
+    But resting oft within some shady nook,
+    By side of mountain rill or babbling brook.
+    The voice of streams, the sweet air after showers
+    On new-mown grass, and earth, and fragrant flowers;
+    The depths of space, the everlasting hills;
+    The unseen power that moves, and guides, and stills
+    All animated nature's varied life
+    And law reveals where all seemed useless strife--
+    Their sense enthralled, and coursing with their blood
+    Through every vein in strong impetuous flood--
+    Divine and human, on this radiant day,
+    Seemed nearer kin than even when we pray
+    In marble temples to the unknown God,
+    Or wayside fanes, by common people trod.
+    But homeward now reluctantly they turn,
+    Yet incense still to nature would they burn;
+    So as they wind through woods of pine-trees tall,
+    By willow-bordered streams where catkins fall,
+    Their pent-up feelings, buried deep and long,
+    Find voice in classic chants from ancient song.
+    As chorus sweet, and solo clear and rare,
+    Are wafted softly on the evening air,
+    The water-fowl on village ponds and streams
+    Are gently wakened from their summer dreams;
+    While mingled with the scholars' choral lay
+    The songs of peasants speed the closing day;
+    And bird, or insect,--each its anthem sings,
+    And little gift of praise to Heaven brings:
+    Then as the sun is sinking in the west,
+    And lighting up the regions of the blest,
+    From nature's altar falls the sacred fire,
+    And higher aims each student's heart inspire.
+
+[66] This is a free translation, yet nearly every word is implied in the
+original. A crudely literal translation would not reveal the thoughts
+aroused in the mind of a Chinese reader of the poem.
+
+
+
+
+_The Priest of T'ien Mountain_
+
+BY LI TAI-PEH
+
+T'ANG DYNASTY (A.D. 618-913)
+
+
+    I hear the distant baying of the hound
+    Amid the waters murmuring around;
+    I see the peach-flowers bearing crystal rain,
+    The sportive deer around the forest fane.
+
+    The waving tops of bamboo groves aspire
+    In fleeting change the summer clouds to tire,
+    While from the emerald peaks of many hills
+    The sparkling cascades fall in fairy rills.
+
+    Beneath the pines within this shady dell,
+    I list in vain to hear the noontide bell;[67]
+    The temple's empty, and the priest has gone,
+    And I am left to mourn my grief alone.
+
+[67] The temple bell.
+
+
+
+
+_Maidens By the River-side_
+
+BY YUH YONG
+
+THE NORTHERN WEI DYNASTY (A.D. 386-532)
+
+
+    Maidens robed in gauzy dresses,
+    Heads adorned with lustrous tresses,
+    Nestling pearls in soft caresses,
+      Trip along the river-side.
+
+    Where the violet sweet reposes,
+    And the wild flowers group in posies,
+    Fairer than the queenly roses,
+      Through the flowers they conquering glide.
+
+    Where the cooling water gushes,
+    Fitful shades of willow bushes
+    Flee and hide among the rushes,
+      Lest the maidens should deride.
+
+    Tripping sylph-like, as the Graces,
+    East wind blowing on their faces,
+    Which it holds in soft embraces,
+      And would ever there abide.
+
+
+
+
+_The Poet-Beggar_
+
+BY TAO TSIEN
+
+T'SIN DYNASTY (A.D. 265-419)
+
+
+    Impelled by hunger, forth I strode,
+      But whither causing little care,
+    While feeling life's oppressive load--
+      Too great for me to bear.
+
+    At last your village here I reached,
+      By tramping many weary miles,
+    And knocking at an unknown door,
+      You welcomed me with smiles.
+
+    And when I roughly asked for food,
+      Gave meat and wine my need to sate,
+    And in a kind and friendly mood
+      You chatted while I ate.
+
+    Now having shared your generous cheer,
+      And drained the oft refilled glass,
+    Revived and glad, unthanked I fear
+      To let such goodness pass.
+
+    A linen-bleacher, poor and old,
+      Fed Han-Sin,[68] sprung of royal breed,
+    From out her hard-earned scanty store
+      In time of darkest need.
+
+    Your kindly help to me this hour
+      Is fraught with equal love and grace,
+    Would I had Han-Sin's royal power,
+      Thy bounty to replace.
+
+    Alas! the fullness of my heart
+      My tongue can only lamely tell,
+    So now in simple verse I write
+      Of kindness done so well.
+
+    And though at last the muffled drum
+      Will beat the end of earthly days,
+    Throughout the cycles yet to come
+      My verse shall speak your praise.
+
+[68] Han-Sin was the grandson of a prince of Han, whose State was
+annexed by the founder of the T'sin Dynasty. In early life Han-Sin
+suffered great poverty, and for some time was befriended by a poor woman
+who bleached flax. Afterwards he became the commander of the armies of
+Liu-Pang, the founder of the Han Dynasty, and regained his ancestral
+domain; he then sought out his friend, the flax-bleacher, and gave her
+1,000 pieces of gold.
+
+
+
+
+
+End of the Project Gutenberg EBook of Chinese Poems, by Various
+
+*** END OF THIS PROJECT GUTENBERG EBOOK CHINESE POEMS ***
+
+***** This file should be named 37938.txt or 37938.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/9/3/37938/
+
+Produced by Delphine Lettau, Matthew Wheaton and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

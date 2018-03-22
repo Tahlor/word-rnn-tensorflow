@@ -1,0 +1,2602 @@
+�The Project Gutenberg EBook of The Assemble of Goddes, by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Assemble of Goddes
+
+Author: Anonymous
+
+Release Date: February 21, 2007 [EBook #20642]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ASSEMBLE OF GODDES ***
+
+
+
+
+Produced by Jason Isbell, Taavi Kalju and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+
+
+
+[Transcriber's note: Until recently this work was attributed to John
+Lydgate, but now most scholars consider that the author is unknown. The
+first mention of Lydgate's authorship of this work was made by Stephen
+Hawes in 1505 as one of Lydgate's seven major works. But many scholars
+have doubted over the years that this poem was written by Lydgate,
+because the style used doesn't greatly resemble the style of Lydgate's
+other works, and the vocabulary is somewhat more modern than Lydgate is
+known to have used. Modern scholars believe that this work was written
+between 1478 and 1483 (about forty years after Lydgate's death).
+Analysis of style and vocabulary have led scholars to conclude that the
+author might have been a woman. For further information about this poem
+please see The Assembly of Gods, edited by Jane Chance, published by
+Medieval Institute Publications, Kalamazoo, Michigan, 1999, ISBN:
+1580440223, which is also available online at
+http://www.lib.rochester.edu/camelot/teams/asint.htm.
+
+The book from which this e-book was transcribed is a fascimile reprint
+of the third printing of this book, made by Wynkyn de Worde circa 1500.
+The book was printed in blackletter font known as Wynkyn de Worde's type
+3, and uses many abbreviations, which I have expanded and rendered
+inside parenthesis, eg., {x}. The abbreviations used in this book are:
+
+  *Macron over the letter. The most common one, usually meaning
+    missing "n" or "m" after the letter. But in some cases might also
+    mean missing "e," "er" or "re" after the letter. This happens
+    usually when p, q or r have macrons.
+  *Little e over Middle-English thorn, meaning "the."
+  *Little t over Middle-English thorn, meaning "that."
+  *Little u over Middle-English thorn, meaning "thou."
+  *Little t over w, meaning "with."
+  *Middle-English yogh, representing "gh."
+  *Superscripted 9 after letter, meaning missing "us." Used only at
+    the end of the word.
+  *Superscripted 2 after letter, meaning missing "e," "er" or "re."
+    Used only at the end of the word.
+  *Stretched s, looking like integral sign, meaning missing "e" or "i"
+    before letter s.
+  *Dot over the letter, meaning missing "e," "er" or "re" after the
+    letter. Usually used with d, t, e and u. Combination q+d with dot
+    means "quod."
+  *Strike through letter, meaning missing "e," "er" or "re" after the
+    letter. Usually used with p, v and s. Striked through p might also
+    mean missing "ro" or "or" after p.
+
+Occasionally there were some letters printed upside down. I have
+rendered them inside brackets, e.g., [x]. The poem uses two types of
+punctuation--a dot, meaning longer pause, and a slash, meaning shorter
+pause or comma. I have corrected many errors and noted them on a right
+margin. Also this printing was missing three lines and one line had
+several letters missing from the middle of the line. I have marked them
+on a right margin and the correct reading supplied from the modern
+edition. There were a couple of places where the word "nota" or "note"
+was printed, but the actual notes weren't found in this reprint. There's
+a fair chance that those notes were never printed. The original page
+images are available with html edition.]
+
+
+
+
+The assemble of goddes
+by
+John Lydgate
+
+
+Printed at Westminster
+by Wynkyn de Worde about the year
+1500
+
+
+Cambridge
+at the University Press
+1906
+
+
+
+
+The work here reprinted formed part of the famous volume of black-letter
+tracts (formerly marked AB. 4. 58), which came to the University Library
+in 1715 by the gift of King George the First with the rest of the
+library of John Moore, Bishop of Ely. No other copy of this edition is
+recorded to be in existence.
+
+The types used are Caxton's type 3 (for the title) and Wynkyn de Worde's
+type 3, with final m and n etc. from type 1 (in the rest of the book).
+This type 3 is not known to have been used before 1499.
+
+Mr Sayle remarks that the woodcut illustration is taken from Caxton's
+second edition (ab. 1483-4) of Chaucer's Canterbury Tales.
+
+FRANCIS JENKINSON
+
+1906 March 5.
+
+
+
+
+I certify that I have printed 250 copies only of this facsimile, that
+the impressions have been rubbed off the plates and the negatives
+destroyed.
+
+P. DUJARDIN
+
+
+
+
+    Here foloweth the Interpretacoin of the names
+    of goddes and goddesses as is reherced
+    in this tretyse folowynge as Poetes wryte
+
+[Illustration]
+
+    ¶ Phebus is as moche to saye as the Sonne.
+    ¶ Apollo is the same or elles God of syght.
+    ¶ Morpleus                   Shewer of dremis
+    ¶ Pluto                      God of hell.
+    ¶ Mynos                      Iuge of hell.
+    ¶ Cerberus                   Porter of hell.
+    ¶ Colus the wynde or God of the Eyre.
+    ¶ Dyana Goddesse of wode and chase.
+    ¶ Phebe the Mone or Goddesse of waters.
+    Aurora Goddes of {the} morow or spry{n}g of {the} daye
+    ¶ Mars               God of batyll
+    ¶ Iupiter            God of wysdom.
+    ¶ Iuno               Goddesse of rychesse
+    ¶ Saturne            God of colde.
+    ¶ Ceres              Goddesse of corne.
+    ¶ Cupydo             God of loue.
+    ¶ Othea              Goddesse of wysdome.
+    ¶ Fortune            The varyant Goddesse
+    ¶ Pan                God shepherdes.
+    ¶ Isys               Goddesse of frute.
+    ¶ Neptunus           God of the se.
+    ¶ Mynerue            Goddes of {the} batail or of heruest
+    ¶ Bachus             God of wyne.
+    ¶ Mercuryus          God of langage.
+    ¶ Venus              Goddesse of loue.
+    ¶ Dyscorde           Goddes of debate & stryffe
+    ¶ Attropos           Dethe
+    ¶ Here endeth {the} interpretacyon of the names
+    of Goddes & Goddesses as is reherced in the
+    treatyse folowynge as poetes wryte.
+
+
+    Whan Phebus the crabbe had nere his cours ronne
+    And toward {the} Leon his Iourney gan take
+    To loke on Pyctagoras spere / I had begonne
+    ¶ Syttyng all solytary allone besyde a lake.
+    ¶ Musyng on a maner how {that} I myght make.
+    ¶ Reason and sensualyte in one to accorde.
+    ¶ But I coude not bryng about {the} manacorde.
+
+    ¶ For longe er I myght slepe me gan oppres
+    ¶ So ponderously I coud make none obstacle
+    ¶ In myne hede was fall suche an heuinesse.
+    ¶ I was fayne to drawe to myne habytacle.
+    ¶ To rowne {with} a pylow me semyd best tryacle.
+    ¶ So leyde I me downe my dysease to releue.
+    ¶ Anone cam in Morpleus & toke me by {the} sleue
+
+    ¶ And as I soo laye halfe in a traunse
+    ¶ Twene slepyng & wakyng he bad me aryse.
+    ¶ For he sayd I must yeue attendaunce.
+    ¶ To the grete Courte of Mynes the Iustyse.
+    ¶ Me nought auayled ayene hym to sylogyse.
+    ¶ For hit is oft sayd by hem that yet lyues.
+    ¶ He must nedes go that the deuell dryues.
+
+    ¶ Whan I see noo better but I must go.
+    ¶ I sayd I was redy at his co{m}maundement.
+    ¶ Wheder that he wolde me lede to or fro.
+    ¶ Soo vp I arose and forth with hym went.
+    ¶ Tyll he had me brought to the parlament.
+    ¶ Where Pluto sate and kepte is estate.
+    ¶ And with hym Mynos the Iuge desperate.
+
+    ¶ But as we thyderwarde went by the way.
+    ¶ I hym besought his name me to tell.
+    ¶ Morpleus he sayde thou me call may.
+    ¶ A syr sayde I than where do ye dwell.
+    ¶ In heuen or in erthe eyther elles in hell.
+    ¶ Nay he sayde myn abydyng most commonly
+    ¶ Is in a lytyll corner called fantasy.
+
+    ¶ And as sone as he thyse wordes had sayd.
+    ¶ Cerberus the porter of hell {with} his cheyne.
+    ¶ Brought theder Colus i{n} ragges euyll arayd
+    ¶ Agay{n} whom Neptun{us} & Dyana dyd co{m}pley{n}t     Original has
+    ¶ Saynge thus O Mynos {thou} Iuge souerayn.             co{m}pey{n}t
+    ¶ Gyue thy cruel iugeme{n}t aye{n} this traytour so     instead of
+    ¶ {That} we may haue cause to preyse thy lord Pluto     co{m}pley{n}t
+
+    ¶ Then was there made a proclamacyon.
+    ¶ In Plutoos name co{m}maunded scylence.
+    ¶ Vpon the payn of strayt correccyon.
+    ¶ {That} Dyana & Neptun{us} might haue audience.
+    ¶ To declare her grefe of the grete offence.
+    ¶ To hem do by Colus wheron they co{m}pleined
+    ¶ And to begyn Dyana was constreyned.
+
+    ¶ Whyche thus begyn as ye shall here.
+    ¶ Saynge in this wyse. O thou lorde Pluto.
+    ¶ Wyth thy iuge Mynos syttyng {with} the in fere
+    ¶ Execute your fury vpon Colus soo.
+    ¶ Accordyng to thofence that he to me hath do
+    ¶ That I haue no cause forther to appele.
+    ¶ Whyche yf I do shall not be for youre wele.
+
+    ¶ Remembre fyrst how I a goddesse pure.
+    ¶ Ouer all desertes / forestes and chaces.
+    ¶ Haue the guydynge and vnder my cure.
+    ¶ This traytour colus hath mani of mi places
+    ¶ Destroyd {with} his blastes & daily me manaces
+    ¶ Where ony wood is he shall make it playne.
+    ¶ If he to his lyberte may resorte ageyne
+
+    ¶ The gretest trees that ony man may fynde
+    ¶ In forest to shade the dere for her comforte.
+    ¶ He breketh he{m} aso{n}der or rendith he rote & ri{n}de
+    ¶ Out of the erthe this is his dysporte.
+    ¶ So that the deere shall haue noo resorte.
+    ¶ Wythin shorte tyme to noo maner shade
+    ¶ Where thorough the game is lykly to fade.
+
+    ¶ Which to my name a reproche synguler.
+    ¶ Sholde be foreuer whyle the worlde laste.
+    ¶ And to all the goddes an hygh dyspleyser.
+    ¶ To see the game soo destroyed by his blaste.
+    ¶ Wherfore a remedy puruey in haste.
+    ¶ And lete hym be punysshed after his offence.
+    ¶ Cousyder the cryme and yeue your sentence.
+
+    ¶ And whan Dyana had made her compley{n}t
+    ¶ To mynos the Iuge in Plutoos presence.
+    ¶ Came forth Neptun{us} {with} vysage pale & feynt
+    ¶ Desyrynge of fauour to haue audyence.
+    ¶ Saynge thus Pluto to thy magnyfycence.
+    ¶ I shall reherce what this creature.
+    ¶ Colus hath done me out of mesure.
+
+    ¶ Thou knowest well that I haue the charge
+    ¶ Ouer all the se and therof god I am.
+    ¶ No shyp may sayl Keruel / bote ne barge.
+    ¶ Grete karyk nor hulke {with} ony lyuyng man.
+    ¶ But he haue my saue conduyte than.
+    ¶ who me offendith wythin my Iurysdyccyon
+    ¶ Owyth to submyt him to my correccyon.
+
+    ¶ But in asmoche as it is now soo.
+    ¶ That ye hym here haue as your prysonere
+    ¶ I shall shew my compleynt soo.
+    ¶ wherfore I pray you that ye wyll here.
+    ¶ And let hy{m} not escape out of your daungere.
+    ¶ Tyl he haue made full sethe & recompence
+    ¶ For hurt of my name thrugh his grete offe{n}ce
+
+    ¶ Fyrst to begyn this Colus hath ofte.
+    ¶ Made me to retorne mi course agein nature.
+    ¶ wyth his grete blastes whan he hath be alofte
+    ¶ And charged me to labour fer out of mesure
+    ¶ {that} it was grete merueyl how I might endure      Original has
+    ¶ The com of my swete wyll testyfy.                   gtete
+    ¶ That on the se bankes lye beten full hye.           instead of
+                                                          grete
+    ¶ Secundly where my nature is.
+    ¶ Both to eb & flowe a[n]d so thy course to kepe.
+    ¶ Ofte of myne entent hath he made me mys
+    ¶ where as I shulde haue fylled dykes depe.
+    ¶ At a full water I myght not theder crepe.
+    ¶ Before my season came to returne ageyn.
+    ¶ And than went I faster than i wold certayn
+
+    ¶ Thus he hath me dryuen ayen myn entente
+    ¶ And contrary to my course naturall.
+    ¶ where I shuld haue be he made me absente
+    ¶ To my grete dyshonour & in especyall.
+    ¶ Do thynge he vsed that worst was of all.
+    ¶ For where I my sauegard graunted
+    ¶ Ay in that coste he comonly haunted
+
+    ¶ Of very pure malyce and sylfwyll.
+    ¶ Theym to destroy in dyspyte of me.
+    ¶ To whome I promised both in gode & yll.
+    ¶ For to be her protectour in all aduersyte.
+    ¶ That to theym shulde fall vpon the se.
+    ¶ And euen sodenly or they coud beware
+    ¶ wyth a sodeyn pyry he lapped theym in care.
+
+    ¶ And full oft syth wyth hys boystous blaste.
+    ¶ Or they myght be war{e} he drof he{m} on {the} sond
+    ¶ And other whyle he brake top sayl & maste.
+    ¶ which caused thei{m} to peryssh or thei ca{m} to lond
+    ¶ Then cursed they the tyme {that} euer thei me fa{n}d
+    ¶ Thus amonge the people lost is my name.
+    ¶ And so by his labour put I am to blame.
+                                                            Original has
+    ¶ Consyder this mater and ponder my case.               sencence
+    ¶ Tender my compleynt as rygure requyreth               instead of
+    ¶ Shew forth youre sentence {with} a breef clause       sentence
+    ¶ I may not longe tary the tyme fast expyreth           Original has
+    ¶ The offence is grete wherfore it desyreth.            erpyreth
+    ¶ The more greuous payn and hasty iugeme{n}t            instead of
+    ¶ For offence don wylfully wyl non auysement            expyreth
+
+    And wha{n} {the} god pluto a whyl had hi{m} bethought
+    ¶ He rowned {with} mynos what was to do.
+    ¶ Then he sayde openly loke thou fayl nought
+    ¶ Thy sentence to yeue wythoute fauoore soo.
+    ¶ Lyke as thou hast herde the causes the too.
+    ¶ And so euenly dele twene thise partyey twein
+    ¶ That none of he{m} haue case on {the} other co{m}pleint
+
+    ¶ Thenne sayd mynos full indyfferently.
+    ¶ To Dyana & Neptunus is there ony more.
+    ¶ That ye wyll declare ageyn hym openly.
+    ¶ Nay in dede they sayd we kepe none in store /
+    ¶ we haue sayd Inough to punysshe hym fore
+    ¶ If ye in this mater be not parcyall·
+    ¶ Remembre your name was wont to be egall.
+
+    ¶ Well than sayd Mynos now let vs see.
+    ¶ what this boystous Colus for hy{m}self cay say
+    ¶ For here Prima facie to vs doth appere.
+    ¶ That he hath offended no man can say naye
+    ¶ wherfore thou Colus wythoute more delaye
+    ¶ Shape vs an answere to thyne accusemente
+    ¶ And elles I must procede vpon thy iugeme{n}t
+
+    ¶ And euen as col{us} was onward to haue said
+    ¶ For his excuse / came in a messengere.
+    ¶ Fro god Appolo to Pluto and hym prayde.
+    ¶ On his behalfe that he wythoute daungere
+    ¶ wolde to hym come & bry{n}ge wyth hym in fere
+    ¶ Dyana and Neptunus vnto his banket
+    ¶ And yf they dysdeyned hy{m}self he wold he{m} fet.
+
+    ¶ Moreouer he sayde to god Appolo
+    ¶ Desyred to haue respyte of the iugemente
+    ¶ Of Colus bothe of Mynos and Pluto
+    ¶ So Dyana & Neptun{us} were therwith co{n}te{n}t
+    ¶ And yf they were dysposed to assente
+    ¶ That he myght come vnto his presente
+    ¶ He it desyred to knowe his offence
+
+    ¶ What say ye herto sayd Pluto to hem tweyn
+    ¶ wyll ye both assente that it shal be thus
+    ¶ ye sayd the goddesse for my parte certeyne
+    ¶ And I also sayd this Neptunus
+    ¶ I am well plesid quod this Colus
+    ¶ And whan they had a whyle th{us} togyd{er} spoke
+    ¶ Pluto commaunded the court to be broke
+
+    ¶ And than togeder went they in fere.
+    ¶ Pluto and Neptunus ledynge the goddesse
+    ¶ whome folowed Cerberus {with} his prysonere.
+    ¶ And alderlast wyth grete heuynesse.
+    ¶ Came I and Morpleus to the forteresse.
+    ¶ Of the god appolo vnto his banket.
+    ¶ where many goddes and goddesses met.
+
+    ¶ Whan Appolo se that they were come.
+    ¶ He was ryght glad & prayed theym to syt.
+    ¶ Nay sayd Dyana this is all and some.
+    ¶ ye shall me pardone I shall not syt yet.
+    ¶ I shall fyrste know why Colus abyde.
+    ¶ And what execucyon shall on hym be doo
+    ¶ For his offence / well sayd Appollo.
+
+    ¶ Madame ye shall haue all your plesere.
+    ¶ Syth that it wyll none otherwyse be.
+    ¶ But fyste I pray you let me {the} mater here
+    ¶ why he is brought in this perplexyte.
+    ¶ well sayd Pluto that shall ye sone se.
+    ¶ And gan to declare euen by and by.
+    ¶ Bothe theyr complayntes ordynatly.
+
+    ¶ And whan Appolo had herd the reporte
+    ¶ Of Pluto in a maner smylynge he sayd.
+    ¶ I se well Colus thou hast small comforte.
+    ¶ Thy selfe to excuse thou mayst be dysmayde·
+    ¶ For to here so grete co{m}pleyntes ayen the layd
+    ¶ And notwythstondyng if thou can say ought
+    ¶ For thyne own wele say and tary nought
+
+    ¶ Nota
+
+    ¶ Forsoth sayd Colus yf I had respyte.
+    ¶ Hereto an answere cowd I counterfete.
+    ¶ But to haue her grace more is my delyte.
+    ¶ wherfore I pray you all for me entrete.
+    That I may by your req{ue}st her gode grace gete
+    ¶ And what payn or greef ye for me prouyde
+    ¶ wythout ony grutchyng I shall it abyde.
+
+    ¶ Lo good dame sayd god Appollo.
+    ¶ what may he do more but sew to your grace.
+    ¶ Beholde how the teres from his eyen goo.
+    ¶ It is satysfaction half for his trespace.
+    ¶ Now gloryo{us} goddes shew your petio{us} face
+    ¶ To this pore prysoner at my request.
+    ¶ All we for youre honour thynke thus is best.
+
+    ¶ And yf it lyke you to do in thys wyse.
+    ¶ And so to foryeue hym clerely his offence.
+    ¶ One thynge surely I wyll you promyse.
+    ¶ If he ought rebell and make resystence
+    ¶ Or dysobey vnto your sentence.                        Original has
+    ¶ For euery tree that he maketh fall.                   sencence
+    ¶ Out of the erthe an /C/ ryse shall.                   instead of
+                                                            sentence
+    ¶ Soo that youre game shall not dyscrease
+    ¶ For lacke of shade i dare vndertake
+    ¶ well syr Appolo sayd she than wyll I cease
+    ¶ Off all my rancour and mercy {with} you make
+    ¶ And than god Neptunus of his maner spak
+    ¶ Saying th{us} appolo though dyana him relese
+    ¶ yet shall he sue to me to haue his pease.
+
+    ¶ A sayd Appolo ye wende I had forgete.
+    ¶ You for my lady Dyana the goddesse.
+    ¶ Nay thynke not so for I wyll you entrete.
+    ¶ As well as her wythoute longe processe.
+    ¶ wyll ye agre that Phebus your maystresse.
+    ¶ May haue the guydyng of your varyaunce.
+    ¶ I shall abyde quod he / her ordynaunce.
+
+    ¶ Wel than quod appolo I pray you godd{i}s all
+    ¶ And goddesses that ben here presente.
+    ¶ That ye companable wyll aborde falle.
+    ¶ Nay than sayd Othea it is not conuenyente.
+    ¶ A dew ordre in euery place is expedyente.
+    ¶ To be hadde wherfore ye may not lette.
+    ¶ To be your own marshal at your own ba{n}ket
+
+    ¶ And whan appolo se it wolde none other be
+    ¶ He called to hym Aurora the goddesse.
+    ¶ And sayd though ye wepe ye shall before me.
+    ¶ Ay kepe your course and put yourself in p{re}sse
+    ¶ Soo he her set fyrste at his owne messe.
+    ¶ wyth her moyst clothes {with} teres all be sprey{n}t
+    ¶ The medewes in may shew therof her co{m}plei{n}t
+
+    ¶ Next her sat Mars myghty god and strong
+    ¶ wyth a flamme of fyre enuyroned all about             Original has
+    ¶ A crown of yron on his hede a spere i{n} his ho{n}d   aboeut
+    ¶ It semed by his che{re} as he wold haue fought.       instead of
+    ¶ And next vnto hym as I perceyue mought.               about
+    ¶ Sat {the} goddesse Dyana in a mantell fyne.
+    ¶ Of black sylke purfyled {with} poudred ermine
+
+    ¶ Lyke as he had take {the} mantell & the rynge
+    ¶ And next vnto her arayed roally.
+    ¶ Sat the god Iupyter in his demenynge.
+    ¶ Full sad and wyse he semed sykerly.
+    ¶ A crowne of tynne stood on his hede.
+    ¶ And that I recorde of all phylosophers.
+    ¶ {that} lytyll store of Coyne kepe in her cofres.
+
+    ¶ Ioyned to hy{m} in syttyng next there was
+    ¶ The goddesse Iuno full rychely besene.
+    ¶ In a sercote {that} shone as bryght as glas
+    Of goldsmyth werk {with} spa{n}gles wrought beden{e}
+    ¶ Of royall ryches wanted she none I wene.
+    ¶ And next to her sat the god saturne.
+    ¶ That oft syth causeth many one to morne.
+
+    ¶ But he was clad me thought straungely
+    ¶ For of froste & snowe was all his aray.
+    ¶ In his honde he helde a fawchon all blody
+    ¶ It semed by his chere as he wold make a frai
+    ¶ A baudryck of Isykles about his necke gaye
+    ¶ He had and aboue on hygh on his hede.
+    ¶ Couchid {with} hayl sto{n}es he wered a crou{n} of lede
+
+    ¶ And nexte in ordre was set by his syde.
+    ¶ Ceres the goddesse in a garmente.
+    ¶ Of sacke cloth made {with} sleues large & wyde
+    ¶ Embrowdered wyth sheues and sycles bent
+    ¶ Of all maner greynes she sealed {the} patente.
+    ¶ In token {that} she was goddes of corne.
+    ¶ Olde Poetes saye she beryth the heruest horn
+
+    ¶ Then was there set the god cupydo·
+    ¶ All fresshe & galaunte and costly in aray.
+    ¶ Wyth ouches and rynges he was beset so.
+    ¶ {the} paleys therof shon as though it had be day
+    ¶ A kerchyff of plesau{n}s stood ouer his helm ay
+    ¶ The goddesse Ceres he loked in the face.
+    ¶ And wyth one arme he her dyde enbrace.
+
+    ¶ Next to Cupido in order by and by
+    ¶ Of wordly wysdum sat the forteresse.
+    ¶ Called Othea chyef grounde of polycy.
+    ¶ Reuler of knyghthode of prudence {the} goddes
+    ¶ Clad all in purpure was she more & lesse.
+    ¶ Saaf on her hede a crowne there stode.
+    ¶ Couched wyth perles oryent fyne & good.
+
+    ¶ And nexte to her was god Pluto set
+    ¶ Wyth a derke myste enuyrond al about.
+    ¶ His clothy was made of a smoky net.
+    ¶ His colour was bothe wythin & wythoute.
+    ¶ Foule / derke & dy{m}me his eyen grete & stoute.
+    ¶ Of fyre & sulfure all his odoure wase.
+    ¶ That wo was me whyle I beheld his face
+
+    ¶ Fortune the goddesse {with} her perty face.
+    ¶ Was vnto Pluto next in order sette.
+    ¶ Varyant she was ay in shorte space.
+    ¶ Her whele was redy to turne wythout let.
+    ¶ Her gowne was of gawdy grene clamelet.
+    ¶ Chaungeable of sondry dyuerse colours.
+    ¶ To {the} condycyons accordy{n}g to her shoures
+
+    ¶ And by her sat thoughe he vnworthy were.
+    ¶ The rewde god Pan of shepherdes {that} gyde
+    ¶ Clad in russet frese & breched lyke a bere.
+    ¶ Wyth a grete terbox hangyng by his syde.
+    ¶ A shepcrok in his ho{n}d he spared for no pryde.
+    ¶ And by his fete lay a prekered curre.
+    ¶ He rateled in {the} throte as he had {the} murre.
+
+    ¶ Isys the goddes bare hym company.
+    ¶ For at the table next she sat by his syde.
+    ¶ In a close kyrtell embrowdered curyously
+    ¶ {with} braunches and leues brood large & wyde.
+    ¶ Grene as any grasse in {the} somer tyde.
+    ¶ Of all maner frute she had the gouernaunce
+    ¶ Of fauours odyferous was her sustynauns
+
+    ¶ Next to her than was god Neptunus set.
+    ¶ He sauoured lyke a fyssher of hy{m} i spak before
+    ¶ It semed by his clothes as they had be wet.
+    About hy{m} i{n} his gyrdelsted hi{n}g fysshes mani a xx
+    ¶ Of his straunge aray merueyled I sore.
+    ¶ A shyp wyth a top and sayle was hys creste.
+    ¶ Me thought he was gayly dysgysed at {the} fest.
+
+    ¶ Than toke mynerue the goddes her sete.
+    ¶ Ioyntly to Neptunus all in curas cladde.
+    ¶ Gau{n}telettis on ho{n}des & sabatou{n}s on her fete
+    ¶ She loked about as though she had be mad.
+    ¶ An hamer and a sythe on her hede she hadde
+    ¶ She wered two bokelers one by her syde.
+    ¶ that other ye wote were this was al her prid
+
+    ¶ Tha{n} cam {the} god bach{us} & by her set hy{m} doun
+    ¶ Holdynge in his honde a cuppe full of wyne.
+    ¶ Of grene vyne leues he wered a Ioly croun
+    ¶ He was clad in clustres of grapes gode & fine
+    ¶ A garlonde of yuy he chose for his sygne.
+    ¶ On his hede he had a thredbare ke{n}dall hode.
+    ¶ A gymlot and a fauset therupon stode.
+
+    ¶ Next hym sat phebus wyth her colour pale.
+    ¶ Fat she was of face but of complexon feynte.
+    She sayd she rewled Neptun{us} & made hy{m} bayl
+    ¶ And ones in {the} monthe {with} pheb{us} was she mei{n}t
+    ¶ Also ne were she Ceres were ateynte
+    ¶ Thus she sat & tolde the myght of her nature
+    ¶ & on her hede she wered a croun of siluer pure
+
+    ¶ Ioyntly to her Marcuryus toke his see.
+    ¶ As came to his cours wytnesse the zodyake.
+    ¶ He had a gylden tonge as fyll for his degree
+    ¶ In eloquence of langage he passed al {the} pake
+    ¶ For in his talkyng no man coud fynde lake
+    ¶ A box wyth quycksyluer he had in his honde /
+    ¶ Multyplyers know it wel in euery londe
+
+    ¶ By hym sat dame Ven{us} {with} colour crystalline
+    ¶ Whos long here shone as wyre of gold bry{gh}t
+    ¶ Cryspe was her skyn her eyen columbyne
+    ¶ Rauysshed myne herte her chere was so ly{gh}t
+    ¶ Patrones of plesau{n}ce be named wel she my{gh}t
+    ¶ A smocke was her wede garnysshed curyusli
+    ¶ But all other she had a wanton eye
+
+    ¶ On her hede she wered a red coper crowne
+    ¶ A nosegay she had made ful plesauntly
+    ¶ Bytwene her & aurora Apollo set hym doune
+    ¶ Wyth his beames bryght he shone so ferue{n}tly
+    ¶ That he therwyth gladyd al {the} company
+    ¶ A crown of pure gold was on his hede set
+    ¶ In syne {that} he was mayster & lorde of {that} banket
+            ¶ Nota
+    ¶ Thus was the table set round aboute
+    ¶ Wyth goddes & goddesses as i haue you told
+    ¶ Awaytyng on the bord was a grete route
+    ¶ Of sage phylosophers & poetes many fold
+    ¶ There was sad Sychero & Arystotle olde
+    ¶ Tholome Dorothe wyth Dyogenes
+    ¶ Plato Myssehala and wyse Socrates
+
+    ¶ Sortes & Saph[y]r{us} {with} hermes stode behynd
+    ¶ Auycen & Aueroys wyth hem were in fere
+    ¶ Galyen & ypocras that physyk haue in mynd
+    ¶ wyth help of Esculapyo{n} toward he{m} drow ner
+    ¶ Vyrgyle Orace Ouyd and Omere
+    ¶ Euclyde and albert yaue her attendaunce
+    ¶ To do the godds & goddesses plesaunce
+
+    ¶ Horeberded Orphe{us} was there {with} his harpe.
+    ¶ And as a poyt musycal made he melody
+    Other mi{n}stral had ther non saf Pan ga{n} to carpe
+    ¶ Of his leud bagpyp which caused {the} compani
+    ¶ To law yet many mo ther we{re} yf i shuld not ly
+    ¶ Som yong som old both better and werse
+    ¶ But mo of theyr names can I not reherce
+
+    ¶ Of al maner deyntes there was habu{n}dau{n}ce
+    ¶ Of metes & drynkes foyson plenteuous
+    ¶ In cam Dyscord to haue varyaunce
+    ¶ But there was no roum to set her i{n} that hous
+    ¶ The goddis remembred the scysme odious
+    ¶ Among the thre goddesses {that} she had wrought       Original has
+    ¶ At the fest of Peleus wherfore they thought           he instead
+                                                            of she
+    ¶ They wold not {with} her dele in a venture
+    ¶ Lest she hem brought to som inconuenyente
+    ¶ She seyng this was wroth out of mesure
+    ¶ And in that grete wrath out of {the} paleyse we{n}t
+    ¶ Say{n}g to herself that chere shuld thei repent
+    ¶ And anone {with} Attropes happed she to mete.
+    ¶ As he had ben a gost came in a wy{n}dy{n}g shete
+
+    ¶ She toke hym by {the} hond & rowned in his ere
+    ¶ And told hy{m} of the banket {that} was so delycate.
+    How she was receyued & what chere she had {the}re
+    ¶ And how euery god sat in his astate
+    ¶ Is it thus q{uo}d attropos what in {the} deuyls date
+    ¶ Well he sayd I se well how the game goth
+    ¶ Ones yet for your sake shal I make he{m} wroth
+
+    ¶ And whan she had hym al togyder told
+    ¶ From her he departed & of her toke his leue /
+    ¶ Sayng {that} for her sake his way take he wolde
+    ¶ In to the paleys his maters to meue
+    ¶ And or he thens went he trowed he{m} to greue.
+    ¶ Wyth such tydynges as he wold hem tel
+    ¶ So forth he went & spake wordes fell
+
+    ¶ Whan he came in the p{re}sence of {the} goddis [a]lle
+    ¶ As he had ben mad he loked hym a bout
+    ¶ His shete from his body downe he let fall
+    ¶ And on a reud maner he saluted al the route
+    ¶ Wyth a bold voys spekyng wordes stoute
+    ¶ But he spake all holow as it had ben one
+    ¶ Had spoke in a nother world {that} had wo begon
+
+    ¶ He stode forth boldly {with} grym countenau{n}ce
+    ¶ Sayng on this wyse as ye shal here
+    ¶ All ye goddes yeue attendaunce
+    ¶ Vnto my wordes {with}out all daungere
+    ¶ Remembre how ye made me your offycere
+    ¶ Al tho wyth my darte fynally to chastyse
+    ¶ That {thou} dysobeyed or wolde your law dyspise
+
+    ¶ And for the more surete seiled my patent
+    ¶ Gyuyng me full power so to ocupy
+    ¶ Wherto I haue enployed myn entent
+    ¶ And that can dame Nature testefy
+    ¶ If she be examyned she wyll not it denye
+    ¶ For whan she forsakyth ony creature
+    ¶ I am al redy to take hy{m} to my cure
+
+    ¶ Thus haue I deuly wyth al mi dylygence.
+    ¶ Executed the offyce of olde antyquyte
+    ¶ To me by you grau{n}ted by your comyn se{n}tece
+    ¶ For I spared none hygh nor low degre
+    ¶ So that on my parte no faute hath be
+    ¶ For as sone as ony to me commytted was
+    ¶ I smote hy{m} to {the} hert he had none other grace
+
+    ¶ Ector of Troy for al his cheualry
+    ¶ Alexander the grete & myghty conqueroure
+    ¶ Iulyus Cezar {with} al his companye
+    ¶ Dauyd nor Iosue nor worthy Artur
+    ¶ Charlis the noble that was so gret of honour
+    ¶ Nor Iudas Machabee for al his trew herte
+    ¶ Nor Godfrey of Boleyn coud me not asterte
+
+    ¶ Nabugodonozor for al his grete pryde
+    ¶ Nor the kyng of Egypt cruel Pharao
+    ¶ Iason ne Hercules went they neuer so wyde.
+    ¶ Cosdras Hanyball nor gentyll Sypyo·
+    ¶ Cyrus Achylles nor many another mo
+    ¶ For fayr nor foule gat of me no grace
+    ¶ But al be at {the} last I seased hem {with} my mace.
+
+    ¶ Thus haue I brought euery creature
+    ¶ To an ende both man fysshe foule and best
+    And euery other thyng in whome dame nature
+    ¶ Hath ony Iurysdyccion eyther most or lest
+    ¶ Except oonly one in whome your be hest
+    ¶ Is to me broke for ye me promysed
+    That my myght of non{e} shold haue be dyspysed
+
+    ¶ Wherof the contrary daoe I well a uow                 Original has
+    ¶ Is trew for one there is that wyl not apply           aontrary
+    ¶ Vnto my correction nor in no wyse bow                 instead of
+    ¶ To the dynt of my darte for dole nor desteny·         contrary
+    ¶ What comfort he hath nor the cause why
+    ¶ That he so rebellyth I can not thynk of ry{gh}t       Original has
+    But yf ye hy{m} grau{n}ted your alders saf condyght.    yot instead
+                                                            of not
+    ¶ And yf he so haue than do ye not as goddis.
+    ¶ For a goddys wrytyng may not reuersed be.
+    ¶ Yf it shold I wold not gyue you ii pesecodd{i}s
+    ¶ For grau{n}t of your patent of offyce nere of fee.    Original has
+    ¶ Wherefore in this mater do me equyte                  gra{n}ut
+    ¶ Accerdi{n}g to my patent for tyl this be do           instead of
+    ¶ Ye haue no more my seruyse nor my gode wyl            grau{n}t
+
+    ¶ And whan al the goddis had attropos hered
+    ¶ As they had ben wode brayd vp attones
+    ¶ & sayd they wold not rest tyll he were conq{ue}red
+    ¶ Taken and dystroyed body blode and bones
+    ¶ And that they swere grete othes for {the} nonis
+    ¶ Her lav to dyspyce that was so malapert
+    ¶ They sayd he shuld be taught for to be so pert
+
+    ¶ Wel sayd Appollo yf he on erth be
+    ¶ wyth my brennyng chare I shall hy{m} co{n}found
+    ¶ In feyth quod neptunus & he kepe these
+    ¶ He may be well sure he shall be drownd
+    ¶ A syr sayd Mars this haue we wel found
+    ¶ That ony dysubeyed oure goodly precept
+    ¶ We may well thynk we haue to long slept
+
+    ¶ But neuertheles where I may hym fynd
+    ¶ wyth thu{n}d{er} & lyghtning about I shall hy{m} chase
+    ¶ And I quod Saturnus before and behynd.
+    ¶ {with} my bytte cold shall shew hy{m} harde grace
+    ¶ well sayd Mercuryus yf I may se his face.
+    ¶ For euer of his spech I shall hym depryue             Original has
+    ¶ So that hym were better dede than alyue               depryur
+                                                            instead of
+    ¶ Ye quod Othea yet may he well be                      depryue
+    ¶ In the eyr where he wyll & ax you no leue
+    ¶ wherfore my counseyl is that all we
+    ¶ May entrete Neptun{us} his rancour foryeue.           Original has
+    ¶ And than I dout not Colus wyl hy{m} myscheue          rahcour
+    ¶ So may ye be sure he soal you not escape              instead of
+    ¶ & ellis of you anger he wyll make but a iape.         rancour
+
+    ¶ But for to tel you how Colus was brought.
+    ¶ In daungere of Pluto yet had I forget
+    ¶ wherfore on this mater forther wyl I nou{gh}t.
+    ¶ Procede tyll I therof haue knowlege you let
+    ¶ It befell on a day the weder was wete
+    ¶ And Colus thought he wold on his dysport.
+    ¶ Goo t[u] reioyse his spyrytis and comforte
+
+    ¶ He thought he wold se what was in {the} grou{n}d
+    ¶ And in a krauers forth he gan hym dresse
+    ¶ A drough had the erthe late before found.
+    ¶ That caused it to chyne & krauy more & lesse /
+    ¶ Sodenly by wete constreyned by duresse
+    ¶ Was the ground to close his sup{er}fycyall face.
+    ¶ So streyt that to scape col{us} had noo space
+
+    ¶ This seyng Colus be styll wythin abode.
+    ¶ Seky{n}g where he my{gh}t haue gene fer or nere.
+    ¶ A[n]one he was espyed and one to Pluto rode
+    ¶ And told hy{m} how Colus was in his dau{n}gere.
+    ¶ Than sayd he to Cerber{us} fet me {that} prysonere /
+    ¶ Tyl I haue hy{m} sene let hy{m} not go at large /
+    ¶ As {the} wylt answere of hem I yeue the charge
+
+    ¶ Thus was this Colus take prysonere
+    ¶ Than happed it so that the sa[m]e day                 Original has
+    ¶ Pluto had prefyxed for a grete mater                  thh instead
+    ¶ Mynos to syt in his robe of Ray                       of the
+    ¶ Wherfore Cerber{us} toke the next way
+    ¶ And led hy{m} to the place where the court shalbe
+    ¶ where I told you Morpleus brought me
+
+    ¶ So thyder c[a]me Dya[n]a caryed in carre
+    ¶ To make her compleynt as I told you all
+    ¶ And so dyd Neptunus {that} doth make and mar
+    ¶ Walewyng {with} his wawys & to{m}blyng as a ball
+    ¶ Her matters they meued fal what may befall
+    ¶ There was the fyrst syght {that} euer I them saw
+    ¶ And yf I neuer do eft I care not a straw
+
+    ¶ But now to my matter retourne agayn
+    ¶ And tu begyn new where I left.
+    ¶ whan al the goddis had done her besy payne.
+    ¶ The way to contryue how it shuld be reft
+    ¶ Of his lyf Attropos had no cause eft
+    ¶ To co{m}pleyn than Phebus stert vpon her fete /
+    ¶ And sayd I pray you let me speke a word yet
+
+    ¶ Othea menyth wel to say on this wyse
+    ¶ But al to entret Neptun{us} i hope shal not nede
+    ¶ Me semyth I alone durst take {that} entesprise.
+    ¶ Er I am begyled or ellis I shal spede                 Original has
+    ¶ How say ye Neptunus shal I do this dede.              ellie
+    ¶ Wy[l] ye your rancour seale at my request             instead of
+    ¶ Madame quod he reule me as ye lykyth best             ellis
+
+    ¶ Gr[a]mercy sayd she of your good wyll
+    ¶ That it pleysyth you to shew me that fauorus
+    ¶ Wherfore the goddys hygh pleysur to fulfyll
+    ¶ Performe my desyre & leue al olde rancoure
+    ¶ For our elders wele & sauyng of oure honour
+    ¶ Agayn this colus that ye long haue had
+    ¶ It is done quod he forsoth than am I gladd
+
+    ¶ Sayd he now than Colus be {thou} to vs trewe
+    ¶ Kepe well the eyr and oure grete rebell
+    ¶ May we than sone euer to vs subdew
+    ¶ Yes and that quod Colus shall here tell
+    ¶ Nowhere in the eyr shall he rest nor dwel
+    ¶ If he do therof put me in the faute
+    ¶ Wyth my bytter blastes so shal I hy{m} asaut
+
+    ¶ What sayd the god Pluto what is his name.
+    ¶ That thus presumyth agayn vs to rebell
+    ¶ Vertu quod attropes {that} haue he mykyl shame
+    ¶ He is neuer confou{n}ded thus of hy{m} here I tell
+    ¶ A sayd this pluto in dede I know hy{m} wel
+    ¶ He hath ben euer myn vtter ennemye                    Original has
+    ¶ Wherfore this mater agayn hy{m} take wyll I           Ho instead
+                                                            of He
+    ¶ For all the baytes {that} we for hym haue layde
+    ¶ Wythout my helpe be not worth a pere
+    ¶ For though ye all the contrary had sayd
+    ¶ yet wold he brede right nigh your althris ere
+    ¶ No maner of thynge can hym hurt or dere
+    ¶ Saue only a sone of my bastard
+    ¶ Whos name is vice he kepyth my vawarad.
+
+    ¶ Wherfore you Cerber{us} now I the charge
+    ¶ Of Colus & wyl that thou heder fet
+    ¶ My dere sone Vyce & say that I hy{m} charge.
+    ¶ That he to me come without ony let
+    ¶ Armed at all poyntes for a day is set
+    ¶ That he {with} Vertu for al {the} goddis sake
+    ¶ In our defence must on hym batayl take.
+
+    ¶ Forth then went Cerberus {with} his fyry chein
+    ¶ Brought thyd{er} vyce as he co{m}mau{n}ded was
+    ¶ Agayn noble Vertu {that} batayl to dercygne
+    ¶ On a glydy{n}g serpent rydy{n}ge a grete pace
+    ¶ Formed lyke a dragon scaled hard as glas
+    ¶ whoos mouth flammed fyre {with}out fayll
+    ¶ wyng{i}s had it serpentyne & a long tayll
+
+    ¶ Armed was vyce all in cure boyll
+    ¶ Harde as horne blacker fer than sute
+    ¶ An vngoodly sort folowed hym perde
+    ¶ Of vnhappy capteyns of myschyfe crop & rot
+    ¶ Pryde was the fyrst {that} next hy{m} rode god wote
+    ¶ On a roryng Lyon next whom{e} came Enuye
+    ¶ Syttyng on wolfe he had a scornful eye
+
+    ¶ Wrath bestrode a wyld bore & next hy{m} ga{n} ride.
+    ¶ In his hond he bare a blody swerd
+    ¶ Next whom cam couetise {that} goth so fer & wide
+    ¶ Rydy{n}g on a Olyfau{n}t as he had ben a ferd
+    ¶ After whom rode Gloteny wyth his fat berd
+    ¶ Syttyng on a bere wyth his grete bely
+    ¶ And next hy{m} on a gote folowed Lechery
+
+    ¶ Sloth was so slepy he came all behynd
+    ¶ On a dull asse a full wery pase
+    ¶ Thyse were {the} capteins that vyce coud fynde
+    ¶ Best to set his feld & folow on the chase
+    ¶ As for pety capteyns many mo there was
+    ¶ As sacrylege symony & dyssymulacyon
+    ¶ Manslaughter mordre theft & extorcyon
+
+    ¶ Arrogau{n}ce Presu{m}pcyon wyth contumaci             Original has
+    ¶ Conte{m}pcyon Co{n}tempt & Inobedyence                contumact
+    ¶ Maly[s]e Frowardnes grete Ielasy                      instead of
+    ¶ wodnes Hate Stryf and Impacyence                      contumaci
+    ¶ Vnkyndnes Opp{re}ssyon {with} wofull neglyge{n}ce.
+    ¶ Murmur Myschef Falshod & detraccyon
+    ¶ Vsury Periury Ly and adulacyon
+
+    ¶ Wrong Rauyne Sturdy vyolence
+    ¶ Fals Iugement {with} Obstynacyon
+    ¶ Dysceyt Dronknes & Improuydence.
+    ¶ Boldnes in yll {with} foule and Rybaudy.
+    ¶ Fornycacyon Incest and Auoutry
+    ¶ Vnshamfastnes {with} Prodygalyte
+    ¶ Blasfeme vaynglory & worldly vanyte
+
+    ¶ Ignorau{n}ce Dyffydence {with} Ipocrysy
+    ¶ Scysme Rancour Debate and Offence
+    ¶ Heresy Errour {with} Idolatry.
+    ¶ New fangylnes and sotyll false Pretence
+    ¶ I{n}ordynat desyre of worldly excellence
+    ¶ Fayned pouerte wyth apostasy
+    ¶ Dysclaunder scorn & vnkynd Ielousy
+
+    ¶ Hoordom baudry false mayntenaunce
+    ¶ Treyson abusyon and pety brybry
+    ¶ Vsurpacyon {with} horryble vengaunce
+    ¶ Came alder last of that company
+    ¶ All thyse pety capetayns folowed by and by.
+    ¶ Shewyng theymself in the paleyse wyde
+    ¶ And say they were redy that batayl to abyde
+
+    ¶ Idylnes set the comyns in aray
+    ¶ Without the palayse on a fayr felde
+    ¶ But there was an ost for to make a fray
+    ¶ I trow suche a nother neuer man beheld
+    ¶ Many was the wepyn among he{m} {that} they weld
+    ¶ What they were {that} came to that dysporte
+    ¶ I shall you declare of many a sondry sort
+
+    ¶ There were bosters crakers & brybours
+    ¶ Praters sasers strechers and wrythers
+    ¶ Shamefull shakelers soleyn slauedours
+    ¶ Oppressours of people and myghty crakers
+    ¶ Mayntenours of quarels horryble lyers
+    ¶ Theues traytours {with} false heretykes
+    ¶ Charmars sorcerers & many scysmatykes.
+
+    ¶ Preuy symonyakes wyth false vsurers
+    ¶ Multyplyers coyn wasshers & clyppers
+    ¶ Wrong vsurpers wyth grete extorcyoners
+    ¶ Bacbyters Glosers and fayre flaterers.
+    ¶ Malycyous murmurers with grete claterers
+    ¶ Tregetours Tryfelers Feyners of tales·
+    ¶ Lastyuous lurdeyns and Pykers of malys.
+
+    ¶ Rouners Vagabundes Forgers & lesingis.
+    ¶ Robbers Reuers Rauenous Ryfelers.
+    ¶ Choppers of Chyrches Fynders of tydynges
+    ¶ Merrers of maters and mony makers.
+    ¶ Stalkers by nyght wyth Euysdroppers.
+    ¶ Fyghters Brawlers Brekers of louedayes
+    ¶ Getters Chyders Causers of frayes.
+
+    ¶ Tytyuyllis Tyrau{n}tis {with} Tourmentours.
+    ¶ Corsyd apostatis Relygyous dyssymulers:
+    ¶ Closshers Carders wyth comon hasardours.
+    ¶ Tyburne colops and Purskytters.
+    ¶ Pylary knyghtys double tollyng Myllers.
+    ¶ Gay Ioly tapters {with} hostelers of the stewes.
+    ¶ Hores and Bawdes that many bale brewes
+
+    ¶ Bold blasfemers wyth false Ipocrytes.
+    ¶ Brothellers Brokers abhomynable swerers.
+    ¶ Dryuylls Dastardes dyspysers of ryghtis
+    ¶ Homycydes Poyseners & comon morderers
+    ¶ Scoldis Caytyues Comberous clappers.
+    ¶ Idolatres Enchauntors {with} false regenates.
+    ¶ Sotyl ambydextrys and sekeers of debatis.
+
+    ¶ Pseudo Prophetes false Sodemytes.
+    ¶ Quesmers of chyldren wyth fornycatours.
+    ¶ wetewoldes that suffre syn in their syghtis.
+    ¶ Auoutrers and abhomynable auauntours.
+    ¶ Of syn grete clappers & makers of clamours
+    ¶ Vnthryftes & vnlustes came al to that game
+    ¶ {with} lusk{i}s & loselis {that} might not thryue for sham{e}
+
+    ¶ These were the comons {that} came thid{er} {that} day.
+    ¶ Redy bowne in batayl Vertu to abyde.
+    ¶ Apollo theym beholdyng began to say·
+    ¶ To the goddys & goddesses beyng there {that} tid{e}
+    ¶ Me semyth conuenyent an herowd to ryde
+    ¶ To Vertu & byd{e} hy{m} to batayl make hy{m} boune
+    ¶ Hy{m}self to defend forsoth it shal be sone.
+
+    ¶ And let hym not be sodeynly take.
+    ¶ All dyspur[u]eyed or that he beware.
+    ¶ For than shold our dyshonour awake.
+    ¶ If he were cowardly take in a snare.
+    ¶ Ee quod Vyce for that haue I no care.
+    ¶ I wyll auauntage take where I may.
+    ¶ That heryng Morpleus p{re}uely stale away.
+
+    ¶ And went to warne Vertu of al this afray.
+    ¶ And bad hy{m} awake and make hymself strong
+    ¶ For he was lyke to endure that daye.
+    ¶ A grete mortall shoure er it were euensonge.
+    ¶ {with} Vyce wherfore he bad hym not longe.
+    ¶ Tary to send after more socoure.
+    ¶ If he dyde it shold torne hym to dolour.
+
+    ¶ And brefely the mater to he declared.
+    ¶ Lyke as ye haue herd begynnyng and ende.
+    ¶ Well quod Vertu he shall not be spared
+    ¶ To the feld I wyl go how it wende.
+    ¶ But gramercy Morple{us} myn own dere fre{n}de
+    ¶ Of your trew hert & faythfull entente.
+    ¶ That ye in this mat{er} to meward haue ment.
+
+    ¶ This done Morpleus departed away.
+    ¶ Fro Vertu to the palayse retorny{n}g agayn.
+    ¶ None hym aspyed that I dare well say.
+    ¶ In whych tyme Vertu dyde his besy payn
+    ¶ People to reyse his quarell to maynteyn.
+    ¶ Ymagynacyon was his messengere.
+    ¶ He went to warne people both fer & nere.
+
+    ¶ And bad hem come in all hast they myght
+    ¶ For to strength Vertu for wyth out fayll.
+    ¶ He sayd he shold haue long or it were nyght.
+    ¶ Wyth Vyce to do a myghty strong batayl.
+    ¶ Of vngracyo{us} gestes he bryngyth a gret tayll
+    ¶ Wherfore it behouyth to help at this nede.
+    ¶ And after this shal Vertu rewar yo{re} mede
+
+    ¶ Whan ymagynacyon had gone his cyrcuyte
+    ¶ To Vertue & frendis thus all about.
+    ¶ Wythin short tyme many men of myght
+    ¶ Gadered to Vertu in all that they myght.
+    ¶ They hym comforted & bad hy{m} put no doute.
+    ¶ His vtter enmy Vyce to ouerthrowe.
+    ¶ Thoughe he {with} hy{m} brou{gh}t neuer so gret arow  Original has
+                                                            h instead of
+    ¶ And whan Vertu se the sustau{n}ce of his oost         he
+    ¶ He prayed all the comons to the feld hem hye
+    ¶ Wyth her pety capteyns both lest and moste
+    ¶ And wyth his capteyns shold folow redely.
+    ¶ For he sayd he knew well {that} vyce was ful nye.
+    ¶ And who myght fyrst of {the} feld recouer {the} ce{n}tre
+    ¶ Wold kepe out {that} other he shuld not esely e{n}tre
+
+    ¶ Then sent he forth Baptym to {the} feld before
+    ¶ And prayed hym hartely it to ouerse·
+    ¶ That no maner trayn nor coltrop therin wor{e}         Original has
+    ¶ To noy nor hurt hym nor his meyne.                    cotlrop
+    ¶ And whan he thyder came he began to se.               instead of
+    ¶ How Vyce his purseua[u]nt cryme orygynall.            coltrop
+    ¶ Was entred before and had seased vp all.
+
+    ¶ But as sone as herof Baptym had a syght.
+    ¶ He fled fast away and left the feld alone.
+    ¶ And anone Baptym entred wyth his myght.
+    ¶ Serchyng al about where this crym{e} had gon{e}
+    ¶ But the feld was clene defaut fou{n}d he none.
+    ¶ Then came Vertu after with his gret oste.
+    ¶ And his myghty capteyns both lest and most
+
+    ¶ But to enfourme you how he thyder came.
+    ¶ And what maner capteins he to {the} feld brou{gh}t
+    ¶ Hymselfe sekerly was the fyrst man.
+    ¶ Of all his grete host {that} thyderwarde sought.
+    ¶ Syttyng in a chare {that} rychely was wrought.
+    ¶ Wyth golde and peerles & gemmes precyous.
+    ¶ Crowned with laurer as lord vyctoryous.
+
+    ¶ Foure doubty knyghtes about {the} chare went.
+    ¶ At euery corner one hit for to gyde.
+    ¶ And conuey accordyng to Vertue his entent.
+    ¶ At the fyrst corner was Ryghtwysnesse {that} tyde.
+    ¶ Prudence at the seconde was set to abyde.
+    ¶ At {the} thryd strength {the} fourth kept temperau{n}ce.
+    ¶ These {the} chare gyded to Vertue his pleasau{n}ce.
+
+    ¶ Next to {the} chare seuen capyteyns there roode.
+    ¶ Echone aftre other in ordre by and by.
+    ¶ Humylyte was {the} fyrst a lambe he bestroode.
+    ¶ With contenau{n}ce demure he rood full soberly.
+    ¶ A fawcon gentyll stood on his helme on hy.
+    ¶ And next after hym came there Charyte.
+    ¶ Rydyng on a tygre as fyll to his degre.
+
+    ¶ Roody as a roose ay he kept his chere.
+    ¶ On his helme on hyghe a pellycan he bare.
+    ¶ Next whom cam pacye{n}ce {that} no where hath no pere
+    ¶ On a camell rydyng as voyde of all care.
+    ¶ A fenix on his helm stood so forth gan he fare.
+    ¶ Who next hym folowed but lyberalyte.
+    ¶ Syteng on a dromedary {that} was both good & fre.
+
+    ¶ On his helm for his crest he bare on ospray.
+    ¶ And next after hym folowed abstynence.
+    ¶ Rydyng on an hete was trapure and gay.
+    ¶ He semed a lorde of ryght grete excellence.
+    ¶ A popyniay was his crest he was of gret dyffe{re}ce.
+    ¶ Next hym folowed chastyte on an vnicorne.
+    ¶ Armed at all poyntes behynde & beforne.
+
+    ¶ A tortyldoue he bare on hyghe for his crest.
+    ¶ Than came good besynesse last of {the} seuen.
+    ¶ Rydyng on a panter a sondry coloured best.
+    ¶ Gloryously beseen as he had come from heuen.
+    ¶ A crane on his hede stood his crest for to steuen.
+    ¶ All these .vii. capteyned had standardis of pryce.
+    ¶ Eche of hem accordy{n}g after his deuyse.
+
+    ¶ Many pety capteyns after these went.
+    ¶ As trew feyth & hope mercy pease & pyte.
+    ¶ Ryght trouth mekenesse {with} rood ente[n]t.
+    ¶ Goodnes concorde & parfyte vnyte.
+    ¶ Honest trewe loue with symplycyte.                    Original has
+    ¶ Prayer fasty{n}g preuy almysdede.                     Hoeest
+    ¶ Ioyned with {the} artycles of the crede.              instead of
+                                                            Honest
+    ¶ Confessyon contrycyon & satysfaccyon.
+    ¶ With sorow for synne & grete repentaunce.
+    ¶ Foryeuenesse of trespas {with} good dysposycyon.
+    ¶ Resystence of wrong performy{n}g of penance.
+    ¶ Holy deuocyon wyth good contynaunce
+    ¶ Presthode hem folowed with the sacrame{n}tis
+    ¶ And sadnesse alse wyth the commau{n}dementes
+
+    ¶ Suffraunce in trouble wyth Innocensy
+    ¶ Clennes contynence and virgynyte
+    ¶ Kyndnes reuerence {with} curteysy
+    ¶ Content & pleased wyth pyteous pouerte
+    ¶ Entendyng wel mynystryng equyte
+    ¶ Twene ryght & wrong hole indyfferently
+    ¶ And labouryng the seruyse of god to multyply
+
+    ¶ Refuse of ryches & worldly vaynglory
+    ¶ Perfeccyon wyth perfyght contemplacyon
+    ¶ Relygyon professyon wel kept in memory
+    ¶ Verry drede of god wyth holy predycacyon
+    ¶ Celestyall sapyence wyth gostly inspyracyon
+    ¶ Grace was the guyde of al this meyne
+    ¶ Whome folowed konnyng {with} his genealogy
+
+    ¶ That is to say gramer and Sophystry
+    ¶ Phylosophy naturall logyke and Rythoryke
+    ¶ Arsmetrycke geometry wyth astronomye
+    ¶ Canon and Cyuyll melodyous musyke
+    ¶ Noble Theology and corporal physyke
+    ¶ Moralyzayson of holy scrypture
+    ¶ Profound poetry and drawy{n}g of pycture
+
+    ¶ Thyse folowed connyng & thyd{er} wyth hin cam
+    ¶ Wyth many one mo offryng her seruyse
+    ¶ To Vertu at that nede but notwythsto{n}dy{n}g than
+    ¶ Some he refused and sayd in nowyse
+    ¶ They shuld wyth hym go & as I coud auyse
+    ¶ Thyse wore her names fyrst Nygro{m}mancy
+    ¶ Geomansy magyke and glotony
+
+    ¶ Adryomansy Ornomancy {with} pyromancy
+    ¶ Fysenomy also and pawmestry
+    ¶ And al her sequeles yf I shal not lye
+    ¶ Yet connyng prayed Vertu he wold not deny
+    ¶ Theym for to know nor dysdeyn his eye
+    ¶ On hem to loke wherto Vertu graunted
+    ¶ How be it in his werres ge wold not they hau{n}ted
+
+    ¶ So had they connyng lyghly to depart
+    ¶ From Vertu his feld and they seyng this
+    ¶ By comyn assent hyred them a carte
+    ¶ And made hem be caryed toward Vyce Iwys.
+    ¶ Fro thens forth to serue hy{m} this wold not mys
+    ¶ For loth they were to be maysterles
+    ¶ In stede of the better the worse there they ches
+
+    ¶ But forth to relese al the remenaunt                  Original has
+    ¶ Of pety capteins that wyth Vertu were                 rrmenaunt
+    ¶ Moderate dyet and wysdom auenant                      instead of
+    ¶ Euen weyght and mesure ware of contagyo{us} ge{re}    remenaunt
+    ¶ Loth to offend and louyng ay to lere                  Original has
+    ¶ Worshyp and profyte {with} myrth in maner             ann instead
+    ¶ Thyse pety capteyns wyth Vertu were in fere           of and
+
+    ¶ Comons hem folowed a grete multitude
+    ¶ But in came pyson to that other syde
+    ¶ I trow there was not brefely to conclude.
+    ¶ The .x. man that batayl to abyde.
+    ¶ Yet neuertheles I shal not from you hyde.
+    ¶ what maner people they were & of what secte
+    ¶ As nere as my wyt therto wyll me derect.
+
+    ¶ There were noble and famous doctours.
+    ¶ Example yeuers of lyuyng gracyous.
+    ¶ Perpetuel prestes and dyscrete confessours.
+    ¶ Of holy scrypture declarers fructuous.
+    ¶ Rebukers of syn & myscheues odyous.
+    ¶ Fysshers of soules & louers of clennes.
+    ¶ Dyspysers of veyn and worldly rychesse.
+
+    ¶ Peasyble prelatys Iustycyal gouernours.
+    ¶ Founders of chyrches wyth mercyfull peres.
+    ¶ Reformers of wrong of her progenytours
+    ¶ On peynfull pore pyteous compassyoners
+    ¶ well menyng marchau{n}tes {with} trew artefecers
+    ¶ Vyrgyns pure and also Innocentes
+    ¶ Hooly matrones {with} chast contynence
+
+    ¶ Pylgrymes & palmers {with} trew laborers
+    ¶ Holy heremytes goddys solycytours
+    ¶ Monesteryal monkes & well dysposed freres
+    ¶ Chanons and nonnes feyth p{ro}fessoures
+    ¶ Of worldly people trew coniugatours.
+    ¶ Louers of Cryst Confounders of yll.
+    ¶ And all that to godward yeue her good wyll
+
+    ¶ Mayntenours of ryghte verey penytentes.
+    ¶ Dystroyers of errour causers of vnyte.
+    ¶ Trew actyf lyuers that set her ententis
+    ¶ The dedis to performe of mercy and pyte
+    ¶ Contemplatyf people that desyre to be.
+    ¶ Salytary seruauntis vnto god alone.
+    ¶ Rather the{n} to habou{n}d in rychesses echone.
+
+    ¶ Thyse wyth many mo than I reherce can
+    ¶ were come thyder redy that batayl to abyde.
+    ¶ And take such part as fyl to Vertu than
+    ¶ Vyce to ouerco[m]e they hoped for al his pride        Original has
+    ¶ Al though he had more people on his syde              uoerco[m]e
+    ¶ For the men that Vertu had were ful sure.             instead of
+    ¶ To trust on at nede & connyng in armure               ouerco[m]e
+
+    ¶ Macrocosme was the name of the feld
+    ¶ where this grete batayll was set for to be
+    ¶ In the myddys therof stode co{n}syence & beheld
+    ¶ whyche of hem shold be brought to captyuyte
+    ¶ Of that noble tryu{m}ph Iuge wold he be
+    ¶ Synderesys sate hy{m} wythin closed as a park
+    ¶ {with} his table in his honde her dedys to marke.
+
+    ¶ To come in to the feld were hygh wayes .v.
+    ¶ Fre to both partyes large brode and wyde
+    ¶ Vertu wold not tari but highed hy{m} thyd{er} bliue
+    ¶ Lest he were by vyce deceyued at that tyde
+    ¶ Long out of the feld loth was he to abyde
+    ¶ In auenture that he out of it were kept.
+    For tha{n} wold he haue thou{gh}t he had{e} to long slept
+
+    ¶ In this mene tyme whyle Vertu th{us} p{ro}ceded
+    ¶ For hy{m} & his people the feld for to wynne.
+    ¶ He charged euery man by grace to be guyded
+    ¶ And al that euer myght {the} feld to enter ynne.
+    ¶ In all that season went orygynal synne.
+    ¶ To let Vyce know how Baptym {with} his hoste.
+    Had entred Macrocosme & serched euery cooste
+
+    ¶ A sayd Vyce I se well it is tyme.
+    ¶ Baners to dysplay & standardes to auaunce.
+    ¶ Al most to long haddest {thou} taryed cryme.
+    ¶ To let vs haue knolege of this purueyaunce.
+    ¶ yet I trow I shal lerne hem a new daunce.
+    ¶ Wherfore I commaund you al {with}out delaye
+    ¶ Toward the felde draw in all the hast ye may
+
+    ¶ Than sayd {the} god Pluto {that} al men my{gh}t here
+    ¶ Vyce I the charge as thou wylt eschew.
+    ¶ Our heuyous Indy{n}gnacyo{n} {thou} draw not arere
+    ¶ But put {the} forth boldly to ouerthrowe Vertu.
+    ¶ In fayth quod Attropos & I shal after sew /
+    ¶ For yf he escape oure hondys this day.
+    ¶ I tell you my seruyse haue lost for ay.
+
+    ¶ Forth than rode Vyce {with} al his hole strength
+    ¶ On his stede serpentyne as i told you byfore.
+    ¶ The ost that hy{m} folowed was of a grete le{n}gth.
+    ¶ Amo{n}g who{m} were penou{n}s & g[u]yt{er}s mani a scor{e} The next
+    ¶ Of hys pety capteynes he made many a kni{gh}t              line is
+    ¶ For they shuld not fle but manly {with} him fight          missing
+                                                                 from the
+    ¶ He doubed Falshod with Dyssymylacyon.                      original
+    ¶ Symony Vsury Wrong and Rybawdy.             The missing line reads:
+    ¶ Malyce Deceyt Lye wythout Extorcyon.      But as he went thederward
+    ¶ Periury Dyffydence and Apostasy.          I shall tell you more
+    ¶ Wyth boldnes in yl to bere hym company.
+    ¶ Thyse .xiiii. knyghtes made vyce that daye.
+    ¶ To wyn her spores they sayd they wold assay
+
+    ¶ In lyke wyse Vertu doubed on his syde:
+    ¶ Of pety capteyns other fourtene.
+    ¶ Whyche made her auou wyth hym to abyde:
+    ¶ Her spores wold they wy{n} {that} day shold it be sen{e} Original has
+    ¶ Thyse wore her names yf it be as I wene                  Hor instead
+    ¶ Feyth Hope & Mercy Trouth & also Ryght.                  of Her
+    ¶ {with} Resystence of wronge a full hardy wyghte
+
+    ¶ Confessyon Contrycyon wyth Satysfaction
+    ¶ Verrey drede of God Performy{n}g of penau{n}ce
+    ¶ Perfeccyon Connyng and Good dyspocision
+    ¶ And all knyt to Vertu they were by alyauns
+    ¶ Wherfore to hym they made assuraunce.
+    ¶ That feld to kepe as long as they myght.
+    ¶ And in his quarel agayn Vyce to fyght.
+
+    ¶ The lord of Macrocosme & rewler of {the} fee
+    ¶ Was called Frewyll chaunger of the chau{n}ce:
+    ¶ To whome Vertu sent embassatours thre
+    ¶ Reson dyscresyon & good reme{m}brau{n}ce.
+    ¶ And prayed hy{m} be fauorable his honoure to e{n}ha{n}s
+    ¶ For but he had his fauour at {the} poynt of nede·
+    ¶ He stood in gret doute he coude not lightly spede.
+
+    ¶ In lyke wyse Vyce embassatours thre.
+    ¶ For his party vnto Frewyll sent.
+    ¶ Temptacyon foly & sensualyte.
+    ¶ Prayng hy{m} of fauour that he wolde assent.
+    ¶ To hy{m} as he wolde at his co{m}maundement.
+    ¶ Haue hy{m} eftsones whan he lyst to call.
+    ¶ On hy{m} for ony thy{n}g {that} afterward myght fall.
+
+    ¶ Answere yaue he none to neyther party.
+    ¶ Saue oonli he sayd {the} batayll wolde he se
+    ¶ To wete whiche of hy{m} shold haue {the} vyctory.
+    ¶ Hit hy{n}g in his balau{n}ce {the} ambyguyte.
+    ¶ He sayd he wolde not restrayne his lyberte.
+    ¶ Whan he come where sorow shold awake.
+    ¶ Than it shold be know what part he wyl take
+
+    ¶ Whan Vertu & Vyce be her ambassatours.
+    ¶ Knew of this answere they stood in gret doute.
+    Neuertheles they seyd they wold e{n}dure tho shours
+    ¶ And make an ende shortly of {that} they we{n}t aboute.
+    ¶ Soo forth came Vyce {with} all his grete route.
+    ¶ Er he came at {the} felde he sent yet priuely.
+    ¶ Sensualyte before in maner of a spy.
+
+    ¶ Whiche sewe {the} felde {with} his vnkynde seede.
+    ¶ That caused Vertu after mykyll woo to feele
+    ¶ For therof grewe nought but all oonly weede.
+    ¶ Whiche made the grounde as sleper as an yele.
+    ¶ He went ayene to vice & tolde hym euery dele.
+    ¶ How he had done and bad hym come a way.
+    ¶ For he had so purueyde {that} vyce sholde haue {the} day
+
+    ¶ Soo as it happed at {that} felde they mete.
+    ¶ Frewyll vertu and vice as tripartite.
+    ¶ Saaf vertu a litil before the felde had gete.
+    ¶ And ellis his aua{n}tage forsoth had be ful lyght
+    ¶ Not for then encombred so was neuer wyght.
+    ¶ As vertu & his men were with the ranke wede
+    ¶ That in {the} felde grew of sensualitees sede
+
+    ¶ But as soone as vyce of vertu had a syght.
+    ¶ He gan swage gonnes as he had be woode
+    ¶ That heryng vertu co{m}maunded euery wyght
+    ¶ To pauyce hym vnder the sygne of {the} rode.
+    ¶ And bad he{m} not drede but kepe styll where thy stode.
+    ¶ It was but a shour shold sone co{n}fou{n}de
+    ¶ wherfore he co{m}mau{n}ded the{m} sta{n}d & kepe her grou{n}d
+
+    ¶ And whan vyce cam nerer to the felde.
+    ¶ He callyd sore for bowes & bad hem shote faste
+    ¶ But vertu & hys meyny bare of with {the} sheld.
+    ¶ Of the blyssyd Trynyte ay tyll shot was past.
+    ¶ And wha{n} shot was done vyce cam forth at last.
+    ¶ Purposyng the felde wyth assaute to wyn.
+    ¶ But v{er}tu kept it long he myght not ent{er} theryn.
+
+    ¶ All that tyme Frewyll stode & hym bethought.
+    ¶ To which he my{gh}t leue & what p{ar}t he wold take.
+    ¶ At last sensualite had hy{m} so fer brought.
+    ¶ That he sayd playnly he v{er}tu wold forsake.
+    ¶ And in vyce hys quarell all his power make.
+    Nota Iwis quod reason {that} is not for the beste.
+    ¶ Noforse sayd frewyll I wyll do as my lyst.
+
+    ¶ Vertu was full heuy when he see frewyll
+    ¶ Take part with vyce but yet neuerthelesse.
+    ¶ He dyde that he myght the felde to kepe styll.
+    ¶ Tyll vyce with frewyll so sore gan hy{m} oppresse.
+    ¶ That he was constrayned clerely by duresse.           Original has
+    ¶ A lytyll tyne abacke to make abew retret.             constranyed
+    ¶ All thyng consydered hit was the best feet.           instead of
+                                                            constrayned
+    ¶ Fyrst to remembre how vyce parte was.
+    ¶ Ten ayen one strenger by lyklynesse.
+    ¶ And than how frewyll was with hym alas.
+    ¶ Whoo coude deme vertu but in heuynesse.
+    ¶ Moreouer to thynke how that slyper grasse.
+    ¶ That of sensualyte hys onkynde seede grew.
+    ¶ Vnder foot in standyng encombred vertew
+
+    ¶ Yet notwitstondyng vertue his men all.
+    ¶ Nobelly theym bare and faught myghtyly.
+    ¶ How be it {the} sleper grasse made many of he{m} fall.
+    ¶ And from thense in maner departe sodenly.
+    ¶ That seyng vyce his hoost began to shout & cry.
+    ¶ And sayd on in Pluto name on & all is oure·
+    ¶ For this day shal Vyce be made a conquerour.
+
+    ¶ Thus Vertu was by myght of vyce & Frewyll
+    ¶ Dryuen out of the feld it was the more pyte·
+    ¶ How by it yet Baptym kept his ground styll.
+    ¶ And {with} hym abode feyth hope & vnyte.
+    ¶ And konnynge also {with} a grete meyne.
+    ¶ Confessyon contrycyon were redy at her hond.
+    ¶ And Satysfaction Vyce to wythstond.
+
+    ¶ But al the tyme whyle Vertu was away.
+    ¶ A my{gh}ty conflycte kept they {with} Vycys rout.
+    ¶ And yet neuertheles for al that grete afray.
+    ¶ Hope stod vpryght & feyth wold neuer lout
+    ¶ And euermor{e} sayd Baptym syres put no dout.
+    ¶ Vertu shal return & haue his entent.
+    ¶ This feld shal be ours or let me be shent.
+
+    ¶ And whyl thyse pety captey{n}s sustend th{us} {the} feld
+    ¶ Wyth Vertu his reward come good p{er}seuerauns
+    ¶ An hugy my{gh}ty hoost & whan he beheld.
+    ¶ How Vertu hym withdrew he toke dysplesau{n}s.
+    ¶ And wha{n} he to hy{m} cam he sayd ye shal your cha{n}s
+    ¶ Take as it fallyth wherfore returne ye must.          Original has
+    ¶ Yet ones for your sake {with} Vyce shal I Iust.       fallyrh
+                                                            instead of
+    ¶ Alas that euer ye shold lese your honour.             fallyth
+    ¶ And therwyth also {the} hygh p{er}petuel crown.
+    ¶ Which is for you kept in the celestyal tour.
+    ¶ Wherfore be ye called chrystys champyon.
+    ¶ How is it that ye haue noo compassyone.
+    ¶ On baptyme feyth & hope konnyng & vnite.
+    ¶ That sta{n}d so hard bestad & fyght as ye may see.
+
+    ¶ All the tresour erthely vnder {the} fyrmame{n}t
+    ¶ That euer was made of goddys creacyon.
+    ¶ To reward theym euenly were not equyualent.
+    ¶ For her noble labour in his affleccyon.
+    ¶ Wherfore take vpon you your Iurisdyccyon
+    ¶ Rescu yonder knyghtes & recontynu fyght.
+    ¶ And els a dew your crown for al your gret my{gh}t
+
+    ¶ Vith these & suche wordys as I haue you tolde
+    ¶ By good perseueraunce vttred in this wyse.
+    ¶ Vertu hym remembred & gan to vexe bolde.
+    ¶ And sayd yeue trew knyghtis to rescu I auyse
+    ¶ Let vs no lengar tary from this entrepryse.
+    ¶ Agayn to {the} felde soo Vertu retourned.
+    ¶ That caused he{m} be mery {that} lo{n}g afore had morned
+
+    ¶ Auaunt baner q{uo}d he in {the} name of Iesu
+    ¶ And with {that} his people set vp a gret shoute.
+    ¶ And cryed with a loude voce a Vertu a Vertu.
+    ¶ Then began Vyce his hoost for to loke a boute.
+    ¶ But I trow p{er}seuerau{n}ce was not long withoute
+    ¶ He bathed his swerd in his foos blood.
+    ¶ The boldest of hem all not ones hy{m} withstoode.
+
+    ¶ Constau{n}ce hym folowed & brought hy{m} his spere
+    ¶ But when p{er}seuerau{n}ce saw Vyce on his stede.
+    ¶ No man coude hym let tyll he came there.
+    ¶ For to byd hym ryde I trow it was no nede.
+    ¶ All Vertu his oost prayed for his good spede.
+    ¶ Agayn Vyce he rode with his grete shaft.
+    ¶ And hym ouerthrew for all his sotyll craft.
+
+    ¶ That seyng Frewill came to conscyence.
+    ¶ And gan hym to repente {that} he with hym had be.
+    ¶ Prayeng hym of cou{n}sell for his grete offence.
+    ¶ That he agayn Vertu had made his arme.
+    ¶ What was best to doo to humylyte:
+    ¶ Q{uo}d conscyence must {thou} go so he hym thyder sent
+    ¶ Dysguysed {that} he were not knowen as he wente.
+
+    ¶ And whan he thyder came humylyte hym toke.
+    ¶ A token & bad hym go to conffessyon.
+    ¶ And shew hym his mater with a peteous loke
+    ¶ Whiche done he hym sent to contrycyon.
+    ¶ And fro thensforthe to satysfaccyon.
+    ¶ Thus fro poost to pyler was he made to dau{n}ce.
+    ¶ And at the last he went forthe to penau{n}ce.
+
+    ¶ But now for to tel you whe{n} Vyce was ou{er}throw
+    ¶ A gret part of his oost about hym gan resorte.
+    ¶ But he was so febyll {that} he coude noman know.
+    ¶ And whan they se {that} they knew no comforte.
+    ¶ But caryed hym away be a preuy porte.
+    ¶ And as they caryed dyspeyre with hy{m} met.
+    ¶ With Vyce his rewarde he cam theym for to fet
+
+    ¶ Then came there downe goodly ladyes tweyn.
+    ¶ From the hyghe heuen aboue the fyrmamente.
+    ¶ And sayd the gret Alpha & Oo moost souereyn.
+    ¶ For that nobell tryumphe had hem thyder sent.
+    ¶ One of hem to dryue Vyce to grete tormente.
+    ¶ With a fyry strong {that} she bare in her hande.
+    ¶ And so he dede dyspere & all his hole bande.
+
+    ¶ The name of this lady was called Prestyence.
+    ¶ She neuer left Vyce ne none {that} wolde hy{m} folow.
+    ¶ Tyll they were co{m}mytted by {the} dyuyne sentence.
+    ¶ All to payne perpetuell & Infynyte sorow.
+    ¶ Right wysnes went to se {that} noma{n} shold he{m} borow.
+    ¶ Th{us} al entreted sharpely were they tyll Cerber{us}
+    ¶ Had hem beshut within his gates tenebr{us}.
+
+    ¶ And all {the} whyle {that} Prestye{n}ce {with} her scorge smert
+    ¶ To rewarde Vyce gan her thus occupy.
+    ¶ With all his hole bende after her desert.
+    ¶ That other gloryo{us} lady {that} came fro heue{n} on hy.
+    ¶ Hauyng in her honde the palme of vyctory.
+    ¶ Came downe to Vertu & toke hym to {that} p{re}sent.
+    ¶ Sayeng thus that Alpha & Oo hath hym sent.
+
+    ¶ And as ferre as I ryght coude vnderstonde
+    ¶ That ladyes name was Predestynacyon.
+    ¶ Vertu & his oost she blessyd with her honde.
+    ¶ And in heuyn graunted hem habytacyon.
+    ¶ Whereto eche of hem reseruyd was a crowne.
+    ¶ She sayd in token that they enherytours.
+    ¶ Of the glory were & gracious conquerours.
+
+    ¶ Wych done the ladyes ayen to gyder met
+    ¶ And towarde heuen vp they gan to fly
+    ¶ Embraced in armes as they had ben knyt.
+    ¶ Togyd{er} {with} a gyrdyl but so sodenly.
+    ¶ As {the}y wer{e} vanysshyd saw I neu{er} thy{n}g {with} ey.
+    ¶ And anone Vertu wyth al his company.
+    ¶ Kneled dou{n}n & tha{n}ked god of {that} vyctory.
+
+    ¶ Yet had I forget whan Vyce was ouerthrow.
+    ¶ To haue told you hou many of Vycys hoost.
+    ¶ Gan to seke pease & darked dou{n}n ful low.
+    ¶ And besought mercy what so euer it coste.
+    ¶ To be her mene to Vertu els {the}y we{re} but lost.
+    ¶ And some in lyke wyse to feyth & hope sought.
+    ¶ What to do for pease they sayd they ne rou{gh}te.
+
+    ¶ Some also Baptym sewed to be her mene.
+    ¶ Som to one som to other as thei he{m} gete my{gh}te.
+    ¶ But al to Confessyon we{n}t to make he{m} clene
+    ¶ And as {the}y came to co{n}sye{n}ce he they{m} bad go ly{gh}te.
+    ¶ Er tha{n} old attropes of he{m} had a sy{gh}t.
+    ¶ For yf he so theym toke lost they we{re} for euer
+    ¶ He sayd Vyce to forsake better late thy{n} neuer.
+
+    ¶ Som eke for socour drew to circu{m}cision.
+    ¶ But by hy{m} coud they gete but smal fauoure.
+    ¶ For he in that company was had but in derysyo{n}
+    ¶ Neuer{the}lesse to feyth he bad he{m} go laboure.
+    ¶ Prayng they{m} for olde acqueynta{n}ce they{m} socoure
+    ¶ Wel q{uo}d feth for his sake I shal do {that} I may doo
+    ¶ But fyrste for the best way baptym go ye to.
+
+    ¶ For by hym sonest shal ye recouer grace.
+    ¶ Which shal to Vertu bryng you by processe.
+    ¶ Wherfore in ony wyse loke ye make good face.
+    ¶ And let noman know of your heuynes.
+    ¶ So they were by baptym brou{gh}t out of destres
+    ¶ Turned al to Vertu & whan this was done.
+    ¶ Vertu cu{m}mau{n}ded Frewyl before hym come.
+
+    ¶ To whom thus he sayd I haue grete merueyl
+    ¶ Ye durst be so bold Vyces party to take.
+    ¶ Who bad you do so & yaue you that counseyl.
+    ¶ Iustly vnto that ye shal me preuy make.
+    ¶ Then sayd Frewyll & swemfully spake.
+    ¶ Knelyng on his kne wyth a chere benygn.               Original has
+    ¶ I pray you syr let pyte your eres to me enclyne.      benyng
+                                                            instead of
+    ¶ And I shall yow tel the verrey soth of all.           benygn
+    ¶ How it was & who made me that way drawe.
+    ¶ For soth sensualyte his p{ro}pre name they call.
+    ¶ A sayd reason then I know wel that felowe.
+    ¶ Wyld he is & wanton of me stant hy{m} none awe.
+    ¶ Is he so q{uo}d Vertu wel he shall be taught.
+    ¶ As a player shuld to draw another draught.
+
+    ¶ And {with} that came sadnesse wyt his sober chere.
+    ¶ Bryngyng Sensualite beyng ful of thought.
+    ¶ And sayd that he had take hym prysonere.
+    ¶ A welcome sayd Vertu now haue I {that} I sou{gh}t.
+    ¶ Blessed be the good lord as {thou} wold it is nought
+    ¶ Why arte {thou} so wanton he sayd for shame.
+    ¶ Or {thou} go at large {thou} shalt be more tame.
+
+    But sto{n}d a part a whyle tyl I haue spoke a word
+    ¶ Wyth Frewyl a lytyl & then shalte {thou} knowe.
+    ¶ What shalbe thy fynau{n}ce & then he sayd in bord
+    ¶ Vnto Frewyl the bend of your bowe.
+    ¶ Begynnyth to slake but suche as ye haue sowe
+    ¶ Must nedes repe there is none waye.
+    ¶ Notwythstondy{n}g that lette what ye can saye.
+
+    ¶ What is your habilite me to recompense.
+    ¶ For the grete harme that ye to me haue do.
+    ¶ Forsoth sayd Frewyll in open audyence.
+    ¶ But oonly Macrocosme more haue I not loo.
+    ¶ Take {that} yf it pleyse you I wyl that it be soo.
+    ¶ Yf I may vnderstond ye be my good lorde.
+    ¶ In dede sayd Vertu to that wyll I accorde.
+
+    ¶ Then made Vertu Reason his leyftenaunte.
+    ¶ And yaue hi{m} a grete charge macrocosme to kepe
+    ¶ That done Sensualite yeld hym recreaunte.
+    ¶ And began for anger bytterly to wepe.
+    ¶ For he demed surely hys sorowe shold not slepe
+    ¶ Then made Vertu Frewyll bayl vnd{er} Reason.
+    ¶ The feld for to ocupy to his behoue that season.
+
+    ¶ And then sayd Vertu to Sensualyte.
+    ¶ Thou shalt be rewarded for thy besynesse.
+    ¶ Vnder this furme al fragylyte
+    ¶ Shalt {thou} forsake both more and lesse.
+    ¶ And vnd{er} the guydy{n}g {thou} shalt be of sadnesse.
+    ¶ All though it somwhat be agayn thy herte.
+    ¶ Thy Iugements gyuen {thou} shalt it not asterte.
+
+    ¶ And evyn {with} that came in dame Nature.
+    ¶ Sayeng th{us} to Vertu syr ye do me wronge.
+    ¶ By duresse & constreynt to put this creature.
+    ¶ Gentyll Sensualyte {that} hath me s{er}ued longe.
+    ¶ Clerely from his lyberte & set hym amonge.
+    ¶ They{m} that loue hy{m} not to be her vnd{er}loute.
+    ¶ As it were a cast away or a sho cloute.
+
+    ¶ And perde ye know well a rewle haue I must
+    ¶ Wythin Macrocosme forsoth I say not nay.
+    Q{uo}d Vertu but se{n}sualyte shal not p{er}form your lust
+    ¶ Lyke as he hath do befor this yf I may.
+    ¶ Therfro hy{m} restreyn sadnesse shal assay.
+    ¶ How be it ye shal haue your hole lyberte.
+    ¶ Wythin Macrocosme as ye haue had fre.
+
+    ¶ And whan Vertu had to Nature sayd thus
+    ¶ A lytyll tyne his ey castyng hym besyde.
+    ¶ He se in a corner stondyng Morpleus
+    ¶ That hy{m} before warned of {that} berely tyde.
+    ¶ A syrs sayd Vertu yet we must abyde.
+    ¶ Here is a frend of ours may not be forgete.
+    ¶ After his deserte we shall hy{m} entreate
+
+    ¶ Morple{us} sayd Vertu I tha{n}ke you hertely
+    ¶ For your trew herte & your grete laboure.
+    ¶ That ye lyst to come to me soo redely.
+    ¶ Whan ye vnderstood {the} comy{n}g of that shoure.
+    ¶ I thanke god & you of sauy{n}g of my{n} honour.
+    ¶ Wherfore this preuylege now to you I gra{n}t
+    ¶ That {with}in Macrocosme ye shall haue your hau{n}t
+
+    ¶ And of fyue posternes {the} keys shall ye kepe.
+    ¶ Lettyng in & out at hy{m} whome ye lyst.
+    ¶ As long as in Macrocosme your fad{er} wyll crepe.
+    ¶ Blere whos ey ye wyll hardely {with} your myst
+    ¶ And kepe your werkes close there as in a chyst
+    ¶ Saaf I wold desyre you spare Pollucyon.
+    For no thy{n}g may me plese {the} sou{n}eth to corrupcyon.
+
+    ¶ And wha{n} he had th{us} sayd {the} keyes he hy{m} toke.
+    ¶ And toward his castell {with} his people went
+    ¶ Byddy{n}g reason take good hede & about loke
+    ¶ That se{n}sualite by Nature were not she{n}t.
+    ¶ Kepe hy{m} short he sayd tyll his lust be spe{n}t
+    ¶ For better were a chylde to by vnbore
+    ¶ Than let hy{m} haue {the} wyll & foreuer be lore.
+
+    ¶ And wha{n} olde Attropos had seen & herd all this
+    ¶ How Vertu had opteyned astonyed as he stood.
+    ¶ He sayd to hy{m}selfe somwhat there is amys.
+    ¶ I trow well my patent be not all good.        Next line is missing
+    ¶ Sayeng to the goddys I see ye do but iape.    from the original.
+    ¶ After a worthy whew haue ye made me gape.     The line reads:
+                                                    And ran to the palyse
+    ¶ How a deuyll way sholde I Vertue ouerthrow.   as he had be wood
+    ¶ When he dredeth not all your hole route.
+    ¶ How ca{m} ye make good your pate{n}t wold I know
+    ¶ Hit is to Impossable to bryng that aboute.
+    ¶ For stryke hym may I not {that} is out of doute.
+    ¶ A good Attropos sayd god Apollo.
+    ¶ An answere conuenyent shall thou haue herto.
+
+    ¶ The wordes of thy patent dare I well say
+    ¶ Stretche to no forther but were dame Nature
+    ¶ Hath Iurysdyccyon the{re} to haue the way Nota.
+    ¶ And largesse to stryke as longet to thy cure.
+    ¶ And as for Vertu he his no cryature.
+    ¶ Vnder the predycament conteyned of quantyte
+    ¶ Wherefore his dystruccyon longeth not to the.
+
+    ¶ A ha sayd Attropos then I see well.
+    ¶ That all ye goddys be but cou{n}terfete.              Original has
+    ¶ For oo God there is that can euerydell.               goodys and
+    ¶ Tourne as hym lest bothe drye & whete.                coue{n}terfete
+    ¶ In to whoos seruyce I shal assay to gete.             instead of
+    ¶ And yf I may ones to his seruyce come.                goddys and
+    ¶ Your names shal be put to oblyuyone.                  cou{n}terfete
+
+    ¶ Thus went Attropos fro the paleys wrooth.
+    ¶ But in the mene tyme whyle {that} he there was.
+    ¶ Glydyng by the paleys resydyuacyon gooth.
+    ¶ Towarde Macrocosme with a peynted fase.
+    ¶ Clad lyke a pylgryme walkyng a grete pase.
+    ¶ In the forme as he had ben a man of ynde.
+    ¶ He wede haue made reson & sadnesse both bly{n}de
+
+    ¶ With sensualyte was he soone aqueynted.
+    ¶ To whome he declared his mater pryuely.
+    ¶ Yet he was espyed for all his face peynted.
+    ¶ Then reson hy{m} co{m}mauded pyke hy{m} the{n}s lightly.
+    ¶ For his ease q{uo}d sadnesse so cou{n}seyll hym wyll I.
+    ¶ Soo was sensualyte ay kepte vnder foote.
+    ¶ That to resydyuacyon myght he doo no boote.
+
+    ¶ Then went he to Nature & asked her auyse.
+    ¶ His entent to opteynde what was best to doo.
+    ¶ She sayd euer syth Vertu of vyce wan {the} pryse.
+    ¶ Reson with sadnesse hath rewled the felde soo.
+    ¶ That I & sensualyte may lytyll for the doo.
+    ¶ For I may noo more but oonly kepe my cours.
+    ¶ And yet is sensualyte strenger kept & wours.
+
+    ¶ Th{us} hery{n}g resydiuacon fro the{n}s he went ageyn
+    ¶ Full of thought & sorow {that} he myght not spede.
+    ¶ Than reson & sadnesse toke wedehokes tweyn.
+    ¶ And all wylde wa{n}tonesse out {the} felde gan wede.
+    ¶ With all the slyper grasse {that} grewe of the sede.  Original has
+    ¶ That sensualyte before therin sew.                    thr instead
+    ¶ And fro thens forth kept it clene for vertew          of the
+
+    ¶ Than began new grase in the felde to spryng.
+    ¶ All vnlyke {that} other of colour fayr & bryght.
+    ¶ But then I aspyed a meruelous thyng.
+    ¶ For the grou{n}de of {the} felde gan wex hore & whyt.
+    ¶ I coude not conceyue how {that} be myght.
+    ¶ Tyll I was enformed & taught it to know.
+    ¶ But wher vertu occupyet must nedes wel grow
+
+    Yet in the mene tyme while the felde thus grow.
+    ¶ And reson with sadnesse therof had gouerau{n}ce.
+    ¶ Many a preuy messenger thyder sent Vertew.
+    ¶ To know yf it were guyded to his plesau{n}ce.
+    ¶ Now prayer eft fastyng & often tyme penau{n}ce.
+    ¶ And whan he myght goo preuely almesdede.
+    ¶ And bad hy{m} to his power helpe where he se nede
+
+    While {that} felde thus rewled reson with sadnesse.
+    ¶ Maugre dame Nature for all her carnall might
+    ¶ Came thyder Attropos voyd of all gladnesse.
+    ¶ Wrapped in his shete & axed of ony wyght.
+    ¶ Coude wysse hym the vay to the lorde of light.
+    ¶ Or ellis where myght fynde ryghtwysnesse.             Original has
+    ¶ Forsothe sayd reyson I trow as I gesse.               ryghwysnesse
+                                                            instead of
+    ¶ At Vertu his castell ye may soone hym fynde.          ryghtwysnesse
+    ¶ If ye lyst the laboure thyder to take.
+    ¶ And there shall ye know yf ye be not blynde.
+    ¶ The next wey to the lord of lyght I vndertake.
+    ¶ So thyder went Attropos petycyon to make.
+    ¶ To ryghtwysnesse preyeng that he myght.
+    ¶ Be take in to the seruyse of the lorde of lyght.
+
+    ¶ What sad ryghtwysnesse {thou} olde dotyng foole.      Original has
+    ¶ Whome hast thou seruyd syth the worlde bega{n}        ryghwysnesse,
+    ¶ But oonly hym where hast {thou} go to scole.          yast and oonhl
+    ¶ Whethery art {thou} double or elles the sam man.      instead of
+    ¶ That thou were fyrst a syr sayd he than.              ryghtwysnesse,
+    ¶ I praye you hertely holde me excused.                 hast and oonly
+    ¶ I am olde & febell my wyttys are dysused.
+
+    ¶ Well sayd ryghtwysnes for as moche as thow.
+    ¶ Knowest not thy mayst{er} thy name shal I chau{n}ge
+    ¶ Dethe shalt {thou} be caled from he{n}s forward now
+    ¶ Among all the peple that shal be had strau{n}ge.
+    ¶ But whan {thou} begynnest to make thy chalau{n}ge.
+    ¶ Dredde shalt thou be where so thou become.
+    ¶ And to noo creature shalt thou be welcome.
+
+    ¶ And as for theym whome thou dedest serue.
+    ¶ For as moche as they presume on hem to take.
+    ¶ That hygh name of god they shal as they des{er}ue
+    ¶ Therfore be rewarded I dare vnd{er}take.
+    ¶ Wyth payn p{er}petual among fendes blake.
+    ¶ And her names shall be put to oblyuyon.
+    ¶ Among men but it be in dyrysyon.
+
+    ¶ Aha sayd Attropos now begy{n}ne I wex glad.
+    ¶ That I shal thus auenged of hem be.
+    ¶ Syth they so long tyme haue made me so mad.
+    ¶ Yee q{uo}d ryghtwysnesse here what I say to the.
+    ¶ The lorde of lyght sent the worde by me.
+    ¶ That in Macrocosme sesyne shalt thou take
+    ¶ wherfore thy darte redy loke thou make
+
+    ¶ And as soone as Vertue that vnderstood
+    ¶ He sayd he was pleased that it sholde soo be
+    ¶ And euen forth with he co{m}maunded presthood
+    ¶ To make hym redy the felde for to se
+    ¶ So thyder went presthode with benygnyte
+    ¶ Conueyeni{n}g thyder the blessyd sacrament
+    ¶ Of Eukaryst but fyrst were thyder sent
+
+    ¶ Confessyo{n} contrycyon and satysfaccyo{n} (nota
+    ¶ Sorow for synne and grete repentaunce
+    ¶ Holy deuocyon with good dysposycyon
+    ¶ All these thyder came and also penaunce
+    ¶ As her dewte was to make purueaunce
+    ¶ Agayn the comyng of that blessyd lorde
+    ¶ Feyth hope & charyte therto were acorde
+
+    ¶ Reason with sadnesse dyde his dylygence
+    ¶ To clense the felde within and without
+    ¶ And whan they se the bodely presence
+    ¶ Of that holy Eukaryst lowly gan they lout
+    ¶ So was that lorde receyued out of dout
+    ¶ With all humble chere debonayre & benygne
+    ¶ Lykly to pleasure it was a grete sygne
+
+    ¶ Then came to the felde the mynyster fynall
+    ¶ Called holy vnccyon with a crysmatory
+    ¶ The fyue hye wayes in especyall
+    ¶ Therof he anoy{n}ted & made hit sanctuary
+    ¶ Whome folowed deth whiche wolde not tary
+    ¶ His feruent power there to put in vre
+    ¶ As he was co{m}mau{n}ded grau{n}tyng dame Nature
+
+    ¶ Nota.
+
+    ¶ He toke his darte called his mortall launce
+    ¶ And bent his stroke towarde the feldes herte
+    ¶ That seyng preesthode bad good remembrau{n}ce
+    ¶ Towarde the felde tourne hym & aduerte
+    ¶ For except hym all vertues thense must sterte
+    ¶ And euen with that dethe there sesyne toke
+    ¶ And then all the company clerely hit forsoke
+
+    ¶ And as soone as dethe thus had sesyne take
+    ¶ The colour of the felde was chau{n}ged sodeynly
+    ¶ The grasse therin seere as though it had be bak
+    ¶ And the fyue hygh wayes were mured vpon hy
+    ¶ That fro the{n}sforwarde none entre shold therbi
+    ¶ The posternes were also without lette
+    ¶ Bothe inwarde & outwarde fyne fast shette
+
+    ¶ Whiche done sodeynly dethe vanysshed a way
+    ¶ And Vertu exalted was aboue the fyrmament
+    ¶ Where he toke crowne of glory {that} is ay
+    ¶ Preparate by Alpha & oo omnypotent
+    ¶ The swete frute of macrocosme thyd{er} {with} hy{m} we{n}t
+    ¶ And on all this mater as I stood musyng thus
+    ¶ Agayn fro the felde to me came Morpleus
+
+    ¶ Saye{n}g thus what chere how lyketh {the} this fyght
+    ¶ Haste thou seen ynough or wyll thou see more
+    ¶ Nay syr I sayd my trouthe I you plyght
+    ¶ This is suffycyente yf I knew wherfore
+    ¶ This was to me shewed for therof he lore
+    ¶ Coueyte I to haue yf I gete myght
+    ¶ Folow me quod he and haue thy delyght
+
+    ¶ Soo I hym folowed tyll he had me brought
+    ¶ To a foresquare herber walled round aboute
+    ¶ Loo q{uo}d Morple{us} here maist thou {that} thou sought
+    ¶ Fynde yf thou wyll I put the out of doute
+    ¶ A lytyll whyle we stood styll there withoute
+    ¶ Tyll wytte chyef porter of that herber gate
+    ¶ Requyred by stodye lete vs in there ate
+
+    ¶ But whan I came in meruayled gretly
+    ¶ Of that I behelde & herde reporte
+    ¶ For fyrst in a chayre apparaylled royally
+    ¶ There sate dam doctryne her childern to exorte
+    ¶ And about her was many a sondry sorte
+    ¶ Some wyllyng to lerne dyuerse scyence
+    ¶ And some for to haue perfyte intellygence
+
+    ¶ Crowned she was lyke an Emperesse
+    ¶ With .iii. crownes standyng on her hede on by
+    ¶ All thyng about her an Infynyte processe              Original has
+    ¶ Were to declare I tell you certaynly                  teyng
+    ¶ Neuerthelesse some in mynde therof haue I             instead of
+    ¶ Whiche I shall to you as god wyll yeue me grace       thyng
+    ¶ As I sawe & herde tell in short space
+
+    ¶ Fast by Doctryne on that one syde
+    ¶ As I remembre sate holy Texte
+    ¶ That opened his mouthe to {the} people wyde
+    ¶ But not in comparyson to Glose {that} sate nexte.
+    ¶ Moralyzacyon with a cloke contexte
+    ¶ Sate & Scrypture was scrybe to theym all
+    ¶ He sate ay wrytyng of that that sholde fall
+
+    ¶ These were tho that I there knewe
+    ¶ By no maner waye of olde acqueyntau{n}ce
+    ¶ But as I before saw theym with Vertewe
+    ¶ Company in felde & hauyng dalyau{n}ce
+    ¶ And as I thus stood halfe in a traunce
+    ¶ Whyle they were occupyed in her besynesse
+    ¶ Aboute the walles myn ey gan I dresse
+
+    ¶ Where I beheld the meruaylous story
+    ¶ That euer I yet sawe in ony pycture
+    ¶ For on tho walles was made memory
+    ¶ Syngulerly of euery creature
+    ¶ That there had byn bothe forme & stature
+    ¶ Whoos names reherse I wyll as I can
+    ¶ Bryng theym to mynde in ordre euery man
+
+    ¶ Fyrst to begynne there was in portrature
+    ¶ Adam & Eue holdyng an apell rounde
+    ¶ Noe in a shyp & Abraham hauyng sure
+    ¶ A flyntstone in his honde & Isaac lay bounde
+    ¶ On an hyghe mou{n}te Iacob slepyng sounde
+    ¶ And a long ladder stood besyde
+    ¶ Ioseph in a Cysterne was also there that tyde.
+
+    ¶ Next whom stode Moyses with his tables two
+    ¶ Aaron and Vrre his armes supportynge
+    ¶ Ely in a brennyng chare was there also.
+    ¶ And Elyze stode clad in hermytes clothynge.
+    ¶ Dauyd wyth an harpe and a stone slynge.
+    ¶ Isaye Ieremy and Ezechyell.
+    ¶ And closed wyth Lyons holy Danyell.
+
+    ¶ Abacuc Mychee with Malachy.
+    ¶ And Ionas out of a whales body comynge.
+    ¶ Samuel in a Temple & holy zachary.
+    ¶ Besyde an aulter all blody stondynge.
+    ¶ Osee wyth Iudyth stood there conspyryng.
+    ¶ The deth of Dioferne & Salamon.
+    ¶ A chylde wyth hys swerde dyuydynge in two.
+
+    ¶ Many mo p{ro}phetes certeynly there were.
+    ¶ Whoos names now come not to my mynde:
+    ¶ Melchysedech also I espyed there.
+    ¶ Brede & wyne offryng as fell to his kynde.
+    ¶ Ioachym & Anna stode al behynde.
+    ¶ Embraced in armes to the golden gate.
+    ¶ And holy Iohan Baptyst in desert sat.
+
+    ¶ And now comyth to my remembrunce.
+    ¶ I am auysed I saw Sodechy:
+    ¶ And Amos also with sober countenaunce.
+    ¶ Stondyng wyth her faces towarde Sophony.
+    ¶ Neemy & Esdras bare hem companye.
+    ¶ The holy man Iob as an Impotente.
+    ¶ Then folowed in pycture wyth Thoby pacyent
+
+    ¶ Thyse wyth many mo on that one syde.
+    ¶ Of that grene herber portrayed were.
+    ¶ A sayd Morpleus a lytyll tyme abyde.
+    ¶ Turn thy face where thy backe was ere.
+    ¶ And beholde well what thou seeste there.
+    ¶ Than I me turned as he me badde.
+    ¶ With herte stedfaste & countenaunce sadde.
+
+    ¶ Where I sawe Peter wyth his keyes stonde.
+    ¶ Poule wyth a swerde and Iames also.
+    ¶ Wyth a scalop & Thomas holdyng in his honde
+    ¶ A spere and Phylyp aproched hym to:
+    ¶ Iames the lesse nexte hem in pycture too.
+    ¶ Stode wyth Bartylmew whych was all flayn
+    ¶ Symon & Thadee shewed how they were slayn
+
+    ¶ Mathy and Barnabe drawy{n}g lottys stode
+    ¶ Nexte whome was Marke a Lyon hym by.
+    ¶ Hys boke holdyng & Mathew in his mode.
+    ¶ Resembled an aungell wyth wyngys gl{or}yously.        Original has
+    ¶ Luke had a calfe to holde his boke on hye.            gl{or}youly
+    ¶ And Iohan wyth a cuppe & palme in his honde.          instead of
+    ¶ An Egle bare his book thus saw I hem stonde           gl{or}yously
+
+    ¶ Gregory and Ierome Austyn and Ambrose.
+    ¶ Wyth pyllyo{n}s on ther hedes stode lyke doctors
+    ¶ Bernard wyth Amselme and as I suppose.                Original has
+    ¶ Thomas of alquyne and Domynyk co{n}fessours.          suppese
+    ¶ Benet and Hew relygyous gouernours.                   instead of
+    ¶ Martyn & Iohan with bysshops tweyne.                  suppose
+    ¶ Were there also and Crysostom certayne.
+
+    ¶ Behynd all thyse was worshypfull Bede.
+    ¶ All behynde and next hym stood Orygene.
+    ¶ Hydynge his face as he of his dede.
+    ¶ Had hem ashamed ye wote what I mene.                  Original has
+    ¶ For of errour he was not al clene.                    bem instead
+    ¶ And on that syde stode laste of alle.                 of hem
+    ¶ The noble p{ro}phetyssa Sybell men her call.
+
+    ¶ Let me remembre now I you pray
+    ¶ My barayn is so thynne I deme in my herte
+    ¶ Some of the felyshyp that I there say.
+    ¶ In all this whyle to haue ouersterte.
+    ¶ A benedicite none coude I aduerte.
+    ¶ To thy{n}ke on Andrew the apostle {with} his crosse.
+    ¶ Whome to forgete were a grete losse.
+
+    ¶ Many one were peynted on that wall.
+    ¶ Whoos names come not to my remembrau{n}ce.
+    ¶ But thyse I marked in especyall.
+    ¶ And moo coude I tell in countenaunce.
+    ¶ Of tyme but forth to shewe you the substaunce.
+    ¶ Of this mater in the myndys of that arbere.
+    ¶ Sat Doctryne coloured as ony crystall clere.
+
+    ¶ Crowned as I tolde you late here before.
+    ¶ Whoos apparayl wos worth tresour Infynyte
+    ¶ All erthly rychesse count I no more.
+    ¶ To that in co{m}paryson valewy{n}g the{n} a myte.
+    ¶ Ouer her hede houed a culuer fayr & whyte.
+    ¶ Out of her byll p{ro}ceded a grete leme.
+    ¶ Downward to Doctryne lyke a sonne beme
+
+    ¶ The wordes of Doctryne yaue grete redole{n}s
+    ¶ In swetnesse of sauour to her dyscyples al.
+    ¶ It fer exceded myr & frankencense.
+    ¶ Or ony other tre spyce or els galle.
+    ¶ And whan she me espyed anone she gan me cal.
+    ¶ A{n}d co{m}mau{n}ded morple{us} {that} he shold bry{n}g me nere
+    ¶ For she wold me hew the effect of my desyre.          Original has
+                                                            Ad{n}, bry{n}
+    ¶ She sayd I know the cause of thy comyng.              and theffect
+    ¶ Is to vnderstond be myn enformal yon.                 instead of
+    ¶ Sensyble the mater of morpleus his shewynge           A{n}d, bry{n}g
+    ¶ As he hath the led about in vesyon.                   and the effect
+    ¶ Wherfore now I apply thy natural reason.
+    ¶ Vnto my wordes & or thou hens wend.
+    ¶ Thou shalt it know begynnyng and ende.
+
+    ¶ For whan Colus to pluto was broughte:
+    ¶ By hys owne neclygence taken prysonere.
+    ¶ Wythin the erth for he so fer foughte.
+    ¶ Sygnyfed is no more be that matere.
+    ¶ But only to shew the how it doth appere:
+    ¶ That welth vnbrydeled at thyn eye.
+    ¶ Enbraseth mysrewle and oft causyth foly.
+
+    ¶ For lyke as Colus beyng at his large
+    ¶ Streyted hymself thrugh his own lewdenesse
+    ¶ For he wolde deele where he had no charge
+    ¶ Ryght soo wantons by her wyldenesse
+    ¶ Oftesythe bryng hymselfe in dystresse
+    ¶ Because they sometyme to largely deele
+    ¶ What may wors be suffred tha{n} ouermykell weele
+
+    ¶ By Mynos the Iuge of hell desparate
+    ¶ May be vnderstonde goddys ryghtwysnes
+    ¶ That to euery wyght his payne deputate
+    ¶ Assygneth acordyng to his wyckednes
+    ¶ Wherfore he is called Iuge of cruelnes
+    ¶ And as for Dyana & Neptunus compleynte
+    ¶ Fygured may be fooles reason feynt.
+
+    ¶ For lyke as they made her suggestyon
+    ¶ To haue me Colus from cours of hys kynde
+    ¶ Which was Impossyble to bryng to correccyon
+    ¶ For euermore hys lyberte haue wyll the wynde
+    ¶ In lyke wyse fooles other whyle be blynde
+    ¶ Wenyng to subdew with her one honde
+    ¶ That is ouermykell for all an hole londe
+
+    ¶ But what foloweth therof that shall thou here
+    ¶ When they were come to the bankete
+    ¶ The grete Apollo with his sad chere
+    ¶ Soo fayre & curtously gan theym entret
+    ¶ That he made her beerdys on the new gete
+    ¶ Loo what wysdome dooth to a foole
+    ¶ Wherefore are children put to scoole
+
+    ¶ Ofte is it seen with sobre contenaunce
+    ¶ That wyse men fooles ouercome ay
+    ¶ Tornyng as hem lyst & all her varyaunce
+    ¶ Chaunge from ernest in to mery play
+    ¶ What were they bothe amendeth that day
+    ¶ When they were dreuen to her wyttes ende
+    ¶ Were they not fayne to graunt to be his frende
+
+    ¶ Ryght soo fooles when they haue done
+    ¶ All that they can than be they fayne
+    ¶ Gyue vp hed mater to oblyuyone
+    ¶ Without rewarde they haue no more brayne
+    ¶ And yet ful ofte hath hit be sayne
+    ¶ When they it haue foryete & set at nought
+    ¶ That they full dere haue afterwarde it bought
+
+    ¶ And as for all tho that represent
+    ¶ To be called goddys at that banket
+    ¶ Resemble false ydollys but to his entent
+    ¶ Was Morpleus co{m}maunded thyder the to fet
+    ¶ That thou sholdest know the maner & the get
+    ¶ Of the paynym law and of her byleue
+    ¶ How false ydolatry ledeth hem by the sleue
+
+    ¶ For soone vppon the worldys creacyon
+    ¶ When Adam and Eve had broke the precept
+    ¶ Whiche clerkes call the tyme of deuyacyon
+    ¶ The worldly people in paynym law slept
+    ¶ Tyll moyses vnd{er} god the tables of stone kept
+    ¶ In whiche tyme Poetes feyned many a fable
+    ¶ To dyscrete Reason ryght acceptable
+
+    ¶ And to the entent that they sholde sounde
+    ¶ To the eeres of hem the more pleasantly
+    ¶ That they{m} sholde rede or here the yaue they{m} a grou{n}d{e}
+    ¶ And addid names vnto they{m} naturally
+    ¶ Of whom they spake & callid he{m} goddis hy
+    ¶ Some for the strength & myght of her nature
+    ¶ And some for her sotyll wytty coniecture
+
+    ¶ By nature thus as the seuen planettes
+    ¶ Haue her propre names by Astronomeres
+    ¶ But goddys were they called by old Poetes
+    ¶ For her gret feruency of werkyng in her speres
+    ¶ Experyence preueth this at all yeres
+    ¶ And for as other that goddys called be
+    ¶ For sotyll wytte that shall I teche the
+
+    ¶ How they by that hyghe name of god cam
+    ¶ In this sayd tyme the people was so rude
+    ¶ That what maner creature man or woman
+    ¶ Coude ony newelte contryue and conclude
+    ¶ For the comon wele all the multytude
+    ¶ Of the comon people a god sholde hym call
+    ¶ Or a goddesse after hit was fall
+
+    ¶ Of the same thyng that was so newefounde
+    ¶ As Ceres for she the crafte of tylthe fonde
+    ¶ Wherby more plentouously corne dyd habou{n}de
+    ¶ The people her called thrugh out euery londe
+    ¶ Goddesse of corne wendyng in her honde
+    ¶ Had layn all power of cornes habundaunce
+    ¶ Thus were {the} Paynems deceyued by ignorau{n}ce
+
+    ¶ In lyke maner Isys was called the goddesse
+    ¶ Of frute for she fyrst made it multuply
+    ¶ By the name of graffyng & soo by processe
+    ¶ The name of Pan gan to deyfy
+    ¶ For he fyrst founde the mene shepe to guy
+    ¶ Some toke it also by her condycyon
+    ¶ As Pluto Fortune and suche other doon
+
+    ¶ Thus all that Poetes put vnder couerture
+    ¶ Of fable the rurall people hit toke
+    ¶ Properly as acte refusyng the fygure                  Original has
+    ¶ Which errour some of hem neuer forsoke                arte
+    ¶ Ofte a false myrour deceyueth a mannes loke           instead of
+    ¶ As thou mayst dayly pryue at thyne ey                 acte
+    ¶ Thus were the paynyms deceyued generally
+
+    ¶ That seyng the dedely enemy of mankynde
+    ¶ By his pouer premyssyue entred the ymagys
+    ¶ Within the Temples to make the people blynde
+    ¶ In her ydolatry standyng on hyghe stagys
+    ¶ Insomoche whoo vsed dau{n}gerous passagys
+    ¶ Ony maner way by water or be londe
+    ¶ When hyd his sacryfyce his answere redy fonde
+
+    ¶ Thus duryng the tyme of deuyacion
+    ¶ From Adam to Moyses was ydolatry
+    ¶ Through the worlde vsed in comon opynyon
+    ¶ These were the goddys that thou there sy
+    ¶ And as for the awayters that stood hem by
+    ¶ They polytyke Phylosophers & Poetes were
+    ¶ Whiche feyned the fables {that} I speke of here
+
+    ¶ Then seased the tyme of deuyacyon
+    ¶ When Moyses receyued that tables of stone
+    ¶ Entryng the tyme of reuocacyon
+    ¶ On the mounte of Synay stondyng allone
+    ¶ God yaue hym myght ayene all his fone
+    ¶ And then began the olde testament
+    ¶ Whiche to the people by Moyses was sent
+
+    ¶ And that tyme dured the Incarnacyon
+    ¶ Of Cryste and then began it to sese
+    ¶ For then came the tyme of reconcylyacyon
+    ¶ Of man to god I tell the doutlese
+    ¶ When the sone of man put hym in prese
+    ¶ Wylfully to suffre dethe for mankynde
+    ¶ In holy scrypture this mayst thou fynde
+
+    ¶ This Reconcylyacyon was the tyme of grace
+    ¶ When fou{n}ded was the chirche vpon {that} fayre sto{n}e
+    ¶ And to holy Peter the keye delyuered was
+    ¶ Of heuen hell dyspoyled was anone
+    ¶ Thys was mankynde delyuered from his fone   Original has Wnd
+    ¶ And then began the newe testament           instead of And
+                                                The last line of stanza
+    ¶ Whiche .iii. tymes a sondry dyuyded       is missing. The line reads:
+    ¶ Mayst thou here see yf thou lyst beholde      That the Crystyn pepyll
+    ¶ The fyrst behynde the in pycture is prouyded  beleve in present.
+    ¶ The seconde of the lyft honde shew p{ro}phet olde       Original has
+    ¶ The .iii. on the ryght honde here it is to {the} tolde  in instead
+    ¶ Thus hast thou in vysyon the verey fygure               of is
+    ¶ Of these .iii. tymes here shewed in portrayture
+
+    ¶ That is to say fyrst of deuyacyon
+    ¶ From Adam to Moyses recordyng scripture
+    ¶ Seconde fro Moyses to the Incarnacyon
+    ¶ Of Cryst kepeth reuocacyon cure
+    ¶ And as for the thyrd thou mayst be verrey sure
+    ¶ Wylt dure from thens to the worldes ende
+    ¶ But now the .iiii. must thou haue in mynde
+
+    ¶ Whiche is callid p{ro}perly {the} tyme of pylgremage
+    ¶ After some & some named it otherwyse
+    ¶ And call hit the tyme of daungerous passage
+    ¶ And some of werre that fully hit dyspyse
+    ¶ But what so it be named I wyll the auyse
+    ¶ Remembre it well and prynte it in thy mynde
+    ¶ Wherof the fygure mayst thou me behynde
+
+    ¶ And elles remembre thyselfe in thyne herte
+    ¶ How Vyce & Vertue dayly theym occupy
+    ¶ In maner one of hem hym to peruerte
+    ¶ Another to bryng hym to endeles glory
+    ¶ Thus they contynue fyght for the vyctory
+    ¶ Hit is no nede herof to tell the more
+    ¶ For in this short vysyon {thou} hast seen it before
+
+    ¶ And as for Attropos greuous compleynt
+    ¶ Vnto the goddys betokeneth noo more
+    ¶ But oonly to shew the how frendely constrey{n}t
+    ¶ On a stedfast herte weyeth full sore
+    ¶ Good wyll requyreth good wyll ayene therfore
+    ¶ Dyscorde to deth hathe ay byn a frende
+    ¶ For Dyscorde bryngeth many to her ende
+
+    ¶ Wherfore Dethe thought he wolde auenged be
+    ¶ On his frendes quarell yf that he myghte
+    ¶ For her gret vnkyndnesse is somoche as she
+    ¶ Was among hem all had so in despyte
+    ¶ And at that ba[n]ket made of soo lyte
+    ¶ Which caused hym among he{m} to cast in a bone
+    ¶ That fou{n}de they{m} gnawyng ynough euerichone
+
+    ¶ Thus ofte is seen on frende for a nother
+    ¶ Wyll say & doo and some tyme maters feyne
+    ¶ And also kynnysmen a cosyne or a brother
+    ¶ Wyll for his alyer he haue cause compleyne
+    ¶ And where that he loueth doo his besy peyne
+    ¶ His frendes mater as his owne to take
+    ¶ Whiche oft sythe causeth mychyll sorow awake
+
+    ¶ Be hit ryght or wrong he chargeth not a myte
+    Ap towarde that poynt he taketh lytyll hede
+    ¶ So that he may haue his frowarde appetyte
+    Performed he careth not how his soule spede (not{e}
+    ¶ Of God or Deuyll haue suche lytyll drede
+    ¶ How be it one there is that lord is of all
+    ¶ Whiche to euery wyght at last rewarde shall
+
+    ¶ And as for {the} batayl betwene Vertu holde
+    ¶ Soo playnly appereth to the inwardly
+    ¶ To make exposycyon therof new or olde
+    ¶ Were but superfluyte therefore refuse hit I
+    ¶ In man shall thou fynde {that} were kept dayly
+    ¶ Lyke as {thou} hast seen it fowty[u]e before thy face
+    ¶ The pycture me behynd{e} sheweth it i{n} lytyll space
+
+    ¶ And as for Macrocosme it is nomore to say
+    ¶ But the lesse worlde to the comon entent
+    ¶ Whiche applyed is to man both nyght & day
+    ¶ Soo is man the felde to which all were sent
+    ¶ On bothe partyes & they that thyder went
+    ¶ Sygnyfye nomore but after the condycyon
+    ¶ Of euery manes opynyon
+
+    ¶ And as for the noble knygt Perseueraunce
+    ¶ Which gate the felde when it was almost gone
+    ¶ Betokeneth nomore but the contynuaunce
+    ¶ Of vertuous lyvyng tyll dethe hath auergone
+    ¶ Who soo wyll doo rewarded is anone
+    ¶ As Vertue was with the crowne on hy
+    whiche is noo more but euerlastyng glory
+
+    ¶ And as for Prestynacyon                       The line is cut short.
+    ¶ That eche of hem rewarded after his deserte   The line must be:
+    ¶ Is to vnderstonde nomore but dampnacyon       And as for Prescience
+    ¶ To vycyous people is the verey scourge smert  and Predestinacion
+    ¶ Rewarde for they fro Vertue wolde peruert
+    ¶ And endelesse Ioye is to hem that be electe
+    ¶ Rewarded & to all that folow the same secte
+
+    ¶ And as for the keyes of the posternes fyue
+    Whiche were to Morple{us} rewarded for his laboure
+    ¶ Sygnyfye not elles but whyle man is on lyue
+    ¶ His fyue inwarde wyttes shall be euery hour
+    ¶ In his slepe occupyed in hele & in langour
+    ¶ With fantasyes tryfels Illusyons & dremes
+    ¶ Whiche Poetes call Morpleus stremes
+
+    ¶ And as for Residiuacyon is nomore to say
+    ¶ But after Confessyon tornyng ayene to synne
+    ¶ Whiche to euery man retornyth sauns delay
+    ¶ To vycyous lyuyng agayn hym to wynne
+    ¶ Whyle ony man lyueth wyll it neuer blynne
+    ¶ That cursed conclusyon for to bryng aboute
+    ¶ But Reason with Sadnes kepe it styll oute
+
+    ¶ Here hast thou properly the verrey sentence
+    ¶ Perde now declared of this vysyon
+    ¶ The pycture also yeueth clere intellygence
+    ¶ Therof beholden with good dyscresyon
+    ¶ Loke well aboute and take consyderasyon
+    ¶ As I haue declared whether hit soo be
+    ¶ A syr quoth Morpleus what tolde I the
+
+    ¶ Hast thou properly the verey sentence
+    ¶ Loke on yon wall yonder before
+    ¶ And all that tyme stood I in a wyre
+    ¶ Whiche way first myn hert wolde yeue more
+    ¶ To loke in a stody stood I therfore
+    ¶ Neuerthelesse at last as Morpleus me badde
+    ¶ I loked forwarde with contenaunce sadde
+
+    ¶ Where I beheld in portrayture
+    ¶ The maner of the felde euen as it was
+    Shewed me before & euery creature
+    ¶ On bothe sydes beyng drawyng in small space
+    ¶ Soo caryously in soo lytyll a compace
+    ¶ In all this worlde was neuer thyng wrought
+    ¶ Hit were Impossyble in erthe to be thought
+
+    ¶ And when I had long beholde that pycture
+    ¶ What q{uo}d Morpleus how longe shalte thou loke
+    ¶ Daryng as a dastard on yon portrayture:
+    ¶ Come of for shame thy wytte stante a croke
+    ¶ I heryng that myn herte to me toke
+    ¶ Towarde the fourthe wall tornyng my vysage
+    ¶ Where I sawe Poetes & Phylosophers sage
+
+    ¶ Many one moo that at the banket
+    ¶ Serued the goddes as I sayde before
+    ¶ Som were made standyng & som in chayris set
+    ¶ Som lokyng on bokys as they had stodyed sore
+    ¶ Som drawyng almenakis & in her hondis bore
+    ¶ Astyrlabes takyng the altytude of the sonne
+    ¶ Among whome Dyogenes sate in a tonne
+
+    ¶ And as I was lokyng on that fourthe wall
+    ¶ Of Dyogenes beholdyng the ymage
+    ¶ Sodeynly Doctryne began me to call
+    ¶ And bad me tourne towarde hyr my vysage
+    ¶ And soo then I dyde with humble corage
+    ¶ Whan thynkest {thou} she sayd hast {thou} not thentent
+    ¶ Yet of these foure walles what they represent
+
+    ¶ The pycture on the fyrst {that} standeth at my bake
+    ¶ Sheweth the {the} present tyme of pylgremage
+    ¶ Of whiche before I vnto the spake
+    ¶ Whiche is the tyme of daungerous passage
+    ¶ The seconde dyscrettly agayne my vysage
+    ¶ The tyme expresseth of Deuyacyon
+    ¶ Whyle paynyme lawe had the domynacyon
+
+    ¶ The thryd wall standyng on my lyfe honde
+    ¶ The tyme representeth of Reuocacyon
+    ¶ And the fourthe standyng on my ryght honde
+    ¶ Determyneth the tyme of Reconsylyacyon
+    ¶ This is the effecte of thy vysyon
+    ¶ Wherfore the nedeth no more theron to muse
+    ¶ Hit were but veyne thy wyttes to dysuse
+
+    ¶ But duryng the tym of Reconsylyacyon
+    ¶ Thy tyme of pylgremage loke well {thou} spende
+    ¶ And then woll gracyous Predestynacyon                 Original has
+    ¶ Bryng the to glory at thy law ende                    well instead
+    ¶ And euen with that came to my mynde                   of woll
+    ¶ My fyrst conclusyon that I was aboute
+    ¶ To haue dreuen er slepe made me to lute
+
+    ¶ That is to say how Sensualyte
+    ¶ {With} Reason to acorde myght be brought aboute
+    ¶ Whiche caused me to knele downe on my kne
+    ¶ And beseke Doctryne determyne that doute
+    ¶ Oo Lord god sayd Doctry{n}e canst {thou} not withoute
+    ¶ Me that conclusyon bryng to an ende
+    ¶ Ferre is fro the wytte & ferther good mende
+
+    ¶ And euen with that Dethe gan appere
+    ¶ Shewyng hymselfe as though that he wolde
+    ¶ His darte haue occupyed within that herbere
+    ¶ But there was none for hym yong nor olde
+    ¶ Saue oonly I Doctrine hym tolde
+    ¶ And when I herde hyr with hym comon thus
+    ¶ I me withdrew behynde Morpleus.
+
+    ¶ Dredyng full sore lest he with his dart.
+    ¶ Through Doctrynes wordes ony entresse.
+    ¶ In me wolde haue had or claymed ony part
+    ¶ Which sholde haue caused me grete heuynesse
+    ¶ Within whiche tyme & short processe
+    ¶ Came thyder Reason and Sensualyte.
+    ¶ A quoth Doctryne ryght welcome be ye
+
+    ¶ Hit is not long sythe we of you spake
+    ¶ Ye must er ye goo determyne a doute
+    ¶ And euen with that she the mater brake
+    ¶ To theym & tolde hit euery where aboute
+    ¶ I wolde haue be thens yf I had moute
+    ¶ For fere I loked as blake as a cole
+    ¶ I wolde haue cropen in a mouse hole
+
+    ¶ What quoth Doctryne where is he now
+    ¶ That meu[i]d this mater straunge & dyffuse
+    ¶ He is a cowarde I make myn auow
+    ¶ He hyded his hede his mocyon to refuse
+    ¶ Blame hym not q{uo}d Reason alway {that} to vse
+    ¶ When he seeth Dethe soo nere at his honde
+    ¶ Yet is his part hym to withstonde
+
+    ¶ Or at the leste way elles fro hym flee                Original has
+    ¶ As longe as he may who dooth other wyse               fym instead
+    ¶ Is an ydeote quoth Sensualytee                        of hym
+    ¶ Who dredeth not Dethe wyse men hym dyspyse
+    ¶ What said Doctryne how long hathe this gyse
+    ¶ Be holden & vsed thus atwixe you tweyne
+    ¶ Ye were not wonte to acorde certeyne
+
+    ¶ Yes quoth Reason in this poynt alway
+    ¶ To euery man haue we yeuen our counsayll
+    ¶ Dethe for to flee as long as they may
+    ¶ Although wo otherwyse haue done our trauayl
+    ¶ Eche other to represse yet withoute fayll
+    ¶ In that poynt oonly dyscordeth we neuer
+    ¶ Thus condescended therin be we for euer
+
+    ¶ Aha sayd Doctryne then is the conclusyon
+    ¶ Clerely determined of the gret doute
+    ¶ That here wes meuyd & halfe in derysyon
+    ¶ She me then called & bade me loke oute
+    ¶ Come forthe she sayd & feere not this route
+    ¶ And euen with that Reason & Sensualyte
+    ¶ And Dethe fro thens were vanysshed all thre
+
+    ¶ Then loked I forthe as Doctryne me badde
+    ¶ When Dethe was gone me thought I was bolde
+    ¶ To shewe myselfe but yet was I sadde
+    ¶ Me thought my doute was not as I wolde
+    ¶ Clerely and openly declared & tolde
+    ¶ Hit sowned to me as a parable
+    ¶ Derke as a myste or a fayned fable                    Original has
+                                                            myhe instead
+    ¶ And Doctryne my conceyte gan espy                     of myste
+    ¶ Wherfore sayd she standest thou soo styll
+    ¶ Wherin is thy thought arte thou in stody
+    ¶ Of thy questyon hast thou not thy fyll
+    ¶ To the declared tell me thy wyll.
+    ¶ Herdest thou not Reason & Sensualyte
+    ¶ Declared thy doute here before the
+
+    ¶ Forsothe quoth I I herde what they sayde
+    ¶ But neuerthelesse my wytte is so thynne
+    ¶ And also of Dethe I was so afrayde
+    ¶ That hit is out where hit vent ynne
+    ¶ And so that mater can I not wynne
+    ¶ Without your helpe & benyuolence
+    ¶ Therof to expresse the veray sentence
+
+    ¶ Well quod Doctryne then yeue attendaunce
+    ¶ Vnto my wordes & thou shalt here
+    ¶ Openly declared the concordaunce
+    ¶ Atwene Sensualyte & Reason in fere
+    ¶ If thou take hede hit clerely dooth apere
+    ¶ How they were knette in one opynyon
+    ¶ Bothe agayn Dethe helde contradyccon
+
+    ¶ Whiche concordaunce no more sygnyfyeth
+    ¶ To playne vnderstandyng but in euery mane
+    ¶ Bothe Sensualyte & Reason applyeth
+    ¶ Rather Dethe to flee then with hir to be tane
+    ¶ Loo in that poynt accorde they holly thane
+    ¶ And in all other they clerely dyscorde
+    ¶ Thus is trewly set thy doubtfull monacorde
+
+    ¶ I heryng that kneled on my kne
+    ¶ And thanked her lowly for her dyscyplyne
+    ¶ That she wouchesafe of her benygnyte
+    ¶ Of tho gret doubtes me to enlumyne
+    ¶ Well was she worthy to be called Doctryne
+    ¶ If it had be no more but for the solucyon
+    ¶ Of my demaunde & of this straunge vysyon
+
+    ¶ And as I with myne hede began for to bow
+    ¶ As me well ought to do her reuerence
+    ¶ She thens departed I can not tell how
+    ¶ But within a moment gone was she thens
+    ¶ Then sayd Morpleus let vs go hens
+    ¶ what sholde we here tarye lengere
+    ¶ Hast thou not herde a generall answere
+
+    ¶ To all thy materes that thou lyst to meue
+    ¶ My tyme draweth nere that I must rest
+    ¶ And euen therewith he toke me by the sleue
+    ¶ And sayd goo we hens for that sholde I best
+    ¶ As good is ynough as a grete fest
+    ¶ Thou hast seen ynough holde the content
+    ¶ And euen with {that} forthe with hym I went
+
+    ¶ Tyll he had me brought agene to my bedde
+    ¶ where he me founde and then pryuely                   Original has
+    ¶ He stale awaye I coude not vnderstande                pruyely
+    ¶ were he became but sodeynly                           instead of
+    ¶ As he came he went I tell you veryly                  pryuely
+    ¶ whiche done fro slepe I gan to awake
+    ¶ My body all in swet began for to shake
+
+    ¶ For drede of the syght that I had sene
+    ¶ wenyng to me all had be trew
+    ¶ Actuelly done where I had bene
+    ¶ That batyll holde twene Vyce & Vertew
+    ¶ But when I see hit hit was but a whew
+    ¶ A dreme a fantasy & a thyng of nought
+    ¶ To study thereon I had nomore thought
+
+    ¶ Tyll at the last I gan me bethynke
+    ¶ For what cause shewed was this vysyon
+    ¶ I knew not wherefore I toke pen & ynke
+    ¶ And paper therof to make mencyon
+    ¶ In wrytyng takyng consyderacyon
+    ¶ That noo defaute were found in me
+    ¶ whereon accused I ought for to be
+
+    ¶ For slouthe that I had left hit vntolde
+    ¶ Neyther by mouthe nor in remembrau{n}ce
+    ¶ Put it in wrytyng where thorugh manyfolde
+    ¶ wayes of accusacio{n} myght torne me to greuau{n}ce
+    ¶ All this I sawe as I lay in a traunce
+    ¶ But wheder it was with myne ey bodely
+    ¶ Or not in certayn god knoweth & not I
+
+    ¶ That to dyscerne I purpose not to dele
+    ¶ Soo large by my wyll it longeth not to me
+    ¶ were hit dreme or vysyon for your owne wele
+    ¶ All that shall hit rede here rad or se
+    ¶ Take thereof the best & let the worst be
+    ¶ Try out the corne clene from the chaff
+    And then may ye say ye have a sure staff
+
+    ¶ To stande by at nede of ye wyll it holde
+    ¶ And walke by the way of Vertue
+    ¶ But alwey beware be ye yong or olde
+    ¶ That your Frewyll ay to Vertue more
+    ¶ Apply than to Vyce the easyer may be bore
+    ¶ The burden of the felde that ye dayly fyght
+    ¶ Agayn your .iii. enemyes for all her gret myght
+
+    ¶ That is to say the Deuyll & the Flesshe
+    ¶ And also the worlde with hith his glosyng chere
+    ¶ Whyche on you loketh euer newe & fresshe
+    ¶ But he is not as he dooth apere
+    ¶ Loke ye kepe you ay out of his daungere
+    ¶ And soo the vyctory shall ye obteyne
+    ¶ Vyce fro you exyled & Vertue in you reyne
+
+    ¶ And then shall ye haue the tru{m}phall guerdon
+    ¶ That god reserued to euery creature
+    ¶ Aboue in his celestyall mansyon
+    ¶ Ioye & blysse infynyte eternally to endure
+    ¶ Wherof we say we wolde fayne be sure
+    ¶ But the way thyderwarde to holde be we lothe
+    ¶ That oft sythe causeth {the} good lord to be wrothe
+
+    ¶ And by our deserte our habytacyon chau{n}geth
+    ¶ Fro Ioye to payne & woo perpetuelly
+    ¶ From his gloryous syght thus he vs estrau{n}geth
+    ¶ For our vycyous lyuyng thorugh our owne foly
+    ¶ Wherfore let vs praye to that lorde of glory
+    ¶ Whyle we in erthe be {that} he wyll yeue vs grace
+    ¶ So vs here to guyde that we may haue a place
+
+    ¶ Accordyng to oure Regeneracyon
+    ¶ Which heuenly spyrytes his name to magnyfy.
+    ¶ Whiche downe descendeth for oure redempcyon
+    ¶ Offryng hymselfe on the crosse to his fad{er} on hy
+    ¶ Now benygne Ihesu that boren was of Mary
+    ¶ All that to this vysyon haue gyue{n} her audyence
+    ¶ Graunte eternal Ioye after thy last se{n}tence
+
+    A M E N
+
+    ¶ Here endeth a lytyll Treatyse
+    named The assemble of goddes
+
+[Illustration]
+
+[Illustration]
+
+
+
+
+
+End of the Project Gutenberg EBook of The Assemble of Goddes, by Anonymous
+

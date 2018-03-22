@@ -1,0 +1,2468 @@
+he Project Gutenberg eBook, The Lovers Assistant, or, New Art of Love, by
+Henry Fielding, Edited by Claude E. Jones
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: The Lovers Assistant, or, New Art of Love
+
+
+Author: Henry Fielding
+
+Editor: Claude E. Jones
+
+Release Date: January 21, 2010  [eBook #31036]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE LOVERS ASSISTANT, OR, NEW ART
+OF LOVE***
+
+
+E-text prepared by Sankar Viswanathan, Delphine Lettau, Joseph Cooper, and
+the Project Gutenberg Online Distributed Proofreading Team
+(http://www.pgdp.net)
+
+
+
+                     The Augustan Reprint Society
+
+
+                           _HENRY FIELDING_
+
+              THE LOVERS ASSISTANT, OR, NEW ART OF LOVE
+
+                                (1760)
+
+
+                           Edited, with an
+                           Introduction by
+                           Claude E. Jones
+
+
+                        Publication Number 89
+
+
+
+                William Andrews Clark Memorial Library
+
+                       University of California
+
+                             Los Angeles
+
+                                 1961
+
+       *       *       *       *       *
+
+
+GENERAL EDITORS
+
+
+Richard C. Boys, _University of Michigan_
+Ralph Cohen, _University of California, Los Angeles_
+Vinton A. Dearing, _University of California, Los Angeles_
+Lawrence Clark Powell, _Clark Memorial Library_
+
+
+ASSISTANT EDITOR
+
+W. Earl Britton, _University of Michigan_
+
+
+ADVISORY EDITORS
+
+Emmett L. Avery, _State College of Washington_
+Benjamin Boyce, _Duke University_
+Louis Bredvold, _University of Michigan_
+John Butt, _University of Edinburgh_
+James L. Clifford, _Columbia University_
+Arthur Friedman, _University of Chicago_
+Louis A. Landa, _Princeton University_
+Samuel H. Monk, _University of Minnesota_
+Ernest C. Mossner, _University of Texas_
+James Sutherland, _University College, London_
+H.T. Swedenberg, Jr., _University of California, Los Angeles_
+
+CORRESPONDING SECRETARY
+
+Edna C. Davis, _Clark Memorial Library_
+
+       *       *       *       *       *
+
+
+
+
+INTRODUCTION
+
+
+The publishing history of this translation has been sketched by Cross,
+in his _History of Henry Fielding_, and may simply be summarized here.
+The first edition, entitled _Ovid's Art of Love Paraphrased and
+Adapted to the Present Time_ (or _Times_) was first issued in
+February, 1747, and was advertised in the _Gentleman's_ and _Scots_
+Magazines in that month. During March, further advertisements appeared
+in the _London Magazine_ and the _St. James Evening Post_. The most
+extensive notice ran, however, in Fielding's own _Jacobite Journal_
+(No. 15), where it served as basis for a detailed comparison between
+the art of love and the art of Jacobitism. Of this 1747 anonymous,
+original edition no copy is known.
+
+In 1759, the work was reissued in London and Dublin, under the title
+_The Lover's Assistant_, and again in London in 1760. Meanwhile,
+advertisements for the original edition, as by Henry Fielding, had
+been run by the publisher, Andrew Millar, in 1754 and 1758. Inasmuch
+as Millar apparently still had unsold sheets in 1758, the 1759 edition
+may comprise these sheets with new title pages and prefatory matter
+necessary because of Fielding's death in 1754. At any rate, the
+"modern instances" referred to by the author of the 1759 Preface are
+not too modern to have been written in 1747. There has been no reprint
+since 1760.
+
+The present text is printed from the 1760 edition, collated with a
+copy of the 1759 issue. The Latin text, which in the original faces
+the English, is omitted. Notes keyed by letters and asterisks appear
+in the original; it will be noted that Fielding's notes combine
+scholarly and facetious remarks; he frequently used footnotes for
+comic effect, especially in the translation of the _Plutus_ of
+Aristophanes in which he collaborated.
+
+Literature affords few pleasures so satisfying as translations done by
+those who are not only expert in the languages concerned, but who also
+are of the same spirit as the authors they translate. Some examples
+come readily to mind: Pope's Horace, Dryden's Juvenal and Persius,
+Smollett's LeSage, Lang's _Aucassin and Nicolette_, and Pound's
+translations from Provencal. Such a felicitous combination appears in
+Henry Fielding's translation of Book I of Ovid's _Ars Amoris_.
+
+Throughout the sixteenth and seventeenth centuries, English
+translators of the classics abounded, including Marlowe, Jonson,
+Chapman and Sandys; Roscommon, Waller, Denham, Cowley and Dryden. By
+1700, the major kinds of translation had been differentiated,
+described, evaluated and practised.
+
+To summarize, Dryden wrote as follows in his Preface to the 1680
+edition of _Ovid's Epistles_, Translated by Several Hands:
+
+     All translation I suppose may be reduced to these three
+     heads:
+
+     First, that of Metaphrase, or turning an Author word by
+     word, and line by line, from one language to another.... The
+     second way is that of Paraphrase, or Translation with
+     Latitude, where the Author is kept in view by the
+     Translator, so as never to be lost, but his words are not so
+     strictly follow'd as his sense, and that too is admitted to
+     be amplyfied, but not alter'd.... The Third way is that of
+     Imitation, where the Translator (if now [i.e. by taking such
+     liberties] he has not lost that name) assumes the liberty
+     not only to vary from the words and sence, but to forsake
+     them both as he sees occasion: and taking only some general
+     hints from the Original, to run division on the ground-work,
+     as he pleases....
+
+Doubtless, he refers to the translation of verse into verse, but
+actually verse-into-prose also falls within Dryden's "third way." When
+the author of the Preface to _The Lover's Assistant_ speaks of it as
+an "undertaking" in translation, he means prose imitation, or
+paraphrase of verse.
+
+Earlier, in the 1743 _Miscellanies_, Fielding had published "Part of
+Juvenal's Sixth Satire Modernized in Burlesque [i.e. Hudibrastic]
+Verse." The modernization, as in his _Art of Love_, was of place
+(England instead of Italy) as well as time, and allowed the author to
+satirize some of his contemporaries, as well as the customs of his own
+age.
+
+When, four years later, he turned to the first book of Ovid's _Artis
+Amatoriae_, he found prose an even better medium for "Imitation," or
+"Modernization." The result is a most enjoyable _pot pourri_ of Roman
+mythology and eighteenth century social customs, combined with some of
+the patriotism left over from Fielding's anti-Jacobinism during the
+Forty-Five. His devotion to, and constant use of, the classics has
+excited comment from every Fielding biographer since his own time. His
+works abound in classical instances, references and imitations; and
+most of his writing includes translations from Greek or Roman authors.
+His library, as Austin Dobson observed, was rich in editions of the
+classics.
+
+Curiously, the sale catalogue lists only one, unidentifiable, Ovid
+item, as contrasted with 5 editions of Horace, 9 of Lucian and 13
+(between 1504 and 1629) of Aristotle. This probably means that, along
+with other unlisted works known to have been in his possession, his
+Ovid was retained by his family or given to a friend. Dryden's
+translation of Book One of the _Ars Amoris_ is included among
+Fielding's books, however, and Cross suggests that Fielding "kept one
+eye" on it. It is surprising how much visualization there is in his
+imitation. Many of the incidents resemble those treated by Hogarth,
+with whom by 1747 Fielding was on excellent terms. There is also some
+resemblance in his contemporaneous materials, or modernization, to
+scenes in Fielding's own later plays, and in his novels.
+
+
+
+
+PREFACE
+
+
+_This Work was begun many Years ago, though altered in some Places by
+the Author, before his Death; as will appear by the modern Instances
+introduced in it. Many of which being so applicable to the present
+Time, is the Occasion of it being now published._
+
+_As to any Exception which may be made to the Impurity of this Work,
+we shall transcribe what was written long ago in its Defence, from the
+Preface prefixed to Mr. _Dryden_'s Translation of this Poem._
+
+'A great many People are mistaken in these Books; and tho' they were
+made use of as a Pretence to drive the Author from the Court of
+_Augustus_, and confine him to _Tomos_ on the Frontiers of the _Getae_
+and _Sarmatae_, yet they were not the true Cause of his Confinement.
+They are very far from being so licentious as the Writings of several
+other Poets, both _Greek_ and _Latin_. However we must own he might
+have been a little more discreet, especially in some Places[A].
+
+[Note A: He means in the other two Books.]
+
+'That which offended the _Romans_ most in this Work, cannot touch us.
+It has always been more dangerous in _Italy_ to converse with Women of
+Honour, and frequent their Houses, than 'tis with us; where there is
+more Liberty, and what in that Country may be an Occasion of
+Debauchery, would not at all be so in ours.
+
+'Notwithstanding all that has been said against these Books _of the
+Art of Love_, by some over-scrupulous Persons, whose Discretion has
+too much of Affectation in it: they are not only necessary for the
+Knowledge of the _Latin_ Tongue, and the _Roman_ History, concerning
+which they contain several Things very particular; but for the noble
+Sentiments we find in them, which the _Gravest_ and _Learnedest_
+Writers have thought worthy to be quoted for _Authorities_.
+
+'In a Word, there's nothing in them that comes near the _Licence_ of
+some _Epigrams_ of _Catullus_, _Martial_, and _Ausonius_, of some
+_Satires_ of _Horace_ and _Juvenal_, and several other Pieces of
+_Ancient_ and _Modern_ Authors, which are read and commented upon; and
+about which even celebrated _Jesuits_ and other religious Persons, as
+eminent for their Piety as their Erudition, have employed their
+Studies. Yet who has condemn'd or complain'd of them? We must confess,
+such Things should be managed with Address; and those of them who have
+meddled with any of the Authors I have named, have shewn that it may
+be done so, by their succeeding so happily in it.
+
+'As for this Treatise of the _Art of Love_, for which the Author has
+also prescrib'd a _Remedy_, as it is liable to be ill interpreted by
+those whose Pens poison every Thing they touch; so it may bear a good
+Construction, by such as know how to turn every Thing to Advantage.
+
+'I will yet say, this _Art_ may be apply'd to those that intend to
+marry. There is nothing sure against Decency in all that. I agree, if
+you will have it so, that it extends so far as to direct one to the
+Means to gain a Mistress. If this was not lawful heretofore in
+_Italy_, on account of the jealous Humour of the _Italians_, we
+cannot, for the same Reason only, say it ought to be forbidden in our
+Country, any more than in several others, provided we could be sure
+the Ladies Modesty would not be offended, before whom Youth should be
+always careful not to exceed the Bounds of the Respect that's due to
+them.'
+
+_To this I may add, that if the Objection of Impurity lies against any
+Part of this Work, it is only against the two latter Books, for in
+that which we have here paraphrased, there is nothing capable of
+offending the nicest Ear._
+
+_With regard to the Merit of this Paraphrase, which is entirely a new
+Undertaking, and might perhaps, if properly encouraged, be carried on
+with other Latin Poets, we shall only observe, that the utmost Care
+hath been taken to preserve the Spirit and true Sense of the Author,
+and where we have been obliged to deviate, we have given the literal
+Translation in the Notes._
+
+_Upon the whole, we cannot suppress, what one of the most learned Men
+of this Age, said upon persuing the Paraphrase_, viz. That he thought
+it would serve better to explain the Meaning of _Ovid_ to a Learner,
+than any other Translation, or all his numerous Commentators.
+
+
+
+
+BOOK I
+
+
+If in so learned an Age as this, when Arts and Sciences are risen to
+such Perfection, there be any Gentleman unskilled in the Art of
+Loving, let him come to my School; where, if he hath any Genius, he
+will soon become an Adept: For I would by no means have any young
+Gentlemen think, that Erudition is unnecessary upon this Occasion. It
+is well known that the [1]Rules of Art are necessary to the Conduct of
+a Ship; for which reason, none but able and experienced Seamen are
+preferred to the Command of one. Rules are necessary even to make a
+good Coachman, as those Gentlemen who have the Ambition to excel this
+way very well know. In the same manner is Art required to drive the
+Chariot of Love well. Now it hath pleased _Venus_ to place me in the
+Coach-Box: what a Captain is to a Ship, or the Driver to his Chariot,
+that am I to Love. I own indeed Master _Cupid_ is a little wild, and
+often stubborn; but he is only a Child, and of an Age to be
+disciplined: And however fierce the Disposition of a Lad may be, a
+judicious Schoolmaster knows very well how to correct it: For many a
+Boy who hath afterwards turned out a Hero, hath when at School very
+patiently submitted to the Lash, and quietly, at the Word of Command,
+held out his Hands to be whipt [2]. Duke _William_ [3] himself, when a
+Lad, very possibly submitted to Correction; and he [4] who was
+hereafter to become the Terror of his Enemies, might in his Youth have
+been afraid of his Tutor. Mr. _Pointz_ was his Preceptor: I am the
+Preceptor of Love. Both these Youths were of a fierce Disposition,
+both elevated [5] in their Birth. But as the stoutest Ox submits
+himself to the Yoke, and the most fiery Horse to the Bridle, so shall
+Love to me. Though he may bend his Bow against my Breast, and shake
+his Torches at me; no matter: nay, the more he pierces me with his
+Arrows, the more he burns me, the more severely will I be revenged of
+him.
+
+But here, Master _Apollo_, I will tell no lies to my Readers. I do not
+pretend to have received any Inspiration from you, any more than from
+Parson _Whitefield_ [6]: And as for Miss _Clio_ [7] and her eight
+Sisters, I never visit them; nor have I even a Cap-Acquaintance with
+them. I write from Experience only; and _Experto crede Roberto_ is my
+Motto. I promise my Readers that I will tell them truth; and if I
+must, for form sake, invoke any Muse, _Venus_ herself shall be the
+Person [8]. Sweet Goddess! then be thou present, and smile at my
+Undertaking. But as for you who cannot smile, I mean you, Prudes, with
+your screw'd Faces, which may be considered as Signs hung forth before
+the Door of Virtue, and which perhaps, like other Signs, promise what
+is not to be found in the House; I desire neither your Favour nor your
+Company. Good-natur'd Girls[9] are all I write to; and such I promise
+them may read my Works without a Blush.
+
+Know then, my good Scholar, that art unexperienced in the Art of Love,
+that this Art consists of three principal Points: First, to select a
+proper Mistress: Secondly, to win her Affections: And, Thirdly, to
+preserve your mutual Affection. Of all these therefore we will treat;
+or, to speak metaphorically, through these three Roads we will drive
+the Chariot we have undertaken to guide.
+
+First then as to the Choice of a Mistress, to whom you may say, _In
+Thee alone my choice is fixed_. Do not believe such a one will fall
+into your Lap. It will become you to look about sharp for her, and
+with all your Eyes, I do assure you. And here my first Instruction
+shall be, where she may most probably be found: For he is a bad
+Huntsman who would beat about the _Royal Exchange_ for a Hare or a
+Fox; and not a much better Gunner or Fisherman, who goes a shooting in
+_Somerset-Gardens_, or attempts to angle in the magnificent Bason
+there. As these all know the Places where their Game resort, so must
+you.
+
+Here then, I by no means advise you to make a long Voyage after a
+foreign Mistress, as _Perseus_ did, who fetched _Andromeda_[10] from
+the _Indies_; or _Paris_, whom nothing would serve but a _Grecian_
+Mistress. Your own Country, my Friend, will produce Women which the
+World cannot equal. Beauties are as plenty in the City of _London_ as
+Apples in[11] _Herefordshire_, or Grains of Wheat[12] in _Hampshire_;
+they are indeed as plenty as Fish in the Sea, or Birds in the Air;
+nay, the Sky hath not more Stars than _London_ hath Beauties: for
+_England_[13], not _Cyprus_, is the Queen of Love's favourite Island.
+Whether you love green Fruit, and which is in the Bud only, or Beauty
+in its fuller Bloom, or that which is arrived to perfect Ripeness;
+nay, if nothing but Wisdom or Sagacity will serve your turn, of these
+too Old _England_ will afford you a sufficient Plenty.
+
+In the pleasant Month of _May_, repair to _Vaux-Hall_[14]. Here take
+your Evening Walk, either round the verdant Scenes, where
+Nightingales, the only Foreigners who give us their Songs for nothing,
+warble their most delicious Notes. When your Limbs demand Repose, you
+may enjoy it in an Alcove, from whence the embattel'd Troops of
+_Venus_ will pass in review before you. Again, the lofty Dome of
+_Ranelagh_ invites your Steps. Whether the illustrious Artist took his
+Model from that House, which as a Reward for their Industry, or for
+some little regard for their Honey, the benevolent Nature of Man hath
+conferred on that laborious Animal the Bee: Or whether a more pious
+Disposition chose this Form from the musical Instrument which summons
+the whole Parish to Church: Or whether the wondrous Force of Genius,
+unassisted by any Model, did not of itself strike out this wondrous
+Architecture; let _Kent_ or _Benson_ inquire. Hither, from every
+Corner of the Town, repair the loveliest Nymphs. Here too thou may'st
+survey them, either walking or reposed on Benches at thy Ease. Nor is
+the _Mall_ to be neglected, where once die brawny Arm of _Charles_
+displayed its Strength, and beat his subtle Courtiers at the Play,
+whence it derives its Name. Nor, _Kensington_, must thy Gardens be
+passed by, once the Delight of mighty _Caroline_, and to the future
+Age a Monument of her Taste. Here the Charmers draw in sweet Air, and
+send it forth again in sweeter Sighs, as Tributes to the loved Memory
+of that mighty Queen. As for the Ring, formerly the Scene of Beauty's
+many Triumphs, it is now become a lonely deserted Place: Brilliants
+and brilliant Eyes no longer sparkle there: No more the heedless Beau
+falls by the random Glance, or well-pointed Fan. The Ring is now no
+more: Yet _Ruckholt_, _Marybone_ and _The Wells_ survive; Places by no
+means to be neglected by the Gallant: for Beauty may lurk beneath the
+Straw Hat, and _Venus_ often clothes her lovely Limbs in Stuffs. Nay,
+the very Courts of Law are not excluded; and the Scenes of Wrangling
+are sometimes the Scenes of Love. In that Hall where _Thames_
+sometimes overflowing, washes the Temple of _Venus Lucy_, the grave
+Serjeant becomes a Victim to the Fair; and he who so well knows how to
+defend others, cannot defend himself. Here the Special Pleader loses
+all Power to Demurr, and finds beyond his Expectation a novel
+Assignment spring up in the Cause. Him _Venus Lucy_[15] laughs at from
+her neighbouring Temple; for the Council is now become the Client, and
+squeezes an empty Hand harder than he ever did a full one. But above
+all, the Theatres are the Place of Sport: for these will be most
+fruitful to your Wishes. Here you will find one Object to love, and
+another to toy with. Some, of whom a single Touch will suffice, and
+others, in whom you will desire a stronger Tenure. Neither do the Ants
+in pursuit of Grain, or the Bees in quest of Flowers, swarm in greater
+Numbers than the Beauties to the Theatres. The variety of Charmers
+here have often distracted my Choice. Hither they come to see, and to
+be themselves seen; and many are the Love-Bargains here made.
+
+And now, Friend, I will tell you a Story. _Romulus_ was the first
+Person who ever made this use of the Theatre, when he ordered his
+Soldiers to fall foul on the _Sabine_ Ladies, whom he invited to a
+Play acted by his Command. Not that I would have you think, that
+Theatre was like the Playhouse in _Convent-Garden_, enriched with
+Scenes, Machines, and other Decorations. To say the truth, it was no
+better than a Barn, or Booth. Here he assembled the _Sabine_ Girls,
+and ordered his _Romans_ to chuse every Man his Miss. They did so, and
+while the poor Girls thought no Harm, those Fellows felt strange
+Emotions within. Now while a certain Dancer, called, _The Ludio_, was
+performing _a Tambourine_, which I suppose took greatly at that time,
+_Romulus_ on a sudden gave the Signal for falling on. This was
+instantly obeyed. They all rushed in, laid their Hands upon the Girls,
+and soon gave them sufficient Tokens of their Purpose.
+
+As the Doves, who are the most timorous of Birds, fly from Eagles; or
+as the young Lamb runs from Wolves, as soon as she sees them, so
+terrified were these Ladies, at the Men rushing upon them, in this
+unlawful manner. The Colour forsook their Cheeks at once. All were
+equally in a Fright, though they discovered their Fear by different
+Symptoms. Some of them tear their Hair, others sit in Amazement,
+Terror strikes some dumb, others call in vain for the Assistance of
+their Mammas. One cries out, another is shocked to death; one stands
+still, another endeavours to get out of the House. But all their
+Endeavours are vain; and perhaps indeed their Blushes heightened their
+Beauty; they were all led off, and those who would not go were
+carried. Methinks, I hear one of their Gallants thus addressing his
+weeping Fair. _Why, my Dear, will you spoil those lovely Eyes with
+Tears? I promise you, you shall be served no worse than your Mother
+hath been before. I will only do to you, what your Father did to her._
+Ah _Romulus! Romulus!_ no General ever better knew how to reward his
+Soldiers; I promise you, that when I hear your Drum beating up for
+Voluntiers, I will enlist under your Command.
+
+Ever since that time, the Theatre hath been consecrated to Love, and
+many a pretty Girl, since the _Sabines_, hath owed the Loss of her
+Maidenhead to it.
+
+Other Places of publick Meeting may likewise be frequented, as Horse
+Races[16] and the Like. And especially public Shews, which never fail
+of Women. Here get upon a crouded Scaffold, and sit next to the Girl
+you like. Squeeze yourself as close to her as you can; for Custom here
+countenances such squeezing whether the pretty Creatures will or no.
+Here find some Opportunity to begin a Discourse; you will not be
+driven to talk upon your Fingers, or by Signs, but may use your
+Tongue[B]. Begin then with News, or the Chitchat of the Town. Nay, the
+Shew itself will afford a Subject: for instance supposing it was my
+Lord Mayor's Shew, you may ask her what Alderman that Coach, or those
+Liveries belong to; and be sure to admire the same with herself: Do
+not omit moreover, to give her an early Intimation of your Gallantry,
+and that you are a Woman's Man. If it should happen that any one of
+the Aldermen should be a greater Cuckold than the rest of his
+Brethren; take care to titter at his Appearance; and while the
+Pageants[17] are passing by, endeavour to find out a Resemblance of
+Horns in some of them. All those Things have a remote Tendency to this
+great point.
+
+[Note B: These Verses are transposed from the Place in which they
+stand in the Original, and this, I think, with Advantage to the
+Connection.]
+
+If a Grain of Snuff should happen to fall on the Lady's Bosom, wipe it
+off with your Fingers; and if none fall, wipe off that none. Take
+every Opportunity to be as officious in her Service as possible. If
+she drop her Fan or Gloves, presently take them up; for this you will
+have sure Reward in the very Fact, for you may at the same time lift
+up her petticoat and see her Legs.
+
+Be careful that the Person who sits behind her doth not press her
+tender Back with his Knee. Small Matters captivate light Minds. Many a
+Man hath drawn considerable Advantage from handing[18] a Lady to
+Coach, by gallanting her Fan, or even by taking up her Clog[19].
+
+Nor will[20] _Tower-hill_, when the Tragic Scaffold is strewed with
+Saw-Dust, be an improper Place to begin your Intrigue: for _Cupid_
+himself always attends, and acts the Part of an Executioner on such
+Occasions; many a poor Man having lost his Heart, while he hath
+attended to another's losing his Head. While the Fair-One carelessly
+laying her Hand on his, argues concerning the Criminal's Guilt, and
+offers to lay a Wager that he will die well; the wounded Lover feels a
+sudden Stroke, and is not better able to bear the Smart without a
+Sigh.
+
+[21]If it was the Custom of _England_ to imitate the _Romans_ in
+insulting over the Conquered, what Spectacles might have formerly been
+exhibited! How many _French_ Youths and Virgins might have followed
+the Chariot-Wheels of our Monarchs! In that Cafe many a poor
+_English_ Heart must have submitted to a _French_ Conquest, and Beauty
+would have been triumphant in Chains. Nay, I prophesy we shall again
+see those victorious Times. Our Mighty GEORGE now meditates new
+Triumphs, and _France_[22] shall be punished as she ought. Rejoice, O
+ye Shades[23], whose Bodies lie buried in the Plains of _Fontenoy_,
+where _British_ Colours were polluted by _Gallic_ Hands. WILLIAM your
+Avenger comes. The General in him shone forth in his first Campaign,
+and while a Youth, he managed War beyond his Years. Let not his Age
+therefore deter us from ranking him among our greatest Commanders. His
+Warlike Genius springs forth and outruns his Years, impatient of the
+sluggish Pace of Time. The _Swedish Charles_[24] was scarce beyond a
+Child when he crushed two mighty enemies at once; _Charles_[25] the
+_German_ Prince, yet but a Youth, what was he when he past the _Rhine_
+and terrified the Host of _France_? Thy Father's Genius, WILLIAM, and
+his Courage, shall inspire thy youthful Arms. With that Genius and
+that Courage shalt thou conquer. Such Beginnings dost thou owe to the
+mighty Name of thy illustrious Sire; that thou who art the Noblest of
+all young Commanders mayst hereafter become the first among the old.
+'Tis time to avenge the Injuries attempted to thy House, and to
+maintain thy glorious Father's Rights. Thy Country's Father and thy
+own, girts on thy Sword, and thy Cause is no less glorious than thy
+Arms. In both is _France_ inferiour, and to both shall yield. I
+prophesy, that thou shalt conquer, and to thy Conquest I dedicate my
+votive Prayers, prepared hereafter to resound thy Praise; when we
+shall see thee, most lovely Prince, returning, thy Glories far
+outshining the Gold in which thou art attired. Thee shall Crouds of
+Youths and beauteous Virgins hail from their crouded Windows as thou
+passest, and universal Joy shall overspread each _British_ Face on
+that Blest Day.
+
+If then, my Scholar, thou shouldst happen to be placed in a Window
+near some lovely Girl, who, fired with the Glories of the young
+Conqueror, should enquire into all his matchless Labours[26], his
+Wound at _Dettingen_; his Danger and Intrepidity at _Fontenoy_; his
+Toils at home, in defiance of Cold and Fatigue; his Pursuit to
+_Carlisle_; his Victory at _Culloden_; and many more which will then
+be as well known; repeat all if thou canst, and if thy Memory fails,
+go on nevertheless: for Invention cannot here outdo the Reality, and
+thy Fictions shall recommend thee equal with Truth to her Ears.
+
+Again, when thou dost sit down at table among the Women, thou may'st
+reap other Pleasures besides those of Wine: For, to speak
+figuratively, _Cupid_ with glowing Cheeks often presses the Horns of
+_Bacchus_ in his tender Arms; and the Wings of the little God of Love
+being wetted with Wine, he is unable to fly off: And if he happens to
+shake his wet Wings, he may possibly sprinkle the Bosom of your
+Mistress with Love.
+
+In more intelligible Language, Wine fills our Minds with Courage, and
+makes them susceptible of other warm Passions. Care flies away, and is
+dissolved in much Liquor. Then comes Laughter, the poor Man becomes
+bold, and Grief and Solicitude, and knitted Brows vanish. Then it is
+that Simplicity, a rare Virtue in our Age, opens our Hearts, Wine
+having divested us of Cunning. At this Season, many a watchful young
+Fellow hath gained the Heart of his Mistress[27]. And Love hath sprung
+from Wine, as the Flame doth from Fire.
+
+However, do not confide too much at this time to the Light of a
+Candle: for Night and Wine obstruct us in forming a true Judgment of
+Beauty. _Paris_ beheld the Goddesses in open Daylight, when he gave
+the Preference to _Venus_. Indeed by Candle-light, and in a Side-Box,
+almost every one is a Beauty: Jewels, Clothes, and Women, are all best
+discerned by the Light of the Sun.
+
+And here if I should recount all the rural Haunts in which a Lover may
+find his Game, I might write more Volumes than _Oldmixon_,
+_Tunbridge_, and _Scarborough_, and _Cheltenham_, and _Holt_, and many
+other Places shall be therefore omitted; but, Bath[28], thy sulphurous
+Waters must not be past by. Hence Master _Dapperwit_ bringing home the
+Wounds made by fair Eyes in his Bosom, cries out, on his Return, _The
+Waters are not so wholesome as they are reported; I have received more
+Harm than Good at the Place_.
+
+Here rises the Temple[29] of the God (CNASH) whose Walls are hung
+round with the Portraits of Beauties. The Apotheosis of this God hath
+cost many a poor Man his Heart.
+
+Thus far, my Scholar, I have endeavoured to instruct thee in what
+Places thou art to hunt for thy Game, and where to spread thy Net. I
+will now proceed to shew thee by what Means Puss is to be taken, when
+you have found her Sitting.
+
+_Mind all_, as my old Schoolmaster used to say; for I assure you my
+instructions will be worthy the Attention of both the Great Vulgar and
+the Small.
+
+My first Lesson then is: Be confident. Believe every Woman is to be
+come at. Do but spread your Net, and I warrant she runs into it.
+
+Sooner shall the Birds be silent in the Spring, or the Frogs in the
+Winter: Sooner shall the Greyhound run away from the Hare, than a
+Woman shall resist the Youth who gently assails her. Though she skrews
+up her Face ever so demurely, she will at length yield to his
+Persuasions.
+
+A dark Corner is as agreeable to a Girl, as to one of us, though we
+cannot so well dissemble our Desires as she can; but if we should once
+enter into a Confederacy against the Sex to leave off courting them,
+they would soon begin to act the Part of Lovers, and come a wooing to
+us.
+
+And what is this but a natural Affection, common to the Females of
+every other Species, who often make love to the Males? And give me
+leave to tell the Ladies, that we are more able to command our
+Affections, nor are our Desires so furious, and exceeding all Bounds,
+as theirs.
+
+The Story of _Byblis_[30] is too well known to be related, who being
+in love with her Brother, punished her Crime with her own Hands, and
+hanged herself in her Garters.
+
+Miss _Myrrha_[31] loved her Papa with an Affection improper for a
+Daughter; for which she was turned into a Tree. I do assure you the
+Story is true; and the Tree now drops continual Tears for her Offence,
+which we use as a Perfume; and they retain the Lady's Name.
+
+In the shady Valleys of _Ida_[32], there was a white Bull, which was
+the Glory of the Farmer to whom he belonged. This Bull had a beautiful
+black Speck between his Horns, all the rest of his Body being as white
+as Milk. With him the _Gnossian_ and _Cydonian_ Heifers were all in
+love, and eagerly longed to be embraced by him in the tenderest manner
+in which Bulls embrace the Fair Sex of Cows. _Pasiphae_, I am very
+sorry to say it, conceived a Passion worse, if possible, than that of
+Mrs. _Mary Hamilton_, for this Bull. Lady ---- is not more envied in
+the Drawing-Room than was every handsome Heifer by this unfortunate
+Woman. The Story is so well known that there is not a Freethinker[33]
+in the Age who can refuse his Credit to it, though they believe
+nothing which they cannot see and account for. This poor Girl is
+reported to have mowed the sweetest Grass with her own Hands for her
+beloved Bull. She likewise wandered about among the Cows, without the
+least Regard to Mr. Alderman. _Minos_ her Husband; for a Bull had
+totally supplanted him in her Esteem. Alas! _Pasiphae_, to what
+purpose are the brocaded Petticoats? Your Gallant is not sensible of
+your Finery. Why do you consult your Looking-Glass, in order to pursue
+the Mountain-Herds? Or why with so much Art do you set your _Tete_? If
+you will consult your Glass, let it inform you you are no Heifer. Ah!
+how desirous are you to have those Horns on your own Forehead, which
+you intend to graft on your Husband's! It would be better to preserve
+your Virtue, and be constant to the Alderman, if you can like him: But
+if you must make a Cuckold of him, do it at least with a young Fellow.
+No; nothing but a Bull will suffice. She leaves the Alderman's House,
+and flies away to the Groves and Mountains. To say the truth, I
+believe she used to drink away her Senses; and that is the best Excuse
+for her. Ah! how often hath she cast a jealous Eye on some Heifer! and
+cried out, _Why should that vixen please my Love? Behold, says she,
+how the Slut dances a Minuet on the Grass before him: Let me die, but
+she is silly enough to think her Airs become her in my Love's Eyes._
+At length she resolved to punish her Rivals. One Heifer she ordered
+barbarously to be yoked to the Plough; another she condemned to be
+sacrificed, and held the Entrails of the poor Victim in her Hand with
+all the insulting Triumph of a Rival: _Now_, says she, having the
+Entrails in her Hand, _now go and make yourself agreeable to my Dear_.
+At one time she wishes to be _Europa_[34], at another _Io_: for one of
+these was herself the Wife of a Bull, and the other made her Horse of
+one.
+
+Filled with these Thoughts, she contrived the strangest Method of
+compleating her Desires. She sent for a Joiner of great Ingenuity, and
+ordered him to make her a large Cow of Wood. Into this she conveyed
+herself, and thus deceived Master Bull into her Embraces.
+
+She conceived by this monstrous Coition, and brought forth an
+Offspring, which by his partaking equally of the human and taurine
+Form, betrayed her horrid Passion.
+
+If the _Cretan_ Lady[35] had abstained from the Love of _Thyestes_,
+(O! how Women disdain Constancy to their Husbands!) the Sun had not
+stopt in the middle of his Career, and turned about his Face to the
+East, that he might avoid the bloody Banquet. God be praised! the
+Cuckolds of our Age are not so bloody in their Revenge.
+
+The Daughter of _Nisus_[36], who stole her Papa's Hair, feeds hungry
+Dogs in those Parts which first set her a longing for _Minos_.
+
+_Agamemnon_, after returning safe from so many bloody Campaigns, and
+from the dangerous Seas which he crossed, fell at last a dreadful
+Victim to the Whore his Wife[37].
+
+Who hath not wept at the sad Story of _Creusa_? consumed by the Flames
+of a Sorceress, who afterwards drenched her Hands in the Blood of her
+own Children[38].
+
+_Phoenix_[39], the Son of _Amyntor_, hath often paid many a Tear for
+his Amours, though he had not the wretched Fate of _Hippolytus_[40],
+to be torn in pieces by wild Horses.
+
+And thou, O _Phineus_[41]! why dost thou indulge that Jade _Harpalice_
+by digging out the Eyes of thy Children? Believe me, Divine Vengeance
+will hereafter inflict the same Punishment on thyself.
+
+All these have been the Effects of Women's raging Desires, which are
+so much more violent and mad than ours.
+
+Come on then, and doubt not the Conquest of any Girl whatever: there
+is not one in a thousand who will deny you.
+
+And even those who will deny you, love to be put to the Question; if
+you are disappointed therefore, your Repulse will be attended with no
+Danger.
+
+But why should you apprehend any Disappointment, when every new Amour
+pleases them, and they all hanker after the Lovers and Husbands of
+other Women?
+
+This I am afraid is too natural in all things. The Corn in our
+Neighbour's Field seems always to flourish beyond our own, and we
+think our own Cow gives less Milk than his.
+
+However, before you attack any Lady, make first sure of her Maid; for
+she will pave the Way to your Addresses.
+
+If the Lady have many Females about her Person, take care to secure
+her who is most in the Confidence of her Mistress; and who will
+faithfully betray to you all her private Conversation.
+
+When you have found this Confidant out, corrupt her with Promises and
+Intreaties; for she can soon bring you to the End of your Desires, if
+she pleases.
+
+Let her watch the Opportunity, (Physicians will tell you the Use of
+attending proper Seasons) when the Mind of your Mistress is easy, and
+apt for your Purpose.
+
+This Season, I apprehend, is when she is in the best Humour; for Love
+then becomes luxuriant in her Mind, as Corn doth in a rich Soil.
+
+When the Heart is full of Gladness, and bound up by no Vexation, it
+is open; and then the Compliments of a Lover will easily find an
+Admission.
+
+Remember, _Troy_ was defended while it remained in a sullen Mood, and
+opened its Gates to the armed Horse, when it was full of Good-Humour,
+and drunk with Joy.
+
+Yet every Vexation should not deter you; for if your Mistress should
+be uneasy at the Falshood of her Husband, then is a proper time to
+attack her, and to assist her in revenging the Injury.
+
+When your Mistress is in this Humour, let _Abigail_ while combing her
+Hair at the Toilette in a Morning, stir her up to Vengeance. This will
+under-hand promote your Voyage; for while you openly manage your
+Sails, she works under the Water with her Oars.
+
+Now let Abigail with a soft Sigh mutter to her self: _Ah! poor Lady, I
+am afraid it is not in your power alone to revenge your Husband's
+Perfidy!_
+
+Then let her introduce a Discourse of you; let her say something in
+your Favour, and swear that you are gone distracted and dying for
+Love.
+
+But no Time must be lost; lest the Passions she hath raised should
+again subside; and Resentment intervene by Delay, and freeze up her
+Love as Ice doth Water.
+
+And here perhaps you will ask a Question, Whether it is prudent to
+kiss the Agent herself. This is not easy to answer: for it is a mere
+Cast of the Dye, whether you succeed the better of the worse for it.
+
+One Woman is by Enjoyment made a more industrious Solicitor, another
+becomes just the reverse. One thinks of procuring the Pleasures she
+hath tasted for her Mistress, another of securing them herself.
+
+The Event is doubtful; and though she may be easy enough to be had, my
+Advice is, abstain from the Confidant; for I will not imitate the
+Empyric in striking bold Strokes; nor will I lead my Scholars over a
+Precipice. I give no Advice but what is safe, nor shall any Youth by
+following my Precepts run himself into _Rosamond's Pond_.
+
+If therefore the Girl who goes between you and your Mistress, pleases
+you in her Person as well as in her Diligence; enjoy the Mistress
+first, and the Maid falls of course; but never begin with the latter.
+
+One thing however I must admonish you, (if my Art deserves any
+Credit, and my Words are to be regarded as any thing better than Wind)
+EITHER NEVER ATTEMPT THE CONFIDANT, OR GO THOROUGH STITCH WITH HER:
+for by making her _particeps criminis_ you take away her Evidence.
+
+This Doctrine you may learn from all other Sportsmen: for if a Bird
+escapes with Birdlime on his Wings, or a Boar breaks through the
+Toils, or a Fish gets off from the Hook; they are all sure to alarm
+their Companions, and spoil the Sport of the Fowler, the Hunter, or
+the Fisher. If once therefore you attempt her, press her to it with
+all your Vigour, and never leave her till you have enjoyed her.
+
+For when once she is involved in the same Guilt with yourself, you are
+sure she will not betray you. Nay, you may be assured further, that
+she will betray every Word and Action of her Mistress to you.
+
+But take particular care not to blab any of the Secrets she discloses
+to you: for while her Mistress hath no Suspicion of her Confidant, she
+will be able to lay her entirely open to your Knowledge.
+
+And now, to resume that Matter, believe me, he is deceived, who thinks
+that none but the Farmer and Mariner are obliged to regard the Season:
+for as it is not proper at all times to commit the Corn to the
+fallacious Fields, nor to trust your Vessel at all times to the green
+Ocean; so neither is it always safe to attack a tender Girl, for she
+will be taken at one time who will resist at another. If it be for
+instance her Birth-day[42], perhaps, her Grandmother hath instructed
+her to be particularly cautious on that day; so if it be the Day of
+the Week on which _Childermas_ hath happened to fall that Year; or
+King _Charles's_ Martyrdom: defer the attack at all such Seasons. For
+to speak in Sea-Language, then is dirty Weather[43], then it blows a
+Hurricane; and if you weigh Anchor at that Season, you will be scarce
+able to keep your keel downwards.
+
+Above all avoid your Mistress's Birth-day; nor will it be more prudent
+in you to visit her first on the Morning of _Valentine's_ Day[44], you
+will pay more for being her Valentine than it is worth. Indeed all
+Seasons which give them any Hint of receiving Presents should be
+carefully avoided: for be never so cautious and sneaking, have it of
+you she will. They all very well know the Art of squeezing a Lover who
+longs to squeeze them.
+
+Mr.[C] _Deards_ will make his Appearance in his Silk Night-Gown, and
+unbundle his Packet in your Presence. The Lady will then desire you
+to look over his Trinkets, (she can do no less, you know, in
+Compliment to your Taste:) then she will make you a Present of a Kiss,
+and afterwards desire you to buy it.
+
+[Note C: An eminent Joyner in _London_.]
+
+"I promise you, my Dear," says she, "if you will but buy me this
+single Jewel, I will not ask another of you the Lord knows how long;
+but I have really a present Occasion for this, and besides it is the
+cheapest Thing I ever saw."
+
+If you pretend to have no Money about you, the Answer is, O, my Dear,
+you may give your Note: Mr. _Deards_ will take your Note. So that you
+may repent having learnt to write your Name. Then she adds, _O la, I
+had almost forgot, it is my Birth-day, I am sure you will make me a
+Present on my Birth-day_: for they can be born every Day in the Year
+to serve their Purpose. Or else she pretends to have lost a Drop from
+her Ear-Ring; this Loss makes her miserable, and sure, says she, _if
+you loved me, you would repair that Loss_.
+
+Nay, some are not so honest as to desire a Present, they only borrow;
+but they are sure never to restore. By this Means you lose the Thing,
+without having the Merit of bestowing it.
+
+In short, if I had ten Mouths, with ten Tongues in each, all would not
+suffice to display all the Arts by which Harlots pick the Pockets of
+their Cullies.
+
+Begin then your Amour with an Epistle; let that break the Ice for you,
+and make the first Discovery of your Flame.
+
+In this you may insert all your little Blandishments, and Expressions
+of Fondness, nor be ashamed, however high your Quality is, to add the
+strongest Entreaties.
+
+Remember that many a Rebel's Son hath had his Life spared at the
+Supplication of his Father; nay, the Wrath of Heaven itself is often
+averted by Prayer.
+
+It is moreover my Advice to you, to be liberal of your Promises; for
+what Injury can you receive by Promising? This is a Treasure in which
+any Man may be rich.
+
+Nor can your Mistress complain that she is absolutely cheated, if you
+can bring her to believe your Promises. A lifely Faith hath supported
+many a Man for a long Time: For though our Faith may sometimes deceive
+us, it is however a great and commodious Virtue.
+
+Beware of giving: For when once your Mistress hath the Present in her
+Clutches, she may answer jilting you to her Prudence. She hath gained
+at least what she is in possession of, and cannot be said to have lost
+any thing by the Bargain.
+
+On the contrary, keep her still in Expectation. Seem always about to
+give, but never part with a Shilling: For in this Manner doth a barren
+Soil often deceive its Owner. Thus, that he may not be a Loser, the
+Gamester pushes on his ill Luck, and one flattering Throw makes him
+eager to have the Box again in his Hands.
+
+Indeed the great Business is to enjoy your Mistress before she hath
+touched you. If she once yield to you gratis, she will continue to
+bestow her Favours still gratis, in Hopes of being at last rewarded
+for all her past Favours.
+
+Epistolize therefore first; flatter and sooth her with tender Lines.
+Let these probe her Mind, and open the Way for your Addresses.
+
+You know the Story of _Cydippe_[45], who was outwitted by a Letter
+inclosed in an Apple; by which Means she was made to speak Words she
+never intended.
+
+I would advise the young Gentlemen of the _Temple_, to study the Arts
+of Persuasion, on other Accounts, besides that of defending
+Sheep-stealers at an Assizes: For a pretty Girl may be as easily
+captivated by Eloquence, as a Judge or Jury; and surely she is a much
+nobler Prize.
+
+But here conceal your Art, and do not carry your Eloquence in your
+Face: And above all Things, beware of hard Words; for who but an empty
+Coxcomb ever made a verbose Declamation to his Mistress? By such
+Methods you may raise her Abhorrence more probably than her Love.
+
+Let your Passion appear credible, and disclose it in easy and common
+Language; it may be as tender and warm as you please; but preserve the
+Stile of Conversation.
+
+If she should not receive your Letter, but send it back unopened, hope
+for better Success another Time, and maintain your Purpose.
+
+Time brings the Stubborn Steer to bend his Neck to the Yoke, and the
+Horse to endure the Bridle.
+
+Iron Bonds and Ploughshares are worn out by constant Use. What is
+harder than a Rock? or what is softer than Water? And yet hard Rocks
+are hollowed by soft Water.
+
+_Penelope_ herself in Time might have been conquered. You see _Troy_,
+though it defended itself so long, was however taken at last.
+
+If she reads your Letters, but is unwilling to answer them, do not
+attempt to compel her. If she but reads your Fondness, it is
+sufficient.
+
+If she will read, in Time she will answer what she reads. All these
+Matters will be brought about in their own good Time.
+
+Perhaps the first Answer she sends you will be a cruel one, and may
+desire you to quit all future Solicitations.
+
+She fears to be taken at her Word, and hopes you will not grant her
+Request. Follow her, and in Time you will obtain your Wishes.
+
+If you meet her Chair, and the Curtains should be drawn, approach it
+as it were by Accident; and when you discover her there, whisper
+something tender in her Ear; but whisper softly, lest the Chairman, or
+any other impertinent Person, should over-hear you.
+
+When she walks in the _Mall_, dangle after her, and interrupt her Walk
+with your Conversation.
+
+Here you will have an Opportunity of seeing her Shape, and shewing her
+yours, by sometimes walking behind, and sometimes before her.
+
+But for the most Part keep even pace with her, whether she trips along
+briskly, or only saunters.
+
+Sometimes she will take a longer Walk, as far perhaps as the second or
+Third Stone. Hither follow her, and take every Opportunity of getting
+up close to her Side.
+
+Never let her go to the Play without attending her: No Matter what the
+Play is, she will bring sufficient Entertainment for you with her.
+
+Here keep your Eyes always intent on her only, and admire every Thing
+about her. By your Eyes, and by Signs, you may inform her of many
+Things.
+
+Be sure to applaud greatly any amorous wanton Dance; and be no less
+favourable to those Scenes where the Business of Love is transacted,
+and almost brought to a Conclusion on the Stage: Many of which occur
+in _Congreve_, _Vanbrugh_, and _Wycherly_.
+
+If she rises between the Acts, rise also; if she sits, as sometimes
+Ladies do, to express their Contempt for the Audience, do you likewise
+keep your Seat. In a Word, conduct yourself entirely according to her
+Example and Pleasure.
+
+Now with regard to your Person: Do not imitate some finical _Petit
+Matre_ in his _Toupet_, much less in more detestable Effeminacies.
+
+Tuck your Hair rather under your Hat, like the rough Fox-hunter, who
+traverses Hill and Dale to the Musick of the Horn.
+
+A careless Air in Dress becomes a Man. Colonel _Theseus_[46] carried
+off Miss _Ariadne_ in a Campaign Wig without a single Curl in it.
+
+In the same Manner did Captain _Hippolytus_ march off with Miss
+_Phaedra_, though his Shock Head of Hair never had any Powder in it:
+nay, Lady _Venus_ herself chose young _Jack Adonis_ in a Jockey Coat
+and Buckskin Breeches.
+
+Cleanliness however is agreeable: Let your Face be burnt with the Sun;
+but let your Cloaths be well made, and without a Spot on them.
+
+Wash your Mouth, and clean your Teeth often; let your Beard be close
+shaved, and your Nails short and free from Dirt.
+
+Observe these Documents, and leave all other Niceties to the Women,
+and to Men who desire to supply their Places.
+
+But now _Bacchus_ summons his Poet. He likewise assists Lovers, and
+favours the Flame which warms himself.
+
+The _Cretan_ Lady having jumped out of Bed in a raving Fit, wandered
+on the foreign Shore of _Dia_. She had nothing on but a loose wrapping
+Gown, without Stockings or Cap: and her Hair hung dishevelled over her
+Shoulders. She complained of the Cruelty of _Theseus_ to the deep
+Waves, whilst an unworthy Shower of Tears ran down her Cheeks. She
+wept, and lamented aloud, and both became her; nor did her Tears
+diminish her Beauty. Once, and again, she beat her delicious Breasts
+with her Hands, and cried aloud, _The perfidious Man hath abandoned
+me; What will become of poor _Ariadne_? What will become of poor
+_Ariadne_?_ On a sudden a vast Multitude was heard, while many Kinds
+of strange Instruments, like those of the miserable Masons,
+accompanied the Voices. The poor Lady sunk with Fear; and suppressed
+her last Words; nor did the least Blood remain in her Countenance. And
+now behold the _Bacchanalian_ Women, with their Hair about their Ears,
+and the light Satyrs, who are always Forerunners of the God. Behold
+old Master _Silenus_[47] as drunk as a Piper, riding on an Ass, which
+he is hardly able either to sit or guide. The old Gentleman,
+endeavouring to follow the _Bacchanalians_, who fly from him and
+towards him, sets Spurs to his Ass, which being a vicious Beast,
+kicked up, and threw him over his Ears: upon which all the Satyrs set
+up a loud Shout, crying out, _Rise, Father, rise and be d----nd to
+you_. And now the God himself, high mounted on his Four-Wheel Chaise,
+the Top of which was adorned with Grapes, and which he drove himself,
+flung his Golden Reins over the Backs of his Pair of Tygers. Poor
+_Ariadne's_ Colour forsook her Cheeks, and _Theseus_ and her Voice at
+once deserted her Lips. Thrice she attempted to fly, and thrice being
+retained, she grew stiff with Fear, and stood trembling as Corn waves
+in the Field, or Reeds on the River Bank, when fanned by the Wind. To
+whom the God; _Behold, Madam, a more faithful Lover at your Feet: Fear
+nothing, Lady fair, you shall be the Wife of _Bacchus_. The Sky shall
+be your Dowry, where shining in a bright Constellation, by the Name of
+_Ariadne's_ Crown, you shall often direct the doubtful Mariner's
+Passage._ He said; and leaping from his Chariot, lest _Ariadne_ should
+be afraid of the Tygers, the Sand sunk under the Weight of his Feet;
+and catching her instantly in his Arms, he carried her, who was
+incapable of scratching, directly off; (for every Thing, we know, is
+in the Power of a Deity:) And now, whilst Part of his Train sing the
+_Hymenaeum_, and other cry _Evie Evoe_, two very mysterious Words, and
+full of Masonry, the God and his new-ravished Bride go together,
+between a Pair of sacred Sheets.
+
+Whenever therefore you happen to be in Company with a pretty Girl over
+a Bottle, pray heartily to _Bacchus_, and invoke his nocturnal Rites,
+that the Wine may not get into your Head. You may now take an
+Opportunity to toast some Nymph by a fictitious Name, of whom you may
+say an hundred amorous Things; all which, with the least Assistance,
+she will readily apply to herself. Double Entendres likewise may be
+used. You may moreover draw certain Figures in Wine on the Table; and
+after having spoken of your Mistress in the third Person, you may take
+this Method of writing her Name, and convincing her, that she herself
+is the Goddess.
+
+But let your gloating Eyes inform her of your Passion: for an
+expressive Countenance often finds both Words and Utterance.
+
+When she drinks, receive the Cup from her; and let her see you
+industrious to find out the Place before pressed by her Lips; and then
+drink eagerly at the same.
+
+And whatever Part of the Meat she shall touch with her Fingers, do not
+fail to give the Preference to that: if in catching at it, you touch
+her Hand into the Bargain, it is the better.
+
+But above all Things, let it be your Endeavour to please her Keeper,
+if she have any: For to make a Friend of him will be very useful to
+you both.
+
+When you are at Table, let him be always helped first, and to the most
+elegant Tid-Bit; and when you drink together, offer him always the
+Place of Toast-maker; whether he be your Inferiour or your Equal, let
+him always choose before you, and be not ashamed to trowel him well
+over with Flattery.
+
+It is a safe and common Way to deceive under Pretence of Friendship; I
+must own, however safe and common it is, it is not altogether
+blameless.
+
+This is indeed a Dishonesty not very unlike that of a Major Domo, who
+under the Colour of Friendship empties your Cellars of your Wine, by
+pushing the Bottle further than is necessary.
+
+Now to fix a certain Stint to your Cups, I allow you never to drink
+till your Head becomes giddy, and your Feet begin to totter.
+
+Beware of Quarrels, which are often occasioned by Wine. Let not your
+Hands be too ready to strike in your Cups.
+
+Remember the old Story of the Wedding of _Pyrothous_[48] and many more
+where drunken Fools by being quarrelsome in their Liquor have come
+short home. A Drinking Bout is in Reality a properer Scene for Joke
+and Mirth, than for Fighting.
+
+I proceed to other Lessons[49]. If you have a Voice, then sing; if you
+have handsome Legs, cut Capers, or slide into the Minuet Step. In
+short, endeavour to please your Mistress, by exerting those Talents in
+which Nature hath given you to excel.
+
+Now, as real Drunkenness may be hurtful to you, so you may sometimes
+reap Advantages by pretending yourself in Liquor, by Stammering or
+Lisping a little slyly: For then if you should descend to some
+Expressions of the grosser Kind, it will be imputed to your having
+taken a Cup too much.
+
+Drink Bumpers to the Health of your Mistress, and of the Gentleman
+with whom she is obliged to sleep; but I do not insist on your being
+extremely sincere on this Occasion: for you may heartily wish him
+hanged at the same Time, if you please.
+
+When the Company rises to go away, there is always a Confusion in the
+Room, of which you may take Advantage. You may then creep close up to
+your Mistress, may perhaps palm her, and gently tread on her Toes.
+
+Whenever you have an Opportunity of speaking to her privately, be not
+bashful like a Country Boobily Squire. Remember Fortune and Love both
+favour the Bold.
+
+I do not intend to lay down any Rules for your Oratory on this
+Occasion. Do but begin boldly, and you will be Eloquent of course: Set
+this only before you, that you are to act the Part of a Lover, to talk
+of Wounds and Darts, and Dying and Despair, and all that, as Mr.
+_Bayes_ says: For if you can once make her believe you are in Love,
+your Business is done. To create therefore this Faith in her, you
+must employ every Art of which you are Master.
+
+Nor is this indeed so difficult a Task: For every Woman believes
+herself to be the Object of Love; be she never so ugly, she is still
+amiable in her own Eye.
+
+Sometimes indeed no Deceit is in the End put on the Woman, for her
+pretended Lover becomes often a real one, and is the very Creature
+which he before personated.
+
+And by the Way, young Ladies, let me tell you this is no small
+Encouragement to you, to countenance such Pretences; for if you manage
+well, you may often inspire a Man with Love in Earnest, while he is
+endeavouring to impose a fictitious Passion upon you.
+
+But to return to my Scholars. Flatter with all your Might: for the
+Mind is taken as it were by Stealth, by Flattery, even as the Bank
+which hangs over a River is undermined by the liquid Waves.
+
+Never be weary therefore of commending her Face, or her Hair; her
+taper Arm, or her pretty little Foot.
+
+The chastest Matrons are fond of hearing the Praises of their Beauty;
+and the purest Virgins make the Charms of their Persons at once their
+Business and their Pleasure.
+
+What else is meant by that ancient Fable of _Juno_ and _Pallas_, whom
+the _Greek_ Poets represent as yet ashamed of the Conquest obtained by
+_Venus_.
+
+This Vanity seems to extend itself to Animals, in many of which we may
+observe some Traces of it.
+
+The peacock, if you seem to admire her, spreads forth her Golden
+Plumes, which she never displays to an indifferent Spectator.
+
+The Race-Horse, while he is running for a Plate, enjoys the Beauties
+of his well-combed Mane, and gracefully turned Neck.
+
+Secondly, to Flattery, add Promises, and those not timorous nor
+sneaking ones. If a Girl insists upon a Promise of Marriage, give it
+her, and bind it by many Oaths[D]; for no Indictment lies for this
+sort of Perjury.
+
+The Antients vented horrid Impieties on this Occasion, and introduced
+_Jupiter_ shaking his Sides at the Perjuries of Lovers, and ordering
+the Winds to puff them away: Nay, he is said to have forsworn himself
+even by _Styx_ to _Juno_: and therefore, say they, he encourages Men
+to follow his Example.
+
+[Note D: This is the most exceptionable Passage in the whole Work. We
+have endeavoured to soften it as much as possible; but even as it now
+stands, we cannot help expressing Detestation of this Sentiment, which
+appears shocking even in a Heathen Writer.]
+
+But though a Christian must not talk in this Manner, yet I believe it
+may be one of those Sins which the Church of _Rome_ holds to be
+venial, or rather venal.
+
+I would here by no Means be suspected of Infidelity or Profaneness. It
+is necessary there should be a God; and therefore we must believe
+there is; nay, we must worship him: For he doth not possess himself in
+that indolent State in which the Deities of _Epicurus_ are depictured.
+If we live innocent Lives, we may depend on the Care of his
+Providence.
+
+Restore faithfully whatever is deposited in your Hands: Be just in all
+your Contracts: Avoid all Kind of Fraud, and be not polluted with
+Blood. A wise Man will be a Rogue only among the Girls: For in all
+other Articles a Gentleman will be ashamed of breaking his Word.
+
+And what is this more than deceiving the Deceivers? The Sex are for
+the greatest Part Impostors; let them therefore fall in the Snares
+which they have spread for others.
+
+Perhaps you have never read the Justice of _Busiris_; when Egypt was
+burnt up Nine Years together for want of Rain, one _Thrasius_ a
+Foreigner came to Court, and being introduced to the King by
+_Clementius Cotterelius_, he acquainted his Majesty, that _Jupiter_
+was to be propitiated by the Blood of a Stranger. The King Answered
+him, _Then thou thyself shalt be the first Victim, and with thy
+foreign Blood shalt give Rain to Egypt_.
+
+To the same Purpose is the Story of _Phalaris_, who roasted the Limbs
+of _Perillus_ in his own Bull: Thus making Proof of the Goodness of
+the Work by the Torments of the unhappy Maker.
+
+Now there was great Justice in both these Examples; for nothing can be
+more equitable than that the Inventers of Cruelty should perish by
+their own Art.
+
+To apply this to our present Purpose: As there is no Deceit or Perjury
+which Women will stick at putting in use against us, let them lament
+the Consequence of their own Examples.
+
+Thirdly, Tears are of great Service. The Proverb tells you, _Tears
+will move Adamant_. If you can bring it about therefore, let your
+Mistress see your Cheeks a little blubbered upon Occasion.
+
+If Tears should refuse to come (as they sometimes will) an Onion in
+your Handkerchief will be of great use.
+
+Fourthly, Kisses. What Lover of any Sense doth not mix Kisses with his
+tender Expressions! Perhaps she will not give them easily: No Matter,
+take them without her Leave.
+
+Perhaps she will scratch, and say you are rude: Notwithstanding her
+Scratches, she will be pleased with your getting the better.
+
+Do this, however, in so gentle a Manner, that you may not hurt her
+tender Lips; nor let her complain of being scrubbed with your Beard.
+
+Now when you have proceeded to Kisses, if you proceed no farther, you
+may well be called unworthy of what you have hitherto obtained. When
+you was at her Lips, how near was you to your Journey's End! If
+therefore you stop there, you rather deserve the Name of a bashful
+'Squire than of a modest Man.
+
+The Girls may call this perhaps Violence; but it is a Violence
+agreeable to them: For they are often desirous of being pleased
+against their Will: For a Woman taken without her Consent,
+notwithstanding her Frowns, is often well satisfied in her Heart, and
+your Impudence is taken as a Favour; whilst she who, when inclined to
+be ravished, hath retreated untouched, however she may affect to
+smile, is in reality out of Humour.
+
+Ravishing is indeed out of Fashion in this Age; and therefore I am at
+a Loss for modern Examples; but antient Story abounds with them.
+
+Miss[50] _Phoebe_ and her Sister were both ravished, and both were
+well pleased with the Men who ravished them.
+
+Though the Story of _Deidamia_ was formerly in all the _Trojan_
+News-Papers, yet my Reader may be pleased to see it better told.
+
+_Venus_ had now kept her Word to _Paris_, and given him the Beauty she
+had promised, not as a Bribe, but as a Gratification for his having
+made an Award in her Favour, in the famous Cause between _Juno_ and
+others against _Venus_, in _Trover_ for a Golden Apple; which was
+referred to him at the Assizes at _Ida_.
+
+_Paris_, every one knows, no sooner had received Mrs. _Helen_, than he
+immediately carried her off to his Father's Court.
+
+Upon this the _Grecians_ entered into an Association; and several
+Noblemen raised Regiments at their own Expence, out of their Regard to
+the Public: For Cuckoldom was a public Cause, no one knowing whose
+Turn it would be next.
+
+Lieutenant-General _Achilles_, who was to command a large Body of
+Grenadiers, which the _Greeks_ call _Myrmidons_, did not behave
+handsomely on that Occasion, though he got off afterwards at a
+Court-Martial by pleading, that his Mother (who had a great deal in
+her own Power) had insisted on his acting the Part he did; for, I am
+ashamed to say, he dressed himself in Women's Clothes, and hid himself
+at the House of one _Lycomedes_, a Man of good Fortune in those parts.
+
+_Fie upon it, General, I am ashamed to see you sit quilting among the
+Girls; a Sword becomes your Hands much better than a Needle._
+
+_What can you mean by that Work-Basket in a Hand by which Count
+_Hector_ is to fall? Do you carry that Basket with you to put his Head
+in?_
+
+_For Shame then, cast away your Huswife, and all those effeminate
+Trinkets from a Fist able to wield _Harry_ the Fifth's Sword._
+
+It happened, that at the same Time when the General, at the House of
+'Squire _Lycomedes_, performed this Feat, Miss _Deidamia_, one of the
+Maids of Honour, was visiting at the same Place. This young Lady soon
+discovered that the General was a Man; for indeed he got her
+Maidenhead.
+
+He ravished her, that is the Truth on't; that a Gentleman ought to
+believe, in Favour of the Lady: But he may believe the Lady was
+willing enough to be ravished at the same Time.
+
+When the General threw away his Needle, and grasped the Armour, (you
+must remember the Story, for it was in the _Trojan Alamain_) the young
+Lady began to change her Note, and to hope he would not forsake her
+so.
+
+_Ah! little _Mia_! is this the Violence you complained of? Is this the
+Ravisher you are afraid of? Why with that gentle Voice do you solicite
+the Author of your Dishonour to stay with you?_
+
+To come at once to the Moral of my Story; as they are ashamed to make
+the first Advances, so they are ready to suffer whatever a pushing Man
+can do unto them.
+
+As for those pretty Master-Misses, the _Adonis's_ of the Age, who
+confide in their own Charms, and desire to be courted by the Girls;
+believe me, they will stay long enough before they are asked the
+Question.
+
+If you are a Man, make the first Overtures: Remember, it is the Man's
+Part to address the Fair; and it will be her's to be tenderly won.
+
+Be bold then, and put the Question; she desires no more than to have
+the Question put; and sure you will not deny your own Wishes that
+Favour.
+
+_Jupiter_ himself went a courting to the Heroines of old: For I never
+heard of any Girl who courted him.
+
+But if you find Madam gives herself any immoderate Airs at your
+Proposal, it will then be good to recede a little from your
+Undertaking, and to affect to sheer off: For many of them, according
+to the Poet,
+
+    _Pursue what flies, and fly what doth pursue._
+
+A short Absence will soon cure her Disdain.
+
+It may be proper likewise to conceal your intentions a little at
+first, and make your first Advance under the Pretence of _Platonic_
+Friendship.
+
+I have known many a Prude taken under these false Colours; and the
+_Platonic_ Friend hath soon become a happy Lover.
+
+And now as to your Complexion; for believe me, this is a Matter of
+some Consequence: Though I would not have you effeminate, yet I would
+have you delicate.
+
+A fair Complexion in a Tar is scandalous, and looks more like a
+Borough Captain or one of those fresh-water Sailors, who have so much
+dishonoured our Navy. The Skin of a Seaman ought to be rough, and well
+battered with Winds and Waves.
+
+Such likewise ought to be the Face of a Fox-hunter, who ought not to
+fear Rain or Easterly Winds: And the fame becomes the Soldier.
+
+But let the Soldier of _Venus_ look fair and delicate; nay, if your
+Complexion inclines to Paleness, so much the better; for this will be
+imputed by every young Girl to Love.
+
+Young _Orion_[51] with a pale Countenance wandered through the Groves,
+being sick with the Love of Lyrice: And the same Effect had the Love
+of _Nais_ upon the Countenance of _Daphnis_[52]; two Lovers very
+famous in Antiquity.
+
+Leanness is another Token of a Lover; to obtain which, you need not
+take Physick; sitting up all Night; and writing Love-Letters, will
+bring this about.
+
+Be sure to look as miserable as possible; so that every one who sees
+you, may cry, _There goes a Lover_.
+
+And here shall I lament the Wickedness of Mankind, or only simply
+observe it to you? But in Reality all Friendship and Integrity are
+nothing more than Names.
+
+Alas! It is dangerous to be too prodigal in the Praises of your
+Mistress, even to your Friend; for if he believes you, he becomes your
+Rival.
+
+It is true there are some old Stories of faithful Friends: _Patroclus_
+never made a Cuckold of _Achilles_; and _Phaedra's_ Chastity was never
+attempted by _Pirithous_.
+
+_Pylades_ loved _Hermions_, who was his Friend's Wife; but it was with
+the pure Love of a Brother: And the same Fidelity did _Castor_
+preserve towards his Twin-Brother _Pollux_.
+
+But if you expect to find such Instances in these degenerate Days, you
+may as well have Faith enough to expect a Pine-Apple from a Pear-Tree,
+or to hope to fill your Bottle with _Burgundy_ from the River.
+
+I am afraid we are grown so bad, that Iniquity itself gives a Relish
+to our Pleasures; and every Man is not only addicted to his Pleasures,
+but those are the sweeter, when season'd with another's Pain.
+
+It is in short a terrible Case, that a Lover ought to fear his Friend
+more than his Enemy. Beware of the former, and you are safe.
+
+Beware of your Cousin, and your Brother, and your dear and intimate
+Companions. These are the Sort of Gentry, from whom you are to
+apprehend most Danger.
+
+Here I intended to have finished; but one Rule more suggests itself.
+
+You are to note then, that there is a great Variety in the Tempers of
+Women; for a thousand different Women are to be wooed a thousand
+different Ways.
+
+Mr. _Miller_ will tell you, that the same kind of Soil is not proper
+for all Fruits. One produces good Carrots, another Potatoes, and a
+third Turneps. Now there is as great a Variety of Disposition in the
+human Mind, as there are Forms in the World: For which Reason a
+Politician is capable of accommodating himself to innumerable Kinds of
+Tempers: Not _Proteus_ could indeed diversify himself more Ways than
+he can.
+
+Nay you may learn this Lesson from every Fisherman; for some Fish are
+to be taken with one Bait, and some with another; others will scarce
+bite at any, but are however to be drawn out of the Water by a Net.
+
+One good Caution under this Head, is to consider the Age of your
+Mistress: Old Birds are not taken with Chaff; and an old Hare will be
+sure to double.
+
+Again, consider Circumstances. Do not frighten an ignorant Woman with
+Learning, nor a poor Country Girl with your fine Cloathes; for by
+these Means you will create in them too great an Awe of you. Many a
+Girl hath run away frighted from the Embraces of the Master, and
+afterwards fallen into the Clutches of his Footman.
+
+And here we will now cast our Anchor, having finished the first Part
+of our intended Voyage.
+
+_FINIS_
+
+
+
+
+FOOTNOTES
+
+
+[Footnote 1: Here _Ovid_ uses the Examples of _Automedon_, who was the
+Coachman of _Achilles_; and of _Tiphys_, who was Pilot or Steersman to
+the _Argonauts_.]
+
+[Footnote 2: This is a literal Translation; by which it appears this
+barbarous Custom of whipping Boys on the Hands, till they look as if
+they had the Itch, was used by the _Roman_ Schoolmasters as well as by
+ours.]
+
+[Footnote 3: The Original introduces _Achilles_, who was the pupil of
+_Chiron_.]
+
+[Footnote 4: In the Original,--_held forth at his Master's Commands
+those Hands to be whipt, which_ Hector _was hereafter to feel_. The
+Indelicacy of which Image we have avoided applying to our _British_
+Hero.]
+
+[Footnote 5: _Both born of a Goddess._]
+
+[Footnote 6: This is transferred, we hope not improperly from _Roman_
+to _British_ Superstition. The _Latin_ alludes to Augury, and very
+justly ridicules the Folly of Divination by the Flight of Birds.]
+
+[Footnote 7: _Nor were_ Clio _or her Sisters seen by me, while I
+tended a Flock in the Valleys of Ascra._ This _Ascra_ was a Valley
+near the _Helicon_, which was the Residence of the Parents of
+_Hesiod_. Now _Hesiod_ was fabled, whilst he was keeping his Father's
+Sheep, to have been led by the Muse to the Fountain _Hippocrene_; and
+being, I suppose, well ducked in that Water, commenced Poet.]
+
+[Footnote 8: This whole Passage is a manifest Burlesque on the
+Invocations with which the Ancients began their Poems. Not very
+different is that Sneer at the Beginning of the _Metamorphosis_,
+
+    ---- _Dii, caeptis_, (NAM VOS MUTASTIS ET ILLAS)
+    _Adspirate_ ----
+
+But the strongest Piece of Burlesque of this kind is the Invocation to
+_Venus_ at the Beginning of _Lucretius_: For what can be more so than
+a solemn Application to a Deity for her Assistance in a Work, the
+professed Intention of which is to expose the Belief of any Deity at
+all; and more particularly of any Concern which such superior Beings
+might be supposed to take in the Affairs of Men. For my own part, I
+must confess, I cannot perceive _that graceful Air of Enthusiasm_
+which a noble Author observes in the Invocation of the Antients; many
+of them indeed seem to have been too apparently in jest, to endeavour
+to impose on their Readers, and in reality to apply to the Muses with
+less Devotion than our modern Poets, many of whom perhaps believe as
+much in those Deities as in any other.]
+
+[Footnote 9: _Ovid_ would here insinuate, that the Courtezans only
+were the Subjects of the ensuing Poem; and in his _Tristibus_ he cites
+these Lines, and pleads them in his Defence: But he is not over-honest
+in his Profession; for in many Parts it appears, that his Instructions
+are calculated for much more than _concessa furtia_.]
+
+[Footnote 10: _Andromeda_ was the Daughter of _Cepheus_ King of
+_Aethiopia_ and of _Cassiope_. Her Mother having offended the
+_Nereids_, by contending with them for Superiority in Beauty,
+_Neptune_, at their Petition, sent a Sea-Monster, which greatly
+annoyed the _Aethiopians_. Upon this they consulted the Oracle of
+_Jupiter Ammon_, who ordered them to expose one of the Progeny of
+_Cepheus_ and _Cassiope_ to be devoured by the Monster. _Andromeda_
+was accordingly ty'd to a Rock, where she was espied by _Perseus_, who
+killed the Monster, and rescued the Lady; for which he received her at
+the Hands of her Parents as his Reward. The Story is told in the 4th
+Book of the _Metamorphosis_.]
+
+[Footnote 11: _Bunches of Grapes in _Methymna__; a City of _Lesbia_,
+the Wine of which Country was famous among the Ancients.]
+
+[Footnote 12: _Ears of Corn in _Gargara__; which was in _Mysia_, a
+Province of the _Hellespont_.]
+
+[Footnote 13: The Original is, _And the Mother of _AEneas_ resides in
+the City of her Son._ _AEneas_, from whom the Romans derived their
+Original, was the Son of _Venus_ by _Anchises_.]
+
+[Footnote 14: The Original, rendered as literally as possible, is as
+follows: _Walk at your ease under the _Pompeian_ Shade, when the Sun
+enters the _Herculean_ Lion; or where the Mother hath added her
+Benefactions to those of her Son; a work rich in foreign Marble: Nor
+avoid that Portico adorned with ancient Pictures, which is called
+_Livia_, from the Name of its Founder: nor that adorned by the Statues
+of the _Belides_, who attempted the Lives of their unfortunate
+Cousins; and where you see the cruel Father standing with his drawn
+Sword: Nor pass by the Temple of _Venus_ and her lamented_ Adonis;
+_nor omit the Seventh-Day Festivals of the _Jews_; nor the _Egyptian_
+Temples of the _Linnen-clad_ Heifer: She makes many Women to be that
+which she herself was to _Jupiter_._
+
+To explain these several Particulars to an _English_ Reader, it must
+be known, that the Portico's in _Rome_ were the publick Walks; and
+here Persons of both Sexes used to assemble. Among these was one built
+by _Pompey_. The second Portico mentioned, is by the best Commentators
+understood of the _Octavian_, which was built by _Octavia_, Sister to
+_Augustus_, and Mother to _Marcellus_; and this adjoined to a Temple
+built by the same _Marcellus_. The third Portico was built by _Livia_
+the Wife of _Augustus_, and called from her Name. The fourth, where
+the Picture of the _Belides_ was, is to be understood of the Portico
+of _Apollo Palatinus_, in which were the Statues of the fifty
+Daughters of _Danaus_ and Grandaughters of _Belus_. These being
+married to the fifty Sons of their Uncle _AEgyptus_, every one, by her
+Father's Command, slew her husband on the first Night, save only
+_Hypermnestra_. For this they were punished in the lower World, by
+being obliged to fill a Barrel full of Holes with Water. _Scaliger_
+and others have here made a mistake, supposing the Picture of the
+_Belides_ was here hung up: But the contrary appears by many
+Authorities, particularly by this in _Qv. Trist. 3_.
+
+    _Signa peregrinis ubi sunt alterna columnis,
+        Belides, & stricto barbarus ense pater._
+
+It appears that the Number of Pillars was equalled by the Number of
+Statues. 5thly, The Temple of _Venus_, in which she was worshipped,
+together with _Adonis_, after the _Assyrian_ manner. This _Adonis_ was
+the Son of _Cinyras_ King of _Cyprus_, begotten by him on his own
+Daughter _Myrrha_. The Fame of his Beauty, and the Passion which
+_Venus_ bore towards him, are well known. 6thly, The _Jewish_
+Synagogues. The _Jews_ having been encouraged by _Julius Caesar_, were
+very numerous in _Rome_ at that time; and the Strangeness and Pomp of
+their Ceremonies inviting the Curiosity of the _Roman_ Ladies, their
+Synagogues became famous Places of Intrigue. 7. The Temple of _Isis_.
+This Goddess, when a Woman, was called _Io_. She was the Daughter of
+_Inachus_; and being beloved by _Jupiter_, was by him, to preserve her
+from his Wife's Jealousy, turned into a Heifer, _Juno_ suspecting the
+Fact, obtained this Heifer of her Husband, and set Argus to watch over
+her. _Jupiter_ wanting to visit his old Friend, sent _Mercury_ to kill
+_Argus_; in revenge of which, _Juno_ ordered a Gad-Bee to sting the
+poor Heifer; which thereupon growing mad, ran to _Egypt_, where she
+was again restored to the Shape of a Woman, and married to _Osiris_.
+The Feast of _Isis_ was celebrated in _Rome_ ten Days together by the
+Women, and was a time of Carnival among them.]
+
+[Footnote 15: In _Caesar's Forum_, which was built on the _Appian_
+Way, was the Temple of _Venus Genetrix_.]
+
+[Footnote 16: Races were run at _Rome_ in _April_ in the _Circus
+Maximus_, which was likewise the Scene of many other public Exercises
+and Shews.]
+
+[Footnote 17: _And when the Procession shall pass on with the Ivory
+Deities, do you applaud most the Statue of _Lady_ Venus._ Thus the
+Original. The Paraphrase preserves the same Sense, though in other
+Circumstances. These Statues were carried in Procession on many
+Occasions, particularly at the _Maegalesian_ Games.]
+
+[Footnote 18: _Adjusting her cushion._]
+
+[Footnote 19: _Putting a Foot-stool under her._]
+
+[Footnote 20: The Original mentioned the Fights of the _Gladiators_.
+The Paraphrase comes as near as our Customs admit; for the _British_
+Ladies never attend to see Men kill one another in jest.]
+
+[Footnote 21: _Augustus Caesar_ among other rich Shews, with which he
+entertained the People, exhibited to them a Sea-Fight in a Place dug
+on purpose near the banks of the _Tyber_. The Poet takes this occasion
+of introducing many Compliments to the Grandson of this Prince. We
+have done little more than altered Names in this Place; and as we are
+assured all here said is as properly applicable to the noble Person to
+whom we have transferred it, the learned Reader will admire that any
+Passage in an antient Author can be so apposite to the present Times,
+and the true _English_ Reader will be no less delighted to see _Ovid_
+introduced as singing forth the Praises of the _British Hero_.]
+
+[Footnote 22: _Parthia._]
+
+[Footnote 23: The _Crassi_.]
+
+[Footnote 24: _Hercules._]
+
+[Footnote 25: _Bacchus._]
+
+[Footnote 26: The Original here described the many Nations who are led
+Captives.]
+
+[Footnote 27: Here we have inverted the Original; but sure the Sense
+upholds us in so doing.]
+
+[Footnote 28: _Baiae_, a Place not far from _Naples_, famous for
+wholesome as well as pleasant Baths. It is described very largely by
+_Diodorus_; and _Horace_ mentions it as the pleasantest Place in the
+World.]
+
+[Footnote 29: In the Original, the Temple of _Diana_ in the Suburbs.
+It stood in a Grove not far from Rome. The next Line, _Partaque per
+gladios, &c._ alludes to a very singular Custom, by which the Priests
+of this Temple succeeded to each other, _viz._ by Conquest in single
+Combat, for which every Slave or Fugitive was admitted to contend, and
+the Victor was rewarded with the Priesthood. This Practice was renewed
+every Year, and was, as _Strabo_ informs us, originally taken from the
+_Scythians_.]
+
+[Footnote 30: _Byblis_ fell in love with her Brother _Caunus_; and
+upon his rejecting her Addresses, hanged herself. The Poets feign she
+was afterwards turned into a Fountain. See _Metam._ IX.]
+
+[Footnote 31: _Myrrha_ was the Daughter of _Cinyras_, who being in
+love with her Father, took an Opportunity, while her Mother was
+employed in the Sacrifices to _Ceres_, to supply her Place. Her Father
+discovering the Imposture, ran after her with a drawn Sword to kill
+her: But she escaped by means of the Night, and fled into _Sabeaea_.
+She was changed into the Myrrh-Tree. The Story of which is in _Metam._
+X. But though the Poets have subjoined Fable to this Fact, it is
+related by _Pliny_ as a true History.]
+
+[Footnote 32: _Pasiphae_ was the Daughter of the Sun, married to
+_Minos_ King of _Crete_. The Poets feign that being in love with a
+Bull, she employed _Daedalus_, a famous Artist, to make her a wooden
+Cow, into which she conveyed herself, in order to enjoy her monstrous
+Desires. From this unnatural Coition sprung the _Minotaur_, a Monster
+half Man and half Bull, which was enclosed in a Labyrinth, and
+afterward destroyed by _Theseus_.]
+
+[Footnote 33: The Original alludes to the _Cretans_, who were famous
+among the Antients for the Vice of lying.]
+
+[Footnote 34: _Europa_ was the Daughter of _Agenor_ King of _Cydon_,
+beloved by _Jupiter_, and by him run away with in the Shape of a
+Bull.]
+
+[Footnote 35: _AErope_ was the Wife of _Atreus_. She committed
+Adultery with her Husband's Brother _Thyestes_, by whom she had two
+Sons, whom _Atreus_ caused to be killed, and served up to his
+Brother's Table. To avoid this Sight, the Sun is said to have gone
+backward.]
+
+[Footnote 36: _Scylla_ the Daughter of _Nisus_, King of the
+_Megarensians_, fell in love with _Minos_, while he was besieging her
+Father's City. She stole away her Father's Hair, on which the Fate of
+the City depended, and carried it to _Minos_; for which Fact she was
+rewarded by her Lover with Contempt only. She is by some said to have
+been changed into a Lark: But _Ovid_, who here seems to confound two
+Stories together, makes her Transformation to have been into a Rock,
+which lies between _Sicily_ and _Italy_; where the dashing of the
+Waves against the Rock representing the Sound of the Barking of Dogs,
+gave rise to the Fable which is here hinted at.]
+
+[Footnote 37: _Clytemnestra_, the Wife of _Agamemnon_, who in the
+absence of her Husband committed Adultery with _AEgysthus_, and with
+him afterwards murdered _Agamemnon_, at his Return from _Troy_.]
+
+[Footnote 38: _Creusa_ was the Daughter of _Creon_ King of _Corinth_,
+and second Wife to _Jason_; to whom _Medea_, enraged with _Jason_, who
+had forsaken her, sent a Casket in which Wild-Fire was inclosed, and
+by which she was burnt as soon [as] it was opened. This _Medea_
+afterwards, on account of the same Anger with _Jason_, tore to pieces
+her two Sons which she had bore to him.]
+
+[Footnote 39: This _Phoenix_ having incensed his Father, by lying with
+a Woman who was beloved by the latter, fled to the Protection of
+_Peleus_ the Father of _Achilles_, and was by bim [_sic_] Preceptor of
+that young Hero.]
+
+[Footnote 40: _Hippolytus_ being beloved by his Stepmother _Phaedra_,
+and refusing to gratify her Desires, was by her falsely accused to his
+Father _Theseus_; upon which account he was obliged to fly, and the
+Chariot Horses being frighted by Sea-Calves, dashed the Chariot
+to-pieces, and him also.]
+
+[Footnote 41: _Phineus_ King of _Arcadia_, having repudiated his Wife
+_Cleopatra_, married _Harpalice_; by whose Instigation he put out the
+Eyes of his Sons: for which he was afterwards punished by Divine
+Vengeance with the Loss of his own.]
+
+[Footnote 42: The _Romans_ paid a Religious Regard to their Birth-Day,
+as appears from many Passages in their Poets. At this time they used
+to receive Presents from their Relations and Acquaintance. We have
+here given the Sense of the Original, only varying the Customs
+(_Kalendae Martii_.) _Ovid_ advises the Lover to abstain from visiting
+his Mistress in the Kalends of _March_. At which time the _Matronalia_
+were celebrated to _Juno Lucina_, and the Husbands used to pray to
+that Goddess to protect the Chastity of their Wives. _Horace_ likewise
+Lib. III. Ode 8. hints that this was not the proper Season for
+Batchelors to give a Loose to their Gaieties. (_Sive erit ornatus
+Circus_, &c.) A third Caution _Ovid_ gives, is not to visit on those
+Days when the Wealth of the _Roman_ Conquests were exposed to the
+_Circus_, in admiring which, as _Mycellus_ observes, the Girls were
+too much taken up, to attend to the Desires of their Lovers. To say
+the truth, some Custom seems to be alluded to here, which is not
+sufficiently preserved from the Ruins of Antiquity.]
+
+[Footnote 43: _Then the _Pleiades_ are at hand. Then the Goat is
+merged in the Sea_, _viz._ in the Month of _October_ and _November_.]
+
+[Footnote 44: The Original points at the Day in which the _Romans_
+were overthrown by the _Gauls_ on the Banks of the River _Allia_. This
+was the 15th of the Kalends of _August. A. U. C._ 363, and it was
+marked as a black Day in their Kalendar. As this Nation is too happy
+to produce any such Day, we have been obliged to give it a different
+Turn in our Paraphrase.]
+
+[Footnote 45: _Cydippe_ was a beautiful virgin of the island of
+_Delos_. She was celebrating the Rites of _Diana_ when she was seen by
+_Acontius_, who falling in love with her, and not daring openly to
+declare his Passion, contrived to drop an Apple at her Feet, in which
+were inclosed these two Lines:
+
+    _I swear to you by the mystical Rites of _Diana_,
+    That I will attend you as a Companion, and become your Bride._
+
+_Cydippe_ took up the Apple and read the Lines; by repeating which
+words they became her own; and she was ignorantly betrothed to her
+Lover: For it was a Law, that whatever any persons said in _Diana_'s
+Temple, they were obliged to perform.]
+
+[Footnote 46: _Ariadne_ was the Daughter of _Minos_ King of _Crete_.
+She fell in Love with _Theseus_, and with a Clew of Thread helped him
+out of the Labyrinth into which he went to kill the _Minotaur_. He
+afterwards basely deserted the poor Lady, of which our Poet will
+presently tell the Story.]
+
+[Footnote 47: _Silenus_ was the Pedagogue of _Bacchus_, and his
+Foster-Father: He was likewise his Companion on all Occasions; and is
+often introduced in his drunken Mood by our Poet.]
+
+[Footnote 48: At this Wedding _Eurytion_ the _Centaur_ getting drunk,
+attempted to ravish _Hippodamia_ the Bride of _Pyrithous_, but
+_Theseus_ knocked his Brains out with a Bowl. Upon this a Battle
+ensued between the _Centaurs_ and the _Lapithae_, who defending the
+Cause of their Prince _Pyrithous_, destroyed almost all the
+_Centaurs_. _Horace_ Lib. I. Ode 18. mentions this Story likewise, as
+a Caution to Men not to be quarrelsome in their Cups.]
+
+[Footnote 49: Here and in many other Places, we have been obliged to
+supply that Connection, which is greatly wanting in the Original.]
+
+[Footnote 50: _Phoebe_ and _Ilaira_ were two pretty Girls, the
+Daughters of _Leucippus_, and by their Father betrothed to two
+Brothers _Idas_ and _Lynceus_; but before the Celebration of their
+Nuptials, were ravished by _Castor_ and _Pollux_. This ended in the
+Death of _Castor_, by the Hands of _Lynceus_; and of _Lynceus_, by
+_Pollux_, whose Death while _Idas_ was attempting to revenge, he was
+struck dead by Thunder at the Feet of _Pollux_.]
+
+[Footnote 51: _Orion_ the _Theban_ was in Love with _Merope_ the
+Daughter of _AEnopian_; but who this _Lyrice_ was, is not so plain, no
+Mention being made of her in any other Place.]
+
+[Footnote 52: _Daphnis_ was the Son of _Mercury_; for his Love for
+this _Nais_, we have here _Ovid_'s Authority.]
+
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+First Year (1946-47)
+
+Numbers 1-6 out of print.
+
+
+Second Year (1947-1948)
+
+7. John Gay's _The Present State of Wit_ (1711); and a section on Wit
+from _The English Theophrastus_ (1702).
+
+8. Rapin's _De Carmine Pastorali_, translated by Creech (1684).
+
+9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+
+10. Corbyn Morris' _Essay towards Fixing the True Standards of Wit,
+etc._ (1744).
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717).
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+Krutch.
+
+
+Third Year (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).
+
+14. Edward Moore's _The Gamester_ (1753).
+
+15. John Oldmixon's _Reflections on Dr. Swift's Letter to Harley_
+(1712); and Arthur Mainwaring's _The British Academy_ (1712).
+
+16. Nevil Payne's _Fatal Jealousy_ (1673).
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William
+Shakespeare_ (1709).
+
+18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10 (1719);
+and Aaron Hill's Preface to _The Creation_ (1720).
+
+
+Fourth Year (1949-1950)
+
+19. Susanna Centlivre's _The Busie Body_ (1709).
+
+20. Lewis Theobold's _Preface to The Works of Shakespeare_ (1734).
+
+21. Out of print.
+
+22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and Two
+_Rambler_ papers (1750).
+
+23. John Dryden's _His Majesties Declaration Defended_ (1681).
+
+24. Out of print.
+
+
+Fifth Year (1950-1951)
+
+25. Thomas Baker's _The Fine Lady's Airs_ (1709).
+
+26. Charles Macklin's _The Man of the World_ (1792).
+
+27. Out of print.
+
+28. John Evelyn's _An Apologie for the Royal Party_ (1659); and _A
+Panegyric to Charles the Second_ (1661).
+
+29. Daniel Defoe's _A Vindication of the Press_ (1718).
+
+30. Essays on Taste from John Gilbert Cooper's _Letters Concerning
+Taste_, 3rd edition (1757), & John Armstrong's _Miscellanies_ (1770).
+
+
+Sixth Year (1951-1952)
+
+31. Thomas Gray's _An Elegy Wrote in a Country Church Yard_ (1751);
+and _The Eton College Manuscript_.
+
+32. Prefaces to Fiction; Georges de Scudery's Preface to _Ibrahim_
+(1674), etc.
+
+33. Henry Gally's _A Critical Essay_ on Characteristic-Writings
+(1725).
+
+34. Thomas Tyers' _A Biographical Sketch of Dr. Samuel Johnson_
+(1785).
+
+35. James Boswell, Andrew Erskine, and George Dempster. _Critical
+Strictures on the New Tragedy of Elvira, Written by Mr. David Mallock_
+(1763).
+
+36. Joseph Harris's _The City Bride_ (1696).
+
+
+Seventh Year (1952-1953)
+
+37. Thomas Morrison's _A Pindarick Ode on Painting_ (1767).
+
+38. John Phillips' _A Satyr Against Hypocrites_ (1655).
+
+39. Thomas Warton's _A History of English Poetry_.
+
+40. Edward Bysshe's _The Art of English Poetry_ (1708).
+
+41. Bernard Mandeville's _A Letter to Dion_ (1732).
+
+42. Prefaces to Four Seventeenth-Century Romances.
+
+
+Eighth Year (1953-1954)
+
+43. John Baillie's _An Essay on the Sublime_ (1747).
+
+44. Mathias Casimire Sarbiewski's _The Odes of Casimire_, Translated by
+    G. Hils (1646).
+
+45. John Robert Scott's _Dissertation on the Progress of the Fine Arts_.
+
+46. Selections from Seventeenth Century Songbooks.
+
+47. Contemporaries of the _Tatler_ and _Spectator_.
+
+48. Samuel Richardson's Introduction to _Pamela_.
+
+
+Ninth Year (1954-1955)
+
+49. Two St. Cecilia's Day Sermons (1696-1697).
+
+50. Hervey Aston's _A Sermon Before the Sons of the Clergy_, (1745).
+
+51. Lewis Maidwell's _An Essay upon the Necessity and Excellency of
+    Education_ (1705).
+
+52. Pappity Stampoy's _A Collection of Scotch Proverbs_ (1663).
+
+53. Urian Oakes' _The Soveraign Efficacy of Divine Providence_ (1682)
+
+54. Mary Davys' _Familiar Letters Betwixt a Gentleman and a Lady_ (1725).
+
+
+Tenth Year (1955-1956)
+
+55. Samuel Say's _An Essay on the Harmony, Variety, and Power of
+    Numbers_ (1745).
+
+56. _Theologia Ruris, sive Schola & Scala Naturae_ (1686).
+
+57. Out of print.
+
+58. Eighteenth-Century Book Illustrations.
+
+59. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part I.
+
+60. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part II.
+
+
+Eleventh Year (1956-1957)
+
+61. Elizabeth Elstob's _An Apology for the Study of Northern
+    Antiquities_ (1715).
+
+62. _Two Funeral Sermons_ (1635).
+
+63. _Parodies of Ballad Criticism_ (1711-1787).
+
+64. _Prefaces to Three Eighteenth-Century Novels_ (1708, 1751, 1797).
+
+65. Samuel Johnson's _Notes to Shakespeare_. Vol. II, Histories, Part I.
+
+66. Samuel Johnson's _Notes to Shakespeare_. Vol. II, Histories, Part II.
+
+
+Twelfth Year (1957-1958)
+
+67. Henry Fielding's _The Voyages of Mr. Job Vinegar_ (1740).
+
+68. Elkanah Settle's _The Notorious Impostor_ (1692) and _Diego
+    Redivivus_ (1692).
+
+69. _An Historical View of the ... Political Writers in Great
+     Britain_ (1740).
+
+70. G.W., _Magazine_, or _Animadversions on the English Spelling_ (1703).
+
+71. Samuel Johnson's _Notes to Shakespeare_. Vol. III, Tragedies, Part I.
+
+72. Samuel Johnson's _Notes to Shakespeare_. Vol. III, Tragedies, Part II.
+
+
+Thirteenth Year (1958-1959)
+
+73. Samuel Johnson's _Notes to Shakespeare_. Vol. III, Tragedies, Part III.
+
+74. _Seventeenth-Century Tales of the Supernatural_.
+
+75. John Joyne, _A Journal_ (1679).
+
+76. Andre Dacier, _Preface to Aristotle's Art of Poetry_ (1705).
+
+77-78. David Hartley, _Various Conjectures on the Perception, Motion, and
+       Generation of Ideas_ (1746).
+
+
+Fourteenth Year (1959-1960)
+
+79. William Herbert, Third Earl of Pembroke's _Poems_ (1660).
+
+80. [P. Whalley's] _An Essay on the Manner of Writing History_ (1746).
+
+81. Two Burlesques of Lord Chesterfield's Letters _The Graces_ (1774).
+_The Fine Gentleman's Etiquette_ (1776).
+
+82. Henry Fuseli's _Remarks on the Writings and Conduct of
+    J. J. Rousseau_ (1767).
+
+83. _Sawney and Colley_ (1742) and other Pope Pamphlets.
+
+84. Richard Savage's _An Author To Be Lett_ (1729).
+
+
+Fifteenth Year (1960-1961)
+
+85-86. _Essays on the Theatre from Eighteenth-Century Periodicals._
+        Selected, with an introduction, by John Loftis. [double issue]
+
+87. Daniel Defoe, _Of Captain Misson and his Crew_ (1728). Introduction by
+    Maximillian E. Novak.
+
+88. Samuel Butler, _Poems_. Selected, with an introduction, by
+    Alexander C. Spence.
+
+89. Henry Fielding, _Ovid's Art of Love_ (1760). Introduction by
+    Claude E. Jones.
+
+90. Henry Needier, _Works_ (1728). Selected, with an introduction, by
+    Marcia Allentuck.
+
+       *       *       *       *       *
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_General Editors_
+
+R. C. BOYS
+  University of Michigan
+
+RALPH COHEN
+  University of California, Los Angeles
+
+VINTON A. DEARING
+  University of California, Los Angeles
+
+LAWRENCE CLARK POWELL
+  Wm. Andrews Clark Memorial Library
+
+_Corresponding Secretary:_ MRS. EDNA C. DAVIS, Wm. Andrews Clark Memorial
+                           Library
+
+The Society's purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Boulevard, Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. The membership fee is $4.00 a year for
+subscribers in the United States and Canada and 15/- for subscribers
+in Great Britain and Europe. British and European subscribers should
+address B.H. Blackwell, Broad Street, Oxford, England.
+
+
+Publications for the fifteenth year (1960-1961)
+
+Six items, most of them from the following list, will be reprinted.
+
+Samuel Butler, _Poems_. Selected, with an introduction, by Alexander
+C. Spence.
+
+Daniel Defoe, _Of Captain Misson and his Crew_ (1728). Introduction by
+Maximillian E. Novak.
+
+_Eighteenth-Century Illustrations to The Faerie Queene._ Introduction
+by Ralph Cohen.
+
+_Essays on the Theatre from Eighteenth-Century Periodicals._ Selected,
+with an introduction, by John Loftis. [double issue]
+
+Henry Fielding, _Ovid's Art of Love_ (1760). Introduction by Claude E.
+Jones.
+
+Francis Hutcheson, _Reflections on Laughter_ (1729). Introduction by
+Scott Elledge.
+
+Henry Needier, _Works_ (1728). Selected, with an introduction, by
+Marcia Allentuck.
+
+       *       *       *       *       *
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+
+2205 WEST ADAMS BOULEVARD, LOS ANGELES 18, CALIFORNIA
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK THE LOVERS ASSISTANT, OR, NEW ART OF
+LOVE***
+
+
+******* This file should be named 31036.txt or 31036.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/3/1/0/3/31036
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

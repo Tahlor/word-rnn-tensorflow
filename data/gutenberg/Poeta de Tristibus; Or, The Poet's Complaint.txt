@@ -1,0 +1,2224 @@
+The Project Gutenberg EBook of Poeta de Tristibus: Or, the Poet's Complaint, by
+Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Poeta de Tristibus: Or, the Poet's Complaint
+
+Author: Anonymous
+
+Contributor: Harold Love
+
+Release Date: September 8, 2013 [EBook #43673]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK POETA DE TRISTIBUS ***
+
+
+
+
+Produced by Chris Curnow, Richard Tonsing, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+
+
+POETA DE TRISTIBUS:
+OR, THE
+Poet's Complaint
+
+
+(1682)
+
+_Introduction and Notes by_
+
+HAROLD LOVE
+
+PUBLICATION NUMBER 149
+
+WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+1971
+
+
+GENERAL EDITORS
+
+  William E. Conway, _William Andrews Clark Memorial Library_
+  George Robert Guffey, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+
+ASSOCIATE EDITOR
+
+  David S. Rodes, _University of California, Los Angeles_
+
+ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of Virginia_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Earl Miner, _University of California, Los Angeles_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+  Robert Vosper, _William Andrews Clark Memorial Library_
+  Curt A. Zimansky, _State University of Iowa_
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+EDITORIAL ASSISTANT
+
+  Lilly Kurahashi, _William Andrews Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+_Poeta de Tristibus: or, the Poet's Complaint (PdT)_ was published by
+two newly established booksellers, Henry Faithorne and John Kersey,
+early in November 1681 (title-page dated 1682). The poem is only one of
+a large number of Restoration satires on writers as a group, its nearest
+neighbors in time being the pseudo-Rochester "A Session of the Poets,"
+the anonymous "Advice to Apollo," Mulgrave's "An Essay upon Satyr,"
+Otway's _The Poet's Complaint_, Robert Gould's "To Julian, Secretary to
+the Muses," the anonymous "Satire on the Poets," Shadwell's _The Tory
+Poets_, and Thomas Wood's _Juvenalis Redivivus_. It differs from these
+in its Hudibrastic meter, the richness of its biographical detail, and a
+relatively mild degree of animus against its victims, though there is
+quite a deal against poetry as art and trade.
+
+In the two introductory epistles, we are asked to believe first that the
+poem is the work of a young writer driven into exile by his poverty and
+secondly that the manuscript was sent from Dover to a relative on 10
+January 1681 in acknowledgment of a piece of gold. It is possible, as
+will be seen, that this reflects an actual history; however, the matter
+is complicated by the existence of a second text, published by 12
+November 1681 (Luttrell's date on his copy, now at Harvard, and
+apparently the only one still extant) as _The Poet's Complaint (PC)_ in
+which the story is presented in a slightly different form and the text
+of the poem is little more than a third the length of _PdT_. An
+advertisement placed in Nathaniel Thompson's _Loyal Protestant and True
+Domestick Intelligence_ on 19 November 1681 claims that the rival
+version, published by Dan Brown, was printed from a "spurious and very
+imperfect Copy which contains only the first Part of the said Poem, the
+three last Parts (which are the most considerable) being wholly left
+out, excepting some few lines of them foisted in here and there without
+any Sense or Coherence" and describes the Faithorne and Kersey
+manuscript as "from the Authors Original Copy in four parts (together
+with several Additions and Corrections by an Ingenious Person)." In a
+recent article (_PQ_, XLVII [1968], 547-562) the present editor has
+argued against this account of the poem's genesis, and has proposed the
+following hypothetical order of versions. (For the details of the
+argument the reader is referred to the article.)
+
+     (1) An impromptu written as _The Poet's Complaint_ on or about 30
+     December 1680, for despatch to "a Person of Quality," using
+     materials from a commonplace book dating from circa 1677. This
+     assumption is based on the terminal dates of its collection of
+     quotations from other writers which differs from that of _PdT_, and
+     a disparity between the times of composition alleged in the
+     epistles to the two poems--_PdT_ claiming "less than a fortnight's
+     space" and _PC_ "less than three days space."
+
+     (2) An enlarged version of #1 in four cantos completed by 10
+     January 1681. (The "Authors Original Copy.")
+
+     (3) The version of #2 revised and augmented by "The Ingenious
+     Person," who may or may not have been identical with the
+     "Publisher," and printed as _Poeta de Tristibus_.
+
+It would follow that the near-simultaneous publication of versions #1
+and #3 in November 1681 was wholly coincidental. My initial assumption
+that _PC_ represents an early draft rather than a truncated copy of
+_PdT_ has been reviewed with approval by my colleague David Bradley,
+using criteria developed during a study of analogous situations among
+Elizabethan dramatic texts. One of his most valuable observations is
+that the two versions are thematically distinct, _PC_ being a satire on
+backbiting, attacking those who abuse poets and poetry, and _PdT_ a more
+general study of the notion "Wit versus Wealth." It is unfortunately
+impossible to reproduce his more detailed comments since this would also
+involve reproducing sizeable sections of _PC_; however, the basic point
+concerning the direction of copying can be made in another way through
+the pattern of variants revealed in extracts from the epilogue to Lacy's
+_The Old Troop_ and Dryden's prologue to _Aureng-Zebe_ which are quoted
+in both _PC_ and _PdT_. Collation shows that both texts are derived
+from a lost intermediary which was in close though not complete
+agreement with _PC_ against _PdT_. This rules out any chance that this
+section of _PC_ could be derived from the printer's copy of _PdT_, and
+suggests that the intermediary is more likely to have been the
+hypothetical commonplace book or the MS of _PC_ than any four-canto
+text, though the second possibility cannot be dismissed on textual
+grounds alone.
+
+The only real clues to the authorship of the poem are the biographical
+details of the preface and the signature initials "T.W." following the
+author's epistle of _PC_--either or both of which may of course result
+from a conscious intention to deceive. Surprisingly, both seem to be
+relevant to the history of Thomas Ward, the author of the hudibrastic
+anti-protestant satire, _England's Reformation_ (1719), who is known to
+have left England at roughly the time suggested as that of the poem's
+composition. In the life of Ward prefixed to _An Interesting Controversy
+with Mr. Ritschel, Vicar of Hexham_ (1819), which appears to be based at
+an unknown degree of removal on a personal memoir, he is said to have
+been born on 13 April 1652, and to have returned to England in the
+thirty-fourth year of his age after at least "five or six years" abroad,
+a figure which may just be reconciled with a departure date in January
+1680/1. However, other details of the case do not fit so well. To start
+with, it is hard to see how a man of twenty-eight could refer, as the
+author does in both epistles, to his "want of years, and a necessary
+Experience in the Ages humour." Nor is it easy to reconcile Ward's
+fervent Catholicism with a satiric allusion in _PC_ to non-preaching
+bishops--a favorite topic of Puritan polemic--or with a reference to the
+Pope as "Rome's great Idol." Ward is said in the _Life_ to have been a
+Catholic before his departure, and writes movingly in _England's
+Reformation_ of his friendship with the Yorkshire anchorite Father
+Posket, executed in March 1679. The matter is further complicated by the
+appearance of the initials "T.W." together with the dateline "Rome, June
+10. 79. Stilo Novo." on a broadsheet of 1679, _A letter from Rome to a
+Friend in London in Relation to the Jesuits Executed, and those that are
+to be Executed in the Countryes_, which is in fact an anti-Catholic
+tract vigorously supporting the executions. For this to have been the
+work of Ward we would have to assume that he had set out for Rome at
+least two years before the departure of the Poeta and then suffered a
+violent relapse into Puritanism. On the other hand, if the pamphlet, as
+is quite probable, was really the work of one of Shaftesbury's
+propagandists in London, there would have been excellent reasons for
+attaching the initials of a known Catholic exile. As the year 1679 is
+also within the stated date-range of Ward's departure, the existence of
+the broadsheet must count marginally against his being the author of
+_PdT_.
+
+I can cast no further light on this mystery beyond proposing that if the
+story of the exiled poet is in fact a fabrication, the poem may have
+been the work of a younger (b. 1661) and Protestant "T.W." in the person
+of Thomas Wood, Anthony a Wood's nephew, later celebrated as a legal
+writer, poet, and controversialist and for his fondness for anonymous
+and pseudonymous publication. Two of Wood's poems, _Juvenalis Redivivus_
+(published anonymously in 1683) and an elegy on the death of Oldham
+(included with Dryden's lines in the _Remains_ of 1684), are satires on
+the poets of a similar kind to _PdT_, while the second has a striking
+structural similarity to its opening canto. Neither _PdT_ nor _PC_ is
+included in Wood's list of his writings sent to his uncle in 1692 for
+inclusion in _Athenae Oxonienses_ (Bodl. MS. Wood F.45, f.#229), nor do
+they appear in _A Catalogue of Part of the Library of the Reverend Dr.
+Wood_ (London, 1723); however, neither omission need be significant. A
+third possibility is Thomas Walters, claimed by Anthony a Wood as the
+true author of William Bedloe's tragedy, _The Excommunicated Prince_
+(1679); but I have found nothing beyond the fact he was an author to
+connect him with _PdT_, nor any evidence that either he or Thomas Wood
+spent the years 1681-1682 otherwise than accumulating time for their
+degrees at Oxford.
+
+Monash University
+
+
+BIBLIOGRAPHICAL NOTE
+
+This facsimile of _Poeta de Tristibus_ (1682) is reproduced from a copy
+(*PR3291/P795) in the William Andrews Clark Memorial Library.
+
+
+
+
+POETA DE TRISTIBUS:
+
+OR, THE
+
+Poet's Complaint.
+
+A
+
+POEM
+
+
+_In Four_ CANTO'S.
+
+_Ovid de Trist._
+
+_Parve, nec invideo, sine me Liber ibis in Urbem:
+    Hei mihi! quo_----
+
+_LONDON_,
+
+Printed for _Henry Faitborne_ and _John Kersey_, at the
+_Rose_ in St. _Paul_'s Church-Yard. 1682.
+
+
+
+
+_The Publisher's Epistle to the_
+
+READER.
+
+
+_Courteous Reader_,
+
+The following Poem was presented me about a year ago; and (as it appears
+by the Author's Epistle to me) was designed only for my Private
+Divertisement: But numerous Draughts being dispers'd abroad, by the
+Unworthiness of a Gentleman I Trusted it withal, I was more easily
+perswaded to Publish the Original, to prevent the Inconveniencies of a
+Surreptitious Copy, which, without my Allowance, was designed for the
+Press.
+
+The Author being out of _England_, I would not venture to set his Name
+to it; nor have I presumed thus far, without extraordinary regret; not
+that I know any other Reason that enforces a concealment, besides that
+it was sent to me with such a Bond. I am sure no particular Person can
+pretend to any distaste; and _Satyr_ on general Subjects was ever
+Allowable, _Religion_ and _Government_ only excepted.
+
+But I must Confess, that in the Third Part of this Poem, there were some
+Capital Letters which began the Names of certain Poets of this Age, but
+them I have so altered, lest any Offence should be given, that by them I
+am sure no Discovery can be made. I will no longer detain you from your
+better Divertisement in the following Poem; which, if you have any good
+Nature, you cannot chuse but favour, especially if you carry along with
+you those several Circumstances which in the way will offer themselves
+to you in the Author's behalf.
+
+_Farewel._
+
+
+
+
+The Author's Epistle.
+
+
+SIR,
+
+_My Obedience to your desire so happily concentring with my Inclination
+to this Subject, has in less than a fortnight's space produc'd what here
+you see. To you I need not make any Apology for its Artless Habit, who
+very well know my want of years, and a necessary Experience in the Ages
+humour; nor can you reasonably expect any extraordinary strokes from one
+whose thoughts are divided between so many various Afflictions; since_
+Ovid _himself, when Condemn'd to Banishment, was forc'd to resign that
+Spirit of Poetry, which animated all his Works, besides that of his_ De
+Tristibus. _Besides, I must desire your Patience to observe, that (the
+Verse I use being a kind of Doggrel) it is but Natural that now and then
+it should run harsh and rugged; nor do I believe I have done amiss by
+forcing my self sometimes to be so very plain and familiar. As for the
+Rhyme and Measure, though perhaps they may not always answer the
+strictest Law, yet I do not think it worth the while to make any excuse
+for that, being faults so inconsiderable, that they are seldom reflected
+on, but by the meanest sort of Criticks, who want judgment to discern
+the Intrigues of Humour and Invention, which are the Principal
+Ingredients of a Poem, and which I must needs confess are here extreamly
+deficient: For as this little Poem was written_ extempore, _so it
+presumes to kiss your hand in its Native unpolish'd shape, not having
+the least thought or word of it Corrected; for to Morrow being the time
+we design to take Shipping, I had not so much leisure as to Transcribe
+it._
+
+_I must Confess, it seems unnatural, that one who pretends to the Title
+of a Poet, should endeavour, as I have done, to disparage his own
+Profession. However, the Poets of this Age, whom it most concerns, I
+hope will not take it unkindly of me, since doing thus, I only follow
+the Example they have given me; for in that short time of my Residence
+in_ London, _among all the Poets I was in Company with, I heard little
+else besides their Complaints, and unmerciful damnings both of the Times
+and one another. Neither have I seen a Modern Play but either began or
+ended in the same Tune. Some few of which I have, for Example-sake, here
+presumed to quote._
+
+
+In the Prologue to _Aurenzebe_.
+
+    _The Clergy thrives, and the Litigious Bar,_
+    _Dull Heroes fatten by the Spoils of War._
+    _All Southern Vices (Heav'n be prais'd) are here,_
+    _But Wit's a Luxury you count too dear._
+
+In the Epilogue to the _Libertine_.
+
+    _S Death! What a Devil would you have us do?_}
+    _Each take a Prison, and there humbly sue,_  }
+    _Angling for single Money in a Shoe?_        }
+
+In the Epilogue to _Monsieur Rogooe_.
+
+    _I Am a Poet, and I'll prove it plain,_
+    _Both by my empty Purse, and empty Brain._
+    _I've other Reasons to confirm it too;_
+    _I've great, and self-conceits of all I do._
+    _As for my Play, I Pawn'd it to some Cit,_
+    _At least six Months before my Play was writ._
+    _But when the third day comes, away I run,_
+    _Knowing that then in sholes come all my Duns._
+    _If these things make me not a proper Poet,_
+    _He that has better Title, let him shew it._
+
+In the Prologue to _Theodosius_; Or the Force of Love.
+
+    _On Poets only no kind Star e're smil'd,_
+    _Curst Fate has damn'd 'em every Mothers Child._
+    _Therefore he warns his Brothers of the Stage_
+    _To write no more to an ingrateful Age._
+    _Think what penurious Masters you have serv'd;_
+    Tasso _ran mad, and Noble_ Spencer _starv'd_.
+    _Turn then, who e're thou art, that canst Write well,_
+    _Thy ink to Gall, and in Lampoons excell._
+    _Forswear all Honesty, traduce the Great,_
+    _Grow Impudent, and rail against the State;_
+    _Bursting with Spleen, abroad thy Pasquils send,_
+    _And choose some Libel-spreader for thy Friend._
+    _The Wit and Want of_ Timon _point thy Mind,_
+    _And for thy Satyr-subject chuse Mankind._
+
+In the Prologue to the Unhappy Favourite; or the Earl of _Essex_.
+
+    _The Merchant, joyful with th' hopes of Gain,_
+    _Ventures his Life and Fortunes on the Main;_
+    _But the poor Poet oft'ner does expose_
+    _More than his Life, his Credit, for Applause._
+
+In the Epilogue to the same Play.
+
+    _Let those who call us Wicked, change their Sence,_
+    _For never Men liv'd more on Providence:_
+    _Not Lott'ry Cavaliers are half so poor,_
+    _Nor broken Cits, nor a Vacation Whore;_
+    _Not Courts, nor Courtiers living on the Rents_
+    _Of the three last ungiving Parliaments._
+    _So Wretched, that if_ Pharaoh _could Divine,_      }
+    _He might have spar'd his Dream of seven lean Kine,_}
+    _And chang'd the Vision for the Muses Nine._        }
+
+And a little after.
+
+    _'Tis not our want of Wit that keeps us poor,_
+    _For then the Printer's Press would suffer more:_
+    _Their Pamphleteers their Venom daily spit,_
+    _They thrive by Treason, and we starve by Wit._
+
+_Now I do not blame these Ingenuous Gentlemen for inveighing against the
+thing to which they owe their Ruin; nor were it to any purpose to
+endeavour to conceal a Truth so generally taken notice of: For who is
+Ignorant of this, that a Man, in all Professions, except that of Poetry,
+may with Honour advance a Livelihood? But that (though it may be
+sometimes found proper for the Divertisement of those few who have
+leisure to read it) was ever known to be most unprofitable to the
+Authors; for few or none have been Advanced by it, though many have been
+hindred by this Art of Versifying, from making their Fortune otherwise
+in the World. Yea, this Profession is grown so Vile and abject, that
+whereas others count it an Honour to be stiled Physicians, Barristers,
+or the like; these are offended with the very Name of Poet: And that
+with good Reason too, since Poetry only glories in Disguising the Truth;
+for which cause it begins to be Banished even from Theatres, to which
+alone it was Destinated; and Prose is now come in request, being
+prefer'd for its Gracefulness and Naturalness above it: By which means
+this Art is in danger to be confin'd to the Corners of Streets; to serve
+only for Songs and Ballads. Hence it was that_ Ovid _was so severely
+Punished by his Father, to make him leave off this Art, which proved so
+unlucky to him, that he became of a Rich_ Roman _Knight, a Miserable
+Exile among_ Barbarians. _Hence_ Plato _was pleased to Banish it out of
+his imaginary Common-Wealth. And_ Philip, _the first Christian Emperour,
+denied them those Immunities which he granted to all others. Numerous
+Instances of this Nature offer themselves to my Pen, but I must take
+care not to stretch my Epistle too far, for fear you should Reflect on
+it, what was formerly said on Sir_ William D'avenant's _Preface before
+his_ Gondibert,
+
+    A Preface to no Book, a Porch to no House,
+    Here is the Mountain, but where is the Mouse?
+
+_However, I must not neglect to desire this one Favour of you, that
+after you have taken the pains to peruse these undigested Lines, you
+would be pleased to bestow on them a Funeral Fire; or if you apprehend
+that Sentence to be too severe, I do most earnestly beg of you to keep
+them Secret to your self, without shewing them to your trustiest Friend,
+at least, with my Name_ _to them. It were superfluous now to engage you
+not to convey them to the Censorious World through the Press, since
+that, and more was already by the precedent Caution imply'd; besides,
+the Opinion I have of your Candour, is better grounded, than to admit of
+any such Jealousie._
+
+_I will now only add my most hearty Thanks for all your Favours,
+particularly for the Piece of Gold I Received inclosed in your last
+Letter; and had some others of my Relations proved as kind to me as your
+self, or had I in my own Countrey met with encouragement any way sutable
+to my Endeavours, I had not in this Passion shaken hands with it. But
+now I am in hast to be gone, yet will for ever remain,_
+
+_Dearest Cousin!_
+
+Your assured, Faithful Friend,
+and most Humble Servant.
+
+Dated at _Dover_ the Tenth
+day of _January, 1680/1_.
+
+    POETA DE TRISTIBUS:
+
+    OR, THE
+
+    Poet's Complaint.
+
+    A
+
+    POEM.
+
+
+
+
+_The First CANTO._
+
+
+    Since here I'm bandy'd up and down
+    By the keen blows of Fortunes frown,
+    Whil'st Art and Nature vainly strive
+    To make th' unhappy Poet live;
+    I'le fly such Native Plagues as these
+    For Refuge, to the calmer Seas:
+    And try if boading Stars dispence
+    Ev'ry where the same influence.
+    Climes vary Constitutions, so
+    Why may not they change Fortunes too?
+    Through th' habitable World I'le go,
+    And if that fails, I'le search for new.
+    Wit somewhere has a happy Reign,
+    Or Nature gives us Thoughts in vain.
+    Tho' here her bounty she provides
+    For ev'ry thing which breaths besides.
+
+      The Dunce made Batchelor of Art,
+    Some Fustian Sermon learns by heart,
+    Then Preaches 'fore a Country Squire,}
+    Who his deep Learning does admire,   }
+    And gives him sixscore pounds a year.}
+    But he must Marry th' Chamber-Maid,
+    Who is, forsooth, a Mistress made:
+    So he goes on with a fair hope,
+    And of his Pulpit makes a Shop.
+
+      So Quacks as eas'ly as they will,
+    Can get Licenses to kill,
+    Whil'st the hungry Poet may  }
+    For an _Imprimatur_ stay,    }
+    Till h'has eaten up his Play.}
+
+    Yet since the Press has lately had
+    Its Liberty, 'tis near as bad.
+    For scarce a broken Shop-keeper,
+    Or a cast Serving man grown bare,
+    But herds among our starved Crew,
+    And falls a Writing Poems too.
+    The Plot, the Jesuit, and the Pope
+    Are now grown Theams for ev'ry Fop.
+    Who by such wretched, Ballad-ware,
+    Makes Writing cheap, and Paper dear.
+
+      See how the gaping Merchants range,
+    Hunting their Chapmen on the Change,
+    Whose Various Voices frame a sound,
+    Like Billows when their Ships are drown'd,
+    And in one hour more fat do sweat
+    Than th' Poet in a year can get.
+    Those worst of Atheists! who do hold
+    There is no Deity but Gold!
+    They hate the Poet 'cause he's poor,
+    And only th' Golden Calf adore.
+    Our Plays, they say, are wicked dear,
+    Th' expence in Ballads will go far.
+    Nay, I protest I've heard some say
+    Plays are a kind of Popery.
+    I'th' City-shops they're thought Profane,
+    As were Minc'd-pies in _Cromwel_'s Reign.
+    Where, when for _Dryden_'s Works I came,
+    They vow'd they never heard his Name.
+    But they had _Baxter_'s, if you please,
+    And such-like precious things as these.
+    Bless 'em from Plays; they'd rather go
+    Unto a Conventicle, or so.
+
+      The Stationer grows fat on th' gain,
+    He sucks from the poor Poet's brain.
+    He, and the Printer, who does know
+    Nothing beyond the Cris-cros-row,
+    Do still their Heads together joyn
+    To cheat the Poet of his Coyn.
+    Whil'st he, poor Drudge! must toil and sweat
+    Honourable stabs to get;
+    And is forc'd to sigh, and stay
+    For the Lawrel 'till he's gray:
+    And at last together come
+    To his Honour, and his Tomb.
+    Tho' when dead, his Friends may'nt raise
+    Enough to gild his Fun'ral Bays.
+
+      The Players, who scarce know to write
+    Their Names, or spell one word aright,
+    Or read their Parts, unless writ fair
+    In a large _Roman_ Character,
+    Call us their Slaves, who for their gain
+    Must toil, and all their faults sustain.
+    In gay Attire each day they shine;
+    Eat well, and drink the Richest Wine,
+    All fat and plump, except some few
+    The _French-man_ prov'd invet'rate to.
+    Look how they strut it as they go!  }
+    And in the streets make such a show,}
+    As if they'ld there Act Princes too!}
+    While th' Poet sneaking all alone
+    In some by-lane where he's unknown;
+    No farther than his Pot can go,
+    And has a Pipe to th' bargain too.
+
+      I hardly a poor Lawyer know,
+    Unless some who are Poets too.
+    They thrive by Rapine and Revenge,
+    And making Enemies of Friends:
+    Feeding on others hopes and fears,
+    On Orphants groans, and Widows tears.
+    In short, the World it self; and all
+    We Trade, and Art, and Science call,
+    Are grand Impostures; false and vain,
+    Invented but to bring in gain.
+
+      Astronomy does our Faith engage,
+    And with dark Notions cheats the Age:
+    But take off its Disguise, you'll see
+    It is as feign'd as Poetry.
+    Else let it for a certain show
+    Whether this Globe has Wings or no,
+    Or _Ovid_ blame, who said, the Sun
+    Did run away with _Phaeton_.
+    I cannot chuse but laugh to think
+    If these poor Moon-calves had no Drink
+    But that same thinnish, blewish Whey
+    Press'd from green Cheese i'th' Milky-way;
+    When Goddesses make the New Moon,
+    How soon they'd throw their Cross-staves down!
+
+      What is Geometry, I'ld know,
+    But a false Brat of Fancy too?
+    If 'tis a Science, let it tell
+    How far from hence the Stars do dwell;
+    And due proportion give between
+    A _direct_ and a _crooked Line_.
+    Yet while the Dotards sit at home,
+    Each _Line_ is tip't with Golden _Plumme_;
+    And still we find that each _Right-Angle_
+    Some Gain or other does entangle;
+    As Tonnellers catch Partridge; so
+    Geometricians, you must know,
+    Although in other things but Asses,       }
+    They eat, and drink, and sleep with Lasses}
+    Between the Legs of their _Compasses_.    }
+
+      So th' Natural Philosopher
+    'S perpetual Motion keeps a stir,
+    But straight his Engines rest obtain,
+    And all the Motion's in his brain;
+    Except some easie hand, forsooth,
+    That opens but to fill his mouth.
+
+      Rhet'rick, which we so much adore,
+    Ne'r had a perfect Orator.
+    And yet their mouths provide; I trow,}
+    As lame and cripled people's do,     }
+    Who lie, because they cannot go.     }
+
+    And what is Logick, but a cheat?
+    Nothing, or something worse than it.
+    A _Delphick_ Sword, bends any way  }
+    To make Truth yield to Sophistry,  }
+    And bring home Gold from _BARBARA_.}
+
+      The lingring Chymsts blow their fire,
+    Till their own Lamps of Life expire;
+    And searcheth for th' Inchanted stone,
+    Till they themselves grow cold as one;
+    Which they would quickly do, but that
+    'Tis written in the Book of Fate,
+    The great work (much too great for one)
+    Cannot be carried on alone,
+    But asks more hands; and so another,
+    That's Rich, helps his poor Chymick Brother.
+
+      Speak, dull Philosopher; what's all
+    You, in mistake, do Science call?
+    Since _Socrates_ with much ado,
+    Learn'd only that he nothing knew.
+    There's nothing unconfin'd and free,
+    Except the Soul of Poetry,
+    When it does on our Organs play.
+    Throw all your Mystick Books away,
+    And study Natures Library:
+    Mount up to Heaven's refulgent Throne,
+    There by the Lab'ring Muses drawn.
+    First, pause a while, then Write, and all
+    The Gods to Convocation call;
+    Then with Imperious frowns survey
+    Poor Mortals damn'd to treading clay;
+    And raising Piles, till pitying Fate
+    Pulls the brick ruins on their pate.
+    There laugh at Princes, who do groan
+    Under the burden of a Crown:
+    And condemn Riches, which we see}
+    Is but a Golden Slavery;        }
+    We're Richer far in Poetry.     }
+    But hold!----
+    I'm almost starv'd, as I'm a Sinner,
+    Prethee, _Jack_, Trust me for a Dinner.
+
+      Poor Poet! what a wretch th'art grown?
+    Cast to a Dungeon from a Throne!
+    Thou who but now did'st reach the Sky,
+    Low as Despair art forc'd to lie:
+    Those soaring thoughts thou didst admire,
+    With thy Poetick rage expire.
+    'Twas but a Dream, and now I see
+    Riddles unty'd to Fetter me.
+    The Angels height procur'd their Thrall,
+    But 'tis my lowness makes me Fall.
+    Had Nature giv'n me a Rich Mine,
+    As other Fops I'd happy been;
+    Nor had I been exposed thus,
+    To make my plaints ridiculous.
+
+      For Wit and Wealth such Rivals are,
+    That they can't Reign in the same Sphere,
+    But as when Kings each other thwart,
+    Th' unhappy Subjects feel the smart:
+    So those t' whom Nature has been kind,
+    Must Fortunes Rage and Malice find.
+    And 'till these Friends and Partners grow,
+    Who can have Wit and Money too?
+    But if the World hath such a Creature,
+    He's Monstrous, and not made by Nature.
+    Poets are Chymists, who want skill
+    To perfect Metals as they will;
+    Yet Clothes, or Money, what you please,
+    Be sure they'l turn to _Sack_ with ease;
+    Then with that _Sack_ they can prepare     }
+    Castles, nay, Kingdoms in the Air,         }
+    And carve themselves whole Lordships there.}
+    But since they here so disagree
+    About a paltry Lawrel Tree,
+    I wonder what a Dev'l they do,
+    When to these fancy'd Lands they go:
+    But hold! they'l all be De'ties there,
+    And every one will have his Sphere.
+    For all the Gods of which we read,
+    Were by th' Almighty Poets made:
+    And they who did their God-heads make,
+    May at their pleasures take 'em back.
+
+
+
+
+_The Second CANTO._
+
+
+    How often have I seen the Taylor,
+    The Shoe-maker, and Milliner,
+    And ev'ry Fop that sells his Ware,
+    O're this poor Creature domineer?
+    And I can't choose but let you know it,
+    How a curst _Broker_ met a _Poet_,
+    Walking through _Smithfield_ on a time,
+    O're whom he swagger'd thus in Rhime.
+
+      Is this your Wit! the Devil take it!
+    For without question he did make it.
+    The truest Wit is Honesty,
+    And to get Coyn your Debts to pay.
+    Wit is an Ass, when Money's slow;
+    Nay, 'tis that makes the Ass to go.
+    Why? I am but a mean Trades-man,
+    And yet do more than any Poet can.
+    I walk the Streets, yet fear no Dun,
+    Nor in their Debts, nor from 'em run.
+    Nor yet for fear of being found out,
+    Do walk half a mile about.
+    Altho' you're in _White-Fryers_ lurking,
+    I've certain Ingeneers a working:
+    And, Sir, unless you quickly pay me,
+    Expect a Visit from a _Baylie_.
+
+      This Language less dismaid the Poet,
+    Having been long accustom'd to it:
+    Howe're, he thought it not amiss
+    To give him these fair promises.
+
+      Sweet Sir! I vow I'm mighty sorry
+    You've so long tarry'd for your Mony:
+    But should you my late Suff'rings hear,
+    Pity would force you to forbear.
+    Howe're, as soon as th' Term begin}
+    I shall recruit my self agen;     }
+    For my _Play_ will be ready then. }
+    Last Night the _Lord_--read what I'd made on't;
+    And should I tell you what he said on't,
+    'Twould be immodest in the Author;
+    But you'll hear more of it hereafter.
+    How'ere, to tell you as a Friend,
+    He did it mightily commend.
+    And 'twixt me and you, he said,           }
+    He did not question to perswade           }
+    The _King_, and _Court_, to see it Play'd.}
+    And if it takes, (which I don't fear)
+    'Tmay bring an hundred pounds, or near.
+    And for your great Civility,
+    Sir, you're the first I intend to pay.
+
+      When this Doggrel Speech was ended,}
+    The Poet, having lowly bended,       }
+    Took his leave, by me attended.      }
+    We had not walk'd past half so far
+    As 'twixt _Fleet-Bridge_ and _Temple-Bar_,
+    Ere my sad Brother was so kind,
+    As thus to let me know his mind.
+
+      Oh, wretched Man! what shall I do!
+    Or whither had I best to go!
+    _Job_ happy was, compar'd to me,
+    A Prince in th' midst of's misery.
+    Oh Heavens! since all his Griefs I know,
+    Why have I not his Patience too?
+    Hells self less Torment does contain
+    Than is lodg'd in a Poet's brain;
+    Howe're we may hereafter fare,
+    I'm sure we meet Damnation here.
+    I'd rather be a Dog; or Cat,
+    The thing which next my self I hate.
+    A Snake, an Adder, or a Toad:
+    To these once _Egypt_'s Dotage bow'd.
+    But me, the wretched'st thing e'r Born,
+    Ev'n these by instinct loath and scorn.
+    Then sighing, _Oh, my Play_! he cry'd;
+    My _Play_ both _Houses_ have deny'd.
+    They tell me, that their Summer-store
+    Will all this Winter last, or more:
+    Besides, that mine won't please the Times,
+    Being Tragedy, and writ in Rhimes.
+    Oh, I am ruin'd utterly!
+    What shall I do! _My Play_! _My Play_!
+    There's no one knows what pains I took,
+    Ere I stretch'd it, to a Book.
+    Nine Months my _Muse_ labour'd to bring
+    Forth this Abortive, hapless thing:
+    And suffer'd more than can be told
+    Of Summers heat, and Winters cold.
+    I've walk'd from Morning until Noon,
+    'Twixt _Lyon-Fields_ and _Kentish-Town_;
+    Study'ng my self hungry and dry,
+    I envy'd th' Beggers on the way.
+    Then being forc'd to jogg it home
+    Empty as a _vacuum_:
+    I'd no way to appease my _Hostess_,
+    But vow my _Play_ finish'd almost is;
+    Then reading what I'd made of't o're,
+    She'ld trust me for one shilling more.
+    But since she heard it was refus'd,
+    None can guess how I've been us'd.
+    'Bout Eight o'th'Clock on Thursday Morning,
+    (My Angel then giving me warning)
+    I had scarce lock'd my Door, but th' Baily
+    Knock'd, saying, he'd a Letter for me:
+    From first to last, he knock'd an hour,
+    Ere I could get him to give o're;
+    But when he saw it was in vain,
+    The Rogue went swearing back again.
+    But from that time to Sunday Morning,
+    I kept the Fort, for all their Storming.
+    Then without fear away I went;
+    Thanks to the _King_ and _Parlement_.
+    And now it is five days compleat,
+    Since I had any thing to eat:
+    Nor know I where to get Relief,
+    No, not one Meal to save my Life.
+    I've not a Neighbour, or Relation,
+    But when they see me, quit their Station,
+    And from me, as a Plague, they go,
+    I wish my Creditors would do so!
+    The Dev'l a rag of Clothes has _Jack_
+    'Sides these you see upon my back;
+    And they're so torn, I'm taken still
+    For a walking Paper-Mill.
+
+      My _Hat_ is like a Funnel grown,
+    To vent the Vapours of my Crown.
+
+      M' Eternal _Peruque_ does appear
+    Golden, as _Apollo_'s Hair.
+    And the Moss which hides my Face
+    Is thicker, and as long as his.
+
+      My _Breeches_ like th' Ship _Argo_ seem,
+    Which is, and yet is not the same;
+    For 'tis so patch'd, you cannot call
+    One shred of 't the Original.
+
+      As for my _Cloak_, 'tis well enough.
+    Only 'tis out of Fashion now.
+    But I'm content my Rags 't does hide,
+    For this is an ill time for Pride.
+
+      My _Stockings_ are worse rent and torn,
+    Than ever _Poverty_ was drawn:
+    And round about more _Stars_ appear }
+    Than _Ursa major_ has in th' Sphere,}
+    Or any _Constellation_ there.       }
+
+      My _Shoes_ made of thin _Spanish_ Leather,
+    Do sigh, and sob this Rainy Weather:
+    And in dumb Language of their own,
+    Pity mine, 'cause their _Souls_ are gone.
+
+      As for my _Linnen_, let 't alone,}
+    It needs not a Description;        }
+    As I'm a Poet, I have none.        }
+
+      My lac'd _Crevat_ lies in _Shoe-Lane_,
+    Pawn'd for Tripe, and Chitterlin,
+    With an honest Mother there,
+    One Mistress _Smith_, a Victualler.
+
+      My _Shirt_ lies Morgag'd in a Celler,
+    About the middle of _Long-Acre_,
+    With a Shee-Cook, call'd _Goody Dutton_,
+    For Porrage, Beans, and Chops of Mutton.
+
+      Oh that I had a wooden Leg!
+    Or but one Arm, then might I beg!
+    I'd Steal or Cheat, did I know how,
+    'Tis better hang than perish so.
+
+      I could not hear this piteous moan
+    Unmov'd, nor let him sigh alone.
+    But when I'd all the Comfort gave,
+    He could from Friendly Advice receive;
+    I lent him six-pence, which was half
+    Of the small Stock I had my self.
+    Then after many thanks, and vows,
+    Unto _White-Fryers_ straight he goes:
+    Where Bread and Cheese he said he'ld buy;
+    Or fill himself with Curds and Whey.
+
+      You see what Malice Fate has shown   }
+    To this poor Wretch, who once was known}
+    To be the gayest Spark in Town.        }
+    One who would play at six-pence gleek,
+    And go to _Creswel_'s once a week:
+    Who Din'd at _Locket_'s ev'ry day,
+    And sate in th' Boxes at a Play.
+    Envy it self cannot dispraise
+    His Poems, nor some of his Plays.
+    Three of which just Applause did bear
+    In the _Royal Theatre_.
+    Lords and Knights desired to be
+    Made happy in his Company;
+    And did with a due Rev'rence mark
+    Him, as he walk'd the Streets or _Park_.
+    But this did in a moment cease,
+    'Twas but a sudden, short-liv'd blaze,
+    Like that which is from Meteors sent,
+    Which end their Shine when th' Fuel's spent.
+    Running in Debt, and living High,}
+    And the hissing of his last Play,}
+    Did bring him to this Misery.    }
+
+      May all the Sons of _Helicon_          }
+    Take heed, this Fate prove not their own!}
+    For I've a shrewd suspicion!             }
+    I've seen the briskest of our Crew
+    Walk peny-less, and hungry too,
+    In _Temple-walks_, 'bout Dinner-time,
+    Digesting his crude thoughts int' Rhime;
+    Where, if he meets with a Sir-fool,
+    With empty Head, and Pockets full,
+    Up to him straight he'll make, and cry,
+    Where does your Worship Dine to day?
+    I was this Morning bid by two;    }
+    But Faith I don't much care to go,}
+    I'd rather take a bit with you.   }
+    Then, stretching, swears he is not right,
+    Since being plaguy drunk last Night.
+    And's Company, you needs must know,
+    _My Lord_--_Sir John_--and God knows who.
+    But tho' the Gallant he attacks,
+    Not the least Invitation makes:
+    He must, he says, out of esteem,
+    Not that he's Hungry, wait on him.
+    Then as soon as Dinner's ended,
+    And his last Work read and commended,
+    (Which without Vanity, he says,
+    Is th' best he writ, his Master-piece.)
+    He whisp ring in his Cully's ear,
+    Makes his Necessity appear:
+    Tells him of his last-nights expence,
+    And how he's not recruited since.
+    Then begs his Pard'n, he must away,}
+    To get a Ticket for th' new Play,  }
+    Acted at the _Duke's House_ to day.}
+
+      I've sev'ral _Coffee-Houses_ known}
+    By these unhappy Guests undone,     }
+    For People, now adays, are grown    }
+    So wise, they first of all peep in,}
+    And if a Poet there is seen,       }
+    They presently down stairs agen.   }
+    For who a Devil cares to sit
+    To be drawn by a Poet's wit?
+    Sir _Am'rous_ can't make a Relation
+    Of his last-nights Assignation.
+    The _Sycophant_ can't exercise
+    His Art, for these quick-sighted Spies:
+    Nor _Fopling_ comb his Wigg, but they
+    Make it a Humour for a Play.
+    The Cheat, the Pick-pocket, and Bully,
+    (Who're the best Guests, and spend most Money)
+    Flie the loath'd House where these appear,
+    As if the Constable were there.
+
+      But there are some of Honour yet,  }
+    Who're great pretenders unto Wit,    }
+    And that they m'seem t' encourage it,}
+    Will have a Poet at their tail;
+    And whom to know that you mayn't fail,
+    Has an old-fashion thread-bare Coat,
+    Foul Linnen, Hat not worth a groat.
+    If it be Summer, Freeze he'l wear;     }
+    In th' Winter Stuff, and that so bare, }
+    His Lice can scarce find Harbour there.}
+    Perhaps, he wears a Sword by's side,
+    To 'ts Hilt one yard of Ribband ty'd.
+    In fine, by all he meets, he's t'ane
+    To be th' _Epitome_ of _Long-Lane_.
+    And when their Lordships walk before
+    To th' Tavern, or to see a Whore,
+    He's caution'd not to come too nigh,
+    Lest he disgrace the Company:
+    But b'hind like one new fluxt does crawl,
+    And lets each Foot-boy take the Wall.
+    But when he comes to th' place design'd,
+    Their Lordships use to seem more kind.
+    There he may swagger, swear, and lie,
+    And do any thing--but pay.
+    Then after a sufficient stay,
+    Borrows a Crown, and so good-by'e.
+
+
+
+
+_The Third CANTO._
+
+
+    I'd e'en forgot to let you know
+    The Club w' once kept in _Channel-row_;
+    Where _A_. & _B. C. D._ & _I_,
+    Were th' elements o' th' Company:
+    But all which past there was so common,
+    'Tis scarce worth th' pains of a Relation,
+    How they kept a hideous pother,
+    Damning the Times, and one another.
+    Who most Glasses did destroy,
+    Or with most Courage beat the Boy.
+    How such-a-one commends a Whore,
+    Which t'other prizes Sack before.
+    Or who so neatly div'd away,
+    Ere he his Reckoning did pay.
+    Humours so trite as these, are known
+    To ev'ry Tapster in the Town.
+    But e're they so unruly grew,
+    Thus each ones Character I drew.
+
+      _A._ as 'tis first in th' Alphabet,
+    So here he took the highest seat.
+    As one whose Fortune, Birth, and Wit,
+    Indeed did truly merit it.
+    And here he neither struts nor swaggers,
+    As I have known some Kings o' th' Beggers.
+    But that convenient distance gave,
+    Which else they'ld take without his leave.
+    But him let all with Rev'rence name
+    The Darling, and the Pride of Fame:
+    Who's so all over wrapt in Bays,
+    There's nothing to be seen but's Praise.
+    He's one t' whom each Officious Muse
+    Were of their Favours so profuse,
+    That they have brought themselves to be
+    Fed by his Mercy now; and we,
+    The little Infants of the Art,  }
+    Do as severely feel the smart,  }
+    Deny'd a Younger Brothers part. }
+    Nay, all our stocks won't mount t' a sum
+    To pay him an _Encomium_.
+    He's one whose Works, in times to come,
+    Will be as Honour'd, and become
+    Deathless as _Ben's_ or _Cowley's_ are,    }
+    As _Beaumont_, _Fletcher_, or _Shakespear_,}
+    One he himself is pleas'd t' admire.       }
+    Nor could these Laureats living, be
+    Better prefer'd, or lov'd than he.
+    What could the _Muses_ more have done,
+    Or _Apollo_ for a Son?
+    Yet still he discontented is,
+    And snarles at all the happiness
+    The Richest Poetry can bring,
+    And wounds it too with its own Sting.
+    But who can blame that Active Soul,
+    Which in a larger Sphere would roul?
+    Whose Wit and Learning does deserve
+    More than that narrow Art can give.
+
+      Next unto _A. B._ took his place,
+    Or Sir _Fopling_, if you please.
+    I mean that Famous Limner, who
+    So exactly his own Picture drew.
+    Bless me! how neat a Wigg he has!
+    What a rich Watch and Pocket-Glass!
+    What a gay Suit trim'd all about!
+    Made by a _French-man_ without doubt.
+    His Ruffles and Cravat's all Lace,
+    _Poynt a Venice_ he says it is.
+    To what advantage does he wear
+    His Rings? How stuft with Stones they are?
+    One having this Inscription,
+    _My Plow is all my Portion_.
+    For you must know he's kept by a Miss,
+    A _French_ one too, I've heard she is;
+    Whose Favours tho' he strives to shew,
+    Her scars he has, I assure you too.
+    Here I must his Description end,
+    For fear he should a Challenge send.
+    Tho' he had better stay at home,
+    To Hector Foot-boy, or a Groom.
+
+      On th' other side Heroick _C._
+    Did seat himself most formally.
+    Whose Clothes now did not seem so bad,
+    Because he lately vampt 'em had.
+    His Hat new dress'd, darn'd were his Hose,
+    And neatly underlay'd his Shoes.
+    His Lac'd Cravats again appear,     }
+    And his kind Laundress lets him wear}
+    His Ruffles, and an Hankercher.     }
+    And now he seems to be a made Man,
+    Since he an Int'rest got in _Cadem_--
+    Who now-and-then does not refuse
+    A Crown, t' encourage a slow Muse,
+    A Dish of Coffee, or Bochet,
+    Or on a Sunday a Meals-meat.
+    And 'tis most Charitably done,
+    T' encourage such a wretched one,
+    Without hopes of a Recompence,
+    At least 'till two or three years hence,
+    About which time his Play, we guess,
+    Will be ready for the Press.
+    He's one who much of _Oxford_ talks,
+    Its stately Structures, Air, and Walks:
+    Who, in his time, were Proctors there;  }
+    How often he was caught, and where,     }
+    Or with what craft he 'scap'd the snare.}
+    But if you speak one word of's Chumb,
+    The man immediately grows dumb.
+
+      Then who sat next, if you would know it,
+    'Twas _D._ the brisk lack-latine Poet;
+    Who'll talk of _Virgil_ and _Horatius_,
+    _Homer_, _Ovid_, and _Lucretius_.
+    And by the help of I know who,
+    Sometimes presumes to quote 'em too.
+    He's the fam'd Comedian of the Town,}
+    Who near a dozen Plays does own,    }
+    Tho' I dare swear he ne'r writ one: }
+    But he has good Acquaintance, tho,
+    I am inform'd, a Lord or two,
+    To whom he brings the lump; and they
+    Club to mould it to a Play.
+    And if my Author tells me right,
+    Epistles too themselves they write.
+    May they continue to do so,           }
+    Or else poor _D._ to th' Goal must go,}
+    _Angling for single Money in a Shoe_. }
+
+      Lastly, I must my self explain,
+    One of the same unhappy Train:
+    Who neither Wit or Learning boast,
+    For both are in a Poet lost.
+    Scatter'd to nought in his Carreer,
+    Through Airy Roads, he knows not where.
+    Neither do I hope to find
+    One grain of Fortune left behind.
+    For all I grasp'd which pleas'd me here,
+    Whether they Wealth, or Honours were,
+    As soon they were snatch'd back again,
+    And swallow'd in this Hurricane.
+    But, Sir, I need not op'e to you    }
+    These Ulcers of my Fate anew,       }
+    You've seen so oft, and pitty'd too.}
+    I'll therefore only blame the Cause
+    Which did such Miseries produce:
+    And then for ever bid good-by'e
+    To that starv'd Hag of Poetry.
+
+
+
+
+_The Fourth CANTO._
+
+
+    _Phoebus!_ art thou the God of Wit,
+    Yet takest no more care of it?
+    Because thou art invok'd by us,
+    Must we be damn'd and tortur'd thus?
+    And art resolv'd, lean Poverty
+    Shall still thy Badge and Liv'ry be?
+    As well, let Paper-Mills, and all
+    The lousie Tribe of Begger's Hall,
+    With the ragged Gipsie-Crue,
+    Be Dedicated to thee too!
+    All the _Muses_ ask thee why
+    Thou 'dopt'st 'em to such Slavery!
+    And suffer'st ev'ry Fop in Town,   }
+    For to insult and trample on       }
+    These rad'ent Di'dems of thy Crown!}
+    Sure thou want'st _Pow'r_ to Rule below;
+    For 'tis not _Policy_ to do so.
+    No! _Kings_ their Greatness do secure
+    By their _Subjects_ Wealth and Pow'r.
+    Nay, th' _Gods_ may lose their Deities,
+    If their Religious _Votaries_
+    Do so Poor and Needy grow,
+    That they want _Victims_ to bestow.
+    But Wit will above all things cease,
+    Deny'd the helps of Wealth and Ease.
+    It must be cherish'd and kept warm;
+    Which, like the _Halcyon_, hates a Storm.
+    But since I find I am us'd so,
+    And treated worse than _Turk_ or _Jew_:
+    Since the Tinker and his Trull
+    Strut it with their Bellies full:
+    Since the Cobler and the Sweep-Chimney
+    Live happier and more safe than me,
+    I'll quit thy Service, great _Apollo_,
+    And some new Vocation follow:
+    And tear thy _Idea's_ from my Brain,
+    With thy starv'd, wretched Female Train.
+
+      But must I from thy Service go
+    Naked, in mid'st of Winter too?
+    Did I for this a year, or more,
+    Thy Airy, empty Shrine adore?
+    Are thus my Cares and Watchings pay'd?
+    The thousand Vows and Pray'rs I made?
+    The Lights which on thy Altar shone,
+    When thou wert forc'd to hide thy own?
+    Think how ost thou hast me espy'd
+    Walking by such a Rivers side!
+    When I saw thy shining Beam
+    Gild the smooth Surface of the Stream,
+    Thou know'st I did thy Image greet,
+    And sang a thousand Hymns to it.
+    But since I find I am thus serv'd,
+    Rent and torn, and almost starv'd,
+    Yet would'st thou have me longer stay
+    To expect a fairer Day?
+    Should I be couzen'd to do so,
+    And again my Vows renew,
+    My Case would never better'd be }
+    Under thy Conduct, no, tho' I   }
+    Should share in th' Immortality.}
+
+      Loath'd Muse! Hag of my rest, be gone!
+    Who'rt Scandalous as Av'rice grown:
+    Common as any _Whetstone_-Whore,
+    Where Poets learn their Stage-Amour.
+    Go jilt among thy Vot'ries there,
+    And clap 'em with Poetick fire!
+    Flie to some Rhymer of the Town,
+    By his lean, hungry Visage known!
+    That Renegado, whifling Blade,
+    Who's not himself but when he's Mad!
+    But 'tis not all thy _Syren_-charms
+    Can again tempt me to thy Arms:
+    For I too well thy Couz'nage know,
+    Thy hollow Heart, and painted Brow.
+    How first thou to my Brain did'st creep,
+    And whil'st my Sense was lock'd in sleep,
+    Thou did'st before my Fancy's Eye
+    A thousand gaudy Fantasms lay.
+    Then thorow false Perspectives show
+    Groves, where gilded Lawrels grow.
+    And ev'ry Tree's Ambrosiack Root
+    With Arms of Nectar clasp'd about,
+    In whose bright Streams I did espie
+    Nine Naked Airy Ladies play:
+    Some swimming on their Backs were seen,
+    Who rise aloft, then dive agen;
+    Whilst others yet more Am'rous grew,}
+    And seem'd not only to bestow       }
+    Brimmers, but gave Embraces too.    }
+    And th' little Mansions where they dwell,}
+    Were some of Gold, and some of Pearl,    }
+    Tyl'd and Pav'd with Tortoise-shell.     }
+
+      A hundred things as vain as these,
+    Did once my partial Fancy please:
+    But when I look'd about to know
+    Whether they real were, or no;
+    I apprehended the mistake,
+    As Dreams of Pleasures when we 'wake.
+    For when the crafty _Muses_ thought
+    They'd me for a Disciple got;
+    They took the painted Scene away;
+    Lay'd down their Smiles and Flattery,
+    And now in their own Shapes appear
+    Rough, and Ghastly, as they are.
+
+      Wherefore once more, Ladies adieu!
+    Farewel to _England_, and to you.
+    For I'm resolv'd; and now ev'n Gain
+    Shan't draw me to yee back again.
+    Tho' _Juno_ should assure me more,
+    Than she did _Paris_ heretofore:
+    Or _Venus_ too at the same time;
+    I would not give 'em thanks in Rhyme.
+    No, tho' should all of you agree
+    To give your _Helicon_ to me.
+    Tho' those dear Bays I once did woo, }
+    Should strive to cling about my Brow;}
+    Nay, tho they were gilded too.       }
+    I'ld thence those fruitless Branches tear,
+    And throw 'em with my Muse in th' fire.
+    So what she so long courted, shall
+    At last adorn her Funeral.
+
+      Here I would end, be'ng much in hast,
+    And tyr'd with scribbling so fast:
+    Howe're a word or two I'll add,
+    Lest you infer from what I've said,
+    That Poverty's the only cause
+    Which makes me thus desert my Muse.
+    Thus far, indeed, the cause 't'as bin,
+    As 'tis th' effect of such a sin.
+    For who 'n that Art can hope to thrive,
+    Which does such wicked Licence give?
+    Whose first Founders _Pagans_ were,
+    Groping for Truth they knew not where?
+    And shall we _Christians_ Sacrifice
+    To their Fantastick _Deities_?
+    No, were I Rich 'nough to set up,
+    I would not keep a Poet's Shop;
+    Nor Traffick in such dang'rous Ware,
+    They sell so cheap, and buy so dear.
+    I'ld not pick up each Whore I meet,  }
+    Give her a _Guynie_ and a Treat;     }
+    Nor maintain Pimps nor Bawds for wit.}
+    No, I'ld not give one brass Half-crown
+    For all the Bawdry in the Town:
+    For all th' Intrigues your _Whetstone_-Bawd,
+    _More-Fields_, or _Tower-Hill_ afford.
+    To see _Miss Betty_ ev'ry day,
+    Dance Naked, or the Tumbler play.
+    How well upon her Head she stood,
+    Or with what Art she us'd the Rod.
+    Or how she was unrig'd and kick'd,
+    When _Sir John_ found his Pockets pick'd.
+
+      I have not been at _Newgate_ yet,
+    To learn the Lifter, or the Cheat.
+    But such lewd Learning let alone
+    To the brisk _Poets_ of the _Town_.
+
+_FINIS._
+
+PRESS VARIANTS
+
+AND
+
+NOTES
+
+
+
+
+PRESS VARIANTS
+
+
+Copies collated: Clark (CLC); Trinity College, Cambridge, H. 6. 93^9
+(CT1) and H. 10. 28^6 (CT2); British Museum (L); Folger (WF1);
+Folger/Luttrell (WF2).
+
+
+Sheet B--Outer Forme.
+
+_Uncorrected_: CT1, CT2, L, WF1.
+
+_Corrected_: CLC, WF2.
+
+B4^v, _l._ 7. Paragraph indentation supplied.
+
+
+Sheet B--Inner Forme.
+
+_Uncorrected_: CLC, CT1, WF1.
+
+_Corrected_: CT2, L, WF2.
+
+B4^r, _l._ 1. Chymsts] Chymists
+
+
+Sheet C--Inner Forme.
+
+_Uncorrected_: CT1, CT2, CLC
+
+_Corrected_: L, WF1, WF2.
+
+C3^v, _l._ 15. _Peruque_] _Perruque_
+
+C4^r, _l._ 13. _Crevat_] _Cravat_
+
+
+
+
+NOTES
+
+
+These notes are of necessity selective and are chiefly concerned with
+the identification of persons. No attempt has been made to indicate the
+complex textual relationships of the two versions. Where detailed
+evidence for identifications is not given, the reader is referred to the
+article mentioned above.
+
+Title-page. _Parve_ ... _quo_-. Ovid, _Tristia_, I, i, 1-2.
+
+A2^v-A3^v. The authors of the extracts are Dryden, Shadwell, Lacy, Lee,
+and Banks. The Banks extract is unlikely to have been in print for more
+than a few weeks at the time _PdT_ was published. The corresponding list
+in _PC_ is called "Quotations" and contains twenty-three passages of
+which only two reappear in _PdT_.
+
+A4^r: 15-16. _Philip, the first Christian Emperour._ Marcus Julius
+Philipus, c. 204-249.
+
+P. 2: 21-22. _Yet ... Liberty._ The press regained its liberty through
+the expiry of the Licensing Act in 1679. This passage does not occur in
+_PC_ and may be one of the "Ingenious Person's" additions to _PdT_.
+
+P. 3: 28. _Cris-cros-row._ I.e., Christ-cross-row. The alphabet with a
+cross before it as represented in horn books.
+
+P. 4: 4. _Honourable stabs._ Perhaps a reference to the attack on Dryden
+in Rose Alley on 16 December 1679, which was popularly attributed to
+various honorable persons satirized in Mulgrave's _An Essay upon Satyr_.
+
+P. 4: 9-10. _Tho' ... Bays._ Cf. John Aubrey on the funeral of Samuel
+Butler on 27 September 1680:
+
+     About 25 of his old acquaintance at his Funerall. I myself being
+     one of the eldest, helped to carry the Pall. His coffin covered
+     with black Bayes. (_Brief Lives_, ed. O. L. Dick [London, 1958], p.
+     47.)
+
+P. 6: 7. _As Tonnellers catch Partridge._ A tunnel was a kind of net
+used by bird-catchers.
+
+P. 6: 21-22. _As ... go._ Cf. Donne's "A Lame Begger," _The Satires,
+Epigrams and Verse Letters_, ed. W. Milgate (Oxford, 1969), p. 51.
+
+P. 6: 27. _BARBARA._ The opening word of a mnemonic used in expressing
+the moods of the syllogism.
+
+P. 7: 21. _Lab'ring Muses._ _PC_ has "tab'ring" (i.e., playing on
+tabors), a fairly clear case of _lectio difficilior_.
+
+P. 10: 6. _How a curst Broker met a Poet._ The earlier part of the
+description seems to be hinting at the distresses of John Banks, who was
+reduced to poverty after two of his plays met censorship trouble;
+however, the closing section on pp. 16-17 is clearly meant to refer to
+Wycherley. It is possible that this is another of the "Ingenious
+Person's" additions. Indeed it would have to be as Wycherley's troubles
+did not begin until after the date given for the departure of the Poeta.
+
+P. 10: 21. _White-Fryers._ The sanctuary area on the city side of the
+Temple: Shadwell's Alsatia.
+
+P. 12: 1-2. _half ... Temple-Bar._ I.e., Whitefriars.
+
+P. 12: 26. _Being Tragedy, and writ in Rhimes._ Dryden abandoned rhyme
+with _All for Love_ (1677). Cf. Elkanah Settle's complaint in the
+preface to _Ibrahim_ (licensed 4 May 1676): "Another misfortune the Play
+had, that it was written in Rhime, a way of writing very much out of
+Fashion...."
+
+P. 16: 9. _Where Bread and Cheese he said he'ld buy._ This detail has
+some resemblance to a circumstance in Shiels and Cibber's account of
+the death of Otway, which may derive from a mistaken belief that he was
+the subject of the passage. See R. G. Ham, _Otway and Lee_ (New Haven,
+1931), p. 214.
+
+P. 16: 14. _One who would play at six-pence gleek._ The index of
+extravagance at gleek seems to have advanced alarmingly in the course of
+the seventeenth century. Jonson in _The Devil is an Ass_ (V, ii, 31)
+specifies three-pence; however, Shadwell in 1680 was already foreseeing
+a shilling (_Works_, ed. M. Summers, IV, 60).
+
+P. 16: 15. _Creswel's._ The famous bawdy house, finally closed down in
+1681.
+
+P. 16: 16. _Locket's._ An ordinary at Charing-Cross mentioned in many
+Restoration comedies.
+
+P. 16: 21. _the Royal Theatre._ Presumably the Theatre Royal, Drury
+Lane, although the term could equally well be meant for the theatre at
+Whitehall.
+
+P. 17: 7. _the briskest of our Crew._ Probably Dryden, although the
+description has some problematical features. The fact that the poet is a
+rhymer and connected with the Duke's house rules out most other
+possibilities.
+
+P. 19: 1. _Will have a Poet at their tail._ Possibly Otway. In _PC_ (pp.
+2-3), a shorter version of the description is combined with lines from
+the "Dryden" portrait--the one piece of evidence for the truncation
+theory:
+
+    Then there are mighty Peers o' th' Realm,
+    Whose conduct helps to steer the Helm:
+    They're great pretenders unto Wit.
+    And that they may seem to incourage it
+    They'll have a Poet at their Tail:
+    And that to know him they mayn't fail,
+    He has an old fashion thread-bare Coat,
+    Foul Linnen, Hat not worth a Groat;
+    One points and cries, there goes _Long-lane_,
+    Another cries, he's Long-and-Lean.
+    For like one newly fluxt he'l crawl,
+    And lets the Foot-Boys take the Wall.
+    But when to th' Tavern they do go,
+    Their Honours will more freedom show;
+    There they may Swagger Swear and Lye,
+    And doe any thing, but Pay:
+    Damn ye, I din'd with such a Lord to Day,
+    And such a Lord did like my Play:
+    And without Vanity it is
+    The best I writ, my Master-piece.
+
+P. 20: 2. _Channel-row._ The scene of this canto is Arthur Prior's
+Rhenish house in Channel-row near Whitehall.
+
+P. 20: 19. _A. as 'tis first in th' Alphabet._ In view of his exalted
+station, wealth, and Whiggish company, it is probably safe to identify
+"A" with Charles Sackville, Sixth Earl of Dorset, who is known as a
+habitue of Prior's wineshop through the stories of his encouragement of
+the owner's nephew Matthew. However, most details would apply equally
+well--in his own mind at least--to another prominent patron of the day,
+John Sheffield, Earl of Mulgrave. In this connection, it is interesting
+to note that Mulgrave's account at Child's bank records a payment of
+L20/--/--made on 14 May 1683 to a Thomas Wood. The name was, naturally,
+a common one.
+
+P. 21: 28. _And wounds it too with its own Sting._ Presumably a
+reference to Dorset's "On Mr. Edward Howard upon his British Princes" or
+Mulgrave's "An Essay upon Satyr." Both poems may be found in the first
+volume of the Yale _Poems on Affairs of State_ series (ed. George
+deForrest Lord [New Haven, 1963]).
+
+P. 22: 3. _Next unto A. B. took his place._ Sir George Etherege. The
+opening lines anticipate Dean Lockier's comment recorded by Spence that
+"he was exactly his own Sir Fopling Flutter" which may on the other hand
+be derived from it. See Joseph Spence, _Observations, Anecdotes, and
+Characters of Books and Men_, ed. James M. Osborn (Oxford, 1966), p.
+281.
+
+P. 22: 17. _For you must know he's kept by a Miss._ Frederick Bracher
+has pointed out in a letter that Etherege was closely connected at this
+time with the circle of the Duchesse de Mazarin. See James Thorpe's note
+on "A Song on Basset," _The Poems of Sir George Etherege_ (Princeton,
+1963), pp. 85-87.
+
+P. 22: 25. _Heroick C._ Elkanah Settle.
+
+P. 23: 7. _Cadem_----. William Cademan, Settle's principal publisher.
+
+P. 23: 23. _But if you speak one word of's Chumb._ Probably William
+Buller Fyfe, an Oxford friend who had assisted Settle with his first
+play, _Cambyses_. Fyfe was dead by the time the play reached the stage
+and Settle was criticized for bringing it out under his own name only.
+
+P. 23: 26. _D. the brisk lack-latine Poet._ Thomas Shadwell. The
+accusation that he knew no Latin was repeated by Dryden in _The
+Vindication of the Duke of Guise_ (1683) and is denied with
+characteristic stridency by Shadwell in _The Tenth Satyr of Juvenal_
+(1687). The accusation that his plays were partly written by others is
+made by Dryden in _Mac Flecknoe_ ("But let no alien Sedley interpose")
+and is present by implication in Rochester's reference in "Timon" to
+"Shadwell's unassisted former Scenes...." Shadwell began his career as
+the collaborator of the aged Duke of Newcastle and acknowledges Sedley's
+help in his best comedy, _A True Widow_ (1678). He was on good terms
+with Rochester, Dorset, and Buckingham and addressed dedications to the
+two last. The references to Horace and Lucretius allude to the preface
+to _The Humorists_ and the opening scene of _The Virtuoso_,
+respectively.
+
+P. 24: 14. _Angling for single Money in a Shoe._ This line from the
+Epilogue to _The Libertine_ (1676) is quoted in context in the Author's
+Epistle. It also appears on the title-page of _PC_.
+
+P. 27: 14. _Whetstone-Whore_. A reference to Whetstone Park, a street at
+the North end of Lincoln's Inn Fields. The name was subsequently changed
+to Whetstone St., but has since reverted, perhaps under the
+liberalizing influences of its principal present-day occupants, _The New
+Statesman_ and the Olivetti typewriter company.
+
+P. 30: 12-17. _To ... pick'd._ The reference is apparently to one of the
+"posture artists" of Moorfields, another brothel district; however,
+there may also be an allusion intended to an incident in the Duke's
+playhouse on 23 June 1679, when John Churchill, the future Duke of
+Marlborough, attempted to cane Betty Mackerell, an orange girl, and was
+thrashed in his turn by Thomas Otway. See Ham, _Otway and Lee_, pp.
+112-115.
+
+
+William Andrews Clark Memorial Library: University of California, Los
+Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+2520 CIMARRON STREET, LOS ANGELES, CALIFORNIA 90018
+
+_General Editors:_ William E. Conway, William Andrews Clark Memorial
+Library; George Robert Guffey, University of California, Los Angeles:
+Maximillian E. Novak, University of California, Los Angeles
+
+_Corresponding Secretary:_ Mrs. Edna C. Davis, William Andrews Clark
+Memorial Library
+
+       *       *       *       *       *
+
+The Society's purpose is to publish rare Restoration and
+eighteenth-century works (usually as facsimile reproductions). All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning memberships in the United States and Canada
+should be addressed to the Corresponding Secretary at the William
+Andrews Clark Memorial Library, 2520 Cimarron Street, Los Angeles,
+California. Correspondence concerning editorial matters may be addressed
+to the General Editors at the same address. Manuscripts of introductions
+should conform to the recommendations of the MLA _Style Sheet_. The
+membership fee is $5.00 a year in the United States and Canada and
+L.19.6 in Great Britain and Europe. British and European prospective
+members should address B. H. Blackwell, Broad Street, Oxford, England.
+Copies of back issues in print may be obtained from the Corresponding
+Secretary.
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit, from
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+       *       *       *       *       *
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+
+REGULAR PUBLICATIONS FOR 1970-1971
+
+
+145-146. Thomas Shelton, _A Tutor to Tachygraphy, or, Short-writing_,
+1642, and _Tachygraphy_, 1647. Introduction by William Matthews.
+
+147-148. _Deformities of Dr. Samuel Johnson_, 1782. Introduction by Gwin
+J. Kolb and J. E. Congleton.
+
+149. _POETA DE TRISTIBUS: or, the Poet's Complaint_, 1682. Introduction
+by Harold Love.
+
+150. Gerard Langbaine, _Momus Triumphans: or, the Plagiaries of the
+English Stage [A New Catalogue of English Plays]_, 1687. Introduction by
+David Rodes.
+
+       *       *       *       *       *
+
+Members of the Society will receive copies of Clark Library seminar
+papers.
+
+
+
+
+SPECIAL PUBLICATION FOR 1969-1970-1971
+
+
+Gerard Langbaine, _An Account of the English Dramatick Poets_ (1691),
+Introduction by John Loftis. 2 Volumes. Approximately 600 pages. Price
+to members of the Society, $7.00 for the first copy (both volumes), and
+$8.50 for additional copies. Price to non-members, $10.00.
+
+       *       *       *       *       *
+
+Already published in this series:
+
+1. John Ogilby, _The Fables of Aesop Paraphras'd in Verse_ (1668), with
+an Introduction by Earl Miner. 228 pages.
+
+2. John Gay, _Fables_ (1727, 1738), with an Introduction by Vinton A.
+Dearing. 366 pages.
+
+3. _The Empress of Morocco and Its Critics_ (Elkanah Settle, _The
+Empress of Morocco_ [1673] with five plates; _Notes and Observations on
+the Empress of Morocco_ [1674] by John Dryden, John Crowne and Thomas
+Shadwell; _Notes and Observations on the Empress of Morocco Revised_
+[1674] by Elkanah Settle; and _The Empress of Morocco. A Farce_ [1674]
+by Thomas Duffett), with an Introduction by Maximillian E. Novak. 348
+pages.
+
+4. _After THE TEMPEST_ (the Dryden-Davenant version of _The Tempest_
+[1670]; the "operatic" _Tempest_ [1674]; Thomas Duffett's _Mock-Tempest_
+[1675]; and the "Garrick" _Tempest_ [1756]), with an Introduction by
+George Robert Guffey. 332 pages.
+
+Price to members of the Society, $3.50 for the first copy of each title,
+and $4.25 for additional copies. Price to non-members, $5.00. Standing
+orders for this continuing series of Special Publications will be
+accepted. British and European orders should be addressed to B. H.
+Blackwell, Broad Street, Oxford, England.
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+PUBLICATIONS IN PRINT
+
+1948-1949
+
+16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).
+
+18. Anonymous, "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+(1719), and Aaron Hill, Preface to _The Creation_ (1720).
+
+
+1949-1950
+
+19. Susanna Centlivre, _The Busie Body_ (1709).
+
+20. Lewis Theobald, _Preface to the Works of Shakespeare_ (1734).
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+_Rambler_ papers (1750).
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+1951-1952
+
+26. Charles Macklin, _The Man of the World_ (1792).
+
+31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751), and
+_The Eton College Manuscript_.
+
+
+1952-1953
+
+41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+
+1963-1964
+
+104. Thomas D'Urfey, _Wonders in the Sun; or, The Kingdom of the Birds_
+(1706).
+
+
+1964-1965
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. Anonymous, _Political Justice_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+
+114. _Two Poems Against Pope_: Leonard Welsted, _One Epistle to Mr. A.
+Pope_ (1730), and Anonymous, _The Blatant Beast_ (1742).
+
+
+1965-1966
+
+115. Daniel Defoe and others, _Accounts of the Apparition of Mrs. Vea_
+
+116. Charles Macklin, _The Covent Garden Theatre_ (1752).
+
+117. Sir Roger L'Estrange, _Citt and Bumpkin_ (1680).
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_
+(1717).
+
+120. Bernard Mandeville, _Aesop Dress'd or a Collection of Fables_
+(1704).
+
+
+1966-1967
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to Mr.
+Thomas Rowley_ (1782).
+
+124. Anonymous, _The Female Wits_ (1704).
+
+125. Anonymous, _The Scribleriad_ (1742). Lord Hervey, _The Difference
+Between Verbal and Practical Virtue_ (1742).
+
+
+1967-1968
+
+129. Lawrence Echard, _Prefaces to Terence's Comedies_ (1694) and
+_Plautus's Comedies_ (1694).
+
+130. Henry More, _Democritus Platonissans_ (1646).
+
+132. Walter Harte, _An Essay on Satire, Particularly on the Dunciad_
+(1730).
+
+
+1968-1969
+
+133. John Courtenay, _A Poetical Review of the Literary and Moral
+Character of the Late Samuel Johnson_ (1786).
+
+134. John Downes, _Roscius Anglicanus_ (1708).
+
+135. Sir John Hill, _Hypochondriasis, a Practical Treatise_ (1766).
+
+136. Thomas Sheridan, _Discourse ... Being Introductory to His Course of
+Lectures on Elocution and the English Language_ (1759).
+
+137. Arthur Murphy, _The Englishman From Paris_ (1736).
+
+138. [Catherine Trotter], _Olinda's Adventures_ (1718).
+
+
+1969-1970
+
+139. John Ogilvie, _An Essay on the Lyric Poetry of the Ancients_
+(1762).
+
+140. _A Learned Dissertation on Dumpling_ (1726) and _Pudding Burnt to
+Pot or a Compleat Key to the Dissertation on Dumpling_ (1727).
+
+141. Selections from Sir Roger L'Estrange's _Observator_ (1681-1687).
+
+142. Anthony Collins, _A Discourse Concerning Ridicule and Irony in
+Writing_ (1729).
+
+143. _A Letter From A Clergyman to His Friend, With An Account of the
+Travels of Captain Lemuel Gulliver_ (1726).
+
+144. _The Art of Architecture, A Poem. In Imitation of Horace's Art of
+Poetry_ (1742).
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit, from
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+Publications in print are available at the regular membership rate of
+$8.00 yearly. Prices of single issues may be obtained upon request.
+Subsequent publications may be checked in the annual prospectus.
+
+       *       *       *       *       *
+
+     Transcriber's Notes:
+
+     Obvious spelling and typos corrected in the prose. Poetry lines
+     corrected to image.
+
+     In this version superscripts are introduced by the caret character,
+     e.g. 28^6
+
+
+
+
+
+End of the Project Gutenberg EBook of Poeta de Tristibus: Or, the Poet's
+Complaint, by Anonymous
+
+*** END OF THIS PROJECT GUTENBERG EBOOK POETA DE TRISTIBUS ***
+
+***** This file should be named 43673.txt or 43673.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/3/6/7/43673/
+
+Produced by Chris Curnow, Richard Tonsing, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
