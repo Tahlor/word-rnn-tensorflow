@@ -1,2051 +1,1351 @@
-e Project Gutenberg EBook of Shapes and Shadows, by Madison J. Cawein
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Shapes and Shadows
-
-Author: Madison J. Cawein
-
-Release Date: July 8, 2010 [EBook #33112]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK SHAPES AND SHADOWS ***
-
-
-
-
 Produced by Sankar Viswanathan, David Garcia, and the
 Online Distributed Proofreading Team at http://www.pgdp.net
 (This file was produced from images generously made
 available by The Kentuckiana Digital Library)
-
-
-
-
-
-
-
-                    [Illustration: MADISON CAWEIN]
-
-
-             Under the Stars and Stripes.
-
-
-    High on the world did our fathers of old,
-        Under the stars and stripes,
-    Blazon the name that we now must uphold,
-        Under the stars and stripes.
-    Vast in the past they have builded an arch
-    Over which Freedom has lighted her torch.
-    Follow it! Follow it! Come, let us march
-        Under the stars and stripes!
-
-    We in whose bodies the blood of them runs,
-        Under the stars and stripes,
-    We will acquit us as sons of their sons,
-        Under the stars and stripes.
-    Ever for justice, our heel upon wrong,
-    We in the light of our vengeance thrice strong!
-    Rally together! Come tramping along
-        Under the stars and stripes!
-
-    Out of our strength and a nation's great need,
-        Under the stars and stripes,
-    Heroes again as of old we shall breed,
-        Under the stars and stripes.
-    Broad to the winds be our banner unfurled!
-    Straight in Spain's face let defiance be hurled!
-    God on our side, we will battle the world
-        Under the stars and stripes!
-
-                                  MADISON CAWEIN.
-
-                From "_Poems of American Patriotism_,"
-                       selected by _R. L. Paget_.
-
-       *       *       *       *       *
-
-
-
-
-                                SHAPES
-
-                                 and
-
-                               SHADOWS
-
-
-                      POEMS by _Madison Cawein_
-
-
-
-
-                      NEW YORK: _R. H. Russell_
-
-                             MDCCCXCVIII
-
-
-                 _Copyright, 1898, by R. H. Russell_
-
-       *       *       *       *       *
-
-
-
-
+Under the Stars and Stripes.
+High on the world did our fathers of old,
+Under the stars and stripes,
+Blazon the name that we now must uphold,
+Under the stars and stripes.
+Vast in the past they have builded an arch
+Over which Freedom has lighted her torch.
+Follow it! Follow it! Come, let us march
+Under the stars and stripes!
+We in whose bodies the blood of them runs,
+Under the stars and stripes,
+We will acquit us as sons of their sons,
+Under the stars and stripes.
+Ever for justice, our heel upon wrong,
+We in the light of our vengeance thrice strong!
+Rally together! Come tramping along
+Under the stars and stripes!
+Out of our strength and a nation's great need,
+Under the stars and stripes,
+Heroes again as of old we shall breed,
+Under the stars and stripes.
+Broad to the winds be our banner unfurled!
+Straight in Spain's face let defiance be hurled!
+God on our side, we will battle the world
+Under the stars and stripes!
+From "_Poems of American Patriotism_,"
+selected by _R. L. Paget_.
+*       *       *       *       *
+and
+POEMS by _Madison Cawein_
+NEW YORK: _R. H. Russell_
+_Copyright, 1898, by R. H. Russell_
+*       *       *       *       *
 To
-
-HARRISON S. MORRIS
-
-       *       *       *       *       *
-
-
-
-
+*       *       *       *       *
 A Table of Contents
-
-
 _The Evanescent Beautiful_         1
-
 _August_                           2
-
 _The Higher Brotherhood_           4
-
 _Gramarye_                         5
-
 _Dreams_                           7
-
 _The Old House_                    8
-
 _The Rock_                        10
-
 _Rain_                            12
-
 _Standing-Stone Creek_            13
-
 _The Moonmen_                     15
-
 _The Old Man Dreams_              19
-
 _Since Then_                      20
-
 _Comrades_                        21
-
 _Waiting_                         23
-
 _Contrasts_                       24
-
 _In June_                         25
-
 _After long Grief and Pain_       26
-
 _Can I forget?_                   27
-
 _The House of Fear_               28
-
 _At Dawn_                         29
-
 _Storm_                           30
-
 _Memories_                        31
-
 _Which_                           32
-
 _Sunset in Autumn_                34
-
 _The Legend of the Stone_         36
-
 _Time and Death and Love_         40
-
 _Passion_                         41
-
 _When the Wine-Cup at the Lip_    42
-
 _Art_                             43
-
 _A Song for Old Age_              45
-
 _Tristram and Isolt_              46
-
 _The Better Lot_                  47
-
 _Dusk in the Woods_               48
-
 _At the Ferry_                    50
-
 _Her Violin_                      52
-
 _Her Vesper Song_                 54
-
 _At Parting_                      55
-
 _Carissima Mea_                   56
-
 _Margery_                         59
-
 _Constance_                       61
-
 _Gertrude_                        63
-
 _Lydia_                           64
-
 _A Southern Girl_                 65
-
 _A Daughter of the States_        66
-
 _An Autumn Night_                 67
-
 _Lines_                           68
-
 _The Blind God_                   69
-
 _A Valentine_                     70
-
 _A Catch_                         71
-
 _The New Year_                    73
-
 _Then and Now_                    75
-
 _Epilogue_                        76
-
-       *       *       *       *       *
-
-
-
-
+*       *       *       *       *
 The Dedication
-
-
-    _Ah, not for us the Heavens that hold_
-    GOD'S _message of Promethean fire!
-    The Flame that fell on bards of old
-    To hallow and inspire._
-
-    _Yet let the Soul dream on and dare
-    No less_ SONG'S _height that these possess:
-    We can but fail; and may prepare
-    The way to some success._
-
-       *       *       *       *       *
-
-
-
-
+_Ah, not for us the Heavens that hold_
+GOD'S _message of Promethean fire!
+The Flame that fell on bards of old
+To hallow and inspire._
+_Yet let the Soul dream on and dare
+No less_ SONG'S _height that these possess:
+We can but fail; and may prepare
+The way to some success._
+*       *       *       *       *
 Shapes & Shadows
-
 _By Madison Cawein_
-
-THE EVANESCENT BEAUTIFUL.
-
-
-    Day after Day, young with eternal beauty,
-    Pays flowery duty to the month and clime;
-    Night after night erects a vasty portal
-    Of stars immortal for the march of Time.
-
-    But where are now the Glory and the Rapture,
-    That once did capture me in cloud and stream?
-    Where now the Joy that was both speech and silence?
-    Where the beguilance that was fact and dream?
-
-    I know that Earth and Heaven are as golden
-    As they of olden made me feel and see;
-    Not in themselves is lacking aught of power
-    Through star and flower--something's lost in me.
-
-    _Return! Return!_ I cry, _O Visions vanished,
-    O Voices banished, to my Soul again!_--
-    The near Earth blossoms and the far Skies glisten,
-    I look and listen, but, alas! in vain.
-
-
-
-
+Day after Day, young with eternal beauty,
+Pays flowery duty to the month and clime;
+Night after night erects a vasty portal
+Of stars immortal for the march of Time.
+But where are now the Glory and the Rapture,
+That once did capture me in cloud and stream?
+Where now the Joy that was both speech and silence?
+Where the beguilance that was fact and dream?
+I know that Earth and Heaven are as golden
+As they of olden made me feel and see;
+Not in themselves is lacking aught of power
+Through star and flower--something's lost in me.
+_Return! Return!_ I cry, _O Visions vanished,
+O Voices banished, to my Soul again!_--
+The near Earth blossoms and the far Skies glisten,
+I look and listen, but, alas! in vain.
 _August._
-
-
-I
-
-    Clad on with glowing beauty and the peace,
-      Benign, of calm maturity, she stands
-      Among her meadows and her orchard-lands,
-    And on her mellowing gardens and her trees,
-      Out of the ripe abundance of her hands,
-                  Bestows increase
-    And fruitfulness, as, wrapped in sunny ease,
-                Blue-eyed and blonde she goes,
-    Upon her bosom _Summer's_ richest rose.
-
-
-II
-
-    And he who follows where her footsteps lead,
-      By hill and rock, by forest-side and stream,
-      Shall glimpse the glory of her visible dream,
-    In flower and fruit, in rounded nut and seed:
-      She in whose path the very shadows gleam;
-                  Whose humblest weed
-    Seems lovelier than _June's_ loveliest flower, indeed,
-                And sweeter to the smell
-    Than _April's_ self within a rainy dell.
-
-
-III
-
-    Hers is a sumptuous simplicity
-      Within the fair Republic of her flowers,
-      Where you may see her standing hours on hours,
-    Breast-deep in gold, soft-holding up a bee
-      To her hushed ear; or sitting under bowers
-                  Of greenery,
-    A butterfly a-tilt upon her knee;
-                Or, lounging on her hip,
-    Dancing a cricket on her finger-tip.
-
-
-IV
-
-    Aye, let me breathe hot scents that tell of you:
-      The hoary catnip and the meadow-mint,
-      On which the honour of your touch doth print
-    Itself as odour. Let me drink the hue
-      Of ironweed and mist-flow'r here that hint,
-                  With purple and blue,
-    The rapture that your presence doth imbue
-                Their inmost essence with,
-    Immortal though as transient as a myth.
-
-
-V
-
-    Yea, let me feed on sounds that still assure
-      Me where you hide: the brooks', whose happy din
-      Tells where, the deep retired woods within,
-    Disrobed, you bathe; the birds', whose drowsy lure
-      Tells where you slumber, your warm-nestling chin
-                  Soft on the pure
-    Pink cushion of your palm ... What better cure
-                For care and memory's ache
-    Than to behold you so and watch you wake!
-
-
-
-
-THE HIGHER BROTHERHOOD.
-
-
-    To come in touch with mysteries
-    Of beauty idealizing Earth,
-    Go seek the hills, grown old with trees,
-    The old hills wise with death and birth.
-
-    There you may hear the heart that beats
-    In streams, where music has its source;
-    And in wild rocks of green retreats
-    Behold the silent soul of force.
-
-    Above the love that emanates
-    From human passion, and reflects
-    The flesh, must be the love that waits
-    On Nature, whose high call elects
-
-    None to her secrets save the few
-    Who hold that facts are far less real
-    Than dreams, with which all facts indue
-    Themselves approaching the Ideal.
-
-
-
-
-GRAMARYE.
-
-
-    There are some things that entertain me more
-    Than men or books; and to my knowledge seem
-    A key of Poetry, made of magic lore
-    Of childhood, opening many a fabled door
-    Of superstition, mystery, and dream
-              Enchantment locked of yore.
-
-    For, when through dusking woods my pathway lies,
-    Often I feel old spells, as o'er me flits
-    The bat, like some black thought that, troubled, flies
-    Round some dark purpose; or before me cries
-    The owl that, like an evil conscience, sits
-              A shadowy voice and eyes.
-
-    Then, when down blue canals of cloudy snow
-    The white moon oars her boat, and woods vibrate
-    With crickets, lo, I hear the hautboys blow
-    Of Elf-land; and when green the fireflies glow,
-    See where the goblins hold a Fairy Fete
-              With lanthorn row on row.
-
-    Strange growths, that ooze from long-dead logs and spread
-    A creamy fungus, where the snail, uncoiled,
-    And fat slug feed at morn, are Pixy bread
-    Made of the yeasted dew; the lichens red,
-    Besides these grown, are meat the Brownies broiled
-              Above a glow-worm bed.
-
-    The smears of silver on the webs that line
-    The tree's crook'd roots, or stretch, white-wove, within
-    The hollow stump, are stains of Faery wine
-    Spilled on the cloth where Elf-land sat to dine,
-    When night beheld them drinking, chin to chin,
-              O' the moon's fermented shine.
-
-    What but their chairs the mushrooms on the lawn,
-    Or toadstools hidden under flower and fern,
-    Tagged with the dotting dew!--With knees updrawn
-    Far as his eyes, have I not come upon
-    PUCK seated there? but scarcely 'round could turn
-              Ere, presto! he was gone.
-
-    And so though Science from the woods hath tracked
-    The Elfin; and with prosy lights of day
-    Unhallowed all his haunts; and, dulling, blacked
-    Our eyesight, still hath Beauty never lacked
-    For seers yet; who, in some wizard way,
-              Prove Fancy real as Fact.
-
-
-
-
-DREAMS.
-
-
-    My thoughts have borne me far away
-    To Beauties of an older day,
-    Where, crowned with roses, stands the DAWN,
-    Striking her seven-stringed barbiton
-    Of flame, whose chords give being to
-    The seven colours, hue for hue;
-    The music of the colour-dream
-    She builds the day from, beam by beam.
-
-    My thoughts have borne me far away
-    To Myths of a diviner day,
-    Where, sitting on the mountain, NOON
-    Sings to the pines a sun-soaked tune
-    Of rest and shade and clouds and skies,
-    Wherein her calm dreams idealize
-    Light as a presence, heavenly fair,
-    Sleeping with all her beauty bare.
-
-    My thoughts have borne me far away
-    To Visions of a wiser day,
-    Where, stealing through the wilderness,
-    NIGHT walks, a sad-eyed votaress,
-    And prays with mystic words she hears
-    Behind the thunder of the spheres,
-    The starry utterance that's hers,
-    With which she fills the Universe.
-
-
-
-
-THE OLD HOUSE.
-
-
-    Quaint and forgotten, by an unused road,
-    An old house stands: around its doors the dense
-          Blue iron-weeds grow high;
-    The chipmunks make a highway of its fence;
-    And on its sunken flagstones slug and toad
-          Silent as lichens lie.
-
-    The timid snake upon its hearth's cool sand
-    Sleeps undisturbed; the squirrel haunts its roof;
-          And in the clapboard sides
-    Of closets, dim with many a spider woof,
-    Like the uncertain tapping of a hand,
-          The beetle-borer hides.
-
-    Above its lintel, under mossy eaves,
-    The mud-wasps build their cells; and in the floor
-          Of its neglected porch
-    The black bees nest. Through each deserted door,
-    Vague as a phantom's footsteps, steal the leaves,
-          And dropped cones of the larch.
-
-    But come with me when sunset's magic old
-    Transforms the ruin of that ancient house;
-          When windows, one by one,--
-    Like age's eyes, that youth's love-dreams arouse,--
-    Grow lairs of fire; and glad mouths of gold
-          Its wide doors, in the sun.
-
-    Or let us wait until each rain-stained room
-    Is carpeted with moonlight, pattened oft
-          With the deep boughs o'erhead;
-    And through the house the wind goes rustling soft,
-    As might the ghost--a whisper of perfume--
-        Of some sweet girl long dead.
-
-
-
-
-THE ROCK.
-
-
-    Here, at its base, in dingled deeps
-    Of spice-bush, where the ivy creeps,
-        The cold spring scoops its hollow;
-    And there three mossy stepping-stones
-    Make ripple murmurs; undertones
-        Of foam that blend and follow
-    With voices of the wood that drones.
-
-    The quail pipes here when noons are hot;
-    And here, in coolness sunlight-shot
-        Beneath a roof of briers,
-    The red-fox skulks at close of day;
-    And here at night, the shadows gray
-        Stand like FRANCISCAN friars,
-    With moonbeam beads whereon they pray.
-
-    Here yawns the ground-hog's dark-dug hole;
-    And there the tunnel of the mole
-        Heaves under weed and flower;
-    A sandy pit-fall here and there
-    The ant-lion digs and lies a-lair;
-        And here, for sun and shower,
-    The spider weaves a silvery snare.
-
-    The poison-oak's rank tendrils twine
-    The rock's south side; the trumpet-vine,
-        With crimson bugles sprinkled,
-    Makes green its eastern side; the west
-    Is rough with lichens; and, gray-pressed
-        Into an angle wrinkled,
-    The hornets hang an oblong nest.
-
-    The north is hid from sun and star,
-    And here,--like an Inquisitor
-        Of Faery Inquisition,
-    That roots out Elf-land heresy,--
-    Deep in the rock, with mystery
-        Cowled for his grave commission,
-    The Owl sits magisterially.
-
-
-
-
-RAIN.
-
-
-    Around, the stillness deepened; then the grain
-    Went wild with wind; and every briery lane
-    Was swept with dust; and then, tempestuous black,
-    Hillward the tempest heaved a monster back,
-    That on the thunder leaned as on a cane;
-    And on huge shoulders bore a cloudy pack,
-    That gullied gold from many a lightning-crack:
-    One great drop splashed and wrinkled down the pane,
-    And then field, hill, and wood were lost in rain.
-
-    At last, through clouds,--as from a cavern hewn
-    Into night's heart,--the sun burst, angry roon;
-    And every cedar, with its weight of wet,
-    Against the sunset's fiery splendour set,
-    Frightened to beauty, seemed with rubies strewn;
-    Then in drenched gardens, like sweet phantoms met,
-    Dim odours rose of pink and mignonette;
-    And in the East a confidence, that soon
-    Grew to the calm assurance of the Moon.
-
-
-
-
-STANDING-STONE CREEK.
-
-
-    A weed-grown slope, whereon the rain
-      Has washed the brown rocks bare,
-    Leads tangled from a lonely lane
-      Down to a creek's broad stair
-    Of stone, that, through the solitude,
-    Winds onward to a quiet wood.
-
-    An intermittent roof of shade
-      The beech above it throws;
-    Along its steps a balustrade
-      Of beauty builds the rose;
-    In which, a stately lamp of green
-    At intervals the cedar's seen.
-
-    The water, carpeting each ledge
-      Of rock that runs across,
-    Glints 'twixt a flow'r-embroidered edge
-      Of ferns and grass and moss;
-    And in its deeps the wood and sky
-    Seem patterns of the softest dye.
-
-    Long corridors of pleasant dusk
-      Within the house of leaves
-    It reaches; where, on looms of musk,
-      The ceaseless locust weaves
-    A web of summer; and perfume
-    Trails a sweet gown from room to room.
-
-    Green windows of the boughs, that swing,
-      It passes, where the notes
-    Of birds are glad thoughts entering,
-      And butterflies are motes;
-    And now a vista where the day
-    Opens a door of wind and ray.
-
-    It is a stairway for all sounds
-      That haunt the woodland sides;
-    On which, boy-like, the southwind bounds,
-      Girl-like, the sunbeam glides;
-    And, like fond parents, following these,
-    The oldtime dreams of rest and peace.
-
-
-
-
-THE MOONMEN.
-
-
-    I stood in the forest on HURON HILL
-    When the night was old and the world was still.
-
-    The Wind was a wizard who muttering strode
-    In a raven cloak on a haunted road.
-
-    The Sound of Water, a witch who crooned
-    Her spells to the rocks the rain had runed.
-
-    And the Gleam of the Dew on the fern's green tip
-    Was a sylvan passing with robe a-drip.
-
-    The Light of the Stars was a glimmering maid
-    Who stole, an elfin, from glade to glade.
-
-    The Scent of the Woods in the delicate air,
-    A wildflower shape with chilly hair.
-
-    And Silence, a spirit who sat alone
-    With a lifted finger and eyes of stone.
-
-    And it seemed to me these six were met
-    To greet a greater who came not yet.
-
-    And the speech they spoke, that I listened to,
-    Was the archetype of the speech I knew.
-
-    For the Wind clasped hands with the Water's rush,
-    And I heard them whisper, _Hush, oh, hush!_
-
-    The Light of the Stars and the Dew's cool gleam
-    Touched lips and murmured, _Dream, oh dream!_
-
-    The Scent of the Woods and the Silence deep
-    Sighed, bosom to bosom, _Sleep, oh, sleep!_
-
-    And so for a moment the six were dumb,
-    Then exulted together, _They come, they come!_
-
-    And I stood expectant and seemed to hear
-    A visible music drawing near.
-
-    And the first who came was the Captain Moon
-    Bearing a shield in GOD'S House hewn.
-
-    Then an Army of glamour, a glittering Host,
-    Beleaguered the night from coast to coast.
-
-    And the world was filled with spheric fire
-    From the palpitant chords of many a lyre,
-
-    As out of the East the MOONMEN came
-    Smiting their harps of silver and flame.
-
-    More beauty and grace did their forms express
-    Than the QUEEN OF LOVE'S white nakedness.
-
-    More chastity too their faces held
-    Than the snowy breasts of DIANA swelled.
-
-    Translucent-limbed, I saw the beat
-    In their hearts of pearl of the golden heat.
-
-    And the hair they tossed was a crystal light,
-    And the eyes beneath it were burning white.
-
-    Their hands that lifted, their feet that fell,
-    Made the darkness blossom to asphodel.
-
-    And the heavens, the hills, and the streams they trod
-    Shone pale with th' communicated God.
-
-    A placid frenzy, a waking trance,
-    A soft oracular radiance,
-
-    Wrapped forms that moved as melodies move,
-    Laurelled with god-head and halo'd with love.
-
-    So there in the forest on HURON HILL
-    The MOONMEN camped when the world was still....
-
-    What wonder that they who have looked on these
-    Are lost to the earth's realities!
-
-    That they sit aside with a far-off look
-    Dreaming the dreams that are writ in no book!
-
-    That they walk alone till the day they die,
-    Even as I, yea, even as I!
-
-
-
-
-THE OLD MAN DREAMS.
-
-
-    The blackened walnut in its spicy hull
-              Rots where it fell;
-    And, in the orchard, where the trees stand full,
-              The pear's ripe bell
-    Drops; and the log-house in the bramble lane,
-              From whose low door
-    Stretch yellowing acres of the corn and cane,
-              He sees once more.
-
-    The cat-bird sings upon its porch of pine;
-              And o'er its gate,
-    All slender-podded, twists the trumpet-vine,
-              A leafy weight;
-    And in the woodland, by the spring, mayhap,
-              With eyes of joy
-    Again he bends to set a rabbit-trap,
-              A brown-faced boy.
-
-    Then, whistling, through the underbrush he goes,
-              Out of the wood,
-    Where, with young cheeks, red as an _Autumn_ rose,
-              Beneath her hood,
-    His sweetheart waits, her school-books on her arm;
-              And now it seems
-    Beside his chair he sees his wife's fair form--
-              The old man dreams.
-
-
-
-
-SINCE THEN.
-
-
-    I found myself among the trees
-    What time the reapers ceased to reap;
-    And in the berry blooms the bees
-    Huddled wee heads and went to sleep,
-    Rocked by the silence and the breeze.
-
-    I saw the red fox leave his lair,
-    A shaggy shadow, on the knoll;
-    And, tunnelling his thoroughfare
-    Beneath the loam, I watched the mole--
-    Stealth's own self could not take more care.
-
-    I heard the death-moth tick and stir,
-    Slow-honeycombing through the bark;
-    I heard the crickets' drowsy chirr,
-    And one lone beetle burr the dark--
-    The sleeping woodland seemed to purr.
-
-    And then the moon rose; and a white
-    Low bough of blossoms--grown almost
-    Where, ere you died, 'twas our delight
-    To tryst,--dear heart!--I thought your ghost....
-    The wood is haunted since that night.
-
-
-
-
-COMRADES.
-
-
-    Down through the woods, along the way
-    That fords the stream; by rock and tree,
-    Where in the bramble-bell the bee
-    Swings; and through twilights green and gray
-    The red-bird flashes suddenly,
-    My thoughts went wandering to-day.
-
-    I found the fields where, row on row,
-    The blackberries hang black with fruit;
-    Where, nesting at the elder's root,
-    The partridge whistles soft and low;
-    The fields, that billow to the foot
-    Of those old hills we used to know.
-
-    There lay the pond, still willow-bound,
-    On whose bright surface, when the hot
-    Noon burnt above, we chased the knot
-    Of water-spiders; while around
-    Our heads, like bits of rainbow, shot
-    The dragonflies without a sound.
-
-    The pond, above which evening bent
-    To gaze upon her rosy face;
-    Wherein the twinkling night would place
-    A vague, inverted firmament,
-    In which the green frogs tuned their bass,
-    And firefly sparkles came and went.
-
-    The oldtime woods we often ranged,
-    When we were playmates, you and I;
-    The oldtime fields, with boyhood's sky
-    Still blue above them!--Naught was changed!
-    Nothing!--Alas, then tell me why
-    Should we be? whom long years estranged.
-
-
-
-
-WAITING.
-
-
-    Come to the hills, the woods are green--
-      _The heart is high when_ LOVE _is sweet_--
-    There is a brook that flows between
-      Two mossy trees where we can meet,
-    Where we can meet and speak unseen.
-
-    I hear you laughing in the lane--
-      _The heart is high when_ LOVE _is sweet_--
-    The clover smells of sun and rain
-      And spreads a carpet for our feet,
-    Where we can sit and dream again.
-
-    Come to the woods, the dusk is here--
-      _The heart is high when_ LOVE _is sweet_--
-    A bird upon the branches near
-      Sets music to our hearts' glad beat,
-    Our hearts that beat with something dear.
-
-    I hear your step; the lane is passed;--
-      _The heart is high when_ LOVE _is sweet_--
-    The little stars come bright and fast,
-      Like happy eyes to see us greet,
-    To see us greet and kiss at last.
-
-
-
-
-CONTRASTS.
-
-
-    No eve of summer ever can attain
-    The gladness of that eve of late _July_,
-    When 'mid the roses, filled with musk and rain,
-    Against the wondrous topaz of the sky,
-    I met you, leaning on the pasture bars,--
-    While heaven and earth grew conscious of the stars.
-
-    No night of blackest winter can repeat
-    The bitterness of that _December_ night,
-    When at your gate, gray-glittering with sleet,
-    Within the glimmering square of window-light,
-    We parted,--long you clung unto my arm,--
-    While heaven and earth surrendered to the storm.
-
-
-
-
+Clad on with glowing beauty and the peace,
+Benign, of calm maturity, she stands
+Among her meadows and her orchard-lands,
+And on her mellowing gardens and her trees,
+Out of the ripe abundance of her hands,
+Bestows increase
+And fruitfulness, as, wrapped in sunny ease,
+Blue-eyed and blonde she goes,
+Upon her bosom _Summer's_ richest rose.
+And he who follows where her footsteps lead,
+By hill and rock, by forest-side and stream,
+Shall glimpse the glory of her visible dream,
+In flower and fruit, in rounded nut and seed:
+She in whose path the very shadows gleam;
+Whose humblest weed
+Seems lovelier than _June's_ loveliest flower, indeed,
+And sweeter to the smell
+Than _April's_ self within a rainy dell.
+Hers is a sumptuous simplicity
+Within the fair Republic of her flowers,
+Where you may see her standing hours on hours,
+Breast-deep in gold, soft-holding up a bee
+To her hushed ear; or sitting under bowers
+Of greenery,
+A butterfly a-tilt upon her knee;
+Or, lounging on her hip,
+Dancing a cricket on her finger-tip.
+Aye, let me breathe hot scents that tell of you:
+The hoary catnip and the meadow-mint,
+On which the honour of your touch doth print
+Itself as odour. Let me drink the hue
+Of ironweed and mist-flow'r here that hint,
+With purple and blue,
+The rapture that your presence doth imbue
+Their inmost essence with,
+Immortal though as transient as a myth.
+Yea, let me feed on sounds that still assure
+Me where you hide: the brooks', whose happy din
+Tells where, the deep retired woods within,
+Disrobed, you bathe; the birds', whose drowsy lure
+Tells where you slumber, your warm-nestling chin
+Soft on the pure
+Pink cushion of your palm ... What better cure
+For care and memory's ache
+Than to behold you so and watch you wake!
+To come in touch with mysteries
+Of beauty idealizing Earth,
+Go seek the hills, grown old with trees,
+The old hills wise with death and birth.
+There you may hear the heart that beats
+In streams, where music has its source;
+And in wild rocks of green retreats
+Behold the silent soul of force.
+Above the love that emanates
+From human passion, and reflects
+The flesh, must be the love that waits
+On Nature, whose high call elects
+None to her secrets save the few
+Who hold that facts are far less real
+Than dreams, with which all facts indue
+Themselves approaching the Ideal.
+There are some things that entertain me more
+Than men or books; and to my knowledge seem
+A key of Poetry, made of magic lore
+Of childhood, opening many a fabled door
+Of superstition, mystery, and dream
+Enchantment locked of yore.
+For, when through dusking woods my pathway lies,
+Often I feel old spells, as o'er me flits
+The bat, like some black thought that, troubled, flies
+Round some dark purpose; or before me cries
+The owl that, like an evil conscience, sits
+A shadowy voice and eyes.
+Then, when down blue canals of cloudy snow
+The white moon oars her boat, and woods vibrate
+With crickets, lo, I hear the hautboys blow
+Of Elf-land; and when green the fireflies glow,
+See where the goblins hold a Fairy Fete
+With lanthorn row on row.
+Strange growths, that ooze from long-dead logs and spread
+A creamy fungus, where the snail, uncoiled,
+And fat slug feed at morn, are Pixy bread
+Made of the yeasted dew; the lichens red,
+Besides these grown, are meat the Brownies broiled
+Above a glow-worm bed.
+The smears of silver on the webs that line
+The tree's crook'd roots, or stretch, white-wove, within
+The hollow stump, are stains of Faery wine
+Spilled on the cloth where Elf-land sat to dine,
+When night beheld them drinking, chin to chin,
+O' the moon's fermented shine.
+What but their chairs the mushrooms on the lawn,
+Or toadstools hidden under flower and fern,
+Tagged with the dotting dew!--With knees updrawn
+Far as his eyes, have I not come upon
+PUCK seated there? but scarcely 'round could turn
+Ere, presto! he was gone.
+And so though Science from the woods hath tracked
+The Elfin; and with prosy lights of day
+Unhallowed all his haunts; and, dulling, blacked
+Our eyesight, still hath Beauty never lacked
+For seers yet; who, in some wizard way,
+Prove Fancy real as Fact.
+My thoughts have borne me far away
+To Beauties of an older day,
+Where, crowned with roses, stands the DAWN,
+Striking her seven-stringed barbiton
+Of flame, whose chords give being to
+The seven colours, hue for hue;
+The music of the colour-dream
+She builds the day from, beam by beam.
+My thoughts have borne me far away
+To Myths of a diviner day,
+Where, sitting on the mountain, NOON
+Sings to the pines a sun-soaked tune
+Of rest and shade and clouds and skies,
+Wherein her calm dreams idealize
+Light as a presence, heavenly fair,
+Sleeping with all her beauty bare.
+My thoughts have borne me far away
+To Visions of a wiser day,
+Where, stealing through the wilderness,
+NIGHT walks, a sad-eyed votaress,
+And prays with mystic words she hears
+Behind the thunder of the spheres,
+The starry utterance that's hers,
+With which she fills the Universe.
+Quaint and forgotten, by an unused road,
+An old house stands: around its doors the dense
+Blue iron-weeds grow high;
+The chipmunks make a highway of its fence;
+And on its sunken flagstones slug and toad
+Silent as lichens lie.
+The timid snake upon its hearth's cool sand
+Sleeps undisturbed; the squirrel haunts its roof;
+And in the clapboard sides
+Of closets, dim with many a spider woof,
+Like the uncertain tapping of a hand,
+The beetle-borer hides.
+Above its lintel, under mossy eaves,
+The mud-wasps build their cells; and in the floor
+Of its neglected porch
+The black bees nest. Through each deserted door,
+Vague as a phantom's footsteps, steal the leaves,
+And dropped cones of the larch.
+But come with me when sunset's magic old
+Transforms the ruin of that ancient house;
+When windows, one by one,--
+Like age's eyes, that youth's love-dreams arouse,--
+Grow lairs of fire; and glad mouths of gold
+Its wide doors, in the sun.
+Or let us wait until each rain-stained room
+Is carpeted with moonlight, pattened oft
+With the deep boughs o'erhead;
+And through the house the wind goes rustling soft,
+As might the ghost--a whisper of perfume--
+Of some sweet girl long dead.
+Here, at its base, in dingled deeps
+Of spice-bush, where the ivy creeps,
+The cold spring scoops its hollow;
+And there three mossy stepping-stones
+Make ripple murmurs; undertones
+Of foam that blend and follow
+With voices of the wood that drones.
+The quail pipes here when noons are hot;
+And here, in coolness sunlight-shot
+Beneath a roof of briers,
+The red-fox skulks at close of day;
+And here at night, the shadows gray
+Stand like FRANCISCAN friars,
+With moonbeam beads whereon they pray.
+Here yawns the ground-hog's dark-dug hole;
+And there the tunnel of the mole
+Heaves under weed and flower;
+A sandy pit-fall here and there
+The ant-lion digs and lies a-lair;
+And here, for sun and shower,
+The spider weaves a silvery snare.
+The poison-oak's rank tendrils twine
+The rock's south side; the trumpet-vine,
+With crimson bugles sprinkled,
+Makes green its eastern side; the west
+Is rough with lichens; and, gray-pressed
+Into an angle wrinkled,
+The hornets hang an oblong nest.
+The north is hid from sun and star,
+And here,--like an Inquisitor
+Of Faery Inquisition,
+That roots out Elf-land heresy,--
+Deep in the rock, with mystery
+Cowled for his grave commission,
+The Owl sits magisterially.
+Around, the stillness deepened; then the grain
+Went wild with wind; and every briery lane
+Was swept with dust; and then, tempestuous black,
+Hillward the tempest heaved a monster back,
+That on the thunder leaned as on a cane;
+And on huge shoulders bore a cloudy pack,
+That gullied gold from many a lightning-crack:
+One great drop splashed and wrinkled down the pane,
+And then field, hill, and wood were lost in rain.
+At last, through clouds,--as from a cavern hewn
+Into night's heart,--the sun burst, angry roon;
+And every cedar, with its weight of wet,
+Against the sunset's fiery splendour set,
+Frightened to beauty, seemed with rubies strewn;
+Then in drenched gardens, like sweet phantoms met,
+Dim odours rose of pink and mignonette;
+And in the East a confidence, that soon
+Grew to the calm assurance of the Moon.
+A weed-grown slope, whereon the rain
+Has washed the brown rocks bare,
+Leads tangled from a lonely lane
+Down to a creek's broad stair
+Of stone, that, through the solitude,
+Winds onward to a quiet wood.
+An intermittent roof of shade
+The beech above it throws;
+Along its steps a balustrade
+Of beauty builds the rose;
+In which, a stately lamp of green
+At intervals the cedar's seen.
+The water, carpeting each ledge
+Of rock that runs across,
+Glints 'twixt a flow'r-embroidered edge
+Of ferns and grass and moss;
+And in its deeps the wood and sky
+Seem patterns of the softest dye.
+Long corridors of pleasant dusk
+Within the house of leaves
+It reaches; where, on looms of musk,
+The ceaseless locust weaves
+A web of summer; and perfume
+Trails a sweet gown from room to room.
+Green windows of the boughs, that swing,
+It passes, where the notes
+Of birds are glad thoughts entering,
+And butterflies are motes;
+And now a vista where the day
+Opens a door of wind and ray.
+It is a stairway for all sounds
+That haunt the woodland sides;
+On which, boy-like, the southwind bounds,
+Girl-like, the sunbeam glides;
+And, like fond parents, following these,
+The oldtime dreams of rest and peace.
+I stood in the forest on HURON HILL
+When the night was old and the world was still.
+The Wind was a wizard who muttering strode
+In a raven cloak on a haunted road.
+The Sound of Water, a witch who crooned
+Her spells to the rocks the rain had runed.
+And the Gleam of the Dew on the fern's green tip
+Was a sylvan passing with robe a-drip.
+The Light of the Stars was a glimmering maid
+Who stole, an elfin, from glade to glade.
+The Scent of the Woods in the delicate air,
+A wildflower shape with chilly hair.
+And Silence, a spirit who sat alone
+With a lifted finger and eyes of stone.
+And it seemed to me these six were met
+To greet a greater who came not yet.
+And the speech they spoke, that I listened to,
+Was the archetype of the speech I knew.
+For the Wind clasped hands with the Water's rush,
+And I heard them whisper, _Hush, oh, hush!_
+The Light of the Stars and the Dew's cool gleam
+Touched lips and murmured, _Dream, oh dream!_
+The Scent of the Woods and the Silence deep
+Sighed, bosom to bosom, _Sleep, oh, sleep!_
+And so for a moment the six were dumb,
+Then exulted together, _They come, they come!_
+And I stood expectant and seemed to hear
+A visible music drawing near.
+And the first who came was the Captain Moon
+Bearing a shield in GOD'S House hewn.
+Then an Army of glamour, a glittering Host,
+Beleaguered the night from coast to coast.
+And the world was filled with spheric fire
+From the palpitant chords of many a lyre,
+As out of the East the MOONMEN came
+Smiting their harps of silver and flame.
+More beauty and grace did their forms express
+Than the QUEEN OF LOVE'S white nakedness.
+More chastity too their faces held
+Than the snowy breasts of DIANA swelled.
+Translucent-limbed, I saw the beat
+In their hearts of pearl of the golden heat.
+And the hair they tossed was a crystal light,
+And the eyes beneath it were burning white.
+Their hands that lifted, their feet that fell,
+Made the darkness blossom to asphodel.
+And the heavens, the hills, and the streams they trod
+Shone pale with th' communicated God.
+A placid frenzy, a waking trance,
+A soft oracular radiance,
+Wrapped forms that moved as melodies move,
+Laurelled with god-head and halo'd with love.
+So there in the forest on HURON HILL
+The MOONMEN camped when the world was still....
+What wonder that they who have looked on these
+Are lost to the earth's realities!
+That they sit aside with a far-off look
+Dreaming the dreams that are writ in no book!
+That they walk alone till the day they die,
+Even as I, yea, even as I!
+The blackened walnut in its spicy hull
+Rots where it fell;
+And, in the orchard, where the trees stand full,
+The pear's ripe bell
+Drops; and the log-house in the bramble lane,
+From whose low door
+Stretch yellowing acres of the corn and cane,
+He sees once more.
+The cat-bird sings upon its porch of pine;
+And o'er its gate,
+All slender-podded, twists the trumpet-vine,
+A leafy weight;
+And in the woodland, by the spring, mayhap,
+With eyes of joy
+Again he bends to set a rabbit-trap,
+A brown-faced boy.
+Then, whistling, through the underbrush he goes,
+Out of the wood,
+Where, with young cheeks, red as an _Autumn_ rose,
+Beneath her hood,
+His sweetheart waits, her school-books on her arm;
+And now it seems
+Beside his chair he sees his wife's fair form--
+The old man dreams.
+I found myself among the trees
+What time the reapers ceased to reap;
+And in the berry blooms the bees
+Huddled wee heads and went to sleep,
+Rocked by the silence and the breeze.
+I saw the red fox leave his lair,
+A shaggy shadow, on the knoll;
+And, tunnelling his thoroughfare
+Beneath the loam, I watched the mole--
+Stealth's own self could not take more care.
+I heard the death-moth tick and stir,
+Slow-honeycombing through the bark;
+I heard the crickets' drowsy chirr,
+And one lone beetle burr the dark--
+The sleeping woodland seemed to purr.
+And then the moon rose; and a white
+Low bough of blossoms--grown almost
+Where, ere you died, 'twas our delight
+To tryst,--dear heart!--I thought your ghost....
+The wood is haunted since that night.
+Down through the woods, along the way
+That fords the stream; by rock and tree,
+Where in the bramble-bell the bee
+Swings; and through twilights green and gray
+The red-bird flashes suddenly,
+My thoughts went wandering to-day.
+I found the fields where, row on row,
+The blackberries hang black with fruit;
+Where, nesting at the elder's root,
+The partridge whistles soft and low;
+The fields, that billow to the foot
+Of those old hills we used to know.
+There lay the pond, still willow-bound,
+On whose bright surface, when the hot
+Noon burnt above, we chased the knot
+Of water-spiders; while around
+Our heads, like bits of rainbow, shot
+The dragonflies without a sound.
+The pond, above which evening bent
+To gaze upon her rosy face;
+Wherein the twinkling night would place
+A vague, inverted firmament,
+In which the green frogs tuned their bass,
+And firefly sparkles came and went.
+The oldtime woods we often ranged,
+When we were playmates, you and I;
+The oldtime fields, with boyhood's sky
+Still blue above them!--Naught was changed!
+Nothing!--Alas, then tell me why
+Should we be? whom long years estranged.
+Come to the hills, the woods are green--
+_The heart is high when_ LOVE _is sweet_--
+There is a brook that flows between
+Two mossy trees where we can meet,
+Where we can meet and speak unseen.
+I hear you laughing in the lane--
+_The heart is high when_ LOVE _is sweet_--
+The clover smells of sun and rain
+And spreads a carpet for our feet,
+Where we can sit and dream again.
+Come to the woods, the dusk is here--
+_The heart is high when_ LOVE _is sweet_--
+A bird upon the branches near
+Sets music to our hearts' glad beat,
+Our hearts that beat with something dear.
+I hear your step; the lane is passed;--
+_The heart is high when_ LOVE _is sweet_--
+The little stars come bright and fast,
+Like happy eyes to see us greet,
+To see us greet and kiss at last.
+No eve of summer ever can attain
+The gladness of that eve of late _July_,
+When 'mid the roses, filled with musk and rain,
+Against the wondrous topaz of the sky,
+I met you, leaning on the pasture bars,--
+While heaven and earth grew conscious of the stars.
+No night of blackest winter can repeat
+The bitterness of that _December_ night,
+When at your gate, gray-glittering with sleet,
+Within the glimmering square of window-light,
+We parted,--long you clung unto my arm,--
+While heaven and earth surrendered to the storm.
 IN _June_.
-
-
-    Deep in the West a berry-coloured bar
-    Of sunset gleams; against which one tall fir
-    Is outlined dark; above which--courier
-    Of dew and dreams--burns dusk's appointed star.
-    And flash on flash, as when the elves wage war
-    In Goblinland, the fireflies bombard
-    The stillness; and, like spirits, o'er the sward
-    The glimmering winds bring fragrance from afar.
-    And now withdrawn into the hill-wood belts
-    A whippoorwill; while, with attendant states
-    Of purple and silver, slow the great moon melts
-    Into the night--to show me where _she_ waits,--
-    Like some slim moonbeam,--by the old beech-tree,
-    Who keeps her lips, fresh as a flower, for me.
-
-
-
-
-AFTER LONG GRIEF AND PAIN.
-
-
-    There is a place hung o'er with summer boughs
-    And drowsy skies wherein the gray hawk sleeps;
-    Where waters flow, within whose lazy deeps,
-    Like silvery prisms that the winds arouse,
-    The minnows twinkle; where the bells of cows
-    Tinkle the stillness, and the bob-white keeps
-    Calling from meadows where the reaper reaps,
-    And children's laughter haunts an old-time house;
-    A place where life wears ever an honest smell
-    Of hay and honey, sun and elder-bloom--
-    Like some dear, modest girl--within her hair:
-    Where, with our love for comrade, we may dwell
-    Far from the city's strife whose cares consume--
-    Oh, take my hand and let me lead you there.
-
-
-
-
+Deep in the West a berry-coloured bar
+Of sunset gleams; against which one tall fir
+Is outlined dark; above which--courier
+Of dew and dreams--burns dusk's appointed star.
+And flash on flash, as when the elves wage war
+In Goblinland, the fireflies bombard
+The stillness; and, like spirits, o'er the sward
+The glimmering winds bring fragrance from afar.
+And now withdrawn into the hill-wood belts
+A whippoorwill; while, with attendant states
+Of purple and silver, slow the great moon melts
+Into the night--to show me where _she_ waits,--
+Like some slim moonbeam,--by the old beech-tree,
+Who keeps her lips, fresh as a flower, for me.
+There is a place hung o'er with summer boughs
+And drowsy skies wherein the gray hawk sleeps;
+Where waters flow, within whose lazy deeps,
+Like silvery prisms that the winds arouse,
+The minnows twinkle; where the bells of cows
+Tinkle the stillness, and the bob-white keeps
+Calling from meadows where the reaper reaps,
+And children's laughter haunts an old-time house;
+A place where life wears ever an honest smell
+Of hay and honey, sun and elder-bloom--
+Like some dear, modest girl--within her hair:
+Where, with our love for comrade, we may dwell
+Far from the city's strife whose cares consume--
+Oh, take my hand and let me lead you there.
 _Can I Forget?_
-
-
-    Can I forget how LOVE once led the ways
-    Of our two lives together, joining them;
-    How every hour was his anadem,
-    And every day a tablet in his praise!
-    Can I forget how, in his garden place,
-    Among the purple roses, stem to stem,
-    We heard the rumour of his robe's bright hem,
-    And saw the aureate radiance of his face!--
-    Though I behold my soul's high dreams down-hurled,
-    And FALSEHOOD sit where Truth once towered white,
-    And in LOVE'S place, usurping lust and shame....
-    Though flowers be dead within the winter world,
-    Are flowers not there? and starless though the night,
-    Are stars not there, eternal and the same?
-
-
-
-
-THE HOUSE OF FEAR.
-
-
-    Vast are its halls, as vast the halls and lone
-    Where DEATH stalks listening to the wind and rain;
-    And dark that house, where I shall meet again
-    My long-dead Sin in some dread way unknown;
-    For I have dreamed of stairs of haunted stone,
-    And spectre footsteps I have fled in vain;
-    And windows glaring with a blood-red stain,
-    And horrible eyes, that burn me to the bone,
-    Within a face that looks as that black night
-    It looked when deep I dug for it a grave,--
-    The dagger wound above the brow, the thin
-    Blood trickling down slantwise the ghastly white;--
-    And I have dreamed not even GOD can save
-    Me and my soul from that risen Sin.
-
-
-
-
-AT DAWN.
-
-
-    Far off I heard dark waters rush;
-    The sky was cold; the dawn broke green;
-    And wrapped in twilight and strange hush
-    The gray wind moaned between.
-
-    A voice rang through the House of Sleep,
-    And through its halls there went a tread;
-    Mysterious raiment seemed to sweep
-    Around the pallid dead.
-
-    And then I knew that I had died,
-    I, who had suffered so and sinned--
-    And 't was myself I stood beside
-    In the wild dawn and wind.
-
-
-
-
-STORM.
-
-
-    I looked into the night and saw
-    GOD writing with tumultuous flame
-    Upon the thunder's front of awe,--
-    As on sonorous brass,--the Law,
-    Terrific, of HIS judgement name.
-
-    Weary of all life's best and worst,
-    With hands of hate, I--who had pled,
-    I, who had prayed for death at first
-    And had not died--now stood and cursed
-    GOD, yet he would not strike me dead.
-
-
-
-
-MEMORIES.
-
-
-    Here where LOVE lies perished,
-    Look not in upon the dead;
-    Lest the shadowy curtains, shaken
-    In my Heart's dark chamber, waken
-    Ghosts, beneath whose garb of sorrow
-    Whilom gladness bows his head:
-    When you come at morn to-morrow,
-    Look not in upon the dead,
-    Here where LOVE lies perished.
-
-    Here where LOVE lies cold interred,
-    Let no syllable be heard;
-    Lest the hollow echoes, housing
-    In my Soul's deep tomb, arousing
-    Wake a voice of woe, once laughter
-    Claimed and clothed in joy's own word:
-    When you come at dusk or after,
-    Let no syllable be heard,
-    Here where LOVE lies cold interred.
-
-
-
-
-WHICH?
-
-
-    The wind was on the forest,
-      And silence on the wold;
-    And darkness on the waters,
-      And heaven was starry cold;
-    When Sleep, with mystic magic,
-      Bade me this thing behold:
-
-    This side, an iron woodland;
-      That side, an iron waste;
-    And heaven, a tower of iron,
-      Wherein the wan moon paced,
-    Still as a phantom woman,
-      Ice-eyed and icy-faced.
-
-    And through the haunted tower
-      Of silence and of night,
-    My Soul and I went only,
-      My Soul, whose face was white,
-    Whose one hand signed me listen,
-      One bore a taper-light.
-
-    For, lo! a voice behind me
-      Kept sighing in my ear
-    The dreams my flesh accepted,
-      My mind refused to hear--
-    Of one I loved and loved not,
-      Whose spirit now spake near.
-
-    And, lo! a voice before me
-      Kept calling constantly
-    The hopes my mind accepted,
-      My flesh refused to see--
-    Of one I loved and loved not,
-      Whose spirit spake to me.
-
-    This way the one would bid me;
-      This way the other saith:--
-    Sweet is the voice behind me
-      Of LIFE that followeth;
-    And sweet the voice before me
-      Of LIFE whose name is DEATH.
-
-
-
-
+Can I forget how LOVE once led the ways
+Of our two lives together, joining them;
+How every hour was his anadem,
+And every day a tablet in his praise!
+Can I forget how, in his garden place,
+Among the purple roses, stem to stem,
+We heard the rumour of his robe's bright hem,
+And saw the aureate radiance of his face!--
+Though I behold my soul's high dreams down-hurled,
+And FALSEHOOD sit where Truth once towered white,
+And in LOVE'S place, usurping lust and shame....
+Though flowers be dead within the winter world,
+Are flowers not there? and starless though the night,
+Are stars not there, eternal and the same?
+Vast are its halls, as vast the halls and lone
+Where DEATH stalks listening to the wind and rain;
+And dark that house, where I shall meet again
+My long-dead Sin in some dread way unknown;
+For I have dreamed of stairs of haunted stone,
+And spectre footsteps I have fled in vain;
+And windows glaring with a blood-red stain,
+And horrible eyes, that burn me to the bone,
+Within a face that looks as that black night
+It looked when deep I dug for it a grave,--
+The dagger wound above the brow, the thin
+Blood trickling down slantwise the ghastly white;--
+And I have dreamed not even GOD can save
+Me and my soul from that risen Sin.
+Far off I heard dark waters rush;
+The sky was cold; the dawn broke green;
+And wrapped in twilight and strange hush
+The gray wind moaned between.
+A voice rang through the House of Sleep,
+And through its halls there went a tread;
+Mysterious raiment seemed to sweep
+Around the pallid dead.
+And then I knew that I had died,
+I, who had suffered so and sinned--
+And 't was myself I stood beside
+In the wild dawn and wind.
+I looked into the night and saw
+GOD writing with tumultuous flame
+Upon the thunder's front of awe,--
+As on sonorous brass,--the Law,
+Terrific, of HIS judgement name.
+Weary of all life's best and worst,
+With hands of hate, I--who had pled,
+I, who had prayed for death at first
+And had not died--now stood and cursed
+GOD, yet he would not strike me dead.
+Here where LOVE lies perished,
+Look not in upon the dead;
+Lest the shadowy curtains, shaken
+In my Heart's dark chamber, waken
+Ghosts, beneath whose garb of sorrow
+Whilom gladness bows his head:
+When you come at morn to-morrow,
+Look not in upon the dead,
+Here where LOVE lies perished.
+Here where LOVE lies cold interred,
+Let no syllable be heard;
+Lest the hollow echoes, housing
+In my Soul's deep tomb, arousing
+Wake a voice of woe, once laughter
+Claimed and clothed in joy's own word:
+When you come at dusk or after,
+Let no syllable be heard,
+Here where LOVE lies cold interred.
+The wind was on the forest,
+And silence on the wold;
+And darkness on the waters,
+And heaven was starry cold;
+When Sleep, with mystic magic,
+Bade me this thing behold:
+This side, an iron woodland;
+That side, an iron waste;
+And heaven, a tower of iron,
+Wherein the wan moon paced,
+Still as a phantom woman,
+Ice-eyed and icy-faced.
+And through the haunted tower
+Of silence and of night,
+My Soul and I went only,
+My Soul, whose face was white,
+Whose one hand signed me listen,
+One bore a taper-light.
+For, lo! a voice behind me
+Kept sighing in my ear
+The dreams my flesh accepted,
+My mind refused to hear--
+Of one I loved and loved not,
+Whose spirit now spake near.
+And, lo! a voice before me
+Kept calling constantly
+The hopes my mind accepted,
+My flesh refused to see--
+Of one I loved and loved not,
+Whose spirit spake to me.
+This way the one would bid me;
+This way the other saith:--
+Sweet is the voice behind me
+Of LIFE that followeth;
+And sweet the voice before me
+Of LIFE whose name is DEATH.
 SUNSET IN _Autumn_.
-
-
-    Blood-coloured oaks, that stand against a sky of gold and brass;
-    Gaunt slopes, on which the bleak leaves glow of brier and sassafras,
-    And broom-sedge strips of smoky pink and pearl-gray clumps of grass,
-    In which, beneath the ragged sky, the rain-pools gleam like glass.
-
-    From West to East, from wood to wood, along the forest-side,
-    The winds,--the sowers of the LORD,--with thunderous footsteps stride;
-    Their stormy hands rain acorns down; and mad leaves, wildly dyed,
-    Like tatters of their rushing cloaks, stream round them far and wide.
-
-    The frail leaf-cricket in the weeds rings a faint fairy bell;
-    And like a torch of phantom ray the milkweed's windy shell
-    Glimmers; while wrapped in withered dreams, the wet autumnal smell
-    Of loam and leaf, like some sad ghost, steals over field and dell.
-
-    The oaks against a copper sky--o'er which, like some black lake
-    Of DIS, dark clouds, like surges fringed with sullen fire, break--
-    Loom sombre as Doom's citadel above the vales, that make
-    A pathway to a land of mist the moon's pale feet shall take.
-
-    Now, dyed with burning carbuncle, a Limbo-litten pane,
-    Within its wall of storm, the West opens to hill and plain,
-    On which the wild geese ink themselves, a far triangled train;
-    And then the shuttering clouds close down--and night is here again.
-
-
-
-
-THE LEGEND OF THE STONE.
-
-
-    The year was dying, and the day
-      Was almost dead;
-    The West, beneath a sombre gray,
-      Was sombre red.
-    The gravestones in the ghostly light,
-      'Mid trees half bare,
-    Seemed phantoms, clothed in glimmering white,
-      That haunted there.
-
-    I stood beside the grave of one,
-      Who, here in life,
-    Had wronged my home; who had undone
-      My child and wife.
-    I stood beside his grave until
-      The moon came up--
-    As if the dark, unhallowed hill
-      Lifted a cup.
-
-    No stone was there to mark his grave,
-      No flower to grace--
-    'T was meet that weeds alone should wave
-      In such a place.
-    I stood beside his grave until
-      The stars swam high,
-    And all the night was iron still
-      From sky to sky.
-
-    What cared I if strange eyes seemed bright
-      Within the gloom!
-    If, evil blue, a wandering light
-      Burnt by each tomb!
-    Or that each crooked thorn-tree seemed
-      A witch-hag cloaked!
-    Or that the owl above me screamed,
-      The raven croaked!
-
-    For I had cursed him when the day
-      Was sullen red;
-    Had cursed him when the West was gray,
-      And day was dead;
-    And now when night made dark the pole,
-      Both soon and late
-    I cursed his body, yea, and soul,
-      With the hate of hate.
-
-    Once in my soul I seemed to hear
-      A low voice say,--
-    _'T were better to forgive,--and fear
-      Thy God,--and pray._
-    I laughed; and from pale lips of stone
-      On sculptured tombs
-    A mocking laugh replied alone
-      Deep in the glooms.
-
-    And then I felt, I felt--as if
-      Some force should seize
-    The body; and its limbs stretch stiff,
-      And, fastening, freeze
-    Down, downward deeper than the knees
-      Into the earth--
-    While still among the twisted trees
-      That voice made mirth.
-
-    And in my Soul was fear, despair,--
-      Like lost ones feel,
-    When knotted in their pitch-stiff hair,
-      They feel the steel
-    Of devils' forks lift up, through sleet
-      Of hell's slant fire,
-    Then plunge,--as white from head to feet
-      I grew entire.
-
-    A voice without me, yet within,
-      As still as frost,
-    Intoned: _Thy sin is thrice a sin,
-      Thrice art thou lost.
-    Behold, how God would punish thee!
-      For this thy crime--
-    Thy crime of hate and blasphemy--
-      Through endless time!_
-
-    _O'er him, whom thou wouldst not forgive,
-      Record what good
-    He did on earth! and let him live
-      Loved, understood!
-    Be memory thine of all the worst
-      He did thine own!_
-    There at the head of him I cursed
-      I stood--a stone.
-
-
-
-
-TIME AND DEATH AND LOVE.
-
-
-    Last night I watched for Death--
-      So sick of life was I!--
-    When in the street beneath
-      I heard his watchman cry
-      The hour, while passing by.
-
-    I called. And in the night
-      I heard him stop below,
-    His owlish lanthorn's light
-      Blurring the windy snow--
-      How long the time and slow!
-
-    I said, _Why dost thou cower
-      There at my door and knock?
-    Come in! It is the hour!
-      Cease fumbling at the lock!
-      Naught's well! 'Tis no o'clock!_
-
-    Black through the door with him
-      Swept in the _Winter's_ breath;
-    His cloak was great and grim--
-      But he, who smiled beneath,
-      Had the face of Love not Death.
-
-
-
-
-PASSION.
-
-
-    The wine-loud laughter of indulged Desire
-    Upon his lips, and, in his eyes, the fire
-    Of uncontrol, he takes in reckless hands,--
-    And interrupts with discords,--the sad lyre
-    Of LOVE'S deep soul, and never understands.
-
-
-
-
+Blood-coloured oaks, that stand against a sky of gold and brass;
+Gaunt slopes, on which the bleak leaves glow of brier and sassafras,
+And broom-sedge strips of smoky pink and pearl-gray clumps of grass,
+In which, beneath the ragged sky, the rain-pools gleam like glass.
+From West to East, from wood to wood, along the forest-side,
+The winds,--the sowers of the LORD,--with thunderous footsteps stride;
+Their stormy hands rain acorns down; and mad leaves, wildly dyed,
+Like tatters of their rushing cloaks, stream round them far and wide.
+The frail leaf-cricket in the weeds rings a faint fairy bell;
+And like a torch of phantom ray the milkweed's windy shell
+Glimmers; while wrapped in withered dreams, the wet autumnal smell
+Of loam and leaf, like some sad ghost, steals over field and dell.
+The oaks against a copper sky--o'er which, like some black lake
+Of DIS, dark clouds, like surges fringed with sullen fire, break--
+Loom sombre as Doom's citadel above the vales, that make
+A pathway to a land of mist the moon's pale feet shall take.
+Now, dyed with burning carbuncle, a Limbo-litten pane,
+Within its wall of storm, the West opens to hill and plain,
+On which the wild geese ink themselves, a far triangled train;
+And then the shuttering clouds close down--and night is here again.
+The year was dying, and the day
+Was almost dead;
+The West, beneath a sombre gray,
+Was sombre red.
+The gravestones in the ghostly light,
+'Mid trees half bare,
+Seemed phantoms, clothed in glimmering white,
+That haunted there.
+I stood beside the grave of one,
+Who, here in life,
+Had wronged my home; who had undone
+My child and wife.
+I stood beside his grave until
+The moon came up--
+As if the dark, unhallowed hill
+Lifted a cup.
+No stone was there to mark his grave,
+No flower to grace--
+'T was meet that weeds alone should wave
+In such a place.
+I stood beside his grave until
+The stars swam high,
+And all the night was iron still
+From sky to sky.
+What cared I if strange eyes seemed bright
+Within the gloom!
+If, evil blue, a wandering light
+Burnt by each tomb!
+Or that each crooked thorn-tree seemed
+A witch-hag cloaked!
+Or that the owl above me screamed,
+The raven croaked!
+For I had cursed him when the day
+Was sullen red;
+Had cursed him when the West was gray,
+And day was dead;
+And now when night made dark the pole,
+Both soon and late
+I cursed his body, yea, and soul,
+With the hate of hate.
+Once in my soul I seemed to hear
+A low voice say,--
+_'T were better to forgive,--and fear
+Thy God,--and pray._
+I laughed; and from pale lips of stone
+On sculptured tombs
+A mocking laugh replied alone
+Deep in the glooms.
+And then I felt, I felt--as if
+Some force should seize
+The body; and its limbs stretch stiff,
+And, fastening, freeze
+Down, downward deeper than the knees
+Into the earth--
+While still among the twisted trees
+That voice made mirth.
+And in my Soul was fear, despair,--
+Like lost ones feel,
+When knotted in their pitch-stiff hair,
+They feel the steel
+Of devils' forks lift up, through sleet
+Of hell's slant fire,
+Then plunge,--as white from head to feet
+I grew entire.
+A voice without me, yet within,
+As still as frost,
+Intoned: _Thy sin is thrice a sin,
+Thrice art thou lost.
+Behold, how God would punish thee!
+For this thy crime--
+Thy crime of hate and blasphemy--
+Through endless time!_
+_O'er him, whom thou wouldst not forgive,
+Record what good
+He did on earth! and let him live
+Loved, understood!
+Be memory thine of all the worst
+He did thine own!_
+There at the head of him I cursed
+I stood--a stone.
+Last night I watched for Death--
+So sick of life was I!--
+When in the street beneath
+I heard his watchman cry
+The hour, while passing by.
+I called. And in the night
+I heard him stop below,
+His owlish lanthorn's light
+Blurring the windy snow--
+How long the time and slow!
+I said, _Why dost thou cower
+There at my door and knock?
+Come in! It is the hour!
+Cease fumbling at the lock!
+Naught's well! 'Tis no o'clock!_
+Black through the door with him
+Swept in the _Winter's_ breath;
+His cloak was great and grim--
+But he, who smiled beneath,
+Had the face of Love not Death.
+The wine-loud laughter of indulged Desire
+Upon his lips, and, in his eyes, the fire
+Of uncontrol, he takes in reckless hands,--
+And interrupts with discords,--the sad lyre
+Of LOVE'S deep soul, and never understands.
 _When the Wine-Cup at the Lip._
-
-
-    When the wine-cup at the lip
-      Slants its sparkling fire,
-    O'er its level, while you sip,
-    Have you marked the finger-tip
-    Of the god DESIRE slip,
-      Of the god DESIRE?
-    Saying--_Lo, the hours run!
-    Live your day before 't is done!_
-
-    When the empty goblet lies
-      At the ended revel,
-    In the glass, the wine-stain dyes,
-    Have you marked the hollow eyes
-    Of a mocking Devil rise,
-      Of a mocking Devil?
-    Saying--_Lo, the day is through!
-    Look on joy it gave to you!_
-
-
-
-
-ART.
-
-[_A Phantasy._]
-
-
-    I know not how I found you
-      With your wild hair a-blow,
-    Nor why the world around you
-      Would never let me know:
-    Perhaps 't was Heaven relented,
-    Perhaps 't was Hell resented
-    My dream, and grimly vented
-      Its hate upon me so.
-
-    In Shadowland I met you
-      Where all dim shadows meet;
-    Within my heart I set you,
-      A phantom bitter-sweet:
-    No hope for me to win you,
-    Though I with soul and sinew
-    Strive on and on, when in you
-      There is no heart or heat!
-
-    Yet ever, aye, and ever,
-      Although I knew you lied,
-    I followed on, but never
-      Would your white form abide:
-    With loving arms stretched meward,
-    As Sirens beckon seaward
-    To some fair vessel leeward,
-      Before me you would glide.
-
-    But like an evil fairy,
-      That mocks one with a light,
-    Now near, you led your airy,
-      Now far, your fitful flight:
-    With red-gold tresses blowing,
-    And eyes of sapphire glowing,
-    With limbs like marble showing,
-      You lured me through the night.
-
-    To some unearthly revel
-      Of mimes, a motley crew,
-    'Twixt Angel-land and Devil,
-      You lured me on, I knew,
-    And lure me still! soft whiling
-    The way with hopes beguiling,
-    While dark Despair sits smiling
-      Behind the eyes of you!
-
-
-
-
-A SONG FOR OLD AGE.
-
-
-    Now nights grow cold and colder,
-      And North the wild vane swings,
-    And round each tree and boulder
-      The driving snow-storm sings--
-    Come, make my old heart older,
-      O memory of lost things!
-
-    Of Hope, when promise sung her
-      Brave songs and I was young,
-    That banquets now on hunger
-      Since all youth's songs are sung;
-    Of Love, who walks with younger
-      Sweethearts the flowers among.
-
-    Ah, well! while Life holds levee,
-      Death's ceaseless dance goes on.
-    So let the curtains, heavy
-      About my couch, be drawn--
-    The curtains, sad and heavy,
-      Where all shall sleep anon.
-
-
-
-
+When the wine-cup at the lip
+Slants its sparkling fire,
+O'er its level, while you sip,
+Have you marked the finger-tip
+Of the god DESIRE slip,
+Of the god DESIRE?
+Saying--_Lo, the hours run!
+Live your day before 't is done!_
+When the empty goblet lies
+At the ended revel,
+In the glass, the wine-stain dyes,
+Have you marked the hollow eyes
+Of a mocking Devil rise,
+Of a mocking Devil?
+Saying--_Lo, the day is through!
+Look on joy it gave to you!_
+I know not how I found you
+With your wild hair a-blow,
+Nor why the world around you
+Would never let me know:
+Perhaps 't was Heaven relented,
+Perhaps 't was Hell resented
+My dream, and grimly vented
+Its hate upon me so.
+In Shadowland I met you
+Where all dim shadows meet;
+Within my heart I set you,
+A phantom bitter-sweet:
+No hope for me to win you,
+Though I with soul and sinew
+Strive on and on, when in you
+There is no heart or heat!
+Yet ever, aye, and ever,
+Although I knew you lied,
+I followed on, but never
+Would your white form abide:
+With loving arms stretched meward,
+As Sirens beckon seaward
+To some fair vessel leeward,
+Before me you would glide.
+But like an evil fairy,
+That mocks one with a light,
+Now near, you led your airy,
+Now far, your fitful flight:
+With red-gold tresses blowing,
+And eyes of sapphire glowing,
+With limbs like marble showing,
+You lured me through the night.
+To some unearthly revel
+Of mimes, a motley crew,
+'Twixt Angel-land and Devil,
+You lured me on, I knew,
+And lure me still! soft whiling
+The way with hopes beguiling,
+While dark Despair sits smiling
+Behind the eyes of you!
+Now nights grow cold and colder,
+And North the wild vane swings,
+And round each tree and boulder
+The driving snow-storm sings--
+Come, make my old heart older,
+O memory of lost things!
+Of Hope, when promise sung her
+Brave songs and I was young,
+That banquets now on hunger
+Since all youth's songs are sung;
+Of Love, who walks with younger
+Sweethearts the flowers among.
+Ah, well! while Life holds levee,
+Death's ceaseless dance goes on.
+So let the curtains, heavy
+About my couch, be drawn--
+The curtains, sad and heavy,
+Where all shall sleep anon.
 _Tristram And Isolt._
-
-
-    Night and vast caverns of rock and of iron;
-    Voices like water, and voices like wind;
-    Horror and tempests of hail that environ
-    Shapes and the shadows of two who have sinned.
-
-    Wan on the whirlwind, in loathing uplifting
-    Faces that loved once, forever they go,
-    TRISTAM and ISOLT, the lovers, go drifting,
-    The sullen laughter of Hell below.
-
-
-
-
-THE BETTER LOT.
-
-
-    Her life was bound to crutches: pale and bent,
-    But smiling ever, she would go and come:
-    For of her soul GOD made an instrument
-    Of strength and comfort to an humble home.
-
-    Better a life of toil and slow disease
-    That LOVE companions through the patient years,
-    Than one whose heritage is loveless ease,
-    That never knows the blessedness of tears.
-
-
-
-
-DUSK IN THE WOODS.
-
-
-    Three miles of hill it is; and I
-    Came through the woods that waited, dumb,
-    For the cool _Summer_ dusk to come;
-    And lingered there to watch the sky
-    Up which the gradual sunset clomb.
-
-    A tree-toad quavered in a tree;
-    And then a sudden whip-poor-will
-    Called overhead, so wildly shrill,
-    The startled woodland seemed to see
-    How very lone it was and still.
-
-    Then through dark boughs its stealthy flight
-    An owl took; and, at sleepy strife,
-    The cricket turned its fairy fife;
-    And through the dead leaves, in the night,
-    Soft rustlings stirred of unseen life.
-
-    And in the punk-wood everywhere
-    The inserts ticked, or bored below
-    The rotted bark; and, glow on glow,
-    The gleaming fireflies here and there
-    Lit up their Jack-o'-lantern show.
-
-    I heard a vesper-sparrow sing,
-    Withdrawn, it seemed, into the far
-    Slow sunset's tranquil cinnabar;
-    The sunset, softly smouldering
-    Behind gaunt trunks, with its one star.
-
-    A dog barked; and down ways, that gleamed,
-    Through dew and clover faint the noise
-    Of cow-bells moved. And then a voice,
-    That sang a-milking, so it seemed,
-    Made glad my heart as some glad boy's.
-
-    And then the lane; and full in view
-    A farmhouse with a rose-grown gate,
-    And honeysuckle paths, await
-    For night's white moon and love and you--
-    These are the things that made me late.
-
-
-
-
-AT THE FERRY.
-
-
-    Oh, dim and wan came in the dawn,
-      And gloomy closed the day;
-    The killdee whistled among the weeds,
-    The heron flapped in the river reeds,
-      And the snipe piped far away.
-
-    At dawn she stood--her dark gray hood
-      Flung back--in the ferry-boat;
-    Sad were the eyes that watched him ride,
-    Her raider love, from the riverside,
-      His kiss on her mouth and throat.
-
-    Like some wild spell the twilight fell,
-      And black the tempest came;
-    The heavens seemed filled with the warring dead,
-    Whose batteries opened overhead
-      With thunder and with flame.
-
-    At night again in the wind and rain,
-      She toiled at the ferry oar;
-    For she heard a voice in the night and storm,
-    And it seemed that her lover's shadowy form
-      Beckoned her to the shore.
-
-    And swift to save she braved the wave,
-      And reached the shore and found
-    His riderless horse, with head hung low,
-    A blur of blood on the saddle-bow,
-      And the empty night around.
-
-
-
-
-HER VIOLIN.
-
-
-I
-
-    Her violin!--Again begin
-    The dream-notes of her violin;
-    And dim and fair, with gold-brown hair,
-    I seem to see her standing there,
-    Soft-eyed and sweetly slender:
-    The room again, with strain on strain,
-    Vibrates to LOVE's melodious pain,
-    As, sloping slow, is poised her bow,
-    While round her form the golden glow
-    Of sunset spills its splendour.
-
-
-II
-
-    Her violin!--now deep, now thin,
-    Again I hear her violin;
-    And, dream by dream, again I seem
-    To see the love-light's tender gleam
-    Beneath her eyes' long lashes:
-    While to my heart she seems a part
-    Of her pure song's inspired art;
-    And, as she plays, the rosy grays
-    Of twilight halo hair and face,
-    While sunset burns to ashes.
-
-
-III
-
-    O violin!--Cease, cease within
-    My soul, O haunting violin!
-    In vain, in vain, you bring again
-    Back from the past the blissful pain
-    Of all the love then spoken;
-    When on my breast, at happy rest,
-    A sunny while her head was pressed--
-    Peace, peace to these wild memories!
-    For, like my heart naught remedies,
-    Her violin lies broken.
-
-
-
-
-HER VESPER SONG.
-
-
-    The _Summer_ lightning comes and goes
-    In one pale cloud above the hill,
-    As if within its soft repose
-    A burning heart were never still--
-    As in my bosom pulses beat
-    Before the coming of his feet.
-
-    All drugged with odorous sleep, the rose
-    Breathes dewy balm about the place,
-    As if the dreams the garden knows
-    Took immaterial form and face--
-    As in my heart sweet thoughts arise
-    Beneath the ardour of his eyes.
-
-    The moon above the darkness shows
-    An orb of silvery snow and fire,
-    As if the night would now disclose
-    To heav'n her one divine desire--
-    As in the rapture of his kiss
-    All of my soul is drawn to his.
-
-    The cloud, it knows not that it glows;
-    The rose knows nothing of its scent;
-    Nor knows the moon that it bestows
-    Light on our earth and firmament--
-    So is the soul unconscious of
-    The beauties it reveals through LOVE.
-
-
-
-
-AT PARTING.
-
-
-    What is there left for us to say,
-    Now it has come to say good-by?
-    And all our dreams of yesterday
-    Have vanished in the sunset sky--
-    What is there left for us to say,
-    Now different ways before us lie?
-
-    A word of hope, a word of cheer,
-    A word of love, that still shall last,
-    When we are far to bring us near
-    Through memories of the happy past;
-    A word of hope, a word of cheer,
-    To keep our sad hearts true and fast.
-
-    What is there left for us to do,
-    Now it has come to say farewell?
-    And care, that bade us once adieu,
-    Returns again with us to dwell--
-    What is there left for us to do,
-    Now different ways our fates compel?
-
-    Clasp hands and sigh, touch lips and smile,
-    And look the love that shall remain--
-    When severed so by many a mile--
-    The sweetest balm for bitterest pain;
-    Clasp hands and sigh, touch lips and smile,
-    And trust in GOD to meet again.
-
-
-
-
-CARISSIMA MEA.
-
-
-    I look upon my lady's face,
-      And, in the world about me, see
-    No face like hers in any place:
-    _Therefore it is I sing her praise._
-
-    It is not made, as others sing
-      Of their dear loves, like ivory,
-    But like a wild rose in the spring:
-    _Therefore it is I sing her praise._
-
-    Her brow is low and very fair,
-      And o'er it, smooth and shadowy,
-    Lies deep the darkness of her hair:
-    _Therefore it is I sing her praise._
-
-    Beneath her brows her eyes are gray,
-      And gaze out glad and fearlessly,
-    Their wonder haunts me night and day:
-    _Therefore it is I sing her praise._
-
-    Her eyebrows, arched and delicate,
-      Twin curves of pencilled ebony,
-    Within their spans contain my fate:
-    _Therefore it is I sing her praise._
-
-    Her mouth, that was for kisses curved,
-      So small and sweet, it well may be
-    That it for me is yet reserved:
-    _Therefore it is I sing her praise._
-
-    Between her hair and rounded chin,
-      Calm with her soul's calm purity,
-    There lies no shadow of a sin:
-    _Therefore it is I sing her praise._
-
-    Of perfect form, she is not tall,
-      Just higher than the heart of me,
-    Where'er I place her, all in all:
-    _Therefore it is I sing her praise._
-
-    She is not shaped, as some have sung
-      Of their dear loves, like some slim tree,
-    But like the moon when it is young:
-    _Therefore it is I sing her praise._
-
-    Her hands, that smell of violet,
-     So white and fashioned gracefully,
-    Have woven round my heart a net:
-    _Therefore it is I sing her praise._
-
-    Yea, I have loved her many a day;
-      And though for me she may not be,
-    Still at her feet my love I lay:
-    _Therefore it is I sing her praise._
-
-    Albeit she be not for me,
-    GOD send her grace and grant that she
-    Know nought of sorrow all her days:
-    _Therefore it is I sing her praise._
-
-
-
-
+Night and vast caverns of rock and of iron;
+Voices like water, and voices like wind;
+Horror and tempests of hail that environ
+Shapes and the shadows of two who have sinned.
+Wan on the whirlwind, in loathing uplifting
+Faces that loved once, forever they go,
+TRISTAM and ISOLT, the lovers, go drifting,
+The sullen laughter of Hell below.
+Her life was bound to crutches: pale and bent,
+But smiling ever, she would go and come:
+For of her soul GOD made an instrument
+Of strength and comfort to an humble home.
+Better a life of toil and slow disease
+That LOVE companions through the patient years,
+Than one whose heritage is loveless ease,
+That never knows the blessedness of tears.
+Three miles of hill it is; and I
+Came through the woods that waited, dumb,
+For the cool _Summer_ dusk to come;
+And lingered there to watch the sky
+Up which the gradual sunset clomb.
+A tree-toad quavered in a tree;
+And then a sudden whip-poor-will
+Called overhead, so wildly shrill,
+The startled woodland seemed to see
+How very lone it was and still.
+Then through dark boughs its stealthy flight
+An owl took; and, at sleepy strife,
+The cricket turned its fairy fife;
+And through the dead leaves, in the night,
+Soft rustlings stirred of unseen life.
+And in the punk-wood everywhere
+The inserts ticked, or bored below
+The rotted bark; and, glow on glow,
+The gleaming fireflies here and there
+Lit up their Jack-o'-lantern show.
+I heard a vesper-sparrow sing,
+Withdrawn, it seemed, into the far
+Slow sunset's tranquil cinnabar;
+The sunset, softly smouldering
+Behind gaunt trunks, with its one star.
+A dog barked; and down ways, that gleamed,
+Through dew and clover faint the noise
+Of cow-bells moved. And then a voice,
+That sang a-milking, so it seemed,
+Made glad my heart as some glad boy's.
+And then the lane; and full in view
+A farmhouse with a rose-grown gate,
+And honeysuckle paths, await
+For night's white moon and love and you--
+These are the things that made me late.
+Oh, dim and wan came in the dawn,
+And gloomy closed the day;
+The killdee whistled among the weeds,
+The heron flapped in the river reeds,
+And the snipe piped far away.
+At dawn she stood--her dark gray hood
+Flung back--in the ferry-boat;
+Sad were the eyes that watched him ride,
+Her raider love, from the riverside,
+His kiss on her mouth and throat.
+Like some wild spell the twilight fell,
+And black the tempest came;
+The heavens seemed filled with the warring dead,
+Whose batteries opened overhead
+With thunder and with flame.
+At night again in the wind and rain,
+She toiled at the ferry oar;
+For she heard a voice in the night and storm,
+And it seemed that her lover's shadowy form
+Beckoned her to the shore.
+And swift to save she braved the wave,
+And reached the shore and found
+His riderless horse, with head hung low,
+A blur of blood on the saddle-bow,
+And the empty night around.
+Her violin!--Again begin
+The dream-notes of her violin;
+And dim and fair, with gold-brown hair,
+I seem to see her standing there,
+Soft-eyed and sweetly slender:
+The room again, with strain on strain,
+Vibrates to LOVE's melodious pain,
+As, sloping slow, is poised her bow,
+While round her form the golden glow
+Of sunset spills its splendour.
+Her violin!--now deep, now thin,
+Again I hear her violin;
+And, dream by dream, again I seem
+To see the love-light's tender gleam
+Beneath her eyes' long lashes:
+While to my heart she seems a part
+Of her pure song's inspired art;
+And, as she plays, the rosy grays
+Of twilight halo hair and face,
+While sunset burns to ashes.
+O violin!--Cease, cease within
+My soul, O haunting violin!
+In vain, in vain, you bring again
+Back from the past the blissful pain
+Of all the love then spoken;
+When on my breast, at happy rest,
+A sunny while her head was pressed--
+Peace, peace to these wild memories!
+For, like my heart naught remedies,
+Her violin lies broken.
+The _Summer_ lightning comes and goes
+In one pale cloud above the hill,
+As if within its soft repose
+A burning heart were never still--
+As in my bosom pulses beat
+Before the coming of his feet.
+All drugged with odorous sleep, the rose
+Breathes dewy balm about the place,
+As if the dreams the garden knows
+Took immaterial form and face--
+As in my heart sweet thoughts arise
+Beneath the ardour of his eyes.
+The moon above the darkness shows
+An orb of silvery snow and fire,
+As if the night would now disclose
+To heav'n her one divine desire--
+As in the rapture of his kiss
+All of my soul is drawn to his.
+The cloud, it knows not that it glows;
+The rose knows nothing of its scent;
+Nor knows the moon that it bestows
+Light on our earth and firmament--
+So is the soul unconscious of
+The beauties it reveals through LOVE.
+What is there left for us to say,
+Now it has come to say good-by?
+And all our dreams of yesterday
+Have vanished in the sunset sky--
+What is there left for us to say,
+Now different ways before us lie?
+A word of hope, a word of cheer,
+A word of love, that still shall last,
+When we are far to bring us near
+Through memories of the happy past;
+A word of hope, a word of cheer,
+To keep our sad hearts true and fast.
+What is there left for us to do,
+Now it has come to say farewell?
+And care, that bade us once adieu,
+Returns again with us to dwell--
+What is there left for us to do,
+Now different ways our fates compel?
+Clasp hands and sigh, touch lips and smile,
+And look the love that shall remain--
+When severed so by many a mile--
+The sweetest balm for bitterest pain;
+Clasp hands and sigh, touch lips and smile,
+And trust in GOD to meet again.
+I look upon my lady's face,
+And, in the world about me, see
+No face like hers in any place:
+_Therefore it is I sing her praise._
+It is not made, as others sing
+Of their dear loves, like ivory,
+But like a wild rose in the spring:
+_Therefore it is I sing her praise._
+Her brow is low and very fair,
+And o'er it, smooth and shadowy,
+Lies deep the darkness of her hair:
+_Therefore it is I sing her praise._
+Beneath her brows her eyes are gray,
+And gaze out glad and fearlessly,
+Their wonder haunts me night and day:
+_Therefore it is I sing her praise._
+Her eyebrows, arched and delicate,
+Twin curves of pencilled ebony,
+Within their spans contain my fate:
+_Therefore it is I sing her praise._
+Her mouth, that was for kisses curved,
+So small and sweet, it well may be
+That it for me is yet reserved:
+_Therefore it is I sing her praise._
+Between her hair and rounded chin,
+Calm with her soul's calm purity,
+There lies no shadow of a sin:
+_Therefore it is I sing her praise._
+Of perfect form, she is not tall,
+Just higher than the heart of me,
+Where'er I place her, all in all:
+_Therefore it is I sing her praise._
+She is not shaped, as some have sung
+Of their dear loves, like some slim tree,
+But like the moon when it is young:
+_Therefore it is I sing her praise._
+Her hands, that smell of violet,
+So white and fashioned gracefully,
+Have woven round my heart a net:
+_Therefore it is I sing her praise._
+Yea, I have loved her many a day;
+And though for me she may not be,
+Still at her feet my love I lay:
+_Therefore it is I sing her praise._
+Albeit she be not for me,
+GOD send her grace and grant that she
+Know nought of sorrow all her days:
+_Therefore it is I sing her praise._
 _Margery._
-
-
-I
-
-    When _Spring_ is here and MARGERY
-    Goes walking in the woods with me,
-    She is so white, she is so shy,
-    The little leaves clap hands and cry--
-                _Perdie!
-    So white is she, so sky is she,
-                Ah me!
-    The maiden May hath just passed by!_
-
-
-II
-
-    When _Summer's_ here and MARGERY
-    Goes walking in the fields with me,
-    She is so pure, she is so fair,
-    The wildflowers eye her and declare--
-                _Perdie!
-    So pure is she, so fair is she,
-                Just see,
-    Where our sweet cousin takes the air!_
-
-
-III
-
-    Why is it that my MARGERY
-    Hears nothing that these say to me?
-    She is so good, she is so true,
-    My heart it maketh such ado;
-                _Perdie!
-    So good is she, so true is she,
-                You see,
-    She can not hear the other two._
-
-
-
-
+When _Spring_ is here and MARGERY
+Goes walking in the woods with me,
+She is so white, she is so shy,
+The little leaves clap hands and cry--
+_Perdie!
+So white is she, so sky is she,
+Ah me!
+The maiden May hath just passed by!_
+When _Summer's_ here and MARGERY
+Goes walking in the fields with me,
+She is so pure, she is so fair,
+The wildflowers eye her and declare--
+_Perdie!
+So pure is she, so fair is she,
+Just see,
+Where our sweet cousin takes the air!_
+Why is it that my MARGERY
+Hears nothing that these say to me?
+She is so good, she is so true,
+My heart it maketh such ado;
+_Perdie!
+So good is she, so true is she,
+You see,
+She can not hear the other two._
 _Constance._
-
-
-    Beyond the orchard, in the lane,
-    The crested red-bird sings again--
-    O bird, whose song says, _Have no care._
-    Should I not care when CONSTANCE there,--
-    My CONSTANCE, with the bashful gaze,
-    Pink-gowned like some sweet hollyhock,--
-    If I declare my love, just says
-    Some careless thing as if in mock?
-    Like--_Past the orchard, in the lane,
-    How sweet the red-bird sings again_!
-
-    There, while the red-bird sings his best,
-    His listening mate sits on the nest--
-    O bird, whose patience says, _All's well_,
-    How can it be with me, now tell?
-    When CONSTANCE, with averted eyes,--
-    Soft-bonneted as some sweet-pea,--
-    If I speak marriage, just replies
-    With some such quaint irrelevancy,
-    As, _While the red-bird sings his best,
-    His loving mate sits on the nest_.
-
-    What shall I say? what can I do?
-    Would such replies mean aught to you,
-    O birds, whose gladness says, _Be glad_?
-    Have I not reason to be sad
-    When CONSTANCE, with demurest glance,
-    Her face a-poppy with distress,
-    If I reproach her, pouts, perchance,
-    And answers so in waywardness?--
-    _What shall I say? what can I do?
-    My meaning should be plain to you!_
-
-
-
-
+Beyond the orchard, in the lane,
+The crested red-bird sings again--
+O bird, whose song says, _Have no care._
+Should I not care when CONSTANCE there,--
+My CONSTANCE, with the bashful gaze,
+Pink-gowned like some sweet hollyhock,--
+If I declare my love, just says
+Some careless thing as if in mock?
+Like--_Past the orchard, in the lane,
+How sweet the red-bird sings again_!
+There, while the red-bird sings his best,
+His listening mate sits on the nest--
+O bird, whose patience says, _All's well_,
+How can it be with me, now tell?
+When CONSTANCE, with averted eyes,--
+Soft-bonneted as some sweet-pea,--
+If I speak marriage, just replies
+With some such quaint irrelevancy,
+As, _While the red-bird sings his best,
+His loving mate sits on the nest_.
+What shall I say? what can I do?
+Would such replies mean aught to you,
+O birds, whose gladness says, _Be glad_?
+Have I not reason to be sad
+When CONSTANCE, with demurest glance,
+Her face a-poppy with distress,
+If I reproach her, pouts, perchance,
+And answers so in waywardness?--
+_What shall I say? what can I do?
+My meaning should be plain to you!_
 _Gertrude._
-
-
-    When first I gazed on GERTRUDE'S face,
-    Beheld her loveliness and grace;
-    Her brave gray eyes, her raven hair,
-    Her ways, more winsome than the kiss
-    _Spring_ gives the flowers; her smile, that is
-    Brighter than all the summer air
-    Made sweet with birds:--I did declare,--
-    And still declare!--there is no one,
-    No girl beneath the moon or sun,
-    So beautiful to look upon!
-    And to my thoughts, that on her dwell,
-    Nothing seems more desirable--
-    Not OPHIR gold nor ORIENT pearls--
-    Than seems this jewel-girl of girls.
-
-
-
-
+When first I gazed on GERTRUDE'S face,
+Beheld her loveliness and grace;
+Her brave gray eyes, her raven hair,
+Her ways, more winsome than the kiss
+_Spring_ gives the flowers; her smile, that is
+Brighter than all the summer air
+Made sweet with birds:--I did declare,--
+And still declare!--there is no one,
+No girl beneath the moon or sun,
+So beautiful to look upon!
+And to my thoughts, that on her dwell,
+Nothing seems more desirable--
+Not OPHIR gold nor ORIENT pearls--
+Than seems this jewel-girl of girls.
 _Lydia._
-
-
-    When Autumn's here and days are short,
-      Let LYDIA laugh and, hey!
-    Straightway 't is _May-day_ in my heart,
-      And blossoms strew the way.
-
-    When _Summer's_ here and days are long,
-      Let LYDIA sigh and, ho!
-    _December's_ fields I walk among,
-      And shiver in the snow.
-
-    No matter what the Seasons are,
-      My LYDIA is so dear,
-    My soul admits no Calendar
-      Of earth when she is near.
-
-
-
-
-A SOUTHERN GIRL.
-
-
-    Serious but smiling, stately and serene,
-      And dreamier than a flower;
-    A girl in whom all sympathies convene
-      As perfumes in a bower;
-    Through whom one feels what soul and heart may mean,
-      And their resistless power.
-
-    Eyes, that commune with the frank skies of truth,
-      Where thought like starlight curls;
-    Lips of immortal rose, where love and youth
-      Nestle like two sweet pearls;
-    Hair, that suggests the Bible braids of RUTH,
-      Deeper than any girl's.
-
-    When first I saw you, 't was as if within
-      My soul took shape some song--
-    Played by a master of the violin--
-      A music pure and strong,
-    That rapt my soul above all earthly sin
-      To heights that know no wrong.
-
-
-
-
-A DAUGHTER OF THE STATES.
-
-
-    She has the eyes of some barbarian Queen
-    Leading her wild tribes into battle; eyes,
-    Wherein th' unconquerable soul defies,
-    And Love sits throned, imperious and serene.
-
-    And I have thought that Liberty, alone
-    Among the mountain stars, might look like her,
-    Kneeling to GOD, her only emperor,
-    Kindling her torch on FREEDOM'S altar-stone.
-
-    For in her self, regal with riches of
-    Beauty and youth, again those Queens seem born--
-    BOADICEA, meeting scorn with scorn,
-    And ERMENGARDE, returning love for love.
-
-
-
-
+When Autumn's here and days are short,
+Let LYDIA laugh and, hey!
+Straightway 't is _May-day_ in my heart,
+And blossoms strew the way.
+When _Summer's_ here and days are long,
+Let LYDIA sigh and, ho!
+_December's_ fields I walk among,
+And shiver in the snow.
+No matter what the Seasons are,
+My LYDIA is so dear,
+My soul admits no Calendar
+Of earth when she is near.
+Serious but smiling, stately and serene,
+And dreamier than a flower;
+A girl in whom all sympathies convene
+As perfumes in a bower;
+Through whom one feels what soul and heart may mean,
+And their resistless power.
+Eyes, that commune with the frank skies of truth,
+Where thought like starlight curls;
+Lips of immortal rose, where love and youth
+Nestle like two sweet pearls;
+Hair, that suggests the Bible braids of RUTH,
+Deeper than any girl's.
+When first I saw you, 't was as if within
+My soul took shape some song--
+Played by a master of the violin--
+A music pure and strong,
+That rapt my soul above all earthly sin
+To heights that know no wrong.
+She has the eyes of some barbarian Queen
+Leading her wild tribes into battle; eyes,
+Wherein th' unconquerable soul defies,
+And Love sits throned, imperious and serene.
+And I have thought that Liberty, alone
+Among the mountain stars, might look like her,
+Kneeling to GOD, her only emperor,
+Kindling her torch on FREEDOM'S altar-stone.
+For in her self, regal with riches of
+Beauty and youth, again those Queens seem born--
+BOADICEA, meeting scorn with scorn,
+And ERMENGARDE, returning love for love.
 AN _Autumn_ NIGHT.
-
-
-    Some things are good on _Autumn_ nights,
-    When with the storm the forest fights,
-    And in the room the heaped hearth lights
-        Old-fashioned press and rafter:
-    Plump chestnuts hissing in the heat,
-    A mug of cider, sharp and sweet,
-    And at your side a face petite,
-        With lips of laughter.
-
-    Upon the roof the rolling rain,
-    And tapping at the window-pane,
-    The wind that seems a witch's cane
-        That summons spells together:
-    A hand within your own awhile;
-    A mouth reflecting back your smile;
-    And eyes, two stars, whose beams exile
-        All thoughts of weather.
-
-    And, while the wind lulls, still to sit
-    And watch her fire-lit needles flit
-    A-knitting, and to feel her knit
-        Your very heartstrings in it:
-    Then, when the old clock ticks _'tis late_,
-    To rise, and at the door to wait,
-    Two words, or at the garden gate,
-        A kissing minute.
-
-
-
-
-LINES.
-
-
-    If GOD should say to me, _Behold!--
-        Yea, who shall doubt?--
-    They who love others more than me,
-    Shall I not turn, as oft of old,
-    My face from them and cast them out?
-    So let it be with thee, behold!_--
-    I should not care, for in your face
-        Is all GOD'S grace.
-
-    If GOD should say to me, _Behold!--
-        Is it not well?--
-    They who have other gods than me,
-    Shall I not bid them, as of old,
-    Depart into the outer_ HELL?
-    _So let it be with thee, behold!_--
-    I should not care, for in your eyes
-        Is PARADISE.
-
-
-
-
-THE BLIND GOD.
-
-
-    I know not if she be unkind,
-      If she have faults I do not care;
-    Search through the world--where will you find
-    A face like hers, a form, a mind?
-      _I love her to despair._
-
-    If she be cruel, cruelty
-      Is a great virtue, I will swear;
-    If she be proud--then pride must be
-    Akin to Heaven's divinest three--
-      _I love her to despair._
-
-    Why speak to me of that and this?
-      All you may say weighs not a hair!
-    In her,--whose lips I may not kiss,--
-    To me naught but perfection is!--
-      _I love her to despair._
-
-
-
-
-A VALENTINE.
-
-
-    My life is grown a witchcraft place
-    Through gazing on thy form and face.
-
-    Now 't is thy Smile's soft sorcery
-    That makes my soul a melody.
-
-    Now 't is thy Frown, that comes and goes,
-    That makes my heart a page of prose.
-
-    Some day, perhaps, a word of thine
-    Will change me to thy VALENTINE.
-
-
-
-
-A CATCH.
-
-
-    When roads are mired with ice and snow,
-    And the air of morn is crisp with rime;
-    When the holly hangs by the mistletoe,
-    And bells ring in the CHRISTMAS time:--
-    It's--Saddle, my Heart, and ride away,
-    To the sweet-faced girl with the eyes of gray!
-    Who waits with a smile for the gifts you bring--
-    A man's strong love and a wedding-ring--
-        It's--Saddle, my Heart, and ride!
-
-    When vanes veer North and storm-winds blow,
-    And the sun of noon is a blur o'erhead;
-    When the holly hangs by the mistletoe,
-    And the CHRISTMAS service is sung and said:--
-    It's--Come, O my Heart, and wait awhile,
-    Where the organ peals, in the altar aisle,
-    For the gifts that the church now gives to you--
-    A woman's hand and a heart that's true.
-        It's--Come, O my Heart, and wait!
-
-    When rooms gleam warm with the fire's glow,
-    And the sleet raps sharp on the window-pane;
-    When the holly hangs by the mistletoe,
-    And CHRISTMAS revels begin again:--
-    It's--Home, O my Heart, and love, at last!
-    And her happy breast to your own held fast;
-    A song to sing and a tale to tell,
-    A good-night kiss, and all is well.
-        It's--Home, O my Heart, and love!
-
-
-
-
-THE NEW YEAR.
-
-
-    Lift up thy torch, O Year, and let us see
-            What Destiny
-    Hath made thee heir to at nativity!
-
-    Doubt, some call Faith; and ancient Wrong and Might,
-            Whom some name Right;
-    And Darkness, that the purblind world calls Light.
-
-    Despair, with Hope's brave form; and Hate, who goes
-            In Friendship's clothes;
-    And Happiness, the mask of many woes.
-
-    Neglect, whom Merit serves; Lust, to whom, see,
-            Love bends the knee;
-    And Selfishness, who preacheth charity.
-
-    Vice, in whose dungeon Virtue lies in chains;
-            And Cares and Pains,
-    That on the throne of Pleasure hold their reigns.
-
-    Corruption, known as Honesty; and Fame
-            That's but a name;
-    And Innocence, the outward guise of Shame.
-
-    And Folly, men call Wisdom here, forsooth;
-            And, like a youth,
-    Fair Falsehood, whom some worship for the Truth.
-
-    Abundance, who hath Famine's house in lease;
-            And, high 'mid these,
-    War, blood-black, on the spotless shrine of Peace.
-
-    Lift up thy torch, O Year! assist our sight!
-            Deep lies the night
-    Around us, and GOD grants us little light!
-
-
-
-
-THEN AND NOW.
-
-
-    When my old heart was young, my dear,
-    The Earth and Heaven were so near
-    That in my dreams I oft could hear
-        The steps of unseen races;
-    In woodlands, where bright waters ran,
-    On hills, GOD'S rainbows used to span,
-    I followed voices not of man,
-        And smiled in spirit faces.
-
-    Now my old heart is old, my sweet,
-    No longer Earth and Heaven meet;
-    All Life is grown to one long street
-        Where fact with fancy clashes;
-    The voices now that speak to me
-    Are prose instead of poetry:
-    And in the faces now I see
-        Is less of flame than ashes.
-
-
-
-
-EPILOGUE.
-
-
-    Beyond the moon, within a land of mist,
-        Lies the dim Garden of all Dead Desires,
-    Walled round with morning's clouded amethyst,
-        And haunted of the sunset's shadowy fires;
-    There all lost things we loved hold ghostly tryst--
-        Dead dreams, dead hopes, dead loves, and dead desires.
-
-    Sad are the stars that day and night exist
-        Above the Garden of all Dead Desires;
-    And sad the roses that within it twist
-        Deep bow'rs; and sad the wind that through it quires;
-    But sadder far are they who there hold tryst--
-        Dead dreams, dead hopes, dead loves, and dead desires.
-
-    There, like a dove, upon the twilight's wrist,
-        Soft in the Garden of all Dead Desires,
-    Sleep broods; and there, where never a serpent hissed,
-        On the wan willows music hangs her lyres,
-    AEOLIAN dials by which phantoms tryst--
-        Dead dreams, dead hopes, dead loves, and dead desires.
-
-    There you shall hear low voices; kisses kissed,
-        Faint in the Garden of all Dead Desires,
-    By lips the anguish of vain song makes whist;
-        And meet with shapes that art's despair attires;
-    And gaze in eyes where all sweet sorrows tryst--
-        Dead dreams, dead hopes, dead loves, and dead desires.
-
-    Thither we go, dreamer and realist,
-        Bound for the Garden of all Dead Desires,
-    Where we shall find, perhaps, all Life hath missed,
-        All Life hath longed for when the soul aspires,
-    All Earth's elusive loveliness at tryst--
-        Dead dreams, dead hopes, dead loves, and dead desires.
-
-       *       *       *       *       *
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Shapes and Shadows, by Madison J. Cawein
-
+Some things are good on _Autumn_ nights,
+When with the storm the forest fights,
+And in the room the heaped hearth lights
+Old-fashioned press and rafter:
+Plump chestnuts hissing in the heat,
+A mug of cider, sharp and sweet,
+And at your side a face petite,
+With lips of laughter.
+Upon the roof the rolling rain,
+And tapping at the window-pane,
+The wind that seems a witch's cane
+That summons spells together:
+A hand within your own awhile;
+A mouth reflecting back your smile;
+And eyes, two stars, whose beams exile
+All thoughts of weather.
+And, while the wind lulls, still to sit
+And watch her fire-lit needles flit
+A-knitting, and to feel her knit
+Your very heartstrings in it:
+Then, when the old clock ticks _'tis late_,
+To rise, and at the door to wait,
+Two words, or at the garden gate,
+A kissing minute.
+If GOD should say to me, _Behold!--
+Yea, who shall doubt?--
+They who love others more than me,
+Shall I not turn, as oft of old,
+My face from them and cast them out?
+So let it be with thee, behold!_--
+I should not care, for in your face
+Is all GOD'S grace.
+If GOD should say to me, _Behold!--
+Is it not well?--
+They who have other gods than me,
+Shall I not bid them, as of old,
+Depart into the outer_ HELL?
+_So let it be with thee, behold!_--
+I should not care, for in your eyes
+Is PARADISE.
+I know not if she be unkind,
+If she have faults I do not care;
+Search through the world--where will you find
+A face like hers, a form, a mind?
+_I love her to despair._
+If she be cruel, cruelty
+Is a great virtue, I will swear;
+If she be proud--then pride must be
+Akin to Heaven's divinest three--
+_I love her to despair._
+Why speak to me of that and this?
+All you may say weighs not a hair!
+In her,--whose lips I may not kiss,--
+To me naught but perfection is!--
+_I love her to despair._
+My life is grown a witchcraft place
+Through gazing on thy form and face.
+Now 't is thy Smile's soft sorcery
+That makes my soul a melody.
+Now 't is thy Frown, that comes and goes,
+That makes my heart a page of prose.
+Some day, perhaps, a word of thine
+Will change me to thy VALENTINE.
+When roads are mired with ice and snow,
+And the air of morn is crisp with rime;
+When the holly hangs by the mistletoe,
+And bells ring in the CHRISTMAS time:--
+It's--Saddle, my Heart, and ride away,
+To the sweet-faced girl with the eyes of gray!
+Who waits with a smile for the gifts you bring--
+A man's strong love and a wedding-ring--
+It's--Saddle, my Heart, and ride!
+When vanes veer North and storm-winds blow,
+And the sun of noon is a blur o'erhead;
+When the holly hangs by the mistletoe,
+And the CHRISTMAS service is sung and said:--
+It's--Come, O my Heart, and wait awhile,
+Where the organ peals, in the altar aisle,
+For the gifts that the church now gives to you--
+A woman's hand and a heart that's true.
+It's--Come, O my Heart, and wait!
+When rooms gleam warm with the fire's glow,
+And the sleet raps sharp on the window-pane;
+When the holly hangs by the mistletoe,
+And CHRISTMAS revels begin again:--
+It's--Home, O my Heart, and love, at last!
+And her happy breast to your own held fast;
+A song to sing and a tale to tell,
+A good-night kiss, and all is well.
+It's--Home, O my Heart, and love!
+Lift up thy torch, O Year, and let us see
+What Destiny
+Hath made thee heir to at nativity!
+Doubt, some call Faith; and ancient Wrong and Might,
+Whom some name Right;
+And Darkness, that the purblind world calls Light.
+Despair, with Hope's brave form; and Hate, who goes
+In Friendship's clothes;
+And Happiness, the mask of many woes.
+Neglect, whom Merit serves; Lust, to whom, see,
+Love bends the knee;
+And Selfishness, who preacheth charity.
+Vice, in whose dungeon Virtue lies in chains;
+And Cares and Pains,
+That on the throne of Pleasure hold their reigns.
+Corruption, known as Honesty; and Fame
+That's but a name;
+And Innocence, the outward guise of Shame.
+And Folly, men call Wisdom here, forsooth;
+And, like a youth,
+Fair Falsehood, whom some worship for the Truth.
+Abundance, who hath Famine's house in lease;
+And, high 'mid these,
+War, blood-black, on the spotless shrine of Peace.
+Lift up thy torch, O Year! assist our sight!
+Deep lies the night
+Around us, and GOD grants us little light!
+When my old heart was young, my dear,
+The Earth and Heaven were so near
+That in my dreams I oft could hear
+The steps of unseen races;
+In woodlands, where bright waters ran,
+On hills, GOD'S rainbows used to span,
+I followed voices not of man,
+And smiled in spirit faces.
+Now my old heart is old, my sweet,
+No longer Earth and Heaven meet;
+All Life is grown to one long street
+Where fact with fancy clashes;
+The voices now that speak to me
+Are prose instead of poetry:
+And in the faces now I see
+Is less of flame than ashes.
+Beyond the moon, within a land of mist,
+Lies the dim Garden of all Dead Desires,
+Walled round with morning's clouded amethyst,
+And haunted of the sunset's shadowy fires;
+There all lost things we loved hold ghostly tryst--
+Dead dreams, dead hopes, dead loves, and dead desires.
+Sad are the stars that day and night exist
+Above the Garden of all Dead Desires;
+And sad the roses that within it twist
+Deep bow'rs; and sad the wind that through it quires;
+But sadder far are they who there hold tryst--
+Dead dreams, dead hopes, dead loves, and dead desires.
+There, like a dove, upon the twilight's wrist,
+Soft in the Garden of all Dead Desires,
+Sleep broods; and there, where never a serpent hissed,
+On the wan willows music hangs her lyres,
+AEOLIAN dials by which phantoms tryst--
+Dead dreams, dead hopes, dead loves, and dead desires.
+There you shall hear low voices; kisses kissed,
+Faint in the Garden of all Dead Desires,
+By lips the anguish of vain song makes whist;
+And meet with shapes that art's despair attires;
+And gaze in eyes where all sweet sorrows tryst--
+Dead dreams, dead hopes, dead loves, and dead desires.
+Thither we go, dreamer and realist,
+Bound for the Garden of all Dead Desires,
+Where we shall find, perhaps, all Life hath missed,
+All Life hath longed for when the soul aspires,
+All Earth's elusive loveliness at tryst--
+Dead dreams, dead hopes, dead loves, and dead desires.
+*       *       *       *       *

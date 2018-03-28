@@ -1,69 +1,4 @@
-                          THE GOLDEN HELM
-
-
-
-
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
-
-
-
-Title: The Golden Helm
-       and Other Verse
-Author: Wilfrid Wilson Gibson
-Release Date: February 08, 2013 [EBook #42052]
-Language: English
-Character set encoding: US-ASCII
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE GOLDEN HELM ***
-
-
-
-
 Produced by Al Haines.
-
-
-
-
-[Illustration: Cover]
-
-
-
-
-                                  THE
-                              GOLDEN HELM
-                            AND OTHER VERSE
-
-
-                                   BY
-                         WILFRID WILSON GIBSON
-
-
-
-                                 LONDON
-                       ELKIN MATHEWS, VIGO STREET
-                                  1903
-
-
-
-
-                                   TO
-                              HOWARD PEASE
-
-
-
-
-                          _BY THE SAME WRITER_
-
-                   _URLYN THE HARPER AND OTHER SONG_
-                   _THE QUEEN'S VIGIL AND OTHER SONG_
-
-
-
-
 Thanks are due to Messrs. Smith, Elder, & Co., for permission to reprint
 "The King's Death," "The Three Kings," and the first part of "Averlaine
 and Arkeld," from _The Cornhill Magazine_; to the editor of _Macmillan's
@@ -72,12 +7,7 @@ Saturday Review_ for leave to reprint "Notre Dame de la Belle-Verriere";
 and to the editors of _The Pilot, The Outlook, The Pall Mall Gazette,
 Country Life, The Week's Survey_, and _The Broadsheet_, for like
 courtesy with regard to a number of "The Songs of Queen Averlaine."
-
-
-
-
-                                Contents
-
+Contents
 The Torch
 The Unknown Knight
 The King's Death
@@ -88,13 +18,7 @@ The Vision: a Christmas Mystery
 The Three Kings
 The Songs of Queen Averlaine
 The Golden Helm
-
-
-
-
-                               The Torch
-
-
+The Torch
 Through skies blown clear by storm, o'er storm-spent seas,
 Day kindled pale with promise of full noon
 Of blue unclouded; no night-weary wind
@@ -273,7 +197,6 @@ His heart kept vigil by the little house
 Wherein the stranger slumbered; and it seemed
 His life, by some strange power within him stayed,
 Awaited the unlatching of the door.
-
 But now, within the hut, the sleeper dreamt
 Of foaming caverns and o'erwhelming waters;
 Then, shuddering awake, awhile she lay,
@@ -344,7 +267,6 @@ As though in tremulous expectation tranced,
 She yearned, with arms outstretched; as dawn arose
 Exultant from the sea, and with clear rays
 Kindled her wind-tost hair to streaming flame.
-
 Awhile she stood, then, moaning, slowly sank
 Upon the crag; and Oswald came to her
 With words of comfort which unloosed her pent
@@ -403,7 +325,7 @@ And all familiar hopes and joys and fears
 Dropt like a garment from her life, which now
 Stood naked on the edge of some new world
 Of unknown terrors.
-    Oswald heard her tale
+Oswald heard her tale
 With pitying glance; yet in his eyes arose
 A strange, new light, which as each gust of grief
 Shook out the fluttering words, more brightly burned;
@@ -415,7 +337,7 @@ But, stung by her shrill anguish, Oswald waked
 From his bright reverie, and his shining eyes
 Darkened with swift compassion, as he turned
 And, trembling, spake: "Nay, not alone..."
-  Then mute
+Then mute
 He stood--his pale lips clenched--as though within
 There surged a torrent which he dared not loose.
 Marna looked wondering up; but, when her eyes
@@ -450,7 +372,7 @@ Must be your home."  Exultant light once more
 Leapt, flashing, in the depths of his dark eyes.
 Yet Marna looked not up, but, slowly, spake:
 "Yea, I must go....  But you...."
-  Then in dismay
+Then in dismay
 She stopped, as though the thought had slipped unknown
 From her full heart; but Oswald caught the words,
 And spake with hard, quick speech, as if to baffle
@@ -493,13 +415,11 @@ Marna, with wondering heart, looked up at him;
 But such a wild light flickered in his eyes
 She dared not speak; and, shuddering, he turned,
 And strode back swiftly to the hermitage.
-
 Marna looked after him with yearning gaze,
 As though her heart would have her call him back,
 Yet her lips moved not; motionless, she watched
 Until he passed from sight; then, sinking low
 Among the flowers, she wept, she knew not why.
-
 And, as the door closed on him, Oswald fell
 Prone on the cold, black, vigil-furrowed rock
 That paved his narrow cell; and long he lay
@@ -539,7 +459,7 @@ And pale dawn stole in silence through his cell;
 And, in the light of morn, the taper died,
 With feeble guttering; yet he never stirred,
 Though noonday waxed and waned.
-  But Marna roamed
+But Marna roamed
 All night beneath the stars.  To her it seemed
 That not until the closing of the door
 Had all hope perished: now death tore, afresh,
@@ -552,7 +472,7 @@ Nestled within her heart; and, when she waked,
 She only yearned for that dim, cloistral calm,
 Embosomed deep in some bough-sheltered vale,
 Whither the boat must bear her.
-    In his cell,
+In his cell,
 As night paled slowly to the seventh morn,
 Oswald arose--the fire within his eyes
 Yet more intense, more fierce.  With eager hand
@@ -587,7 +507,6 @@ And I am one arisen from the grave.
 You will not thrust me back and take again
 That which you came through storm to bring to me?
 You will not go?  I cannot let you go!"
-
 He ceased; and now the even plash of oars
 Came clearer.  One dread moment Marna stood
 Swaying; then, stretching forth her arms, she cried:
@@ -599,7 +518,6 @@ Because I sought to bear them company,
 My father and my brothers lie in death?
 But this--ah God--that it should come to this!
 Must I bear ever death within my hands?"
-
 She paused one moment, with wild-heaving breast;
 Then, turning unto Oswald, spake again,
 With softer voice: "But you--have you no pity?
@@ -625,85 +543,59 @@ That burns his face like a white altar-flame.
 Not yet must we draw near, lest our weak sight
 Be blinded by that glory of gold hair
 That gleams so strangely in the light of dawn."
-
-
-
-
-                           The Unknown Knight
-
-
+The Unknown Knight
 When purple gloomed the wintry ridge
-  Against the sunset's windy flame,
+Against the sunset's windy flame,
 From pine-browed hills, along the bridge,
-  An unknown rider came.
-
+An unknown rider came.
 I watched him idly from the tower.
-  Though he nor looked nor raised his head;
+Though he nor looked nor raised his head;
 I felt my life before him cower
-  In dumb, foreboding dread.
-
+In dumb, foreboding dread.
 I saw him to the portal win
-  Unchallenged, and no lackey stirred
+Unchallenged, and no lackey stirred
 To take his bridle when within
-  He strode without a word.
-
+He strode without a word.
 Through all the house he passed unstayed,
-  Until he reached my father's door;
+Until he reached my father's door;
 The hinge shrieked out like one afraid;
-  Then silence fell once more.
-
+Then silence fell once more.
 All night I hear the chafing ice
-  Float, griding, down the swollen stream;
+Float, griding, down the swollen stream;
 I lie fast-held in terror's vice,
-  Nor dare to think or dream.
-
+Nor dare to think or dream.
 I only know the unknown knight
-  Keeps vigil by my father's bed:
+Keeps vigil by my father's bed:
 Oh, who shall wake to see the light
-  Flame all the east with red?
-
-
-
-
-                            The King's Death
-
-
+Flame all the east with red?
+The King's Death
 _The sleeping-chamber of the King: a candle burns dimly by the curtained
 bed.  The arras parts, and two slaves enter with daggers.  A storm of
 wind rages without._
-
 FIRST SLAVE: He sleeps.
-
 SECOND SLAVE: He sleeps, whom only death shall rouse
 To dread unsleeping in another world.
-
 FIRST SLAVE: How long the careful night has kept him wakeful,
 As if sleep loathed to snare him for our knives!
-
 SECOND SLAVE: Yea, we have crouched so close in quaking dark
 I scarce can lift my sword-arm: strike you first.
-
 FIRST SLAVE: The heavy waiting hours have crushed my strength;
 The hate that burst to such an eager flame
 Within my heart has smouldered to dull ash,
 Which pity breathes to scatter.
-
 SECOND SLAVE: Knows he pity?
-
 FIRST SLAVE: Nay, he is throned above his slaughtered kin,
 A reeking sword his sceptre.  He has broken,
 As one across the knee a faggot snaps,
 Strong lives to feed the blaze of his ambition;
 Yet shall a slave's hand strike cold death in him
 For whom kings sweat like slaves?
-
 SECOND SLAVE: Yea, at the stroke
 One slave lies dead--a hundred kings are born;
 For every man that breathes will be a king;
 Vast empires, beaten-dust beneath his feet,
 Will rise again and teem with kingly men,
 When he, their death, is dead
-
 FIRST SLAVE: How still he sleeps!
 The tempest shrieks to wake him, yet he slumbers.
 As seas that foam against unyielding scars,
@@ -717,46 +609,31 @@ Lo, it has broken in, in little gusts,
 I feel it in my hair; 'twill lay cold fingers
 Upon his lips, and start him from his sleep.
 See, it has whipt the yellow flame to smoke.
-
 SECOND SLAVE: And now it fails; the heavy, hanging gold
 That shelters him from night is all unstirred.
-
 FIRST SLAVE: Even the wind must pause.
-
 SECOND SLAVE: 'Twas but a breeze
 To blow our sinking courage to clear fire.
 Too long we loiter; soon the approaching day
 Will take us, slaves who grasp the arms of men
 Yet dare not plunge them save in our own breasts.
 Come, let us strike!
-
 (_They approach the bed and draw aside the curtain._)
-
 FIRST SLAVE: The King--how still he sleeps!
 Can majesty in such calm slumber lie?
-
 SECOND SLAVE: Come, falter not, strike home!
-
 FIRST SLAVE: Hold, hold your hand,
 For death has stolen a march upon our hate;
 He does not breathe.
-
 SECOND SLAVE: The stars have wrought for us,
 And we are conquerors with unbloodied hands.
-
 FIRST SLAVE: Nay, nay, for in our thoughts his life was spilt;
 While yet our bodies lagged in fettered fear,
 Our shafted breath sped on and stabbed his sleep.
 Oh, red for all the world, across our brows,
 Our murderous thoughts have burned the brand of Cain.
 See, through the window stares the pitiless day!
-
-
-
-
-                         The Knight of the Wood
-
-
+The Knight of the Wood
 "I fear the Knight of the Wood," she said
 "For him may no man overthrow.
 Where boughs are matted thick o'erhead,
@@ -764,7 +641,6 @@ There gleams, amid the shadows dread,
 The terror of his armour red;
 And all men fear him, high and low;
 Yet all must through the forest go."
-
 She paused awhile where larches flame
 About the borders of the wood;
 Then, crying loud on Love's high name
@@ -772,7 +648,6 @@ To keep her maiden-heart from shame,
 She entered, and full-swiftly came
 Where, hooded with a scarlet hood,
 A rider in her pathway stood.
-
 She saw the gleam of armour red;
 She saw the fiery pennon wave
 Its flaming terror overhead
@@ -780,7 +655,6 @@ Its flaming terror overhead
 "Ah God," she cried: "that I were dead,
 And laid for ever in my grave!"
 Then, swooning, called on Love to save.
-
 Among the springing fern she fell,
 And very nigh to death she lay;
 Till, like the fading of a spell
@@ -788,7 +662,6 @@ At ringing of the matin-bell,
 The darkness left her; by a well
 She waked beneath the open day,
 And rose to go upon her way;
-
 When, once again, the ruddy light
 Of arms she saw, and turned to flee;
 But clutching brambles stayed her flight;
@@ -796,7 +669,6 @@ While, marvelling, she saw the Knight
 Unhooded; and his eyes were bright
 With April colours of the sea;
 And crowned as a King was he.
-
 She knelt before him in the ferns,
 And sang: "O Lord of Love, I bow
 Before thy shield, where blazoned burns
@@ -804,13 +676,7 @@ The flaming heart with light that turns
 The night to day.  O heart that yearns
 For love, lo, Love before thee now--
 The wild-wood knight with crowned brow!"
-
-
-
-
-                    Notre Dame de la Belle-Verriere
-
-
+Notre Dame de la Belle-Verriere
 Above Thy halo's burning blue
 For ever hovers the White Dove;
 Thy heart enshrines, for ever new,
@@ -821,7 +687,6 @@ Gold censers, and bright candles bear.
 Because I have no heart to sing,
 I come to Thee with all my care,
 _Notre Dame de la Belle-Verriere._
-
 Because the sword hath pierced Thy side,
 Thy brows are crowned with circling gold.
 The woe of all the world doth hide
@@ -832,7 +697,6 @@ I find no comfort otherwhere,
 Our Lady beautiful with tears,
 Our Lady sorrowfully fair,
 _Notre Dame de la Belle-Verriere._
-
 My feet have travelled the hot road
 Between the poppies' barren fires;
 But now I cast aside the load
@@ -843,94 +707,64 @@ Upon me as I kneel in prayer,
 Because Thou hast known sorrow, too,
 Because Thou, too, hast known despair,
 _Notre Dame de la Belle-Verriere._
-
-
-
-
-                             In the Valley
-
-
+In the Valley
 Love, take my hand, and look not with sad eyes
 Through the valley-shades: for us, the mountains rise;
 Beneath the cold, blue-cleaving peaks of snow
 Like flame the April-blossomed almonds blow--
 Spring-grace and winter-glory intertwined
 Within the glittering web that colour weaves.
-
 _Yet who are they who troop so close behind_
 _With raiment rustling like frost-withered leaves_
 _That burden winter-winds with ever-restless sighs?_
-
 Love, look not back, nor ever hearken more
 To murmuring shades; for us, the river-shore
 Is lit with dew-hung daffodils that gleam
 On either side the tawny, foaming stream
 That bears through April with triumphal song
 Dissolving winter to the brimming sea.
-
 _Yet who are they who, ever-whispering, throng,_
 _With lean, grey lips that shudder piteously,_
 _As if from some bright fruit of bitter-tasting core?_
-
 Nay, look not back, for, lo, in tranced light
 Love stays awhile his world-encircling flight
 To wait our coming from the valley-ways;
 See where, a hovering fire amid the blaze,
 He pants aflame with irised plumes unfurled
 Above the utmost pinnacle of noon.
-
 _Yet who are they who wander through the world_
 _Like weary clouds about a wintry moon,_
 _With wan, bewildered brows that bear eternal night?_
-
 Love, look not back, nor fill thy heart with woe
 Of old, sad loves that perished long ago;
 For ever after living lovers tread
 Pale, yearning ghosts of all earth's lovers dead.
 A little while with life we lead the train
 Ere we, too, follow, cold, some breathing love.
-
 _I fear their fevered eyes and hands that strain_
 _To snatch our joy that flutters bright above,_
 _To shadow with grey death its ruddy, pulsing glow._
-
 Love, look not back in this life-crowning hour
 When all our love breaks into perfect flower
 Beneath the kindling heights of frozen time.
 Come, Love, that we with happy haste may climb
 Beyond the valley, and may chance to see
 Some unknown peak that cleaves unfading skies.
-
 _Old sorrow saps my strength; I may not flee_
 _The flame of passionate hunger in their eyes;_
 _Beseeching shade on shade--they hold me in their power._
-
 Love, look not back, for, all too brief, our day,
 In wilder glories flameth fast away.
 Lo, even now, the northern snow-ridge glows--
 With purple shadowed--from pale gold to rose
 That shivers white beneath stars dawning cold.
 Lift up thine eyes ere all the colour fades.
-
 _Ah, rainbow-plumed Love in airs of gold,_
 _Too late I turn, a shade among the shades._
 _To follow, death-enthralled, thy flight through ages grey._
-
-
-
-
-                              The Vision.
-
-
-                          A CHRISTMAS MYSTERY.
-
-PERSONS: A YOUNG HERD.  HIS MOTHER.
-SCENE: THE QUEEN'S CRAGS.
-TIME: CHRISTMAS EVE.
-
+The Vision.
 _The herd stands at the foot of the Crags, gazing across the dark fells.
 His mother enters._
-
 MOTHER: Son, come home, nor tarry here
 In this peril-haunted place.
 My old heart is filled with fear
@@ -964,9 +798,7 @@ Underneath the heather-thatch;
 Where the healing sleep will bring
 Unto thee the peace of God.
 Son, come home!  Whom seekest thou there?
-
 HERD: Guenevere!  O Guenevere!
-
 MOTHER: Cry no more on Guenevere.
 Some wild warlock of the fells,
 Born beneath the Devil's Scars,
@@ -986,15 +818,12 @@ Lo, to-night a King is born,
 Who, when earthly kings at last
 Into wildering night are passed,
 Yet shall wear the crown of morn.
-
 Mary, Thou whose love may turn
 Eyes that after evil burn,
 Draw his soul, that strays so far,
 To Thy Son's white throning-star.
 Queen of Heaven, hear my prayer!
-
 HERD: Guenevere!  O Guenevere!
-
 MOTHER: Low she lies, and may not hear.
 The white lily, Guenevere,
 Ruthless time has trodden down;
@@ -1008,7 +837,6 @@ Launcelot is but a name
 Blown about the winds of shame;
 Surely God has quenched the flame
 That burned men's souls for Guenevere.
-
 Mary, heed a mother's woe;
 Mary, heed a mother's tears!
 Thou, whose heart so long ago
@@ -1037,34 +865,15 @@ Give me back my son again.
 Thou, whose love may never fail,
 Heed a lonely mother's prayer!
 Come in all Thy healing might!
-
 _A sudden glory sweeps across the Fells.  The vision appears in a cleft
 of the Crags.  The herd and his mother kneel before it._
-
 MOTHER: Mary, Queen of Heaven, hail!
-
 HERD (_falling forward_): Guenevere!  Guenevere!
-
-
-
-
-                            THE THREE KINGS.
-
-
-                              To C. J. S.
-
-
-
-                            The Three Kings
-
-PERSONS: KING GARLAND, KING ARLO, KING ASHALORN.
-
-SEA-VOICES, WAVE-VOICES, AND WIND-VOICES.
-
+To C. J. S.
+The Three Kings
 SCENE: _A rock in the midst of the North Sea,_
 _whereon the three kings, bound naked by conquering_
 _sea-rovers, have been left to perish._
-
 VOICE OF THE DAWN-WIND: Awaken, O sea, from thy starry dream;
 Awaken, awaken!
 For delight of thy slumber not one pale gleam
@@ -1075,7 +884,6 @@ Ere, quickened with sunlight, the drowsy east quivers--
 To waken thy song, night-bewildered and dumb;
 To stir thy grey waters, of starlight forsaken,
 To loosen white foam in the red of the dawn.
-
 WAVE-VOICES: The sound of thy voice
 Has broken our sleep;
 All night we have waited thee, herald of light.
@@ -1093,10 +901,8 @@ We arise, we rejoice
 At thy bidding to leap,
 With a tumult of singing, a rapture of spray,
 To scatter our joy in the path of the day.
-
 GARLAND: Day comes at last, beyond the sea's grey rim;
 The young sun leaps in sudden might of gold.
-
 ASHALORN: Before his fire our lives will smoulder dim;
 Like stars we shine, we fade; the tale is told,
 And all our empty splendour put to scorn;
@@ -1104,15 +910,12 @@ Fate leaves us, who were clothed in pride, forlorn,
 To perish, naked, in this lonely sea.
 But yesterday we ruled as kings of earth;
 Frail men to-day; to-morrow, who shall be?
-
 ARLO: But yesterday my cup of life was filled
 To overflowing with the wine of mirth--
 The plashing joy from fruitful years distilled.
-
 GARLAND: But yesterday my kinghood sprang to birth;
 My fingers scarce had grasped the might new-born,
 When from my clutch the glittering pomp was torn.
-
 SEA-VOICES: They slumber, they slumber, the kings in their pride.
 The beak of the Rover is dipt in the tide;
 The sails of the Rover are red in the wind;
@@ -1121,7 +924,6 @@ They have fallen, have fallen, the kings in their pride;
 Their sea-gates are forced by the rush of the tide;
 Their splendour is scattered as surf on the wind;
 And red is the trail of the terror behind.
-
 Forsaken, forlorn,
 On a rock of the sea,
 In anguish they bow,
@@ -1134,12 +936,10 @@ Blue, purple, and gold,
 In fold upon fold;
 Of glory and majesty shorn,
 They are clothed with the wind of despair.
-
 GARLAND: Lo, the live waters run to greet the day:
 Even so I laughed to see the soaring light;
 My life was poised like yonder curving wave
 To break in such bright revel of keen spray.
-
 ARLO: I counted not the years that took their flight,
 Gold-crowned and singing; every hour I stood,
 As one enchanted in an April wood,
@@ -1150,7 +950,6 @@ How should I dream that such delight could pass,
 Such colour fade, such flowing numbers cease,
 My glory perish where was none to save,
 And all my strength be trodden in the grass?
-
 ASHALORN: Oh, blest art thou who diest in thy youth;
 Oh, blest art thou who failest in thy prime;
 While yet thine eyes are full of wondering truth;
@@ -1171,7 +970,6 @@ I know how chance has reared our earthly thrones
 Upon a shifting wrack of whitened bones,
 Of heroes fallen in the wars of old--
 By wind upbuilded and by wind cast down.
-
 SEA-VOICES: As foam on the edge of the waters of night,
 They flicker and fall;
 More brief than delight,
@@ -1181,7 +979,6 @@ In the tide of the years;
 Awhile they may triumph, as lords of the earth,
 With feasting and mirth,
 Yet the winds and the waters shall sweep over all.
-
 VOICE OF THE WEST WIND: O wide-shifting wonder of sapphire and gold,
 O wandering glory of emerald and white,
 From the purple and green of the moorlands I come,
@@ -1191,7 +988,6 @@ I lean to thy lips, to their white, curling foam,
 With laughter and kisses, to smite it to spray;
 To thine uttermost deep, unlitten and cold,
 I thrill thee with rapture, then wander away.
-
 I have drunk the red wine of the heather, and swept
 Over moorland and fell, for mile upon mile.
 The little blue loughs were merry, and leapt,
@@ -1200,7 +996,6 @@ The little blue loughs were merry, and flung
 Their spray on my wings as above them I swung;
 I laughed to their laughter, and dallied awhile;
 Then left them to sink in the silence that follows.
-
 In the forest I stirred, like the chant of thy tides,
 The song of the boughs and the branches a-swinging;
 The ashes and beeches and oak-trees were singing,
@@ -1209,7 +1004,6 @@ I swung on the crest of the pine-trees a-swaying,
 As now on thy green, flowing surges, O sea;
 I piped in my triumph, they danced to my playing;
 I left them a-murmur, to hasten to thee.
-
 The white clouds were driven like ships through the air,
 And grey flowed the shadows o'er sea-coloured bent,
 And dark on the heathland, and dark on the wold:
@@ -1223,7 +1017,6 @@ I lean to thy lips, to their white, curling foam,
 With laughter and kisses, to smite it to spray;
 To thine uttermost deep, unlitten and cold,
 I thrill thee with rapture, then wander away.
-
 GARLAND: There is no sadness in the world but death.
 The years that whitened o'er thy head have taken
 The colour from thy life, but still in me
@@ -1243,43 +1036,35 @@ Yet I must die by patient, slow degrees,
 With hourly wasting flesh and parching blood;
 Ah God, that I might leap into the flood,
 And perish struggling in the adventurous seas!
-
 ARLO: My mouth is filled with saltness, and I thirst
 For forest-pools that bubble in the shade,
 When loud the hot chase pants through every glade,
 And fleeing fawns from every thicket burst;
 Or clear wine vintaged when the world was young,
 Gurgling from deep-mouthed jars of coloured stone.
-
 ASHALORN: The noonday burns my body to the bone,
 And sets a coal of fire upon my tongue,
 Between my lips, and stifles all my breath.
 Oh come, thou only joy undying, death!
-
 WAVE-VOICES: O wind, that failing, failing, failing, dies,
 Beneath the heat of August-laden skies,
 Sinking in sleep, sinking in quiet sleep--
 Thy blue wings folded o'er our dreaming deep
-
 We too are weary, weary in the noon;
 We too will fall in shining slumber soon--
 Foamless and still, foamless and very still,
 Unstirred, unshaken by thy restless will.
-
 Yet there are eyes that cannot, cannot close,
 And strong souls racked by fiery, rending woes--
 Never to rest, never to gather rest
 By any stream of murmuring waters blest.
-
 But slumber falling, falling, on us lies,
 Silent and deep, beneath noon-laden skies,
 Silent and deep, silent and very deep,
 With blue wings folded o'er our dreaming sleep.
-
-                     *      *      *      *      *
-
+*      *      *      *      *
 VOICE OF THE EVENING WIND: I have shaken the noon
-  from my wings, I arise
+from my wings, I arise
 To quicken the flame in the western skies--
 To blow the clouds to a streaming flame,
 Where the red sun sinks in the opal sea,
@@ -1289,7 +1074,6 @@ O grey-green waters, curling to rose,
 The kings are glad of the dying day;
 The kings are weary; the white mists close--
 The white mists gather to cover their shame.
-
 ASHALORN: The evening mist is dank upon my brow,
 And cold upon my lips--yea, cold as death;
 Yet, through the gloom, she gazes on me now,
@@ -1298,7 +1082,6 @@ Is warm once more upon my withered cheek.
 O gaunt, grey lips, that strive but may not speak;
 O cold, grey eyes, that flicker in the gloam--
 Long have we strayed; come, let us wander home!
-
 ARLO: Like lit September woodlands, streameth down
 Her hair, beneath the circle of her crown;
 Of rarer, redder glory than the cold
@@ -1308,7 +1091,6 @@ Like woodland pools, her eyes, a dreaming brown--
 Like woodland pools where autumn-splendours drown!
 O red-gold tresses, shaking in the gloam,
 Unto your light, unto your shade I come!
-
 GARLAND: Her eyes are azure as the wind-blown sea,
 With deep sea-shadowings of grey and green;
 And like an April storm her shining hair--
@@ -1320,54 +1102,26 @@ New-lit and re-awakened at her birth,
 In her sweet body glow and glimmer fair.
 O wonder of sea-colours and white foam
 And April glories, to thine arms I come!
-
 VOICE OF THE EVENING WIND: The sun is gone,
-  and the last, red flame
+and the last, red flame
 Has faded away in a shimmer of rose--
 A shimmer of rose that shivers to grey.
 The kings are glad of the dying day--
 The kings are weary; the white mists close,
 The white mists gather to cover their shame.
-
-
-
-
-                     THE SONGS OF QUEEN AVERLAINE.
-
-
-                                To M. B.
-
-
-
-PERSONS: THE KING,
-  QUEEN AVERLAINE,
-  THE KNIGHT ARKELD.
-
-
-                                   I.
-                            KING AND QUEEN.
-
-
-                                   1.
-
+To M. B.
 The day has come; at last my dream unfolds
-  White, wondering petals with the rising sun.
+White, wondering petals with the rising sun.
 No other glade in Love's world-garden holds
-  So fair a bloom from vanquished winter won.
-
+So fair a bloom from vanquished winter won.
 Long, oh, so long I watched through budding hours,
-  And, trembling, feared my dream would never wake;
+And, trembling, feared my dream would never wake;
 As, one by one, I saw star-tranced flowers
-  Out on the night their dewy splendour shake.
-
+Out on the night their dewy splendour shake.
 But with the earliest gleam of dawn it stirred,
-  Knowing that Love had put the dark to flight;
+Knowing that Love had put the dark to flight;
 And I must sing more glad than any bird
-  Because the sun has filled my dream with light.
-
-
-                                   2.
-
+Because the sun has filled my dream with light.
 Is it high noon, already, in the land?
 O Love, I dreamed that morn could never pass;
 That we might ever wander, hand in hand,
@@ -1375,7 +1129,6 @@ As children in June-meadows plucking flowers,
 Through ever-waking, fresh-unfolding hours:
 Yet now we sink love-wearied in the grass;
 Yea, it is noon, high noon in all the land.
-
 The young wind slumbers; all the little birds
 That sang about us in the fields of morn
 Are songless now; no happy flight of words
@@ -1383,151 +1136,86 @@ On Love's lip hovers--Love has waxed to noon.
 Ah, God, if Love should wane to evening soon
 To perish in a sunless world, forlorn,
 And cease with the last song of weary birds!
-
-
-                                   3.
-
 At dawn I gathered flowers of white,
 To garland them for your delight.
-
 At noon I gathered flowers of blue,
 To weave them into joy for you.
-
 At eve I gather purple flowers,
 To strew above the withered hours.
-
-
-                                   4.
-
 She knelt at eve beside the stream,
 And, sighing, sang: "O waters clear,
 Forsaken now of joy and fear,
 I come to drown a withered dream.
-
 "Unseen of day, I let it fall
 Within the shadow of my hair.
 O little dream, that bloomed so fair,
 The waters hide you after all!"
-
-
-                                   5.
-
 "Is it not dawn?" she cried, and raised her head,
 "Or hath the sun, grey-shrouded, yesternight,
 Gone down with Love for ever to the dead?
 When Love has perished, can there yet be light?"
-
 "Yea, it is dawn," one answered: "see the dew
 Quivers agleam, and all the east is white;
 While in the willow song begins anew."
 "When Love has perished, can there yet be light?"
-
-
-
-                                  II.
-                         AVERLAINE AND ARKELD.
-
-
-                                   1.
-
 ARKELD: Oh, why did you lift your eyes to mine?
 Oh, why did you lift your drooping head?
-
 AVERLAINE: The tangled threads of the fates entwine
 Our hearts that follow as children led.
-
 ARKELD: From the utmost ends of the earth we came,
 As star moves starward through wildering night.
-
 AVERLAINE: Our souls have mingled as flame with flame,
 Yea, they have mingled as light with light.
-
 ARKELD: Ah God, ah God, that it never had been!
-
 AVERLAINE: The Shadow, the Shadow that falls between!
-
 ARKELD: The stars in their courses move through the sky
 Unswerving, unheeding, cold and blind.
-
 AVERLAINE: Why did you linger nor pass me by
 Where the cross-roads meet in the ways that wind?
-
 ARKELD: I saw your eyes from the dusk of your hair
 Flame out with sorrow and yearning love.
-
 AVERLAINE: And I, who wandered with grey despair,
 Looking up, saw heaven in blossom above.
-
 ARKELD: Ah God, ah God, that it never had been!
-
 AVERLAINE: The Shadow, the Shadow that falls between!
-
 ARKELD: May we not go as we came, alone,
 Unto the ends of the earth anew?
-
 AVERLAINE: May we draw afresh from the rose new-blown
 The golden sunlight, the crystal dew?
-
 ARKELD: Yea, love between us has bloomed as a rose
 Out of the desert under our feet.
-
 AVERLAINE: May we forget how the red heart glows,
 Forget that the dew on the petals is sweet?
-
 ARKELD: Ah God, ah God, that it never had been!
-
 AVERLAINE: The Shadow, the Shadow that falls between!
-
 ARKELD: Have the ages brought us together that we
 Might tremble, start at shadows, and cry?
-
 AVERLAINE: Yea, it has been, and ever will be
 Till Sorrow be slain or Love's self die.
-
 ARKELD: Stronger than Sorrow is Love; and Hate,
 The brother of Love, shall end our Sorrow.
-
 AVERLAINE: The Shadow is strong with the strength of Fate,
 And, slain, would rise from the grave to-morrow.
-
 ARKELD: Ah God, ah God, that it never had been!
-
 AVERLAINE: The Shadow, the Shadow for ever between!
-
-
-                                   2.
-
 AVERLAINE: Yea, we must part, and tear with ruthless hands
 The golden web wherein, too late, Love strove
 To weave us joy and bind us heart to heart.
-
 ARKELD: Yea, we must part, and strew on desert-sands
 Petal by petal all the rose of Love,
 And part for ever where the cross-ways part.
-
 AVERLAINE: Yea, we must part, and never turn our eyes
 From strange horizons, desolate and far,
 Though Love cry ever: "Turn but once, sad heart!"
-
 ARKELD: Yea, we must part, and under alien skies
 Must follow after some cold, gleaming star,
 And roam, as north and south winds roam, apart.
-
 AVERLAINE: Yea, we must part, ere Love be grown too strong
 And we too helpless to resist his might;
 While each may go with pure, unshamed heart.
-
 ARKELD: Yea, we must part; and though we do Love wrong,
 He will the more subdue us in our flight,
 And hold us each more surely his, apart.
-
-
-
-                         III. QUEEN AVERLAINE.
-
-
-                                   1.
-
 O love, I bade you go; and you have borne
 The summer with you from the valley-lands;
 The poppy-flame has perished from the corn;
@@ -1535,7 +1223,6 @@ And in the chill, wan light of early morn
 The reapers come in doleful, starveling bands,
 To bind the blackened sheaves with listless hands;
 For rain has put their sowing-toil to scorn.
-
 O Love, I bade you go; and autumn brings
 Bleak desolation; yet within my heart
 Unquenched and fierce the flame you kindled springs;
@@ -1543,169 +1230,118 @@ For, echoing all day long, the courtyard rings
 As loud it rang when, rending Love apart,
 Your white horse cantered--swift and keen to start--
 Into a world of other queens and kings.
-
-
-                                   2.
-
 I bade you go; ah, wherefore are you gone?
 How could you leave me dark and desolate,
 O Sun of Love, that for brief summer shone?
 Mine eyes are ever on the western gate,
 Half-wishing, half-foredreading your return.
 Return, O Love, return!
-
 I cannot live without you; through the dark
 I stretch blind hands to you across the world;
 All day on unknown battle-fields I mark
 Your sword's red course, your banner blue unfurled;
 Yet never, in my day-dreams, you return.
 Return, O Love, return!
-
 Nay, you are gone: O Love, I bade you go.
 I would not have you come again to be
 A stranger in this house of silent woe,
 Where, being all, you would be naught to me.
 Mine, mine in dreams, but lost if you return;
 Oh, nevermore return!
-
-
-                                   3.
-
 "To-day a wandering harper came
 With outland tales of deeds of fame;
 I hearkened from the noonday bright
 Until the failing of the light,
 The while he sang of joust and fight;
 Yet never once I caught your name.
-
 Oh, whither, whither are you gone,
 Whose name victorious ever shone
 Above all knights of other lands?
 Across what wilderness of sands?
 By what dead sea-deserted strands?
 On what far quest of Love forlorn?
-
 I loved you when men called you Lord
 Arkeld, the never-sleeping sword;
 Yet now, when all your might is furled,
 And you no longer crest the world,
 More are you mine than when you hurled
 Destruction on the embattled horde.
-
-
-                                   4.
-
 Oh, deeper in the silent house
-  The silence falls;
+The silence falls;
 Only the stir of bat or mouse
-  About the walls.
-
+About the walls.
 No cry, no voice in any room,
-  No gust of breath;
+No gust of breath;
 As if, within the clutch of doom,
-  We waited death.
-
-
-                                   5.
-
+We waited death.
 The King is dead;
-  No longer now
+No longer now
 The cold eyes gleam
-  Beneath his brow.
-
+Beneath his brow.
 O cold, grey eyes,
-  Wherein the light
+Wherein the light
 Of Love at dawn
-  Seemed clear and bright,
-
+Seemed clear and bright,
 No true Love burned
-  Your cold desire,
+Your cold desire,
 Which mirrored but
-  My own heart's fire.
-
-
-                                   6.
-
+My own heart's fire.
 The King died yesterday....  Ah, no, he died
-  When young Love perished long, so long ago;
+When young Love perished long, so long ago;
 And on his throne, as marble at my side,
-  Has reigned a carven image, cold as snow,
+Has reigned a carven image, cold as snow,
 Though all men bowed before it, crying: "King!"
-
 Too late, too late the chains which held me fall;
-  Rock-bound, I bade the victor-knight go by;
+Rock-bound, I bade the victor-knight go by;
 And now, when time has loosed me from the thrall,
-  I know not where he tarries, 'neath what sky
+I know not where he tarries, 'neath what sky
 He waits the winter's end, the dawn of spring.
-
-
-                                   7.
-
 Spring comes no more for me: though young March blow
 To flame the larches, and from tree to tree
 The green fire leap, till all the woodlands glow--
 Though every runnel, filled to overflow,
 Bear sea-ward, loud and brown with melted snow,
 Spring comes no more for me!
-
 Spring comes no more for me: though April light
 The flame of gorse above the peacock sea;
 Though in an interweaving mesh of white
 The seagulls hover 'neath the cliff's sheer height;
 Though, hour by hour, new joys are winged for flight,
 Spring comes no more for me!
-
 Spring comes no more for me: though May will shake
 White flame of hawthorn over all the lea,
 Till every thick-set hedge and tangled brake
 Puts on fresh flower of beauty for her sake;
 Though all the world from winter-sleep awake,
 Spring comes no more for me!
-
-
-                                   8.
-
 I wandered through the city till I came
-  Within the vast cathedral, cool and dim;
+Within the vast cathedral, cool and dim;
 I looked upon the windows all aflame
-  With blazoned knights and saints and seraphim.
-
+With blazoned knights and saints and seraphim.
 I looked on kings in purple, gold and blue,
-  On martyrs high before whom all men bow;
+On martyrs high before whom all men bow;
 Until a gleam of light my footsteps drew
-  Before a shining seraph, on whose brow
-
+Before a shining seraph, on whose brow
 A little flame, for ever pure and white,
-  Unwavering burns--the symbol of our love;
+Unwavering burns--the symbol of our love;
 And as I knelt before him in the night,
-  He looked, compassionate, on me from above.
-
-
-                                   9.
-
+He looked, compassionate, on me from above.
 I heard a harper 'neath the castle walls
 Sing, for night-shelter in the house of thralls,
 A song of hapless lovers; in the shade
 I paused awhile, unseen of man or maid.
-
 Taking his harp, he touched the moaning strings,
 And sang of queens unloved and loveless kings;
 His song shot through my fluttering heart like flame
 Till, wondering, I heard him breathe your name.
-
 Oh, then I knew how all the deathless wrong
 Time wrought of old is but a harper's song;
 And all the hopeless sorrow of long years
 An idle tale to win a stranger's tears.
-
 Yea, in the song of Love's immortal dead
 Our love was told; with shuddering heart I fled,
 And strove to pass upon my way unseen,
 But song was hushed with whispers: "Lo, the Queen!"
-
-
-                                  10.
-
 Was it for this we loved, O Time, to be
 Among Love's deathless through eternity,
 Set high on lone, divided peaks above
@@ -1715,7 +1351,6 @@ Our barren day-dreams, dream-deserted nights--
 That valley-lovers, looking up, might see
 How vain is Love among the starry heights,
 And, loving, sigh: "How vain a thing is Love!"?
-
 O Love, that we had found thee in the shade
 Where, all day long, the deep, leaf-hidden glade
 Hears but the moan of some forsaken dove,
@@ -1725,59 +1360,41 @@ Through warm, green dusk, no longer cold and white!
 O Love, that we had found thee, unafraid,
 One summer morn, and followed thee till night,
 As unknown valley-lovers follow Love!
-
-
-                                  11.
-
 I have grown old, awaiting spring's return,
-  And, now spring comes, I stand like winter grey
+And, now spring comes, I stand like winter grey
 In a young world; yet warm within me burn
-  The morning-fires Love kindled in youth's day.
-
+The morning-fires Love kindled in youth's day.
 I have grown old; the young folk look on me
-  With sighs, and wonder that I once was fair,
+With sighs, and wonder that I once was fair,
 And whisper one another: "Is this she?
-  Did summer ever light that winter hair?
-
+Did summer ever light that winter hair?
 "Ah, she is old; yet, she, too, once was young:
-  Yea, loved as we love even, for men tell
+Yea, loved as we love even, for men tell
 How bright her beauty burned on every tongue,
-  And how a knightly stranger loved her well.
-
+And how a knightly stranger loved her well.
 "Yet Love grows old that beats so young and warm;
-  His leaping fires in dust and ashes fail;
+His leaping fires in dust and ashes fail;
 Shall we, too, wither in the winter-storm,
-  And wander thus one April, old and frail?"
-
+And wander thus one April, old and frail?"
 Love grows not old, O lovers, though youth die,
-  And bodily beauty perish as the flower;
+And bodily beauty perish as the flower;
 Though all things fail, though spring and summer fly,
-  Love's fire burns quenchless till the last dark hour.
-
-
-                                  12.
-
+Love's fire burns quenchless till the last dark hour.
 O valley-lovers, think you love,
 Being all of joy, knows naught of sorrow?
 A day, a night
 Of swift delight
 That fears no dread, grey-dawning morrow?
-
 O valley-lovers, think you love
 Knows only laughter, naught of weeping?
 A rose-red fire
 Of warm desire
 For ever burning, never sleeping?
-
 O lovers, little know ye Love.
 Love is a flame that feeds on sorrow--
 A lone star bright
 Through endless night
 That waits a never-dawning morrow.
-
-
-                                  13.
-
 "Thus would I sing of life,
 Ere I must yield my breath:
 Though broken in the strife,
@@ -1790,7 +1407,6 @@ Yet would I rather tread
 Again the bitter trail,
 Than lie, calm-browed and pale,
 Among the loveless dead.
-
 No pang would I forego,
 No stab of suffering,
 No agony of woe,
@@ -1803,32 +1419,15 @@ Yea, now, with failing breath,
 Thus would I sing of life:
 Though broken in the strife,
 I sought not after death.
-
-
-                                  14.
-
 Darkness has come upon me in the end;
 Darkness has come upon me like a friend,
 Yet undesired; why comest thou, O night,
 To seal mine eyes for ever from the light?
-
 Darkness has come upon me; yet a star
 Burns through the night and beckons me from far.
 Look up, O eyes, unfaltering, without fear;
 O morning-star of Love, the dawn is near!
-
-
-
-
-                            THE GOLDEN HELM.
-
-
-
-                            The Golden Helm
-
-
-                                   I.
-
+The Golden Helm
 Across his stripling shoulders Geoffrey felt
 The knighting-sword fall lightly, and he heard
 The King's voice bid him rise; and at the word
@@ -1919,10 +1518,6 @@ She stood, love-radiant, and above her hung
 The canopy of star-enkindling night;
 Though, when again she moved with joyous stir,
 He sprang to her in love's unchallenged might.
-
-
-                                  II.
-
 All night, beside her slumbering lord, the Queen
 Tossed sleepless--every aching sense astrain
 With tingling wakefulness that racked like pain
@@ -1965,7 +1560,6 @@ To stifle the wild cry that strove to slip
 From her strained throat; with clutching hands she sought
 To stay the throbbing tumult of her breast
 That fluttered like a bird in meshes caught.
-
 Christine as yet in dreamless slumber lay
 Within her turret-chamber; but a bird
 Within the laurel singing softly stirred
@@ -2139,10 +1733,6 @@ Then Hild, with hopeless shudder, shaking free,
 With strained voice spake: "Why do you longer wait?
 Your love returns; shall he, in sad surprise,
 Find no glad face to greet him at the gate?"
-
-
-                                  III.
-
 As some new jest was tossed from tongue to tongue,
 Light laughter rippled round the midday board,
 Beneath the bannered rafters: dame and lord
@@ -2215,10 +1805,6 @@ His face a little paled beneath his hair,
 Though bright his eyes with all the light of day.
 At length he spake: "For evil or for good,
 I take the Helm of Strife; let come what may."
-
-
-                                  IV.
-
 Dawn shivered coldly through the meadowlands;
 The ever-trembling aspens by the stream
 Quivered with chilly light and fitful gleam;
@@ -2321,10 +1907,6 @@ She reached the road.  Not long had she to wait
 Ere, with two bridled horses, Philip came.
 Silent they mounted; far they fared ere dawn
 Burnished the castle-weathercock to flame.
-
-
-                                   V.
-
 Northward they climbed from out the valley mist;
 Northward they crossed the sun-enchanted fells;
 Northward they plunged down deep, fern-hidden dells;
@@ -2425,10 +2007,6 @@ And strove, in vain, to draw her safe aside.
 A random shaft in her unshielded breast--
 Though hot to stay its course her brother leapt--
 Struck quivering, and she slowly sank to rest.
-
-
-                                  VI.
-
 Queen Hild sat weaving in her garden-close,
 When on her startled ear there fell the news
 Of Christine's flight before the darkling dews
@@ -2537,14 +2115,3 @@ A little while together, hand in hand."
 The Queen obeyed; but, fearfully, she shrank
 Before the eyes of death, and, quaking, cowed,
 With moaning cry, low in the dust she sank.
-
-
-
-                     PRINTED BY R. FOLKARD AND SON,
-            23, DEVONSHIRE STREET, QUEEN SQUARE, BLOOMSBURY.
-
-
-
-
-
-

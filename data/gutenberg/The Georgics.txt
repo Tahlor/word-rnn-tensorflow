@@ -1,53 +1,11 @@
-e Project Gutenberg EBook of The Georgics, by Virgil
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Georgics
-
-Author: Virgil
-
-Release Date: March 10, 2008 [EBook #232]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE GEORGICS ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-29 BC
-
-
-THE GEORGICS
-
 by Virgil
-
-
-
-GEORGIC I
-
 What makes the cornfield smile; beneath what star
 Maecenas, it is meet to turn the sod
 Or marry elm with vine; how tend the steer;
 What pains for cattle-keeping, or what proof
 Of patient trial serves for thrifty bees;-
 Such are my themes.
-                       O universal lights
+O universal lights
 Most glorious! ye that lead the gliding year
 Along the sky, Liber and Ceres mild,
 If by your bounty holpen earth once changed
@@ -97,7 +55,7 @@ Vouchsafe a prosperous voyage, and smile on this
 My bold endeavour, and pitying, even as I,
 These poor way-wildered swains, at once begin,
 Grow timely used unto the voice of prayer.
-  In early spring-tide, when the icy drip
+In early spring-tide, when the icy drip
 Melts from the mountains hoar, and Zephyr's breath
 Unbinds the crumbling clod, even then 'tis time;
 Press deep your plough behind the groaning ox,
@@ -106,7 +64,7 @@ That land the craving farmer's prayer fulfils,
 Which twice the sunshine, twice the frost has felt;
 Ay, that's the land whose boundless harvest-crops
 Burst, see! the barns.
-                       But ere our metal cleave
+But ere our metal cleave
 An unknown surface, heed we to forelearn
 The winds and varying temper of the sky,
 The lineal tilth and habits of the spot,
@@ -119,7 +77,7 @@ From Saba's weakling sons their frankincense,
 Iron from the naked Chalybs, castor rank
 From Pontus, from Epirus the prize-palms
 O' the mares of Elis.
-                       Such the eternal bond
+Such the eternal bond
 And such the laws by Nature's hand imposed
 On clime and clime, e'er since the primal dawn
 When old Deucalion on the unpeopled earth
@@ -132,7 +90,7 @@ Less fruitful just ere Arcturus rise
 With shallower trench uptilt it- 'twill suffice;
 There, lest weeds choke the crop's luxuriance, here,
 Lest the scant moisture fail the barren sand.
-   Then thou shalt suffer in alternate years
+Then thou shalt suffer in alternate years
 The new-reaped fields to rest, and on the plain
 A crust of sloth to harden; or, when stars
 Are changed in heaven, there sow the golden grain
@@ -167,7 +125,7 @@ And he, who having ploughed the fallow plain
 And heaved its furrowy ridges, turns once more
 Cross-wise his shattering share, with stroke on stroke
 The earth assails, and makes the field his thrall.
-  Pray for wet summers and for winters fine,
+Pray for wet summers and for winters fine,
 Ye husbandmen; in winter's dust the crops
 Exceedingly rejoice, the field hath joy;
 No tilth makes Mysia lift her head so high,
@@ -190,7 +148,7 @@ Chiefly what time in treacherous moons a stream
 Goes out in spate, and with its coat of slime
 Holds all the country, whence the hollow dykes
 Sweat steaming vapour?
-                       But no whit the more
+But no whit the more
 For all expedients tried and travail borne
 By man and beast in turning oft the soil,
 Do greedy goose and Strymon-haunting cranes
@@ -245,7 +203,7 @@ Pray down the showers, all vainly thou shalt eye,
 Alack! thy neighbour's heaped-up harvest-mow,
 And in the greenwood from a shaken oak
 Seek solace for thine hunger.
-                       Now to tell
+Now to tell
 The sturdy rustics' weapons, what they are,
 Without which, neither can be sown nor reared
 The fruits of harvest; first the bent plough's share
@@ -266,7 +224,7 @@ For yoke is early hewn a linden light,
 And a tall beech for handle, from behind
 To turn the car at lowest: then o'er the hearth
 The wood they hang till the smoke knows it well.
-  Many the precepts of the men of old
+Many the precepts of the men of old
 I can recount thee, so thou start not back,
 And such slight cares to learn not weary thee.
 And this among the first: thy threshing-floor
@@ -281,7 +239,7 @@ Or toad is found in hollows, and all the swarm
 Of earth's unsightly creatures; or a huge
 Corn-heap the weevil plunders, and the ant,
 Fearful of coming age and penury.
-  Mark too, what time the walnut in the woods
+Mark too, what time the walnut in the woods
 With ample bloom shall clothe her, and bow down
 Her odorous branches, if the fruit prevail,
 Like store of grain will follow, and there shall come
@@ -302,7 +260,7 @@ Glide from us; even as who with struggling oars
 Up stream scarce pulls a shallop, if he chance
 His arms to slacken, lo! with headlong force
 The current sweeps him down the hurrying tide.
-  Us too behoves Arcturus' sign observe,
+Us too behoves Arcturus' sign observe,
 And the Kids' seasons and the shining Snake,
 No less than those who o'er the windy main
 Borne homeward tempt the Pontic, and the jaws
@@ -335,7 +293,7 @@ Thou'rt fain to sow, nor scorn to make thy care
 Pelusiac lentil, no uncertain sign
 Bootes' fall will send thee; then begin,
 Pursue thy sowing till half the frosts be done.
-  Therefore it is the golden sun, his course
+Therefore it is the golden sun, his course
 Into fixed parts dividing, rules his way
 Through the twelve constellations of the world.
 Five zones the heavens contain; whereof is one
@@ -370,7 +328,7 @@ Or in ripe hour to fell the forest-pine.
 Hence, too, not idly do we watch the stars-
 Their rising and their setting-and the year,
 Four varying seasons to one law conformed.
-  If chilly showers e'er shut the farmer's door,
+If chilly showers e'er shut the farmer's door,
 Much that had soon with sunshine cried for haste,
 He may forestall; the ploughman batters keen
 His blunted share's hard tooth, scoops from a tree
@@ -390,7 +348,7 @@ Oft too with oil or apples plenty-cheap
 The creeping ass's ribs his driver packs,
 And home from town returning brings instead
 A dented mill-stone or black lump of pitch.
-  The moon herself in various rank assigns
+The moon herself in various rank assigns
 The days for labour lucky: fly the fifth;
 Then sprang pale Orcus and the Eumenides;
 Earth then in awful labour brought to light
@@ -405,7 +363,7 @@ Seventh after tenth is lucky both to set
 The vine in earth, and take and tame the steer,
 And fix the leashes to the warp; the ninth
 To runagates is kinder, cross to thieves.
-  Many the tasks that lightlier lend themselves
+Many the tasks that lightlier lend themselves
 In chilly night, or when the sun is young,
 And Dawn bedews the world. By night 'tis best
 To reap light stubble, and parched fields by night;
@@ -417,7 +375,7 @@ Her tedious labour soothing with a song,
 Speeds the shrill comb along the warp, or else
 With Vulcan's aid boils the sweet must-juice down,
 And skims with leaves the quivering cauldron's wave.
-  But ruddy Ceres in mid heat is mown,
+But ruddy Ceres in mid heat is mown,
 And in mid heat the parched ears are bruised
 Upon the floor; to plough strip, strip to sow;
 Winter's the lazy time for husbandmen.
@@ -434,7 +392,7 @@ Snares for the crane, and meshes for the stag,
 And hunt the long-eared hares, then pierce the doe
 With whirl of hempen-thonged Balearic sling,
 While snow lies deep, and streams are drifting ice.
-  What need to tell of autumn's storms and stars,
+What need to tell of autumn's storms and stars,
 And wherefore men must watch, when now the day
 Grows shorter, and more soft the summer's heat?
 When Spring the rain-bringer comes rushing down,
@@ -449,7 +407,7 @@ Together, as to rend up far and wide
 The heavy corn-crop from its lowest roots,
 And toss it skyward: so might winter's flaw,
 Dark-eddying, whirl light stalks and flying straws.
-  Oft too comes looming vast along the sky
+Oft too comes looming vast along the sky
 A march of waters; mustering from above,
 The clouds roll up the tempest, heaped and grim
 With angry showers: down falls the height of heaven,
@@ -487,7 +445,7 @@ To be their house-mate; and let no man dare
 Put sickle to the ripened ears until,
 With woven oak his temples chapleted,
 He foot the rugged dance and chant the lay.
-  Aye, and that these things we might win to know
+Aye, and that these things we might win to know
 By certain tokens, heats, and showers, and winds
 That bring the frost, the Sire of all himself
 Ordained what warnings in her monthly round
@@ -541,7 +499,7 @@ Nor e'en the maids, that card their nightly task,
 Know not the storm-sign, when in blazing crock
 They see the lamp-oil sputtering with a growth
 Of mouldy snuff-clots.
-                       So too, after rain,
+So too, after rain,
 Sunshine and open skies thou mayst forecast,
 And learn by tokens sure, for then nor dimmed
 Appear the stars' keen edges, nor the moon
@@ -580,7 +538,7 @@ Was driving up the cloud-rack. Hence proceeds
 That blending of the feathered choirs afield,
 The cattle's exultation, and the rooks'
 Deep-throated triumph.
-                       But if the headlong sun
+But if the headlong sun
 And moons in order following thou regard,
 Ne'er will to-morrow's hour deceive thee, ne'er
 Wilt thou be caught by guile of cloudless night.
@@ -597,7 +555,7 @@ And to the month's end those that spring from it,
 Rainless and windless be, while safe ashore
 Shall sailors pay their vows to Panope,
 Glaucus, and Melicertes, Ino's child.
-  The sun too, both at rising, and when soon
+The sun too, both at rising, and when soon
 He dives beneath the waves, shall yield thee signs;
 For signs, none trustier, travel with the sun,
 Both those which in their course with dawn he brings,
@@ -696,12 +654,6 @@ The four-horse chariots from the barriers poured
 Still quicken o'er the course, and, idly now
 Grasping the reins, the driver by his team
 Is onward borne, nor heeds the car his curb.
-
-
-
-
-GEORGIC II
-
 Thus far the tilth of fields and stars of heaven;
 Now will I sing thee, Bacchus, and, with thee,
 The forest's young plantations and the fruit
@@ -713,7 +665,7 @@ And foams the vintage high with brimming vats;
 Hither, O Father of the wine-press, come,
 And stripped of buskin stain thy bared limbs
 In the new must with me.
-                       First, nature's law
+First, nature's law
 For generating trees is manifold;
 For some of their own force spontaneous spring,
 No hand of man compelling, and possess
@@ -732,7 +684,7 @@ The bay-tree of Parnassus. Such the modes
 Nature imparted first; hence all the race
 Of forest-trees and shrubs and sacred groves
 Springs into verdure.
-                       Other means there are,
+Other means there are,
 Which use by method for itself acquired.
 One, sliving suckers from the tender frame
 Of the tree-mother, plants them in the trench;
@@ -749,7 +701,7 @@ And oft the branches of one kind we see
 Change to another's with no loss to rue,
 Pear-tree transformed the ingrafted apple yield,
 And stony cornels on the plum-tree blush.
-  Come then, and learn what tilth to each belongs
+Come then, and learn what tilth to each belongs
 According to their kinds, ye husbandmen,
 And tame with culture the wild fruits, lest earth
 Lie idle. O blithe to make all Ismarus
@@ -767,7 +719,7 @@ Skirt but the nearer coast-line; see the shore
 Is in our grasp; not now with feigned song
 Through winding bouts and tedious preludings
 Shall I detain thee.
-                       Those that lift their head
+Those that lift their head
 Into the realms of light spontaneously,
 Fruitless indeed, but blithe and strenuous spring,
 Since Nature lurks within the soil. And yet
@@ -786,7 +738,7 @@ But slowly, yielding promise of its shade
 To late-born generations; apples wane
 Forgetful of their former juice, the grape
 Bears sorry clusters, for the birds a prey.
-  Soothly on all must toil be spent, and all
+Soothly on all must toil be spent, and all
 Trained to the trench and at great cost subdued.
 But reared from truncheons olives answer best,
 As vines from layers, and from the solid wood
@@ -801,7 +753,7 @@ Is grafted; so have barren planes ere now
 Stout apples borne, with chestnut-flower the beech,
 The mountain-ash with pear-bloom whitened o'er,
 And swine crunched acorns 'neath the boughs of elms.
-  Nor is the method of inserting eyes
+Nor is the method of inserting eyes
 And grafting one: for where the buds push forth
 Amidst the bark, and burst the membranes thin,
 Even on the knot a narrow rift is made,
@@ -813,7 +765,7 @@ A path with wedges cloven; then fruitful slips
 Are set herein, and- no long time- behold!
 To heaven upshot with teeming boughs, the tree
 Strange leaves admires and fruitage not its own.
-  Nor of one kind alone are sturdy elms,
+Nor of one kind alone are sturdy elms,
 Willow and lotus, nor the cypress-trees
 Of Ida; nor of self-same fashion spring
 Fat olives, orchades, and radii
@@ -845,7 +797,7 @@ How many sand-grains are by Zephyr tossed
 On Libya's plain, or wot, when Eurus falls
 With fury on the ships, how many waves
 Come rolling shoreward from the Ionian sea.
-  Not that all soils can all things bear alike.
+Not that all soils can all things bear alike.
 Willows by water-courses have their birth,
 Alders in miry fens; on rocky heights
 The barren mountain-ashes; on the shore
@@ -877,7 +829,7 @@ A bay it had been; for no wind of heaven
 Its foliage falls; the flower, none faster, clings;
 With it the Medes for sweetness lave the lips,
 And ease the panting breathlessness of age.
-  But no, not Mede-land with its wealth of woods,
+But no, not Mede-land with its wealth of woods,
 Nor Ganges fair, and Hermus thick with gold,
 Can match the praise of Italy; nor Ind,
 Nor Bactria, nor Panchaia, one wide tract
@@ -931,7 +883,7 @@ Of fruits and heroes; 'tis for thee I dare
 Unseal the sacred fountains, and essay
 Themes of old art and glory, as I sing
 The song of Ascra through the towns of Rome.
-  Now for the native gifts of various soils,
+Now for the native gifts of various soils,
 What powers hath each, what hue, what natural bent
 For yielding increase. First your stubborn lands
 And churlish hill-sides, where are thorny fields
@@ -1030,7 +982,7 @@ Or what the hue of any. But hard it is
 To track the signs of that pernicious cold:
 Pines only, noxious yews, and ivies dark
 At times reveal its traces.
-                      All these rules
+All these rules
 Regarding, let your land, ay, long before,
 Scorch to the quick, and into trenches carve
 The mighty mountains, and their upturned clods
@@ -1069,7 +1021,7 @@ To feed an idle fancy with the view,
 But since not otherwise will earth afford
 Vigour to all alike, nor yet the boughs
 Have power to stretch them into open space.
-  Shouldst haply of the furrow's depth inquire,
+Shouldst haply of the furrow's depth inquire,
 Even to a shallow trench I dare commit
 The vine; but deeper in the ground is fixed
 The tree that props it, aesculus in chief,
@@ -1081,7 +1033,7 @@ Sees many a generation, many an age
 Of men roll onward, and survives them all,
 Stretching its titan arms and branches far,
 Sole central pillar of a world of shade.
-  Nor toward the sunset let thy vineyards slope,
+Nor toward the sunset let thy vineyards slope,
 Nor midst the vines plant hazel; neither take
 The topmost shoots for cuttings, nor from the top
 Of the supporting tree your suckers tear;
@@ -1102,7 +1054,7 @@ Their root-force fails them, nor, when lopped away,
 Can they recover, and from the earth beneath
 Spring to like verdure; thus alone survives
 The bare wild olive with its bitter leaves.
-  Let none persuade thee, howso weighty-wise,
+Let none persuade thee, howso weighty-wise,
 To stir the soil when stiff with Boreas' breath.
 Then ice-bound winter locks the fields, nor lets
 The young plant fix its frozen root to earth.
@@ -1137,7 +1089,7 @@ Nor could frail creatures bear this heavy strain,
 Did not so large a respite interpose
 'Twixt frost and heat, and heaven's relenting arms
 Yield earth a welcome.
-                       For the rest, whate'er
+For the rest, whate'er
 The sets thou plantest in thy fields, thereon
 Strew refuse rich, and with abundant earth
 Take heed to hide them, and dig in withal
@@ -1148,7 +1100,7 @@ Aye, and there have been, who with weight of stone
 Or heavy potsherd press them from above;
 This serves for shield in pelting showers, and this
 When the hot dog-star chaps the fields with drought.
-  The slips once planted, yet remains to cleave
+The slips once planted, yet remains to cleave
 The earth about their roots persistently,
 And toss the cumbrous hoes, or task the soil
 With burrowing plough-share, and ply up and down
@@ -1158,7 +1110,7 @@ And ashen poles and sturdy forks to shape,
 Whereby supported they may learn to mount,
 Laugh at the gales, and through the elm-tops win
 From story up to story.
-                       Now while yet
+Now while yet
 The leaves are in their first fresh infant growth,
 Forbear their frailty, and while yet the bough
 Shoots joyfully toward heaven, with loosened rein
@@ -1169,7 +1121,7 @@ But when they clasp the elms with sturdy trunks
 Erect, then strip the leaves off, prune the boughs;
 Sooner they shrink from steel, but then put forth
 The arm of power, and stem the branchy tide.
-  Hedges too must be woven and all beasts
+Hedges too must be woven and all beasts
 Barred entrance, chiefly while the leaf is young
 And witless of disaster; for therewith,
 Beside harsh winters and o'erpowering sun,
@@ -1199,7 +1151,7 @@ Meet honour with ancestral hymns, and cates
 And dishes bear him; and the doomed goat
 Led by the horn shall at the altar stand,
 Whose entrails rich on hazel-spits we'll roast.
-  This further task again, to dress the vine,
+This further task again, to dress the vine,
 Hath needs beyond exhausting; the whole soil
 Thrice, four times, yearly must be cleft, the sod
 With hoes reversed be crushed continually,
@@ -1227,14 +1179,14 @@ Let go the sickle, and the last dresser now
 Sings of his finished rows; but still the ground
 Must vexed be, the dust be stirred, and heaven
 Still set thee trembling for the ripened grapes.
-  Not so with olives; small husbandry need they,
+Not so with olives; small husbandry need they,
 Nor look for sickle bowed or biting rake,
 When once they have gripped the soil, and borne the breeze.
 Earth of herself, with hooked fang laid bare,
 Yields moisture for the plants, and heavy fruit,
 The ploughshare aiding; therewithal thou'lt rear
 The olive's fatness well-beloved of Peace.
-  Apples, moreover, soon as first they feel
+Apples, moreover, soon as first they feel
 Their stems wax lusty, and have found their strength,
 To heaven climb swiftly, self-impelled, nor crave
 Our succour. All the grove meanwhile no less
@@ -1270,7 +1222,7 @@ Nay, Bacchus even to crime hath prompted, he
 The wine-infuriate Centaurs quelled with death,
 Rhoetus and Pholus, and with mighty bowl
 Hylaeus threatening high the Lapithae.
-  Oh! all too happy tillers of the soil,
+Oh! all too happy tillers of the soil,
 Could they but know their blessedness, for whom
 Far from the clash of arms all-equal earth
 Pours from the ground herself their easy fare!
@@ -1290,7 +1242,7 @@ They lack not; lawns and wild beasts' haunts are there,
 A youth of labour patient, need-inured,
 Worship, and reverend sires: with them from earth
 Departing justice her last footprints left.
-  Me before all things may the Muses sweet,
+Me before all things may the Muses sweet,
 Whose rites I bear with mighty passion pierced,
 Receive, and show the paths and stars of heaven,
 The sun's eclipses and the labouring moons,
@@ -1369,14 +1321,8 @@ Waxed godless, banqueted on slaughtered bulls,
 Such life on earth did golden Saturn lead.
 Nor ear of man had heard the war-trump's blast,
 Nor clang of sword on stubborn anvil set.
-  But lo! a boundless space we have travelled o'er;
+But lo! a boundless space we have travelled o'er;
 'Tis time our steaming horses to unyoke.
-
-
-
-
-GEORGIC III
-
 Thee too, great Pales, will I hymn, and thee,
 Amphrysian shepherd, worthy to be sung,
 You, woods and waves Lycaean. All themes beside,
@@ -1440,7 +1386,7 @@ Yet must I gird me to rehearse ere long
 The fiery fights of Caesar, speed his name
 Through ages, countless as to Caesar's self
 From the first birth-dawn of Tithonus old.
-  If eager for the prized Olympian palm
+If eager for the prized Olympian palm
 One breed the horse, or bullock strong to plough,
 Be his prime care a shapely dam to choose.
 Of kine grim-faced is goodliest, with coarse head
@@ -1467,7 +1413,7 @@ And death unpitying sweep them from the scene.
 Still will be some, whose form thou fain wouldst change;
 Renew them still; with yearly choice of young
 Preventing losses, lest too late thou rue.
-  Nor steeds crave less selection; but on those
+Nor steeds crave less selection; but on those
 Thou think'st to rear, the promise of their line,
 From earliest youth thy chiefest pains bestow.
 See from the first yon high-bred colt afield,
@@ -1492,7 +1438,7 @@ And famed Achilles' team: in such-like form
 Great Saturn's self with mane flung loose on neck
 Sped at his wife's approach, and flying filled
 The heights of Pelion with his piercing neigh.
-  Even him, when sore disease or sluggish eld
+Even him, when sore disease or sluggish eld
 Now saps his strength, pen fast at home, and spare
 His not inglorious age. A horse grown old
 Slow kindling unto love in vain prolongs
@@ -1526,7 +1472,7 @@ How oft so-e'er yon rival may have chased
 The flying foe, or boast his native plain
 Epirus, or Mycenae's stubborn hold,
 And trace his lineage back to Neptune's birth.
-  These points regarded, as the time draws nigh,
+These points regarded, as the time draws nigh,
 With instant zeal they lavish all their care
 To plump with solid fat the chosen chief
 And designated husband of the herd:
@@ -1546,7 +1492,7 @@ This do they that the soil's prolific powers
 May not be dulled by surfeiting, nor choke
 The sluggish furrows, but eagerly absorb
 Their fill of love, and deeply entertain.
-  To care of sire the mother's care succeeds.
+To care of sire the mother's care succeeds.
 When great with young they wander nigh their time,
 Let no man suffer them to drag the yoke
 In heavy wains, nor leap across the way,
@@ -1569,7 +1515,7 @@ From this too thou, since in the noontide heats
 'Tis most persistent, fend thy teeming herds,
 And feed them when the sun is newly risen,
 Or the first stars are ushering in the night.
-  But, yeaning ended, all their tender care
+But, yeaning ended, all their tender care
 Is to the calves transferred; at once with marks
 They brand them, both to designate their race,
 And which to rear for breeding, or devote
@@ -1595,7 +1541,7 @@ But corn-ears with thy hand pluck from the crops.
 Nor shall the brood-kine, as of yore, for thee
 Brim high the snowy milking-pail, but spend
 Their udders' fullness on their own sweet young.
-  But if fierce squadrons and the ranks of war
+But if fierce squadrons and the ranks of war
 Delight thee rather, or on wheels to glide
 At Pisa, with Alpheus fleeting by,
 And in the grove of Jupiter urge on
@@ -1624,7 +1570,7 @@ And rippling plains 'gin shiver with light gusts;
 A sound is heard among the forest-tops;
 Long waves come racing shoreward: fast he flies,
 With instant pinion sweeping earth and main.
-  A steed like this or on the mighty course
+A steed like this or on the mighty course
 Of Elis at the goal will sweat, and shower
 Red foam-flakes from his mouth, or, kindlier task,
 With patient neck support the Belgian car.
@@ -1632,7 +1578,7 @@ Then, broken at last, let swell their burly frame
 With fattening corn-mash, for, unbroke, they will
 With pride wax wanton, and, when caught, refuse
 Tough lash to brook or jagged curb obey.
-  But no device so fortifies their power
+But no device so fortifies their power
 As love's blind stings of passion to forefend,
 Whether on steed or steer thy choice be set.
 Ay, therefore 'tis they banish bulls afar
@@ -1672,7 +1618,7 @@ Falls with prodigious roar among the rocks,
 Huge as a very mountain: but the depths
 Upseethe in swirling eddies, and disgorge
 The murky sand-lees from their sunken bed.
-  Nay, every race on earth of men, and beasts,
+Nay, every race on earth of men, and beasts,
 And ocean-folk, and flocks, and painted birds,
 Rush to the raging fire: love sways them all.
 Never than then more fiercely o'er the plain
@@ -1722,7 +1668,7 @@ Hence from their groin slow drips a poisonous juice,
 By shepherds truly named hippomanes,
 Hippomanes, fell stepdames oft have culled,
 And mixed with herbs and spells of baneful bode.
-  Fast flies meanwhile the irreparable hour,
+Fast flies meanwhile the irreparable hour,
 As point to point our charmed round we trace.
 Enough of herds. This second task remains,
 The wool-clad flocks and shaggy goats to treat.
@@ -1734,7 +1680,7 @@ But I am caught by ravishing desire
 Above the lone Parnassian steep; I love
 To walk the heights, from whence no earlier track
 Slopes gently downward to Castalia's spring.
-  Now, awful Pales, strike a louder tone.
+Now, awful Pales, strike a louder tone.
 First, for the sheep soft pencotes I decree
 To browse in, till green summer's swift return;
 And that the hard earth under them with straw
@@ -1766,7 +1712,7 @@ The less they crave man's vigilance, be fain
 From ice to fend them and from snowy winds;
 Bring food and feast them with their branchy fare,
 Nor lock your hay-loft all the winter long.
-  But when glad summer at the west wind's call
+But when glad summer at the west wind's call
 Sends either flock to pasture in the glades,
 Soon as the day-star shineth, hie we then
 To the cool meadows, while the dawn is young,
@@ -1785,7 +1731,7 @@ And feed once more, till sunset, when cool eve
 Allays the air, and dewy moonbeams slake
 The forest glades, with halcyon's song the shore,
 And every thicket with the goldfinch rings.
-  Of Libya's shepherds why the tale pursue?
+Of Libya's shepherds why the tale pursue?
 Why sing their pastures and the scattered huts
 They house in? Oft their cattle day and night
 Graze the whole month together, and go forth
@@ -1836,7 +1782,7 @@ So 'neath the seven-starred Hyperborean wain
 The folk live tameless, buffeted with blasts
 Of Eurus from Rhipaean hills, and wrap
 Their bodies in the tawny fells of beasts.
-  If wool delight thee, first, be far removed
+If wool delight thee, first, be far removed
 All prickly boskage, burrs and caltrops; shun
 Luxuriant pastures; at the outset choose
 White flocks with downy fleeces. For the ram,
@@ -1848,7 +1794,7 @@ Even with such snowy bribe of wool, if ear
 May trust the tale, Pan, God of Arcady,
 Snared and beguiled thee, Luna, calling thee
 To the deep woods; nor thou didst spurn his call.
-  But who for milk hath longing, must himself
+But who for milk hath longing, must himself
 Carry lucerne and lotus-leaves enow
 With salt herbs to the cote, whence more they love
 The streams, more stretch their udders, and give back
@@ -1861,7 +1807,7 @@ What darkling or at sunset, this ere morn
 They bear away in baskets- for to town
 The shepherd hies him- or with dash of salt
 Just sprinkle, and lay by for winter use.
-  Nor be thy dogs last cared for; but alike
+Nor be thy dogs last cared for; but alike
 Swift Spartan hounds and fierce Molossian feed
 On fattening whey. Never, with these to watch,
 Dread nightly thief afold and ravening wolves,
@@ -1872,7 +1818,7 @@ Oft from his woodland wallowing-den uprouse
 The boar, and scare him with their baying, and drive,
 And o'er the mountains urge into the toils
 Some antlered monster to their chiming cry.
-  Learn also scented cedar-wood to burn
+Learn also scented cedar-wood to burn
 Within the stalls, and snakes of noxious smell
 With fumes of galbanum to drive away.
 Oft under long-neglected cribs, or lurks
@@ -1904,7 +1850,7 @@ Lie stretched along the grass, when, slipped his slough,
 To glittering youth transformed he winds his spires,
 And eggs or younglings leaving in his lair,
 Towers sunward, lightening with three-forked tongue.
-  Of sickness, too, the causes and the signs
+Of sickness, too, the causes and the signs
 I'll teach thee. Loathly scab assails the sheep,
 When chilly showers have probed them to the quick,
 And winter stark with hoar-frost, or when sweat
@@ -1933,7 +1879,7 @@ Of tribes Bisaltic such the wonted use,
 And keen Gelonian, when to Rhodope
 He flies, or Getic desert, and quaffs milk
 With horse-blood curdled.
-                       Seest one far afield
+Seest one far afield
 Oft to the shade's mild covert win, or pull
 The grass tops listlessly, or hindmost lag,
 Or, browsing, cast her down amid the plain,
@@ -1950,7 +1896,7 @@ High Alps and Noric hill-forts should behold,
 And Iapydian Timavus' fields,
 Ay, still behold the shepherds' realms a waste,
 And far and wide the lawns untenanted.
-  Here from distempered heavens erewhile arose
+Here from distempered heavens erewhile arose
 A piteous season, with the full fierce heat
 Of autumn glowed, and cattle-kindreds all
 And all wild creatures to destruction gave,
@@ -2052,12 +1998,6 @@ But, had one dared the loathly weeds to try,
 Red blisters and an unclean sweat o'erran
 His noisome limbs, till, no long tarriance made,
 The fiery curse his tainted frame devoured.
-
-
-
-
-GEORGIC IV
-
 Of air-born honey, gift of heaven, I now
 Take up the tale. Upon this theme no less
 Look thou, Maecenas, with indulgent eye.
@@ -2067,7 +2007,7 @@ Its traits, its bent, its battles and its clans,
 All, each, shall pass before you, while I sing.
 Slight though the poet's theme, not slight the praise,
 So frown not heaven, and Phoebus hear his call.
-  First find your bees a settled sure abode,
+First find your bees a settled sure abode,
 Where neither winds can enter (winds blow back
 The foragers with food returning home)
 Nor sheep and butting kids tread down the flowers,
@@ -2121,7 +2061,7 @@ Nor reddening crabs be roasted, and mistrust
 Deep marish-ground and mire with noisome smell,
 Or where the hollow rocks sonorous ring,
 And the word spoken buffets and rebounds.
-  What more? When now the golden sun has put
+What more? When now the golden sun has put
 Winter to headlong flight beneath the world,
 And oped the doors of heaven with summer ray,
 Forthwith they roam the glades and forests o'er,
@@ -2142,7 +2082,7 @@ And wake and shake the tinkling cymbals heard
 By the great Mother: on the anointed spots
 Themselves will settle, and in wonted wise
 Seek of themselves the cradle's inmost depth.
-  But if to battle they have hied them forth-
+But if to battle they have hied them forth-
 For oft 'twixt king and king with uproar dire
 Fierce feud arises, and at once from far
 You may discern what passion sways the mob,
@@ -2186,7 +2126,7 @@ Symmetric: this the likelier breed; from these,
 When heaven brings round the season, thou shalt strain
 Sweet honey, nor yet so sweet as passing clear,
 And mellowing on the tongue the wine-god's fire.
-  But when the swarms fly aimlessly abroad,
+But when the swarms fly aimlessly abroad,
 Disport themselves in heaven and spurn their cells,
 Leaving the hive unwarmed, from such vain play
 Must you refrain their volatile desires,
@@ -2202,7 +2142,7 @@ Himself bring thyme and pine-trees from the heights,
 And strew them in broad belts about their home;
 No hand but his the blistering task should ply,
 Plant the young slips, or shed the genial showers.
-  And I myself, were I not even now
+And I myself, were I not even now
 Furling my sails, and, nigh the journey's end,
 Eager to turn my vessel's prow to shore,
 Perchance would sing what careful husbandry
@@ -2248,7 +2188,7 @@ And plane now yielding serviceable shade
 For dry lips to drink under: but these things,
 Shut off by rigorous limits, I pass by,
 And leave for others to sing after me.
-  Come, then, I will unfold the natural powers
+Come, then, I will unfold the natural powers
 Great Jove himself upon the bees bestowed,
 The boon for which, led by the shrill sweet strains
 Of the Curetes and their clashing brass,
@@ -2342,7 +2282,7 @@ They reverence, and with murmuring throngs surround,
 In crowds attend, oft shoulder him on high,
 Or with their bodies shield him in the fight,
 And seek through showering wounds a glorious death.
-  Led by these tokens, and with such traits to guide,
+Led by these tokens, and with such traits to guide,
 Some say that unto bees a share is given
 Of the Divine Intelligence, and to drink
 Pure draughts of ether; for God permeates all-
@@ -2353,7 +2293,7 @@ Yea, and that all things hence to Him return,
 Brought back by dissolution, nor can death
 Find place: but, each into his starry rank,
 Alive they soar, and mount the heights of heaven.
-  If now their narrow home thou wouldst unseal,
+If now their narrow home thou wouldst unseal,
 And broach the treasures of the honey-house,
 With draught of water first toment thy lips,
 And spread before thee fumes of trailing smoke.
@@ -2384,7 +2324,7 @@ The more impoverished they, the keenlier all
 To mend the fallen fortunes of their race
 Will nerve them, fill the cells up, tier on tier,
 And weave their granaries from the rifled flowers.
-  Now, seeing that life doth even to bee-folk bring
+Now, seeing that life doth even to bee-folk bring
 Our human chances, if in dire disease
 Their bodies' strength should languish- which anon
 By no uncertain tokens may be told-
@@ -2419,7 +2359,7 @@ Shepherds in vales smooth-shorn of nibbling flocks
 By Mella's winding waters gather it.
 The roots of this, well seethed in fragrant wine,
 Set in brimmed baskets at their doors for food.
-  But if one's whole stock fail him at a stroke,
+But if one's whole stock fail him at a stroke,
 Nor hath he whence to breed the race anew,
 'Tis time the wondrous secret to disclose
 Taught by the swain of Arcady, even how
@@ -2460,7 +2400,7 @@ And more and more the fleeting breeze they take,
 Till, like a shower that pours from summer-clouds,
 Forth burst they, or like shafts from quivering string
 When Parthia's flying hosts provoke the fray.
-  Say what was he, what God, that fashioned forth
+Say what was he, what God, that fashioned forth
 This art for us, O Muses? of man's skill
 Whence came the new adventure? From thy vale,
 Peneian Tempe, turning, bee-bereft,
@@ -2585,7 +2525,7 @@ His endless transformations, thou, my son,
 More straitlier clench the clinging bands, until
 His body's shape return to that thou sawest,
 When with closed eyelids first he sank to sleep."
-  So saying, an odour of ambrosial dew
+So saying, an odour of ambrosial dew
 She sheds around, and all his frame therewith
 Steeps throughly; forth from his trim-combed locks
 Breathed effluence sweet, and a lithe vigour leapt
@@ -2634,7 +2574,7 @@ Whereat the seer, by stubborn force constrained,
 Shot forth the grey light of his gleaming eyes
 Upon him, and with fiercely gnashing teeth
 Unlocks his lips to spell the fates of heaven:
-  "Doubt not 'tis wrath divine that plagues thee thus,
+"Doubt not 'tis wrath divine that plagues thee thus,
 Nor light the debt thou payest; 'tis Orpheus' self,
 Orpheus unhappy by no fault of his,
 So fates prevent not, fans thy penal fires,
@@ -2733,7 +2673,7 @@ The death-chilled tongue found yet a voice to cry
 'Eurydice! ah! poor Eurydice!'
 With parting breath he called her, and the banks
 From the broad stream caught up 'Eurydice!'"
-  So Proteus ending plunged into the deep,
+So Proteus ending plunged into the deep,
 And, where he plunged, beneath the eddying whirl
 Churned into foam the water, and was gone;
 But not Cyrene, who unquestioned thus
@@ -2759,7 +2699,7 @@ Poppies of Lethe, and let slay a sheep
 Coal-black, then seek the grove again, and soon
 For pardon found adore Eurydice
 With a slain calf for victim."
-                       No delay:
+No delay:
 The self-same hour he hies him forth to do
 His mother's bidding: to the shrine he came,
 The appointed altars reared, and thither led
@@ -2774,7 +2714,7 @@ Bees from the belly; the rent ribs overboil
 In endless clouds they spread them, till at last
 On yon tree-top together fused they cling,
 And drop their cluster from the bending boughs.
-  So sang I of the tilth of furrowed fields,
+So sang I of the tilth of furrowed fields,
 Of flocks and trees, while Caesar's majesty
 Launched forth the levin-bolts of war by deep
 Euphrates, and bare rule o'er willing folk
@@ -2784,12 +2724,3 @@ The nursling, wooed the flowery walks of peace
 Inglorious, who erst trilled for shepherd-wights
 The wanton ditty, and sang in saucy youth
 Thee, Tityrus, 'neath the spreading beech tree's shade.
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Georgics, by Virgil
-

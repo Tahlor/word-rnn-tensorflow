@@ -1,78 +1,7 @@
-
-The Project Gutenberg EBook of Paradise Lost, by John Milton
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no
-restrictions whatsoever.  You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at www.gutenberg.org.  If you are not located in the
-United States, you'll have to check the laws of the country where you
-are located before using this ebook.
-
-Title: Paradise Lost
-
-Author: John Milton
-
-Release Date: October, 1991 [EBook #20]
-Last updated: December 28, 2017
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK PARADISE LOST ***
-
-
-
 This book was TYPED in by Judy Boss
-
-
- PARADISE LOST
-
- A
-POEM
-
 Written in
-TEN BOOKS
-
 by John Milton
-
-
-
-
-      Contents
-
-
-
-               BOOK I
-
-               BOOK II
-
-               BOOK III
-
-               BOOK IV
-
-               BOOK V
-
-               BOOK VI
-
-               BOOK VII
-
-               BOOK VIII
-
-               BOOK IX
-
-               BOOK X
-
-
-
-
-
-
-
-
-  BOOK I.
-
+Contents
 Of Mans First Disobedience, and the Fruit
 Of that Forbidden Tree, whose mortal tast
 Brought Death into the World, and all our woe,
@@ -99,7 +28,6 @@ Illumine, what is low raise and support;
 That to the highth of this great Argument
 I may assert th’ Eternal Providence,
 And justifie the wayes of God to men.
-
 Say first, for Heav’n hides nothing from thy view
 Nor the deep Tract of Hell, say first what cause
 Mov’d our Grand Parents in that happy State,
@@ -157,7 +85,6 @@ Long after known in _Palestine_, and nam’d
 _Beelzebub_.  To whom th’ Arch-Enemy,
 And thence in Heav’n call’d Satan, with bold words
 Breaking the horrid silence thus began.
-
 If thou beest he; But O how fall’n! how chang’d
 From him, who in the happy Realms of Light
 Cloth’d with transcendent brightnes didst outshine
@@ -199,11 +126,9 @@ To wage by force or guile eternal Warr
 Irreconcileable, to our grand Foe,
 Who now triumphs, and in th’ excess of joy
 Sole reigning holds the Tyranny of Heav’n.
-
 So spake th’ Apostate Angel, though in pain,
 Vaunting aloud, but rackt with deep despare:
 And him thus answer’d soon his bold Compeer.
-
 O Prince, O Chief of many Throned Powers,
 That led th’ imbattelld Seraphim to Warr
 Under thy conduct, and in dreadful deeds
@@ -233,7 +158,6 @@ What can it then avail though yet we feel
 Strength undiminisht, or eternal being
 To undergo eternal punishment?
 Whereto with speedy words th’ Arch-fiend reply’d.
-
 Fall’n Cherube, to be weak is miserable
 Doing or Suffering: but of this be sure,
 To do ought good never will be our task,
@@ -269,7 +193,6 @@ Our Enemy, our own loss how repair,
 How overcome this dire Calamity,
 What reinforcement we may gain from Hope,
 If not what resolution from despare.
-
 Thus Satan talking to his neerest Mate
 With Head up-lift above the wave, and Eyes
 That sparkling blaz’d, his other Parts besides
@@ -320,7 +243,6 @@ Of unblest feet.  Him followed his next Mate,
 Both glorying to have scap’t the _Stygian_ flood
 As Gods, and by their own recover’d strength,
 Not by the sufferance of supernal Power.
-
 Is this the Region, this the Soil, the Clime,
 Said then the lost Arch Angel, this the seat
 That we must change for Heav’n, this mournful gloom
@@ -350,7 +272,6 @@ And call them not to share with us their part
 In this unhappy Mansion, or once more
 With rallied Arms to try what may be yet
 Regaind in Heav’n, or what more lost in Hell?
-
 So _Satan_ spake, and him _Beelzebub_
 Thus answer’d.  Leader of those Armies bright,
 Which but th’ Omnipotent none could have foyld,
@@ -363,7 +284,6 @@ New courage and revive, though now they lye
 Groveling and prostrate on yon Lake of Fire,
 As we erewhile, astounded and amaz’d,
 No wonder, fall’n such a pernicious highth.
-
 He scarce had ceas’t when the superiour Fiend
 Was moving toward the shore; his ponderous shield
 Ethereal temper, massy, large and round,
@@ -412,7 +332,6 @@ Th’ advantage, and descending tread us down
 Thus drooping, or with linked Thunderbolts
 Transfix us to the bottom of this Gulfe.
 Awake, arise, or be for ever fall’n.
-
 They heard, and were abasht, and up they sprung
 Upon the wing, as when men wont to watch
 On duty, sleeping found by whom they dread,
@@ -704,7 +623,6 @@ With all his Peers: attention held them mute.
 Thrice he assayd, and thrice in spite of scorn,
 Tears such as Angels weep, burst forth: at last
 Words interwove with sighs found out their way.
-
 O Myriads of immortal Spirits, O Powers
 Matchless, but with th’ Almighty, and that strife
 Was not inglorious, though th’ event was dire,
@@ -746,7 +664,6 @@ Long under darkness cover.  But these thoughts
 Full Counsel must mature: Peace is despaird,
 For who can think Submission?  Warr then, Warr
 Open or understood must be resolv’d.
-
 He spake: and to confirm his words, out-flew
 Millions of flaming swords, drawn from the thighs
 Of mighty Cherubim; the sudden blaze
@@ -754,7 +671,6 @@ Far round illumin’d hell: highly they rag’d
 Against the Highest, and fierce with grasped arm’s
 Clash’d on their sounding shields the din of war,
 Hurling defiance toward the vault of Heav’n.
-
 There stood a Hill not far whose griesly top
 Belch’d fire and rowling smoak; the rest entire
 Shon with a glossie scurff, undoubted sign
@@ -884,17 +800,6 @@ In close recess and secret conclave sat
 A thousand Demy-Gods on golden seat’s,
 Frequent and full.  After short silence then
 And summons read, the great consult began.
-
-      THE END OF THE FIRST BOOK.
-
-  PARADISE LOST
-
-
-
-
-
-  BOOK II.
-
 High on a Throne of Royal State, which far
 Outshon the wealth of _Ormus_ and of _Ind_,
 Or where the gorgeous East with richest hand
@@ -905,7 +810,6 @@ Thus high uplifted beyond hope, aspires
 Beyond thus high, insatiate to pursue
 Vain Warr with Heav’n, and by success untaught
 His proud imaginations thus displaid.
-
 Powers and Dominions, Deities of Heav’n,
 For since no deep within her gulf can hold
 Immortal vigor, though opprest and fall’n,
@@ -938,7 +842,6 @@ Surer to prosper then prosperity
 Could have assur’d us; and by what best way,
 Whether of open Warr or covert guile,
 We now debate; who can advise, may speak.
-
 He ceas’d, and next him _Moloc_, Scepter’d King
 Stood up, the strongest and the fiercest Spirit
 That fought in Heav’n; now fiercer by despair:
@@ -947,7 +850,6 @@ Equal in strength, and rather then be less
 Car’d not to be at all; with that care lost
 Went all his fear: of God, or Hell, or worse
 He reckd not, and these words thereafter spake.
-
 My sentence is for open Warr: Of Wiles,
 More unexpert, I boast not: them let those
 Contrive who need, or when they need, not now.
@@ -1003,7 +905,6 @@ Our power sufficient to disturb his Heav’n,
 And with perpetual inrodes to Allarme,
 Though inaccessible, his fatal Throne:
 Which if not Victory is yet Revenge.
-
 He ended frowning, and his look denounc’d
 Desperate revenge, and Battel dangerous
 To less then Gods.  On th’ other side up rose
@@ -1017,7 +918,6 @@ Maturest Counsels: for his thoughts were low;
 To vice industrious, but to Nobler deeds
 Timorous and slothful: yet he pleas’d the eare,
 And with perswasive accent thus began.
-
 I should be much for open Warr, O Peers,
 As not behind in hate; if what was urg’d
 Main reason to perswade immediate Warr,
@@ -1125,11 +1025,9 @@ Of future days may bring, what chance, what change
 Worth waiting, since our present lot appeers
 For happy though but ill, for ill not worst,
 If we procure not to our selves more woe.
-
 Thus _Belial_ with words cloath’d in reasons garb
 Counsel’d ignoble ease, and peaceful sloath,
 Not peace: and after him thus _Mammon_ spake.
-
 Either to disinthrone the King of Heav’n
 We warr, if warr be best, or to regain
 Our own right lost: him to unthrone we then
@@ -1185,7 +1083,6 @@ Of order, how in safety best we may
 Compose our present evils, with regard
 Of what we are and where, dismissing quite
 All thoughts of Warr: ye have what I advise.
-
 He scarce had finisht, when such murmur filld
 Th’ Assembly, as when hollow Rocks retain
 The sound of blustring winds, which all night long
@@ -1212,7 +1109,6 @@ With _Atlantean_ shoulders fit to bear
 The weight of mightiest Monarchies; his look
 Drew audience and attention still as Night
 Or Summers Noon-tide air, while thus he spake.
-
 Thrones and imperial Powers, off-spring of heav’n,
 Ethereal Vertues; or these Titles now
 Must we renounce, and changing stile be call’d
@@ -1293,7 +1189,6 @@ His glory to augment.  The bold design
 Pleas’d highly those infernal States, and joy
 Sparkl’d in all thir eyes; with full assent
 They vote: whereat his speech he thus renews.
-
 Well have ye judg’d, well ended long debate,
 Synod of Gods, and like to what ye are,
 Great things resolv’d; which from the lowest deep
@@ -1321,7 +1216,6 @@ Of Angels watching round?  Here he had need
 All circumspection, and we now no less
 Choice in our suffrage; for on whom we send,
 The weight of all and our last hope relies.
-
 This said, he sat; and expectation held
 His look suspence, awaiting who appeer’d
 To second, or oppose, or undertake
@@ -1335,7 +1229,6 @@ Alone the dreadful voyage; till at last
 _Satan_, whom now transcendent glory rais’d
 Above his fellows, with Monarchal pride
 Conscious of highest worth, unmov’d thus spake.
-
 O Progeny of Heav’n, Empyreal Thrones,
 With reason hath deep silence and demurr
 Seis’d us, though undismaid: long is the way
@@ -1412,7 +1305,6 @@ Wasting the Earth, each other to destroy:
 As if (which might induce us to accord)
 Man had not hellish foes anow besides,
 That day and night for his destruction waite.
-
 The _Stygian_ Councel thus dissolv’d; and forth
 In order came the grand infernal Peers,
 Midst came thir mighty Paramount, and seemd
@@ -1536,7 +1428,6 @@ Perverse, all monstrous, all prodigious things,
 Abominable, inutterable, and worse
 Then Fables yet have feign’d, or fear conceiv’d,
 _Gorgons_ and _Hydra’s_, and _Chimera’s_ dire.
-
 Mean while the Adversary of God and Man,
 _Satan_ with thoughts inflam’d of highest design,
 Puts on swift wings, and toward the Gates of Hell
@@ -1589,7 +1480,6 @@ Th’ undaunted Fiend what this might be admir’d,
 Admir’d, not fear’d; God and his Son except,
 Created thing naught vallu’d he nor shun’d;
 And with disdainful look thus first began.
-
 Whence and what art thou, execrable shape,
 That dar’st, though grim and terrible, advance
 Thy miscreated Front athwart my way
@@ -1597,7 +1487,6 @@ To yonder Gates? through them I mean to pass,
 That be assur’d, without leave askt of thee:
 Retire, or taste thy folly, and learn by proof,
 Hell-born, not to contend with Spirits of Heav’n.
-
 To whom the Goblin full of wrauth reply’d,
 Art thou that Traitor Angel, art thou hee,
 Who first broke peace in Heav’n and Faith, till then
@@ -1614,7 +1503,6 @@ False fugitive, and to thy speed add wings,
 Least with a whip of Scorpions I pursue
 Thy lingring, or with one stroke of this Dart
 Strange horror seise thee, and pangs unfelt before.
-
 So spake the grieslie terrour, and in shape,
 So speaking and so threatning, grew ten fold
 More dreadful and deform: on th’ other side
@@ -1638,7 +1526,6 @@ Had been achiev’d, whereof all Hell had rung,
 Had not the Snakie Sorceress that sat
 Fast by Hell Gate, and kept the fatal Key,
 Ris’n, and with hideous outcry rush’d between.
-
 O Father, what intends thy hand, she cry’d,
 Against thy only Son?  What fury O Son,
 Possesses thee to bend that mortal Dart
@@ -1647,10 +1534,8 @@ For him who sits above and laughs the while
 At thee ordain’d his drudge, to execute
 What e’re his wrath, which he calls Justice, bids,
 His wrath which one day will destroy ye both.
-
 She spake, and at her words the hellish Pest
 Forbore, then these to her _Satan_ return’d:
-
 So strange thy outcry, and thy words so strange
 Thou interposest, that my sudden hand
 Prevented spares to tell thee yet by deeds
@@ -1660,7 +1545,6 @@ In this infernal Vaile first met thou call’st
 Me Father, and that Fantasm call’st my Son?
 I know thee not, nor ever saw till now
 Sight more detestable then him and thee.
-
 T’ whom thus the Portress of Hell Gate reply’d;
 Hast thou forgot me then, and do I seem
 Now in thine eye so foul, once deemd so fair
@@ -1730,7 +1614,6 @@ His deadly arrow; neither vainly hope
 To be invulnerable in those bright Arms,
 Though temper’d heav’nly, for that mortal dint,
 Save he who reigns above, none can resist.
-
 She finish’d, and the suttle Fiend his lore
 Soon learnd, now milder, and thus answerd smooth.
 Dear Daughter, since thou claim’st me for thy Sire,
@@ -1766,7 +1649,6 @@ Grinnd horrible a gastly smile, to hear
 His famine should be fill’d, and blest his mawe
 Destin’d to that good hour: no less rejoyc’d
 His mother bad, and thus bespake her Sire.
-
 The key of this infernal Pit by due,
 And by command of Heav’ns all-powerful King
 I keep, by him forbidden to unlock
@@ -1788,7 +1670,6 @@ To that new world of light and bliss, among
 The Gods who live at ease, where I shall Reign
 At thy right hand voluptuous, as beseems
 Thy daughter and thy darling, without end.
-
 Thus saying, from her side the fatal Key,
 Sad instrument of all our woe, she took;
 And towards the Gate rouling her bestial train,
@@ -1886,7 +1767,6 @@ _Orcus_ and _Ades_, and the dreaded name
 Of _Demogorgon_; Rumor next and Chance,
 And Tumult and Confusion all imbroild,
 And Discord with a thousand various mouths.
-
 T’ whom _Satan_ turning boldly, thus.  Ye Powers
 And Spirits of this nethermost Abyss,
 _Chaos_ and _Ancient Night_, I come no Spie,
@@ -1907,7 +1787,6 @@ To her original darkness and your sway
 (Which is my present journey) and once more
 Erect the Standerd there of _Ancient Night_;
 Yours be th’ advantage all, mine the revenge.
-
 Thus _Satan_; and him thus the Anarch old
 With faultring speech and visage incompos’d
 Answer’d.  I know thee, stranger, who thou art,
@@ -1930,7 +1809,6 @@ To that side Heav’n from whence your Legions fell:
 If that way be your walk, you have not farr;
 So much the neerer danger; goe and speed;
 Havock and spoil and ruin are my gain.
-
 He ceas’d; and _Satan_ staid not to reply,
 But glad that now his Sea should find a shore,
 With fresh alacritie and force renew’d
@@ -1977,17 +1855,6 @@ This pendant world, in bigness as a Starr
 Of smallest Magnitude close by the Moon.
 Thither full fraught with mischievous revenge,
 Accurst, and in a cursed hour he hies.
-
-      THE END OF THE SECOND BOOK.
-
-  PARADISE LOST
-
-
-
-
-
-  BOOK III.
-
 Hail holy light, ofspring of Heav’n first-born,
 Or of th’ Eternal Coeternal beam
 May I express thee unblam’d? since God is light,
@@ -2043,7 +1910,6 @@ Shine inward, and the mind through all her powers
 Irradiate, there plant eyes, all mist from thence
 Purge and disperse, that I may see and tell
 Of things invisible to mortal sight.
-
 Now had the Almighty Father from above,
 From the pure Empyrean where he sits
 High Thron’d above all highth, bent down his eye,
@@ -2068,7 +1934,6 @@ Uncertain which, in Ocean or in Air.
 Him God beholding from his prospect high,
 Wherein past, present, future he beholds,
 Thus to his onely Son foreseeing spake.
-
 Onely begotten Son, seest thou what rage
 Transports our adversarie, whom no bounds
 Prescrib’d, no barrs of Hell, nor all the chains
@@ -2124,7 +1989,6 @@ By the other first: Man therefore shall find grace,
 The other none: in Mercy and Justice both,
 Through Heav’n and Earth, so shall my glorie excel,
 But Mercy first and last shall brightest shine.
-
 Thus while God spake, ambrosial fragrance fill’d
 All Heav’n, and in the blessed Spirits elect
 Sense of new joy ineffable diffus’d:
@@ -2134,7 +1998,6 @@ Substantially express’d, and in his face
 Divine compassion visibly appeerd,
 Love without end, and without measure Grace,
 Which uttering thus he to his Father spake.
-
 O Father, gracious was that word which clos’d
 Thy sovran sentence, that Man should find grace;
 For which both Heav’n and Earth shall high extoll
@@ -2158,7 +2021,6 @@ Abolish thy Creation, and unmake,
 For him, what for thy glorie thou hast made?
 So should thy goodness and thy greatness both
 Be questiond and blaspheam’d without defence.
-
 To whom the great Creatour thus reply’d.
 O Son, in whom my Soul hath chief delight,
 Son of my bosom, Son who art alone
@@ -2209,7 +2071,6 @@ Say Heav’nly Powers, where shall we find such love,
 Which of ye will be mortal to redeem
 Mans mortal crime, and just th’ unjust to save,
 Dwels in all Heaven charitie so deare?
-
 He ask’d, but all the Heav’nly Quire stood mute,
 And silence was in Heav’n: on mans behalf
 Patron or Intercessor none appeerd,
@@ -2220,7 +2081,6 @@ Must have bin lost, adjudg’d to Death and Hell
 By doom severe, had not the Son of God,
 In whom the fulness dwels of love divine,
 His dearest mediation thus renewd.
-
 Father, thy word is past, man shall find grace;
 And shall grace not find means, that finds her way,
 The speediest of thy winged messengers,
@@ -2260,7 +2120,6 @@ Father, to see thy face, wherein no cloud
 Of anger shall remain, but peace assur’d,
 And reconcilement; wrauth shall be no more
 Thenceforth, but in thy presence Joy entire.
-
 His words here ended, but his meek aspect
 Silent yet spake, and breath’d immortal love
 To mortal men, above which only shon
@@ -2269,7 +2128,6 @@ Glad to be offer’d, he attends the will
 Of his great Father.  Admiration seis’d
 All Heav’n, what this might mean, & whither tend
 Wondring; but soon th’ Almighty thus reply’d:
-
 O thou in Heav’n and Earth the only peace
 Found out for mankind under wrauth, O thou
 My sole complacence! well thou know’st how dear,
@@ -2340,7 +2198,6 @@ For regal Scepter then no more shall need,
 God shall be All in All.  But all ye Gods,
 Adore him, who to compass all this dies,
 Adore the Son, and honour him as mee.
-
 No sooner had th’ Almighty ceas’t, but all
 The multitude of Angels with a shout
 Loud as from numbers without number, sweet
@@ -2369,7 +2226,6 @@ Of charming symphonie they introduce
 Thir sacred Song, and waken raptures high;
 No voice exempt, no voice but well could joine
 Melodious part, such concord is in Heav’n.
-
 Thee Father first they sung Omnipotent,
 Immutable, Immortal, Infinite,
 Eternal King; thee Author of all being,
@@ -2414,7 +2270,6 @@ Hail Son of God, Saviour of Men, thy Name
 Shall be the copious matter of my Song
 Henceforth, and never shall my Harp thy praise
 Forget, nor from thy Fathers praise disjoine.
-
 Thus they in Heav’n, above the starry Sphear,
 Thir happie hours in joy and hymning spent.
 Mean while upon the firm opacous Globe
@@ -2653,7 +2508,6 @@ Stand ready at command, and are his Eyes
 That run through all the Heav’ns, or down to th’ Earth
 Bear his swift errands over moist and dry,
 O’re Sea and Land: him _Satan_ thus accostes;
-
 _Uriel_, for thou of those seav’n Spirits that stand
 In sight of God’s high Throne, gloriously bright,
 The first art wont his great authentic will
@@ -2681,7 +2535,6 @@ Who justly hath drivn out his Rebell Foes
 To deepest Hell, and to repair that loss
 Created this new happie Race of Men
 To serve him better: wise are all his wayes.
-
 So spake the false dissembler unperceivd;
 For neither Man nor Angel can discern
 Hypocrisie, the only evil that walks
@@ -2737,7 +2590,6 @@ And in her pale dominion checks the night.
 That spot to which I point is _Paradise_,
 _Adams_ abode, those loftie shades his Bowre.
 Thy way thou canst not miss, me mine requires.
-
 Thus said, he turnd, and _Satan_ bowing low,
 As to superior Spirits is wont in Heaven,
 Where honour due and reverence none neglects,
@@ -2745,17 +2597,6 @@ Took leave, and toward the coast of Earth beneath,
 Down from th’ Ecliptic, sped with hop’d success,
 Throws his steep flight with many an Aerie wheele,
 Nor staid, till on _Niphates_ top he lights.
-
-       THE END OF THE THIRD BOOK.
-
-  PARADISE LOST
-
-
-
-
-
-  BOOK IV.
-
 O For that warning voice, which he who saw
 Th’ _Apocalyps_, heard cry in Heaven aloud,
 Then when the Dragon, put to second rout,
@@ -2787,7 +2628,6 @@ Lay pleasant, his grievd look he fixes sad,
 Sometimes towards Heav’n and the full-blazing Sun,
 Which now sat high in his Meridian Towre:
 Then much revolving, thus in sighs began.
-
 O thou that with surpassing Glory crownd,
 Look’st from thy sole Dominion like the God
 Of this new World; at whose sight all the Starrs
@@ -2870,7 +2710,6 @@ Evil be thou my Good; by thee at least
 Divided Empire with Heav’ns King I hold
 By thee, and more then half perhaps will reigne;
 As Man ere long, and this new World shall know.
-
 Thus while he spake, each passion dimm’d his face
 Thrice chang’d with pale, ire, envie and despair,
 Which marrd his borrow’d visage, and betraid
@@ -2929,7 +2768,6 @@ Then _Asmodeus_ with the fishie fume,
 That drove him, though enamourd, from the Spouse
 Of _Tobits_ Son, and with a vengeance sent
 From _Media_ post to _Aegypt_, there fast bound.
-
 Now to th’ ascent of that steep savage Hill
 _Satan_ had journied on, pensive and slow;
 But further way found none, so thick entwin’d,
@@ -3116,7 +2954,6 @@ To th’ Ocean Iles, and in th’ ascending Scale
 Of Heav’n the Starrs that usher Evening rose:
 When _Satan_ still in gaze, as first he stood,
 Scarce thus at length faild speech recoverd sad.
-
 O Hell! what doe mine eyes with grief behold,
 Into our room of bliss thus high advanc’t
 Creatures of other mould, earth-born perhaps,
@@ -3152,7 +2989,6 @@ Melt, as I doe, yet public reason just,
 Honour and Empire with revenge enlarg’d,
 By conquering this new World, compels me now
 To do what else though damnd I should abhorre.
-
 So spake the Fiend, and with necessitie,
 The Tyrants plea, excus’d his devilish deeds.
 Then from his loftie stand on that high Tree
@@ -3171,7 +3007,6 @@ Whence rushing he might surest seise them both
 Grip’t in each paw: when _Adam_ first of men
 To first of women _Eve_ thus moving speech,
 Turnd him all eare to heare new utterance flow.
-
 Sole partner and sole part of all these joyes,
 Dearer thy self then all; needs must the Power
 That made us, and for us this ample World
@@ -3201,7 +3036,6 @@ But let us ever praise him, and extoll
 His bountie, following our delightful task
 To prune these growing Plants, & tend these Flours,
 Which were it toilsom, yet with thee were sweet.
-
 To whom thus Eve repli’d.  O thou for whom
 And from whom I was formd flesh of thy flesh,
 And without whom am to no end, my Guide
@@ -3254,7 +3088,6 @@ My other half: with that thy gentle hand
 Seisd mine, I yeilded, and from that time see
 How beauty is excelld by manly grace
 And wisdom, which alone is truly fair.
-
 So spake our general Mother, and with eyes
 Of conjugal attraction unreprov’d,
 And meek surrender, half imbracing leand
@@ -3268,7 +3101,6 @@ That shed _May_ Flowers; and press’d her Matron lip
 With kisses pure: aside the Devil turnd
 For envie, yet with jealous leer maligne
 Ey’d them askance, and to himself thus plaind.
-
 Sight hateful, sight tormenting! thus these two
 Imparadis’t in one anothers arms
 The happier _Eden_, shall enjoy thir fill
@@ -3300,7 +3132,6 @@ Or in thick shade retir’d, from him to draw
 What further would be learnt.  Live while ye may,
 Yet happie pair; enjoy, till I return,
 Short pleasures, for long woes are to succeed.
-
 So saying, his proud step he scornful turn’d,
 But with sly circumspection, and began
 Through wood, through waste, o’re hil, o’re dale his roam.
@@ -3326,7 +3157,6 @@ In _Autumn_ thwarts the night, when vapors fir’d
 Impress the Air, and shews the Mariner
 From what point of his Compass to beware
 Impetuous winds: he thus began in haste.
-
 _Gabriel_, to thee thy cours by Lot hath giv’n
 Charge and strict watch that to this happie place
 No evil thing approach or enter in;
@@ -3342,7 +3172,6 @@ Mine eye pursu’d him still, but under shade
 Lost sight of him; one of the banisht crew
 I fear, hath ventur’d from the deep, to raise
 New troubles; him thy care must be to find.
-
 To whom the winged Warriour thus returnd:
 _Uriel_, no wonder if thy perfet sight,
 Amid the Suns bright circle where thou sitst,
@@ -3356,7 +3185,6 @@ Spiritual substance with corporeal barr.
 But if within the circuit of these walks
 In whatsoever shape he lurk, of whom
 Thou telst, by morrow dawning I shall know.
-
 So promis’d hee, and _Uriel_ to his charge
 Returnd on that bright beam, whose point now raisd
 Bore him slope downward to the Sun now fall’n
@@ -3378,7 +3206,6 @@ The starrie Host, rode brightest, till the Moon
 Rising in clouded Majestie, at length
 Apparent Queen unvaild her peerless light,
 And o’re the dark her Silver Mantle threw.
-
 When _Adam_ thus to _Eve_: Fair Consort, th’ hour
 Of night, and all things now retir’d to rest
 Mind us of like repose, since God hath set
@@ -3403,7 +3230,6 @@ Those Blossoms also, and those dropping Gumms,
 That lie bestrowne unsightly and unsmooth,
 Ask riddance, if we mean to tread with ease;
 Mean while, as Nature wills, Night bids us rest.
-
 To whom thus _Eve_ with perfet beauty adornd.
 My Author and Disposer, what thou bidst
 Unargu’d I obey; so God ordains,
@@ -3429,7 +3255,6 @@ With this her solemn Bird, nor walk by Moon,
 Or glittering Starr-light without thee is sweet.
 But wherfore all night long shine these, for whom
 This glorious sight, when sleep hath shut all eyes?
-
 To whom our general Ancestor repli’d.
 Daughter of God and Man, accomplisht _Eve_,
 Those have thir course to finish, round the Earth,
@@ -3460,7 +3285,6 @@ While they keep watch, or nightly rounding walk
 With Heav’nly touch of instrumental sounds
 In full harmonic number joind, thir songs
 Divide the night, and lift our thoughts to Heaven.
-
 Thus talking hand in hand alone they pass’d
 On to thir blissful Bower; it was a place
 Chos’n by the sovran Planter, when he fram’d
@@ -3492,7 +3316,6 @@ In sad event, when to the unwiser Son
 Of _Japhet_ brought by _Hermes_, she ensnar’d
 Mankind with her faire looks, to be aveng’d
 On him who had stole _Joves_ authentic fire.
-
 Thus at thir shadie Lodge arriv’d, both stood,
 Both turnd, and under op’n Skie ador’d
 The God that made both Skie, Air, Earth & Heav’n
@@ -3509,7 +3332,6 @@ But thou hast promis’d from us two a Race
 To fill the Earth, who shall with us extoll
 Thy goodness infinite, both when we wake,
 And when we seek, as now, thy gift of sleep.
-
 This said unanimous, and other Rites
 Observing none, but adoration pure
 Which God likes best, into thir inmost bower
@@ -3550,21 +3372,18 @@ And on thir naked limbs the flourie roof
 Showrd Roses, which the Morn repair’d.  Sleep on,
 Blest pair; and O yet happiest if ye seek
 No happier state, and know to know no more.
-
 Now had night measur’d with her shaddowie Cone
 Half way up Hill this vast Sublunar Vault,
 And from thir Ivorie Port the Cherubim
 Forth issuing at th’ accustomd hour stood armd
 To thir night watches in warlike Parade,
 When _Gabriel_ to his next in power thus spake.
-
 _Uzziel_, half these draw off, and coast the South
 With strictest watch; these other wheel the North,
 Our circuit meets full West.  As flame they part
 Half wheeling to the Shield, half to the Spear.
 From these, two strong and suttle Spirits he calld
 That neer him stood, and gave them thus in charge.
-
 _Ithuriel_ and _Zephon_, with wingd speed
 Search through this Garden, leav unsearcht no nook,
 But chiefly where those two fair Creatures Lodge,
@@ -3574,7 +3393,6 @@ Who tells of som infernal Spirit seen
 Hitherward bent (who could have thought?) escap’d
 The barrs of Hell, on errand bad no doubt:
 Such where ye find, seise fast, and hither bring.
-
 So saying, on he led his radiant Files,
 Daz’ling the Moon; these to the Bower direct
 In search of whom they sought: him there they found
@@ -3601,12 +3419,10 @@ So started up in his own shape the Fiend.
 Back stept those two fair Angels half amaz’d
 So sudden to behold the grieslie King;
 Yet thus, unmovd with fear, accost him soon.
-
 Which of those rebell Spirits adjudg’d to Hell
 Com’st thou, escap’d thy prison, and transform’d,
 Why satst thou like an enemie in waite
 Here watching at the head of these that sleep?
-
 Know ye not then said _Satan_, filld with scorn,
 Know ye not me? ye knew me once no mate
 For you, there sitting where ye durst not soare;
@@ -3624,7 +3440,6 @@ Thy sin and place of doom obscure and foule.
 But come, for thou, be sure, shalt give account
 To him who sent us, whose charge is to keep
 This place inviolable, and these from harm.
-
 So spake the Cherube, and his grave rebuke
 Severe in youthful beautie, added grace
 Invincible: abasht the Devil stood,
@@ -3638,7 +3453,6 @@ Or all at once; more glorie will be wonn,
 Or less be lost.  Thy fear, said _Zephon_ bold,
 Will save us trial what the least can doe
 Single against thee wicked, and thence weak.
-
 The Fiend repli’d not, overcome with rage;
 But like a proud Steed reind, went hautie on,
 Chaumping his iron curb: to strive or flie
@@ -3648,7 +3462,6 @@ The western point, where those half-rounding guards
 Just met, & closing stood in squadron joind
 Awaiting next command.  To whom thir Chief
 _Gabriel_ from the Front thus calld aloud.
-
 O friends, I hear the tread of nimble feet
 Hasting this way, and now by glimps discerne
 _Ithuriel_ and _Zephon_ through the shade,
@@ -3657,11 +3470,9 @@ But faded splendor wan; who by his gate
 And fierce demeanour seems the Prince of Hell,
 Not likely to part hence without contest;
 Stand firm, for in his look defiance lours.
-
 He scarce had ended, when those two approachd
 And brief related whom they brought, wher found,
 How busied, in what form and posture coucht.
-
 To whom with stern regard thus _Gabriel_ spake.
 Why hast thou, _Satan_, broke the bounds prescrib’d
 To thy transgressions, and disturbd the charge
@@ -3670,7 +3481,6 @@ By thy example, but have power and right
 To question thy bold entrance on this place;
 Imploi’d it seems to violate sleep, and those
 Whose dwelling God hath planted here in bliss?
-
 To whom thus _Satan_ with contemptuous brow.
 _Gabriel_, thou hadst in Heav’n th’ esteem of wise,
 And such I held thee; but this question askt
@@ -3688,7 +3498,6 @@ His Iron Gates, if he intends our stay
 In that dark durance: thus much what was askt.
 The rest is true, they found me where they say;
 But that implies not violence or harme.
-
 Thus hee in scorn.  The warlike Angel mov’d,
 Disdainfully half smiling thus repli’d.
 O loss of one in Heav’n to judge of wise,
@@ -3711,7 +3520,6 @@ Less hardie to endure? courageous Chief,
 The first in flight from pain, had’st thou alleg’d
 To thy deserted host this cause of flight,
 Thou surely hadst not come sole fugitive.
-
 To which the Fiend thus answerd frowning stern.
 Not that I less endure, or shrink from pain,
 Insulting Angel, well thou knowst I stood
@@ -3734,7 +3542,6 @@ What thou and thy gay Legions dare against;
 Whose easier business were to serve thir Lord
 High up in Heav’n, with songs to hymne his Throne,
 And practis’d distances to cringe, not fight.
-
 To whom the warriour Angel soon repli’d.
 To say and strait unsay, pretending first
 Wise to flie pain, professing next the Spie,
@@ -3757,10 +3564,8 @@ Within these hallowd limits thou appeer,
 Back to th’ infernal pit I drag thee chaind,
 And Seale thee so, as henceforth not to scorne
 The facil gates of hell too slightly barrd.
-
 So threatn’d hee, but _Satan_ to no threats
 Gave heed, but waxing more in rage repli’d.
-
 Then when I am thy captive talk of chaines,
 Proud limitarie Cherube, but ere then
 Farr heavier load thy self expect to feel
@@ -3768,7 +3573,6 @@ From my prevailing arme, though Heavens King
 Ride on thy wings, and thou with thy Compeers,
 Us’d to the yoak, draw’st his triumphant wheels
 In progress through the rode of Heav’n Star-pav’d.
-
 While thus he spake, th’ Angelic Squadron bright
 Turnd fierie red, sharpning in mooned hornes
 Thir Phalanx, and began to hemm him round
@@ -3798,7 +3602,6 @@ Battels and Realms: in these he put two weights
 The sequel each of parting and of fight;
 The latter quick up flew, and kickt the beam;
 Which _Gabriel_ spying, thus bespake the Fiend.
-
 _Satan_, I know thy strength, and thou knowst mine,
 Neither our own but giv’n; what follie then
 To boast what Arms can doe, since thine no more
@@ -3809,17 +3612,6 @@ Where thou art weigh’d, & shown how light, how weak,
 If thou resist.  The Fiend lookt up and knew
 His mounted scale aloft: nor more; but fled
 Murmuring, and with him fled the shades of night.
-
-       THE END OF THE FOURTH BOOK.
-
-  PARADISE LOST
-
-
-
-
-
-  BOOK V.
-
 Now Morn her rosie steps in th’ Eastern Clime
 Advancing, sow’d the Earth with Orient Pearle,
 When _Adam_ wak’t, so customd, for his sleep
@@ -3845,10 +3637,8 @@ Our tended Plants, how blows the Citron Grove,
 What drops the Myrrhe, & what the balmie Reed,
 How Nature paints her colours, how the Bee
 Sits on the Bloom extracting liquid sweet.
-
 Such whispering wak’d her, but with startl’d eye
 On _Adam_, whom imbracing, thus she spake.
-
 O Sole in whom my thoughts find all repose,
 My Glorie, my Perfection, glad I see
 Thy face, and Morn return’d, for I this Night,
@@ -3916,7 +3706,6 @@ My Guide was gon, and I, me thought, sunk down,
 And fell asleep; but O how glad I wak’d
 To find this but a dream!  Thus _Eve_ her Night
 Related, and thus _Adam_ answerd sad.
-
 Best Image of my self and dearer half,
 The trouble of thy thoughts this night in sleep
 Affects me equally; nor can I like
@@ -3951,7 +3740,6 @@ And let us to our fresh imployments rise
 Among the Groves, the Fountains, and the Flours
 That open now thir choicest bosom’d smells
 Reservd from night, and kept for thee in store.
-
 So cheard he his fair Spouse, and she was cheard,
 But silently a gentle tear let fall
 From either eye, and wip’d them with her haire;
@@ -3959,7 +3747,6 @@ Two other precious drops that ready stood,
 Each in thir chrystal sluce, hee ere they fell
 Kiss’d as the gracious signs of sweet remorse
 And pious awe, that feard to have offended.
-
 So all was cleard, and to the Field they haste.
 But first from under shadie arborous roof,
 Soon as they forth were come to open sight
@@ -3977,7 +3764,6 @@ Unmeditated, such prompt eloquence
 Flowd from thir lips, in Prose or numerous Verse,
 More tuneable then needed Lute or Harp
 To add more sweetness, and they thus began.
-
 These are thy glorious works, Parent of good,
 Almightie, thine this universal Frame,
 Thus wondrous fair; thy self how wondrous then!
@@ -4034,7 +3820,6 @@ Hail universal Lord, be bounteous still
 To give us onely good; and if the night
 Have gathered aught of evil or conceald,
 Disperse it, as now light dispels the dark.
-
 So pray’d they innocent, and to thir thoughts
 Firm peace recoverd soon and wonted calm.
 On to thir mornings rural work they haste
@@ -4050,7 +3835,6 @@ With pittie Heav’ns high King, and to him call’d
 _Raphael_, the sociable Spirit, that deign’d
 To travel with _Tobias_, and secur’d
 His marriage with the seaventimes-wedded Maid.
-
 _Raphael_, said hee, thou hear’st what stir on Earth
 _Satan_ from Hell scap’t through the darksom Gulf
 Hath raisd in Paradise, and how disturbd
@@ -4073,7 +3857,6 @@ By violence, no, for that shall be withstood,
 But by deceit and lies; this let him know,
 Least wilfully transgressing he pretend
 Surprisal, unadmonisht, unforewarnd.
-
 So spake th’ Eternal Father, and fulfilld
 All Justice: nor delaid the winged Saint
 After his charge receivd, but from among
@@ -4136,7 +3919,6 @@ For dinner savourie fruits, of taste to please
 True appetite, and not disrelish thirst
 Of nectarous draughts between, from milkie stream,
 Berrie or Grape: to whom thus _Adam_ call’d.
-
 Haste hither _Eve_, and worth thy sight behold
 Eastward among those Trees, what glorious shape
 Comes this way moving; seems another Morn
@@ -4150,7 +3932,6 @@ Our givers thir own gifts, and large bestow
 From large bestowd, where Nature multiplies
 Her fertil growth, and by disburd’ning grows
 More fruitful, which instructs us not to spare.
-
 To whom thus _Eve_. _Adam_, earths hallowd mould,
 Of God inspir’d, small store will serve, where store,
 All seasons, ripe for use hangs on the stalk;
@@ -4161,7 +3942,6 @@ Each Plant & juciest Gourd will pluck such choice
 To entertain our Angel guest, as hee
 Beholding shall confess that here on Earth
 God hath dispenst his bounties as in Heav’n.
-
 So saying, with dispatchful looks in haste
 She turns, on hospitable thoughts intent
 What choice to chuse for delicacie best,
@@ -4192,7 +3972,6 @@ Dazles the croud, and sets them all agape.
 Neerer his presence _Adam_ though not awd,
 Yet with submiss approach and reverence meek,
 As to a superior Nature, bowing low,
-
 Thus said.  Native of Heav’n, for other place
 None can then Heav’n such glorious shape contain;
 Since by descending from the Thrones above,
@@ -4203,7 +3982,6 @@ This spacious ground, in yonder shadie Bowre
 To rest, and what the Garden choicest bears
 To sit and taste, till this meridian heat
 Be over, and the Sun more coole decline.
-
 Whom thus the Angelic Vertue answerd milde.
 _Adam_, I therefore came, nor art thou such
 Created, or such place hast here to dwell,
@@ -4221,7 +3999,6 @@ Shee needed, Vertue-proof, no thought infirme
 Alterd her cheek.  On whom the Angel _Haile_
 Bestowd, the holy salutation us’d
 Long after to blest _Marie_, second _Eve_.
-
 Haile Mother of Mankind, whose fruitful Womb
 Shall fill the World more numerous with thy Sons
 Then with these various fruits the Trees of God
@@ -4238,7 +4015,6 @@ To us for food and for delight hath caus’d
 The Earth to yeild; unsavourie food perhaps
 To spiritual Natures; only this I know,
 That one Celestial Father gives to all.
-
 To whom the Angel.  Therefore what he gives
 (Whose praise be ever sung) to man in part
 Spiritual, may of purest Spirits be found
@@ -4286,7 +4062,6 @@ Then had the Sons of God excuse to have bin
 Enamour’d at that sight; but in those hearts
 Love unlibidinous reign’d, nor jealousie
 Was understood, the injur’d Lovers Hell.
-
 Thus when with meats & drinks they had suffic’d,
 Not burd’nd Nature, sudden mind arose
 In _Adam_, not to let th’ occasion pass
@@ -4297,7 +4072,6 @@ Transcend his own so farr, whose radiant forms
 Divine effulgence, whose high Power so far
 Exceeded human, and his wary speech
 Thus to th’ Empyreal Minister he fram’d.
-
 Inhabitant with God, now know I well
 Thy favour, in this honour done to man,
 Under whose lowly roof thou hast voutsaf’t
@@ -4305,8 +4079,7 @@ To enter, and these earthly fruits to taste,
 Food not of Angels, yet accepted so,
 As that more willingly thou couldst not seem
 At Heav’ns high feasts to have fed: yet what compare?
-
- To whom the winged Hierarch repli’d.
+To whom the winged Hierarch repli’d.
 O _Adam_, one Almightie is, from whom
 All things proceed, and up to him return,
 If not deprav’d from good, created all
@@ -4344,7 +4117,6 @@ Unalterably firm his love entire
 Whose progenie you are.  Mean while enjoy
 Your fill what happiness this happie state
 Can comprehend, incapable of more.
-
 To whom the Patriarch of mankind repli’d.
 O favourable spirit, propitious guest,
 Well hast thou taught the way that might direct
@@ -4358,7 +4130,6 @@ To him, or possibly his love desert
 Who formd us from the dust, and plac’d us here
 Full to the utmost measure of what bliss
 Human desires can seek or apprehend?
-
 To whom the Angel.  Son of Heav’n and Earth,
 Attend: That thou art happie, owe to God;
 That thou continu’st such, owe to thy self,
@@ -4384,7 +4155,6 @@ To love or not; in this we stand or fall:
 And som are fall’n, to disobedience fall’n,
 And so from Heav’n to deepest Hell; O fall
 From what high state of bliss into what woe!
-
 To whom our great Progenitor.  Thy words
 Attentive, and with more delighted eare
 Divine instructer, I have heard, then when
@@ -4402,10 +4172,8 @@ Worthy of Sacred silence to be heard;
 And we have yet large day, for scarce the Sun
 Hath finisht half his journey, and scarce begins
 His other half in the great Zone of Heav’n.
-
 Thus _Adam_ made request, and _Raphael_
 After short pause assenting, thus began.
-
 High matter thou injoinst me, O prime of men,
 Sad task and hard, for how shall I relate
 To human sense th’ invisible exploits
@@ -4420,7 +4188,6 @@ By lik’ning spiritual to corporal forms,
 As may express them best, though what if Earth
 Be but the shaddow of Heav’n, and things therein
 Each to other like, more then on earth is thought?
-
 As yet this world was not, and _Chaos_ wilde
 Reignd where these Heav’ns now rowl, where Earth now rests
 Upon her Center pois’d, when on a day
@@ -4444,7 +4211,6 @@ Orb within Orb, the Father infinite,
 By whom in bliss imbosom’d sat the Son,
 Amidst as from a flaming Mount, whoseop
 Brightness had made invisible, thus spake.
-
 Hear all ye Angels, Progenie of Light,
 Thrones, Dominations, Princedoms, Vertues, Powers,
 Hear my Decree, which unrevok’t shall stand.
@@ -4461,7 +4227,6 @@ Mee disobeyes, breaks union, and that day
 Cast out from God and blessed vision, falls
 Into utter darkness, deep ingulft, his place
 Ordaind without redemption, without end.
-
 So spake th’ Omnipotent, and with his words
 All seemd well pleas’d, all seem’d, but were not all.
 That day, as other solem dayes, they spent
@@ -4516,7 +4281,6 @@ With all his Legions to dislodge, and leave
 Unworshipt, unobey’d the Throne supream
 Contemptuous, and his next subordinate
 Awak’ning, thus to him in secret spake.
-
 Sleepst thou Companion dear, what sleep can close
 Thy eye-lids? and remembrest what Decree
 Of yesterday, so late hath past the lips
@@ -4538,7 +4302,6 @@ Fit entertainment to receive our King
 The great _Messiah_, and his new commands,
 Who speedily through all the Hierarchies
 Intends to pass triumphant, and give Laws.
-
 So spake the false Arch-Angel, and infus’d
 Bad influence into th’ unwarie brest
 Of his Associate; hee together calls,
@@ -4564,7 +4327,6 @@ Rebellion rising, saw in whom, how spred
 Among the sons of Morn, what multitudes
 Were banded to oppose his high Decree;
 And smiling to his onely Son thus said.
-
 Son, thou in whom my glory I behold
 In full resplendence, Heir of all my might,
 Neerly it now concernes us to be sure
@@ -4579,7 +4341,6 @@ Let us advise, and to this hazard draw
 With speed what force is left, and all imploy
 In our defence, lest unawares we lose
 This our high place, our Sanctuarie, our Hill.
-
 To whom the Son with calm aspect and cleer
 Light’ning Divine, ineffable, serene,
 Made answer.  Mightie Father, thou thy foes
@@ -4590,7 +4351,6 @@ Illustrates, when they see all Regal Power
 Giv’n me to quell thir pride, and in event
 Know whether I be dextrous to subdue
 Thy Rebels, or be found the worst in Heav’n.
-
 So spake the Son, but _Satan_ with his Powers
 Farr was advanc’t on winged speed, an Host
 Innumerable as the Starrs of Night,
@@ -4620,7 +4380,6 @@ Pretending so commanded to consult
 About the great reception of thir King,
 Thither to come, and with calumnious Art
 Of counterfeted truth thus held thir ears.
-
 Thrones, Dominations, Princedomes, Vertues, Powers,
 If these magnific Titles yet remain
 Not meerly titular, since by Decree
@@ -4652,14 +4411,12 @@ Erre not, much less for this to be our Lord,
 And look for adoration to th’ abuse
 Of those Imperial Titles which assert
 Our being ordain’d to govern, not to serve?
-
 Thus farr his bold discourse without controule
 Had audience, when among the Seraphim
 _Abdiel_, then whom none with more zeale ador’d
 The Deitie, and divine commands obei’d,
 Stood up, and in a flame of zeale severe
 The current of his fury thus oppos’d.
-
 O argument blasphemous, false and proud!
 Words which no eare ever to hear in Heav’n
 Expected, least of all from thee, ingrate
@@ -4700,7 +4457,6 @@ Returns our own.  Cease then this impious rage,
 And tempt not these; but hast’n to appease
 Th’ incensed Father, and th’ incensed Son,
 While Pardon may be found in time besought.
-
 So spake the fervent Angel, but his zeale
 None seconded, as out of season judg’d,
 Or singular and rash, whereat rejoic’d
@@ -4724,13 +4480,11 @@ Address, and to begirt th’ Almighty Throne
 Beseeching or besieging.  This report,
 These tidings carrie to th’ anointed King;
 And fly, ere evil intercept thy flight.
-
 He said, and as the sound of waters deep
 Hoarce murmur echo’d to his words applause
 Through the infinite Host, nor less for that
 The flaming Seraph fearless, though alone
 Encompass’d round with foes, thus answerd bold.
-
 O alienate from God, O spirit accurst,
 Forsak’n of all good; I see thy fall
 Determind, and thy hapless crew involv’d
@@ -4750,7 +4504,6 @@ Distinguish not: for soon expect to feel
 His Thunder on thy head, devouring fire.
 Then who created thee lamenting learne,
 When who can uncreate thee thou shalt know.
-
 So spake the Seraph _Abdiel_ faithful found,
 Among the faithless, faithful only hee;
 Among innumerable false, unmov’d,
@@ -4763,17 +4516,6 @@ Long way through hostile scorn, which he susteind
 Superior, nor of violence fear’d aught;
 And with retorted scorn his back he turn’d
 On those proud Towrs to swift destruction doom’d.
-
-       THE END OF THE FIFTH BOOK.
-
-  PARADISE LOST
-
-
-
-
-
-  BOOK VI.
-
 All night the dreadless Angel unpursu’d
 Through Heav’ns wide Champain held his way, till Morn,
 Wak’t by the circling Hours, with rosie hand
@@ -4802,7 +4544,6 @@ Returnd not lost: On to the sacred hill
 They led him high applauded, and present
 Before the seat supream; from whence a voice
 From midst a Golden Cloud thus milde was heard.
-
 Servant of God, well done, well hast thou fought
 The better fight, who single hast maintaind
 Against revolted multitudes the Cause
@@ -4830,7 +4571,6 @@ Pursuing drive them out from God and bliss,
 Into thir place of punishment, the Gulf
 Of _Tartarus_, which ready opens wide
 His fiery _Chaos_ to receave thir fall.
-
 So spake the Sovran voice, and Clouds began
 To darken all the Hill, and smoak to rowl
 In duskie wreathes, reluctant flames, the signe
@@ -4889,7 +4629,6 @@ Came towring, armd in Adamant and Gold;
 _Abdiel_ that sight endur’d not, where he stood
 Among the mightiest, bent on highest deeds,
 And thus his own undaunted heart explores.
-
 O Heav’n! that such resemblance of the Highest
 Should yet remain, where faith and realtie
 Remain not; wherfore should not strength & might
@@ -4903,12 +4642,10 @@ Should win in Arms, in both disputes alike
 Victor; though brutish that contest and foule,
 When Reason hath to deal with force, yet so
 Most reason is that Reason overcome.
-
 So pondering, and from his armed Peers
 Forth stepping opposite, half way he met
 His daring foe, at this prevention more
 Incens’t, and thus securely him defi’d.
-
 Proud, art thou met? thy hope was to have reacht
 The highth of thy aspiring unoppos’d,
 The Throne of God unguarded, and his side
@@ -4927,8 +4664,7 @@ To thee not visible, when I alone
 Seemd in thy World erroneous to dissent
 From all: my Sect thou seest, now learn too late
 How few somtimes may know, when thousands err.
-
-  Whom the grand foe with scornful eye askance
+Whom the grand foe with scornful eye askance
 Thus answerd.  Ill for thee, but in wisht houre
 Of my revenge, first sought for thou returnst
 From flight, seditious Angel, to receave
@@ -4950,7 +4686,6 @@ Ministring Spirits, traind up in Feast and Song;
 Such hast thou arm’d, the Minstrelsie of Heav’n,
 Servilitie with freedom to contend,
 As both thir deeds compar’d this day shall prove.
-
 To whom in brief thus _Abdiel_ stern repli’d.
 Apostat, still thou errst, nor end wilt find
 Of erring, from the path of truth remote:
@@ -4969,7 +4704,6 @@ Behests obey, worthiest to be obey’d,
 Yet Chains in Hell, not Realms expect: mean while
 From mee returnd, as erst thou saidst, from flight,
 This greeting on thy impious Crest receive.
-
 So saying, a noble stroke he lifted high,
 Which hung not, but so swift with tempest fell
 On the proud Crest of _Satan_, that no sight,
@@ -5043,7 +4777,6 @@ Surceas’d, and glad as hoping here to end
 Intestine War in Heav’n, the arch foe subdu’d
 Or Captive drag’d in Chains, with hostile frown
 And visage all enflam’d first thus began.
-
 Author of evil, unknown till thy revolt,
 Unnam’d in Heav’n, now plenteous, as thou seest
 These Acts of hateful strife, hateful to all,
@@ -5063,7 +4796,6 @@ Thou and thy wicked crew; there mingle broiles,
 Ere this avenging Sword begin thy doome,
 Or som more sudden vengeance wing’d from God
 Precipitate thee with augmented paine.
-
 So spake the Prince of Angels; to whom thus
 The Adversarie.  Nor think thou with wind
 Of airie threats to aw whom yet with deeds
@@ -5079,7 +4811,6 @@ Thou fablest, here however to dwell free,
 If not to reign: mean while thy utmost force,
 And join him nam’d _Almightie_ to thy aid,
 I flie not, but have sought thee farr and nigh.
-
 They ended parle, and both addrest for fight
 Unspeakable; for who, though with the tongue
 Of Angels, can relate, or to what things
@@ -5138,7 +4869,6 @@ All Heart they live, all Head, all Eye, all Eare,
 All Intellect, all Sense, and as they please,
 They Limb themselves, and colour, shape or size
 Assume, as likes them best, condense or rare.
-
 Mean while in other parts like deeds deservd
 Memorial, where the might of _Gabriel_ fought,
 And with fierce Ensignes pierc’d the deep array
@@ -5171,7 +4901,6 @@ Illaudable, naught merits but dispraise
 And ignominie, yet to glorie aspires
 Vain glorious, and through infamie seeks fame:
 Therfore Eternal silence be thir doome.
-
 And now thir mightiest quelld, the battel swerv’d,
 With many an inrode gor’d; deformed rout
 Enter’d, and foul disorder; all the ground
@@ -5192,7 +4921,6 @@ Gave them above thir foes, not to have sinnd,
 Not to have disobei’d; in fight they stood
 Unwearied, unobnoxious to be pain’d
 By wound, though from thir place by violence mov’d.
-
 Now Night her course began, and over Heav’n
 Inducing darkness, grateful truce impos’d,
 And silence on the odious dinn of Warr:
@@ -5205,7 +4933,6 @@ _Satan_ with his rebellious disappeerd,
 Far in the dark dislodg’d, and void of rest,
 His Potentates to Councel call’d by night;
 And in the midst thus undismai’d began.
-
 O now in danger tri’d, now known in Armes
 Not to be overpowerd, Companions deare,
 Found worthy not of Libertie alone,
@@ -5234,7 +4961,6 @@ In Nature none: if other hidden cause
 Left them Superiour, while we can preserve
 Unhurt our mindes, and understanding sound,
 Due search and consultation will disclose.
-
 He sat; and in th’ assembly next upstood
 _Nisroc_, of Principalities the prime;
 As one he stood escap’t from cruel fight,
@@ -5258,7 +4984,6 @@ With what more forcible we may offend
 Our yet unwounded Enemies, or arme
 Our selves with like defence, to mee deserves
 No less then for deliverance what we owe.
-
 Whereto with look compos’d _Satan_ repli’d.
 Not uninvented that, which thou aright
 Beleivst so main to our success, I bring;
@@ -5327,7 +5052,6 @@ Under spred Ensignes moving nigh, in slow
 But firm Battalion; back with speediest Sail
 _Zephiel_, of Cherubim the swiftest wing,
 Came flying, and in mid Aire aloud thus cri’d.
-
 Arme, Warriours, Arme for fight, the foe at hand,
 Whom fled we thought, will save us long pursuit
 This day, fear not his flight; so thick a Cloud
@@ -5349,7 +5073,6 @@ On every side with shaddowing Squadrons Deep,
 To hide the fraud.  At interview both stood
 A while, but suddenly at head appeerd
 _Satan_: And thus was heard Commanding loud.
-
 Vangard, to Right and Left the Front unfould;
 That all may see who hate us, how we seek
 Peace and composure, and with open brest
@@ -5360,7 +5083,6 @@ Heav’n witness thou anon, while we discharge
 Freely our part: yee who appointed stand
 Do as you have in charge, and briefly touch
 What we propound, and loud that all may hear.
-
 So scoffing in ambiguous words, he scarce
 Had ended; when to Right and Left the Front
 Divided, and to either Flank retir’d.
@@ -5402,7 +5124,6 @@ In posture to displode thir second tire
 Of Thunder: back defeated to return
 They worse abhorr’d.  _Satan_ beheld thir plight,
 And to his Mates thus in derision call’d.
-
 O Friends, why come not on these Victors proud?
 Ere while they fierce were coming, and when wee,
 To entertain them fair with open Front
@@ -5414,7 +5135,6 @@ Somwhat extravagant and wilde, perhaps
 For joy of offerd peace: but I suppose
 If our proposals once again were heard
 We should compel them to a quick result.
-
 To whom thus _Belial_ in like gamesom mood.
 Leader, the terms we sent were terms of weight,
 Of hard contents, and full of force urg’d home,
@@ -5423,7 +5143,6 @@ And stumbl’d many, who receives them right,
 Had need from head to foot well understand;
 Not understood, this gift they have besides,
 They shew us when our foes walk not upright.
-
 So they among themselves in pleasant veine
 Stood scoffing, highthn’d in thir thoughts beyond
 All doubt of Victorie, eternal might
@@ -5476,7 +5195,6 @@ To honour his Anointed Son aveng’d
 Upon his enemies, and to declare
 All power on him transferr’d: whence to his Son
 Th’ Assessor of his Throne he thus began.
-
 Effulgence of my Glorie, Son belov’d,
 Son in whose face invisible is beheld
 Visibly, what by Deitie I am,
@@ -5516,12 +5234,10 @@ Pursue these sons of Darkness, drive them out
 From all Heav’ns bounds into the utter Deep:
 There let them learn, as likes them, to despise
 God and _Messiah_ his anointed King.
-
 He said, and on his Son with Rayes direct
 Shon full, he all his Father full exprest
 Ineffably into his face receiv’d,
 And thus the filial Godhead answering spake.
-
 O Father, O Supream of heav’nly Thrones,
 First, Highest, Holiest, Best, thou alwayes seekst
 To glorifie thy Son, I alwayes thee,
@@ -5600,7 +5316,6 @@ In universal ruin last, and now
 To final Battel drew, disdaining flight,
 Or faint retreat; when the great Son of God
 To all his Host on either hand thus spake.
-
 Stand still in bright array ye Saints, here stand
 Ye Angels arm’d, this day from Battel rest;
 Faithful hath been your Warfare, and of God
@@ -5624,7 +5339,6 @@ Or I alone against them, since by strength
 They measure all, of other excellence
 Not emulous, nor care who them excells;
 Nor other strife with them do I voutsafe.
-
 So spake the Son, and into terrour chang’d
 His count’nance too severe to be beheld
 And full of wrauth bent on his Enemies.
@@ -5668,7 +5382,6 @@ Strook them with horror backward, but far worse
 Urg’d them behind; headlong themselvs they threw
 Down from the verge of Heav’n, Eternal wrauth
 Burnt after them to the bottomless pit.
-
 Hell heard th’ unsufferable noise, Hell saw
 Heav’n ruining from Heav’n and would have fled
 Affrighted; but strict Fate had cast too deep
@@ -5695,7 +5408,6 @@ Triumphant through mid Heav’n, into the Courts
 And Temple of his mightie Father Thron’d
 On high; who into Glorie him receav’d,
 Where now he sits at the right hand of bliss.
-
 Thus measuring things in Heav’n by things on Earth
 At thy request, and that thou maist beware
 By what is past, to thee I have reveal’d
@@ -5716,17 +5428,6 @@ Thy weaker; let it profit thee to have heard
 By terrible Example the reward
 Of disobedience; firm they might have stood,
 Yet fell; remember, and fear to transgress.
-
-       THE END OF THE SIXTH BOOK.
-
-  PARADISE LOST.
-
-
-
-
-
-  BOOK VII.
-
 Descend from Heav’n _Urania_, by that name
 If rightly thou art call’d, whose Voice divine
 Following, above th’ _Olympian_ Hill I soare,
@@ -5766,7 +5467,6 @@ To rapture, till the savage clamor dround
 Both Harp and Voice; nor could the Muse defend
 Her Son.  So fail not thou, who thee implores:
 For thou art Heav’nlie, shee an empty dreame.
-
 Say Goddess, what ensu’d when _Raphael_,
 The affable Arch-angel, had forewarn’d
 _Adam_ by dire example to beware
@@ -5797,7 +5497,6 @@ Before his memorie, as one whose drouth
 Yet scarce allay’d still eyes the current streame,
 Whose liquid murmur heard new thirst excites,
 Proceeded thus to ask his Heav’nly Guest.
-
 Great things, and full of wonder in our eares,
 Farr differing from this World, thou hast reveal’d
 Divine Interpreter, by favour sent
@@ -5837,9 +5536,7 @@ Haste to thy audience, Night with her will bring
 Silence, and Sleep listning to thee will watch,
 Or we can bid his absence, till thy Song
 End, and dismiss thee ere the Morning shine.
-
 Thus _Adam_ his illustrous Guest besought:
-
 And thus the Godlike Angel answerd milde.
 This also thy request with caution askt
 Obtaine: though to recount Almightie works
@@ -5861,7 +5558,6 @@ Her Temperance over Appetite, to know
 In measure what the mind may well contain,
 Oppresses else with Surfet, and soon turns
 Wisdom to Folly, as Nourishment to Winde.
-
 Know then, that after _Lucifer_ from Heav’n
 (So call him, brighter once amidst the Host
 Of Angels, then that Starr the Starrs among)
@@ -5870,7 +5566,6 @@ Into his place, and the great Son returnd
 Victorious with his Saints, th’ Omnipotent
 Eternal Father from his Throne beheld
 Thir multitude, and to his Son thus spake.
-
 At least our envious Foe hath fail’d, who thought
 All like himself rebellious, by whose aid
 This inaccessible high strength, the seat
@@ -5906,7 +5601,6 @@ Though I uncircumscrib’d my self retire,
 And put not forth my goodness, which is free
 To act or not, Necessitie and Chance
 Approach not mee, and what I will is Fate.
-
 So spake th’ Almightie, and to what he spake
 His Word, the Filial Godhead, gave effect.
 Immediate are the Acts of God, more swift
@@ -5949,10 +5643,8 @@ Outrageous as a Sea, dark, wasteful, wilde,
 Up from the bottom turn’d by furious windes
 And surging waves, as Mountains to assault
 Heav’ns highth, and with the Center mix the Pole.
-
 Silence, ye troubl’d waves, and thou Deep, peace,
 Said then th’ Omnific Word, your discord end:
-
 Nor staid, but on the Wings of Cherubim
 Uplifted, in Paternal Glorie rode
 Farr into _Chaos_, and the World unborn;
@@ -5978,7 +5670,6 @@ Adverse to life: then founded, then conglob’d
 Like things to like, the rest to several place
 Disparted, and between spun out the Air,
 And Earth self-ballanc’t on her Center hung.
-
 Let ther be Light, said God, and forthwith Light
 Ethereal, first of things, quintessence pure
 Sprung from the Deep, and from her Native East
@@ -5997,7 +5688,6 @@ The hollow Universal Orb they fill’d,
 And touch’t thir Golden Harps, & hymning prais’d
 God and his works, Creatour him they sung,
 Both when first Eevning was, and when first Morn.
-
 Again, God said, let ther be Firmament
 Amid the Waters, and let it divide
 The Waters from the Waters: and God made
@@ -6013,7 +5703,6 @@ Of _Chaos_ farr remov’d, least fierce extreames
 Contiguous might distemper the whole frame:
 And Heav’n he nam’d the Firmament: So Eev’n
 And Morning _Chorus_ sung the second Day.
-
 The Earth was form’d, but in the Womb as yet
 Of Waters, Embryon immature involv’d,
 Appeer’d not: over all the face of Earth
@@ -6077,7 +5766,6 @@ Plant of the field, which e’re it was in the Earth
 God made, and every Herb, before it grew
 On the green stemm; God saw that it was good:
 So Eev’n and Morn recorded the Third Day.
-
 Again th’ Almightie spake: Let there be Lights
 High in th’ expanse of Heaven to divide
 The Day from Night; and let them be for Signes,
@@ -6126,7 +5814,6 @@ With thousand thousand Starres, that then appeer’d
 Spangling the Hemisphere: then first adornd
 With thir bright Luminaries that Set and Rose,
 Glad Eevning & glad Morn crownd the fourth day.
-
 And God said, let the Waters generate
 Reptil with Spawn abundant, living Soule:
 And let Fowle flie above the Earth, with wings
@@ -6189,7 +5876,6 @@ Adorns him, colour’d with the Florid hue
 Of Rainbows and Starrie Eyes.  The Waters thus
 With Fish replenisht, and the Aire with Fowle,
 Ev’ning and Morn solemniz’d the Fift day.
-
 The Sixt, and of Creation last arose
 With Eevning Harps and Mattin, when God said,
 Let th’ Earth bring forth Fowle living in her kinde,
@@ -6260,7 +5946,6 @@ And worship God Supream, who made him chief
 Of all his works: therefore the Omnipotent
 Eternal Father (For where is not hee
 Present) thus to his Son audibly spake.
-
 Let us make now Man in our image, Man
 In our similitude, and let them rule
 Over the Fish and Fowle of Sea and Aire,
@@ -6375,7 +6060,6 @@ Over his Works, on Earth, in Sea, or Air,
 And multiply a Race of Worshippers
 Holy and just: thrice happie if they know
 Thir happiness, and persevere upright.
-
 So sung they, and the Empyrean rung,
 With _Halleluiahs_: Thus was Sabbath kept.
 And thy request think now fulfill’d, that ask’d
@@ -6384,7 +6068,6 @@ And what before thy memorie was don
 From the beginning, that posteritie
 Informd by thee might know; if else thou seekst
 Aught, not surpassing human measure, say.
-
 To whom thus _Adam_ gratefully repli’d.
 What thanks sufficient, or what recompence
 Equal have I to render thee, Divine
@@ -6420,7 +6103,6 @@ Her end without least motion, and receaves,
 As Tribute such a sumless journey brought
 Of incorporeal speed, her warmth and light;
 Speed, to describe whose swiftness Number failes.
-
 So spake our Sire, and by his count’nance seemd
 Entring on studious thoughts abstruse, which _Eve_
 Perceaving where she sat retir’d in sight,
@@ -6448,7 +6130,6 @@ And from about her shot Darts of desire
 Into all Eyes to wish her still in sight.
 And _Raphael_ now to _Adam_’s doubt propos’d
 Benevolent and facil thus repli’d.
-
 To ask or search I blame thee not, for Heav’n
 Is as the Book of God before thee set,
 Wherein to read his wondrous Works, and learne
@@ -6562,7 +6243,6 @@ Dream not of other Worlds, what Creatures there
 Live, in what state, condition or degree,
 Contented that thus farr hath been reveal’d
 Not of Earth onely but of highest Heav’n.
-
 To whom thus _Adam_ cleerd of doubt, repli’d.
 How fully hast thou satisfi’d mee, pure
 Intelligence of Heav’n, Angel serene,
@@ -6601,7 +6281,6 @@ And hunger both, from labour, at the houre
 Of sweet repast; they satiate, and soon fill,
 Though pleasant, but thy words with Grace Divine
 Imbu’d, bring to thir sweetness no satietie.
-
 To whom thus _Raphael_ answer’d heav’nly meek.
 Nor are thy lips ungraceful, Sire of men,
 Nor tongue ineloquent; for God on thee
@@ -6634,7 +6313,6 @@ Glad we return’d up to the coasts of Light
 Ere Sabbath Eev’ning: so we had in charge.
 But thy relation now; for I attend,
 Pleas’d with thy words no less then thou with mine.
-
 So spake the Godlike Power, and thus our Sire.
 For Man to tell how human Life began
 Is hard; for who himself beginning knew?
@@ -6743,7 +6421,6 @@ Thir Nature, with such knowledg God endu’d
 My sudden apprehension: but in these
 I found not what me thought I wanted still;
 And to the Heav’nly vision thus presum’d.
-
 O by what Name, for thou above all these,
 Above mankinde, or aught then mankinde higher,
 Surpassest farr my naming, how may I
@@ -6756,7 +6433,6 @@ What happiness, who can enjoy alone,
 Or all enjoying, what contentment find?
 Thus I presumptuous; and the vision bright,
 As with a smile more bright’nd, thus repli’d.
-
 What call’st thou solitude, is not the Earth
 With various living creatures, and the Aire
 Replenisht, and all these at thy command
@@ -6767,7 +6443,6 @@ Find pastime, and beare rule; thy Realm is large.
 So spake the Universal Lord, and seem’d
 So ordering.  I with leave of speech implor’d,
 And humble deprecation thus repli’d.
-
 Let not my words offend thee, Heav’nly Power,
 My Maker, be propitious while I speak.
 Hast thou not made me here thy substitute,
@@ -6787,7 +6462,6 @@ So fitly them in pairs thou hast combin’d;
 Much less can Bird with Beast, or Fish with Fowle
 So well converse, nor with the Ox the Ape;
 Wors then can Man with Beast, and least of all.
-
 Whereto th’ Almighty answer’d, not displeas’d.
 A nice and suttle happiness I see
 Thou to thy self proposest, in the choice
@@ -6802,7 +6476,6 @@ How have I then with whom to hold converse
 Save with the Creatures which I made, and those
 To me inferiour, infinite descents
 Beneath what other Creatures are to thee?
-
 He ceas’d, I lowly answer’d.  To attaine
 The highth and depth of thy Eternal wayes
 All human thoughts come short, Supream of things;
@@ -6828,7 +6501,6 @@ From prone, nor in thir wayes complacence find.
 Thus I embold’nd spake, and freedom us’d
 Permissive, and acceptance found, which gain’d
 This answer from the gratious voice Divine.
-
 Thus farr to try thee, _Adam_, I was pleas’d,
 And finde thee knowing not of Beasts alone,
 Which thou hast rightly nam’d, but of thy self,
@@ -6844,7 +6516,6 @@ To see how thou could’st judge of fit and meet:
 What next I bring shall please thee, be assur’d,
 Thy likeness, thy fit help, thy other self,
 Thy wish, exactly to thy hearts desire.
-
 Hee ended, or I heard no more, for now
 My earthly by his Heav’nly overpowerd,
 Which it had long stood under, streind to the highth
@@ -6884,7 +6555,6 @@ Of nuptial Sanctitie and marriage Rites:
 Grace was in all her steps, Heav’n in her Eye,
 In every gesture dignitie and love.
 I overjoyd could not forbear aloud.
-
 This turn hath made amends; thou hast fulfill’d
 Thy words, Creator bounteous and benigne,
 Giver of all things faire, but fairest this
@@ -6894,7 +6564,6 @@ Before me; Woman is her Name, of Man
 Extracted; for this cause he shall forgoe
 Father and Mother, and to his Wife adhere;
 And they shall be one Flesh, one Heart, one Soule.
-
 She heard me thus, and though divinely brought,
 Yet Innocence and Virgin Modestie,
 Her vertue and the conscience of her worth,
@@ -6956,7 +6625,6 @@ Greatness of mind and nobleness thir seat
 Build in her loveliest, and create an awe
 About her, as a guard Angelic plac’t.
 To whom the Angel with contracted brow.
-
 Accuse not Nature, she hath don her part;
 Do thou but thine, and be not diffident
 Of Wisdom, she deserts thee not, if thou
@@ -6991,7 +6659,6 @@ In Reason, and is judicious, is the scale
 By which to heav’nly Love thou maist ascend,
 Not sunk in carnal pleasure, for which cause
 Among the Beasts no Mate for thee was found.
-
 To whom thus half abash’t _Adam_ repli’d.
 Neither her out-side formd so fair, nor aught
 In procreation common to all kindes
@@ -7015,7 +6682,6 @@ Bear with me then, if lawful what I ask;
 Love not the heav’nly Spirits, and how thir Love
 Express they, by looks onely, or do they mix
 Irradiance, virtual or immediate touch?
-
 To whom the Angel with a smile that glow’d
 Celestial rosie red, Loves proper hue,
 Answer’d.  Let it suffice thee that thou know’st
@@ -7042,7 +6708,6 @@ And all the Blest: stand fast; to stand or fall
 Free in thine own Arbitrement it lies.
 Perfet within, no outward aid require;
 And all temptation to transgress repel.
-
 So saying, he arose; whom _Adam_ thus
 Follow’d with benediction.  Since to part,
 Go heavenly Guest, Ethereal Messenger,
@@ -7051,20 +6716,8 @@ Gentle to me and affable hath been
 Thy condescension, and shall be honour’d ever
 With grateful Memorie: thou to mankind
 Be good and friendly still, and oft return.
-
 So parted they, the Angel up to Heav’n
 From the thick shade, and _Adam_ to his Bowre.
-
-       THE END OF THE SEVENTH BOOK.
-
-  PARADISE LOST
-
-
-
-
-
-  BOOK VIII.
-
 No more of talk where God or Angel Guest
 With Man, as with his Friend, familiar us’d
 To sit indulgent, and with him partake
@@ -7112,7 +6765,6 @@ That name, unless an age too late, or cold
 Climat, or Years damp my intended wing
 Deprest, and much they may, if all be mine,
 Not Hers who brings it nightly to my Ear.
-
 The Sun was sunk, and after him the Starr
 Of _Hesperus_, whose Office is to bring
 Twilight upon the Earth, short Arbiter
@@ -7164,7 +6816,6 @@ Doubt might beget of Diabolic pow’r
 Active within beyond the sense of brute.
 Thus he resolv’d, but first from inward griefe
 His bursting passion into plaints thus pour’d:
-
 O Earth, how like to Heav’n, if not preferrd
 More justly, Seat worthier of Gods, as built
 With second thoughts, reforming what was old!
@@ -7245,7 +6896,6 @@ Provokes my envie, this new Favorite
 Of Heav’n, this Man of Clay, Son of despite,
 Whom us the more to spite his Maker rais’d
 From dust: spite then with spite is best repaid.
-
 So saying, through each Thicket Danck or Drie,
 Like a black mist low creeping, he held on
 His midnight search, where soonest he might finde
@@ -7272,7 +6922,6 @@ Then commune how that day they best may ply
 Thir growing work: for much thir work outgrew
 The hands dispatch of two Gardning so wide.
 And _Eve_ first to her Husband thus began.
-
 _Adam_, well may we labour still to dress
 This Garden, still to tend Plant, Herb and Flour.
 Our pleasant task enjoyn’d, but till more hands
@@ -7294,7 +6943,6 @@ Looks intervene and smiles, or object new
 Casual discourse draw on, which intermits
 Our dayes work brought to little, though begun
 Early, and th’ hour of Supper comes unearn’d.
-
 To whom mild answer _Adam_ thus return’d.
 Sole _Eve_, Associate sole, to me beyond
 Compare above all living Creatures deare,
@@ -7339,11 +6987,9 @@ That gave thee being, stil shades thee and protects.
 The Wife, where danger or dishonour lurks,
 Safest and seemliest by her Husband staies,
 Who guards her, or with her the worst endures.
-
 To whom the Virgin Majestie of _Eve_,
 As one who loves, and some unkindness meets,
 With sweet austeer composure thus reply’d.
-
 Ofspring of Heav’n and Earth, and all Earths Lord,
 That such an enemie we have, who seeks
 Our ruin, both by thee informd I learne,
@@ -7361,7 +7007,6 @@ Thy equal fear that my firm Faith and Love
 Can by his fraud be shak’n or seduc’t;
 Thoughts, which how found they harbour in thy Brest,
 _Adam_, misthought of her to thee so dear?
-
 To whom with healing words _Adam_ reply’d.
 Daughter of God and Man, immortal _Eve_,
 For such thou art, from sin and blame entire:
@@ -7390,12 +7035,10 @@ Would utmost vigor raise, and rais’d unite.
 Why shouldst not thou like sense within thee feel
 When I am present, and thy trial choose
 With me, best witness of thy Vertue tri’d.
-
 So spake domestick _Adam_ in his care
 And Matrimonial Love, but _Eve_, who thought
 Less attributed to her Faith sincere,
 Thus her reply with accent sweet renewd.
-
 If this be our condition, thus to dwell
 In narrow circuit strait’nd by a Foe,
 Suttle or violent, we not endu’d
@@ -7416,7 +7059,6 @@ Left so imperfet by the Maker wise,
 As not secure to single or combin’d.
 Fraile is our happiness, if this be so,
 And _Eden_ were no _Eden_ thus expos’d.
-
 To whom thus _Adam_ fervently repli’d.
 O Woman, best are all things as the will
 Of God ordaind them, his creating hand
@@ -7451,10 +7093,8 @@ Go; for thy stay, not free, absents thee more;
 Go in thy native innocence, relie
 On what thou hast of vertue, summon all,
 For God towards thee hath done his part, do thine.
-
 So spake the Patriarch of Mankinde, but _Eve_
 Persisted, yet submiss, though last, repli’d.
-
 With thy permission then, and thus forewarnd
 Chiefly by what thy own last reasoning words
 Touchd onely, that our trial, when least sought,
@@ -7550,7 +7190,6 @@ And tortures him now more, the more he sees
 Of pleasure not for him ordain’d: then soon
 Fierce hate he recollects, and all his thoughts
 Of mischief, gratulating, thus excites.
-
 Thoughts, whither have he led me, with what sweet
 Compulsion thus transported to forget
 What hither brought us, hate, not love, nor hope
@@ -7572,7 +7211,6 @@ Not terrible, though terrour be in Love
 And beautie, not approacht by stronger hate,
 Hate stronger, under shew of Love well feign’d,
 The way which to her ruin now I tend.
-
 So spake the Enemie of Mankind, enclos’d
 In Serpent, Inmate bad, and toward _Eve_
 Address’d his way, not with indented wave,
@@ -7611,7 +7249,6 @@ The Eye of _Eve_ to mark his play; he glad
 Of her attention gaind, with Serpent Tongue
 Organic, or impulse of vocal Air,
 His fraudulent temptation thus began.
-
 Wonder not, sovran Mistress, if perhaps
 Thou canst, who art sole Wonder, much less arm
 Thy looks, the Heav’n of mildness, with disdain,
@@ -7629,7 +7266,6 @@ Half what in thee is fair, one man except,
 Who sees thee? (and what is one?) who shouldst be seen
 A Goddess among Gods, ador’d and serv’d
 By Angels numberless, thy daily Train.
-
 So gloz’d the Tempter, and his Proem tun’d;
 Into the Heart of _Eve_ his words made way,
 Though at the voice much marveling; at length
@@ -7648,7 +7284,6 @@ How cam’st thou speakable of mute, and how
 To me so friendly grown above the rest
 Of brutal kind, that daily are in sight?
 Say, for such wonder claims attention due.
-
 To whom the guileful Tempter thus reply’d.
 Empress of this fair World, resplendent _Eve_,
 Easie to mee it is to tell thee all
@@ -7695,10 +7330,8 @@ Equivalent or second, which compel’d
 Mee thus, though importune perhaps, to come
 And gaze, and worship thee of right declar’d
 Sovran of Creatures, universal Dame.
-
 So talk’d the spirited sly Snake; and _Eve_
 Yet more amaz’d unwarie thus reply’d.
-
 Serpent, thy overpraising leaves in doubt
 The vertue of that Fruit, in thee first prov’d:
 But say, where grows the Tree, from hence how far?
@@ -7709,14 +7342,12 @@ As leaves a greater store of Fruit untoucht,
 Still hanging incorruptible, till men
 Grow up to thir provision, and more hands
 Help to disburden Nature of her Bearth.
-
 To whom the wilie Adder, blithe and glad.
 Empress, the way is readie, and not long,
 Beyond a row of Myrtles, on a Flat,
 Fast by a Fountain, one small Thicket past
 Of blowing Myrrh and Balme; if thou accept
 My conduct, I can bring thee thither soon.
-
 Lead then, said _Eve_.  Hee leading swiftly rowld
 In tangles, and make intricate seem strait,
 To mischief swift.  Hope elevates, and joy
@@ -7733,7 +7364,6 @@ So glister’d the dire Snake and into fraud
 Led _Eve_ our credulous Mother, to the Tree
 Of prohibition, root of all our woe;
 Which when she saw, thus to her guide she spake.
-
 Serpent, we might have spar’d our coming hither,
 Fruitless to me, though Fruit be here to excess,
 The credit of whose vertue rest with thee,
@@ -7742,18 +7372,15 @@ But of this Tree we may not taste nor touch;
 God so commanded, and left that Command
 Sole Daughter of his voice; the rest, we live
 Law to our selves, our Reason is our Law.
-
 To whom the Tempter guilefully repli’d.
 Indeed? hath God then said that of the Fruit
 Of all these Garden Trees ye shall not eate,
 Yet Lords declar’d of all in Earth or Aire?
-
 To whom thus _Eve_ yet sinless.  Of the Fruit
 Of each Tree in the Garden we may eate,
 But of the Fruit of this fair Tree amidst
 The Garden, God hath said, Ye shall not eate
 Thereof, nor shall ye touch it, least ye die.
-
 She scarse had said, though brief, when now more bold
 The Tempter, but with shew of Zeale and Love
 To Man, and indignation at his wrong,
@@ -7769,7 +7396,6 @@ Somtimes in highth began, as no delay
 Of Preface brooking through his Zeal of Right.
 So standing, moving, or to highth upgrown
 The Tempter all impassiond thus began.
-
 O Sacred, Wise, and Wisdom-giving Plant,
 Mother of Science, Now I feel thy Power
 Within me cleere, not onely to discerne
@@ -7824,7 +7450,6 @@ Or is it envie, and can envie dwell
 In heav’nly brests? these, these and many more
 Causes import your need of this fair Fruit.
 Goddess humane, reach then, and freely taste.
-
 He ended, and his words replete with guile
 Into her heart too easie entrance won:
 Fixt on the Fruit she gaz’d, which to behold
@@ -7837,7 +7462,6 @@ So savorie of that Fruit, which with desire,
 Inclinable now grown to touch or taste,
 Sollicited her longing eye; yet first
 Pausing a while, thus to her self she mus’d.
-
 Great are thy Vertues, doubtless, best of Fruits,
 Though kept from Man, & worthy to be admir’d,
 Whose taste, too long forborn, at first assay
@@ -7873,7 +7497,6 @@ Here grows the Cure of all, this Fruit Divine,
 Fair to the Eye, inviting to the Taste,
 Of vertue to make wise: what hinders then
 To reach, and feed at once both Bodie and Mind?
-
 So saying, her rash hand in evil hour
 Forth reaching to the Fruit, she pluck’d, she eat:
 Earth felt the wound, and Nature from her seat
@@ -7889,7 +7512,6 @@ Greedily she ingorg’d without restraint,
 And knew not eating Death: Satiate at length,
 And hight’nd as with Wine, jocond and boon,
 Thus to her self she pleasingly began.
-
 O Sovran, vertuous, precious of all Trees
 In Paradise, of operation blest
 To Sapience, hitherto obscur’d, infam’d,
@@ -7929,7 +7551,6 @@ A death to think.  Confirm’d then I resolve,
 _Adam_ shall share with me in bliss or woe:
 So dear I love him, that with him all deaths
 I could endure; without him live no life.
-
 So saying, from the Tree her step she turnd,
 But first low Reverence don, as to the power
 That dwelt within, whose presence had infus’d
@@ -7952,7 +7573,6 @@ New gatherd, and ambrosial smell diffus’d.
 To him she hasted, in her face excuse
 Came Prologue, and Apologie to prompt,
 Which with bland words at will she thus addrest.
-
 Hast thou not wonderd, _Adam_, at my stay?
 Thee I have misst, and thought it long, depriv’d
 Thy presence, agonie of love till now
@@ -7983,7 +7603,6 @@ May joyne us, equal Joy, as equal Love;
 Least thou not tasting, different degree
 Disjoyne us, and I then too late renounce
 Deitie for thee, when Fate will not permit.
-
 Thus _Eve_ with Countnance blithe her storie told;
 But in her Cheek distemper flushing glowd.
 On th’ other side, _Adam_, soon as he heard
@@ -7994,7 +7613,6 @@ From his slack hand the Garland wreath’d for _Eve_
 Down drop’d, and all the faded Roses shed:
 Speechless he stood and pale, till thus at length
 First to himself he inward silence broke.
-
 O fairest of Creation, last and best
 Of all Gods Works, Creature in whom excell’d
 Whatever can to fight or thought be found,
@@ -8016,12 +7634,10 @@ Would never from my heart; no no, I feel
 The Link of Nature draw me: Flesh of Flesh,
 Bone of my Bone thou art, and from thy State
 Mine never shall be parted, bliss or woe.
-
 So having said, as one from sad dismay
 Recomforted, and after thoughts disturbd
 Submitting to what seemd remediless,
 Thus in calme mood his Words to _Eve_ he turnd.
-
 Bold deed thou hast presum’d, adventrous _Eve_,
 And peril great provok’t, who thus hast dar’d
 Had it bin onely coveting to Eye
@@ -8061,7 +7677,6 @@ The Bond of Nature draw me to my owne,
 My own in thee, for what thou art is mine;
 Our State cannot be severd, we are one,
 One Flesh; to loose thee were to loose my self.
-
 So _Adam_, and thus _Eve_ to him repli’d.
 O glorious trial of exceeding Love,
 Illustrious evidence, example high!
@@ -8092,7 +7707,6 @@ Taste so Divine, that what of sweet before
 Hath toucht my sense, flat seems to this, and harsh.
 On my experience, _Adam_, freely taste,
 And fear of Death deliver to the Windes.
-
 So saying, she embrac’d him, and for joy
 Tenderly wept, much won that he his Love
 Had so enobl’d, as of choice to incurr
@@ -8120,7 +7734,6 @@ Carnal desire enflaming, hee on _Eve_
 Began to cast lascivious Eyes, she him
 As wantonly repaid; in Lust they burne:
 Till _Adam_ thus ’gan _Eve_ to dalliance move.
-
 _Eve_, now I see thou art exact of taste,
 And elegant, of Sapience no small part,
 Since to each meaning savour we apply,
@@ -8138,7 +7751,6 @@ I saw thee first and wedded thee, adorn’d
 With all perfections, so enflame my sense
 With ardor to enjoy thee, fairer now
 Then ever, bountie of this vertuous Tree.
-
 So said he, and forbore not glance or toy
 Of amorous intent, well understood
 Of _Eve_, whose Eye darted contagious Fire.
@@ -8172,7 +7784,6 @@ Of all thir vertue: silent, and in face
 Confounded long they sate, as struck’n mute,
 Till _Adam_, though not less then _Eve_ abasht,
 At length gave utterance to these words constraind.
-
 O _Eve_, in evil hour thou didst give care
 To that false Worm, of whomsoever taught
 To counterfet Mans voice, true in our Fall,
@@ -8205,7 +7816,6 @@ Some Tree whose broad smooth Leaves together sowd,
 And girded on our loyns, may cover round
 Those middle parts, that this new commer, Shame,
 There sit not, and reproach us as unclean.
-
 So counsel’d hee, and both together went
 Into the thickest Wood, there soon they chose
 The Figtree, not that kind for Fruit renown’d,
@@ -8241,7 +7851,6 @@ Usurping over sovran Reason claimd
 Superior sway: From thus distemperd brest,
 _Adam_, estrang’d in look and alterd stile,
 Speech intermitted thus to _Eve_ renewd.
-
 Would thou hadst heark’nd to my words, & stai’d
 With me, as I besought thee, when that strange
 Desire of wandring this unhappie Morn,
@@ -8251,7 +7860,6 @@ Of all our good, sham’d, naked, miserable.
 Let none henceforth seek needless cause to approve
 The Faith they owe; when earnestly they seek
 Such proof, conclude, they then begin to faile.
-
 To whom soon mov’d with touch of blame thus _Eve_.
 What words have past thy Lips, _Adam_ severe,
 Imput’st thou that to my default, or will
@@ -8271,7 +7879,6 @@ Too facil then thou didst not much gainsay,
 Nay, didst permit, approve, and fair dismiss.
 Hadst thou bin firm and fixt in thy dissent,
 Neither had I transgress’d, nor thou with mee.
-
 To whom then first incenst _Adam_ repli’d.
 Is this the Love, is the recompence
 Of mine to thee, ingrateful _Eve_, exprest
@@ -8297,21 +7904,9 @@ Him who to worth in Women overtrusting
 Lets her Will rule; restraint she will not brook,
 And left to her self, if evil thence ensue,
 Shee first his weak indulgence will accuse.
-
 Thus they in mutual accusation spent
 The fruitless hours, but neither self-condemning
 And of thir vain contest appeer’d no end.
-
-       THE END OF THE EIGHTH BOOK.
-
-  PARADISE LOST
-
-
-
-
-
-  BOOK IX.
-
 Meanwhile the hainous and despightfull act
 Of _Satan_ done in Paradise, and how
 Hee in the Serpent had perverted _Eve_,
@@ -8345,7 +7940,6 @@ With righteous plea, thir utmost vigilance,
 And easily approv’d; when the most High
 Eternal Father from his secret Cloud,
 Amidst in Thunder utter’d thus his voice.
-
 Assembl’d Angels, and ye Powers return’d
 From unsuccessful charge, be not dismaid,
 Nor troubl’d at these tidings from the Earth,
@@ -8375,13 +7969,11 @@ Mercie collegue with Justice, sending thee
 Mans Friend, his Mediator, his design’d
 Both Ransom and Redeemer voluntarie,
 And destin’d Man himself to judge Man fall’n.
-
 So spake the Father, and unfoulding bright
 Toward the right hand his Glorie, on the Son
 Blaz’d forth unclouded Deitie; he full
 Resplendent all his Father manifest
 Express’d, and thus divinely answer’d milde.
-
 Father Eternal, thine is to decree,
 Mine both in Heav’n and Earth to do thy will
 Supream, that thou in mee thy Son belov’d
@@ -8399,7 +7991,6 @@ Are to behold the Judgement, but the judg’d,
 Those two; the third best absent is condemn’d,
 Convict by flight, and Rebel to all Law
 Conviction to the Serpent none belongs.
-
 Thus saying, from his radiant Seat he rose
 Of high collateral glorie: him Thrones and Powers,
 Princedoms, and Dominations ministrant
@@ -8418,7 +8009,6 @@ Brought to thir Ears, while day declin’d, they heard
 And from his presence hid themselves among
 The thickest Trees, both Man and Wife, till God
 Approaching, thus to _Adam_ call’d aloud.
-
 Where art thou _Adam_, wont with joy to meet
 My coming seen far off?  I miss thee here,
 Not pleas’d, thus entertaind with solitude,
@@ -8432,17 +8022,14 @@ Or to each other, but apparent guilt,
 And shame, and perturbation, and despaire,
 Anger, and obstinacie, and hate, and guile.
 Whence _Adam_ faultring long, thus answer’d brief.
-
 I heard thee in the Garden, and of thy voice
 Affraid, being naked, hid my self.  To whom
 The gracious Judge without revile repli’d.
-
 My voice thou oft hast heard, and hast not fear’d,
 But still rejoyc’t, how is it now become
 So dreadful to thee? that thou art naked, who
 Hath told thee? hast thou eaten of the Tree
 Whereof I gave thee charge thou shouldst not eat?
-
 To whom thus _Adam_ sore beset repli’d.
 O Heav’n! in evil strait this day I stand
 Before my Judge, either to undergoe
@@ -8463,7 +8050,6 @@ That from her hand I could suspect no ill,
 And what she did, whatever in it self,
 Her doing seem’d to justifie the deed;
 Shee gave me of the Tree, and I did eate.
-
 To whom the sovran Presence thus repli’d.
 Was shee thy God, that her thou didst obey
 Before his voice, or was shee made thy guide,
@@ -8477,16 +8063,12 @@ Thy Love, not thy Subjection, and her Gifts
 Were such as under Government well seem’d,
 Unseemly to beare rule, which was thy part
 And person, had’st thou known thy self aright.
-
 So having said, he thus to _Eve_ in few:
 Say Woman, what is this which thou hast done?
-
 To whom sad _Eve_ with shame nigh overwhelm’d,
 Confessing soon, yet not before her Judge
 Bold or loquacious, thus abasht repli’d.
-
 The Serpent me beguil’d and I did eate.
-
 Which when the Lord God heard, without delay
 To Judgement he proceeded on th’ accus’d
 Serpent though brute, unable to transferre
@@ -8499,7 +8081,6 @@ Nor alter’d his offence; yet God at last
 To Satan first in sin his doom apply’d,
 Though in mysterious terms, judg’d as then best:
 And on the Serpent thus his curse let fall.
-
 Because thou hast done this, thou art accurst
 Above all Cattel, each Beast of the Field;
 Upon thy Belly groveling thou shalt goe,
@@ -8507,7 +8088,6 @@ And dust shalt eat all the days of thy Life.
 Between Thee and the Woman I will put
 Enmitie, and between thine and her Seed;
 Her Seed shall bruise thy head, thou bruise his heel.
-
 So spake this Oracle, then verifi’d
 When _Jesus_ son of _Mary_ second _Eve_,
 Saw Satan fall like Lightning down from Heav’n,
@@ -8519,12 +8099,10 @@ The Realme it self of Satan long usurpt,
 Whom he shall tread at last under our feet;
 Eevn hee who now foretold his fatal bruise,
 And to the Woman thus his Sentence turn’d.
-
 Thy sorrow I will greatly multiplie
 By thy Conception; Children thou shalt bring
 In sorrow forth, and to thy Husbands will
 Thine shall submit, hee over thee shall rule.
-
 On _Adam_ last thus judgement he pronounc’d.
 Because thou hast heark’nd to the voice of thy Wife,
 And eaten of the Tree concerning which
@@ -8537,8 +8115,7 @@ In the sweat of thy Face shalt thou eate Bread,
 Till thou return unto the ground, for thou
 Out of the ground wast taken, know thy Birth,
 For dust thou art, and shalt to dust returne.
-
- So judg’d he Man, both Judge and Saviour sent,
+So judg’d he Man, both Judge and Saviour sent,
 And th’ instant stroke of Death denounc’t that day
 Remov’d farr off; then pittying how they stood
 Before him naked to the aire, that now
@@ -8564,7 +8141,6 @@ In counterview within the Gates, that now
 Stood open wide, belching outrageous flame
 Farr into _Chaos_, since the Fiend pass’d through,
 Sin opening, who thus now to Death began.
-
 O Son, why sit we here each other viewing
 Idlely, while Satan our great Author thrives
 In other Worlds, and happier Seat provides
@@ -8594,7 +8170,6 @@ Easing thir passage hence, for intercourse,
 Or transmigration, as thir lot shall lead.
 Nor can I miss the way, so strongly drawn
 By this new felt attraction and instinct.
-
 Whom thus the meager Shadow answerd soon.
 Goe whither Fate and inclination strong
 Leads thee, I shall not lag behinde, nor erre
@@ -8603,7 +8178,6 @@ Of carnage, prey innumerable, and taste
 The savour of Death from all things there that live:
 Nor shall I to the work thou enterprisest
 Be wanting, but afford thee equal aid.
-
 So saying, with delight he snuff’d the smell
 Of mortal change on Earth.  As when a flock
 Of ravenous Fowl, though many a League remote,
@@ -8686,7 +8260,6 @@ Great joy was at thir meeting, and at sight
 Of that stupendious Bridge his joy encreas’d.
 Long hee admiring stood, till Sin, his faire
 Inchanting Daughter, thus the silence broke.
-
 O Parent, these are thy magnific deeds,
 Thy Trophies, which thou view’st as not thine own,
 Thou art thir Author and prime Architect:
@@ -8716,7 +8289,6 @@ And henceforth Monarchie with thee divide
 Of all things, parted by th’ Empyreal bounds,
 His Quadrature, from thy Orbicular World,
 Or trie thee now more dang’rous to his Throne.
-
 Whom thus the Prince of Darkness answerd glad.
 Fair Daughter, and thou Son and Grandchild both,
 High proof ye now have giv’n to be the Race
@@ -8744,7 +8316,6 @@ My hold of this new Kingdom all depends,
 Through Sin to Death expos’d by my exploit.
 If your joynt power prevaile, th’ affaires of Hell
 No detriment need feare, goe and be strong.
-
 So saying he dismiss’d them, they with speed
 Thir course through thickest Constellations held
 Spreading thir bane; the blasted Starrs lookt wan,
@@ -8795,7 +8366,6 @@ Forth rush’d in haste the great consulting Peers,
 Rais’d from thir dark _Divan_, and with like joy
 Congratulant approach’d him, who with hand
 Silence, and with these words attention won.
-
 Thrones, Dominations, Princedoms, Vertues, Powers,
 For in possession such, not onely of right,
 I call ye and declare ye now, returnd
@@ -8840,7 +8410,6 @@ A World who would not purchase with a bruise,
 Or much more grievous pain?  Ye have th’ account
 Of my performance: What remaines, ye Gods,
 But up and enter now into full bliss.
-
 So having said, a while he stood, expecting
 Thir universal shout and high applause
 To fill his eare, when contrary he hears
@@ -8928,20 +8497,17 @@ Once actual, now in body, and to dwell
 Habitual habitant; behind her _Death_
 Close following pace for pace, not mounted yet
 On his pale Horse: to whom _Sin_ thus began.
-
 Second of _Satan_ sprung, all conquering Death,
 What thinkst thou of our Empire now, though earnd
 With travail difficult, not better farr
 Then stil at Hels dark threshold to have sate watch,
 Unnam’d, undreaded, and thy self half starv’d?
-
 Whom thus the Sin-born Monster answerd soon.
 To mee, who with eternal Famin pine,
 Alike is Hell, or Paradise, or Heaven,
 There best, where most with ravin I may meet;
 Which here, though plenteous, all too little seems
 To stuff this Maw, this vast unhide-bound Corps.
-
 To whom th’ incestuous Mother thus repli’d.
 Thou therefore on these Herbs, and Fruits, & Flours
 Feed first, on each Beast next, and Fish, and Fowle,
@@ -8950,14 +8516,12 @@ The Sithe of Time mowes down, devour unspar’d,
 Till I in Man residing through the Race,
 His thoughts, his looks, words, actions all infect,
 And season him thy last and sweetest prey.
-
 This said, they both betook them several wayes,
 Both to destroy, or unimmortal make
 All kinds, and for destruction to mature
 Sooner or later; which th’ Almightie seeing,
 From his transcendent Seat the Saints among,
 To those bright Orders utterd thus his voice.
-
 See with what heat these Dogs of Hell advance
 To waste and havoc yonder VVorld, which I
 So fair and good created, and had still
@@ -8983,7 +8547,6 @@ For ever, and seal up his ravenous Jawes.
 Then Heav’n and Earth renewd shall be made pure
 To sanctitie that shall receive no staine:
 Till then the Curse pronounc’t on both precedes.
-
 Hee ended, and the heav’nly Audience loud
 Sung _Halleluia_, as the sound of Seas,
 Through multitude that sung: Just are thy ways,
@@ -9063,7 +8626,6 @@ Alreadie in part, though hid in gloomiest shade,
 To sorrow abandond, but worse felt within,
 And in a troubl’d Sea of passion tost,
 Thus to disburd’n sought with sad complaint.
-
 O miserable of happie! is this the end
 Of this new glorious World, and mee so late
 The Glory of that Glory, who now becom
@@ -9189,7 +8751,6 @@ To _Satan_ onely like both crime and doom.
 O Conscience, into what Abyss of fears
 And horrors hast thou driv’n me; out of which
 I find no way, from deep to deeper plung’d!
-
 Thus _Adam_ to himself lamented loud
 Through the still Night, now now, as ere man fell,
 Wholsom and cool, and mild, but with black Air
@@ -9212,7 +8773,6 @@ VVhom thus afflicted when sad _Eve_ beheld,
 Desolate where she sate, approaching nigh,
 Soft words to his fierce passion she assay’d:
 But her with stern regard he thus repell’d.
-
 Out of my sight, thou Serpent, that name best
 Befits thee with him leagu’d, thy self as false
 And hateful; nothing wants, but that thy shape,
@@ -9255,13 +8815,11 @@ Shall meet, alreadie linkt and Wedlock-bound
 To a fell Adversarie, his hate or shame:
 Which infinite calamitie shall cause
 To humane life, and houshold peace confound.
-
 He added not, and from her turn’d, but _Eve_
 Not so repulst, with Tears that ceas’d not flowing,
 And tresses all disorderd, at his feet
 Fell humble, and imbracing them, besaught
 His peace, and thus proceeded in her plaint.
-
 Forsake me not thus, _Adam_, witness Heav’n
 What love sincere, and reverence in my heart
 I beare thee, and unweeting have offended,
@@ -9285,7 +8843,6 @@ There with my cries importune Heaven, that all
 The sentence from thy head remov’d may light
 On me, sole cause to thee of all this woe,
 Mee mee onely just object of his ire.
-
 She ended weeping, and her lowlie plight,
 Immoveable till peace obtain’d from fault
 Acknowledg’d and deplor’d, in _Adam_ wraught
@@ -9296,7 +8853,6 @@ Creature so faire his reconcilement seeking,
 His counsel whom she had displeas’d, his aide;
 As one disarm’d, his anger all he lost,
 And thus with peaceful words uprais’d her soon.
-
 Unwarie, and too desirous, as before,
 So now of what thou knowst not, who desir’st
 The punishment all on thy self; alas,
@@ -9316,7 +8872,6 @@ Since this days Death denounc’t, if ought I see,
 Will prove no sudden, but a slow-pac’t evill,
 A long days dying to augment our paine,
 And to our Seed (O hapless Seed!) deriv’d.
-
 To whom thus _Eve_, recovering heart, repli’d.
 _Adam_, by sad experiment I know
 How little weight my words with thee can finde,
@@ -9358,14 +8913,12 @@ Why stand we longer shivering under feares,
 That shew no end but Death, and have the power,
 Of many wayes to die the shortest choosing,
 Destruction with destruction to destroy.
-
 She ended heer, or vehement despaire
 Broke off the rest; so much of Death her thoughts
 Had entertaind, as di’d her Cheeks with pale.
 But _Adam_ with such counsel nothing sway’d,
 To better hopes his more attentive minde
 Labouring had rais’d, and thus to _Eve_ repli’d.
-
 _Eve_, thy contempt of life and pleasure seems
 To argue in thee somthing more sublime
 And excellent then what thy minde contemnes;
@@ -9450,7 +9003,6 @@ Undoubtedly he will relent and turn
 From his displeasure; in whose look serene,
 VVhen angry most he seem’d and most severe,
 VVhat else but favor, grace, and mercie shon?
-
 So spake our Father penitent, nor _Eve_
 Felt less remorse: they forthwith to the place
 Repairing where he judg’d them prostrate fell
@@ -9459,17 +9011,6 @@ Humbly thir faults, and pardon beg’d, with tears
 VVatering the ground, and with thir sighs the Air
 Frequenting, sent from hearts contrite, in sign
 Of sorrow unfeign’d, and humiliation meek.
-
-       THE END OF THE NINTH BOOK.
-
-  PARADISE LOST.
-
-
-
-
-
-  BOOK X.
-
 Thus they in lowliest plight repentant stood
 Praying, for from the Mercie-seat above
 Prevenient Grace descending had remov’d
@@ -9491,7 +9032,6 @@ With incense, where the Golden Altar fum’d,
 By thir great Intercessor, came in sight
 Before the Fathers Throne: Them the glad Son
 Presenting, thus to intercede began.
-
 See Father, what first fruits on Earth are sprung
 From thy implanted Grace in Man, these Sighs
 And Prayers, which in this Golden Censer, mixt
@@ -9515,7 +9055,6 @@ To mitigate thus plead, not to reverse)
 To better life shall yeeld him, where with mee
 All my redeemd may dwell in joy and bliss,
 Made one with me as I with thee am one.
-
 To whom the Father, without Cloud, serene.
 All thy request for Man, accepted Son,
 Obtain, all thy request was my Decree:
@@ -9543,7 +9082,6 @@ Through Heav’ns wide bounds; from them I will not hide
 My judgments, how with Mankind I proceed,
 As how with peccant Angels late they saw;
 And in thir state, though firm, stood more confirmd.
-
 He ended, and the Son gave signal high
 To the bright Minister that watchd, hee blew
 His Trumpet, heard in _Oreb_ since perhaps
@@ -9556,7 +9094,6 @@ In fellowships of joy: the Sons of Light
 Hasted, resorting to the Summons high,
 And took thir Seats; till from his Throne supream
 Th’ Almighty thus pronounced his sovran Will.
-
 O Sons, like one of us Man is become
 To know both Good and Evil, since his taste
 Of that defended Fruit; but let him boast
@@ -9572,7 +9109,6 @@ And live for ever, dream at least to live
 Forever, to remove him I decree,
 And send him from the Garden forth to Till
 The Ground whence he was taken, fitter soile.
-
 _Michael_, this my behest have thou in charge,
 Take to thee from among the Cherubim
 Thy choice of flaming Warriours, least the Fiend
@@ -9600,7 +9136,6 @@ And guard all passage to the Tree of Life:
 Least Paradise a receptacle prove
 To Spirits foule, and all my Trees thir prey,
 With whose stol’n Fruit Man once more to delude.
-
 He ceas’d; and th’ Archangelic Power prepar’d
 For swift descent, with him the Cohort bright
 Of watchful Cherubim; four faces each
@@ -9616,7 +9151,6 @@ Had ended now thir Orisons, and found,
 Strength added from above, new hope to spring
 Out of despaire, joy, but with fear yet linkt;
 Which thus to _Eve_ his welcome words renewd.
-
 _Eve_, easily may Faith admit, that all
 The good which we enjoy, from Heav’n descends
 But that from us ought should ascend to Heav’n
@@ -9638,7 +9172,6 @@ Is past, and we shall live.  Whence Haile to thee,
 _Eve_ rightly call’d, Mother of all Mankind,
 Mother of all things living, since by thee
 Man is to live, and all things live for Man.
-
 To whom thus _Eve_ with sad demeanour meek.
 Ill worthie I such title should belong
 To me transgressour, who for thee ordaind
@@ -9658,7 +9191,6 @@ Wherere our days work lies, though now enjoind
 Laborious, till day droop; while here we dwell,
 What can be toilsom in these pleasant Walkes?
 Here let us live, though in fall’n state, content.
-
 So spake, so wish’d much-humbl’d _Eve_, but Fate
 Subscrib’d not; Nature first gave Signs, imprest
 On Bird, Beast, Aire, Aire suddenly eclips’d
@@ -9671,7 +9203,6 @@ Goodliest of all the Forrest, Hart and Hinde;
 Direct to th’ Eastern Gate was bent thir flight.
 _Adam_ observ’d, and with his Eye the chase
 Pursuing, not unmov’d to _Eve_ thus spake.
-
 O _Eve_, some furder change awaits us nigh,
 Which Heav’n by these mute signs in Nature shews
 Forerunners of his purpose, or to warn
@@ -9687,7 +9218,6 @@ Darkness ere Dayes mid-course, and Morning light
 More orient in yon VVestern Cloud that draws
 O’re the blew Firmament a radiant white,
 And slow descends, with somthing heav’nly fraught.
-
 He err’d not, for by this the heav’nly Bands
 Down from a Skie of Jasper lighted now
 In Paradise, and on a Hill made alt,
@@ -9706,7 +9236,6 @@ Possession of the Garden; hee alone,
 To finde where _Adam_ shelterd, took his way,
 Not unperceav’d of _Adam_, who to _Eve_,
 While the great Visitant approachd, thus spake.
-
 _Eve_, now expect great tidings, which perhaps
 Of us will soon determin, or impose
 New Laws to be observ’d; for I descrie
@@ -9732,7 +9261,6 @@ As in a glistering _Zodiac_ hung the Sword,
 Satans dire dread, and in his hand the Spear.
 _Adam_ bowd low, hee Kingly from his State
 Inclin’d not, but his coming thus declar’d.
-
 _Adam_, Heav’ns high behest no Preface needs:
 Sufficient that thy Prayers are heard, and Death,
 Then due by sentence when thou didst transgress,
@@ -9745,13 +9273,11 @@ But longer in this Paradise to dwell
 Permits not; to remove thee I am come,
 And send thee from the Garden forth to till
 The ground whence thou wast tak’n, fitter Soile.
-
 He added not, for _Adam_ at the newes
 Heart-strook with chilling gripe of sorrow stood,
 That all his senses bound; _Eve_, who unseen
 Yet all had heard, with audible lament
 Discover’d soon the place of her retire.
-
 O unexpected stroke, worse then of Death!
 Must I thus leave thee Paradise? thus leave
 Thee Native Soile, these happie Walks and Shades,
@@ -9770,7 +9296,6 @@ How shall I part, and whither wander down
 Into a lower World, to this obscure
 And wilde, how shall we breath in other Aire
 Less pure, accustomd to immortal Fruits?
-
 Whom thus the Angel interrupted milde.
 Lament not _Eve_, but patiently resigne
 What justly thou hast lost; nor set thy heart,
@@ -9778,11 +9303,9 @@ Thus over fond, on that which is not thine;
 Thy going is not lonely, with thee goes
 Thy Husband, him to follow thou art bound;
 Where he abides, think there thy native soile.
-
 _Adam_ by this from the cold sudden damp
 Recovering, and his scatterd spirits returnd,
 To _Michael_ thus his humble words addressd.
-
 Celestial, whether among the Thrones, or nam’d
 Of them the Highest, for such of shape may seem
 Prince above Princes, gently hast thou tould
@@ -9821,7 +9344,6 @@ For though I fled him angrie, yet recall’d
 To life prolongd and promisd Race, I now
 Gladly behold though but his utmost skirts
 Of glory, and farr off his steps adore.
-
 To whom thus _Michael_ with regard benigne.
 _Adam_, thou know’st Heav’n his, and all the Earth
 Not this Rock onely; his Omnipresence fills
@@ -9858,7 +9380,6 @@ Thy mortal passage when it comes.  Ascend
 This Hill; let _Eve_ (for I have drencht her eyes)
 Here sleep below while thou to foresight wak’st,
 As once thou slepst, while Shee to life was formd.
-
 To whom thus _Adam_ gratefully repli’d.
 Ascend, I follow thee, safe Guide, the path
 Thou lead’st me, and to the hand of Heav’n submit,
@@ -9912,14 +9433,12 @@ That _Adam_ now enforc’t to close his eyes,
 Sunk down and all his Spirits became intranst:
 But him the gentle Angel by the hand
 Soon rais’d, and his attention thus recall’d.
-
 _Adam_, now ope thine eyes, and first behold
 Th’ effects which thy original crime hath wrought
 In some to spring from thee, who never touch’d
 Th’ excepted Tree, nor with the Snake conspir’d,
 Nor sinn’d thy sin, yet from that sin derive
 Corruption to bring forth more violent deeds.
-
 His eyes he op’nd, and beheld a field,
 Part arable and tilth, whereon were Sheaves
 New reapt, the other part sheep-walks and foulds;
@@ -9941,11 +9460,9 @@ That beat out life; he fell, and deadly pale
 Groand out his Soul with gushing bloud effus’d.
 Much at that sight was _Adam_ in his heart
 Dismai’d, and thus in haste to th’ Angel cri’d.
-
 O Teacher, some great mischief hath befall’n
 To that meek man, who well had sacrific’d;
 Is Pietie thus and pure Devotion paid?
-
 T’ whom _Michael_ thus, hee also mov’d, repli’d.
 These two are Brethren, _Adam_, and to come
 Out of thy loyns; th’ unjust the just hath slain,
@@ -9954,13 +9471,11 @@ From Heav’n acceptance; but the bloodie Fact
 Will be aveng’d, and th’ others Faith approv’d
 Loose no reward, though here thou see him die,
 Rowling in dust and gore.  To which our Sire.
-
 Alas, both for the deed and for the cause!
 But have I now seen Death?  Is this the way
 I must return to native dust?  O sight
 Of terrour, foul and ugly to behold,
 Horrid to think, how horrible to feel!
-
 To whom thus _Michael_.  Death thou hast seen
 In his first shape on man; but many shapes
 Of Death, and many are the wayes that lead
@@ -9992,7 +9507,6 @@ Though not of Woman born; compassion quell’d
 His best of Man, and gave him up to tears
 A space, till firmer thoughts restraind excess,
 And scarce recovering words his plaint renew’d.
-
 O miserable Mankind, to what fall
 Degraded, to what wretched state reserv’d?
 Better end heer unborn.  Why is life giv’n
@@ -10008,7 +9522,6 @@ Under inhuman pains?  Why should not Man,
 Retaining still Divine similitude
 In part, from such deformities be free,
 And for his Makers Image sake exempt?
-
 Thir Makers Image, answerd _Michael_, then
 Forsook them, when themselves they villifi’d
 To serve ungovern’d appetite, and took
@@ -10020,12 +9533,10 @@ Or if his likeness, by themselves defac’t
 While they pervert pure Natures healthful rules
 To loathsom sickness, worthily, since they
 Gods Image did not reverence in themselves.
-
 I yeild it just, said _Adam_, and submit.
 But is there yet no other way, besides
 These painful passages, how we may come
 To Death, and mix with our connatural dust?
-
 There is, said _Michael_, if thou well observe
 The rule of not too much, by temperance taught
 In what thou eatst and drinkst, seeking from thence
@@ -10043,17 +9554,14 @@ Hopeful and cheerful, in thy blood will reigne
 A melancholly damp of cold and dry
 To waigh thy spirits down, and last consume
 The Balme of Life.  To whom our Ancestor.
-
 Henceforth I flie not Death, nor would prolong
 Life much, bent rather how I may be quit
 Fairest and easiest of this combrous charge,
 Which I must keep till my appointed day
 Of rendring up.  _Michael_ to him repli’d.
-
 Nor love thy Life, nor hate; but what thou livst
 Live well, how long or short permit to Heav’n:
 And now prepare thee for another sight.
-
 He lookd and saw a spacious Plaine, whereon
 Were Tents of various hue; by some were herds
 Of Cattel grazing: others, whence the sound
@@ -10096,13 +9604,11 @@ Of love & youth not lost, Songs, Garlands, Flours,
 And charming Symphonies attach’d the heart
 Of _Adam_, soon enclin’d to admit delight,
 The bent of Nature; which he thus express’d.
-
 True opener of mine eyes, prime Angel blest,
 Much better seems this Vision, and more hope
 Of peaceful dayes portends, then those two past;
 Those were of hate and death, or pain much worse,
 Here Nature seems fulfilld in all her ends.
-
 To whom thus _Michael_.  Judg not what is best
 By pleasure, though to Nature seeming meet,
 Created, as thou art, to nobler end
@@ -10128,19 +9634,16 @@ Ignobly, to the trains and to the smiles
 Of these fair Atheists, and now swim in joy,
 (Erelong to swim at larg) and laugh; for which
 The world erelong a world of tears must weepe.
-
 To whom thus _Adam_ of short joy bereft.
 O pittie and shame, that they who to live well
 Enterd so faire, should turn aside to tread
 Paths indirect, or in the mid way faint!
 But still I see the tenor of Mans woe
 Holds on the same, from Woman to begin.
-
 From Mans effeminate slackness it begins,
 Said th’ Angel, who should better hold his place
 By wisdome, and superiour gifts receavd.
 But now prepare thee for another Scene.
-
 He lookd and saw wide Territorie spred
 Before him, Towns, and rural works between,
 Cities of Men with lofty Gates and Towrs,
@@ -10186,7 +9689,6 @@ His Brother; for of whom such massacher
 Make they but of thir Brethren, men of men?
 But who was that Just Man, whom had not Heav’n
 Rescu’d, had in his Righteousness bin lost?
-
 To whom thus _Michael_; These are the product
 Of those ill-mated Marriages thou saw’st;
 Where good with bad were matcht, who of themselves
@@ -10216,7 +9718,6 @@ High in Salvation and the Climes of bliss,
 Exempt from Death; to shew thee what reward
 Awaits the good, the rest what punishment;
 Which now direct thine eyes and soon behold.
-
 He look’d, & saw the face of things quite chang’d;
 The brazen Throat of Warr had ceast to roar,
 All now was turn’d to jollitie and game,
@@ -10268,7 +9769,6 @@ By th’ Angel, on thy feet thou stoodst at last,
 Though comfortless, as when a Father mourns
 His Childern, all in view destroyd at once;
 And scarce to th’ Angel utterdst thus thy plaint.
-
 O Visions ill foreseen! better had I
 Liv’d ignorant of future, so had borne
 My part of evil onely, each dayes lot
@@ -10346,7 +9846,6 @@ To teach thee that God attributes to place
 No sanctitie, if none be thither brought
 By Men who there frequent, or therein dwell.
 And now what further shall ensue, behold.
-
 He lookd, and saw the Ark hull on the floud,
 Which now abated, for the Clouds were fled,
 Drivn by a keen North-winde, that blowing drie
@@ -10377,7 +9876,6 @@ Conspicuous with three lifted colours gay,
 Betok’ning peace from God, and Cov’nant new.
 Whereat the heart of _Adam_ erst so sad
 Greatly rejoyc’d, and thus his joy broke forth.
-
 O thou that future things canst represent
 As present, Heav’nly instructer, I revive
 At this last sight, assur’d that Man shall live
@@ -10392,7 +9890,6 @@ Distended as the Brow of God appeas’d,
 Or serve they as a flourie verge to binde
 The fluid skirts of that same watrie Cloud,
 Least it again dissolve and showr the Earth?
-
 To whom th’ Archangel.  Dextrously thou aim’st;
 So willingly doth God remit his Ire,
 Though late repenting him of Man deprav’d,
@@ -10468,7 +9965,6 @@ As mockt they storm; great laughter was in Heav’n
 And looking down, to see the hubbub strange
 And hear the din; thus was the building left
 Ridiculous, and the work Confusion nam’d.
-
 Whereto thus _Adam_ fatherly displeas’d.
 O execrable Son so to aspire
 Above his Brethren, to himself affirming
@@ -10485,7 +9981,6 @@ Will he convey up thither to sustain
 Himself and his rash Armie, where thin Aire
 Above the Clouds will pine his entrails gross,
 And famish him of Breath, if not of Bread?
-
 To whom thus _Michael_.  Justly thou abhorr’st
 That Son, who on the quiet state of men
 Such trouble brought, affecting to subdue
@@ -10676,7 +10171,6 @@ And thou Moon in the vale of _Aialon_,
 Till _Israel_ overcome; so call the third
 From _Abraham_, Son of _Isaac_, and from him
 His whole descent, who thus shall _Canaan_ win.
-
 Here _Adam_ interpos’d.  O sent from Heav’n,
 Enlightner of my darkness, gracious things
 Thou hast reveald, those chiefly which concerne
@@ -10692,7 +10186,6 @@ Among whom God will deigne to dwell on Earth
 So many and so various Laws are giv’n;
 So many Laws argue so many sins
 Among them; how can God with such reside?
-
 To whom thus _Michael_.  Doubt not but that sin
 Will reign among them, as of thee begot;
 And therefore was Law given them to evince
@@ -10780,11 +10273,9 @@ A Virgin is his Mother, but his Sire
 The Power of the most High; he shall ascend
 The Throne hereditarie, and bound his Reign
 With earths wide bounds, his glory with the Heav’ns.
-
 He ceas’d, discerning _Adam_ with such joy
 Surcharg’d, as had like grief bin dew’d in tears,
 Without the vent of words, which these he breathd.
-
 O Prophet of glad tidings, finisher
 Of utmost hope! now clear I understand
 What oft my steddiest thoughts have searcht in vain,
@@ -10796,7 +10287,6 @@ Of God most High; So God with man unites.
 Needs must the Serpent now his capital bruise
 Expect with mortal paine: say where and when
 Thir fight, what stroke shall bruise the Victors heel.
-
 To whom thus _Michael_.  Dream not of thir fight,
 As of a Duel, or the local wounds
 Of head or heel: not therefore joynes the Son
@@ -10877,11 +10367,9 @@ His faithful, and receave them into bliss,
 Whether in Heav’n or Earth, for then the Earth
 Shall all be Paradise, far happier place
 Then this of _Eden_, and far happier daies.
-
 So spake th’ Archangel _Michael_, then paus’d,
 As at the Worlds great period; and our Sire
 Replete with joy and wonder thus repli’d.
-
 O goodness infinite, goodness immense!
 That all this good of evil shall produce,
 And evil turn to good; more wonderful
@@ -10898,7 +10386,6 @@ His faithful, left among th’ unfaithful herd,
 The enemies of truth; who then shall guide
 His people, who defend? will they not deale
 Wors with his followers then with him they dealt?
-
 Be sure they will, said th’ Angel; but from Heav’n
 Hee to his own a Comforter will send,
 The promise of the Father, who shall dwell
@@ -10966,7 +10453,6 @@ From the conflagrant mass, purg’d and refin’d,
 New Heav’ns, new Earth, Ages of endless date
 Founded in righteousness and peace and love,
 To bring forth fruits Joy and eternal Bliss.
-
 He ended; and thus _Adam_ last reply’d.
 How soon hath thy prediction, Seer blest,
 Measur’d this transient World, the Race of time,
@@ -10989,7 +10475,6 @@ Is fortitude to highest victorie,
 And to the faithful Death the Gate of Life;
 Taught this by his example whom I now
 Acknowledge my Redeemer ever blest.
-
 To whom thus also th’ Angel last repli’d:
 This having learnt, thou hast attaind the summe
 Of wisdom; hope no higher, though all the Starrs
@@ -11022,12 +10507,10 @@ That ye may live, which will be many dayes,
 Both in one Faith unanimous though sad,
 With cause for evils past, yet much more cheer’d
 With meditation on the happie end.
-
 He ended, and they both descend the Hill;
 Descended, _Adam_ to the Bowre where _Eve_
 Lay sleeping ran before, but found her wak’t;
 And thus with words not sad she him receav’d.
-
 Whence thou returnst, & whither wentst, I know;
 For God is also in sleep, and Dreams advise,
 Which he hath sent propitious, some great good
@@ -11042,7 +10525,6 @@ This further consolation yet secure
 I carry hence; though all by mee is lost,
 Such favour I unworthie am voutsaft,
 By mee the Promis’d Seed shall all restore.
-
 So spake our Mother _Eve_, and _Adam_ heard
 VVell pleas’d, but answer’d not; for now too nigh
 Th’ Archangel stood, and from the other Hill
@@ -11054,385 +10536,4 @@ And gathers ground fast at the Labourers heel
 Homeward returning.  High in Front advanc’t,
 The brandisht Sword of God before them blaz’d
 Fierce as a Comet; which with torrid heat,
-And vapour as the _Libyan_ Air adust,
-Began to parch that temperate Clime; whereat
-In either hand the hastning Angel caught
-Our lingring Parents, and to th’ Eastern Gate
-Let them direct, and down the Cliff as fast
-To the subjected Plaine; then disappeer’d.
-They looking back, all th’ Eastern side beheld
-Of Paradise, so late thir happie seat,
-Wav’d over by that flaming Brand, the Gate
-With dreadful Faces throng’d and fierie Armes:
-Som natural tears they drop’d, but wip’d them soon;
-The World was all before them, where to choose
-Thir place of rest, and Providence thir guide:
-They hand in hand with wandring steps and slow,
-Through _Eden_ took thir solitarie way.
-
-  THE END.
-
-
-
-End of the Project Gutenberg EBook of Paradise Lost, by John Milton
-
-*** END OF THIS PROJECT GUTENBERG EBOOK PARADISE LOST ***
-
-***** This file should be named 20-0.txt or 20-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/20/
-
-Produced by Judy Boss
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+And vapour as the _Libyan_ Air ad

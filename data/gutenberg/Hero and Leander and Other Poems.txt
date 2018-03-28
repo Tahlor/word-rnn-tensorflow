@@ -1,77 +1,12 @@
-e Project Gutenberg EBook of Hero and Leander and Other Poems, by
-Christopher Marlowe and George Chapman
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Hero and Leander and Other Poems
-
-Author: Christopher Marlowe and George Chapman
-
-Editor: Ernest Rhys
-
-Release Date: January 14, 2007 [EBook #20356]
-
-Language: English - Latin
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK HERO AND LEANDER AND OTHER POEMS ***
-
-
-
-
-
-
-
-
-
-
-
-
-             HERO AND LEANDER
-
-             AND OTHER POEMS
-
-          BY CHRISTOPHER MARLOWE
-
-
-
-
-CONTENTS
-
-
 Hero and Leander, by Christopher Marlowe and George Chapman
-
 Minor poems by Christopher Marlowe
-
 - The Passionate Shepherd To His Love
-
 - Fragment, first printed in "England's Parnassus," 1600
-
 - In obitum honoratissimi viri, Rogeri Manwood, militis,
-     Quaestorii Reginalis Capitalis Baronis
-
+Quaestorii Reginalis Capitalis Baronis
 - Dialogue in Verse
-
-
-
-
-
-
-
-
-              HERO AND LEANDER
-
-   By Christopher Marlowe and George Chapman
-
-      TO THE RIGHT WORSHIPFUL SIR THOMAS
-              WALSINGHAM, KNIGHT.
-
-    Sir, we think not ourselves discharged of the duty we owe
+By Christopher Marlowe and George Chapman
+Sir, we think not ourselves discharged of the duty we owe
 to our friend when we have brought the breathless body to
 the earth; for, albeit the eye there taketh his ever-farewell
 of that beloved object, yet the impression of the man that
@@ -97,24 +32,14 @@ double duty, the one to yourself, the other to the deceased,
 I present the same to your most favourable allowance,
 offering my utmost self now and ever to be ready at your
 worship's disposing.
-                                    EDWARD BLUNT.
-
-
 Note: The first two Sestiads were written by Marlowe; the last four by
 Chapman, who supplied also the Arguments for the six Sestiads.
-
-THE FIRST SESTIAD
-
-THE ARGUMENT OF THE FIRST SESTIAD
-
-  Hero's description and her love's;
-  The fane of Venus where he moves
-  His worthy love-suit, and attains;
-  Whose bliss the wrath of Fates restrains
-  For Cupid's grace to Mercury:
-  Which tale the author doth imply.
-
-
+Hero's description and her love's;
+The fane of Venus where he moves
+His worthy love-suit, and attains;
+Whose bliss the wrath of Fates restrains
+For Cupid's grace to Mercury:
+Which tale the author doth imply.
 On Hellespont, guilty of true love's blood,
 In view and opposite two cities stood,
 Sea-borderers, disjoin'd by Neptune's might;
@@ -165,7 +90,7 @@ Because she took more from her than she left,
 And of such wondrous beauty her bereft:
 Therefore, in sign her treasure suffer'd wrack,
 Since Hero's time hath half the world been black.
-  Amorous Leander, beautiful and young,
+Amorous Leander, beautiful and young,
 (Whose tragedy divine Musaeus sung,)
 Dwelt at Abydos; since him dwelt there none
 For whom succeeding times make greater moan.
@@ -205,7 +130,7 @@ And such as knew he was a man, would say,
 "Leander, thou art made for amorous play:
 Why art thou not in love, and lov'd of all?
 Though thou be fair, yet be not thine own thrall."
-  The men of wealthy Sestos every year,
+The men of wealthy Sestos every year,
 For his sake whom their goddess held so dear,
 Rose-cheek'd Adonis, kept a solemn feast:
 Thither resorted many a wandering guest
@@ -281,7 +206,7 @@ Stone-still he stood, and evermore he gaz'd,
 Till with the fire, that from his countenance blaz'd,
 Relenting Hero's gentle heart was strook:
 Such force and virtue hath an amorous look.
-  It lies not in our power to love or hate,
+It lies not in our power to love or hate,
 For will in us is over-rul'd by fate.
 When two are stript long ere the course begin,
 We wish that one should lose, the other win;
@@ -291,7 +216,7 @@ The reason no man knows; let it suffice,
 What we behold is censur'd by our eyes.
 Where both deliberate, the love is slight:
 Who ever lov'd, that lov'd not at first sight?
-  He kneel'd; but unto her devoutly pray'd:
+He kneel'd; but unto her devoutly pray'd:
 Chaste Hero to herself thus softly said,
 "Were I the saint he worships, I would hear him;"
 And, as she spake those words, came somewhat near him.
@@ -500,7 +425,7 @@ Threatening a thousand deaths at every glance,
 They answer'd Love, nor would vouchsafe so much
 As one poor word, their hate to him was such:
 Hearken a while, and I will tell you why.
-  Heaven's winged herald, Jove-born Mercury,
+Heaven's winged herald, Jove-born Mercury,
 The self-same day that he asleep had laid
 Enchanted Argus, spied a country maid,
 Whose careless hair, instead of pearl t'adorn it,
@@ -599,22 +524,14 @@ And still enrich the lofty servile clown,
 Who with encroaching guile keeps learning down.
 Then muse not Cupid's suit no better sped,
 Seeing in their loves the Fates were injured.
-
-
-THE SECOND SESTIAD
-
-THE ARGUMENT OF THE SECOND SESTIAD
-
-  Hero of love takes deeper sense,
-  And doth her love more recompense:
-  Their first night's meeting, where sweet kisses
-  Are th' only crowns of both their blisses.
-  He swims t' Abydos, and returns:
-  Cold Neptune with his beauty burns;
-  Whose suit he shuns, and doth aspire
-  Hero's fair tower and his desire.
-
-
+Hero of love takes deeper sense,
+And doth her love more recompense:
+Their first night's meeting, where sweet kisses
+Are th' only crowns of both their blisses.
+He swims t' Abydos, and returns:
+Cold Neptune with his beauty burns;
+Whose suit he shuns, and doth aspire
+Hero's fair tower and his desire.
 By this, sad Hero, with love unacquainted,
 Viewing Leander's face, fell down and fainted.
 He kiss'd her, and breath'd life into her lips;
@@ -701,7 +618,7 @@ No marvel, then, though Hero would not yield
 So soon to part from that she dearly held:
 Jewels being lost are found again; this never;
 'Tis lost but once, and once lost, lost for ever.
-  Now had the Morn espied her lover's steeds;
+Now had the Morn espied her lover's steeds;
 Whereat she starts, puts on her purple weeds,
 And, red for anger that he stay'd so long,
 All headlong throws herself the clouds among.
@@ -731,7 +648,7 @@ Than he could sail; for incorporeal Fame,
 Whose weight consists in nothing but her name,
 Is swifter than the wind, whose tardy plumes
 Are reeking water and dull earthly fumes.
-  Home when he came, he seem'd not to be there,
+Home when he came, he seem'd not to be there,
 But, like exiled air thrust from his sphere,
 Set in a foreign place; and straight from thence,
 Alcides-like, by mighty violence,
@@ -841,7 +758,7 @@ Wherefore, Leander's fancy to surprise,
 To the rich ocean for gifts he flies;
 'Tis wisdom to give much; a gilt prevails
 When deep-persuading oratory fails.
-  By this, Leander, being near the land,
+By this, Leander, being near the land,
 Cast down his weary feet, and felt the sand.
 Breathless albeit he were, he rested not
 Till to the solitary tower he got;
@@ -915,7 +832,7 @@ So that the truce was broke, and she, alas,
 Poor silly maiden, at his mercy was.
 Love is not full of pity, as men say,
 But deaf and cruel where he means to prey.
-  And now she wish'd this night were never done,
+And now she wish'd this night were never done,
 And sigh'd to think upon th' approaching sun;
 For much it griev'd her that the bright day-light
 Should know the pleasure of this blessed night,
@@ -949,29 +866,19 @@ And ran before, as harbinger of light,
 And with his flaring beams mock'd ugly Night
 Till she, o'ercome with anguish, shame, and rage,
 Dang'd down to hell her loathsome carriage.
-
-
-  Here Marlowe's work ends.  The rest of the poem is by Chapman.
-
-
-THE THIRD SESTIAD
-
-THE ARGUMENT OF THE THIRD SESTIAD
-
-  Leander to the envious light
-  Resigns his night-sports with the night,
-  And swims the Hellespont again.
-  Thesme, the deity sovereign
-  Of customs and religious rites,
-  Appears, reproving his delights,
-  Since nuptial honours he neglected;
-  Which straight he vows shall be effected.
-  Fair Hero, left devirginate,
-  Weighs, and with fury wails her state:
-  But with her love and woman's wit
-  She argues and approveth it.
-
-
+Here Marlowe's work ends.  The rest of the poem is by Chapman.
+Leander to the envious light
+Resigns his night-sports with the night,
+And swims the Hellespont again.
+Thesme, the deity sovereign
+Of customs and religious rites,
+Appears, reproving his delights,
+Since nuptial honours he neglected;
+Which straight he vows shall be effected.
+Fair Hero, left devirginate,
+Weighs, and with fury wails her state:
+But with her love and woman's wit
+She argues and approveth it.
 New light gives new directions, fortunes new
 To fashion our endeavours that ensue.
 More harsh, at least more hard, more grave and high
@@ -982,13 +889,13 @@ High unexperienc'd blood, and maids' sharp plights,
 Must now grow staid, and censure the delights,
 That, being enjoy'd, ask judgment; now we praise,
 As having parted: evenings crown the days.
-  And now, ye wanton Loves, and young Desires,
+And now, ye wanton Loves, and young Desires,
 Pied Vanity, the mint of strange attires,
 Ye lisping Flatteries, and obsequious Glances,
 Relentful Musics, and attractive Dances,
 And you detested Charms constraining love!
 Shun love's stoln sports by that these lovers prove.
-  By this, the sovereign of heaven's golden fires,
+By this, the sovereign of heaven's golden fires,
 And young Leander, lord of his desires,
 Together from their lover's arms arose:
 Leander into Hellespontus throws
@@ -1036,7 +943,7 @@ Upholds the flowery body of the earth
 In sacred harmony, and every birth
 Of men and actions makes legitimate;
 Being us'd aright, the use of time is fate.
-  Yet did the gentle flood transfer once more
+Yet did the gentle flood transfer once more
 This prize of love home to his father's shore,
 Where he unlades himself of that false wealth
 That makes few rich,--treasures compos'd by stealth;
@@ -1044,7 +951,7 @@ And to his sister, kind Hermione,
 (Who on the shore kneel'd, praying to the sea
 For his return,) he all love's goods did show,
 In Hero seis'd for him, in him for Hero.
-  His most kind sister all his secrets knew,
+His most kind sister all his secrets knew,
 And to her, singing, like a shower, he flew,
 Sprinkling the earth, that to their tombs took in
 Streams dead for love, to leave his ivory skin,
@@ -1062,13 +969,13 @@ So to all objects that in compass came
 Of any sense he had, his senses' flame
 Flow'd from his parts with force so virtual,
 It fir'd with sense things mere insensual.
-  Now, with warm baths and odours comforted,
+Now, with warm baths and odours comforted,
 When he lay down, he kindly kiss'd his bed,
 As consecrating it to Hero's right,
 And vow'd thererafter, that whatever sight
 Put him in mind of Hero or her bliss,
 Should be her altar to prefer a kiss.
-  Then laid he forth his late-enriched arms,
+Then laid he forth his late-enriched arms,
 In whose white circle Love writ all his charms,
 And made his characters sweet Hero's limbs,
 When on his breast's warm sea she sideling swims;
@@ -1076,7 +983,7 @@ And as those arms, held up in circle, met,
 He said, "See, sister, Hero's carquenet!
 Which she had rather wear about her neck,
 Than all the jewels that do Juno deck."
-  But, as he shook with passionate desire
+But, as he shook with passionate desire
 To put in flame his other secret fire,
 A music so divine did pierce his ear,
 As never yet his ravish'd sense did hear;
@@ -1126,7 +1033,7 @@ Not being with civil forms confirm'd and bounded,
 For human dignities and comforts founded;
 But loose and secret all their glories hide;
 Fear fills the chamber, Darkness decks the bride.
-  She vanish'd, leaving pierc'd Leander's heart
+She vanish'd, leaving pierc'd Leander's heart
 With sense of his unceremonious part,
 In which, with plain neglect of nuptial rites,
 He close and flatly fell to his delights:
@@ -1154,7 +1061,7 @@ And still renews our woes for Hero's woe;
 And foul it prov'd, because it figur'd so
 The next night's horror; which prepare to hear;
 I fail, if it profane your daintiest ear.
-  Then, ho, most strangely-intellectual fire,
+Then, ho, most strangely-intellectual fire,
 That, proper to my soul, hast power t'inspire
 Her burning faculties, and with the wings
 Of thy unsphered flame visit'st the springs
@@ -1170,7 +1077,7 @@ Tell it how much his late desires I tender
 (If yet it know not), and to light surrender
 My soul's dark offspring, willing it should die
 To loves, to passions, and society.
-  Sweet Hero, left upon her bed alone,
+Sweet Hero, left upon her bed alone,
 Her maidenhead, her vows, Leander gone,
 And nothing with her but a violent crew
 Of new-come thoughts, that yet she never knew,
@@ -1252,7 +1159,7 @@ Retention and ejection in her powers
 Being acts alike; for this one vice of ours,
 That forms the thought, and sways the countenance,
 Rules both our motion and our utterance.
-  These and more grave conceits toil'd Hero's spirits;
+These and more grave conceits toil'd Hero's spirits;
 For, though the light of her discoursive wits
 Perhaps might find some little hole to pass
 Through all these worldly cinctures, yet, alas!
@@ -1302,7 +1209,7 @@ With those severe conceits she too much mark'd:
 And here Leander's beauties were embark'd.
 He came in swimming, painted all with joys,
 Such as might sweeten hell: his thought destroys
- All her destroying thoughts; she thought she felt
+All her destroying thoughts; she thought she felt
 His heart in hers, with her contentions melt,
 And chide her soul that it could so much err,
 To check the true joys he deserv'd in her.
@@ -1391,32 +1298,24 @@ Rich, fruitful love, that, doubling self estates,
 Elixir-like contracts, though separates!
 Dear place, I kiss thee, and do welcome thee,
 As from Leander ever sent to me."
-
-
-THE FOURTH SESTIAD
-
-THE ARGUMENT OF THE FOURTH SESTIAD
-
-  Hero, in sacred habit deckt,
-  Doth private sacrifice effect.
-  Her scarf's description, wrought by Fate;
-  Ostents that threaten her estate;
-  The strange, yet physical, events,
-  Leander's counterfeit presents.
-  In thunder Cyprides descends,
-  Presaging both the lovers' ends:
-  Ecte, the goddess of remorse,
-  With vocal and articulate force
-  Inspires Leucote, Venus' swan,
-  T' excuse the beauteous Sestian.
-  Venus, to wreak her rites' abuses,
-  Creates the monster Eronusis,
-  Inflaming Hero's sacrifice
-  With lightning darted from her eyes;
-  And thereof springs the painted beast
-  That ever since taints every breast.
-
-
+Hero, in sacred habit deckt,
+Doth private sacrifice effect.
+Her scarf's description, wrought by Fate;
+Ostents that threaten her estate;
+The strange, yet physical, events,
+Leander's counterfeit presents.
+In thunder Cyprides descends,
+Presaging both the lovers' ends:
+Ecte, the goddess of remorse,
+With vocal and articulate force
+Inspires Leucote, Venus' swan,
+T' excuse the beauteous Sestian.
+Venus, to wreak her rites' abuses,
+Creates the monster Eronusis,
+Inflaming Hero's sacrifice
+With lightning darted from her eyes;
+And thereof springs the painted beast
+That ever since taints every breast.
 Now from Leander's place she rose, and found
 Her hair and rent robe scatter'd on the ground;
 Which taking up, she every piece did lay
@@ -1492,7 +1391,7 @@ That, and his shoulders, and his hands were seen
 Above the stream; and with a pure sea-green
 She did so quaintly shadow every limb,
 All might be seen beneath the waves to swim.
-  In this conceited scarf she wrought beside
+In this conceited scarf she wrought beside
 A moon in change, and shooting stars did glide
 In number after her with bloody beams;
 Which figur'd her affects in their extremes,
@@ -1538,7 +1437,7 @@ That their plied wits in number'd silks might sing
 Passion's huge conquest, and their needles leading
 Affection prisoner through their own-built cities,
 Pinion'd with stories and Arachnean ditties.
-  Proceed we now with Hero's sacrifice:
+Proceed we now with Hero's sacrifice:
 She odours burn'd, and from their smoke did rise
 Unsavoury fumes, that air with plagues inspir'd;
 And then the consecrated sticks she fir'd,
@@ -1634,7 +1533,7 @@ With as much countenance fill their holy chairs,
 And sweat denouncements 'gainst profane affairs,
 As if their lives were cut out by their places,
 And they the only fathers of the graces.
-  Now, as with settled mind she did repair
+Now, as with settled mind she did repair
 Her thoughts to sacrifice her ravish'd hair
 And her torn robe, which on the altar lay,
 And only for religion's fire did stay,
@@ -1676,7 +1575,7 @@ And have an antic face to laugh within,
 While thy smooth looks make men digest thy sin,
 But since thy lips (least thought forsworn) forswore,
 Be never virgin's vow worth trusting more!"
-  When Beauty's dearest did her goddess hear
+When Beauty's dearest did her goddess hear
 Breathe such rebukes 'gainst that she could not clear,
 Dumb sorrow spake aloud in tears and blood,
 That from her grief-burst veins, in piteous flood,
@@ -1731,7 +1630,7 @@ Her rites so much,--and every breast infect
 With her deceits: she made her architect
 Of all dissimulation; and since then
 Never was any trust in maids or men.
-                                      O, it spited
+O, it spited
 Fair Venus' heart to see her most delighted,
 And one she choos'd, for temper of her mind,
 To be the only ruler of her kind,
@@ -1761,34 +1660,26 @@ And scalding tempests made the earth to shrink
 Under their fervour, and the world did think
 In every drop a torturing spirit flew,
 It pierc'd so deeply, and it burn'd so blue.
-  Betwixt all this and Hero, Hero held
+Betwixt all this and Hero, Hero held
 Leander's picture, as a Persian shield;
 And she was free from fear of worst success:
 The more ill threats us, we suspect the less:
 As we grow hapless, violence subtle grows,
 Dumb, deaf, and blind, and comes when no man knows.
-
-
-THE FIFTH SESTIAD
-
-THE ARGUMENT OF THE FIFTH SESTIAD
-
-  Day doubles her accustomed date,
-  As loath the Night, incens'd by Fate,
-  Should wreck our lovers.  Hero's plight;
-  Longs for Leander and the night:
-  Which ere her thirsty wish recovers,
-  She sends for two betrothed lovers,
-  And marries tham, that, with their crew,
-  Their sports, and ceremonies due,
-  She covertly might celebrate,
-  With secret joy, her own estate.
-  She makes a feast, at which appears
-  The wild nymph Teras, that still bears
-  An ivory lute, tells ominous tales,
-  And sings at solemn festivals.
-
-
+Day doubles her accustomed date,
+As loath the Night, incens'd by Fate,
+Should wreck our lovers.  Hero's plight;
+Longs for Leander and the night:
+Which ere her thirsty wish recovers,
+She sends for two betrothed lovers,
+And marries tham, that, with their crew,
+Their sports, and ceremonies due,
+She covertly might celebrate,
+With secret joy, her own estate.
+She makes a feast, at which appears
+The wild nymph Teras, that still bears
+An ivory lute, tells ominous tales,
+And sings at solemn festivals.
 Now was bright Hero weary of the day,
 Thought an Olympiad in Leander's stay.
 Sol and the soft-foot Hours hung on his arms,
@@ -1801,7 +1692,7 @@ To have him turn to bed: he lov'd her more,
 To see the love Leander Hero bore:
 Examples profit much; ten times in one,
 In persons full of note, good deeds are done.
-  Day was so long, men walking fell asleep;
+Day was so long, men walking fell asleep;
 The heavy humours that their eyes did steep
 Made them fear mischiefs.  The hard streets were beds
 For covetous churls and for ambitious heads,
@@ -1817,7 +1708,7 @@ All the celestials parted mourning then,
 Pierc'd with our human miseries more than men:
 Ah, nothing doth the world with mischief fill,
 But want of feeling one another's ill!
-  With their descent the day grew something fair,
+With their descent the day grew something fair,
 And cast a brighter robe upon the air.
 Hero, to shorten time with merriment,
 For young Alcmane and bright Mya sent,
@@ -1841,7 +1732,7 @@ Winning their hearts with all the means she might,
 That, when her fault should chance t' abide the light,
 Their loves might cover or extenuate it,
 And high in her worst fate make pity sit.
-  She married them; and in the banquet came,
+She married them; and in the banquet came,
 Borne by the virgins.  Hero striv'd to frame
 Her thoughts to mirth: ay me! but hard it is
 To imitate a false and forced bliss;
@@ -1849,7 +1740,7 @@ Ill may a sad mind forge a merry face,
 Nor hath constrained laughter any grace.
 Then laid she wines on cares to make them sink:
 Who fears the threats of Fortune, let him drink.
-  To these quick nuptials enter'd suddenly
+To these quick nuptials enter'd suddenly
 Admired Teras with the ebon thigh;
 A nymph that haunted the green Sestian groves,
 And would consort soft virgins in their loves,
@@ -1865,13 +1756,13 @@ Riddle to her, or augury, strange or new,
 But she resolv'd it; never slight tale flew
 From her charm'd lips without important sense,
 Shown in some grave succeeding consequence.
-  This little sylvan, with her songs and tales,
+This little sylvan, with her songs and tales,
 Gave such estate to feasts and nuptials,
 That though ofttimes she forewent tragedies,
 Yet for her strangeness still she pleas'd their eyes;
 And for her smallness they admir'd her so,
 They thought her perfect born, and could not grow.
-  All eyes were on her.  Hero did command
+All eyes were on her.  Hero did command
 An altar deck'd with sacred state should stand
 At the feast's upper end, close by the bride,
 On which the pretty nymph might sit espied.
@@ -1879,10 +1770,7 @@ Then all were silent; every one so hears,
 As all their senses climb'd into their ears:
 And first this amorous tale, that fitted well
 Fair Hero and the nuptials, she did tell.
-
-
-            _The Tale of Teras_
-
+_The Tale of Teras_
 Hymen, that now is god of nuptial rites,
 And crowns with honour Love and his delights,
 Of Athens was a youth, so sweet a face,
@@ -1911,7 +1799,7 @@ For only now his chin's first down consorted
 His head's rich fleece, in golden curls contorted;
 And as he was so lov'd, he lov'd so too:
 So should best beauties, bound by nuptials, do.
-  Bright Eucharis, who was by all men said
+Bright Eucharis, who was by all men said
 The noblest, fairest, and the richest maid
 Of all th' Athenian damsels, Hymen lov'd
 With such transmission, that his heart remov'd
@@ -1993,7 +1881,7 @@ So cast these virgins' beauties mutual rays,
 One lights another, face the face displays;
 Lips by reflection kiss'd, and hands hands shook,
 Even by the whiteness each of other took.
-  But Hymen now us'd friendly Morpheus' aid,
+But Hymen now us'd friendly Morpheus' aid,
 Slew every thief, and rescu'd every maid:
 And now did his enamour'd passion take
 Heart from his hearty deed, whose worth did make
@@ -2053,13 +1941,13 @@ That he would turn into her roughest frowns
 To turn them out; and thus he Hymen crowns
 King of his thoughts, man's greatest empery:
 This was his first brave step to deity.
-  Home to the mourning city they repair,
+Home to the mourning city they repair,
 With news as wholesome as the morning air,
 To the sad parents of each saved maid:
 But Hymen and his Eucharis had laid
 This plat, to make the flame of their delight
 Round as the moon at full, and full as bright.
-  Because the parents of chaste Eucharis
+Because the parents of chaste Eucharis
 Exceeding Hymen's so, might cross their bliss;
 And as the world rewards deserts, that law
 Cannot assist with force; so when they saw
@@ -2139,7 +2027,7 @@ A wether's skin, with all the snowy fleece,
 To intimate that even the daintiest piece
 And noblest-born dame should industrious be:
 That which does good disgraceth no degree.
-  And now to Juno's temple they are come,
+And now to Juno's temple they are come,
 Where her grave priest stood in the marriage-room:
 On his right arm did hang a scarlet veil,
 And from his shoulders to the ground did trail,
@@ -2219,49 +2107,43 @@ Who still with counterfeit confusion prates
 Naught but news common to the common'st mates.--
 This told, strange Teras touch'd her lute, and sung
 This ditty, that the torchy evening sprung.
-
-
-              _Epithalamion Teratos._
-
+_Epithalamion Teratos._
 Come, come, dear Night!  Love's mart of kisses,
-  Sweet close of his ambitious line,
+Sweet close of his ambitious line,
 The fruitful summer of his blisses!
-  Love's glory doth in darkness shine.
+Love's glory doth in darkness shine.
 O, come, soft rest of cares! come, Night!
-  Come, naked Virtue's only tire,
+Come, naked Virtue's only tire,
 The reaped harvest of the light,
-  Bound up in sheaves of sacred fire!
-      Love calls to war;
-        Sighs his alarms,
-      Lips his swords are,
-        The field his arms.
-
+Bound up in sheaves of sacred fire!
+Love calls to war;
+Sighs his alarms,
+Lips his swords are,
+The field his arms.
 Come, Night, and lay thy velvet hand
-  On glorious Day's outfacing face;
+On glorious Day's outfacing face;
 And all thy crowned flames command,
-  For torches to our nuptial grace!
-      Love calls to war;
-        Sighs his alarms,
-      Lips his swords are,
-        The field his arms.
-
+For torches to our nuptial grace!
+Love calls to war;
+Sighs his alarms,
+Lips his swords are,
+The field his arms.
 No need have we of factious Day,
-  To cast, in envy of thy peace,
+To cast, in envy of thy peace,
 Her balls of discord in thy way:
-  Here Beauty's day doth never cease;
+Here Beauty's day doth never cease;
 Day is abstracted here,
 And varied in a triple sphere.
 Hero, Alcmane, Mya, so outshine thee,
 Ere thou come here, let Thetis thrice refine thee.
-      Love calls to war;
-        Sighs his alarms,
-      Lips his swords are,
-        The field his arms.
-
-      The evening star I see:
-        Rise, youths! the evening star
-        Helps Love to summon war;
-      Both now embracing be.
+Love calls to war;
+Sighs his alarms,
+Lips his swords are,
+The field his arms.
+The evening star I see:
+Rise, youths! the evening star
+Helps Love to summon war;
+Both now embracing be.
 Rise, youths!  Love's rite claims more than banquets; rise!
 Now the bright marigolds, that deck the skies,
 Phoebus' celestial flowers, that, contrary
@@ -2272,7 +2154,7 @@ Courtship and dances: all your parts employ,
 And suit Night's rich expansure with your joy.
 Love paints his longings in sweet virgins' eyes:
 Rise, youths!  Love's rite claims more than banquets; rise!
-  Rise, virgins! let fair nuptial loves enfold
+Rise, virgins! let fair nuptial loves enfold
 Your fruitless breasts: the maidenheads ye hold
 Are not your own alone, but parted are;
 Part in disposing them your parents share,
@@ -2280,8 +2162,7 @@ And that a third part is; so must ye save
 Your loves a third, and you your thirds must have.
 Love paints his longings in sweet virgins' eyes:
 Rise, youths!  Love's rites claim more than banquets; rise!
-
-  Herewith the amorous spirit, that was so kind
+Herewith the amorous spirit, that was so kind
 To Teras' hair, and comb'd it down with wind.
 Still as it, comet-like, brake from her brain,
 Would needs have Teras gone, and did refrain
@@ -2297,28 +2178,20 @@ Thus all the nuptial crew to joys depart;
 But much-wrung Hero stood Hell's blackest dart:
 Whose wound because I grieve so to display,
 I use digressions thus t'increase the day.
-
-
-THE SIXTH SESTIAD
-
-THE ARGUMENT OF THE SIXTH SESTIAD
-
-  Leucote flies to all the Winds,
-  And from the Fates their outrage blinds,
-  That Hero and her love may meet.
-  Leander, with Love's complete fleet
-  Mann'd in himself, puts forth to seas;
-  When straight the ruthless Destinies,
-  With Ate, stirs the winds to war
-  Upon the Hellespont: their jar
-  Drowns poor Leander.  Hero's eyes,
-  Wet witnesses of his surprise,
-  Her torch blown out, grief casts her down
-  Upon her love, and both doth drown:
-  In whose just ruth the god of seas
-  Transforms them to th' Acanthides.
-
-
+Leucote flies to all the Winds,
+And from the Fates their outrage blinds,
+That Hero and her love may meet.
+Leander, with Love's complete fleet
+Mann'd in himself, puts forth to seas;
+When straight the ruthless Destinies,
+With Ate, stirs the winds to war
+Upon the Hellespont: their jar
+Drowns poor Leander.  Hero's eyes,
+Wet witnesses of his surprise,
+Her torch blown out, grief casts her down
+Upon her love, and both doth drown:
+In whose just ruth the god of seas
+Transforms them to th' Acanthides.
 No longer could the Day nor Destinies
 Delay the Night, who now did frowning rise
 Into her throne; and at her humorous breasts
@@ -2353,7 +2226,7 @@ From his tame subject's shoulder; whips and calls
 For everything he lacks; creeps 'gainst the walls
 With backward humbless, to give needless way:
 Thus his false fate did with Leander play.
-  First to black Eurus flies the white Leucote.
+First to black Eurus flies the white Leucote.
 (Born 'mongst the negroes in the Levant sea,
 On whose curl'd head[s] the glowing sun doth rise,)
 And shows the sovereign will of Destinies,
@@ -2408,7 +2281,7 @@ But all his powers in her desires awaked,
 Her love and virtues cloth'd him richly naked.
 Men kiss but fire that only shows pursue;
 Her torch and Hero, figure show and virtue.
-  Now at oppos'd Abydos naught was heard
+Now at oppos'd Abydos naught was heard
 But bleating flocks, and many a bellowing herd,
 Slain for the nuptials; cracks of falling woods;
 Blows of broad axes; pourings out of floods.
@@ -2455,7 +2328,7 @@ And so short of himself in his high thought
 Was our Leander in his fortunes brought,
 And in his fort of love that he thought won;
 But otherwise he scorns comparison.
-  O sweet Leander, thy large worth I hide
+O sweet Leander, thy large worth I hide
 In a short grave! ill-favour'd storms must chide
 Thy sacred favour; I in floods of ink
 Must drown thy graces, which white papers drink,
@@ -2467,7 +2340,7 @@ Still, still usurp, with long lives, loves, and lust,
 The seats of Virtue, cutting short as dust
 Her dear-bought issue: ill to worse converts,
 And tramples in the blood of all deserts.
-  Night close and silent now goes fast before
+Night close and silent now goes fast before
 The captains and the soldiers to the shore,
 On whom attended the appointed fleet
 At Sestos' bay, that should Leander meet,
@@ -2491,7 +2364,7 @@ Yet doth she shine, and teacheth Virtue's train
 Still to be constant in hell's blackest reign,
 Though even the gods themselves do so entreat them
 As they did hate, and earth as she would eat them."
-  Off went his silken robe, and in he leapt,
+Off went his silken robe, and in he leapt,
 Whom the kind waves so licorously cleapt,
 Thickening for haste, one in another, so,
 To kiss his skin, that he might almost go
@@ -2592,7 +2465,7 @@ Of giant sorrows speak?--Burst,--die,--bleed,
 And leave poor plaints to us that shall succeed.
 She fell on her love's bosom, hugg'd it fast,
 And with Leander's name she breath'd her last.
-  Neptune for pity in his arms did take them,
+Neptune for pity in his arms did take them,
 Flung them into the air, and did awake them
 Like two sweet birds, surnam'd th' Acanthides,
 Which we call Thistle-warps, that near no seas
@@ -2612,94 +2485,59 @@ The dainty Venus, left them; blue, their truth;
 The red and black, ensigns of death and ruth.
 And this true honour from their love-death sprung,--
 They were the first that ever poet sung.
-
-
-
-
-
-MINOR POEMS BY CHRISTOPHER MARLOWE
-
-
-
-THE PASSIONATE SHEPHERD TO HIS LOVE
-
-
 COME live with me, and be my love;
 And we will all the pleasures prove
 That hills and valleys, dales and fields,
 Woods or steepy mountain yields.
-
 And we will sit upon the rocks,
 Seeing the shepherds feed their flocks
 By shallow rivers, to whose falls
 Melodious birds sing madrigals.
-
 And I will make thee beds of roses,
 And a thousand fragrant posies;
 A cap of flowers, and a kirtle
 Embroider'd all with leaves of myrtle
-
 A gown made of the finest wool
 Which from our pretty lambs we pull;
 Fair-lined slippers for the cold,
 With buckles of the purest gold;
-
 A belt of straw and ivy-buds,
 With coral clasps and amber studs:
 An if these pleasures may thee move,
 Come live with me, and be my love.
-
 The shepherd-swains shall dance and sing
 For thy delight each May morning:
 If these delights thy mind may move,
 Then live with me, and be my love.
-
-
-
-FRAGMENT
-
 _First printed in "England's Parnassus,"_ 1600
-
 I WALK'D along a stream, for pureness rare,
-  Brighter than sun-shine; for it did acquaint
+Brighter than sun-shine; for it did acquaint
 The dullest sight with all the glorious prey
 That in the pebble-paved channel lay.
-
 No molten crystal, but a richer mine,
-  Even Nature's rarest alchymy ran there,--
+Even Nature's rarest alchymy ran there,--
 Diamonds resolv'd, and substance more divine,
-  Through whose bright-gliding current might appear
+Through whose bright-gliding current might appear
 A thousand naked nymphs, whose ivory shine,
-  Enamelling the banks, made them more dear
+Enamelling the banks, made them more dear
 Than ever was that glorious palace' gate
 Where the day-shining Sun in triumph sate.
-
 Upon this brim the eglantine and rose,
-  The tamarisk, olive, and the almond tree,
+The tamarisk, olive, and the almond tree,
 As kind companions, in one union grows,
-  Folding their twining arms, as oft we see
+Folding their twining arms, as oft we see
 Turtle-taught lovers either other close,
-  Lending to dulness feeling sympathy;
+Lending to dulness feeling sympathy;
 And as a costly valance o'er a bed,
 So did their garland-tops the brook o'erspread.
-
 Their leaves, that differ'd both in shape and show,
-  Though all were green, yet difference such in green,
+Though all were green, yet difference such in green,
 Like to the checker'd bent of Iris' bow,
-  Prided the running main, as it had been--
-
-
-
-IN OBITUM HONORATISSIMI VIRI, ROGERI
-  MANWOOD, MILITIS, QUAESTORII REGI-
-  NALIS CAPITALIS BARONIS
-
-   First printed by Payne Collier (_History of the English Stage,_ etc.
+Prided the running main, as it had been--
+First printed by Payne Collier (_History of the English Stage,_ etc.
 p. xliv.--prefixed to the first vol. of his _Shakespeare_) from a MS. on the
 back of the title-page of a copy of _Hero and Leander_, ed. 1629, where
 it is subscribed with Marlowe's name.
-
-
 NOCTIVAGI terror, ganeonis triste flagellum,
 Et Jovis Alcides, rigido vulturque latroni,
 Urna subtegitur.  Scelerum, gaudete, nepotes!
@@ -2712,12 +2550,7 @@ Illius in cineres, cujus tot millia vultus
 Mortalium attonuit: sic cum te nuntia Ditis
 Vulneret exsanguis, feliciter ossa quiescant,
 Famaque marmorei superet monumenta sepulcri.
-
-
-
-DIALOGUE IN VERSE
-
-   First printed in _The Alleyn Papers_ (for the Shakespeare Society),
+First printed in _The Alleyn Papers_ (for the Shakespeare Society),
 p. 8, by Payne Collier, who prefaced it with the following remarks:
 "In the original MS. this dramatic dialogue in verse is written as
 prose, on one side of a sheet of paper, at the back of which, in a more
@@ -2725,114 +2558,78 @@ modern hand, is the name 'Kitt Marlowe.' What connection, if any,
 he may have had with it, it is impossible to determine."  This Dialogue
 may be a fragment of _The Maiden's Holiday,_ a lost comedy, which is
 said to have been written partly by Marlowe.--DYCE
-
 _Jack._ Seest thou not yon farmer's son?
-     He hath stoln my love from me, alas!
-   What shall I do?  I am undone;
-     My heart will ne'er be as it was.
-   O, but he gives her gay gold rings,
-     And tufted gloves [for] holiday,
-   And many other goodly things,
-     That hath stoln my love away.
-
+He hath stoln my love from me, alas!
+What shall I do?  I am undone;
+My heart will ne'er be as it was.
+O, but he gives her gay gold rings,
+And tufted gloves [for] holiday,
+And many other goodly things,
+That hath stoln my love away.
 _Friend._ Let him give her gay gold rings
-     Or tufted gloves, were they ne'er so [gay];
-   [F]or were her lovers lords or kings,
-     They should not carry the wench away.
-
+Or tufted gloves, were they ne'er so [gay];
+They should not carry the wench away.
 _Jack._ But 'a dances wonders well,
-     And with his dances stole her love from me:
-   Yet she wont to say, I bore the bell
-     For dancing and for courtesy.
-
+And with his dances stole her love from me:
+Yet she wont to say, I bore the bell
+For dancing and for courtesy.
 _Dick._ Fie, lusty younker, what do you here,
-     Not dancing on the green to-day?
-   For Pierce, the farmer's son, I fear,
-     Is like to carry your wench away.
-
+Not dancing on the green to-day?
+For Pierce, the farmer's son, I fear,
+Is like to carry your wench away.
 _Jack._ Good Dick, bid them all come hither,
-     And tell Pierce from me beside,
-   That, if he thinks to have the wench,
-     Here he stands shall lie with the bride.
-
+And tell Pierce from me beside,
+That, if he thinks to have the wench,
+Here he stands shall lie with the bride.
 _Dick._ Fie, Nan, why use thy old lover so,
-     For any other new-come guest?
-   Thou long time his love did know;
-     Why shouldst thou not use him best?
-
+For any other new-come guest?
+Thou long time his love did know;
+Why shouldst thou not use him best?
 _Nan._ Bonny Dick, I will not forsake
-     My bonny Rowland for any gold:
-   If he can dance as well as Pierce,
-     He shall have my heart in hold.
-
+My bonny Rowland for any gold:
+If he can dance as well as Pierce,
+He shall have my heart in hold.
 _Pierce._ Why, then, my hearts, let's to this gear;
-     And by dancing I may won
-   My Nan, whose love I hold so dear
-     As any realm under the sun.
-
+And by dancing I may won
+My Nan, whose love I hold so dear
+As any realm under the sun.
 _Gentleman._ Then, gentles, ere I speed from hence,
-     I will be so bold to dance
-   A turn or two without offence;
-     For, as I was walking along by chance,
-   I was told you did agree.
-
+I will be so bold to dance
+A turn or two without offence;
+For, as I was walking along by chance,
+I was told you did agree.
 _Friend._ 'Tis true, good sir; and this is she
-     Hopes your worship comes not to crave her;
-   For she hath lovers two or three,
-     And he that dances best must have her.
-
+Hopes your worship comes not to crave her;
+For she hath lovers two or three,
+And he that dances best must have her.
 _Gentleman._ How say you, sweet, will you dance with me?
-     And you [shall] have both land and [hill];
-   My love shall want nor gold nor fee.
-
+And you [shall] have both land and [hill];
+My love shall want nor gold nor fee.
 _Nan._ I thank you, sir, for your good will;
-   But one of these my love must be:
-     I'm but a homely country maid,
-   And far unfit for your degree;
-     [To dance with you I am afraid.]
-
+But one of these my love must be:
+I'm but a homely country maid,
+And far unfit for your degree;
 _Friend._ Take her, good sir, by the hand,
-     As she is fairest: were she fairer,
-   By this dance, you shall understand,
-     He that can win her is like to wear her.
-
+As she is fairest: were she fairer,
+By this dance, you shall understand,
+He that can win her is like to wear her.
 _Fool._ And saw you not [my] Nan to-day,
-     My mother's maid have you not seen?
-   My pretty Nan is gone away
-     To seek her love upon the green.
-   [I cannot see her 'mong so many:]
-   She shall have me, if she have any.
-
+My mother's maid have you not seen?
+My pretty Nan is gone away
+To seek her love upon the green.
+She shall have me, if she have any.
 _Nan._ Welcome, sweetheart, and welcome here,
-     Welcome, my [true] love, now to me.
-   This is my love [and my darling dear],
-     And that my husband [soon] must be.
-   And, boy, when thou com'st home, thou'lt see
-   Thou art as welcome home as he.
-
+Welcome, my [true] love, now to me.
+This is my love [and my darling dear],
+And that my husband [soon] must be.
+And, boy, when thou com'st home, thou'lt see
+Thou art as welcome home as he.
 _Gentleman._ Why, how now, sweet Nan!  I hope you jest.
-
 _Nan._ No, by my troth, I love the fool the best:
-   And, if you be jealous, God give you good-night!
-   I fear you're a gelding, you caper so light.
-
+And, if you be jealous, God give you good-night!
+I fear you're a gelding, you caper so light.
 _Gentleman._ I thought she had jested and meant but a fable,
-   But now do I see she hath play['d] with his bable.
-   I wish all my friends by me to take heed,
-   That a fool come not near you when you mean to speed.
-
-
-
-
-
-                      THE END
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Hero and Leander and Other Poems, by
+But now do I see she hath play['d] with his bable.
+I wish all my friends by me to take heed,
+That a fool come not near you when you mean to speed.
 Christopher Marlowe and George Chapman
-

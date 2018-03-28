@@ -1,63 +1,10 @@
-e Project Gutenberg EBook of Types of Weltschmerz in German Poetry, by
-Wilhelm Alfred Braun
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Types of Weltschmerz in German Poetry
-
-Author: Wilhelm Alfred Braun
-
-Release Date: December 21, 2005 [EBook #17364]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK WELTSCHMERZ ***
-
-
-
-
 Produced by David Starner, Ralph Janke and the Online
 Distributed Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
-TYPES OF WELTSCHMERZ IN GERMAN POETRY
-
-BY
-
 WILHELM ALFRED BRAUN, Ph.D.
-
-SOMETIME FELLOW IN GERMANIC LANGUAGES AND LITERATURES, COLUMBIA
-UNIVERSITY
-
-AMS PRESS, INC. NEW YORK 1966
-
-
-
-
 Copyright 1905, Columbia University Press, New York
-
 Reprinted with the permission of the Original Publisher, 1966
-
 AMS PRESS, INC. New York, N.Y. 10003 1966
-
 Manufactured in the United States of America
-
-
-
-
-NOTE
-
-
 The author of this essay has attempted to make, as he himself phrases
 it, "a modest contribution to the natural history of Weltschmerz." What
 goes by that name is no doubt somewhat elusive; one can not easily
@@ -70,20 +17,9 @@ best not to essay an exhaustive history, but to select certain
 conspicuously interesting types and proceed by the method of close
 analysis, characterization and comparison. I consider his work a
 valuable contribution to literary scholarship.
-
-CALVIN THOMAS.
-
 COLUMBIA UNIVERSITY, June, 1905
-
-
-
-
-PREFACE
-
-
 The work which is presented in the following pages is intended to be a
 modest contribution to the natural history of Weltschmerz.
-
 The writer has endeavored first of all to define carefully the
 distinction between pessimism and Weltschmerz; then to classify the
 latter, both as to its origin and its forms of expression, and to
@@ -102,44 +38,23 @@ represent three progressive stages of Weltschmerz viewed as a
 psychological process: Hoelderlin naive, Lenau self-conscious, Heine
 endeavoring to conceal his melancholy beneath the disguise of
 self-irony.
-
 It is a pleasure to tender my grateful acknowledgments to my former
 Professors, Calvin Thomas and William H. Carpenter of Columbia
 University, and Camillo von Klenze and Starr Willard Cutting of the
 University of Chicago, under whose stimulating direction and
 never-failing assistance my graduate studies were carried on.
-
-
-
-
-CONTENTS
-
-
 Chapter I--Introduction    1
-
 Chapter II--Hoelderlin      9
-
 Chapter III--Lenau        35
-
 Chapter IV--Heine         59
-
 Chapter V--Bibliography   85
-
-
-
-
-CHAPTER I
-
 =Introduction=
-
-
 The purpose of the following study is to examine closely certain German
 authors of modern times, whose lives and writings exemplify in an
 unusually striking degree that peculiar phase of lyric feeling which has
 characterized German literature, often in a more or less epidemic form,
 since the days of "Werther," and to which, at an early period in the
 nineteenth century, was assigned the significant name "Weltschmerz."
-
 With this side of the poet under investigation, there must of necessity
 be an enquiry, not only into his writings, his expressed feelings, but
 also his physical and mental constitution on the one hand, and into his
@@ -150,7 +65,6 @@ attention to the difficulties which surround the student of literature
 in discussing philosophical ideas or psychological phenomena. Intrepid
 indeed would it be for him to attempt a final judgment in these bearings
 of his subject, where wise men have differed and doctors have disagreed.
-
 Although sometimes loosely used as synonyms, it is necessary to note
 that there is a well-defined distinction between Weltschmerz and
 pessimism. Weltschmerz may be defined as the poetic expression of an
@@ -166,7 +80,6 @@ have reached the dispassionate conclusion that there is no real good or
 pleasure in the world that is not clearly outweighed by evil or pain,
 and that therefore self-destruction, or at least final annihilation is
 the consummation devoutly to be wished.
-
 James Sully, in his elaborate treatise on Pessimism,[1] divides it,
 however, into reasoned and unreasoned Pessimism, including Weltschmerz
 under the latter head. This is entirely compatible with the definition
@@ -189,7 +102,6 @@ logical sense. This being granted, we shall not be far astray in
 assuming that it is also the stage to which the philosophic pessimist
 will sometimes revert, when a strong sense of his own individuality
 asserts itself.
-
 If we attempt a classification of Weltschmerz with regard to its
 essence, or, better perhaps, with regard to its origin, we shall find
 that the various types may be classed under one of two heads: either as
@@ -218,7 +130,6 @@ types Wilhelm Scherer adds "Muessiggaenger, welche sich die Zeit mit uebler
 Laune vertreiben, missvergnuegte Lyriker, deren Gedichte nicht mehr
 gelesen werden, und Spatzenkoepfe, welche den Pessimismus fuer besonderen
 Tiefsinn halten und um jeden Preis tiefsinnig erscheinen wollen."[4]
-
 But it is with Weltschmerz in its outward manifestations as it finds
 expression in the poet's writings, that we shall be chiefly concerned in
 the following pages. And here the subdivisions, if we attempt to
@@ -226,7 +137,6 @@ classify, must be almost as numerous as the representatives themselves.
 In Hoelderlin we have the ardent Hellenic idealist; Lenau gives
 expression to all the pathos of Weltschmerz, Heine is its satirist, the
 misanthrope, while in Raabe we even have a pessimistic humorist.
-
 This brief list needs scarcely be supplemented by other names of poets
 of melancholy, such as Reinhold Lenz, Heinrich von Kleist, Robert
 Southey, Byron, Leopardi, in order to command our attention by reason of
@@ -249,12 +159,10 @@ productiveness are the fundamental elements of genius. And it is an
 almost instinctive force which urges the author on in his creative work.
 In the main his activity is due less to free will than to this inner
 compulsion.
-
-    "Ich halte diesen Drang vergebens auf,
-    Der Tag und Nacht in meinem Busen wechselt.
-    Wenn ich nicht sinnen oder dichten soll,
-    So ist das Leben mir kein Leben mehr,"
-
+"Ich halte diesen Drang vergebens auf,
+Der Tag und Nacht in meinem Busen wechselt.
+Wenn ich nicht sinnen oder dichten soll,
+So ist das Leben mir kein Leben mehr,"
 says Goethe's Tasso.[5] If this impulse of genius is embodied in a
 strong physical organism, as for example in the case of Shakespeare and
 Goethe, there need be no detriment to physical health; otherwise, and
@@ -268,7 +176,6 @@ more intensely than do other men. Schopenhauer says "der, in welchem der
 Genius lebt, leidet am meisten." It is only going a step further then,
 when Hamerling writes to his friend Moeser: "Schliesslich ist es doch nur
 der Kranke, der sich das Leid der ganzen Welt zu Herzen nimmt."
-
 Radestock, in his study "Genie und Wahnsinn," mentions and elaborates
 among others the following points of resemblance between the mind of
 genius and the insane mind: an abnormal activity of the imagination,
@@ -299,10 +206,8 @@ remote from that line. If this can be asserted of genius in general, it
 must be even more particularly and widely applicable in reference to a
 combination of genius and Weltschmerz. We shall find pathetic examples
 in the first two types selected for examination.
-
 Having thus introduced the subject in its most general bearings and
 aspects, it remains for us to review briefly its historical background.
-
 Weltschmerz is essentially a symptom of a period of conflict, of
 transition. The powerful reaction which marks the eighteenth century--a
 reaction against all traditional intellectual authority, and a struggle
@@ -326,7 +231,6 @@ discipline implied in our modern scientific training. Scientific
 exactness of thinking had not become an integral part of education.
 Hence the difference between the pessimism of Ibsen and the romantic
 Weltschmerz of these uncritical minds.
-
 In accounting for the tremendous effect produced by his "Werther,"
 Goethe compares his work to the bit of fuse which explodes the mine, and
 says that the shock of the explosion was so great because the young
@@ -353,7 +257,6 @@ disposition was so general that "Werther" itself exerted a powerful
 influence, because it everywhere struck a responsive chord and publicly
 and tangibly exhibited the true inwardness of a morbid youthful
 illusion.[8]
-
 Nor did the dawning nineteenth century bring relief. No other period of
 Prussian history, says Heinrich von Treitschke,[9] is wrapped in so deep
 a gloom as the first decade of the reign of Frederick William III. It
@@ -373,45 +276,20 @@ the present century is due to two causes; the people who have passed
 through 1793 and 1814 bear in their hearts two wounds. All that was is
 no more; all that will be is not yet. Do not hope to find elsewhere the
 secret of our ills."[11]
-
 This then in briefest outline is the transition from the century of
 individualism and autocracy to the nineteenth century of democracy.
 Small wonder that the struggle claimed its victims in those individuals
 who, unable to find a firm basis of conviction and principle, vacillated
 constantly between instinctive adherence to old traditions, and
 unreasoned inclination to the new order of things.
-
-FOOTNOTES:
-
-[Footnote 1: "Pessimism, a History and a Criticism," London, 1877.]
-
-[Footnote 2: Ed. von Hartmann: "Zur Geschichte und Begruendung des
 Pessimismus," Leipzig, Hermann Haacke, p. 187.]
-
-[Footnote 3: "Les Poetes Lyriques de l'Autriche," Paris, 1886, p. 293.]
-
-[Footnote 4: "Vortraege und Aufsaetze zur Geschichte des geistigen Lebens
 in Deutschland und Oesterreich," Berlin, 1874, p. 413.]
-
-[Footnote 5: Act 5, Sc. 2.]
-
-[Footnote 6: "Goethes Werke," Weimar ed. Vol. 28, p. 227 f.]
-
-[Footnote 7: _Ibid._, p. 216 f.]
-
-[Footnote 8: In view of Goethe's own words, then, the caution of a
 recent critic (Felix Melchior in _Litt. Forsch._ XXVII Heft, Berlin,
-1903) against applying the term Weltschmerz to "Werther," would seem to
 miss the mark entirely. Werther is a type, just as truly as is Faust,
 though in a smaller way, and the malady which he typifies has its
 ultimate origin in the development of public life,--the very condition
 which this critic insists upon as a mark of Weltschmerz in the proper
 application of the term.]
-
-[Footnote 9: "Historische und politische Aufsaetze," Leipzig, 1897. Vol.
-4.]
-
-[Footnote 10: As early as 1797 Hoelderlin's Hyperion laments: "Mein
 Geschaeft auf Erden ist aus. Ich bin voll Willens an die Arbeit gegangen,
 habe geblutet darueber, und die Welt um keinen Pfennig reicher gemacht."
 ("Hoelderlin's gesammelte Dichtungen, herausgegeben von B. Litzmann,"
@@ -421,18 +299,7 @@ nicht recht freuen, da sie mir gar zu viel gekostet haben. Dasselbe mag
 bei manchem ehrlichen Manne der Fall sein, und es traegt viel bei zu der
 grossen duesteren Verstimmung der Gegenwart." (Brief vom 21 April, 1851,
 an Gustav Kolb; Werke, Karpeles ed. Vol. IX, p. 378.)]
-
-[Footnote 11: "Confession d'un enfant du siecle." Oeuvres compl. Paris,
-1888 (Charpentier). Vol. VIII, p. 24.]
-
-
-
-
-CHAPTER II
-
 =Hoelderlin=
-
-
 A case such as that of Hoelderlin, subject as he was from the time of his
 boyhood to melancholy, and ending in hopeless insanity, at once suggests
 the question of heredity. Little or nothing is known concerning his
@@ -455,7 +322,6 @@ inception in any degree to hereditary tendencies, notwithstanding
 Hermann Fischer's opinion to the contrary.[12] There is no sufficient
 reason to assume "erbliche Belastung," and there are other sufficient
 causes without merely guessing at such a possibility.
-
 But while there are no sufficient historical grounds for the supposition
 that he brought the germ of his subsequent mental disease with him in
 his birth, we cannot fail to observe, even in the child, certain
@@ -468,21 +334,17 @@ He himself poetically describes his absentmindedness when a boy, and
 calls himself "ein Traeumer"; and a dreamer he remained all his life. It
 seems to have been this which first brought him into discord with the
 world:
-
-    Oft sollt' ich stracks in meine Schule wandern,
-    Doch ehe sich der Traeumer es versah,
-    So hatt' er in den Garten sich verirrt,
-    Und sass behaglich unter den Oliven,
-    Und baute Flotten, schifft' ins hohe Meer.
-
-     *       *       *       *       *
-
-    Dies kostete mich tausend kleine Leiden,
-    Verzeihlich war es immer, wenn mich oft
-    Die Kluegeren, mit herzlichem Gelaechter
-    Aus meiner seligen Ekstase schreckten,
-    Doch unaussprechlich wehe that es mir.[14]
-
+Oft sollt' ich stracks in meine Schule wandern,
+Doch ehe sich der Traeumer es versah,
+So hatt' er in den Garten sich verirrt,
+Und sass behaglich unter den Oliven,
+Und baute Flotten, schifft' ins hohe Meer.
+*       *       *       *       *
+Dies kostete mich tausend kleine Leiden,
+Verzeihlich war es immer, wenn mich oft
+Die Kluegeren, mit herzlichem Gelaechter
+Aus meiner seligen Ekstase schreckten,
+Doch unaussprechlich wehe that es mir.[14]
 If ever a boy needed a strong fatherly hand to guide him, to teach him
 self-reliance and practical sense, it was this dreamy, tender-spirited
 child.[15] The love and sympathy which his mother bestowed upon him was
@@ -506,7 +368,6 @@ town of Nuertingen on the Neckar. But this re-established marital
 happiness was to be of brief duration, for in 1779 her second husband
 died, and the mother was now left with four little children to care and
 provide for.
-
 The frequency with which death visited the family during his childhood
 and youth, familiarized him at an early age with scenes of sorrow and
 grief. No doubt he was too young when his father died to comprehend the
@@ -515,27 +376,21 @@ before he knew the meaning of his mother's tears, not only for his
 father, but also for his sister, who died in her infancy. Referring to
 his father's death, he writes in one of his early poems, "Einst und
 Jetzt":[16]
-
-    Einst schlugst du mir so ruhig, empoertes Herz!
-
-     *       *       *       *       *
-
-    Einst in des Vaters Schoosse, des liebenden
-    Geliebten Vaters,--aber der Wuerger kam,
-    Wir weinten, flehten, doch der Wuerger
-    Schnellte den Pfeil, und es sank die Stuetze.
-
+Einst schlugst du mir so ruhig, empoertes Herz!
+*       *       *       *       *
+Einst in des Vaters Schoosse, des liebenden
+Geliebten Vaters,--aber der Wuerger kam,
+Wir weinten, flehten, doch der Wuerger
+Schnellte den Pfeil, und es sank die Stuetze.
 At his tenderest and most impressionable age, the boy was thus made
 sadly aware of the fleetingness of human life and the pains of
 bereavement. We cannot wonder then at finding these impressions
 reflected in his most juvenile poetic attempts. His poem "Das
 menschliche Leben," written at the age of fifteen, begins:
-
-    Menschen, Menschen! was ist euer Leben,
-    Eure Welt, die thraenenvolle Welt!
-    Dieser Schauplatz, kann er Freude geben
-    Wo sich Trauern nicht dazu gesellt?[17]
-
+Menschen, Menschen! was ist euer Leben,
+Eure Welt, die thraenenvolle Welt!
+Dieser Schauplatz, kann er Freude geben
+Wo sich Trauern nicht dazu gesellt?[17]
 But a time of still greater unhappiness was in store for him when he
 left his home at the age of fourteen to enter the convent school at
 Denkendorf, where he began his preparation for a theological course. A
@@ -579,25 +434,20 @@ to Hoelderlin's nature. He goes back in fancy to the days of his
 childhood, describing his lonely rambles, from which he would return in
 the moonlight, unmindful of his lateness for the evening meal, at which
 he would hastily eat of that which the others had left:
-
-    Schlich mich, wenn ich satt gegessen,
-    Weg von meinem lustigen Geschwisterpaar.
-
-    O! in meines kleinen Stuebchens Stille
-    War mir dann so ueber alles wohl,
-    Wie im Tempel war mir's in der Naechte Huelle,
-    Wann so einsam von dem Turm die Glocke scholl.
-
-    Als ich weggerissen von den Meinen
-    Aus dem lieben elterlichen Haus
-    Unter Fremden irrte, we ich nimmer weinen
-    Durfte, in das bunte Weltgewirr hinaus,
-
-    O wie pflegtest du den armen Jungen,
-    Teure, so mit Mutterzaertlichkeit,
-    Wann er sich im Weltgewirre mued gerungen,
-    In der lieben, wehmutsvollen Einsamkeit.[21]
-
+Schlich mich, wenn ich satt gegessen,
+Weg von meinem lustigen Geschwisterpaar.
+O! in meines kleinen Stuebchens Stille
+War mir dann so ueber alles wohl,
+Wie im Tempel war mir's in der Naechte Huelle,
+Wann so einsam von dem Turm die Glocke scholl.
+Als ich weggerissen von den Meinen
+Aus dem lieben elterlichen Haus
+Unter Fremden irrte, we ich nimmer weinen
+Durfte, in das bunte Weltgewirr hinaus,
+O wie pflegtest du den armen Jungen,
+Teure, so mit Mutterzaertlichkeit,
+Wann er sich im Weltgewirre mued gerungen,
+In der lieben, wehmutsvollen Einsamkeit.[21]
 This love of solitude is carried to the extreme in his contemplation of
 a hermit's life. In a letter to Nast he says: "Heute ging ich so vor
 mich hin, da fiel mir ein, ich wolle nach vollendeten Universitaets
@@ -605,13 +455,11 @@ Jahren Einsiedler werden--und der Gedanke gefiel mir so wohl, eine
 ganze Stunde, glaub' ich, war ich in meiner Fantasie Einsiedler."[22]
 And although he never became a hermit, this is the final disposition
 which he makes of himself in his "Hyperion."
-
 These habits of thought and feeling, formed in boyhood, could lead to
 only one result. He became less and less qualified to comprehend and to
 grapple with the practical problems and difficulties of life, and
 entered young manhood and the struggle for existence at a tremendous
 disadvantage.
-
 Another trait of his character which served to intensify his subsequent
 disappointments, was the strong ambition which early filled his soul. He
 aspired to high achievements in his chosen field of art. In a letter to
@@ -642,7 +490,6 @@ ein Woelkchen mich fort."[26] These facts have a direct bearing upon
 Hoelderlin's Weltschmerz, inasmuch as it was just this unequal and
 unsuccessful struggle of the idealist with the stern realities of life
 that brought about the catastrophe which wrought his ruin.
-
 And just as his ideals are vague and abstract, so too are the
 expressions of his Weltschmerz. It needs no concrete idea to arouse his
 enthusiasm to its highest pitch. Thus Hyperion exclaims: "Der Gott in
@@ -653,7 +500,6 @@ nicht bessern, denn es ist umsonst! Man will nur dafuer sorgen, dass ihr
 dem Siegeslauf der Menschheit aus dem Wege geht!"[27] It is in the form
 of lofty generalities such as these, and seldom with reference to
 practical details, that Hoelderlin's longings find expression.
-
 Entirely consistent with this idealism is the nature of his love,
 ardent, but etherial, "uebersinnlich." This is reflected also in his
 lyrics, which are statuesque and beautiful, but lacking in passion and
@@ -670,26 +516,22 @@ his reading. In one of his earliest letters to her he writes: "Weil Du
 den Don Carlos liest, will ich ihn auch lesen."[28] It was during this
 time too that that he became so ardent an admirer of Schubart and
 Ossian. "Da leg' ich meinen Ossian weg und komme zu Dir," he writes in
-1788 to his friend Nast. "Ich habe meine Seele geweidet an den Helden
 des Barden, habe mit ihm getrauert, wann er trauert ueber sterbende
 Maedchen."[29] There is not a sensuous note in all Hoelderlin's poems or
 letters to Louise. Typical are the lines which he addresses to her on
 his departure from Maulbronn:
-
-    Lass sie drohen, die Stuerme, die Leiden,
-    Lass trennen--der Trennung Jahre
-    Sie trennen uns nicht!
-    Sie trennen uns nicht!
-    Denn mein bist du! Und ueber das Grab hinaus
-    Soll sie dauren, die unzertrennbare Liebe.
-
-    O! wenn's einst da ist
-    Das grosse selige Jenseits,
-    Wo die Krone dem leidenden Pilger,
-    Die Palme dem Sieger blinkt,
-    Dann Freundin--lohnet auch Freundschaft--
-    Auch Freundschaft der Ewige.[30]
-
+Lass sie drohen, die Stuerme, die Leiden,
+Lass trennen--der Trennung Jahre
+Sie trennen uns nicht!
+Sie trennen uns nicht!
+Denn mein bist du! Und ueber das Grab hinaus
+Soll sie dauren, die unzertrennbare Liebe.
+O! wenn's einst da ist
+Das grosse selige Jenseits,
+Wo die Krone dem leidenden Pilger,
+Die Palme dem Sieger blinkt,
+Dann Freundin--lohnet auch Freundschaft--
+Auch Freundschaft der Ewige.[30]
 The second bearing which his relations to Louise have upon his
 Weltschmerz lies in the fact that his love ended in disappointment. This
 is true not only of this particular episode, not only of all his
@@ -711,20 +553,17 @@ also fair to say that Hoelderlin would have had a good chance of winning,
 had fortune been more kind. For this reason these external influences
 must be reckoned with as an important cause of his Weltschmerz and
 subsequently of his insanity.
-
 This suggests an interesting point of comparison--if I may be permitted
 to anticipate somewhat--with Lenau, the second type selected. Hoelderlin
 earnestly pursued happiness and contentment, but it eluded him at every
 step. Lenau on the contrary reached a point in his Weltschmerz where he
 refused to see anything in life but pain, wilfully thrusting from him
 even such happiness as came within his reach.
-
 We may postpone any detailed reference to Hoelderlin's relations with
 Susette Gontard, which were vastly more important in their influence
 upon the poet's character and Weltschmerz, until we come to the
 discussion of his "Hyperion," of which Susette, under the pseudonym of
 Diotima, forms one of the central figures.
-
 To speak of all the disappointments which fell to Hoelderlin's lot would
 practically require the writing of his biography from the time of his
 graduation from Tuebingen to his return from Bordeaux, almost the entire
@@ -743,24 +582,20 @@ Bordeaux, and brought him back a mental wreck to his mother's home. Even
 as early as 1788 Hoelderlin complains bitterly in the poem "Der Lorbeer,"
 in which he eulogizes the poets Klopstock and Young and expresses his
 own ambition to aspire to their greatness:
-
-    Schon so manche Fruechte schoener Keime
-    Logen grausam mir ins Angesicht.[33]
-
+Schon so manche Fruechte schoener Keime
+Logen grausam mir ins Angesicht.[33]
 As the years passed, this feeling of disappointment and disillusion
 became more and more intense and bitter. A stanza from one of his more
 mature poems (1795) "An die Natur," will serve to illustrate the
 sentiment which pervades almost all his writings:
-
-    Tot ist nun, die mich erzog und stillte,
-    Tot ist nun die jugendliche Welt,
-    Diese Brust, die einst ein Himmel fuellte,
-    Tot und duerftig wie ein Stoppelfeld;
-    Ach es singt der Fruehling meinen Sorgen
-    Noch, wie einst, ein freundlich troestend Lied,
-    Aber hin ist meines Lebens Morgen,
-    Meines Herzens Fruehling ist verblueht.[34]
-
+Tot ist nun, die mich erzog und stillte,
+Tot ist nun die jugendliche Welt,
+Diese Brust, die einst ein Himmel fuellte,
+Tot und duerftig wie ein Stoppelfeld;
+Ach es singt der Fruehling meinen Sorgen
+Noch, wie einst, ein freundlich troestend Lied,
+Aber hin ist meines Lebens Morgen,
+Meines Herzens Fruehling ist verblueht.[34]
 In close causal connection with Hoelderlin's Weltschmerz is his belief
 that his life is ruled by an inexorable fate whose plaything he is.
 "Wenn hinfort mich das Schicksal ergreift, und von einem Abgrund in den
@@ -782,27 +617,24 @@ herumwirft und ins Grab legt, wie es ihr gefaellt, und von der wir nicht
 wissen, von wannen sie kommt, noch wohin sie geht:"[38] Perhaps nowhere
 better than in Hyperion's "Schicksalslied" does he give poetic
 expression to this thought. Omitting the first stanza it reads thus:
-
-    Schicksallos wie der schlafende
-      Saeugling atmen die Himmlischen;
-        Keusch bewahrt
-          In bescheidener Knospe,
-            Bluehet ewig
-              Ihnen der Geist,
-                Und die seligen Augen
-                  Blicken in stiller
-                    Ewiger Klarheit.
-
-    Doch uns ist gegeben,
-      Auf keiner Staette zu ruhn,
-        Es schwinden, es fallen
-          Die leidenden Menschen
-            Blindlings von einer
-              Stunde zur andern,
-                Wie Wasser von Klippe
-                  Zu Klippe geworfen,
-                    Jahrlang ins Ungewisse hinab.[39]
-
+Schicksallos wie der schlafende
+Saeugling atmen die Himmlischen;
+Keusch bewahrt
+In bescheidener Knospe,
+Bluehet ewig
+Ihnen der Geist,
+Und die seligen Augen
+Blicken in stiller
+Ewiger Klarheit.
+Doch uns ist gegeben,
+Auf keiner Staette zu ruhn,
+Es schwinden, es fallen
+Die leidenden Menschen
+Blindlings von einer
+Stunde zur andern,
+Wie Wasser von Klippe
+Zu Klippe geworfen,
+Jahrlang ins Ungewisse hinab.[39]
 The fundamental difference between Hoelderlin's "Anschauung" and Goethe's
 is at once apparent when we recall the "Lied der Parzen" from
 "Iphigenie." Hoelderlin does not bring the blessed Genii into any
@@ -813,16 +645,14 @@ characteristically as helpless, passive--"schwinden," "fallen,"
 "blindlings von einer Stunde zur andern." Whereas the opening lines of
 Goethe's "Parzen" strike the keynote of _conflict_ between the gods and
 men:
-
-    Es fuerchte die Goetter
-    Das Menschengeschlecht!
-    Sie halten die Herrschaft
-    In ewigen Haenden
-    Und koennen sie brauchen
-    Wie's ihnen gefaellt.
-    Der fuerchte sie doppelt,
-    Den je sie erheben!
-
+Es fuerchte die Goetter
+Das Menschengeschlecht!
+Sie halten die Herrschaft
+In ewigen Haenden
+Und koennen sie brauchen
+Wie's ihnen gefaellt.
+Der fuerchte sie doppelt,
+Den je sie erheben!
 And those who come to grief at the hands of the gods, are not weak
 passive creatures, but heaven-scaling Titans. This points to the
 antipodal difference between the characters of these two poets, and
@@ -831,7 +661,6 @@ of which he rid himself in "Werther." The difference between yielding
 and striving resulted in the difference between an acute case of
 Weltschmerz in the one and a healthy physical and intellectual manhood
 in the other.
-
 Thus far it has been almost entirely the personal aspect of Hoelderlin's
 Weltschmerz and its causes that has come under our notice. And since he
 was a lyric poet, it is perhaps natural that the sorrows which concerned
@@ -852,12 +681,10 @@ he gives expression in strong terms to his patriotic feelings, in which
 his disgust with his faint-hearted, servile compatriots and his defiance
 of "Fuerstenlaune" and "Despotenblut" are plainly evident. So too in
 "Maennerjubel," 1788:
-
-    Es glimmt in uns ein Funke der Goettlichen!
-    Und diesen Funken soll aus der Maennerbrust
-    Der Hoelle Macht uns nicht entreissen!
-    Hoert es, Despotengerichte, hoert es![42]
-
+Es glimmt in uns ein Funke der Goettlichen!
+Und diesen Funken soll aus der Maennerbrust
+Der Hoelle Macht uns nicht entreissen!
+Hoert es, Despotengerichte, hoert es![42]
 Perhaps nowhere outside of his own Wuerttemberg could he have been more
 unfavorably situated in this respect. Under Karl Eugen (1744-1793) the
 country sank into a deplorable condition. Regardless of the rights of
@@ -868,12 +695,10 @@ autocratic proclivities. Among his most reprehensible violations of
 constitutional rights, were his bartering of privileges and offices and
 the selling of troops. These things Hoelderlin attacks in one of his
 youthful poems "Die Ehrsucht" (1788):
-
-    Um wie Koenige zu prahlen, schaenden
-    Kleine Wuetriche ihr armes Land;
-    Und um feile Ordensbaender wenden
-    Raete sich das Ruder aus der Hand.[43]
-
+Um wie Koenige zu prahlen, schaenden
+Kleine Wuetriche ihr armes Land;
+Und um feile Ordensbaender wenden
+Raete sich das Ruder aus der Hand.[43]
 Another act of gross injustice which this petty tyrant perpetrated, and
 which Hoelderlin must have felt very painfully, was the incarceration of
 the poet's countryman Schubart from 1777 to 1787 in the Hohenasperg. But
@@ -890,23 +715,19 @@ servile submission with which he charged his compatriots, that called
 forth his bitterest invectives upon their insensible heads. His own
 words will serve best to show the intensity of his feelings. In 1788 he
 writes, in the poem "Am Tage der Freundschaftsfeier:"
-
-    Da sah er (der Schwaermer) all die Schande
-    Der weichlichen Teutonssoehne,
-    Und fluchte dem verderblichen Ausland
-    Und fluchte den verdorbenen Affen des Auslands,
-    Und weinte blutige Thraenen,
-    Dass er vielleicht noch lange
-    Verweilen muesse unter diesem Geschlecht.[44]
-
+Da sah er (der Schwaermer) all die Schande
+Der weichlichen Teutonssoehne,
+Und fluchte dem verderblichen Ausland
+Und fluchte den verdorbenen Affen des Auslands,
+Und weinte blutige Thraenen,
+Dass er vielleicht noch lange
+Verweilen muesse unter diesem Geschlecht.[44]
 Ten years later he treats the Germans to the following ignominious
 comparison:
-
-    Spottet ja nicht des Kinds, wenn es mit Peitsch' und Sporn
-    Auf dem Rosse von Holz, mutig und gross sich duenkt.
-    Denn, ihr Deutschen, auch ihr seid
-    Thatenarm und gedankenvoll.[45]
-
+Spottet ja nicht des Kinds, wenn es mit Peitsch' und Sporn
+Auf dem Rosse von Holz, mutig und gross sich duenkt.
+Denn, ihr Deutschen, auch ihr seid
+Thatenarm und gedankenvoll.[45]
 With his friend Sinclair, who was sent as a delegate, he attended the
 congress at Rastatt in November, 1798, and here he made observations
 which no doubt resulted in the bitter characterization of his nation in
@@ -946,7 +767,6 @@ sorgenschwer ist, weil sie den Genius verschmaehen--und darum fuerchten
 sie auch den Tod so sehr, und leiden um des Austernlebens willen alle
 Schmach, weil Hoehres sie nicht kennen, als ihr Machwerk, das sie sich
 gestoppelt."[49]
-
 But we should get an extremely unjust and one-sided idea of Hoelderlin's
 attitude toward his country from these quotations alone. The point which
 they illustrate is his growing estrangement from his own people, which
@@ -966,30 +786,25 @@ word on the subject. Nor did he ever lose sight of his lofty ideal of
 liberty for his degraded fatherland or cease to hope for its
 realization. In this strain he concludes the "Hymne an die Freiheit"
 (1790) with a splendid outburst of patriotic enthusiasm:
-
-    Dann am suessen, heisserrung'nen Ziele,
-    Wenn der Ernte grosser Tag beginnt,
-    Wenn veroedet die Tyrannenstuehle,
-    Die Tyrannenknechte Moder sind,
-    Wenn im Heldenbunde meiner Brueder
-    Deutsches Blut und deutsche Liebe glueht,
-    Dann, O Himmelstochter! sing ich wieder,
-    Singe sterbend dir das letzte Lied.[50]
-
+Dann am suessen, heisserrung'nen Ziele,
+Wenn der Ernte grosser Tag beginnt,
+Wenn veroedet die Tyrannenstuehle,
+Die Tyrannenknechte Moder sind,
+Wenn im Heldenbunde meiner Brueder
+Deutsches Blut und deutsche Liebe glueht,
+Dann, O Himmelstochter! sing ich wieder,
+Singe sterbend dir das letzte Lied.[50]
 What a remarkable change is noticeable in the tone which the poet
 assumes toward his country in the lines "Gesang des Deutschen," written
 in 1799, probably after the completion of his "Hyperion":
-
-    O heilig Herz der Voelker, O Vaterland!
-    Allduldend gleich der schweigenden Muttererd'
-    Und allverkannt, wenn schon aus deiner
-    Tiefe die Fremden ihr Bestes haben.
-
-    Du Land des hohen, ernsteren Genius!
-    Du Land der Liebe! bin ich der Deine schon,
-    Oft zuernt' ich weinend, dass du immer
-    Bloede die eigene Seele leugnest.[51]
-
+O heilig Herz der Voelker, O Vaterland!
+Allduldend gleich der schweigenden Muttererd'
+Und allverkannt, wenn schon aus deiner
+Tiefe die Fremden ihr Bestes haben.
+Du Land des hohen, ernsteren Genius!
+Du Land der Liebe! bin ich der Deine schon,
+Oft zuernt' ich weinend, dass du immer
+Bloede die eigene Seele leugnest.[51]
 How much the reproach has been softened, and with what tender regard he
 strives to mollify his former bitterness! To this change in his
 feelings, his sojourn in strange places and the attendant
@@ -998,12 +813,10 @@ little, for in the poem "Rueckkehr in die Heimat," written in 1800, the
 contempt of "Hyperion" has been replaced by compassion. He sees himself
 and his country linked together in the sacred companionship of
 suffering, consequently it can no longer be the object of his scorn.
-
-    Wie lange ist's, O wie lange! des Kindes Ruh'
-    Ist hin, und hin ist Jugend, und Lieb' und Glueck,
-    Doch du, mein Vaterland! du heilig
-    Duldendes! siehe, du bist geblieben.[52]
-
+Wie lange ist's, O wie lange! des Kindes Ruh'
+Ist hin, und hin ist Jugend, und Lieb' und Glueck,
+Doch du, mein Vaterland! du heilig
+Duldendes! siehe, du bist geblieben.[52]
 But the fact remains, nevertheless, that Hoelderlin from his early youth
 felt himself a stranger in his own land and among his own people. Some
 of the causes of this circumstance have already been discussed. The fact
@@ -1016,7 +829,6 @@ flight from the world of stern reality into an imaginary world of Greek
 ideals. An imaginary Greek world, because in spite of his Hellenic
 enthusiasm he entertained some of the most un-Hellenic ideas and
 feelings.
-
 That the poet should take refuge in Greek antiquity is not surprising,
 when we consider the conditions which prevailed at that time in the
 field of learning. It was not many decades since the study of Latin and
@@ -1032,13 +844,11 @@ fellow-students of being an excellent Hellenist, according to the report
 of Schwab, his biographer. It was while there that Hoelderlin as a boy
 of seventeen first made use of the Alcaic measure in which he
 subsequently wrote so many of his poems.
-
 A full discussion of the technic of Hoelderlin's poems would have so
 remote a connection with the main topic under consideration that its
 introduction here would be entirely out of place. It will suffice,
 therefore, merely to indicate along broad lines the extent to which the
 Greek idea took and held possession of the poet.
-
 Out of his 168 shorter poems, 126, exactly three-fourths, are written in
 the unrhymed Greek measures.[53] Those forms which are native are
 confined almost entirely to his juvenile and youthful compositions, and
@@ -1047,12 +857,10 @@ after 1797 he only once employs the rhymed stanza, namely, in the poem
 and Asclepiadeian measures,[55] and soon acquired a considerable mastery
 over them. At seventeen he composed in the latter form his poem "An
 meine Freundinnen:"
-
-    In der Stille der Nacht denket an euch mein Lied,
-    Wo mein ewiger Gram jeglichen Stundenschlag,
-    Welcher naeher mich bringt dem
-    Trauten Grabe, mit Dank begruesst.[56]
-
+In der Stille der Nacht denket an euch mein Lied,
+Wo mein ewiger Gram jeglichen Stundenschlag,
+Welcher naeher mich bringt dem
+Trauten Grabe, mit Dank begruesst.[56]
 While not exhibiting the finish of expression and musical qualities of
 his more mature Alcaic lyrics, still it is not bad poetry for a boy of
 seventeen, and the reader feels what the boy was not slow to learn, that
@@ -1063,12 +871,10 @@ Greek verse-forms Hoelderlin's favorite, and the one most frequently and
 successfully employed by him. He is very fond of introducing Germanic
 alliteration into these unrhymed stanzas, as the following example will
 illustrate:
-
-    Und wo sind Dichter, denen der Gott es gab,
-    Wie unsern Alten, freundlich und fromm zu sein,
-    Wo Weise, wie die unsern sind, die
-    Kalten und Kuehnen, die unbestechbarn?[57]
-
+Und wo sind Dichter, denen der Gott es gab,
+Wie unsern Alten, freundlich und fromm zu sein,
+Wo Weise, wie die unsern sind, die
+Kalten und Kuehnen, die unbestechbarn?[57]
 The Asclepiadeian stanza he employs much less frequently, the Sapphic
 only once, and that with indifferent success. It was the ode, dithyramb
 and hymn, the serious lyric, which Hoelderlin selected as the models for
@@ -1080,7 +886,6 @@ Zeitaltern am meisten vernachlaessigte Musen! in ihre Arme wollen wir uns
 werfen, von ihren Kuessen beseelt uns aufraffen. Welche Aussichten! Dein
 Hymnus an die Kuehnheit mag Dir zum Motto dienen! Mir gehe die Hoffnung
 voran."[58]
-
 But it was in the form much more than in the contents of his poems, that
 Hoelderlin carried out the Greek idea. Most of his lyrics are occasional
 poems, or have abstract subjects, as for example, "An die Stille," "An
@@ -1094,7 +899,6 @@ selfish than to altruistic motives. He wanted to get away from the
 deplorable realities about him, the things which hurt his tender soul,
 and so he constructed for himself this idealized world of ancient and
 modern Greece, and peopled it with his own creations.
-
 In Hoelderlin's "Hyperion," we have the first poetic work in German which
 takes modern Greece as its locality and a modern Hellene as its hero.
 Hoelderlin calls it "ein Roman," but it would be rather inaccurately
@@ -1117,7 +921,6 @@ severely jarred by the sordidness, apathy and insensibility of these
 "barbarians." Returning to the Isthmus, he becomes a hermit and writes
 his letters to Bellarmin, no less "thatenarm und gedankenvoll" himself
 than his unfortunate countrymen whom he so characterizes.[60]
-
 "Hyperion," though written in prose, is scarcely anything more than a
 long drawn out lyric poem, so thoroughly is action subordinated to
 reflection, and so beautiful and rhythmic is the dignified flow of its
@@ -1149,17 +952,14 @@ system of philosophy, and Weltschmerz as a poetic mood.[63] It is
 certainly un-Hellenic that Hoelderlin allows Hyperion with his alleged
 Greek nature to sink into contemplative inactivity. In the poem "Der
 Lorbeer," 1789, he exclaims:
-
-    Soll ewiges Trauern mich umwittern,
-    Ewig mich toeten die bange Sehnsucht?[64]
-
+Soll ewiges Trauern mich umwittern,
+Ewig mich toeten die bange Sehnsucht?[64]
 which gives expression to the fact that in his Weltschmerz there was a
 very large admixture of "Sehnsucht," an entirely un-Hellenic feeling.
 Nor is there to be found in his entire make-up the slightest trace of
 Greek irony, which would have enabled him to overcome much of the
 bitterness of his life, and which might indeed have averted its final
 catastrophe.
-
 Undeniably Grecian is Hoelderlin's idea that the beautiful is also the
 good. Long years he sought for this combined ideal. In Diotima, the muse
 of his "Hyperion," whose prototype was Susette Gontard, he has found
@@ -1181,7 +981,6 @@ his "Uebersinnlichkeit." Even his boyish love-affairs seem to have been
 largely of this character, and were in all likelihood due to the
 necessity which he felt of bestowing his affection somewhere, rather
 than to irresistible forces proceeding from the objects of his regard.
-
 Lack of self-restraint, so often characteristic of the poet of
 Weltschmerz, was not Hoelderlin's greatest fault. And yet if his intense
 devotion to Susette remained undebased by sensual desires, as we know it
@@ -1248,7 +1047,6 @@ Sonn', und um uns spielte der Wind mit abgefallenem Laube. Das Land war
 stumm; nur hie und da ertoente im Wald ein stuerzender Baum, vom Landmann
 gefaellt, und neben uns murmelte der vergaengliche Regenbach hinab ins
 ruhige Meer."[73]
-
 In spite of his deep and persistent Weltschmerz, Hoelderlin rarely gives
 expression to a longing for death. This forms so prominent a feature in
 the thought of other types of Weltschmerz, for instance of Lenau and of
@@ -1266,7 +1064,6 @@ epidemic of cholera, he clung so tenaciously to life that he urged a
 hurried departure from Naples, regardless of the hardships of such a
 journey in his feeble condition, and took refuge in a little villa near
 Vesuvius. Hoelderlin's Weltschmerz was absolutely sincere.
-
 Numerous passages might be quoted to show that Hoelderlin's mind was
 intensely introspective. This is true also of Lenau, even to a greater
 extent, and may be taken as generally characteristic of poets of this
@@ -1276,17 +1073,14 @@ not very remote relation of Weltschmerz to insanity. In Hoelderlin's
 poems there are not a few premonitions of the sad fate which awaited
 him. One illustration from the poem "An die Hoffnung," 1801, may
 suffice:
-
-    Wo bist du? wenig lebt' ich, doch atmet kalt
-    Mein Abend schon. Und stille, den Schatten gleich,
-    Bin ich schon hier; und schon gesanglos
-    Schlummert das schau'rende Herz im Busen.[74]
-
+Wo bist du? wenig lebt' ich, doch atmet kalt
+Mein Abend schon. Und stille, den Schatten gleich,
+Bin ich schon hier; und schon gesanglos
+Schlummert das schau'rende Herz im Busen.[74]
 It is impossible to read these lines without feeling something of the
 cold chill of the heart that Hoelderlin felt was already upon him, and
 which he expresses in a manner so intensely realistic and yet so
 beautiful.
-
 Having thus attempted a review of the growth of Hoelderlin's Weltschmerz
 and of its chief characteristics, it merely remains to conclude the
 chapter with a brief resume. We have then in Friedrich Hoelderlin a youth
@@ -1304,7 +1098,6 @@ it, felt very keenly the humiliating condition of Germany, although his
 patriotic enthusiasm found its artistic expression not with reference to
 Germany but to Greece. As a poet, finally, his intimacy with nature was
 such that nature-worship and pantheism became his religion.
-
 In reviewing the whole range of Hoelderlin's writings, we cannot avoid
 the conclusion, that in him we have a type of Weltschmerz in the
 broadest sense of the term; we might almost term it Byronism, with the
@@ -1318,157 +1111,18 @@ cosmic rather than egoistic; the egoistic element is there, but it is
 outweighed by the cosmic and finds its poetic expression not so
 frequently nor so intensely with reference to the poet himself, as with
 reference to mankind at large.
-
-FOOTNOTES:
-
-[Footnote 12: _Anz. f. d. Alt._, vol. 22, p. 212-218.]
-
-[Footnote 13: In a letter to his mother he writes: "Freilich ist's mir
 auch angeboren, dass ich alles schwerer zu Herzen nehme." ("Friedrich
 Hoelderlins Leben, in Briefen von und an Hoelderlin, von Carl C.T.
 Litzmann," Berlin, 1890, p. 27. Hereafter quoted as "Briefe.").]
-
-[Footnote 14: "Hoelderlins gesammelte Dichtungen, herausgegeben von B.
 Litzmann," Stuttgart, Cotta (hereafter quoted as "Werke"). Vol. II, p.
-9.]
-
-[Footnote 15: It is a reminiscence of Hoelderlin's boyhood which finds
 expression in the words of Hyperion: "Ich war aufgewachsen, wie eine
 Rebe ohne Stab, und die wilden Ranken breiteten richtungslos ueber dem
 Boden sich aus." Werke, Vol. II, p. 72.]
-
-[Footnote 16: Werke, Vol. I, p. 86.]
-
-[Footnote 17: Werke, Vol. I, p. 36.]
-
-[Footnote 18: "Auf einer Heide geschrieben," Werke, Vol. I, p. 44.]
-
-[Footnote 19: Briefe, p. 27.]
-
-[Footnote 20: Briefe, p. 29.]
-
-[Footnote 21: Werke, Vol. I, p. 53 f.]
-
-[Footnote 22: Briefe, p. 36.]
-
-[Footnote 23: Briefe, p. 120.]
-
-[Footnote 24: "Mein Vorsatz," Werke, Vol. I, p. 44.]
-
-[Footnote 25: Werke, Vol. II, p. 69.]
-
-[Footnote 26: Werke, Vol. II, p. 90.]
-
-[Footnote 27: Werke, Vol. II, p. 86.]
-
-[Footnote 28: Briefe, p. 49.]
-
-[Footnote 29: Briefe, p. 50.]
-
-[Footnote 30: Werke, Vol. I, p. 74.]
-
-[Footnote 31: "Friedrich Hoelderlin, Eine Studie," _Preuss. Jahrb._,
-1866, p. 548-568.]
-
-[Footnote 32: _Anz. f. d. Altertum_, Vol. 22, p. 212-218.]
-
-[Footnote 33: Werke, Vol. I, p. 75.]
-
-[Footnote 34: Werke, Vol. I, p. 146.]
-
-[Footnote 35: Werke, Vol. II, p. 107.]
-
-[Footnote 36: Werke, Vol. II, p. 188.]
-
-[Footnote 37: "Vortraege und Aufsaetze," 1874, Fried. Hoelderlin, p. 354.]
-
-[Footnote 38: Werke, Vol. II, p. 96.]
-
-[Footnote 39: Werke, Vol. II, p. 189.]
-
-[Footnote 40: Cf. op. cit., p. 352.]
-
-[Footnote 41: Werke, Vol. I, p. 51.]
-
-[Footnote 42: Werke, Vol. I, p. 50.]
-
-[Footnote 43: Werke, Vol. I, p. 49.]
-
-[Footnote 44: Werke, Vol. I, p. 66.]
-
-[Footnote 45: Werke, Vol. I, p. 165.]
-
-[Footnote 46: Werke, Vol. II, p. 198.]
-
-[Footnote 47: Werke, Vol. II, p. 97.]
-
-[Footnote 48: Werke, Vol. II, p. 200.]
-
-[Footnote 49: Werke, Vol. II, p. 200 f.]
-
-[Footnote 50: Werke, Vol. I, p. 105.]
-
-[Footnote 51: Werke, Vol. I, p. 196.]
-
-[Footnote 52: Werke, Vol. I, p. 214.]
-
-[Footnote 53: Werke, Vol. I.]
-
-[Footnote 54: Werke, Vol. I, p. 234.]
-
-[Footnote 55: "An die Nachtigall," "An meinen Bilfinger," Werke, Vol. I,
 p. 42f.]
-
-[Footnote 56: Werke, Vol. I, p. 43.]
-
-[Footnote 57: Werke, Vol. I, p. 197.]
-
-[Footnote 58: Briefe, p. 160.]
-
-[Footnote 59: Briefe, p. 162.]
-
-[Footnote 60: Cf. _supra_, p. 22.]
-
-[Footnote 61: "Oedipus Coloneus," 1225 seq.]
-
-[Footnote 62: Werke, Vol. II, p. 81.]
-
-[Footnote 63: Cf. Introduction, p. 1 f.]
-
-[Footnote 64: Werke, Vol. I, p. 89.]
-
-[Footnote 65: Briefe, p. 382 f.]
-
-[Footnote 66: Briefe, p. 403-405.]
-
-[Footnote 67: Werke, Vol. II, p. 175.]
-
-[Footnote 68: Briefe, p. 404.]
-
-[Footnote 69: Werke, Vol. II, p. 68.]
-
-[Footnote 70: Werke, Vol. II, p. 100.]
-
-[Footnote 71: Werke, Vol. II, p. 68.]
-
-[Footnote 72: Werke, Vol. II, p. 85.]
-
-[Footnote 73: Werke, Vol. II, p. 181.]
-
-[Footnote 74: Werke, Vol. I, p. 253.]
-
-
-
-
-CHAPTER III
-
 =Lenau=
-
-
 If Hoelderlin's Weltschmerz has been fittingly characterized as
 idealistic, Lenau's on the other hand may appropriately be termed the
 naturalistic type. He is par excellence the "Pathetiker" of Weltschmerz.
-
 Without presuming even to attempt a final solution of a problem of
 pathology concerning which specialists have failed to agree, there seems
 to be sufficient circumstantial as well as direct evidence to warrant
@@ -1499,7 +1153,6 @@ who in her blind devotion did not hesitate to show him the utmost
 partiality in all things. This important fact alone must account to a
 large extent for that presumptuous pride, which led him to expect
 perhaps more than his just share from life and from the world.
-
 Lenau's aimlessness and instability were so extreme that they may
 properly be counted a pathological trait. It is best illustrated by his
 university career. In 1819 he went to Vienna to commence his studies.
@@ -1539,35 +1192,29 @@ process of traveling, though that at best must have been trying enough,
 but the breathless haste of his journeys, combined with mental anxiety,
 which usually characterized them, that made them so detrimental to his
 health.
-
 It is as interesting as it is significant to note in this connection the
 fact that while on a journey to Munich, just a short time before the
 light of his intellect failed, Lenau wrote the following lines, the last
 but one of all his poems:
-
-    's ist eitel nichts, wohin mein Aug' ich hefte!
-    Das Leben ist ein vielbesagtes Wandern,
-    Ein wuestes Jagen ist's von dem zum andern,
-    Und unterwegs verlieren wir die Kraefte.
-
-    Doch traegt uns eine Macht von Stund zu Stund,
-    Wie's Krueglein, das am Brunnenstein zersprang,
-    Und dessen Inhalt sickert auf den Grund,
-    So weit es ging, den ganzen Weg entlang,--
-    Nun ist es leer. Wer mag daraus noch trinken?
-    Und zu den andern Scherben muss es sinken.[80]
-
+'s ist eitel nichts, wohin mein Aug' ich hefte!
+Das Leben ist ein vielbesagtes Wandern,
+Ein wuestes Jagen ist's von dem zum andern,
+Und unterwegs verlieren wir die Kraefte.
+Doch traegt uns eine Macht von Stund zu Stund,
+Wie's Krueglein, das am Brunnenstein zersprang,
+Und dessen Inhalt sickert auf den Grund,
+So weit es ging, den ganzen Weg entlang,--
+Nun ist es leer. Wer mag daraus noch trinken?
+Und zu den andern Scherben muss es sinken.[80]
 Hoelderlin also uses the striking figure contained in the last line, not
 however as here to picture the worthlessness of human life in general,
 but to stigmatize the Germans, whom Hyperion describes as "dumpf und
 harmonielos, wie die Scherben eines weggeworfenen Gefaesses."[81]
-
 That Lenau was a neurasthenic seems to be the consensus of opinion, at
 least of those medical authorities who have given their views of the
 case to the public.[82] This fact also has an important bearing upon our
 discussion, since it will help to show a materially different origin for
 Lenau's Weltschmerz and Hoelderlin's.
-
 Much more frequent than in the case of the latter are the ominous
 forebodings of impending disaster which characterize Lenau's poems and
 correspondence. In a letter to his friend Karl Mayer he writes: "Mich
@@ -1584,7 +1231,6 @@ morbid imagination, which led him, on more than one occasion, to play
 the madman in so realistic a manner that strangers were frightened out
 of their wits and even his friends became alarmed, lest it might be
 earnest and not jest which they were witnessing.
-
 Lenau was not without a certain sense of humor, grim humor though it
 was, and here and there in his letters there is an admixture of levity
 with the all-pervading melancholy. An example may be quoted from a
@@ -1615,7 +1261,6 @@ element of surprise, and in the fact that his humor is almost always of
 the impatient, disgruntled, cynical type, Lenau reminds us not a little
 of Heine in his "Reisebilder" and some other prose works. Hoelderlin, on
 the other hand, may be said to have been utterly devoid of humor.
-
 Lack of self-control, perhaps the most characteristic trait among men of
 genius, was even more pronounced in Lenau than in Hoelderlin. This shows
 itself in the extreme irregularity of his habits of life. For instance,
@@ -1630,7 +1275,6 @@ to the long walks which he ought to have taken for his health? Even his
 recreation, which consisted chiefly in playing the violin, brought him
 no nervous relaxation, for it is said that he would often play himself
 into a state of extreme nervous excitement.
-
 All these considerations corroborate the opinion of those who knew him
 best, that his Weltschmerz, and eventually his insanity, had its origin
 in a pathological condition. Indeed this was the poet's own view of the
@@ -1641,7 +1285,6 @@ immer tiefer und weiter. Es hilft alles nichts. Ich weiss, es liegt im
 Koerper; aber--aber--"[88] In its origin then, Lenau's Weltschmerz
 differs altogether from that of Hoelderlin, who exhibits no such symptoms
 of neurasthenia.
-
 Lenau's nervous condition was seriously aggravated at an early date by
 the outcome of his unfortunate relations with the object of his first
 love, Bertha, who became his mistress when he was still a mere boy. His
@@ -1656,7 +1299,6 @@ to marry. Lenau was only once "verlobt," and it was the stroke of facial
 paralysis[90] which announced the beginning of the end, rather than any
 "unerklaerliche Angst," that convinced him of the inexpediency of that
 important step.
-
 Beyond a doubt his long drawn out and abject devotion to the wife of his
 friend Max Loewenthal proved the most important single factor in his
 life. It was during the year 1834, after his return from America, that
@@ -1729,7 +1371,6 @@ Behrends, and all the poet's friends rejoiced with him at the prospect
 of a happy marriage, a "Musterehe," as he fondly called it, Sophie wrote
 him the cruel words: "Eines von uns muss wahnsinnig werden."[100] Only a
 few months were needed to decide which of them it should be.
-
 The foregoing illustrations are ample to show what sort of influence
 Sophie exerted over the poet's entire nature, and therefore upon his
 Weltschmerz. Whereas in their hopeless loves, Hoelderlin and to an even
@@ -1745,7 +1386,6 @@ was the rude interruption from without of his quiet and happy
 intercourse with Susette, which embittered his soul. With Lenau it was
 the feverish, tumultuous nature of the love itself, that deepened his
 melancholy.
-
 The charge of affectation in their Weltschmerz would be an entirely
 baseless one, both in the case of Hoelderlin and Lenau. But this
 difference is readily discovered in the impressions made upon us by
@@ -1760,12 +1400,10 @@ wrote to Sophie, "der Kompass meiner Seele zittert immer wieder zurueck
 nach dem Schmerze des Lebens."[105] Innumerable illustrations of this
 fact might be found in his lyrics, all of which would repeat with
 variations the theme of the stanza:
-
-    Du geleitest mich durch's Leben
-    Sinnende Melancholie!
-    Mag mein Stern sich strebend heben,
-    Mag er sinken,--weichest nie![106]
-
+Du geleitest mich durch's Leben
+Sinnende Melancholie!
+Mag mein Stern sich strebend heben,
+Mag er sinken,--weichest nie![106]
 The definite purpose with which the poet seeks out and strives to keep
 intact his painful impressions is frankly stated in one of his diary
 memoranda, as follows: "So gibt es eine Hoehe des Kummers, auf welcher
@@ -1776,12 +1414,10 @@ die bei aller scheinbaren Aussenheiterkeit recht gut fortbestehen
 kann."[107] Hoelderlin, as we have noted,[108] not infrequently pictures
 himself as a sacrifice to the cause of liberty and fatherland, to the
 new era that is to come:
-
-    Umsonst zu sterben, lieb' ich nicht; doch
-    Lieb' ich zu fallen am Opferhuegel
-    Fuer's Vaterland, zu bluten des Herzens Blut,
-    Fuer's Vaterland....[109]
-
+Umsonst zu sterben, lieb' ich nicht; doch
+Lieb' ich zu fallen am Opferhuegel
+Fuer's Vaterland, zu bluten des Herzens Blut,
+Fuer's Vaterland....[109]
 Lenau, on the other hand, is anxious to sacrifice himself to his muse.
 "Kuenstlerische Ausbildung ist mein hoechster Lebenszweck; alle Kraefte
 meines Geistes, meines Gemuetes betracht' ich als Mittel dazu. Erinnerst
@@ -1798,7 +1434,6 @@ also fully aware of its picturesqueness and its poetic possibilities. It
 is true that this self-consciousness brings him dangerously near the
 bounds of insincerity, but it must also be granted that he never
 oversteps those bounds.
-
 Regarded as a psychological process, Lenau's Weltschmerz therefore
 stands midway between that of Hoelderlin and Heine. It is more
 self-centred than Hoelderlin's and while the poet is able to diagnose the
@@ -1806,7 +1441,6 @@ disease which holds him firmly in its grasp, he lacks those means by
 which he might free himself from it. Heine goes still further, for
 having become conscious of his melancholy, he mercilessly applies the
 lash of self-irony, and in it finds the antidote for his Weltschmerz.
-
 Fichte, says Erich Schmidt, calls egoism the spirit of the eighteenth
 century, by which he means the revelling, the complete absorption, in
 the personal. This will naturally find its favorite occupation in
@@ -1824,7 +1458,6 @@ which goes to show that while for artistic purposes Goethe required a
 dramatic cause, or rather occasion, for Werther's suicide, he
 nevertheless fully understood all the symptoms of the prevailing disease
 with which his sentimental hero was afflicted.
-
 While the personal elements in Lenau's Weltschmerz are much more intense
 in their expression than with Hoelderlin, its altruistic side is
 proportionately weaker. So far as we may judge from his lyrics, very
@@ -1856,9 +1489,7 @@ letters and lyrics alone, in which the poet's sincerest feelings need
 not be subordinated for a moment to artistic purposes or demands. And
 nowhere, either in lyrics or letters, do we find such spontaneous
 outbursts of patriotic sentiment as greet us in Hoelderlin's poems:
-
-    Glueckselig Suevien, meine Mutter![115]
-
+Glueckselig Suevien, meine Mutter![115]
 This could not be otherwise; for was he (Lenau) not an Hungarian by
 birth, an Austrian by adoption, and in his professional affiliations a
 German? Had his interests not been divided between Vienna and Stuttgart,
@@ -1885,7 +1516,6 @@ geistfressenden Tiere dar, eine abscheuliche, monstroese Klasse!"[119]
 Roustan expresses the opinion that with Lenau patriotism occupied a
 secondary place.[120] He had too many "native lands" to become attached
 to any one of them.
-
 There is something of a counterpart to Hoelderlin's Hellenism and
 championship of Greek liberty in Lenau's espousal of the Polish cause.
 But here again the personal element is strongly in evidence. A chance
@@ -1898,14 +1528,12 @@ profanen Schmutz wieder abwaschen muesse, den ihr Goethe durch 50 Jahre
 mit klassischer Hand gruendlich einzureiben bemueht war; dass die
 Freiheitsgedanken, wie sie jetzt gesungen werden, nichts seien als
 konventioneller Troedel,--davon haben nur wenige eine Ahnung."[121]
-
 All these considerations tend to convince us that Lenau's Weltschmerz is
 after all of a much narrower and more personal type than Hoelderlin's.
 Again and again he runs through the gamut of his own painful emotions
 and experiences, diagnosing and dissecting each one, and always with the
 same gloomy result. Consequently his Weltschmerz loses in breadth what
 through the depth of the poet's introspection it gains in intensity.
-
 One of the most striking and, unless classed among his numerous other
 pathological traits, one of the most puzzling of Lenau's characteristics
 is the perverseness of his nature. His intimate friends were wont to
@@ -1921,10 +1549,8 @@ und kann sich nie abnuetzen. Es ist was Frisches darin, ich sehe sie
 gerne."[122] And in not a few of his poems we see a certain predilection
 for the gruesome, the horrible. So in the remarkable figure employed in
 "Faust:"
-
-    Die Traeume, ungelehr'ge Bestien, schleichen
-    Noch immer nach des Wahns verscharrten Leichen.[123]
-
+Die Traeume, ungelehr'ge Bestien, schleichen
+Noch immer nach des Wahns verscharrten Leichen.[123]
 This perverseness of disposition is in a large measure accounted for by
 the fact that Lenau was eternally at war with himself. Speaking in the
 most general way, Hoelderlin's Weltschmerz had its origin in his conflict
@@ -1957,7 +1583,6 @@ passion: "Wie wird doch all mein Trotz und Stolz so gar zu nichte, wenn
 die Furcht in mir erwacht, dass Du mich weniger liebest";[129] and all
 this from the same pen that once wrote: "das Wort Gnade hat ein Schuft
 erfunden."[130]
-
 But just as helpless as this defiant pride proved before his
 all-consuming love for Sophie, so strongly did it assert itself in all
 his other relations with men and things. A hasty word from one of his
@@ -1978,54 +1603,44 @@ Bestrebungen."[135] "Die (Recensenten) wissen den Teufel von
 Poesie."[136] Whether this real or assumed nonchalance would have stood
 the test of literary disappointments such as Hoelderlin's, it is needless
 to speculate.
-
 Hoelderlin eagerly sought after happiness and contentment, but fortune
 eluded him at every turn. Lenau on the contrary thrust it from him with
 true ascetic spirit.
-
 The mere thought of submitting to the ordinary process of negotiations
 and recommendations for a vacant professorship of Esthetics in Vienna is
 so repulsive to his pride, that the whole matter is at once allowed to
 drop, notwithstanding that he has been preparing for the place by
 diligent philosophical studies.[137] The asceticism with which he
 regarded life in general is expressed in a letter to Emilie Reinbeck,
-1843, in which he says: "Wer die Welt gestalten helfen will, muss darauf
 verzichten, sie zu geniessen."[138] But more often this resignation
 becomes a defiant challenge: "Ich habe dem Leben gegenueber nun einmal
 meine Stellung genommen, es soll mich nicht hinunterkriegen. Dass mein
 Widerstand nicht der eines ruhigen Weisen ist, sondern viel Trotziges an
 sich hat, das liegt in meinen Temperament."[139]
-
 Another characteristic difference between Lenau's Weltschmerz and
 Hoelderlin's lies in the fact that the writings of the latter do not
 exhibit that absolute and abject despair which marks Lenau's lyrics.
 Typical for both poets are the lines addressed by each to a rose:
-
-    Ewig traegt im Mutterschosse,
-    Suesse Koenigin der Flur,
-    Dich und mich die stille, grosse,
-    Allbelebende Natur.
-
-    Roeschen unser Schmuck veraltet,
-    Sturm entblaettert dich und mich,
-    Doch der ew'ge Keim entfaltet
-    Bald zu neuer Bluete sich![140]
-
+Ewig traegt im Mutterschosse,
+Suesse Koenigin der Flur,
+Dich und mich die stille, grosse,
+Allbelebende Natur.
+Roeschen unser Schmuck veraltet,
+Sturm entblaettert dich und mich,
+Doch der ew'ge Keim entfaltet
+Bald zu neuer Bluete sich![140]
 Unmistakable as is the melancholy strain of these verses, they are not
 without a hopeful afterthought, in which the poet turns from
 self-contemplation to a view of a larger destiny. Not so in Lenau's
 poem, "Welke Rosen":
-
-    In einem Buche blaetternd, fand
-    Ich eine Rose welk, zerdrueckt,
-    Und weiss auch nicht mehr, wessen Hand
-    Sie einst fuer mich gepflueckt.
-
-    Ach mehr und mehr im Abendhauch
-    Verweht Erinn'rung; bald zerstiebt
-    Mein Erdenlos; dann weiss ich auch
-    Nicht mehr, wer mich geliebt.[141]
-
+In einem Buche blaetternd, fand
+Ich eine Rose welk, zerdrueckt,
+Und weiss auch nicht mehr, wessen Hand
+Sie einst fuer mich gepflueckt.
+Ach mehr und mehr im Abendhauch
+Verweht Erinn'rung; bald zerstiebt
+Mein Erdenlos; dann weiss ich auch
+Nicht mehr, wer mich geliebt.[141]
 The intensely personal note of the last stanza is in marked contrast
 with the corresponding stanza of Hoelderlin's poem just quoted. Further
 evidence that Lenau's Weltschmerz was constitutional, while Hoelderlin's
@@ -2034,68 +1649,40 @@ the writings of the former exhibit that stage of buoyant expectation,
 youthful enthusiasm, or hopeful striving, which we find in some of the
 earlier poems of the latter. In Hoelderlin's ode "An die Hoffnung," he
 apostrophizes hope as "Holde! guetig Geschaeftige!"
-
-    Die du das Haus der Trauernden nicht verschmaehst.[142]
-
+Die du das Haus der Trauernden nicht verschmaehst.[142]
 Lenau, in his poem of the same title, tells us he has done with hope:
-
-    All dein Wort ist Windesfaecheln;
-    Hoffnung! dann nur trau' ich dir,
-    Weisest du mit Trosteslaecheln
-    Mir des Todes Nachtrevier.[143]
-
+All dein Wort ist Windesfaecheln;
+Hoffnung! dann nur trau' ich dir,
+Weisest du mit Trosteslaecheln
+Mir des Todes Nachtrevier.[143]
 Even his Faust gives himself over almost from the outset to abject
 despair.
-
 Logically consequent upon this state of mind is the poet's oft-repeated
 longing for death. The persistency of this thought may be best
 illustrated by a few quotations from poems and letters, arranged
 chronologically:
-
-1831. Mir wird oft so schwer, als ob ich einen Todten in mir
 herumtruege.[144]
-
-1833.      Und mir verging die Jugend traurig,
-           Des Fruehlings Wonne blieb versaeumt,
-           Der Herbst durchweht mich trennungsschaurig,
-           Mein Herz dem Tod entgegentraeumt.[145]
-
-1837. Heute dachte ich oefter an den Tod, nicht mit bitterem Trotz
-      und stoerrischem Verlangen, sondern mit freundlichem Appetit.[146]
-
-1837. Soll ich Dir alles sagen? Wisse, dass ich wirklich daran
-      dachte, mir den Tod zu geben.[147]
-
-1838. Der Gedanke des Todes wird mir immer freundlicher, und ich
-      verschwende mein Leben gerne.[148]
-
-1838.      Durchs Fenster kommt ein duerres Blatt
-           Vom Wind hereingetrieben;
-           Dies leichte offne Brieflein hat
-           Der Tod an mich geschrieben.[149]
-
-1840. Oft will mich's gemahnen, als haette ich auf Erden nichts
-      mehr zu thun, und ich wuenschte dann, Gervinus moechte
-      recht haben, indem er, wie Georg mir erzaehlte, mir einen
-      baldigen Zusammenbruch und Tod prophezeite.[150]
-
-1842. Ich habe ein wolluestiges Heimweh, in Deinen Armen zu
-      sterben.[151]
-
-1843. Selig sind die Betaeubten! noch seliger sind die Toten![152]
-
-1844.      In dieses Waldes leisem Rauschen
-           Ist mir, als hoer' ich Kunde wehen,
-           Dass alles Sterben und Vergehen
-           Nur heimlichstill vergnuegtes Tauschen.[153]
-
+Des Fruehlings Wonne blieb versaeumt,
+Der Herbst durchweht mich trennungsschaurig,
+Mein Herz dem Tod entgegentraeumt.[145]
+und stoerrischem Verlangen, sondern mit freundlichem Appetit.[146]
+dachte, mir den Tod zu geben.[147]
+verschwende mein Leben gerne.[148]
+Vom Wind hereingetrieben;
+Dies leichte offne Brieflein hat
+Der Tod an mich geschrieben.[149]
+mehr zu thun, und ich wuenschte dann, Gervinus moechte
+recht haben, indem er, wie Georg mir erzaehlte, mir einen
+baldigen Zusammenbruch und Tod prophezeite.[150]
+sterben.[151]
+Ist mir, als hoer' ich Kunde wehen,
+Dass alles Sterben und Vergehen
+Nur heimlichstill vergnuegtes Tauschen.[153]
 If we should seek for the Leit-motif of Lenau's Weltschmerz, we should
 unquestionably have to designate it as the _transientness of life_. Thus
 in the poem "Die Zweifler," he exclaims:
-
-    Vergaenglichkeit! wie rauschen deine Wellen
-    Durch's weite Labyrinth des Lebens fort![154]
-
+Vergaenglichkeit! wie rauschen deine Wellen
+Durch's weite Labyrinth des Lebens fort![154]
 Ten per cent, of all Lenau's lyrics bear titles which directly express
 or suggest this thought, as for example, "Vergangenheit,"
 "Vergaenglichkeit," "Das tote Glueck," "Einst und Jetzt," "Aus!," "Eitel
@@ -2104,16 +1691,13 @@ Nichts," "Verlorenes Glueck," "Welke Rose," "Vanitas," "Scheiden,"
 cent of his lyrics there are allusions, more or less direct, to this
 same idea, which shows beyond a doubt how large a component it must have
 been of the poet's characteristic mood.
-
 If Hoelderlin, the idealist, judges the things which are, according to
 his standard of things as they _ought to be_, Lenau, on the other hand,
 measures them by the things which _have been_.
-
-    Friedhof der entschlafnen Tage,
-    Schweigende Vergangenheit!
-    Du begraebst des Herzens Klage,
-    Ach, und seine Seligkeit![155]
-
+Friedhof der entschlafnen Tage,
+Schweigende Vergangenheit!
+Du begraebst des Herzens Klage,
+Ach, und seine Seligkeit![155]
 Nowhere is this mental attitude of the poet toward life in all its forms
 more clearly defined than in his views of nature. That this is an
 entirely different one from Hoelderlin's goes without saying. Lenau has
@@ -2129,7 +1713,6 @@ artistic possibilities of the mantle of melancholy "um die wunde Brust
 geschlungen,"[156] it follows consistently that he should select for
 poetic treatment only those aspects of nature which might serve to
 intensify the expression of his grief.
-
 Among the titles of Lenau's lyrics descriptive of nature are "Herbst,"
 "Herbstgefuehl" (twice), "Herbstlied," "Ein Herbstabend,"
 "Herbstentschluss," "Herbstklage," and many others of a similar kind,
@@ -2137,28 +1720,23 @@ such as "Das duerre Blatt," "In der Wueste," "Fruehlings Tod," etc. If we
 disregard a few quite exceptional verses on spring, the statement will
 hold that Lenau sees in nature only the seasons and phenomena of
 dissolution and decay. So in "Herbstlied":
-
-    Ja, ja, ihr lauten Raben,
-    Hoch in der kuehlen Luft,
-    's geht wieder ans Begraben,
-    Ihr flattert um die Gruft![157]
-
+Ja, ja, ihr lauten Raben,
+Hoch in der kuehlen Luft,
+'s geht wieder ans Begraben,
+Ihr flattert um die Gruft![157]
 "Je mehr man sich an die Natur anschliesst," the poet writes to Sophie
 Schwab, "je mehr man sich in Betrachtungen ihrer Zuege vertieft, desto
 mehr wird man ergriffen von dem Geiste der Sehnsucht, des schwermuetigen
 Hinsterbens, der durch die Natur auf Erden weht."[158] Characteristic is
 the setting which the poet gives to the "Waldkapelle":
-
-    Der dunkle Wald umrauscht den Wiesengrund,
-    Gar duester liegt der graue Berg dahinter,
-    Das duerre Laub, der Windhauch gibt es kund,
-    Geschritten kommt allmaehlig schon der Winter.
-
-    Die Sonne ging, umhuellt von Wolken dicht,
-    Unfreundlich, ohne Scheideblick von hinnen,
-    Und die Natur verstummt, im Daemmerlicht
-    Schwermuetig ihrem Tode nachzusinnen.[159]
-
+Der dunkle Wald umrauscht den Wiesengrund,
+Gar duester liegt der graue Berg dahinter,
+Das duerre Laub, der Windhauch gibt es kund,
+Geschritten kommt allmaehlig schon der Winter.
+Die Sonne ging, umhuellt von Wolken dicht,
+Unfreundlich, ohne Scheideblick von hinnen,
+Und die Natur verstummt, im Daemmerlicht
+Schwermuetig ihrem Tode nachzusinnen.[159]
 The sunset is represented as a dying of the sun, the leaves fall sobbing
 from the trees, the clouds are dissolved in tears, the wind is described
 as a murderer. We see then that Lenau's treatment of nature is
@@ -2172,19 +1750,15 @@ forest in its autumn foliage is "herbstlich geroetet, so wie ein
 Kranker, der sich neigt zum Sterben, wenn fluechtig noch sich seine
 Wangen faerben."[166] A remarkable simile, and at the same time
 characteristic for Lenau in its morbidness is the following:
-
-    Wie auf dem Lager sich der Seelenkranke,
-    Wirft sich der Strauch im Winde hin und her.[167]
-
+Wie auf dem Lager sich der Seelenkranke,
+Wirft sich der Strauch im Winde hin und her.[167]
 Hoelderlin speaks of a friend's bereavement as "ein schwarzer
 Sturm";[168] when he had grieved Diotima he compares himself to the
 cloud passing over the serene face of the moon;[169] gloomy thoughts he
 designates by the common metaphor "der Schatten eines Woelkchens auf der
 Stirne."[170] Lenau turns the comparison and says:
-
-    Am Himmelsantlitz wandelt ein Gedanke,
-    Die duestre Wolke dort, so bang, so schwer.[171]
-
+Am Himmelsantlitz wandelt ein Gedanke,
+Die duestre Wolke dort, so bang, so schwer.[171]
 Where Hoelderlin finds delight in the incorporeal elements of nature,
 such as light, ether, and ascribes personal qualities and functions to
 them, Lenau on the contrary always chooses the tangible things and
@@ -2198,43 +1772,34 @@ the former, probably no better illustration could be found in all
 Lenau's poems than his well-known "Schilflieder"[172] and his numerous
 songs to Autumn. One or two examples of his incomparable use of
 nature-metaphors in the expression of his Weltschmerz will suffice:
-
-      Hab' ich gleich, als ich so sacht
-      Durch die Stoppeln hingeschritten,
-      Aller Sensen auch gedacht,
-      Die ins Leben mir geschnitten.[173]
-
-      Auch mir ist Herbst, und leiser
-      Trag' ich den Berg hinab
-      Mein Buendel duerre Reiser
-      Die mir das Leben gab.[174]
-
-    Der Mond zieht traurig durch die Sphaeren,
-    Denn all die Seinen ruhn im Grab;
-    Drum wischt er sich die hellen Zaehren
-    Bei Nacht an unsern Blumen ab.[175]
-
+Hab' ich gleich, als ich so sacht
+Durch die Stoppeln hingeschritten,
+Aller Sensen auch gedacht,
+Die ins Leben mir geschnitten.[173]
+Auch mir ist Herbst, und leiser
+Trag' ich den Berg hinab
+Mein Buendel duerre Reiser
+Die mir das Leben gab.[174]
+Der Mond zieht traurig durch die Sphaeren,
+Denn all die Seinen ruhn im Grab;
+Drum wischt er sich die hellen Zaehren
+Bei Nacht an unsern Blumen ab.[175]
 The forceful directness of Lenau's metaphors from nature is aptly shown
 in the following comparison of two passages, one from Hoelderlin's "An
 die Natur," the other from Lenau's "Herbstklage," in which both poets
 employ the same poetic fancy to express the same idea.
-
-    Tot ist nun, die mich erzog und stillte,
-    Tot ist nun die jugendliche Welt,
-    Diese Brust, die einst ein Himmel fuellte,
-    Tot und duerftig wie ein Stoppelfeld.[176]
-
+Tot ist nun, die mich erzog und stillte,
+Tot ist nun die jugendliche Welt,
+Diese Brust, die einst ein Himmel fuellte,
+Tot und duerftig wie ein Stoppelfeld.[176]
 If we compare the simile in the last line with the corresponding
 metaphor used by Lenau in the following stanza,--
-
-    Wie der Wind zu Herbsteszeit
-    Mordend hinsaust in den Waeldern,
-    Weht mir die Vergangenheit
-    Von des Glueckes Stoppelfeldern,[177]
-
+Wie der Wind zu Herbsteszeit
+Mordend hinsaust in den Waeldern,
+Weht mir die Vergangenheit
+Von des Glueckes Stoppelfeldern,[177]
 the greater artistic effectiveness of the latter figure will be at once
 apparent.
-
 The idea that nature is cruel, even murderous, as suggested in the
 opening lines of the stanza just quoted, seems in the course of time to
 have become firmly fixed in the poet's mind, for he not only uses it for
@@ -2245,7 +1810,6 @@ seht, und dann heisst es, die Natur sei liebevoll und schonend! Nein,
 sie ist grausam, sie hat kein Mitleid. Die Natur ist erbarmungslos!"[178]
 It goes without saying that in such a conception of nature the poet
 could find no amelioration of his Weltschmerz.[179]
-
 In summing up the results of our discussion of Lenau's Weltschmerz, it
 would involve too much repetition to mention all the points in which it
 stands, as we have seen, in striking contrast to that of Hoelderlin.
@@ -2260,7 +1824,6 @@ erotic instinct, which gave to his relations with Sophie such a vastly
 different influence upon his Weltschmerz from that exerted upon
 Hoelderlin by his relations with Diotima; and finally the marked
 difference in the attitude of these two poets toward nature.
-
 A careful consideration of all the points involved will lead to no other
 conclusion than that whereas in Hoelderlin the cosmic element
 predominates, Lenau stands as a type of egoistic Weltschmerz. To quote
@@ -2272,243 +1835,19 @@ evil." Nowhere is this more clearly stated than in the poet's own words:
 Familienzug lese, der durch alle Geschlechter der armen Menschen geht.
 Mein Unglueck ist mir mein Liebstes,--und ich betrachte es gerne im
 verklaerenden Lichte eines allgemeinen Verhaengnisses."[180]
-
-FOOTNOTES:
-
-[Footnote 75: _Euphorion_, 1899, p. 791.]
-
-[Footnote 76: "Nicolaus Lenau," _Neue Fr. Pr._, Nr. 11166-7]
-
-[Footnote 77: Schurz, Vol. II, p. 212.]
-
-[Footnote 78: Cf. _Euphorion_, 1899, p. 795.]
-
-[Footnote 79: Anton Schurz: "Lenau's Leben," Cotta, 1855 (hereafter
 quoted as "Schurz"), Vol. II, p. 199.]
-
-[Footnote 80: "Lenaus Werke," ed Max Koch, in Kuerschner's DNL.
 (hereafter quoted as "Werke"), Vol. I, p. 525 f.]
-
-[Footnote 81: Cf. _supra_, p. 22.]
-
-[Footnote 82: Cf. among others Sadger, Weiler. _Infra_, p. 88.]
-
-[Footnote 83: "Nicolaus Lenau's Briefe an einen Freund," Stuttgart,
-1853, p. 68 f.]
-
-[Footnote 84: "Nicolaus Lenau's saemmtliche Werke," herausgegeben von G.
 Emil Barthel, Leipzig, Reclam, p. CI.]
-
-[Footnote 85: Schurz, Vol. I, p. 169.]
-
-[Footnote 86: Schurz, Vol. II, p. 144.]
-
-[Footnote 87: Schurz, Vol. II, p. 152f.]
-
-[Footnote 88: Schurz, Vol. I, p. 275.]
-
-[Footnote 89: Ricarda Huch: "Romantische Lebenslaeufe." _Neue d.
 Rundschau_, Feb. 1902, p. 126.]
-
-[Footnote 90: Sept. 29, 1844. Cf. Schurz, Vol. II, p. 223.]
-
-[Footnote 91: L. A. Frankl: "Lenau und Sophie Loewenthal," Stuttgart,
-1891 (hereafter quoted as "Frankl") p. 189, incorrectly states the date
 as 1838. Possibly it is a misprint.]
-
-[Footnote 92: Frankl, p. 155.]
-
-[Footnote 93: Frankl, p. 151.]
-
-[Footnote 94: Frankl, p. 164.]
-
-[Footnote 95: Frankl, p. 102.]
-
-[Footnote 96: Frankl, p. 149.]
-
-[Footnote 97: Frankl, p. 150.]
-
-[Footnote 98: Frankl, p. 150.]
-
-[Footnote 99: Schurz, Vol. II, p. 7.]
-
-[Footnote 100: Cf. Lenau's Saemmtl. Werke, herausg. von G. Emil Bartel,
 Leipzig, ohne Jahr. Introd., p. clxv.]
-
-[Footnote 101: Frankl, p. 32.]
-
-[Footnote 102: Frankl, p. 14.]
-
-[Footnote 103: Frankl, p. 30.]
-
-[Footnote 104: Cf. _supra_, p. 38.]
-
-[Footnote 105: Frankl, p. 15.]
-
-[Footnote 106: Werke, I, p. 89.]
-
-[Footnote 107: Frankl, p. 114.]
-
-[Footnote 108: Cf. _supra_, p. 18.]
-
-[Footnote 109: Hoelderlins Werke, Vol. 1, p. 195.]
-
-[Footnote 110: "Das Kruzifix, Eine Kuenstlerlegende," 1820.]
-
-[Footnote 111: Schurz, Vol. I, p. 158f.]
-
-[Footnote 112: Schurz, Vol. II, p. 6.]
-
-[Footnote 113: Cf. Breitinger: "Studien und Wandertage;" Frauenfeld,
 Huber, 1870.]
-
-[Footnote 114: Schlossar: "Nicolaus Lenaus Briefe an Emilie von
 Reinbeck," Stuttgart, 1896 (hereafter quoted as "Schlossar"), p. 98.]
-
-[Footnote 115: Werke, Vol. II, p. 260.]
-
-[Footnote 116: Schurz, Vol. II, p. 193.]
-
-[Footnote 117: Schlossar, p. 109.]
-
-[Footnote 118: Schlossar, p. 111.]
-
-[Footnote 119: Schlossar, p. 112 f.]
-
-[Footnote 120: "Lenau et son Temps," Paris, 1898, p. 351.]
-
-[Footnote 121: Schlossar, p. 103.]
-
-[Footnote 122: Schlossar, p. 154.]
-
-[Footnote 123: Werke, Vol. II, p. 183.]
-
-[Footnote 124: Frankl, p. 99.]
-
-[Footnote 125: Frankl, p. 90.]
-
-[Footnote 126: Frankl, p. 90.]
-
-[Footnote 127: Frankl, p. 192.]
-
-[Footnote 128: Frankl, p. 173.]
-
-[Footnote 129: Frankl, p. 103.]
-
-[Footnote 130: Schlossar, p. 55.]
-
-[Footnote 131: Cf. Schlossar, p. 93 f.]
-
-[Footnote 132: Cf. _supra_, p. 48.]
-
-[Footnote 133: Schlossar, p. 46.]
-
-[Footnote 134: Schlossar, p. 85.]
-
-[Footnote 135: Schlossar, p. 83.]
-
-[Footnote 136: Schurz, Vol. I, p. 176.]
-
-[Footnote 137: Cf. Schlossar, p. 173.]
-
-[Footnote 138: Schlossar, p. 184.]
-
-[Footnote 139: Schlossar, p. 87.]
-
-[Footnote 140: Hoelderlin, "An eine Rose," Werke, Vol. I, p. 142.]
-
-[Footnote 141: Werke, Vol. I, p. 389.]
-
-[Footnote 142: Hoelderlins Werke, Vol. I, p. 253.]
-
-[Footnote 143: Werke, Vol. I, p. 99.]
-
-[Footnote 144: Schurz, Vol. I, p. 132.]
-
-[Footnote 145: Werke, Vol. I, p. 82.]
-
-[Footnote 146: Frankl, p. 79.]
-
-[Footnote 147: Frankl, p. 102.]
-
-[Footnote 148: Frankl, p. 127.]
-
-[Footnote 149: Werke, Vol. I, p. 267.]
-
-[Footnote 150: Schlossar, p. 144.]
-
-[Footnote 151: Frankl, p. 169.]
-
-[Footnote 152: Schlossar, p. 188.]
-
-[Footnote 153: Werke, Vol. I, p. 405.]
-
-[Footnote 154: Werke, Vol. I, p. 130.]
-
-[Footnote 155: Werke, Vol. I, p. 62.]
-
-[Footnote 156: Werke, Vol. I, p. 102.]
-
-[Footnote 157: Werke, Vol. I, p. 299.]
-
-[Footnote 158: Cf. Farinelli, in _Verhandlungen des 8. deutschen
 Neuphilologentages_, Hannover, 1898, p. 58.]
-
-[Footnote 159: Werke, Vol. I, p. 137.]
-
-[Footnote 160: Hoeld. Werke, Vol. I, p. 167.]
-
-[Footnote 161: Hoeld. Werke, Vol. I, p. 143.]
-
-[Footnote 162: Hoeld. Werke, Vol. I, p. 140.]
-
-[Footnote 163: Len. Werke, Vol. I, p. 258.]
-
-[Footnote 164: Len. Werke, Vol. I, p. 250.]
-
-[Footnote 165: Len. Werke, Vol. I, p. 260.]
-
-[Footnote 166: Len. Werke, Vol. I, p. 249.]
-
-[Footnote 167: Len. Werke, Vol. I, p. 147.]
-
-[Footnote 168: Hoeld. Werke, Vol. I, p. 144.]
-
-[Footnote 169: Hoeld. Werke, Vol. I, p. 164.]
-
-[Footnote 170: Hoeld. Werke, Vol. II, p. 117.]
-
-[Footnote 171: Len. Werke, Vol. I, p. 147.]
-
-[Footnote 172: Werke, Vol. I, p. 51 f]
-
-[Footnote 173: "Der Kranich," Werke, Vol. I, p. 328.]
-
-[Footnote 174: "Herbstlied," Werke, Vol. I, p. 299.]
-
-[Footnote 175: "Mondlied," Werke, Vol. I, p. 310.]
-
-[Footnote 176: Hoeld. Werke, Vol. I, p. 146.]
-
-[Footnote 177: Werke, Vol. I, p. 299.]
-
-[Footnote 178: Schurz, Vol. II, p. 104.]
-
-[Footnote 179: For an exhaustive discussion of Lenau's nature-sense cf.
 Prof. Camillo von Klenze's excellent monograph on the subject, "The
 Treatment of Nature in the Works of Nikolaus Lenau," Chicago, University
 Press, 1902.]
-
-[Footnote 180: Frankl, p. 116.]
-
-
-
-
-CHAPTER IV
-
 =Heine=
-
-
 Heine was probably the first German writer to use the term Weltschmerz
 in its present sense. Breitinger in his essay "Neues ueber den alten
 Weltschmerz"[181] endeavors to trace the earliest use of the word and
@@ -2519,7 +1858,6 @@ before the body of Charles I." (1831).[183] The actual inventor of the
 compound was no doubt Jean Paul, who wrote (1810): "Diesen Weltschmerz
 kann er (Gott) sozusagen nur aushalten durch den Anblick der Seligkeit,
 die nachher verguetet."[184]
-
 But although Heine may have been the first to adapt the word to its
 present use, and although we have fallen into the habit of thinking of
 him as the chief representative of German Weltschmerz, it must be
@@ -2531,7 +1869,6 @@ still remains sincere, becomes self-conscious, while Heine has an
 unfailing antidote for profound feeling in his merciless self-irony. And
 yet his condition in life was such as would have wrung from the heart of
 almost any other poet notes of sincerest pathos.
-
 In Lenau's case we noted circumstances which point to a direct
 transmission from parent to child of a predisposition to melancholia. In
 Heine's, on the other hand, the question of heredity has apparently only
@@ -2569,7 +1906,6 @@ symptoms of the disease made their appearance in early youth, not many
 years after puberty, and concludes that, in spite of scant information
 as to Heine's ancestors, we are safe in assuming a hereditary taint on
 the father's side.
-
 The poet himself evidently would have us believe as much, for in his
 Reisebilder he says: "Wie ein Wurm nagte das Elend in meinem Herzen und
 nagte,--ich habe dieses Elend mit mir zur Welt gebracht. Es lag schon
@@ -2578,7 +1914,6 @@ es mit, und wenn sie mich in den Schlaf sang, so schlief es mit mir ein,
 und es erwachte, sobald ich wieder die Augen aufschlug. Als ich groesser
 wurde, wuchs auch das Elend, und wurde endlich ganz gross und
 zersprengte mein.... Wir wollen von andern Dingen sprechen...."[189]
-
 And yet Heine's disposition was not naturally inclined to hypochondria.
 In his earlier letters, especially to his intimate friends, there is
 often more than cheerfulness, sometimes a decided buoyancy if not
@@ -2605,7 +1940,6 @@ for years he affectionately kept in ignorance of his deplorable
 condition, does he write thus, but also to Campe (1852): "Mein Koerper
 leidet grosse Qual, aber meine Seele ist ruhig wie ein Spiegel und hat
 manchmal auch noch ihre schoenen Sonnenaufgaenge und Sonnenuntergaenge."[195]
-1854: "Gottlob, dass ich bei all meinem Leid sehr heiteren Gemuetes bin,
 und die lustigsten Gedanken springen mir durchs Hirn."[196] Much of this
 sort of thing was no doubt nicely calculated for effect, and yet these
 and similar passages show that he was not inclined to magnify his
@@ -2613,7 +1947,6 @@ physical afflictions either in his own eyes or in the eyes of others.
 Nor is he absolutely unreconciled to his fate: "Es ist mir nichts
 geglueckt in dieser Welt, aber es haette mir doch noch schlimmer gehen
 koennen."[197]
-
 In his poems, references to his physical sufferings are remarkably
 infrequent. We look in vain in the "Buch der Lieder," in the "Neue
 Gedichte," in fact in all his lyrics written before the "Romanzero," not
@@ -2621,7 +1954,6 @@ only for any allusion to his illness, but even for any complaint against
 life which might have been directly occasioned by his physical
 condition. What is there then in these earlier poems that might fitly be
 called Weltschmerz? Very little, we shall find.
-
 Their inspiration is to be found almost exclusively in Heine's
 love-affairs, decent and indecent. Now the pain of disappointed love is
 the motive and the theme of very many of Hoelderlin's and Lenau's lyrics,
@@ -2637,22 +1969,18 @@ exception rather than the rule when the poet maintains a sincere note
 long enough to engender sympathy and carry conviction. Such are his
 beautiful lyrics "Ich grolle nicht,"[198] "Du hast Diamanten und
 Perlen."[199] Let us see how Lenau treats the same theme:
-
-    Die dunklen Wolken hingen
-    Herab so bang und schwer,
-    Wir beide traurig gingen
-    Im Garten hin und her.
-
-    So heiss und stumm, so truebe,
-    Und sternlos war die Nacht,
-    So ganz wie unsre Liebe
-    Zu Thraenen nur gemacht.
-
-    Und als ich musste scheiden
-    Und gute Nacht dir bot,
-    Wuenscht' ich bekuemmert beiden
-    Im Herzen uns den Tod.[200]
-
+Die dunklen Wolken hingen
+Herab so bang und schwer,
+Wir beide traurig gingen
+Im Garten hin und her.
+So heiss und stumm, so truebe,
+Und sternlos war die Nacht,
+So ganz wie unsre Liebe
+Zu Thraenen nur gemacht.
+Und als ich musste scheiden
+Und gute Nacht dir bot,
+Wuenscht' ich bekuemmert beiden
+Im Herzen uns den Tod.[200]
 We believe implicitly in the poet's almost inexpressible grief, and
 because we are convinced, we sympathize. And we feel too that the poet's
 sorrow is so overwhelming and has so filled his soul that it has
@@ -2660,19 +1988,15 @@ entirely changed his views of life and of nature, or has at least
 contributed materially to such a change,--that it has assumed larger
 proportions and may rightly be called Weltschmerz. Compare with this the
 first and third stanzas of Heine's "Der arme Peter:"
-
-    Der Hans und die Grete tanzen herum,
-    Und jauchzen vor lauter Freude.
-    Der Peter steht so still und stumm,
-    Und ist so blass wie Kreide.
-
-     *       *       *       *       *
-
-    Der Peter spricht leise vor sich her
-    Und schauet betruebet auf beide:
-    "Ach! wenn ich nicht zu vernuenftig waer',
-    Ich thaet' mir was zu leide."[201]
-
+Der Hans und die Grete tanzen herum,
+Und jauchzen vor lauter Freude.
+Der Peter steht so still und stumm,
+Und ist so blass wie Kreide.
+*       *       *       *       *
+Der Peter spricht leise vor sich her
+Und schauet betruebet auf beide:
+"Ach! wenn ich nicht zu vernuenftig waer',
+Ich thaet' mir was zu leide."[201]
 It is scarcely necessary to cite further examples of this mannerism of
 Heine's, for so it early became, such as his "Erbsensuppe,"[202] "Ich
 wollte, er schoesse mich tot,"[203] "Doktor, sind Sie des Teufels;"[204]
@@ -2695,15 +2019,12 @@ darum hat auch Goethe zu dem furchtbarsten Stoffe, zum "Faust," die
 Puppenspielform gewaehlt, darum hat auch der noch groessere Poet (der
 Urpoet, sagt Friederike), naemlich Unser-Herrgott, allen Schreckensszenen
 dieses Lebens eine gute Dosis Spasshaftigkeit beigemischt."[207]
-
 In not a few of his lyrics Heine gives us a truly Lenauesque
 nature-setting, as for instance in "Der scheidende Sommer:"
-
-    Das gelbe Laub erzittert,
-    Es fallen die Blaetter herab;
-    Ach, alles, was hold und lieblich
-    Verwelkt und sinkt ins Grab.[208]
-
+Das gelbe Laub erzittert,
+Es fallen die Blaetter herab;
+Ach, alles, was hold und lieblich
+Verwelkt und sinkt ins Grab.[208]
 This is one of the comparatively few instances in Heine's lyrics in
 which he maintains a dignified seriousness throughout the entire poem.
 It is worth noting, too, because it touches a note as infrequent in
@@ -2713,7 +2034,6 @@ between the two poets,--Heine's eye is on the present and the future,
 much more than on the past; Lenau is ever mourning the happiness that is
 past and gone. Logically then, thoughts of and yearnings for death are
 much more frequent with Lenau than with Heine.[210]
-
 Reverting to the point under consideration: even in those love-lyrics in
 which Heine does not wilfully destroy the first serious impression by
 the jingling of his harlequin's cap, as he himself styles it,[211] he
@@ -2723,29 +2043,23 @@ either trivially or extravagantly stated. Sometimes this sense of
 triviality is caused by the poet's excessive fondness for all sorts of
 diminutive expressions, giving an artificial effect, an effect of
 "Taendelei" to his verses. For example:
-
-    Du siehst mich an wehmuetiglich,
-    Und schuettelst das blonde Koepfchen,
-    Aus deinen Augen schleichen sich
-    Die Perlenthraenentroepfchen.[212]
-
+Du siehst mich an wehmuetiglich,
+Und schuettelst das blonde Koepfchen,
+Aus deinen Augen schleichen sich
+Die Perlenthraenentroepfchen.[212]
 Sometimes this effect is produced by a distinct though unintended
 anti-climax. Nowhere has Heine struck a more truly elegiac note than in
 the stanza:
-
-    Der Tod, das ist die kuehle Nacht,
-    Das Leben ist der schwuele Tag.
-    Es dunkelt schon, mich schlaefert,
-    Der Tag hat mich muede gemacht.[213]
-
+Der Tod, das ist die kuehle Nacht,
+Das Leben ist der schwuele Tag.
+Es dunkelt schon, mich schlaefert,
+Der Tag hat mich muede gemacht.[213]
 There is the most profound Weltschmerz in that. But in the second stanza
 there is relatively little:
-
-    Ueber mein Bett erhebt sich ein Baum,
-    Drin singt die junge Nachtigall;
-    Sie singt von lauter Liebe,
-    Ich hoer' es sogar im Traum.
-
+Ueber mein Bett erhebt sich ein Baum,
+Drin singt die junge Nachtigall;
+Sie singt von lauter Liebe,
+Ich hoer' es sogar im Traum.
 Lenau's lyrics have shown that much Weltschmerz may grow out of
 unsatisfied love; Heine's demonstrate that mere love sickness is not
 Weltschmerz. The fact is that Heine frequently destroys what would have
@@ -2755,43 +2069,34 @@ passing annoyance. What a strange mixture of acrimonious, sarcastic
 protest and Weltschmerz elements we find in the poem "Ruhelechzend"[214]
 of which a few stanzas will serve to illustrate. Again he strikes a full
 minor chord:
-
-    Las bluten deine Wunden, lass
-    Die Thraenen fliessen unaufhaltsam;
-    Geheime Wollust schwelgt im Schmerz,
-    Und Weinen ist ein suesser Balsam.
-
+Las bluten deine Wunden, lass
+Die Thraenen fliessen unaufhaltsam;
+Geheime Wollust schwelgt im Schmerz,
+Und Weinen ist ein suesser Balsam.
 This in practice rather than in theory is what we observe in Lenau,--his
 melancholy satisfaction in nursing his grief,--and we have promise of a
 poem of genuine Weltschmerz. Even through the second and third stanzas
 this feeling is not destroyed, although the terms "Schelm" and "Toelpel"
 gently arouse our suspicion:
-
-    Des Tages Laerm verhallt, es steigt
-    Die Nacht herab mit langen Floehren.
-    In ihrem Schosse wird kein Schelm,
-    Kein Toelpel deine Ruhe stoeren.
-
+Des Tages Laerm verhallt, es steigt
+Die Nacht herab mit langen Floehren.
+In ihrem Schosse wird kein Schelm,
+Kein Toelpel deine Ruhe stoeren.
 But the very next stanza brings the transition from the sublime to the
 ridiculous:
-
-    Hier bist du sicher vor Musik,
-    Vor des Pianofortes Folter,
-    Und vor der grossen Oper Pracht
-    Und schrecklichem Bravourgepolter.
-
-       *       *       *       *       *
-
-    O Grab, du bist das Paradies
-    Fuer poebelscheue, zarte Ohren--
-    Der Tod ist gut, doch besser waer's,
-    Die Mutter haett' uns nie geboren.
-
+Hier bist du sicher vor Musik,
+Vor des Pianofortes Folter,
+Und vor der grossen Oper Pracht
+Und schrecklichem Bravourgepolter.
+*       *       *       *       *
+O Grab, du bist das Paradies
+Fuer poebelscheue, zarte Ohren--
+Der Tod ist gut, doch besser waer's,
+Die Mutter haett' uns nie geboren.
 It is scarcely necessary to point out that the specific cause which the
 poet confides to us of his "wounds, tears and pains" is ridiculously
 unimportant as compared with the conclusion which he draws in the last
 two lines.
-
 Evidently then, he does not wish us to take him seriously, nor could we,
 if he did. Thus in their very attitude toward the ills and vexations of
 life, there appears a most essential difference between Lenau and Heine.
@@ -2814,7 +2119,6 @@ Lenau, even in his love-songs. His love-sorrow is blended with his many
 other heart-aches, with his disappointments and regrets, with his
 yearning for death. He sings of his pain rather than of its immediate
 causes, and the result is an atmosphere of Weltschmerz.
-
 Turning to Heine's later poems, especially to the "Romanzero," we find
 that atmosphere much more perceptible. But even here the poet is for the
 most part specific, and his method concrete. So for instance in "Der
@@ -2825,27 +2129,22 @@ stanza of which suggests a poetic rendering of Matth. 13:12, "For
 whosoever hath, to him shall be given and he shall have more abundance;
 but whosoever hath not, from him shall be taken away even that he
 hath,"--to which the poet adds a stanza of caustic ironical comment:
-
-    Wenn du aber gar nichts hast,
-    Ach, so lasse dich begraben--
-    Denn ein Recht zum Leben, Lump,
-    Haben nur, die etwas haben.
-
+Wenn du aber gar nichts hast,
+Ach, so lasse dich begraben--
+Denn ein Recht zum Leben, Lump,
+Haben nur, die etwas haben.
 And again, the poem "Lumpentum"[218] presents an ironical eulogy of
 flattery. His failure to realize the hopes of his youth is made the
 subject of "Verlorne Wuensche"[219] which maintains throughout a strain
 of seriousness quite unusual for Heine, and concludes:
-
-    Goldne Wuensche! Seifenblasen!
-    Sie zerrinnen wie mein Leben--
-    Ach ich liege jetzt am Boden,
-    Kann mich nimmermehr erheben.
-
-    Und Ade! sie sind zerronnen,
-    Goldne Wuensche, suesses Hoffen!
-    Ach, zu toetlich war der Faustschlag,
-    Der mich just ins Herz getroffen.
-
+Goldne Wuensche! Seifenblasen!
+Sie zerrinnen wie mein Leben--
+Ach ich liege jetzt am Boden,
+Kann mich nimmermehr erheben.
+Und Ade! sie sind zerronnen,
+Goldne Wuensche, suesses Hoffen!
+Ach, zu toetlich war der Faustschlag,
+Der mich just ins Herz getroffen.
 A number of these lyrics from the Romanzero show very strikingly Heine's
 objective treatment of his poems of complaint. Such selections as "Sie
 erlischt,"[220] in which he compares his soul to the last flicker of a
@@ -2857,15 +2156,11 @@ miniature, "Rueckschau,"[222] which catalogues the poet's experiences,
 pleasant and adverse, with evident sincerity though of course with a
 liberal admixture of witty irony. Needless to say there is no real
 Weltschmerz discoverable in such a pot pourri as the following:
-
-    Die Glieder sind mir rheumatisch gelaehmt,
-    Und meine Seele ist tief beschaemt.
-
-     *       *       *       *       *
-
-    Ich ward getraenkt mit Bitternissen,
-    Und grausam von den Wanzen gebissen, etc.
-
+Die Glieder sind mir rheumatisch gelaehmt,
+Und meine Seele ist tief beschaemt.
+*       *       *       *       *
+Ich ward getraenkt mit Bitternissen,
+Und grausam von den Wanzen gebissen, etc.
 It would scarcely be profitable to attempt to estimate the causes and
 development of this self-irony, which plays so important a part in
 Heine's poetry. Its possibility lay no doubt in his native mother-wit,
@@ -2904,7 +2199,6 @@ ist aber ganz bestimmt, dass es mich sehnlichst draengt, dem deutschen
 Vaterlande Valet zu sagen. Minder die Lust des Wanderns als die Qual
 persoenlicher Verhaeltnisse (z. B. der nie abzuwaschende Jude) treibt mich
 von hinnen."[225]
-
 In his tragedy "Almansor," written during the years 1820 and 1821,[226]
 his deep-rooted antipathy to Christianity finds strong expression
 through Almansor, although the countervailing arguments are eloquently
@@ -2916,17 +2210,14 @@ the character of Almansor, more than anywhere else, Heine's
 "Liebesschmerz" and "Judenschmerz" have combined to produce in him an
 inner dissonance which expresses itself in lyric lines of real
 Weltschmerz:
-
-    Ich bin recht mued
-    Und krank, und kranker noch als krank, denn ach,
-    Die allerschlimmste Krankheit ist das Leben;
-    Und heilen kann sie nur der Tod....[227]
-
+Ich bin recht mued
+Und krank, und kranker noch als krank, denn ach,
+Die allerschlimmste Krankheit ist das Leben;
+Und heilen kann sie nur der Tod....[227]
 But here too, as in "Ratcliff," such passages are exceptional. In the
 main these tragedies are nothing more than vehicles for the poet's
 stormy protest, much of it after the Storm and Stress pattern;[228] and
 mere protest, however acrimonious, cannot be called Weltschmerz.
-
 Certain it is that during these early years numerous disappointments
 other than those of love contributed to produce in the poet a gloomy
 state of mind. A reflection of the unhappiness which he had experienced
@@ -2962,7 +2253,6 @@ pleading he replies (1833): "Aber ich will, wenn Du es durchaus
 verlangst, diesen Sommer auf acht Tage nach Hamburg kommen, nach dem
 schaendlichen Neste, wo ich meinen Feinden den Triumph goennen soll, mich
 wiederzusehen und mit Beleidigungen ueberhaeufen zu koennen."[235]
-
 His several endeavors to establish himself on a firm material footing in
 life had failed,--he had sought for a place in a Berlin high school,
 then entertained the idea of practising law in Hamburg, then aspired to
@@ -3007,7 +2297,6 @@ Presse thun zur Intimidation, und die ersten Kotwuerfe auf Karl Heine und
 namentlich auf Adolf Halle werden schon wirken. Die Leute sind an Dreck
 nicht gewoehnt, waehrend ich ganze Mistkarren vertragen kann, ja diese,
 wie auf Blumenbeeten, nur mein Gedeihen zeitigen."[240]
-
 It is quite evident that this long drawn out quarrel aroused all that
 was mean and vindictive, all that was immoral in the man, and that the
 nervous excitement thereby induced had a most baneful effect upon his
@@ -3019,7 +2308,6 @@ ones. But here, too, his fancy is altogether too busy with the suitable
 characterization of his enemies and the invention of adequate tortures
 for them, to leave room for even a suggestion of the Weltschmerz which
 we might expect to result from such painful emotions.
-
 It is scarcely necessary to theorize as to what would have been the
 attitude and conduct of a sensitive Hoelderlin or a proud-spirited Lenau
 in a similar position. Lenau is too proud to protest, preferring to
@@ -3031,15 +2319,12 @@ of his Weltschmerz, in a vain ostentation which stands in marked
 contrast to Lenau's dignified pride. He is quite right when he says in a
 letter to his friend Moser: "Ich bin nicht gross genug, um Erniedrigung
 zu tragen."[243]
-
 As an illustration of the vain display which he makes of his sadness,
 his poem "Der Traurige" may be quoted in part:
-
-    Allen thut es weh in Herzen,
-    Die den bleichen Knaben sehn,
-    Dem die Leiden, dem die Schmerzen
-    Auf's Gesicht geschrieben stehn.[244]
-
+Allen thut es weh in Herzen,
+Die den bleichen Knaben sehn,
+Dem die Leiden, dem die Schmerzen
+Auf's Gesicht geschrieben stehn.[244]
 A similar impression is made by the concluding numbers of the
 Intermezzo, "Die alten, boesen Lieder."[245] And here again the
 comparison,--even if merely as to size,--of a coffin with the
@@ -3047,43 +2332,34 @@ comparison,--even if merely as to size,--of a coffin with the
 very effectually to destroy the serious sentiment which the poem, with
 less definite exaggerations, might have conveyed. Similarly overdone is
 his poetic preface to the "Rabbi" sent to his friend Moser:[246]
-
-    Brich aus in lauten Klagen
-    Du duestres Maertyrerlied,
-    Das ich so lang getragen
-    Im flammenstillen Gemuet!
-
-    Es dringt in alle Ohren,
-    Und durch die Ohren ins Herz;
-    Ich habe gewaltig beschworen
-    Den tausendjaehrigen Schmerz.
-
-    Es weinen dir Grossen und Kleinen,
-    Sogar die kalten Herrn,
-    Die Frauen und Blumen weinen,
-    Es weinen am Himmel die Stern.
-
+Brich aus in lauten Klagen
+Du duestres Maertyrerlied,
+Das ich so lang getragen
+Im flammenstillen Gemuet!
+Es dringt in alle Ohren,
+Und durch die Ohren ins Herz;
+Ich habe gewaltig beschworen
+Den tausendjaehrigen Schmerz.
+Es weinen dir Grossen und Kleinen,
+Sogar die kalten Herrn,
+Die Frauen und Blumen weinen,
+Es weinen am Himmel die Stern.
 It is not necessary, even if it were to the point, to adduce further
 evidence of Heine's vanity as expressed in his prose writings, or in
 poems such as the much-quoted
-
-    Nennt man die besten Namen,
-    So wird auch der meine genannt.[247]
-
+Nennt man die besten Namen,
+So wird auch der meine genannt.[247]
 It cannot be denied that this element of vanity, of showiness, only
 serves to emphasize our impression of the unreality of much of Heine's
 Weltschmerz.
-
 With the reference to this element of ostentation in Heine's Weltschmerz
 there is suggested at once the question of the Byronic pose, and of
 Byron's influence in general upon the German poet. On the general
 relationship between the two poets much has been written,[248] so that
 we may confine ourselves here to the consideration of certain points of
 resemblance in their Weltschmerz.
-
 Julian Schmidt names Byron as the constellation which ruled the heavens
 during the period from the Napoleonic wars to the "Voelkerfruehling,"
-1848, as the meteor upon which at that time the eyes of all Europe were
 fixed. Certainly the English poet could not have wished for a more
 auspicious introduction and endorsation in Germany, if he had needed
 such, than that which was given him by Goethe himself, whose subsequent
@@ -3096,7 +2372,6 @@ Gedichte, je mehr man sich mit den Eigenheiten dieses ausserordentlichen
 Geistes bekannt machte, gewannen immer groessere Teilnahme, so dass
 Maenner und Frauen, Maegdlein und Junggesellen fast aller Deutschheit und
 Nationalitaet zu vergessen schienen."[249]
-
 It is important to note that this first period of unrestrained Byron
 enthusiasm coincides with the formative and impressionable years of
 Heine's youth. In his first book of poems, published in 1821, he
@@ -3108,7 +2383,6 @@ cheerful and enamored of life.[251] There is plenty of evidence,
 however, to show that it was exceedingly gratifying to the young Heine
 to have his name associated with that of Byron; and although he had no
 enthusiasm for Byron's philhellenism, he was pleased to write, June 25,
-1824, on hearing of the Englishman's death: "Der Todesfall Byrons hat
 mich uebrigens sehr bewegt. Es war der einzige Mensch, mit dem ich mich
 verwandt fuehlte, und wir moegen uns wohl in manchen Dingen geglichen
 haben; scherze nur darueber, soviel Du willst. Ich las ihn selten seit
@@ -3130,7 +2404,6 @@ successor of Byron in European literature. Three months later he once
 more urges the request: "Auch faende ich es noch immer angemessen, ja
 jetzt mehr als je, dass Du Dich ueber Byron und Komp. vernehmen
 liessest."[254]
-
 But it was not long before Heine, with an increasing sense of literary
 independence, reinforced no doubt by the reaction of public opinion
 against Byron, and influenced also by his friend Immermann's judgment in
@@ -3150,7 +2423,6 @@ into his heart, in order that he may teasingly bespatter ladies and
 gentlemen with the black spurting blood. In remarkable contrast with his
 former views, he now writes: "Von allen grossen Schriftstellern ist
 Byron just derjenige, dessen Lektuere mich am unleidigsten beruehrt."
-
 Perhaps the most interesting passage in this connection, because so
 thoroughly characteristic of the Byronic pose in Heine, occurs in the
 "Baeder von Lucca": "Lieber Leser, gehoerst du vielleicht zu jenen frommen
@@ -3168,7 +2440,6 @@ und des Dichtermaertyrtums wuerdig geachtet haben."[257] Here while
 vociferously disclaiming all kinship or sympathy with Byron, he pays him
 the flattering compliment of imitation. Probably nowhere in Byron could
 we find a more pompous display of egoism under the guise of Weltschmerz.
-
 Byron's Weltschmerz, like Heine's, had its first provocation in a purely
 personal experience. "To a Lady"[258] and "Remembrance"[259] both give
 expression in passionate terms to the poet's disappointed love for Mary
@@ -3186,22 +2457,17 @@ by English society, his relations with it finally severed, he disdains
 to defend himself further against its criticism, and espouses the cause
 of unhappy humanity. No longer his own personal woes, but rather those
 of the nations of the earth are nearest his heart:
-
-    What are our woes and sufferance?...
-    ................................ Ye!
-    Whose agonies are evils of a day--
-    A world is at our feet as fragile as our clay.[261]
-
+What are our woes and sufferance?...
+................................ Ye!
+Whose agonies are evils of a day--
+A world is at our feet as fragile as our clay.[261]
 And in contemplating the ruins of the Palatine Hill:
-
-    ..................... Upon such a shrine
-    What are our petty griefs? Let me not number mine.[262]
-
+..................... Upon such a shrine
+What are our petty griefs? Let me not number mine.[262]
 Here we have the essential difference between these two types of
 Weltschmerz. Heine does not, like Byron, make this transition from the
 personal to the universal stage. Instead of becoming cosmic in his
 Weltschmerz, he remains for ever egoistic.
-
 Numerous quotations might be adduced from the writings of both poets,
 which would seem to indicate that Heine had borrowed many of his ideas
 and even some forms of expression from Byron. Except in the case of the
@@ -3210,34 +2476,26 @@ Such passages as a rule prove nothing more than a similarity, possibly
 quite independent, in the trend of their pessimistic thought. Compare
 for example Byron's lines in the poem "And wilt thou weep when I am
 low?"
-
-    Oh lady! blessed be that tear--
-    It falls for one who cannot weep;
-    Such precious drops are doubly dear
-    To those whose eyes no tear may steep,[263]
-
+Oh lady! blessed be that tear--
+It falls for one who cannot weep;
+Such precious drops are doubly dear
+To those whose eyes no tear may steep,[263]
 with Heine's stanza:
-
-    Seit ich sie verloren hab',
-    Schafft' ich auch das Weinen ab;
-    Fast vor Weh das Herz mir bricht,
-    Aber weinen kann ich nicht.[264]
-
+Seit ich sie verloren hab',
+Schafft' ich auch das Weinen ab;
+Fast vor Weh das Herz mir bricht,
+Aber weinen kann ich nicht.[264]
 Or again, "Childe Harold," IV, 136:
-
-    From mighty wrongs to petty perfidy
-    Have I not seen what human things could do?
-    From the loud roar of foaming calumny
-    To the small whisper of the as paltry few--
-    And subtler venom of the reptile crew,[265]
-
+From mighty wrongs to petty perfidy
+Have I not seen what human things could do?
+From the loud roar of foaming calumny
+To the small whisper of the as paltry few--
+And subtler venom of the reptile crew,[265]
 with the first lines of Heine's ninth sonnet:
-
-    Ich moechte weinen, doch ich kann es nicht;
-    Ich moecht' mich ruestig in die Hoehe heben,
-    Doch kann ich's nicht; am Boden muss ich kleben,
-    Umkraechzt, umzischt von eklem Wurmgezuecht,[266]
-
+Ich moechte weinen, doch ich kann es nicht;
+Ich moecht' mich ruestig in die Hoehe heben,
+Doch kann ich's nicht; am Boden muss ich kleben,
+Umkraechzt, umzischt von eklem Wurmgezuecht,[266]
 a thought which in one of his letters (1823) he paraphrases thus: "Der
 Gedanke an Dich, liebe Schwester, muss mich zuweilen aufrecht halten,
 wenn die grosse Masse mit ihrem dummen Hass und ihrer ekelhaften Liebe
@@ -3246,19 +2504,16 @@ studied diligently to imitate this fashionable model, pose, irony and
 all. So diligently perhaps, that he himself was sometimes unable to
 distinglish between imitation and reality. So at least it would appear
 from No. 44 of "Die Heimkehr:"
-
-    Ach Gott! im Scherz und unbewusst
-    Sprach ich, was ich gefuehlet:
-    Ich hab mit dem Tod in der eignen Brust
-    Den sterbenden Fechter gespielet.[268]
-
+Ach Gott! im Scherz und unbewusst
+Sprach ich, was ich gefuehlet:
+Ich hab mit dem Tod in der eignen Brust
+Den sterbenden Fechter gespielet.[268]
 In summing up our impressions of the two poets we shall scarcely escape
 the feeling that while Byron is pleased to display his troubles and his
 heart-aches before the curious gaze of the world, they are at least in
 the main real troubles and sincere heart-aches, whereas Heine, on the
 other hand, does a large business in Weltschmerz on a very small
 capital.
-
 Nor is Heine the man more convincing as to his sincerity than Heine the
 poet. No more striking instance of this fact could perhaps be found than
 his letter to Laube on hearing the news of Immermann's death.[269]
@@ -3280,7 +2535,6 @@ and remained true to his purpose until the task was accomplished. In
 other words, Heine betrays a lack of will-energy along artistic lines,
 which in the case of Hoelderlin and Lenau was more evident in their
 attitude toward the practical things of life.
-
 But the fact that Heine never created a monumental literary work of
 enduring worth is not attributable solely to a fickleness of artistic
 purpose or lack of will-energy. We find its explanation rather in the
@@ -3290,7 +2544,6 @@ Heine steadily adhered. Certain it is that he took a much lower view of
 his art than did Hoelderlin or Lenau. Hence we find him ever ready to
 degrade his muse by making it the vehicle for immoral thoughts and
 abominable calumnies.[271]
-
 The question of Heine's patriotism has always been a much-debated one,
 and must doubtless remain so. But whatever opinion we may hold in regard
 to his real attitude and feelings toward the land of his birth, this we
@@ -3311,14 +2564,11 @@ the question of the sincerity of his feeling toward the land of his
 birth, certainly none but the blindest partisan would be able to
 discover more than a negligible quantity of Weltschmerz directly
 attributable to this influence.
-
 Heine's conscience is at best a doubtful quantity. Where Byron with a
 sincere sense and acknowledgment of his guilt writes:
-
-    "My injuries came down on those who loved me--
-    On those whom I best loved: . . . . . .
-    But my embrace was fatal."[278]
-
+"My injuries came down on those who loved me--
+On those whom I best loved: . . . . . .
+But my embrace was fatal."[278]
 Heine sees it in quite another light: "War ich doch selber jetzt das
 lebende Gesetz der Moral und der Quell alles Rechtes und aller Befugnis;
 die anruechigsten Magdalenen wurden purifiziert durch die laeuternde und
@@ -3351,11 +2601,9 @@ der Kerl taugte fuer keinen Pfennig, und war venerisch, und hatte die
 schlechtesten Grundsaetze--aber er hatte einen Kehllaut, mit welchem er
 auf so wunderliche Weise das Wort 'Was?' sprechen konnte, dass ich in
 diesem Augenblick weinen und lachen muss, wenn ich daran denke."[281]
-
 Taking him all in all then, Heine is not a serious personality, a fact
 which we need to keep constantly in mind in judging almost any and every
 side of his nature.
-
 As a matter of fact, Heine's Weltschmerz, like his whole personality, is
 of so complex and contradictory a nature, that it would be a hopeless
 undertaking to attempt to weigh each contributing factor and estimate
@@ -3373,7 +2621,6 @@ shall find much less than his popular reputation as a poet of
 Weltschmerz would lead us to expect; and we frequently gain the
 impression that his disposition and his personal experiences are after
 all largely the excuse for rather than the occasion of his Weltschmerz.
-
 Pluemacher maintains: "Der Weltschmerz ist entweder die absolute
 Passivitaet, und die Klage seine einzige Aeusserung, oder aber er
 verpufft seine Kraefte in rein subjectivistischen, eudaemonischen
@@ -3382,593 +2629,223 @@ the case of Lenau and Hoelderlin respectively. Hoelderlin, although in a
 visionary, idealistic way, remains, en in his Weltschmerz, altruistic
 and constructive. Lenau is passive, while Heine is solely egoistic and
 destructive.
-
-FOOTNOTES:
-
-[Footnote 181: "Studien und Wandertage," Frauenfeld, Huber, 1884.]
-
-[Footnote 182: Vol. II, p. 265.]
-
-[Footnote 183: "Franzoesische Maler. Gemaelde-Ausstellung in Paris, 1831."
 Heines Saemmtliche Werke, mit Einleitung von E. Elster. Leipzig,
 Bibliogr. Inst., 1890. (Hereafter quoted as "Werke.") Vol. IV, p. 61.]
-
-[Footnote 184: "Selina, oder ueber die Unsterblichkeit," II, p. 132.]
-
-[Footnote 185: "Heinrich Heines Krankheit und Leidensgeschichte." Eine
 kritische Studie, von S. Rahmer, Dr. Med., Berlin, 1901.]
-
-[Footnote 186: "Das Liebesleben Hoelderlin's, Lenaus, Heines." Berlin,
-1901.]
-
-[Footnote 187: Rahmer, op. cit. p. 45.]
-
-[Footnote 188: Rahmer, p. 46.]
-
-[Footnote 189: Werke, Vol. III, p. 194.]
-
-[Footnote 190: Karpeles ed. Werke (2. Aufl.) VIII, p. 441.]
-
-[Footnote 191: _Ibid._, p. 378.]
-
-[Footnote 192: _Ibid._, p. 520.]
-
-[Footnote 193: Karpeles ed. Werke, IX, p. 371.]
-
-[Footnote 194: _Ibid._, p. 374.]
-
-[Footnote 195: _Ibid._, p. 459 ff.]
-
-[Footnote 196: _Ibid._, p. 513.]
-
-[Footnote 197: _Ibid._, p. 475.]
-
-[Footnote 198: Werke, Vol. I, p. 72, Nos. 18 and 19.]
-
-[Footnote 199: Werke, Vol. I, p. 123, No. 62.]
-
-[Footnote 200: Lenaus Werke, Vol. I, p. 257 ff.]
-
-[Footnote 201: Werke, Vol. I, p. 37.]
-
-[Footnote 202: _Ibid._, Vol. II, p. 11.]
-
-[Footnote 203: _Ibid._, Vol. I, p. 97.]
-
-[Footnote 204: _Ibid._, Vol. I, p. 177.]
-
-[Footnote 205: _Ibid._, Vol. I, p. 197.]
-
-[Footnote 206: Karpeles ed. Werke, VIII, p. 408.]
-
-[Footnote 207: _Ibid._, p. 468.]
-
-[Footnote 208: Karpeles ed. Werke, Vol. II, p. 31.]
-
-[Footnote 209: A few other examples of this same coloring in Heine's
 lyrics are to be found in the "Neuer Fruehling," Nos. 40, 41 and 43.]
-
-[Footnote 210: Werke, Vol. II, p. 89, No. 55, "O Gott, wie haesslich
 bitter ist das Sterben!" etc.]
-
-[Footnote 211: Engel: "Heine's Memoiren," p. 133.]
-
-[Footnote 212: Werke, Vol. I, p. 87.]
-
-[Footnote 213: Werke, Vol. I, p. 134.]
-
-[Footnote 214: _Ibid._, Vol. II, p. 102.]
-
-[Footnote 215: "Nicolaus Lenau. Erinnerung und Betrachtung." Wien,
-1876.]
-
-[Footnote 216: Werke, Vol. I, p. 367f.]
-
-[Footnote 217: _Ibid._, Vol. I, p. 415.]
-
-[Footnote 218: _Ibid._, Vol. I, p. 48.]
-
-[Footnote 219: _Ibid._, Vol. I, p. 42 f.]
-
-[Footnote 220: _Ibid._, Vol. I, p. 428.]
-
-[Footnote 221: Werke, Vol. I, p. 424.]
-
-[Footnote 222: _Ibid._, Vol. I, p. 416.]
-
-[Footnote 223: Karpeles ed. Werke, VIII, p. 473.]
-
-[Footnote 224: Cf. Heine's letter to Moser, Jan. 9, 1826, in Karpeles'
 Autob. p. 191.]
-
-[Footnote 225: Karpeles ed. Werke, VIII, p. 491.]
-
-[Footnote 226: Cf. Werke, Einleitung, Vol. II, p. 241.]
-
-[Footnote 227: Werke, Vol. II, p. 293.]
-
-[Footnote 228: Cf. Almansor's Speech, Werke, Vol. II, p. 288 f.]
-
-[Footnote 229: Karpeles ed. Werke, VIII, p. 363.]
-
-[Footnote 230: _Ibid._, p. 384.]
-
-[Footnote 231: Karpeles ed. Werke, VIII, p. 391.]
-
-[Footnote 232: _Ibid._, p. 472.]
-
-[Footnote 233: _Ibid._, p. 503.]
-
-[Footnote 234: _Ibid._, p. 540.]
-
-[Footnote 235: _Ibid._, IX, p. 25.]
-
-[Footnote 236: _Ibid._, VIII, p. 392.]
-
-[Footnote 237: Karpeles ed. VIII, p. 396.]
-
-[Footnote 238: _Ibid._, IX, p. 308 ff.]
-
-[Footnote 239: _Ibid._, p. 316.]
-
-[Footnote 240: Letter to Detmold, Jan. 9, 1845, Werke (Karpeles ed.),
 Vol. IX, p. 310.]
-
-[Footnote 241: Werke, Vol. II, p. 104.]
-
-[Footnote 242: _Ibid._, Vol. II, p. 105.]
-
-[Footnote 243: Cf. Karpeles' Autob. p. 164.]
-
-[Footnote 244: Werke, Vol. I, p. 35.]
-
-[Footnote 245: _Ibid._, Vol. I, p. 92.]
-
-[Footnote 246: Werke, Vol. II, p. 164.]
-
-[Footnote 247: _Ibid._, Vol. I, p. 102.]
-
-[Footnote 248: One of the most exhaustive monographs on the subject is
 that of Felix Melchior (Cf. bibliography, _infra_ p. 90), to whom I am
 indebted for several of the parallels suggested.]
-
-[Footnote 249: Weimar Ausg. I Abt. Bd. 36, p. 128.]
-
-[Footnote 250: In the _Rheinisch-westfaelischer Anzeiger_, May 31, 1822,
 No. 23.]
-
-[Footnote 251: Cf. Strodtmann, "H. Heines Leben und Werke," 3. ed.,
 Hamburg, 1884. Vol. I, p. 200.]
-
-[Footnote 252: Karpeles ed. Werke, VIII, p. 434.]
-
-[Footnote 253: _Ibid._, p. 433.]
-
-[Footnote 254: _Ibid._, p. 441.]
-
-[Footnote 255: In discussing the first volume of Heine's "Reisebilder,"
 Immermann had said: "Man hat Heinen beim Beginn seiner dichterischen
 Laufbahn mit Byron vergleichen wollen. Diese Vergleichung scheint nicht
 zu passen. Der Brite bringt mit ungeheuren Mitteln nur massige poetische
 Effekte hervor, waehrend Heine eine Anlage zeigt, sich kuenstlerisch zu
 begrenzen und den Stoff gaenzlich in die Form zu absorbieren."
 (_Jahrbuecher f. wissenschaftliche Kritik_, 1827, No. 97, p. 767.)]
-
-[Footnote 256: Werke, III, p. 116.]
-
-[Footnote 257: Werke, Vol. Ill, p. 304.]
-
-[Footnote 258: Byron's Works, Coleridge ed., London and New York, 1898.
 Vol. I, p. 189 ff.]
-
-[Footnote 259: _Ibid._, p. 211.]
-
-[Footnote 260: Cf. the poems "To a Knot of Ungenerous Critics," "English
 Bards and Scotch Reviewers," and others.]
-
-[Footnote 261: Coleridge ed., Vol. II, p. 388 f.]
-
-[Footnote 262: _Ibid._, p. 406.]
-
-[Footnote 263: Coleridge ed., Vol. I, p. 266 f.]
-
-[Footnote 264: Werke, Vol. I, p. 78.]
-
-[Footnote 265: Coleridge ed., Vol. II, p. 429.]
-
-[Footnote 266: Werke, Vol. I, p. 61.]
-
-[Footnote 267: Karpeles ed. Werke, VIII, p. 411.]
-
-[Footnote 268: Werke, I, p. 117.]
-
-[Footnote 269: Werke, Karpeles ed. Vol. IX, p. 162 f.]
-
-[Footnote 270: Letter to Immermann, Werke (Karpeles ed.), Vol. VIII, p.
-354.]
-
-[Footnote 271: Cf. his vulgar prognostication of Germany's future, Kaput
 XXVI of the "Wintermaerchen," Werke, Vol. II, p. 488 ff.]
-
-[Footnote 272: Werke, Vol. I, p. 263.]
-
-[Footnote 273: _Ibid._, Vol. I, p. 308.]
-
-[Footnote 274: _Ibid._, Vol. I, p. 301, "Adam der erste."]
-
-[Footnote 275: _Ibid._, Vol. I, p. 316, "Zur Beruhigung."]
-
-[Footnote 276: _Ibid._, Vol. I, p. 320, "Nachtgedanken."]
-
-[Footnote 277: Cf. _supra_, note 1.]
-
-[Footnote 278: "Manfred," Coleridge ed., IV, p. 101.]
-
-[Footnote 279: Werke VI, p. 48.]
-
-[Footnote 280: Karpeles ed. Werke, VIII, p. 541.]
-
-[Footnote 281: Karpeles ed. Werke, VIII, p. 399.]
-
-[Footnote 282: Pluemacher: "Der Pessimismus." Heidelberg, 1888, p. 103.]
-
-
-
-
-CHAPTER V
-
 =Bibliography=
-
-
 _General_
-
 Breitinger, H. Neues ueber den alten Weltschmerz. "Studien und
 Wandertage." Frauenfeld, Huber, 1884, p. 246-62.
-
 Caro, E. Le Pessimisme au 19. Siecle; Leopardi, Schopenhauer, Hartmann.
-4th. ed. Paris, 1889.
-
 Deutsches Litteraturblatt, Halle a. S. 1879, Nr. 1. Der Pessimismus in
 der Litteratur.
-
 "Europa," 1869, Nr. 16. Der Weltschmerz in der Poesie. von Golther,
 Ludwig. Der Moderne Pessimismus. Leipzig, 1878.
-
 Hartmann, Ed. Zur Begruendung und Geschichte des Pessimismus. Leipzig,
-1892.
-
 Heyse, Paul. Leopardi, der Dichter des Pessimismus. Deutsche Rundschau,
 Band 14, Art. 15.
-
 Huber, Johannes. Der Pessimismus. Muenchen, 1876.
-
 Lenzi, Annita. Il problema del dolore in alcune figure della
 letteratura. Roma, Bertero.
-
 Lombroso, C. Der geniale Mensch. Hamburg, 1900.
-
 Nisbet. Pessimism and its Antidote. Macmillan's Magazine, London, Aug.
-1877.
-
 Pfleiderer, E. Der Moderne Pessimismus. "Deutsche Zeit- und
 Streitfragen," Berlin, 1875.
-
 Pluemacher, O. Der Pessimismus in Vergangenheit und Gegenwart. 2d. ed.
 Heidelberg, 1888.
-
 Revue des deux Mondes, Dec. 1877, p. 481-514. L'Ecole pessimiste en
 Allemagne; son influence et son avenir.
-
 Sully, James. Pessimism. A History and a Criticism. London, 1877.
-
 Westminster Review, Vol. 138, Oct. 1892. Pessimism and Poetry.
-
 Weygoldt, G. P. Kritik des philosophischen Pessimismus der neusten Zeit.
 Leiden, 1875.
-
-
 _Hoelderlin_
-
 Hoelderlins Saemmtliche Werke, herausgegeben von C. T. Schwab. Stuttgart,
-1846.
-
 Hoelderlins gesammelte Dichtungen. Neu durchgesehene und vermehrte
 Ausgabe, mit biographischer Einleitung herausgegeben von B. Litzmann.
 Stuttgart, Cotta.
-
 Arnold, R. F. Der deutsche Philhellenismus. Euphorion, 1896, II
 Ergaenzungsheft, p. 71 ff.
-
 Brandes, G. Die Hauptstroemungen der Litteratur des 19. Jahrhunderts.
 Leipzig, 1894. Vol. 2, p. 48-53.
-
 Challemel-Lacour. La Poesie paienne en Allemagne au XIX. Siecle. Revue
 des deux Mondes, June, 1867.
-
 Haym, R. Die Romantische Schule. Berlin, 1870, p. 289-324
-
 Jung, Alexander. Friedrich Hoelderlin und seine Werke. Cotta, 1848.
-
 Klein-Hattingen, Oskar. Das Liebesleben Hoelderlins, Lenaus, Heines.
 Berlin, 1901.
-
 Koestlin, K. Dichtungen von Friedrich Hoelderlin, mit biographischer
 Einleitung. Tuebingen, 1884.
-
 Litzmann, Carl C. T. Friedrich Hoelderlins Leben, in Briefen von und an
 Hoelderlin. Berlin, 1890. (Reviewed by O. F. Walzel, Zeitschrift f. d.
 Alt. Anz. 17, p. 314-320.)
-
 Mueller, David. Friedrich Hoelderlin, eine Studie. Preuss. Jahrbuecher,
-1866, 17, p. 548-68.
-
 Mueller-Rastatt. Friedrich Hoelderlins Leben und Dichten, Bremen, 1894.
 (Reviewed by Hermann Fischer, Anz. f. d. Alt. 22, p. 212-18.)
-
 Rosenkranz, K. Aus Hegels Leben. I. Hegel und Hoelderlin. Prutz,
 Literarhistor. Taschenbuch, 1843, Bd. I, p. 89-200.
-
 Scherer, Wilh. Vortraege und Aufsaetze zur Geschichte des geistigen Lebens
 in Deutschland und Oesterreich. Berlin, 1874. Hoelderlin, p. 346-355.
-
 Teuffel, W. S. Studien und Charakteristiken zur griechischen u.
 roemischen sowie zur deutschen Litteraturgeschichte. Leipzig, 1871.
 Hoelderlin, p. 473-502.
-
 Waiblinger, Wilh. Friedrich Hoelderlin's Leben, Dichtung und Wahnsinn. In
 Waiblinger's Werken, 3, p. 219-61.
-
 Wenzel, G. Hoelderlin und Keats als geistesverwandte Dichter. Programm.
 Magdeburg, 1896.
-
 Wilbrandt, Adolf. Hoelderlin. In "Geisteshelden. Eine Sammlung von
 Biographien," herausgegeben von Dr. Anton Bettelheim. Berlin, 1896. 2
 und 3 Band, p. 1-46.
-
 (Originally published as "Hoelderlin, der Dichter des Pantheismus," in
 Riehls Historisches Taschenbuch, 5. Folge, 1. Jahrgang. Leipzig, 1871,
 p. 373-413.)
-
-
 _Lenau_
-
 Nicolaus Lenau's Saemmtliche Werke, herausgegeben von G. Emil Barthel. 2.
 Aufl. Leipzig (Ohne Jahr).
-
 Lenau's Saemmtliche Werke, in 4 Baenden, Stuttgart, Cotta (Ohne Jahr).
-
 Lenau's Werke, herausgegeben von Max Koch. Kuerschners Nationallitt. 154
 und 155.
-
 Auerbach. Nicolaus Lenau. Erinnerung und Betrachtung. Wien, 1876.
-
 Barewicz, Witold. Rezension von Zdziechowski, Der deutsche Byronismus.
 Euphorion, 1894, p. 417-18.
-
 Berdrow, Otto. Frauenbilder aus der neueren deutschen
 Litteraturgeschichte. Stuttgart (ohne Jahr). Lenau's Mutter, p. 223-235;
 Sophie Loewenthal, p. 236-259; Marie Behrends, p. 260-80.
-
 Castle, Ed. Nicolaus Lenau. Zur Jahrhundertfeier seiner Geburt. Leipzig,
-1902.
-
 Castle, Ed. Heimaterinnerungen bei Lenau. Grillparzer Jahrb. Wien, 1900,
 p. 80-95.
-
 Castle, Ed. Nicolaus Lenaus Savonarola. Euphorien, 1896, Vol. 3, p.
-74-92; 441-64; 1897, Vol. 4, p. 66-91.
-
 Ernst, Ad. Wilh. Litterarische Charakterbilder. Hamburg, 1895. Lenau, p.
-253-74.
-
 Ernst, Ad. Lenaus Frauengestalten. Stuttgart, 1902.
-
 Faggi, A. Lenau und Leopardi. Palermo, 1898.
-
 Farinelli, A. Ueber Leopardis und Lenaus Pessimismus. Verhandlungen des
-8. Allgem. d. Neuphilologentages, 1898. (Reviewed in Neuphil.
 Centralblatt, Sept. 1898).
-
 Fischer, Kuno. Der Philosoph des Pessimismus. Kleine Schriften,
 Heidelberg, 1897.
-
 Frankl, L. A. Zur Biographie Nicolaus Lenaus. 2. Aufl. Wien, Pest,
 Leipzig, Hartleben, 1885.
-
 Frankl, L. A. Lenau und Sophie Loewenthal. Cotta, 1891. (Reviewed by
 Minor, Anz. f. d. Alt. 18, p. 276-291.)
-
 Friedrichs, Paul. Nicolaus Lenau. Nordd. Allg. Ztg. 1902, Nr. 188.
-
 Gesky, Theodor. Lenau als Naturdichter. Leipzig, 1902.
-
 Hohenhausen, F. Nicolaus Lenau und Emilie Reinbeck. Westermanns Ill.
 Monatsh. Mai, 1873.
-
 Kerner, Theobald. Das Kernerhaus und seine Gaeste. Deutsche
 Verlagsanstalt, 1894.
-
 Klein-Hattingen, Oscar. See under Hoelderlin.
-
 Marchand, Alfred. Les Poetes lyriques de l'Autriche. Paris, Fischbacher,
-1889.
-
 Martensen, U. Aus meinem Leben. Berlin, 1891.
-
 Mayer, Karl. Nicolaus Lenaus Briefe an einen Freund. Stuttgart, 1853.
-
 Mueller-Frauenstein. Von Heinrich von Kleist his zur Graefin M.
 Ebner-Eschenbach. Hannover, 1891. Lenau, p. 123-33.
-
 Roettinger, Heinrich. Lenaus Bertha. Ein Beitrag zur Lebensgeschichte des
 Dichters. Euphor. 1899, p. 752-61.
-
 Sadger, J. Nicolaus Lenau. Ein pathologisches Lebensbild. Neue Freie
 Presse, Nr. 111166-7. Sept. 25, 26, 1895. (Reviewed by Castle, Euphor.
-1899, p. 792-95.)
-
 Roustan, L. Lenau et son Temps, Paris, 1898. (Reviewed by Castle,
 Euphor. 1899, p. 785-97, in which review he quotes at length the opinion
 of Dr. Med. Karl Weiler.)
-
 Saly-Stern, J. La vie d'un Poete. Essai sur Lenau. Paris, 1902.
-
 Scherr, J. Ein Dichter des Weltleids. Hammerschlaege und Historien,
 Zuerich, 1872.
-
 Schlossar, Dr. A. Nicolaus Lenau's Briefe an Emilie v. Reinbeck, nebst
 Aufzeichnungen. Stuttgart, 1896.
-
 Schurz, Anton X. Lenaus Leben, grossentheils aus des Dichters eignen
 Briefen. 2 vols. Cotta, 1855.
-
 Sintenis, Franz. Nicolaus Lenau. Vortrag. 1892.
-
 Von Klenze, Camillo. The Treatment of Nature in the Works of Lenau.
 Chicago Univ. Press, 1902.
-
 Wechsler, Ed. Nicolaus Lenau. Eine litterarische Studie. Westermanns
 Ill. Monatsh. 68, p. 676-92.
-
 Weisser, Paul. Lenau und Marie Behrends. Deutsche Rundschau, 1889, p.
-420 ff.
-
 Witt, A. Lenau's Leben und Charakter. Marburg, 1893.
-
-
 _Heine_
-
 Heinrich Heines Saemmtliche Werke. Hamburg, Hoffmann und Campe, 1876.
-
 Heinrich Heines Gesammelte Werke. Kritische Gesammtausgabe,
 herausgegeben von Gustav Karpeles. Berlin, 1887.
-
 Heinrich Heines Saemmtliche Werke. Kritisch durchgesehene und erlaeuterte
 Ausgabe, herausgegeben von Ernst Elster. Leipzig, Bibliogr. Inst. 1890.
-
 Briefe von Heinrich Heine an seinen Freund Moses Moser. Leipzig, 1862.
-
 Arnold, Matthew. Essays in Criticism. 3d. ed. London, 1875. Heinrich
 Heine, p. 181-224.
-
 Betz, Dr. Louis P. Heine in Frankreich. Eine litterarhistorische
 Untersuchung. Zuerich, 1895. Betz, Dr. Heinrich Heine und Alfred de
 Musset. Eine biographisch-litterarische Parallele. Zuerich, 1897.
 (Reviewed by Walzel, Euphor. 1898, p. 788 ff.)
-
 Boelsche, Wilhelm. Heinrich Heine. Versuch einer aesthetisch-kritischen
 Analyse seiner Werke und seiner Weltanschauung. Leipzig, 1888.
-
 Ducros, Louis. Henri Heine et son Temps. Paris, 1886.
-
 Eliot, George. Essays and Leaves from a Note-book. London, 1884. Heine,
 p. 79-141.
-
 Elster, Ernest. Zu Heines Biographie. Vierteljahrschrift fuer
 Litteraturgeschichte, 1891, Vol. 4, p. 465-512.
-
 Engel, E. Heine's Memoiren und Gedichte. Prosa und Briefe. Hamburg,
-1884.
-
 Gautier, Theophile. Portraits et Souvenirs Litteraires. Paris, 1875.
 Henri Heine, p. 105-128.
-
 Goetze, R. Heines Buch der Lieder und sein Verhaeltnis zum Volkslied.
 Dissertation. Halle, 1895.
-
 Gottschall, Rudolf. Portraets und Studien. Leipzig, 1870. Heinrich Heine
 nach neuen Quellen, Bd. I. p. 185-264.
-
 Houghton, Lord. Monographs, personal and social. London, 1873. The last
 days of Heinrich Heine, p. 293-339.
-
 Hueffer, H. Aus dem Leben Heinrich Heines. Berlin, 1878.
-
 Hueffer, H. H. Heine und Ernst C. A. Keller. Deutsche Rundschau, Nov. and
 Dec., 1895.
-
 Kalischer, Dr. Alfred C. Heinrich Heines Verhaeltnis zur Religion.
 Dresden, 1890.
-
 Karpeles, Gustav. Heinrich Heine und das Judentum. Breslau, 1868.
-
 Karpeles, Gustav. Heinrich Heine und seine Zeitgenossen. Berlin, 1888.
-
 Karpeles, Gustav. Heine's Autobiographie, nach seinen Werken, Briefen
 und Gespraechen. Berlin, 1888.
-
 Karpeles, Gustav. H. Heine. Aus seinem Leben und aus seiner Zeit.
 Leipzig, 1899.
-
 Kaufmann, Max. Heine's Charakter und die Moderne Seele. Zuerich, 1902.
-
 Keiter, H. H. Heine. Sein Leben, sein Charakter, seine Werke. Koeln,
-1891.
-
 Kohn-Abrest, F. Les, Coulisses d'un Livre. A propos des Memoires de
 Henri Heine, Poete. Paris, 1884.
-
 Legras, Jules. Henri Heine, Poete. Paris, 1897. (Reviewed by Walzel,
 Euphor. 1898, Vol. 5, p. 149.)
-
 Magnus, Lady. Jewish Portraits. London, 1888. p. 45-81. (Originally in
 Macmillan's Magazine for 1883.)
-
 Meiszner, Alfred. Heinrich Heine. Erinnerungen. Hamburg, 1856.
-
 Melchior, Felix. Heinrich Heines Verhaeltnis zu Lord Byron. Litterarische
 Forschungen, XXVII Heft. Berlin, 1903.
-
 Nietzki, M. Heine als Dichter und Mensch. Berlin, 1895. (Reviewed by
 Fuerst, Euphor. 1898, Vol. 5, p. 342 f.)
-
 Nollen. Heine und Wilhelm Mueller. Mod. Lang. Notes, April, 1902.
-
 Proelss, Robert. Heinrich Heine. Sein Lebensgang und seine Schriften.
 Stuttgart, 1886.
-
 Rahmer, S. Heinrich Heines Krankheit und Leidensgeschichte. Eine
 kritische Studie. Berlin, 1902.
-
 Delia Rocca. Skizzen ueber H. Heine. Wien, Pest, Leipzig, Hartleben,
-1882.
-
 Sandvoss, Franz. Was duenket Euch um Heine? Ein Bekenntnis. Leipzig,
-1888.
-
 Schmidt, Julian. Bilder aus dem geistigen Leben unsrer Zeit. Leipzig,
-1870-71. Heine, Bd. 2, p. 283-350.
-
 Schmidt-Weissenfels. Ueber Heinrich Heine. Berlin, 1857.
-
 Selden, Camille. Les derniers Jours de H. Heine. Paris, 1884.
-
 Sharp, William. Life of Heinrich Heine. London, 1888.
-
 Sintenis, F. H. Heine; ein Vortrag. Dorpat, 1877.
-
 Stigand. The Life, Works and Opinions of Heinrich Heine. London, 1875.
-
 Strodtmann, Adolf. Heinrich Heine's Wirken und Streben, Dargestellt an
 seinen Werken. Hamburg, 1857.
-
 Strodtmann, Adolf. Immortellen Heinrich Heine's. Berlin, 1871.
-
 Strodtmann, Adolf. H. Heine's Leben und Werke. III Aufl. Berlin, 1884.
-
 Stylo, A. Heine und die Romantik. Programm. Krakau, 1900.
-
 Weill, Alexandre: Souvenirs Intimes de Henri Heine. Paris, 1883.
-
-
-TRANSCRIBER'S NOTES:
-
-[Note TN1: Correction of the original, which has
 'Menchen' here.]
-
-
-
-
-
-End of the Project Gutenberg EBook of
-

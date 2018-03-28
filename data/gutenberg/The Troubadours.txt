@@ -1,59 +1,11 @@
-e Project Gutenberg EBook of The Troubadours, by H.J. Chaytor
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Troubadours
-
-Author: H.J. Chaytor
-
-Release Date: May 27, 2004 [EBook #12456]
-
-Language: English and French
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE TROUBADOURS ***
-
-
-
-
 Produced by Ted Garvin, Renald Levesque and the Online Distributed
 Proofreading Team.
-
-
-
-
-
-THE TROUBADOURS
-
-BY
-
-REV. H.J. CHAYTOR, M.A.
-
-
-
-AUTHOR OF
-"THE TROUBADOURS OF DANTE"
-ETC.
-
 Cambridge:
 at the University Press
-1912
-
-
 _With the exception of the coat of arms at
 the foot, the design on the title page is a
 reproduction of one used by the earliest known
 Cambridge printer, John Siberch, 1521_
-
-
-
-PREFACE
-
 This book, it is hoped, may serve as an introduction to the literature
 of the Troubadours for readers who have no detailed or scientific
 knowledge of the subject. I have, therefore, chosen for treatment the
@@ -62,54 +14,9 @@ for the purpose of this book. Students who desire to pursue the subject
 will find further help in the works mentioned in the bibliography. The
 latter does not profess to be exhaustive, but I hope nothing of real
 importance has been omitted.
-
-H.J. CHAYTOR.
-
-THE COLLEGE,
 PLYMOUTH, March 1912.
-
-
-
-CONTENTS
-
-
-PREFACE
-
-CHAP.
-
-I. INTRODUCTORY
-
-II. THE THEORY OF COURTLY LOVE
-
-III. TECHNIQUE
-
-IV. THE EARLY TROUBADOURS
-
-V. THE CLASSICAL PERIOD
-
-VI. THE ALBIGEOIS CRUSADE
-
-VII. THE TROUBADOURS IN ITALY
-
-VIII. THE TROUBADOURS IN SPAIN
-
-IX. PROVENCAL INFLUENCE IN GERMANY, FRANCE, AND ENGLAND
-
-BIBLIOGRAPHY AND NOTES
-
-INDEX
-
-[Transcriptor's note: Page numbers from the original document have
 been posted in the right margin to maintain the relevance of the
 index references.}
-
-THE TROUBADOURS                                                            [1]
-
-
-CHAPTER I
-
-INTRODUCTORY
-
 Few literatures have exerted so profound an influence upon the literary
 history of other peoples as the poetry of the troubadours. Attaining the
 highest point of technical perfection in the last half of the twelfth
@@ -128,7 +35,6 @@ Provencal poems may be found in Heinrich von Morungen, Friedrich von
 Hausen, and many others. Hence the poetry of the troubadours is a
 subject of first-rate importance to the student of comparative
 literature.
-
 The northern limit of the Provencal language formed a line starting from
 the Pointe de Grave at the mouth of the Gironde, passing through
 Lesparre, Bordeaux, Libourne, Perigueux, rising northward to Nontron, la
@@ -153,7 +59,6 @@ south of the boundary thus determined there was, in the absence of any
 great mountain range or definite geographical line of demarcation, an
 indeterminate zone, in which one dialect probably shaded off by easy
 gradations into the other.
-
 Within the region thus described as Provencal, several separate dialects
 existed, as at the present day. Apart from the Franco-Provencal on the
 north-east, which we have excluded, there was Gascon in the south-west
@@ -176,7 +81,6 @@ Italian dialects. It was in Limousin that the earliest troubadour lyrics
 known to us were composed, and this district with the adjacent Poitou
 and Saintonge may therefore be reasonably regarded as the birthplace of
 Provencal lyric poetry.
-
 Hence the term "Provencal" is not entirely appropriate to describe the
 literary language of the troubadours, as it may also be restricted to
 denote the dialects spoken in the "Provincia". This difficulty was felt
@@ -189,7 +93,6 @@ authority of Dante [2] and was used by some of the later troubadours;
 however, the term "Provencal" has been generally accepted, and must
 henceforward be understood to denote the literary language common to the   [5]
 south of France and not the dialect of Provence properly so-called.
-
 For obvious reasons Southern France during the early middle ages had far
 outstripped the Northern provinces in art, learning, and the refinements
 of civilisation. Roman culture had made its way into Southern Gaul at an
@@ -218,7 +121,6 @@ poetical productions in Provencal which are known to us, a fragment of a
 commentary upon the De Consolatione of Boethius[4] and a poem upon St
 Foy of Agen. The first troubadour, William, Count of Poitiers, belongs
 to the close of the eleventh century.
-
 Though the Count of Poitiers is the first troubadour known to us, the
 relatively high excellence of his technique, as regards stanza
 construction and rime, and the capacity of his language for expressing
@@ -246,7 +148,6 @@ eventually a troubadour, a composer of his own poems. These latter were
 no longer the gross and coarse songs of the earlier mountebank age,
 which Alcuin characterised as _turpissima_ and _vanissima_, but the
 grave and artificially wrought stanzas of the troubadour _chanso_.
-
 Secondly, it has been felt that some explanation is required to account
 for the extreme complexity and artificiality of troubadour poetry in its
 most highly developed stage. Some nine hundred different forms of stanza   [8]
@@ -258,7 +159,6 @@ been ascribed to Arabic influence during the eighth century; but no
 sufficient proof has ever been produced that the complexities of Arabic
 and Provencal poetry have sufficient in common to make this hypothesis
 anything more than an ingenious conjecture.
-
 One important fact stands in contradiction to these theories. All
 indications go to prove that the origin of troubadour poetry can be
 definitely localised in a particular part of Southern France. We have
@@ -282,7 +182,6 @@ poetry. It is thus useless to attempt to fix any date for the beginnings
 of troubadour poetry; its primitive form doubtless existed as soon as
 the language was sufficiently advanced to become a medium of poetical
 expression.
-
 Some of these popular themes were retained by the troubadours, the
 _alba_ and _pastorela_ for instance, and were often treated by them in a
 direct and simple manner. The Gascon troubadour Cercamon is said to have
@@ -303,7 +202,6 @@ the inspired bard of the Romans and the [Greek: poeta], poeta, the
 creative poet of the Greeks, the "maker" of Germanic literature. Skilful
 variation upon a given theme, rather than inspired or creative power, is
 generally characteristic of the troubadour.
-
 Thus, whatever may have been the origin of troubadour poetry, it appears
 at the outset of the twelfth century as a poetry essentially
 aristocratic, intended for nobles and for courts, appealing but rarely
@@ -323,7 +221,6 @@ such as the monk of Montaudon and Peire Cardenal, though the Church
 looked somewhat askance upon the profession. Women are also numbered
 among the troubadours; Beatrice, the Countess of Die, is the most famous
 of these.
-
 A famous troubadour usually circulated his poems by the mouth of a
 _joglar_ (Northern French, _jongleur_), who recited them at different
 courts and was often sent long distances by his master for this purpose.
@@ -343,7 +240,6 @@ of slander in their poems and quarrels with their patrons were of
 constant occurrence. These naturally affected the joglars in their
 service, who received a share of any gifts that the troubadour might
 obtain.
-
 The troubadours who were established more or less permanently as court
 poets under a patron lord were few; a wandering life and a desire for
 change of scene is characteristic of the class. They travelled far and
@@ -364,14 +260,6 @@ their days in peace; Folquet of Marseilles, who similarly entered the
 Cistercian order, became abbot of his monastery of Torondet, Bishop of
 Toulouse, a leader of the Albigeois crusade and a founder of the
 Inquisition.
-
-
-
-CHAPTER II                                                               [14]
-
-
-THE THEORY OF COURTLY LOVE
-
 Troubador poetry dealt with war, politics, personal satire and other
 subjects: but the theme which is predominant and in which real
 originality was shown, is love. The troubadours were the first lyric
@@ -379,7 +267,6 @@ poets in mediaeval Europe to deal exhaustively with this subject, and as
 their attitude was imitated with certain modifications by French,
 Italian, Portuguese and German poets, the nature of its treatment is a
 matter of considerable importance.
-
 Of the many ladies whose praises were sung or whose favours were desired
 by troubadours, the majority were married. Troubadours who made their
 songs to a maiden, as did Gui d'Ussel or Gausbert de Puegsibot, are
@@ -398,7 +285,6 @@ system, the lady might often be called upon to represent her husband's
 suzerainty to his vassals, when she was left in charge of affairs during
 his absence in time of war. Unmarried women were inconspicuous figures
 in the society of the age.
-
 Thus there was a service of love as there was a service of vassalage,
 and the lover stood to his lady in a position analogous to that of the
 vassal to his overlord. He attained this position only by stages; "there
@@ -422,7 +308,6 @@ the outcome of a merely conventional or "platonic" devotion. In the
 troubadour biographies the substratum of historical truth is so overlaid
 by fiction, that little reliable evidence upon the point can be drawn
 from this source.
-
 However, transgression was probably exceptional. The idea of troubadour
 love was intellectual rather than emotional; love was an art,
 restricted, like poetry, by formal rules; the terms "love" and "poetry"
@@ -440,7 +325,6 @@ of his lady; this worth implies the possession of _cortesia_, pleasure
 in the pleasure of another and the desire to please; this quality is
 acquired by the observance of _mesura_, wisdom and self-restraint in
 word and deed.
-
 The poetry which expresses such a state of mind is usually idealised and
 pictures the relationship rather as it might have been than as it was.
 The troubadour who knew his business would begin with praises of his
@@ -471,7 +355,6 @@ self-renunciation; he reproaches his lady for her coldness, complains
 that she has led him on by a show of kindness, has deceived him and will
 be the cause of his death; or his patience is at an end, he will live in
 spite of her and try his fortune elsewhere.[8]
-
 Such, in very general terms, is the course that might be followed in
 developing a well-worn theme, on which many variations are possible. The  [19]
 most common form of introduction is a reference to the spring or winter,
@@ -484,7 +367,6 @@ revivified by intricate rime-schemes and stanza construction accompanied
 by new melodies. The conventional nature of the whole business may be
 partly attested by the fact that no undoubted instance of death or
 suicide for love has been handed down to us.
-
 Reference should here be made to a legendary institution which seems to
 have gripped the imagination of almost every tourist who writes a book
 of travels in Southern France, the so-called _Courts of Love_.[9] In
@@ -515,7 +397,6 @@ Avignon and elsewhere; the seat of justice was held by some famous lady,
 and the courts decided such questions as whether a lover could love two
 ladies at the same time, whether lovers or married couples were the more
 affectionate, whether love was compatible with avarice, and the like.     [21]
-
 A special poetical form which was popular among the troubadours may have
 given rise to the legend. This was the _tenso_,[11] in which one
 troubadour propounded a problem of love in an opening stanza and his
@@ -535,14 +416,6 @@ existence only by a few vague and scattered allusions in the large body
 of Provencal literature. For these reasons the theory that such an
 institution existed has been generally rejected by all scholars of
 repute.
-
-
-
-CHAPTER III                                                               [22]
-
-
-TECHNIQUE
-
 Provencal literature contains examples of almost every poetical _genre_.
 Epic poetry is represented by Girart of Roussillon,[12] a story of long
 struggles between Charles Martel and one of his barons, by the Roman de
@@ -562,7 +435,6 @@ the most sedulous attention, and the principles of stanza construction,
 rime correspondence and rime distribution, as evolved by the              [23]
 troubadours, exerted so wide an influence upon other European literature
 that they deserve a chapter to themselves.
-
 There was no formal school for poetical training during the best period
 of Provencal lyric. When, for instance, Giraut de Bornelli is said to
 have gone to "school" during the winter seasons, nothing more is meant
@@ -572,7 +444,6 @@ principles of his art from other poets who were well acquainted with the
 conventions that had been formulated in course of time, conventions
 which were collected and systematised in such treatises as the Leys
 d'Amors during the period of the decadence.
-
 The love song or _chanso_ was composed of five, six or seven stanzas
 (_coblas_) with, one or two _tornadas_ or _envois_. The stanza varied in
 length from two to forty-two lines, though these limits are, of course,
@@ -605,60 +476,9 @@ consist of _pedes_ and _versus_, one theme being used for the first
 _pes_ and repeated for the second and similarly with the _versus_.
 Thus the general principle upon which the stanza was constructed was that of
 tripartition in the following three forms:--
-
-
-I
-
-1st line     }
-2nd   "      }   Pes
-3rd   " etc. }
-
-1st line     }
-2nd  "       }   Pes
-3rd  " etc.  }
 Diesis or Volta
-
-1st line     }    Syrma
-2nd  "	     }    or Coda
-3rd  " etc.  }
-
-
-II
-
-1st line     }
-2nd  "       }   Frons
-3rd  " etc.  }
 Diesis or Volta
-
-1st line     }
-2nd  "	     }   Versus
-3rd  " etc.  }
-
-1st line     }
-2nd. "	     }   Versus
-3rd  " etc.  }
-
-
-III
-
-1st line     }
-2nd   "      }   Pes
-3rd   " etc. }
-
-1st line     }
-2nd  "       }   Pes
-3rd  " etc.  }
 Diesis or Volta
-
-1st line     }
-2nd  "	     }   Versus
-3rd  " etc.  }
-
-1st line     }
-2nd. "	     }   Versus
-3rd  " etc.  }
-
-
 These forms were rather typical than stringently binding as Dante
 himself notes (_De Vulg. El._, ii, 11); many variations were         [26]
 possible. The first seems to have been the most popular type. The poem might also
@@ -668,7 +488,6 @@ allusions, and when these were unintelligible to the audience the
 _joglar_ usually explained the poem before singing it; the explanations,
 which in some cases remain prefixed to the poem, were known as the
 _razos_.
-
 Troubadour poems were composed for singing, not for recitation, and the
 music of a poem was an element of no less importance than the words.
 Troubadours are described as composing "good" tunes and "poor" words, or
@@ -689,9 +508,7 @@ age of the troubadours was based upon the so-called "modes," rhythmical
 formulae combining short and long notes in various sequences. Three of
 these concern us here. The first mode consists of a long followed by a
 short note, the long being equivalent to two short, or in 3/4 time
-[Illustration: musical notation.]. The second mode is the reverse of
 the first [Illustration: musical notation.]. The third mode in modern
-6/8 time appears as [Illustration: musical notation.]. The principle of
 sub-division is thus ternary; "common" time or 2/4 time is a later
 modification. So much being admitted, the problem of transposing a tune
 written in Gregorian notation without bars, time signature, marks of
@@ -703,7 +520,6 @@ of the note to which the tonic syllable is sung may be increased, to
 avoid the apparent discordance between the musical accent and the tonic
 syllable. The musical accent must fall upon the rime and the rhythm       [28]
 adopted at the outset will persist throughout the poem.
-
 Hence a study of the words will give the key to the interpretation of
 the tune. If, for instance, the poem shows accented followed by
 unaccented syllables or trochees as the prevalent foot, the first "mode"
@@ -720,7 +536,6 @@ middle ages, and the fact that words and music were inseparable in
 Provencal lyrics shows that to infer the nature of the musical rhythm
 from the rhythm of the words is a perfectly legitimate method of
 inquiry.
-
 A further question arises: how far do the tunes correspond with the
 structure of the stanza as given by Dante? In some cases both tune and
 stanza correspond in symmetrical form; but in others we find stanzas      [29]
@@ -734,7 +549,6 @@ singer accompanied himself upon a stringed instrument (_viula_) or was
 accompanied by other performers; various forms of wind instruments were
 also in use. Apparently the accompaniment was in unison with the singer;
 part writing or contrapuntal music was unknown at the troubadour period.
-
 As has been said, the stanza (_cobla_) might vary in length. No poetical
 literature has made more use of rime than Provencal lyric poetry. There
 were three typical methods of rime disposition: firstly, the rimes might
@@ -759,7 +573,6 @@ correspond with the first rime of the following stanza, but with the
 additional improvement that every rime started a stanza in turn,
 whereas, in the _chanso redonda_ the same rime continually recurred at
 the beginning of every other stanza.
-
 Reference has already been made to the _chanso_. A poetical form of much
 importance was the _sirventes_, which outwardly was indistinguishable
 from the _chanso_. The meaning of the term is unknown; some say that it
@@ -781,7 +594,6 @@ _planh_, a funeral song lamenting the death of a patron, and here again,
 beneath the mask of conventionality, real emotion is often apparent, as
 in the famous lament upon Richard Coeur de Lion composed by Gaucelm
 Faidit.
-
 Reference has been already made to the _tenso_, one of the most
 characteristic of Provencal lyric forms. The name (Lat. _tentionem_)
 implies a contention or strife, which was conducted in the form of a
@@ -808,7 +620,6 @@ provided an opportunity of displaying both poetical dexterity and also
 dialectical acumen. But rarely did either of the disputants declare
 himself convinced or vanquished by his opponents' arguments the question  [33]
 was left undecided or was referred by agreement to an arbitrator.
-
 A poetical form which preserves some trace of its popular origin is the
 _pastorela_[15] or pastoral which takes its name from the fact that the
 heroine of the piece was always a shepherdess. The conventional opening
@@ -828,7 +639,6 @@ guard their meeting-place throughout the night. The counterpart of this
 form, the _serena_, does not appear until late in the history of
 Provencal lyric poetry; in the _serena_ the lover longs for the      [34]
 approach of evening, which is to unite him with his beloved.
-
 Other forms of minor importance were the _comjat_ in which a troubadour
 bids a lady a final farewell, and the _escondig_ or justification in
 which the lover attempts to excuse his behaviour to a lady whose anger
@@ -842,7 +652,6 @@ towards him. The _ballata_ and the _estampida_ were dance-songs, but
 very few examples survive. Certain love letters also remain to us, but
 as these are written in rimed couplets and in narrative style, they can
 hardly be classified as lyric poetry.
-
 In conclusion, a word must be said concerning the dispute between two
 schools of stylists, which is one of the most interesting points in the
 literary history of the troubadours.[16] From the earliest times we find
@@ -885,28 +694,24 @@ not the memory or industry to learn it perfectly, and Peire d'Alvernhe
 the rimes will prevent the interpolation of topical allusions or
 careless altercation. The similar safeguard of Dante's _terza rima_ will
 occur to every student.
-
 The social conditions again under which troubadour poetry was produced,
 apart from the limitations of its subject matter, tended to foster an
 obscure and highly artificial diction. This obscurity was attained, as
 we have said, by elevation and preciosity of style, and was not the
 result of confusion of thought. Guiraut de Bornelh tells us his method    [37]
 in a passage worth quoting in the original--
-
-  Mas per melhs assire
-  mon chan,
-  vau cercan
-  bos motz en fre
-  que son tuit cargat e ple
-  d'us estranhs sens naturals;
-  mas no sabon tuich de cals.
-
+Mas per melhs assire
+mon chan,
+vau cercan
+bos motz en fre
+que son tuit cargat e ple
+d'us estranhs sens naturals;
+mas no sabon tuich de cals.
 "But for the better foundation of my song I keep on the watch for words
 good on the rein (_i.e._ tractable like horses), which are all loaded
 (like pack horses) and full of a meaning which is unusual, and yet is
 wholly theirs (naturals); but it is not everyone that knows what that
 meaning is".[17]
-
 Difficulty was thus intentional; in the case of several troubadours it
 affected the whole of their writing, no matter what the subject matter.
 They desired not to be understood of the people. Dean Gaisford's reputed
@@ -921,30 +726,24 @@ exponents of the _trobar clus_, and afterwards supported the cause of
 the _trobar clar_. Current arguments for either cause are set forth in
 the _tenso_ between Guiraut de Bornelh and Linhaure (pseudonym for the
 troubadour Raimbaut d'Aurenga).
-
 (1) I should like to know, G. de Bornelh, why, and for what reason, you
 keep blaming the obscure style. Tell me if you prize so highly that
 which is common to all? For then would all be equal.
-
 (2) Sir Linhaure, I do not take it to heart if each man composes as he
 pleases; but judge that song is more loved and prized which is made easy
 and simple, and do not be vexed at my opinion.
-
 (3) Guiraut, I do not like my songs to be so confused, that the base and
 good, the small and great be appraised alike; my poetry will never be
 praised by fools, for they have no understanding nor care for what is
 more precious and valuable.
-
 (4) Linhaure, if I work late and turn my rest into weariness for that
 reason (to make my songs simple), does it seem that I am afraid of work?
 Why compose if you do not want all to understand? Song brings no other
 advantage.
-
 (5) Guiraut, provided that I produce what is best at all times, I care
 not if it be not so widespread; commonplaces are no good for the
 appreciative--that is why gold is more valued than salt, and with song    [39]
 it is even the same.
-
 It is obvious that the disputants are at cross purposes; the object of
 writing poetry, according to the one, is to please a small circle of
 highly trained admirers by the display of technical skill. Guiraut de
@@ -967,7 +766,6 @@ bring light; obscurity has ever been regarded as death, and brightness    [40]
 as life." The fact is thus sufficiently demonstrated that these two
 styles existed in opposition, and that any one troubadour might practise
 both.
-
 Enough has now been said to show that troubadour lyric poetry, regarded
 as literature, would soon produce a surfeit, if read in bulk. It is
 essentially a literature of artificiality and polish. Its importance
@@ -976,14 +774,6 @@ value of form in poetry, to formulate rules, and, in short, to show that
 art must be based upon scientific knowledge. The work of the troubadours
 in these respects left an indelible impression upon the general course
 of European literature.
-
-
-
-CHAPTER IV	                                                          [41]
-
-
-THE EARLY TROUBADOURS
-
 The earliest troubadour known to us is William IX, Count of Poitiers
 (1071-1127) who led an army of thirty thousand men to the unfortunate
 crusade of 1101. He lived an adventurous and often an unedifying life,
@@ -1013,7 +803,6 @@ tendency to such exaggeration. The conventional opening of a love poem
 by a description of spring is also in evidence; in short, the
 commonplaces, the technical language and formulae of later Provencal
 lyrics were in existence during the age of this first troubadour.
-
 Next in point of time is the troubadour Cercamon, of whom we know very
 little; his poems, as we have them, seem to fall between the years 1137
 and 1152; one of them is a lament upon the death of William X. of
@@ -1024,18 +813,14 @@ interesting and original troubadour Marcabrun, whose active life          [43]
 extended from 1150 to 1195. Many of his poems are extremely obscure; he
 was one of the first to affect the _trobar clus_. He was also the author
 of violent invectives against the passion of love--
-
-  Que anc non amet neguna
-  Ni d'autra no fon amatz--
-
+Que anc non amet neguna
+Ni d'autra no fon amatz--
 "Who never loved any woman nor was loved of any." This aversion to the
 main theme of troubadour poetry is Marcabrun's most striking
 characteristic.
-
-  Amors es mout de mal avi;
-  Mil homes a mortz ses glavi;
-  Dieus non fetz tant fort gramavi.
-
+Amors es mout de mal avi;
+Mil homes a mortz ses glavi;
+Dieus non fetz tant fort gramavi.
 "Love is of a detestable lineage; he has killed thousands of men without
 a sword. God has created no more terrible enchanter." These invectives
 may have been the outcome of personal disappointment; the theory has
@@ -1051,17 +836,12 @@ Marcabrun knows the technical terms _cortesia_ and _mesura_, which he
 defines: _mesura_, self-control or moderation, "consists in nicety of
 speech, courtesy in loving. He may boast of courtesy who can maintain
 moderation." The poem concludes with a dedication to Jaufre Rudel--
-
-  Lo vers e.l son vueill envier
-  A'n Jaufre Rudel outra mar.
-
+Lo vers e.l son vueill envier
+A'n Jaufre Rudel outra mar.
 "The words and the tune I wish to send to Jaufre Rudel beyond the sea."
-
 This was the troubadour whom Petrarch has made famous--
-
-  Jaufre Rudel che uso la vela e'l remo
-  A cercar la sua morte.
-
+Jaufre Rudel che uso la vela e'l remo
+A cercar la sua morte.
 His romantic story is as follows in the words of the Provencal
 biography: "Jaufre Rudel of Blaya was a very noble man, the Prince of
 Blaya; he fell in love with the Countess of Tripoli, though he had never
@@ -1091,7 +871,6 @@ Jaufre's poems to an unknown distant love, and the fact of his crusading
 expedition to the Holy Land, formed in conjunction the nucleus of the     [46]
 legend which grew round his name, and which is known to all readers of
 Carducci, Uhland and Heine.
-
 Contemporary with Jaufre Rudel was Bernard de Ventadour, one of the
 greatest names in Provencal poetry. According to the biography, which
 betrays its untrustworthiness by contradicting the facts of history,
@@ -1123,24 +902,21 @@ is unchanged and she may sell him or give him away if she pleases. She
 does him wrong in failing to call him to her chamber that he may remove
 her shoes humbly upon his knees, when she deigns to stretch forth her
 foot. He then continues[19]
-
-  Faitz es lo vers totz a randa,
-  Si que motz no y descapduelha.
-  outra la terra normanda
-  part la fera mar prionda;
-  e si.m suy de midons lunhans.
-  ves si.m tira cum diamans,
-  la belha cui dieus defenda.
-    Si.l reys engles el dux normans
-  o vol, ieu la veirai, abans
-  que l'iverns nos sobreprenda.
-                                                                          [48]
+Faitz es lo vers totz a randa,
+Si que motz no y descapduelha.
+outra la terra normanda
+part la fera mar prionda;
+e si.m suy de midons lunhans.
+ves si.m tira cum diamans,
+la belha cui dieus defenda.
+Si.l reys engles el dux normans
+o vol, ieu la veirai, abans
+que l'iverns nos sobreprenda.
 "The _vers_ has been composed fully so that not a word is wanting,
 beyond the Norman land and the deep wild sea; and though I am far from
 my lady, she attracts me like a magnet, the fair one whom may God
 protect. If the English king and Norman duke will, I shall see her
 before the winter surprise us."
-
 How long Bernard remained in Normandy, we cannot conjecture. He is said
 to have gone to the court of Raimon V., Count of Toulouse, a well-known
 patron of the troubadours. On Raimon's death in 1194, Bernard, who must
@@ -1149,18 +925,15 @@ native province of Limousin, where he died. He is perhaps more deeply
 inspired by the true spirit of lyric poetry than any other troubadour;
 he insists that love is the only source of song; poetry to be real, must
 be lived.
-
-  Non es meravelha s'ieu chan
-  mielhs de nulh autre chantador;
-  que plus mi tra.l cors ves amor
-  e mielhs sui faitz a son coman.
-
+Non es meravelha s'ieu chan
+mielhs de nulh autre chantador;
+que plus mi tra.l cors ves amor
+e mielhs sui faitz a son coman.
 "It is no wonder if I sing better than any other singer; for my heart
 draws me more than others towards love, and I am better made for his
 commandments." Hence Bernard gave fuller expression than any other
 troubadour to the ennobling power of love, as the only source of real
 worth and nobility.
-
 The subject speedily became exhausted, and ingenuity did but increase     [49]
 the conventionality of its treatment. But in Bernard's hands it retains
 its early freshness and sincerity. The description of the seasons of the
@@ -1171,27 +944,23 @@ had a real love for the country and for nature, and the contrast or
 comparison between the season of the year and his own feelings is of
 real lyrical value. The opening with the description of the lark is
 famous--
-
-  Quant vey la lauzeta mover
-  De joi sas alas contral rai,
-  que s'oblida e.s laissa cazer
-  per la doussor qu'al cor li vai,
-  ai! tan grans enveia m'en ve
-  de cui qu'eu veya jauzion!
-  meravilhas ai, quar desse
-  lo cor de dezirier no.m fon.
-
+Quant vey la lauzeta mover
+De joi sas alas contral rai,
+que s'oblida e.s laissa cazer
+per la doussor qu'al cor li vai,
+ai! tan grans enveia m'en ve
+de cui qu'eu veya jauzion!
+meravilhas ai, quar desse
+lo cor de dezirier no.m fon.
 "When I see the lark flutter with joy towards the sun, and forget
 himself and sing for the sweetness that comes to his heart; alas, such
 envy comes upon me of all that I see rejoicing, I wonder that my heart
 does not melt forthwith with desire".[20]
-
 At the same time Bernard's style is simple and clear, though he shows
 full mastery of the complex stanza form; to call him the Wordsworth of
 the troubadour world is to exaggerate a single point of coincidence; but
 he remains the greatest of troubadour poets, as modern taste regards      [50]
 poetry.
-
 Arnaut de Mareuil (1170-1200 _circa_) displays many of the
 characteristics which distinguished the poetry of Bernard of Ventadour;
 there is the same simplicity of style and often no less reality of
@@ -1210,13 +979,10 @@ to him personally; it is probably an instance of the manner in which the
 biographies founded fictions upon a very meagre substratum of fact, the
 fact in this instance being a passage in which Arnaut declares his
 timidity in singing the praise of so great a beauty as Adelaide.
-
-  Mas grans paors m'o tol e grans temensa,                                [51]
-  Qu'ieu non aus dir, dona, qu'ieu chant de vos.
-
+Mas grans paors m'o tol e grans temensa,                                [51]
+Qu'ieu non aus dir, dona, qu'ieu chant de vos.
 "But great fear and great apprehension comes upon me, so that I dare not
 tell you, lady, that it is I who sing of you."
-
 Arnaut seems to have introduced a new poetical _genre_ into Provencal
 literature, the love-letter. He says that the difficulty of finding a
 trustworthy messenger induced him to send a letter sealed with his own
@@ -1247,14 +1013,6 @@ the good qualities of the citizen class, a compliment unusual in the
 aristocratic poetry of the troubadours, may be taken as confirmation of
 the statement concerning his own parentage which we find in his
 biography.
-
-                                                                          [53]
-
-CHAPTER V
-
-
-THE CLASSICAL PERIOD
-
 We now reach a group of three troubadours whom Dante[21] selected as
 typical of certain characteristics: "Bertran de Born sung of arms,
 Arnaut Daniel of love, and Guiraut de Bornelh of uprightness, honour and
@@ -1270,7 +1028,6 @@ as classics in the thirteenth and fourteenth centuries, Guiraut's poems
 were so far in harmony with the moralising tendency of that age that his
 posthumous reputation was certainly as great as any that he enjoyed in
 his life-time.
-
 Practically nothing is known of his life; allusions in his poems lead us  [54]
 to suppose that he spent some time in Spain at the courts of Navarre,
 Castile and Aragon. The real interests of his work are literary and
@@ -1301,7 +1058,6 @@ whether the accident of birth is the real source of nobility; a man must
 be judged by himself and his acts and not by the rank of his
 forefathers; these were the sentiments that gained him a mention in the
 Fourth Book of Dante's _Convivio_.[22]
-
 The question why Dante should have preferred Arnaut Daniel to Guiraut de
 Bornelh[23] has given rise to much discussion. The solution turns upon
 Dante's conception of style, which is too large a problem for
@@ -1312,7 +1068,6 @@ well-known lines, "Ieu sui Arnaut, que plor e vau cantan," into the
 troubadour's mouth. We know little of Arnaut's life; he was a noble of
 Riberac in Perigord. The biography relates an incident in his life which
 is said to have taken place at the court of Richard Coeur de Lion.
-
 A certain troubadour had boasted before the king that he could compose a  [56]
 better poem than Arnaut. The latter accepted the challenge and the king
 confined the poets to their rooms for a certain time at the end of which
@@ -1323,28 +1078,24 @@ poem by heart, and when the time of trial came he asked to be allowed to
 sing first, and performed his opponent's song, to the wrath of the
 latter, who protested vigorously. Arnaut acknowledged the trick, to the
 great amusement of the king.
-
 Preciosity and artificiality reach their height in Arnaut's poems, which
 are, for that reason, excessively difficult. Enigmatic constructions,
 word-plays, words used in forced senses, continual alliteration and
 difficult rimes produced elaborate form and great obscurity of meaning.
 The following stanza may serve as an example--
-
-  L'aur' amara fa.ls bruels brancutz
-  clarzir que.l dons espeys' ab fuelhs,
-  e.ls letz becxs dels auzels ramencx
-  te balbs e mutz pars e non pars.
-  per qu'ieu m'esfortz de far e dir plazers
-  A manhs? per ley qui m'a virat has d'aut,
-  don tern morir si.ls afans no.m asoma.
-
+L'aur' amara fa.ls bruels brancutz
+clarzir que.l dons espeys' ab fuelhs,
+e.ls letz becxs dels auzels ramencx
+te balbs e mutz pars e non pars.
+per qu'ieu m'esfortz de far e dir plazers
+A manhs? per ley qui m'a virat has d'aut,
+don tern morir si.ls afans no.m asoma.
 "The bitter breeze makes light the bosky boughs which the gentle breeze   [57]
 makes thick with leaves, and the joyous beaks of the birds in the
 branches it keeps silent and dumb, paired and not paired. Wherefore do I
 strive to say and do what is pleasing to many? For her, who has cast me
 down from on high, for which I fear to die, if she does not end the
 sorrow for me."
-
 The answers to the seventeen rime-words which occur in this stanza do
 not appear till the following stanza, the same rimes being kept
 throughout the six stanzas of the poem. To rest the listener's ear,
@@ -1354,14 +1105,11 @@ satirical _sirventes_ says of Arnaut: "He has sung nothing all his life,
 except a few foolish verses which no one understands"; and we may
 reasonably suppose that Arnaut's poetry was as obscure to many of his
 contemporaries as it is to us.
-
 Dante placed Bertran de Born in hell, as a sower of strife between
 father and son, and there is no need to describe his picture of the
 troubadour--
-
-  "Who held the severed member lanternwise
-  And said, Ah me!"	(_Inf._ xxviii. 119-142.)
-
+"Who held the severed member lanternwise
+And said, Ah me!"	(_Inf._ xxviii. 119-142.)
 The genius of Dante, and the poetical fame of Bertran himself, have
 given him a more important position in history than is, perhaps,          [58]
 entirely his due. Jaufre, the prior of Vigeois, an abbey of
@@ -1376,7 +1124,6 @@ extracts made from it by Guignieres in 1680 (the original has been
 lost), which give us information about Bertran's family and possessions.
 From these materials, and from forty-four or forty-five poems which have
 come down to us, the poet's life can be reconstructed.
-
 Bertran de Bern's estates were situated on the borders of Limousin and
 Perigord. The family was ancient and honourable; from the cartulary
 Bertran appears to have been born about 1140; we find him, with his
@@ -1397,7 +1144,6 @@ married Eleanor, the divorced wife of Louis VII. of France, and mistress
 of Aquitaine. Henry became king of England two years later, and his rule
 over the barons of Aquitaine, which had never been strict, became the
 more relaxed owing to his continual absence in England.
-
 South of Aquitaine proper the dominions of the Count of Toulouse
 stretched from the Garonne to the Alps; this potentate was also called
 the Duke of Narbonne, and was not disposed to recognise the suzerainty
@@ -1442,7 +1188,6 @@ Richard and the King of Aragon arrived before Hautefort, which
 surrendered after a week's resistance. Richard restored the castle to
 Constantin, but Bertran regained possession, as is related in the second
 biography.
-
 Henceforward, Bertran remained faithful to Richard, and directed his
 animosity chiefly against the King of Aragon. At the same time it
 appears that he would have been equally pleased with any war, which       [62]
@@ -1461,14 +1206,12 @@ French king, the return to France of the latter, and finally Richard's
 capture on the Illyrian coast and his imprisonment by Henry VI. of
 Austria, which terminated in 1194. Richard then came into Aquitaine, his
 return being celebrated by two poems from Bertran.
-
 The Provencal biography informs us that Bertran finally became a monk in
 the Order of Citeaux. The convent where he spent his last years was the
 abbey of Dalon, near Hautefort. The cartulary mentions his name at
 various intervals from 1197 to 1202. In 1215 we have the entry "_octavo,[63]
 candela in sepulcro ponitur pro Bernardo de Born: cera tres solidos
 empta est_." This is the only notice of the poet's death.
-
 Dante perhaps exaggerated the part he played in stirring up strife
 between Henry II. and his sons; modern writers go to the other extreme.
 Bertran is especially famous for his political _sirventes_ and for the
@@ -1494,14 +1237,11 @@ did you lose your senses for my son, for there was no one in the world
 whom he loved as you. And for love of him, not only do I give you your
 life, but also your castle and your goods, and I add with my love five
 hundred silver marks to repair the loss which you have suffered."
-
 The narrative is unhistorical; Henry II. was not present in person at
 the siege of Hautefort; but the fact is certain that he regarded Bertran
 as the chief sower of discord in his family.
-
 Mention must now be made of certain troubadours who were less important
 than the three last mentioned, but are of interest for various reasons.
-
 Raimbaut d'Aurenga, Count of Orange from 1150-1173, is interesting
 rather by reason of his relations with other troubadours than for his
 own achievements in the troubadours' art. He was a follower of the
@@ -1517,7 +1257,6 @@ his constant complaints of slanderers who attempt to undermine his
 credit with his lady. But he seems to have aroused a passion in the
 heart of a poetess, who expressed her feelings in words which contrast
 strongly with Raimbaut's vapid sentimentalities.
-
 This was Beatrice, Countess of Die and the wife of Count William of
 Poitiers. The names, at least, of seventeen poetesses are known to us
 and of these the Countess of Die is the most famous. Like the rest of
@@ -1549,7 +1288,6 @@ preaching--he had been educated for the church--was enough to stifle any
 sentiment on the lady's side. On leaving Narbonne, he visited Raimbaut
 at Orange and afterwards travelled to Spain and Toulouse, finally
 entering a monastery where he ended his life.
-
 Auvergne produced a far more important troubadour in the person of Peire  [67]
 d'Auvergne, whose work extended from about 1158 to 1180; he was thus
 more or less contemporary with Guiraut de Bornelh and Bernart de
@@ -1588,7 +1326,6 @@ imitators: the Monk of Montaudon produced a similar composition. Like
 many other troubadours, Peire ended his life in a monastery. To this
 period of his career probably, belong his religious poems of which we
 shall have occasion to speak later.
-
 We have already observed that the Church contributed members, though
 with some reluctance, to the ranks of the troubadours. One of the most    [69]
 striking figures of the kind is the Monk of Montaudon (1180-1200): the
@@ -1612,17 +1349,15 @@ been considerable to gain him this position. His love poems are of
 little importance; his satire deals with the petty failings of mankind,
 for which he had a keen eye and an unsparing and sometimes cynical        [70]
 tongue.
-
-  Be.m enoia, s'o auzes dire,
-  Parliers quant es avols servire;
-  Et hom qui trop vol aut assire
-  M'enoia, e cavals que tire.
-  Et enoia.m, si Dieus m'aiut
-  Joves hom quan trop port' escut,
-  Que negun colp no i a agut,
-  Capela et mongue barbut,
-  E lauzengier bee esmolut.
-
+Be.m enoia, s'o auzes dire,
+Parliers quant es avols servire;
+Et hom qui trop vol aut assire
+M'enoia, e cavals que tire.
+Et enoia.m, si Dieus m'aiut
+Joves hom quan trop port' escut,
+Que negun colp no i a agut,
+Capela et mongue barbut,
+E lauzengier bee esmolut.
 "These vex me greatly, if I may say so, language when it is base
 servility, and a man who wishes too high a place (at table) and a
 charger which is put to drawing carts. And, by my hope of salvation, I
@@ -1637,10 +1372,8 @@ women: the scene of the other is laid in Paradise and the interlocutors
 are the Almighty and the poet, who, represents that self-adornment is a
 habit inherent in female nature. In neither poem is reverence a           [71]
 prominent feature.
-
 One of the most extraordinary figures in the whole gallery of troubadour
 portraits is Peire Vidal, whose career extended, roughly speaking, from
-1175 to 1215. He was one of those characters who naturally become the
 nucleus of apocryphal stories, and how much truth there may be in some
 of the fantastic incidents, in which he figures as the hero, will
 probably never be discovered. He was undoubtedly an attractive
@@ -1653,7 +1386,6 @@ conjoin the functions of court-fool with those of court poet: "he was
 the most foolish man in the world" says his biographer. His
 "foolishness" also induced him to fall in love with every woman he met,
 and to believe that his personal attractions made him invincible.
-
 Peire Vidal was the son of a Toulouse merchant. He began his troubadour
 wanderings early and at the outset of his career we find him in
 Catalonia, Aragon and Castile. He is then found in the service of Raimon
@@ -1687,7 +1419,6 @@ last period of his career was spent in Hungary and Lombardy. His
 political _sirventes_ show an insight into the affairs of his age, which
 is in strong contrast to the whimsicality which seems to have misguided
 his own life.
-
 Guillem de Cabestanh (between 1181 and 1196) deserves mention for the
 story which the Provencal biography has attached to his name, a
 Provencal variation of the thirteenth century romance of the _Chatelaine
@@ -1707,7 +1438,6 @@ herself from the window and was killed. Thereupon the barons of
 Catalonia and Aragon, led by King Alfonso, are said to have made a
 combined attack upon Raimon and to have ravaged his lands, in
 indignation at his barbarity.
-
 The Provencal biography, like the romance of the _Chatelain de Coucy_,
 belongs to the thirteenth century, and the story cannot be accepted as
 authentic. But the period of decadence had begun. By the close of the
@@ -1719,14 +1449,6 @@ a strong middle and commercial class diminished both the wealth and the
 influence of the nobles, while the peace of the country was further
 disturbed by theological disputes and by the rise of the Albigeois
 heresy.
-
-
-
-CHAPTER VI                                                                [75]
-
-
-THE ALBIGEOIS CRUSADE
-
 The feudal society in which troubadour poetry had flourished, and by
 which alone it could be maintained, was already showing signs of
 decadence. Its downfall was precipitated by the religious and political
@@ -1755,7 +1477,6 @@ not quarrel with church doctrine. The Albigenses were no less zealous
 than the Vaudois in reproving the church clergy and setting an example
 of purity and unselfishness of life. But they also differed profoundly
 from the church in matters of doctrine.
-
 Upon the election of Otho as Emperor, in 1208, Germany and Rome were at
 peace, and Pope Innocent III. found himself at liberty to devote some
 attention to affairs in Southern France. He had already made some
@@ -1798,7 +1519,6 @@ and his supporter Pedro of Aragon, was killed (1213), the Lateran
 Council (1215), the siege of Toulouse and the death of Simon de Montfort
 (1218). The foundation of the Dominican order and of the Inquisition
 marked the close of the struggle.
-
 Folquet of Marseilles is a troubadour whose life belongs to these years
 of turmoil. He was the son of a Genoese merchant by name Anfos, who
 apparently settled in Marseilles for business reasons: Genoa was in
@@ -1823,7 +1543,6 @@ the church. His last poem belongs to the year 1195. No doubt the wealth
 which he may have brought to the Church as a successful merchant
 contributed to his advancement, but Folquet was also an indomitably
 energetic character.
-
 Unlike so many of his fellow poets, who retired to monasteries and there
 lived out their lives in seclusion, Folquet displayed special talents or  [80]
 special enthusiasm for the order which he joined. Of the Cistercian
@@ -1843,27 +1562,25 @@ somewhat intricate history of the crusade. Of his fanaticism, and of the
 cruelty with which he waged war upon the heretics, the Count Raimon
 Roger of Foix speaks at the Lateran council, when defending himself
 against the accusation of heresy.
-
-  E die vos de l'avesque, que tant n'es afortitz,
-  qu'en la sua semblansa es Dieus e nos trazitz,
-  que ab cansos messongeiras e ab motz coladitz,
-  dont totz horn es perdutz qui.ls canta ni los ditz,                     [81]
-  ez ab sos reproverbis afilatz e forbitz
-  ez ab los nostres dos, don fo eniotglaritz,
-  ez ab mala doctrina es tant fort enriquitz
-  c'om non auza ren dire a so qu'el contraditz.
-  Pero cant el fo abas ni monges revestitz
-  en la sua abadia fo si.l lums eseurzitz
-  qu'anc no i ac be ni pauza, tro qu'el ne fo ichitz;
-  e cant fo de Tholosa avesques elegitz
-  per trastota la terra es tals focs espanditz
-  que ia mais per nulha aiga no sira escantitz;
-  que plus de D.M., que de grans que petitz,
-  i fe perdre las vidas e.ls cors e.ls esperitz.
-  Per la fe qu'icu vos deg, als sous faitz e als ditz
-  ez a la captenensa sembla mielhs Antecritz
-  que messatges de Roma.
-
+E die vos de l'avesque, que tant n'es afortitz,
+qu'en la sua semblansa es Dieus e nos trazitz,
+que ab cansos messongeiras e ab motz coladitz,
+dont totz horn es perdutz qui.ls canta ni los ditz,                     [81]
+ez ab sos reproverbis afilatz e forbitz
+ez ab los nostres dos, don fo eniotglaritz,
+ez ab mala doctrina es tant fort enriquitz
+c'om non auza ren dire a so qu'el contraditz.
+Pero cant el fo abas ni monges revestitz
+en la sua abadia fo si.l lums eseurzitz
+qu'anc no i ac be ni pauza, tro qu'el ne fo ichitz;
+e cant fo de Tholosa avesques elegitz
+per trastota la terra es tals focs espanditz
+que ia mais per nulha aiga no sira escantitz;
+que plus de D.M., que de grans que petitz,
+i fe perdre las vidas e.ls cors e.ls esperitz.
+Per la fe qu'icu vos deg, als sous faitz e als ditz
+ez a la captenensa sembla mielhs Antecritz
+que messatges de Roma.
 "And of the bishop, who is so zealous, I tell you that in him both God
 and we ourselves are betrayed; for with lying songs and insinuating
 words, which are the damnation of any who sings or speaks them, and by
@@ -1879,7 +1596,6 @@ than fifteen hundred of high and low. By the faith which I owe to you,
 by his deeds and his words and his dealings, more like is he to
 Anti-Christ than to an envoy of Rome." (_Chanson de la croisade contre
 les Albigeois_, v. 3309.)
-
 Folquet died on December 25, 1231, and was buried at the Cistercian
 Abbey of Grandselve, some thirty miles north-west of Toulouse. Such
 troubadours as Guilhem Figueira and Peire Cardenal, who inveighed
@@ -1891,7 +1607,6 @@ no evidence to support this theory. Folquet's poems enjoyed a high
 reputation. The minnesinger, Rudolf, Count of Neuenberg (end of the
 twelfth century) imitated him, as also did the Italians Rinaldo d'Aquino
 and Jacopo da Lentino.
-
 The troubadours as a rule stood aloof from the religious quarrels of the
 age. But few seem to have joined the crusaders, as Perdigon did. Most of
 their patrons were struggling for their existence: when the invaders
@@ -1918,7 +1633,6 @@ their happy existence. But the South of France had never as a whole
 acquired any real sense of nationalism: there was consequently no
 attempt at general or organised resistance and no leader to inspire such  [84]
 attempts was forth-coming.
-
 On the other hand, special districts such as Toulouse, showed real
 courage and devotion. The crusaders often found much difficulty in
 maintaining a force adequate to conduct their operations after the first
@@ -1966,7 +1680,6 @@ special wines after their feasts, whose lives are spent in disputes and
 who declare all who differ from them to be Vaudois heretics, who worm
 men's private affairs out of them, that they may make themselves feared:
 some of his charges against the monastic orders are quite unprintable.
-
 No less vigorous are his invectives against the rich and the social
 evils of his time. The tone of regret that underlies Guiraut de
 Bornelh's satires in this theme is replaced in Peire Cardenal's
@@ -2005,7 +1718,6 @@ love and fear of God, but this has been replaced by greed, pride and
 malice; consequently the "sense of God" seems madness to the world and
 he who refuses to follow the "sense of the world" is treated as a
 madman.
-
 Peire Cardenal is thus by temperament a moral preacher; he is not merely
 critical of errors, but has also a positive faith to propound. He is not
 an opponent of the papacy as an institution: the confession of faith
@@ -2031,7 +1743,6 @@ a ravening wolf, a crowned snake begotten of a viper and therefore the
 devil greeteth thee as the friend of his bosom." This sirventes was
 answered by a _trobairitz_, Germonde of Montpelier, but her reply lacks
 the vigour and eloquence of the attack.
-
 It is not to be supposed that the troubadours turned to religious poetry
 simply because the Albigeois crusade had raised the religious question.
 Purely devotional poetry is found at an earlier period.[29] It appears
@@ -2062,23 +1773,21 @@ reiterated articles of the Christian faith in metrical form and are as
 unpoetical as they are orthodox, Crusade poems and _planhs_ upon the [91]
 deaths of famous nobles or patrons are religious only in a secondary
 sense. A fine religious _alba_ is ascribed to Folquet of Marseilles--
-
-    Vers Dieus, e.l vostre nom e de sancta Maria
-    m'esvelherai hueimais, pus l'estela del dia
-    ven daus Jerusalem que' m'ensenha qu'ien dia:
-          estatz sus e levatz,
-          senhor, que Dieu amatz!
-          que.l jorns es aprosmatz
-          e la nuech ten sa via;
-          e sia.n Dieus lauzatz
-          per nos e adoratz,
-          e.l preguem que.ens don patz
-          a tota nostra via.
-          La nuech vai e.l jorns ve
-          ab elar eel e sere,
-          e l'alba no's rete
-          ans ven belh' e complia.
-
+Vers Dieus, e.l vostre nom e de sancta Maria
+m'esvelherai hueimais, pus l'estela del dia
+ven daus Jerusalem que' m'ensenha qu'ien dia:
+estatz sus e levatz,
+senhor, que Dieu amatz!
+que.l jorns es aprosmatz
+e la nuech ten sa via;
+e sia.n Dieus lauzatz
+per nos e adoratz,
+e.l preguem que.ens don patz
+a tota nostra via.
+La nuech vai e.l jorns ve
+ab elar eel e sere,
+e l'alba no's rete
+ans ven belh' e complia.
 "True God, in Thy name and in the name of Saint Mary will I awake
 henceforth, since the star of day rises from o'er Jerusalem, bidding me
 say, 'Up and arise, sirs, who love God! For the day is nigh, and the
@@ -2086,7 +1795,6 @@ night departs; and let God be praised and adored by us and let us pray
 Him that He give us peace for all our lives. Night goes and day comes
 with clear serene sky, and the dawn delays not but comes fair and
 perfect.'"
-
 At the close of the Albigeois crusade the Virgin Mary becomes the theme
 of an increasing number of lyric poems. These are not like the farewells  [92]
 to the world, uttered by weary troubadours, and dictated by individual
@@ -2111,56 +1819,42 @@ poems of this nature. These, however, have little in common with
 classical troubadour poetry except language. The following stanzas from   [93]
 the well-known hymn to the Virgin by Peire de Corbiac, will give an idea
 of the character of this poetry.
-
-    Domna, rosa ses espina,
-  sobre totas flors olens,
-  verga seca frug fazens,
-  terra que ses labor grana,
-  estela, del solelh maire,
-  noirissa del vostre paire,
-  el mon nulha no.us semelha
-  ni londana ni vezina.
-
-    Domna, verge pura e fina,
-  ans que fos l'enfantamens,
-  et apres tot eissamens,
-  receup en vos carn humana
-  Jesu Crist, nostre salvaire,
-  si com ses trencamen faire
-  intra.l bels rais, quan solelha,
-  per la fenestra veirina.
-
-    Domna, estela marina
-  de las autras plus luzens,
-  la mars nos combat e.l vens;
-  mostra nos via certana;
-  car si.ns vols a bon port traire
-  non tem nau ni governaire
-  ni tempest que.ns destorbelha
-  ni.l sobern de la marina.
-
+Domna, rosa ses espina,
+sobre totas flors olens,
+verga seca frug fazens,
+terra que ses labor grana,
+estela, del solelh maire,
+noirissa del vostre paire,
+el mon nulha no.us semelha
+ni londana ni vezina.
+Domna, verge pura e fina,
+ans que fos l'enfantamens,
+et apres tot eissamens,
+receup en vos carn humana
+Jesu Crist, nostre salvaire,
+si com ses trencamen faire
+intra.l bels rais, quan solelha,
+per la fenestra veirina.
+Domna, estela marina
+de las autras plus luzens,
+la mars nos combat e.l vens;
+mostra nos via certana;
+car si.ns vols a bon port traire
+non tem nau ni governaire
+ni tempest que.ns destorbelha
+ni.l sobern de la marina.
 "Lady, rose without thorn, sweet above all flowers, dry rod bearing
 fruit, earth bringing forth fruit without toil, star, mother of the sun,
 nurse of thine own Father, in the world no woman is like to thee,         [94]
 neither far nor near.
-
 Lady, virgin pure and fair before the birth was and afterwards the same,
 Jesus Christ our Saviour received human flesh in thee, just as without
 causing flaw, the fair ray enters through the window-pane when the sun
 shines.
-
 Lady, star of the sea, brighter than the other stars, the sea and the
 wind buffet us; show thou us the right way: for if thou wilt bring us to
 a fair haven, ship nor helmsman fears not tempest nor tide lest it
 trouble us."
-
-
-
-CHAPTER VII                                                               [95]
-
-
-THE TROUBADOURS IN ITALY
-
 To study the development of troubadour literature only in the country of
 its origin would be to gain a very incomplete idea of its influence. The
 movement, as we have already said, crossed the Pyrenees, the Alps and
@@ -2184,7 +1878,6 @@ have made a stay of considerable length. The result was that their
 poetry soon attracted Italian disciples and imitators. Provencal became
 the literary language of the noble classes and an Italian school of
 troubadours arose, of whom Sordello is the most remarkable figure.
-
 Raimbaut de Vaqueiras, who spent a considerable part of his career
 (1180-1207) with the Marquis of Montferrat, belongs as a troubadour
 quite as much to Italy as to Southern France. He was the son of a poor
@@ -2197,7 +1890,6 @@ of a dispute with his patron and made his way to Italy, where he led a
 wandering life until he was admitted to the court of the Marquis of
 Montferrat. To this period of his career belongs the well-known poem in
 which he pays his addresses to a Genoese lady.
-
 "Lady, I have prayed you long to love me of your kindliness... my heart   [97]
 is more drawn to you than to any lady of Genoa. I shall be well rewarded
 if you will love me and shall be better recompensed for my trouble than
@@ -2223,15 +1915,13 @@ Constance, to that kingdom: the Marquis Boniface as a vassal of the
 imperial house followed the Emperor and Raimbaut accompanied his
 contingent. He refers to his share in the campaign in a later letter to
 the marquis.[30]
-
-  Et ai per vos estat en greu preyzo
-  Per vostra guerra e n'ai a vostro pro
-  Fag maynt assaut et ars maynta maiso
-  Et a Messina vos cobri del blizo;
-  En la batalha vos vinc en tal sazo
-  Que.us ferion pel pietz e pel mento
-  Dartz e cairels, sagetas e trenso.
-
+Et ai per vos estat en greu preyzo
+Per vostra guerra e n'ai a vostro pro
+Fag maynt assaut et ars maynta maiso
+Et a Messina vos cobri del blizo;
+En la batalha vos vinc en tal sazo
+Que.us ferion pel pietz e pel mento
+Dartz e cairels, sagetas e trenso.
 "For your sake I have been in hard captivity in your war, and to do you
 service I have made many an assault and burned many a house. At Messina
 I covered you with the shield; I came to you in the battle at the moment
@@ -2249,18 +1939,15 @@ with thorns upon the cross.... Fair Cavalier (i.e. Beatrice) I know not
 whether I shall stay for your sake or take the cross; I know not whether
 I shall go or remain, for I die with grief if I see you and I am like to
 die if I am far from you." So also in the letter quoted above.
-
-   E cant anetz per crozar a Saysso,
-   Ieu non avia cor--Dieus m'o perdo--
-   Que passes mar, mas per vostre resso
-   Levey la crotz e pris confessio.
-
+E cant anetz per crozar a Saysso,
+Ieu non avia cor--Dieus m'o perdo--
+Que passes mar, mas per vostre resso
+Levey la crotz e pris confessio.
 "And when you went to Soissons to take the cross, I did not intend--may
 God forgive me--to cross the sea, but to increase your fame I took the
 cross and made confession." The count lost his life, as Villehardouin
 relates, in a skirmish with the Bulgarians in 1207. Raimbaut de
 Vaqueiras probably fell at the same time.
-
 This is enough to show that troubadours who came to Italy could make the
 country a second home, and find as much occupation in love, war and
 politics as they had ever found in Southern France. Aimeric de Pegulhan,
@@ -2269,7 +1956,6 @@ biographies, were among the best known of those who visited Italy. The
 last named is known to have visited Pisa and another troubadour of minor
 importance, Guillem de la Tor, was in Florence. Thus the visits of the
 troubadours were by no means confined to the north.
-
 It was, therefore, natural that Italians should imitate the troubadours
 whose art proved so successful at Italian courts and some thirty Italian
 troubadours are known to us. Count Manfred II. and Albert, the Marquis
@@ -2288,7 +1974,6 @@ which the captive troubadour composed an equally strong reply addressed  [101]
 to Bonifacio Calvo; the latter sought him out and the two troubadours
 became friends. The most famous, however, of the Italian troubadours is
 certainly Sordello.
-
 There is much uncertainty concerning the facts of Sordello's life; he
 was born at Goito, near Mantua, and was of noble family. His name is not
 to be derived from _sordidus_, but from _Surdus_, a not uncommon
@@ -2296,7 +1981,6 @@ patronymic in North Italy during the thirteenth century. Of his early
 years nothing is known: at some period of his youth he entered the court
 of Count Ricciardo di san Bonifazio, the lord of Verona, where he fell
 in love with his master's wife, Cunizza da Romano (Dante, _Par._ ix.
-32), and eloped with her. The details of this affair are entirely
 obscure; according to some commentators, it was the final outcome of a
 family feud, while others assert that the elopement took place with the
 connivance of Cunizza's brother, the notorious Ezzelino III. (_Inf_.
@@ -2320,7 +2004,6 @@ cannot be identified. From 1252-1265 his name appears in several Angevin
 treaties and records, coupled with the names of other well-known nobles,
 and he would appear to have held a high place in Charles' esteem. It is
 uncertain whether he took part in the first crusade of St Louis, in
-1248-1251, at which Charles was present: but he followed Charles on his
 Italian expedition against Manfred in 1265, and seems to have been
 captured by the Ghibellines before reaching Naples. At any rate, he was
 a prisoner at Novara in September 1266; Pope Clement IV. induced Charles
@@ -2329,7 +2012,6 @@ received five castles in the Abruzzi, near the river Pescara: shortly    [103]
 afterwards he died. The circumstances of his death are unknown, but from
 the fact that he is placed by Dante among those who were cut off before
 they could repent it has been conjectured that he came to a violent end.
-
 Sordello's restless life and his intrigues could be exemplified from the
 history of many another troubadour and neither his career nor his
 poetry, which with two exceptions, is of no special originality, seems
@@ -2343,16 +2025,14 @@ are urged to eat of the dead man's heart, that they may gain some
 tincture of his courage and nobility. Each is invited in a separate
 stanza in which the poet reprehends the failings of the several
 potentates.
-
-  Del rey engles me platz, quar es paue coratjos,
-  Que manje pro del cor, pueys er valens e bos,
-  E cobrara la terra, per que viu de pretz blos,
-  Que.l tol lo reys de Fransa, quar lo sap nualhos;
-  E lo reys castelas tanh qu'en manje per dos,                           [104]
-  Quar dos regismes ten, e per l'un non es pros;
-  Mas, s'elh en vol manjar, tanh qu'en manj'a rescos,
-  Que, si.l mair'o sabra, batria.l ab bastos.
-
+Del rey engles me platz, quar es paue coratjos,
+Que manje pro del cor, pueys er valens e bos,
+E cobrara la terra, per que viu de pretz blos,
+Que.l tol lo reys de Fransa, quar lo sap nualhos;
+E lo reys castelas tanh qu'en manje per dos,                           [104]
+Quar dos regismes ten, e per l'un non es pros;
+Mas, s'elh en vol manjar, tanh qu'en manj'a rescos,
+Que, si.l mair'o sabra, batria.l ab bastos.
 "As concerns the English King (Henry III.) it pleases me, for he is
 little courageous, that he should eat well of the heart; then he will be
 valiant and good and will recover the land (for loss of which he lives
@@ -2362,7 +2042,6 @@ Castile and Leon), it is fitting that he eat of it for two, for he holds
 two realms and he is not sufficient for one; but if he will eat of it,
 'twere well that he eat in secret: for if his mother were to know it,
 she would beat him with staves."
-
 This idea, which is a commonplace in the folklore of many countries,
 attracted attention. Two contemporary troubadours attempted to improve
 upon it. Bertran d'Alamanon said that the heart should not be divided
@@ -2383,7 +2062,6 @@ particular lady: the lover is swayed by a spiritual and intellectual
 ideal, and the motive of physical attraction recedes to the background.
 The cause of love, however, remains unchanged: love enters through the
 eyes; sight is delight.
-
 We must now turn southwards. A school of poetry had grown up in Sicily
 at the court of Frederick II. No doubt he favoured those troubadours
 whose animosity to the papacy had been aroused by the Albigeois crusade:
@@ -2415,19 +2093,15 @@ Provencal school had maintained the thesis that "sight is delight," that
 love originated from seeing and pleasing, penetrated to the heart and    [107]
 occupied the thoughts, after passing through the eyes. So Aimeric de
 Pegulhan.
-
-  Perque tuit li fin aman
-  Sapchan qu'amors es fina bevolenza
-  Que nais del cor e dels huelh, ses duptar.
-
+Perque tuit li fin aman
+Sapchan qu'amors es fina bevolenza
+Que nais del cor e dels huelh, ses duptar.
 "Wherefore let all pure lovers know that love is pure unselfishness
 which is born undoubtedly from the heart and from the eyes," a sentiment
 thus repeated by Guido delle Colonne of the Sicilian school.
-
-  Dal cor si move un spirito in vedere
-  D'in ochi'n ochi, di femina e d'omo
-  Per lo quel si concria uno piacere.
-
+Dal cor si move un spirito in vedere
+D'in ochi'n ochi, di femina e d'omo
+Per lo quel si concria uno piacere.
 The philosophical school entirely transformed this conception. Love
 seeks the noble heart by affinity, as the bird seeks the tree: the noble
 heart cannot but love, and love inflames and purifies its nobility, as
@@ -2440,7 +2114,6 @@ than Simon de Montfort and his crusaders. The day of superficial         [108]
 prettiness and of the cult of form had passed; love conjoined with
 learning, a desire to pierce to the roots of things, a greater depth of
 thought and earnestness were the characteristics of the new school.
-
 Dante's debt to the troubadours, with whose literature he was well
 acquainted, is therefore the debt of Italian literature as a whole. Had
 not the troubadours developed their theory of courtly love, with its
@@ -2451,14 +2124,6 @@ the terza rima and any other form used by Dante are of Provencal origin.
 And what is true of Dante and his Beatrice is no less true of Petrarch
 and his Laura and of many another who may be sought in histories
 specially devoted to this subject.
-
-
-
-CHAPTER VIII                                                             [109]
-
-
-THE TROUBADOURS IN SPAIN
-
 The South of France had been connected with the North of Spain from a
 period long antecedent to the first appearance of troubadour poetry. As
 early as the Visigoth period, Catalonia had been united to Southern
@@ -2471,7 +2136,6 @@ Provence by the marriage of Raimon Berengar III. with a Provencal
 heiress in 1112. As the counts of Barcelona and the kings of Aragon held
 possessions in Southern France, communications between the two countries
 were naturally frequent.
-
 We have already had occasion to refer to the visits of various
 troubadours to the courts of Spain. The "reconquista," the reconquest of
 Spain from the Moors, was in progress during the twelfth and thirteenth
@@ -2483,22 +2147,19 @@ against the Moors in 1147, which was undertaken in conjunction with the
 kings of Navarre and Aragon. The poem is interesting for its repetition
 of the word _lavador_ or piscina, used as an emblem of the crusade in
 which the participants would be cleansed of their sins.[32]
-
-  Pax in nomine Domini!
-  Fetz Marcabrus los motz e.l so.
-      Aujatz que di:
-  Cum nos a fait per sa doussor,
-  Lo Seignorius celestiaus
-  Probet de nos un lavador
-  C'ane, fors outramar, no.n' fon taus,
-  En de lai deves Josaphas:
-  E d'aquest de sai vos conort.
-
+Pax in nomine Domini!
+Fetz Marcabrus los motz e.l so.
+Aujatz que di:
+Cum nos a fait per sa doussor,
+Lo Seignorius celestiaus
+Probet de nos un lavador
+C'ane, fors outramar, no.n' fon taus,
+En de lai deves Josaphas:
+E d'aquest de sai vos conort.
 "Pax, etc.,---Marcabrun composed the words and the air. Hear what he
 says. How, by his goodness, the Lord of Heaven, has made near us a
 piscina, such as there never was, except beyond the sea, there by
 Josaphat, and for this one near here do I exhort you."
-
 Alfonso II. of Aragon (1162-1196) was a constant patron of the
 troubadours, and himself an exponent of their art. He belonged to the
 family of the counts of Barcelona which became in his time one of the    [111]
@@ -2530,7 +2191,6 @@ of Toulouse. This animosity was trumpeted forth in two lampooning
 _sirventes_ criticising the public policy and the private life of the
 Spanish King. His accusations of meanness and trickery seem to be based
 on nothing more reliable than current gossip.
-
 Peire Vidal, with the majority of the troubadours, shows himself a
 vigorous supporter of Alfonso. Referring to this same expedition of 1183
 he asserted "Had I but a speedy horse, the king might sleep in peace at
@@ -2554,7 +2214,6 @@ respects they are of great worth, dexterous, open, courteous and loyal,
 so that they should direct their efforts to better purpose and wage war
 elsewhere against the people who do not believe our law, until the whole
 of Spain professes one and the same faith."
-
 The Monk of Montaudon, Peire Raimon of Toulouse, Uc de San Circ, Uc
 Brunet and other troubadours of less importance also enjoyed Alfonso's
 patronage. Guiraut de Bornelh sent a poem to the Catalonian court in
@@ -2562,7 +2221,6 @@ terms which seemed to show that the simple style of poetry was there
 preferred to complicated obscurities. The same troubadour was
 sufficiently familiar with Alfonso's successor, Pedro II., to take part
 in a _tenso_ with him.
-
 Pedro II. (1196-1213) was no less popular with the troubadours than his  [114]
 father. Aimeric de Pegulhan, though more closely connected with the
 court of Castile, is loud in his praises of Pedro, "the flower of
@@ -2571,19 +2229,15 @@ supported his brother-in-law, Raimon VI. of Toulouse, against the
 crusaders and Simon de Montfort during the Albigeois crusade and was
 killed near Toulouse in the battle of Muret. The Chanson de la Croisade
 does not underestimate the impression made by his death.
-
-  Mot fo grans lo dampnatges e.l dols e.l perdementz
-  Cant lo reis d'Arago remas mort e sagnens,
-  E mot d'autres baros, don fo grans l'aunimens
-  A tot crestianesme et a trastotas gens.
-
+Mot fo grans lo dampnatges e.l dols e.l perdementz
+Cant lo reis d'Arago remas mort e sagnens,
+E mot d'autres baros, don fo grans l'aunimens
+A tot crestianesme et a trastotas gens.
 "Great was the damage and the grief and the loss when the King of Aragon
 remained dead and bleeding with many other barons, whence was great
 shame to all Christendom and to all people."
-
 The Court of Castile attracted the attention and the visits of the
 troubadours, chiefly during the reign of Alfonso VIII. (or III.;
-1158-1214) the hero of Las Navas de Tolosa, the most decisive defeat
 which the Arab power in the West had sustained since the days of Charles
 Martel. The preceding defeat of Alfonso's forces at Alarcos in 1195 had
 called forth a fine crusade _sirventes_ from Folquet of Marseilles
@@ -2592,12 +2246,10 @@ to join forces against the infidels. The death of Alfonso's son,
 Fernando, in 1211 from an illness contracted in the course of a campaign
 against the infidels was lamented by Guiraut de Calanso, a Gascon
 troubadour.
-
-  Lo larc e.l franc, lo valen e.l grazitz,
-  Don cuiavon qu'en fos esmendatz
-  Lo jove reys, e.n Richartz lo prezatz
-  E.l coms Jaufres, tug li trey valen fraire.
-
+Lo larc e.l franc, lo valen e.l grazitz,
+Don cuiavon qu'en fos esmendatz
+Lo jove reys, e.n Richartz lo prezatz
+E.l coms Jaufres, tug li trey valen fraire.
 "The generous and frank, the worthy and attractive of whom men thought
 that in him were increased the qualities of the young king, of Richard
 the high renowned, and of the Count Godfrey, all the three valiant
@@ -2623,7 +2275,6 @@ your goodness that my tale may be heard,'" The scene concludes, "Joglar,
 I hold the story which you have related as good, amusing and fair and
 you also the teller of it and I will order such reward to be given to
 you that you shall know that the story has indeed pleased me."
-
 The crown of Castile was united with that of Leon by Fernando III.
 (1230-1262) the son of Alfonso IX. of Leon. Lanfranc Cigala, the
 troubadour of Genoa, excuses the Spaniards at this time for their
@@ -2663,7 +2314,6 @@ humbly 'Sire' to the French." These outbursts do not seem to have roused
 Jaime to any great animosity against the troubadour class. Aimeric de
 Belenoi belauds him, Peire Cardenal is said to have enjoyed his favour,
 and other minor troubadours refer to him in flattering terms.
-
 The greatest Spanish patron of the troubadours was undoubtedly Alfonso
 X. of Castile (1254-1284). El Sabio earned his title by reason of his
 enlightened interest in matters intellectual; he was himself a poet,
@@ -2685,30 +2335,25 @@ tried his fortune with Alfonso X. whose liberality had become almost
 proverbial. There he seems to have remained for some years and to have
 been well content, in spite of occasional friction with other suitors
 for the king's favour. His description of Catalonia is interesting.
-
-      Pus astres no m'es donatz
-  Que de mi dons bes m'eschaia,
-  Ni nulho nos plazers no.l platz,
-  Ni ay poder que.m n'estraia,
-  Ops m'es qu'ieu sia fondatz
-  En via d'amor veraia,
-  E puesc n'apenre assatz
-
-  En Cataluenha la gaia,                                                 [120]
-  Entrels Catalas valens
-  E las donas avinens.
-
-      Quar dompneys, pretz e valors,
-  Joys e gratz e cortesia,
-  Sens e sabers et honors,
-  Bels parlars, bella paria,
-  E largueza et amors,
-  Conoyssensa e cundia,
-  Troban manten e socors
-
-  En Cataluenha a tria,
-  Entrels, etc.
-
+Pus astres no m'es donatz
+Que de mi dons bes m'eschaia,
+Ni nulho nos plazers no.l platz,
+Ni ay poder que.m n'estraia,
+Ops m'es qu'ieu sia fondatz
+En via d'amor veraia,
+E puesc n'apenre assatz
+En Cataluenha la gaia,                                                 [120]
+Entrels Catalas valens
+E las donas avinens.
+Quar dompneys, pretz e valors,
+Joys e gratz e cortesia,
+Sens e sabers et honors,
+Bels parlars, bella paria,
+E largueza et amors,
+Conoyssensa e cundia,
+Troban manten e socors
+En Cataluenha a tria,
+Entrels, etc.
 "Since my star has not granted me that from my lady happiness should
 fall to me, since no pleasure that I can give pleases her and I have no
 power to forget her, I must needs enter upon the road of true love and I
@@ -2717,7 +2362,6 @@ worth, and their kindly ladies. For courtesy, worth, joy, gratitude and
 gallantry, sense, knowledge, honour, fair speech, fair company,
 liberality and love, learning and grace find maintenance and support in
 Catalonia entirely."
-
 Between thirty and forty poets of Spanish extraction are known to have
 written Provencal poetry. Guillem de Tudela of Navarre wrote the first
 part of the _Chanson de la Croisade albigeoise_; Serveri de Gerona wrote
@@ -2734,7 +2378,6 @@ were able to settle in towns newly founded or taken from the Moors. The
 warlike and adventurous spirit of Northern and Central Spain preferred
 epic to lyric poetry: and the outcome was the _cantar de gesta_ and the
 _romance_, the lyrico-narrative or ballad poem.
-
 This was not the course of development followed either in the Eastern or
 Western coasts of the peninsula. Catalonia was as much a part of the
 Provencal district as of Spain. To the end of the thirteenth century
@@ -2781,17 +2424,14 @@ imitation of the similar association at Toulouse. Most of the troubadour
 poetical forms and the doctrines of the Toulouse _Leys d'Amors_ were
 retained, until Italian influence began to oust Provencal towards the
 close of the fifteenth century.
-
 On the western side of Spain, Provencal influence evoked a brief and
 brilliant literature in the Galician or Portuguese school. Its most      [124]
 brilliant period was the age of Alfonso X. of Castile, one of its most
 illustrious exponents, and that of Denis of Portugal (1280-1325). The
 dates generally accepted for the duration of this literature are
-1200-1385; it has left to us some 2000 lyric poems, the work of more
 than 150 poets, including four kings and a number of nobles of high
 rank. French and Provencal culture had made its way gradually and by
 various routes to the western side of the Spanish peninsula.
-
 We have already referred to the pilgrim route to the shrine of
 Compostella, by which a steady stream of foreign influence entered the
 country. The same effect was produced by crusaders who came to help the
@@ -2812,7 +2452,6 @@ The general silence of the troubadours may be due to the fact that
 communication began at a comparatively late period and was maintained
 between Portugal and Spanish courts, and not directly between Portugal
 and Southern France.
-
 Alfonso X. of Castile himself wrote many poems in the Galician or
 Portuguese dialect; perhaps his choice was dictated by reasons analogous
 to those which impelled Italian and Catalonian poets to write in
@@ -2835,16 +2474,7 @@ they were _cantigas de maldizer_. They dealt for the most part with
 trivial court and personal affairs and not with questions of national policy
 upon which the troubadours so often expressed their opinions. Changes in
 taste and political upheavals brought this literature to an end about
-1385 and the progress of Portuguese poetry then ceases for some fifty
 years.
-
-
-
-CHAPTER IX                                                               [127]
-
-
-PROVENCAL INFLUENCE IN GERMANY, FRANCE AND ENGLAND
-
 Provencal influence in Germany is apparent in the lyric poetry of the
 minnesingers. Of these, two schools existed, connected geographically
 with two great rivers. The earlier, the Austro-Bavarian school,
@@ -2875,18 +2505,14 @@ dominant principle was a reverence for womanhood as such, and in this
 respect the German minnesang is inspired by a less selfish spirit than
 the Provencal troubadour poetry. Typical of the difference is Walter von
 der Vogelweide's--
-
-  Swer guotes wibes minne hat,
-  der schamt sich aller missetat.
-
+Swer guotes wibes minne hat,
+der schamt sich aller missetat.
 ("He who has a good woman's love is ashamed of every ill deed"),
 compared with Bernart de Ventadour's--
-
-  Non es meravilha s'ieu chan                                            [129]
-  Melhs de nul autre chantador
-  Car plus trai mos cors ves Amor
-  E melhs sui faitz a son coman.
-
+Non es meravilha s'ieu chan                                            [129]
+Melhs de nul autre chantador
+Car plus trai mos cors ves Amor
+E melhs sui faitz a son coman.
 ("It is no wonder if I sing better than any other singer, for my heart
 draws nearer to love and I am better made for love's command.") The
 troubadour _amor_, especially in its Italian development, eventually
@@ -2898,10 +2524,8 @@ rimes is often a repetition of that adopted in troubadour stanzas.
 Friedrich von Hausen, the Count Rudolf von Fenis, Heinrich von Morungen
 and others sometimes translate almost literally from troubadour poetry,
 though these imitations do not justify the lines of Uhland.
-
-  In den Thaelern der Provence ist der Minnesang entsprossen,
-  Kind des Fruehlings und der Minne, holder, inniger Genossen.
-
+In den Thaelern der Provence ist der Minnesang entsprossen,
+Kind des Fruehlings und der Minne, holder, inniger Genossen.
 Northern France, the home of epic poetry, also possessed an indigenous
 lyric poetry, including spring and dance songs, pastorals, romances, and
 "chansons de toile." Provencal influence here was inevitable. It is
@@ -2919,7 +2543,6 @@ arte honeste amandi_ of Andre le Chapelain, written at the outset of the
 thirteenth century. Well-known troubadours such as Bertran de Born and
 Bernart de Ventadour visited Eleanor's court and the theory of courtly
 love found its way into epic poetry in the hands of Chretien de Troyes.
-
 The Provencal school in Northern France began during the latter half of
 the twelfth century. The _chanson_ properly so called is naturally most
 strongly represented: but the Provencal forms, the _tencon_ (Prov.
@@ -2951,49 +2574,42 @@ approaching separation in alternate stanzas. There is more real feeling
 in some of these poems than is apparent in the ordinary chanson of the
 Northern French courtly school: the following stanzas are from a poem by
 Guiot de Dijon,[34] the lament of a lady for her absent lover--
-
-  Chanterai por mon corage
-  Que je vueill reconforter
-  Car avec mon grant damage
-  Ne quier morir n'afoler,
-  Quant de la terra sauvage
-  Ne voi nului retorner
-  Ou cil est qui m'assoage
-  Le cuer, quant j'en oi parler
-      Dex, quant crieront outree,
-      Sire, aidies au pelerin
-      Por cui sui espoentee,
-      Car felon sunt Sarrazin.
-
-  De ce sui bone atente
-  Que je son homage pris,
-  E quant la douce ore vente
-  Qui vient de cel douz pais
-  Ou cil est qui m'atalente,
-  Volontiers i tor mon vis:
-  Adont m'est vis que jel sente
-  Par desoz mon mantel gris.
-      Dex, etc.
-
+Chanterai por mon corage
+Que je vueill reconforter
+Car avec mon grant damage
+Ne quier morir n'afoler,
+Quant de la terra sauvage
+Ne voi nului retorner
+Ou cil est qui m'assoage
+Le cuer, quant j'en oi parler
+Dex, quant crieront outree,
+Sire, aidies au pelerin
+Por cui sui espoentee,
+Car felon sunt Sarrazin.
+De ce sui bone atente
+Que je son homage pris,
+E quant la douce ore vente
+Qui vient de cel douz pais
+Ou cil est qui m'atalente,
+Volontiers i tor mon vis:
+Adont m'est vis que jel sente
+Par desoz mon mantel gris.
+Dex, etc.
 "I will sing for my heart which I will comfort, for in spite of my great
 loss I do not wish to die, and yet I see no one return from the wild     [133]
 land where he is who calms my heart when I hear mention of him. God!
 when they cry Outre (a pilgrim marching cry), Lord help the pilgrim for
 whom I tremble, for wicked are the Saracens.
-
 "From this fact have I confidence, that I have received his vows and
 when the gentle breeze blows which comes from the sweet country where he
 is whom I desire, readily do I turn my face thither: then I think I feel
 him beneath my grey mantle."
-
 The idea in the second stanza quoted is borrowed from Bernard de
 Ventadour--
-
-  Quant la douss' aura venta
-      Deves vostre pais.
-  Vejaire m'es qu'eu senta
-      Un ven de Paradis.
-
+Quant la douss' aura venta
+Deves vostre pais.
+Vejaire m'es qu'eu senta
+Un ven de Paradis.
 The greater part of this poetry repeats, in another language, the
 well-worn mannerisms of the troubadours: we find the usual introductory
 references to the spring or winter seasons, the wounding glances of
@@ -3007,7 +2623,6 @@ Changes in the constitution and customs of society brought this school   [134]
 to an end at the close of the thirteenth century, and a new period of
 lyric poetry was introduced by Guillaume de Machaut and Eustache
 Deschamps.
-
 Of the troubadours in England there is little to be said. The subject
 has hitherto received but scanty attention. Richard Coeur de Lion was as
 much French as English; his mother, Queen Eleanor, as we have seen, was
@@ -3024,7 +2639,6 @@ referring to a difference with the Dauphin of Auvergne, Robert I.
 imprisonment in Germany (1192-1194). Both are in French though a
 Provencal verson is extant of the latter. The story of Richard's
 discovery by Blondel is pure fiction.[35]
-
 From the time of Henry II. to that of Edward I. England was in constant  [135]
 communication with Central and Southern France and a considerable number
 of Provencals visited England at different times and especially in the
@@ -3051,35 +2665,30 @@ following Anglo-Norman stanzas. A poem with similar rimes and grouped in
 the same order is attributed to the Countess of Die, the Provencal
 _trobairitz_; but this, as M. Paul Meyer points out, may be pure
 coincidence.[36]
-
-  En lo sesoun qe l'erbe poynt
-  E reverdist la matinee
-  E sil oysel chauntent a poynt
-  En temps d'avril en la ramee,
-  Lores est ma dolur dublee
-  Que jeo sui en si dure poynt
-  Que jeo n'en ai de joie poynt,
-  Tant me greve la destinee.
-
-  Murnes et pensif m'en depart,
-  Que trop me greve la partie;
-  Si n'en puis aler cele part,
-  Que ele n'eyt a sa partie
-  Mon quor tot enter saunz partie.
-  E puis qu'el ad le men saunz part,
-  E jeo n'oy unkes del soen part
-  A moi est dure la partie.
-
+En lo sesoun qe l'erbe poynt
+E reverdist la matinee
+E sil oysel chauntent a poynt
+En temps d'avril en la ramee,
+Lores est ma dolur dublee
+Que jeo sui en si dure poynt
+Que jeo n'en ai de joie poynt,
+Tant me greve la destinee.
+Murnes et pensif m'en depart,
+Que trop me greve la partie;
+Si n'en puis aler cele part,
+Que ele n'eyt a sa partie
+Mon quor tot enter saunz partie.
+E puis qu'el ad le men saunz part,
+E jeo n'oy unkes del soen part
+A moi est dure la partie.
 "In the season when the grass springs and the morn is green and the
 birds sing exultantly in April time in the branches, then is my grief
 doubled, for I am in so hard a case that I have no joy at all, so heavy
 is my fate upon me.
-
 "Sad and thoughtful I depart, for the case is too grievous for me: yet   [137]
 I cannot go thither, for she has in her power my heart whole and
 undivided. And since she has mine undivided and I never have any part of
 hers, the division is a hard one to me."
-
 This influence was continued in Middle English lyric poetry. These
 lyrics are often lacking in polish; the tendency to use alliteration as
 an ornament has nothing to do with such occasional troubadour examples
@@ -3090,17 +2699,14 @@ poems which may be vainly sought in the products of continental
 decadence. But Provencal influence, whether exerted directly or
 indirectly through the Northern French lyric school, is plainly visible
 in many cases. Of the lyrics found in the important MS. Harleian
-2253,[37] "Alysoun" has the same rime scheme as a poem by Gaucelm
 Faidit: it opens with the conventional appeal to spring; the poet's
 feelings deprive him of sleep. The Fair Maid of Ribbesdale has a
 rime-scheme almost identical with that shown by one of Raimbaut
 d'Aurenga's poems; the description of the lady's beauty recalls many
 troubadour formulae: the concluding lines--
-
-  He myhte sayen pat crist hym seze,                                     [138]
-  pat myhte nyhtes neh hyre leze,
-    heuene he hevede here.
-
+He myhte sayen pat crist hym seze,                                     [138]
+pat myhte nyhtes neh hyre leze,
+heuene he hevede here.
 are a troubadour commonplace. Many other cases might be quoted. Hymns
 and songs to the Virgin exhibit the same characteristics of form. The
 few Provencal words which became English are interesting;[38] colander
@@ -3108,8 +2714,6 @@ or cullender (now a vegetable strainer; Prov. colador), funnel,
 puncheon, rack, spigot, league, noose are directly derived from
 Provencal and not through Northern French and are words connected with
 shipping and the wine trade, the port for which was Bordeaux.
-
-
 In the year 1323 a society was formed in Toulouse of seven troubadours,
 the "sobregaya companhia," for the purpose of preserving and encouraging
 lyric poetry (lo gay saber). The middle class of Toulouse seems at all
@@ -3126,7 +2730,6 @@ intending competitors. The competition produced a few admirable poems,
 but anxiety to preserve the old troubadour style resulted generally in
 dry and stilted compositions. The _Academie des jeux floraux_[40]
 altered the character of the competition by admitting French poems after
-1694. At the end of the sixteenth century, Provencal poetry underwent a
 revival; in our own time, poets such as Jasmin, Aubanel, Roumanille and
 above all, Mistral, have raised their language from a patois to a
 literary power. The work of the felibres has been to synthetise the best
@@ -3136,18 +2739,9 @@ this book. But the old troubadour spirit had died long before; it had
 accomplished its share in the history of European literature and had
 given an impulse to the development of lyric poetry, the effects of
 which are perceptible even at the present day.
-
-
-
-BIBLIOGRAPHY AND NOTES
-
-
-LITERARY HISTORY
-
 F. Diez, _Leben und Werke der Troubadours_, 2nd edit., re-edited by K.
 Bartsch, Leipsic, 1882. _Die Poesie der Troubadours_, 2nd edit.,
 re-edited by K. Bartsch, Leipsic, 1883.
-
 K. Bartsch, _Grundriss zur Geschichte der provenzalischen Literatur_,
 Elberfeld, 1872. A new edition of this indispensable work is in
 preparation by Prof. A. Pillet of Breslau. The first part of the book
@@ -3159,25 +2753,19 @@ found. Modern editors have generally agreed to follow these lists in
 referring to troubadour lyrics: e.g. B. Gr., 202, 4 refers to the fourth
 lyric (in alphabetical order) of Guillem Ademar, who is no. 202 in
 Bartsch's list.
-
 A list of corrections to this list is given by Groeber in Boehmer's
 _Romanische Studien_, vol. ii. 1875-77, Strassburg. In vol. ix. of the
 same is Groebers' study of troubadour MSS. and the relations between
 them.
-
 A. Stimming, _Provenzaliscke Literatur in Groeber's Grundriss der
 Romanischen Philologie_, Strassburg, 1888, vol. ii. part ii. contains
 useful bibliographical notices.
-
 A. Restori, _Letteratura provenzale_, Milan, 1891 (_Manuali Hoepli_), an
 excellent little work.
-
 A. Jeanroy, _Les origines de la poesie lyrique en France_, 2nd edit.,
 Paris, 1904.
-
 J. Anglade, _Les troubadours_, Paris, 1908, an excellent and trustworthy
 work, in popular style, with a good bibliography.
-
 J. H. Smith, _The troubadours at Home_, 2 vols., New York, 1899;
 popularises scientific knowledge by impressions of travel in Southern
 France, photographs, and historical imagination: generally stimulating
@@ -3187,126 +2775,66 @@ franzoesischen Litteratur_, Leipsic, 1900. The works of Millot and
 Fauriel are now somewhat antiquated. _Trobador Poets_, Barbara Smythe,
 London, 1911, contains an introduction and translations from various
 troubadours.
-
-
-
-DICTIONARIES AND GRAMMARS
-
 F. Raynouard, _Lexique roman_, 6 vols., Paris, 1838-1844,
 supplemented by.
-
 E. Levy, _Provenzalisches supplement-Woerterbuch_, Leipsic, 1894, not
 yet completed, but indispensable.
-
 E. Levy, _Petit dictionnaire provencal-francais_, Heidelberg, 1908.
-
 J. B. Roquefort, _Glossaire de la langue romane_, 3 vols., Paris, 1820.
-
 W. Meyer-Luebke, _Grammaire des langues romanes_, French translation of
 the German, Paris, 1905.
-
 C. H. Grandgent, _An outline of the phonology and morphology of old
 Provencal_, Boston, 1905.
-
 H. Suchier, _Die franzoesiche und provenzalische Sprache_ in Groeber's
 _Grundriss_. A French translation, _Le Francais et le Provencal_, Paris,
-1891.
-
-
-
-TEXTS
-
 The following chrestomathies contain tables of grammatical forms (except
 in the case of Bartsch) texts and vocabularies.
-
 _Altprovenzalisches Elementarbuch_, O. Schultz-Gora, Heidelberg, 1906,
 an excellent work for beginners.
-
 _Provenzalische Chrestomathie_, C. Appel, Leipsic, 1907, 3rd edit.
-
 _Manualetto provenzale_, V. Crescini, Padua, 1905, 2nd edit.
-
 _Chrestomathie provencal_, K. Bartsch, re-edited by Koschwitz, Marburg,
-1904.
-
 The following editions of individual troubadours have been published.
-
 Alegret. _Annales du Midi_, no. 74.
-
 Arnaut Daniel. U. A. Canello, Halle, 1883.
-
 Bernart de Rovenac. G. Borsdorff, Erlangen, 1907.
-
 Bartolomeo Zorzi. E. Levy, Halle, 1883.
-
 Bertran d'Alamanon. J. Salverda de Grave, Toulouse, 1902 (_Bibliotheque
 Meridionale_).
-
 Bertran de Born. A. Thomas, Toulouse, 1888 (_Bibliotheque Meridionale_).
-
 Bertran de Born. A. Stimming, Halle, 1892 (and in the _Romanischz
 Bibliothek_, Leipsic).
-
 Blacatz. O. Soltau, Leipsic, 1890.
-
 Cercamon. Dr Dejeanne, Toulouse, 1905 (_Annales du Midi_, vol. xvii.).
-
 Elias de Barjols. Stronski, Paris, 1906 (_Bibliotheque Meridionale_
 vi.).
-
 Folquet de Marselha. Stronski, Cracow, 1911.
-
 Folquet de Romans. Zenker (_Romanische Bibliothek_).
-
 Gavaudan. A. Jeanroy, _Romania_, xxxiv., p. 497.
-
 Guillaume IX. Comte de Poitiers. A. Jeanroy, Toulouse, 1905.
-
 Guillem Anelier de Toulouse. M. Gisi, Solothurn, 1877.
-
 Guillem de Cabestanh. F. Hueffer, Berlin, 1869.
-
 Guillem Figueira. E. Levy, Berlin, 1880.
-
 Guillem de Montanhagol. J. Coulet, _Bibliotheque Meridionale_, iv.,
 Toulouse.
-
 Guiraut de Bornelh. A. Kolsen, Berlin, 1894 and 1911.
-
 Guiraut d'Espanha. P. Savi-Lopez. _Studj mediaevali_, Fasc. 3, Turin,
-1905.
-
 Guiraut Riquier, Etude sur, etc. J. Anglade, Paris, 1905.
-
 Jaufre Rudel. A Stimming, Kiel, 1873.
-
 Marcabrun. Dr Dejeanne. _Bibliotheque Meridionale_, 1910.
-
 Marcoat. Dr Dejeanne, Toulouse, 1903 (_Annales du Midi_, xv.).
-
 Monk of Montaudon. E. Philippson, Halle, 1873; O. Klein, Marburg, 1885.
-
 N' At de Mons. Bernhard. _Altfranzoesische Bibliothek, Heilbronn_.
-
 Paulet de Marselha. E. Levy, Paris, 1882.
-
 Peire d'Alvernhe (d'Auvergne). R. Zenker, Rostock, 1900.
-
 Peire Vidal. K. Bartsch, Berlin, 1857 (an edition by J. Anglade is about
 to appear).
-
 Peire Rogier. C. Appel, Berlin, 1892.
-
 Perdigon. H.J. Chaytor, _Annales du Midi_, xxi.
-
 Pons de Capdoill. M. Napolski, Halle, 1879.
-
 Raimbaut de Vaqueiras. O. Schultz, Halle, 1893.
-
 Raimon de Miraval, Etude sur, etc. P. Andraud, Paris, 1902.
-
 Sordel. De Lollis, Halle, 1896 (_Romanische Bibliothek_).
-
 Numerous separate pieces have been published in the various periodicals
 concerned with Romance philology, as also have diplomatic copies of
 several MSS. Of these periodicals, the most important for Provencal are
@@ -3316,7 +2844,6 @@ di filologia romanza, Revue des langues romanes_. Mahn's _Gedichte der
 Troubadours_, 4 vols., Berlin, 1856-71, contains diplomatic copies of
 MSS.; his _Werke der Troubadours_, Berlin, 1846-55, contains reprints
 from Raynouard, _Choix des poesies originales des Troubadours_, Paris,
-1816. Suchier, _Denkmaeler provenzalischer Sprache_, Halle, 1883; Appel,
 _Provenzalische Inedita_, Leipsic, 1890; Chabaneau, _Poesies inedites
 des Troubadours du Perigord_, Paris, 1885; P. Meyer, _Les derniers
 troubadours de Provence_, Paris, 1871, should be mentioned. Most of the
@@ -3327,103 +2854,26 @@ be detailed here. C. Chabaneau, _Les biographies des Troubadours_,
 Toulouse, 1885 (part of the _Histoire generale de Languedoc_) is full of
 valuable information. The biographies have been translated by I.
 Farnell, _Lives of the Troubadours_, London, 1896.
-
-
-
-NOTES
-
-
-CHAPTER I
-
-1. See maps at the end of Groeber's _Grundriss_, vol. i.
-
-2. _De Vulg. El._ I., 8: alii oc, alii oil, alii si affirmando
 loquuntur, and _Vita Nuova_, xxv. Dante also knew the term provincialis.
-
-3. Boethius. F. Huendgen, Oppeln, 1884. For Sainte Foy d'Agen, see
 _Romania_ xxxi., p, 177 ff.
-
-4. P. Meyer in _Romania_ v., p. 257. Bedier, _Les chansons de Croisade_,
 Paris, 1909, p. 16.
-
-5. See P. Maus, _Peire Cardenals Strophenbau_, Marburg, 1884.
-
-6. See Jeanroy, Origines, etc.
-
-
-CHAPTER II
-
-7. Provencal has also the feminine _joia_ with the general meaning of
 "delight."
-
-8. See Stimming's article in Groeber's _Grundriss_.
-
-9. Raynouard, _Les Troubadours et les Cours d'Amour_, Paris, 1817; see
 also Diez, _Ueber die Minnehoefe_, Berlin, 1825. Pio Rajna, _Le Corti
 d'Amore_, Milan, 1890.
-
-10. _Annales du Midi_, xix. p. 364.
-
-11. _Die provenzalische Tenzone_, R. Zenker, Leipsic, 1888.
-
-
-CHAPTER III
-
-12. Girart de Roussillon, translation by P. Meyer, Paris, 1884: see also
 _Romania_, vii. Diplomatic copies of the MSS. in _Romanische Studien_ V.
 _Le Roman de Flamenca_, P. Meyer, Paris, 1901.
-
-13. J. B. Beck, _Die Melodien der Troubadours_, Strasburg, 1908. _La
 Musique des Troubadours_, Paris, 1910, by the same author, who there
 promised a selection of songs harmonized for performance: this has not
 yet appeared. See also _Quatre poesies de Marcabrun_, Jeanroy, Dejeanne
 and Aubry, Paris, 1904, with texts, music, and translations.
-
-14. Schindler, _Die Kreuzzuege in der altprovenzalischen und
 mittelhochdeutschen lyrik._, Dresden, 1889. K. Lewent, _Das
 altprovenzalische Kreuzlied_, Berlin, 1905.
-
-15. A. Pillet, _Studien zur Pastourelle_, Breslau, 1902. Roemer, _Die
 volkstuemlichen Dichtungsarten der altprovenzalischen Lyrik_, Marburg,
-1884.
-
-16. _Quae judicia de litteris fecerint Provinciales_. P. Andraud, Paris,
-1902.
-
-17. From _Si'm sentis fizels amics_, quoted by Dante, _De Vulg. El._ i. 9.
-
-
-CHAPTER IV
-
-18. "Paubre motz"; also interpreted as "scanty words," i.e. poems with
 short lines. On Jaufre Rudel in literature, see a lecture by Carducci,
 Bologna 1888. The latest theory of his mysterious love is that she was
 the Virgin Mary; see C. Appel, _Archiv fuer das Studium der neueren
 Sprachen_, cvii. 3-4.
-
-19. Mahn, _Gedichte_, no. 707. An edition of Bernard de Ventadour's
 poems is in preparation by Prof. Appel.
-
-20. _Cp._ Dante, _Par._ xx. 73.
-
-
-CHAPTER V
-
-21. Dante, _De Vulg. El._ ii. 2.
-
-22. "Il Provenzale," _Conv._ iv. 11.
-
-23. _Purg._ xxvi.
-
-24. On his family see Stronski, _Folquet de Marseille_, p. 15 and
-159-172.
-
-25. See G. Paris, _La Litterature francaise au moyen age_, Sec. 128.
-
-
-CHAPTER VI
-
-26. The best short account of the Albigenses is to be found in vol. i.
 of H.C. Lea's _Histoire de L'Inquisition au moyen age_, Paris, 1903.
 This, the French translation, is superior to the English edition as it
 contains the author's last corrections, and a number of bibliographical
@@ -3432,20 +2882,9 @@ Conybeare's _Key of Truth_, Oxford, 1908. The _Chanson de la Croisade
 Albigeoise_, P. Meyer, Paris, 1875, 2 vols., is indispensable to
 students of the subject. In these works will be found much of the
 extensive bibliography of the heresy and crusade.
-
-27. Eckbertus, _Serm. adv. Catharos, Migne, Patr. Lat._, tom. 193. p.
-73.
-
-28. _Cf._ Milman, _Latin Christianity_, Book IX. chap. viii. p. 85.
-
-29. On religious lyric poetry, see Lowinsky, _Zeitschrift fuer
 franzoesische Sprache und Litteratur_, xx. p. 163 ff., and the
 bibliographical note to Stimming's article in Groeber's _Grundriss_, vol.
 ii. part ii. Sec. 32.
-
-
-CHAPTER VII
-
 Most histories of Italian literature deal with this subject. See
 Gaspary's _Italian Literature to the death of Dante_: H. Oelsner, Bohn's
 Libraries. See also the chapter, _La poesie francaise en Italie_ in
@@ -3455,292 +2894,206 @@ Zingarelli. _The Troubadours of Dante_, Chaytor, Oxford, 1902. Useful
 are A. Thomas, _Francesco da Barberino et la litterature provencale en
 Italie au moyen age_, Paris, 1883. O. Schultz, _Die Lebensverhaeltnisse
 der Italienischen Trobadors_, Berlin, 1883.
-
-30. Schultz, _Die Briefe des Trobadors Raimbaut de Vaqueiras an Bonifaz
 I._, Halle, 1883.
-
-31. Zingarelli, _Intorno a due Trovatori in Italia_, Florence, 1899.
-
-
-CHAPTER VIII
-
 Mila y Fontanals, _Los trovadores en Espana_, Barcelona, 1861, remains
 the best work on the subject. On Portugal, the article in Groeber's
 _Grundriss_, ii. 2, p. 129, by C. Michaelis de Vasconcellos and Th.
 Braga is admirable: see the bibliographical references there given and
 the introduction to R. Lang, _Das Liederbuch des Koenigs Denis von
 Portugal_, Halle, 1894.
-
-32. The date of this poem is disputed, see Dr Dejeanne's edition of
 Marcabrun, p. 235.
-
-33. F. Guessard, _Grammaires Provencales_, Paris, 1858; E. Stengel, _Die
 beiden aeltesten prov. Gram._, Marburg, 1878.
-
-
-CHAPTER IX
-
 Troubadour influence in Germany is discussed at greater or less length
 in most histories of German literature. See Jeanroy, _Origines_, p. 270
 ff. A. Luederitz, _Die Liebestheorien der Provenzalen bei den
 Minnesingern der Slauferzeit_, Literarhistorische Forschungen, Berlin,
-1904.
-
 For France. A. Jeanroy, _De nostratibus medii aevi poetis qui primum
 Aquitaniae carmina imitati sint_, Paris, 1889.
-
 For England. Schofield, _English Literature from the Norman Conquest to
 Chaucer_, London, 1906. O. Heider, _Untersuchungen zur mittelenglischen
 erotischen Lyrik_, Halle, 1905. A. Brandl, _Spielmann's verhaeltnisse in
 fruehmittelenglischer Zeit_, Sitzungs-berichte der Koenigl. preuss.,
 Akademie, 1910.
-
-34. Bedier, _Chansons de Croisade_, Paris, 1909, p. 112.
-
-35. See introduction to Leo Wiese, _Die Lieder des Blondel de Nesle_,
 Dresden, 1904, p. 19 ff.
-
-36. _Romania_, viii. p. 370.
-
-37. K. Boeddeker, _Altenglische Dichtungen des MS. Harl._ 2253, Berlin,
-1878.
-
-38. Modern Language Review, vol. 1. p. 285; vol. ii. p. 60, articles by
 Prof. Skeat.
-
-39. P. Leinig, _Grammatik der provenzalischen Leys d'amors verglichen
 mit der Sprache der Troubadours_, Breslau, 1890. M. Gatien. Arnoult,
 _Monuments de la litterature romane_, Toulouse, 1841.
-
-40. _Histoire critique de l'Academie des Jeux Floraux_, by F. de Gelis
 from the origin to the 17th century will appear shortly in the
 Bibliotheque meridionale, Toulouse. Useful anthologies of modern
 Provencal are _Flourilege prouvencau_, Toulon, 1909: _Antologia
 provenzale_, E Portal, Milan, Hoepli, 1911 (Manuali Hoepli).
-
-
-
-INDEX.
-
-  Alamanon, Bertran d', 104
-  _Alba_, 33, 128
-  Albigeois, 13, 23, 75, ff.
-  Alcuin, 7
-  Alfonso II. of Aragon, 51, 59, 69, 74, 110, 113
-  Alfonso VIII. of Castile, 110, 113, 114
-  Alfonso X. of Castile, 118, 124
-  Andre le Chapelain, 19, 130
-  Aquino, Rinaldo d', 82
-  Aquitaine, 42
-  Arabs, 8, 105
-  Aragon, 54, 71, 110
-  ---- Pedro II. of, 78, 83, 113
-  Arles, 5
-  Aurenga, Raimbaut d', 35, 85, 64
-  Auvergne, 3
-  ---- Dauphin of, 134
-  ---- Peire d', 36, 67, 70, 135
-  Azalais, 71, 79
-
-
-  _Ballata_, 33
-  Barral, 71, 79
-  Belenoi, Aimeric de, 118
-  Bethune, Conon de, 131
-  Bezaudun, Raimon Vidal of, 115, 122
-  Beziers, 50, 78
-  Blacatz, 103
-  Born, Bertran de, 13, 57, 111, 130
-  Bornelh, Giraut de, 23, 35, 37, 53, 68, 86, 113
-  Brunei, Uc, 113
-
-
-  Cabestanh, Guillem de, 73
-  Cabreira, Guiraut de, 122
-  Caen, Raoul de, 6
-  Cairel, Elias, 12
-  Calanso, Guiraut de, 115, 122
-  Calha, Albertet, 12
-  Calvo, Bonifacio, 100, 118
-  Carcassonne, 78
-  Cardenal, Peire, 11, 82, 84, 92, 117, 118
-  Castile, 54, 71
-  ---- Sancho III. of, 67
-  Catalonia, 3, 5, 71, 109, 121 ff.
-  Cercamon, 9, 42
-  Chabaneau, 20
-  _Chanso_, 23
-  Cigala, Lanfranc, 39, 100, 116
-  Circ, Uc de San, 100, 113
-  Corbiac, Peire de, 93
-  _Comjat_, 23
-  Compostella, 109, 124
-  Courts of Love, 19
-  Cunizza, 101
-
-
-  Daniel, Arnaut, 55
-  Dante, 24, 53, 55, 57, 63, 104, 108, 131
-  Denis, 124
-  _Descort_, 33, 97
-  Die, Countess of, 11, 65
-  Dietmar von Aist, 128
-  Dominic, 77, 80
-
-
-  Ebles II., 46
-  Eleanor of Aquitaine, 42, 46, 59, 130
-  Escas Amanieu des, 121
-  _Escondig_, 33
-  Estampida, 33
-  Este, 95
-  Ezzelino III., 101
-
-
-  Faidit, Gaucelm, 99, 135
-  Ferdinand III. of Castile, 104, 116
-  Figueira, Guillem, 82, 138
-  Flamenca, 23
-  Florence, 100
-  Frederick II. of Sicily, 88, 105
-  Friedrich von Hausen, 129
-
-
-  Galicia, 123
-  _Gasson_, 3, 9, 115
-  Genoa, 78, 100
-  Gerona, Serveri de, 120
-  Guido delle Colonne, 106, 107
-  Guido Guinicelli, 106
-  Guiot de Dijon, 132
-
-
-  Hautefort, 60, 111
-  Henry II. of England, 47, 59, 63
-  Henry III. of England, 104, 117
-
-
-  Innocent III., 76, 77
-  Inquisition, 80
-  Isabella of Angouleme, 117
-
-
-  Jaime I. of Aragon, 85
-  Jaufre, Roman de, 23
-
-
-  Languedoc, 3
-  Lemosin, 5
-  Lentino, Jacopo da, 82
-  Leys d'Amors, 16, 23, 33, 138
-  Limousin, 3, 4, 8, 123
-  Louis VII. of France, 60, 69
-  Louis VIII. of France, 89
-  Lyons, 5, 77
-
-
-  Malaspina, Marquis of, 100
-  Malmesbury, William of, 41
-  Manfred II., 100, 102
-  Mantua, 101
-  Marcabrun, 35, 43, 68, 85, 110, 135
-  Mareuil, Arnaut de, 50, 53
-  Marseilles, 5, 10
-  ---- Barral of 71, 79
-  ---- Folquet of, 10, 13, 72, 78, 91
-  Marie of Champagne, 130
-  Marvejols, Bernard Sicart de, 84, 117, 118
-  Mauleon, Savaric de, 135
-  Minnesingers, 128
-  Miraval, Raimon de, 39, 83
-  Montanhagol, Guillem de, 117
-  Montaudon, Monk of, 11, 69, 79, 113
-  ---- Beatrice of, 97
-  Montpelier, Germonde de, 89
-  ---- William VII. of, 51, 79
-  Muret 78, 114
-  Music, 26 ff.
-
-
-  Narbonne, 5, 59, 67
-  Navarre, 54, 110
-  ---- Guillem de Tudela of, 120
-  Nesles, Blondel de, 131, 134
-  Nostradamus, 19
-  Novara, 102
-
-
-  Orange, William IV. of, 96
-
-
-  _Partimen_, 130
-  _Pastorela_, 33
-  Pegulhan, Aimeric de, 99, 107, 114, 138
-  Perdigon, 11
-  Pisa, 100
-  _Planh_, 30
-  Poitou, 4
-  Poitiers, 6, 8
-  ---- William of, 6, 41, 65, 90
-  Portugal, Denis of, 124
-  Provence, 3
-  ---- Beatrice of, 102
-  Puegsibot, Gausbert de, 14
-  Puy, 69
-
-
-  Raynouard, 19
-  Richard Coeur de Lion, 55, 58, 69, 72, 134
-  Riquier, Guiraut, 92, 118
-  Rogier, Peire, 66
-  Rovenhac, Bernart de, 118
-  Roussillon, 3
-  ---- Girart de, 22
-  Rudel, Jaufre, 23, 44
-  Rudolf, Count of Neuenberg, 82
-
-
-  Savoy, 96
-  _Serena_, 33
-  Simon de Montfort, 78
-  _Sirventes_, 30, 135
-  Sordello, 96, 101, 116
-  _Stanza_, 24, ff.
-
-
-  _Tenso_, 21, 31, 130
-  Thibaut IV. of Champagne, 131
-  Tor, Guillem de la, 100
-  Toronet, 79
-  Toulouse, 5, 13, 78, 80, 84, 138
-  ---- N'At de Mons of, 117
-  ---- Peire Raimon of, 113
-  ---- Raimon V. of, 49, 50, 60, 67, 111
-  ---- Raimon VI. of, 78, 80, 114
-  Tripoli, Countess of, 44
-  _Trobar clus_, 34
-  Turin, 96
-
-
-  Ussel, Gui d', 14
-
-
-  Vaqueiras, Raimbaut de, 96, 100
-  Vaudois, 76
-  Venice, 100
-  Ventadour, 11
-  ---- Bernart of, 11, 13, 46, 68, 128, 130, 133, 135
-  Verona, 96
-  _Vers_, 23
-  Vidal, Peire, 71, 95, 97, 100, 112, 115, 127, 138
-  Virgin Mary, 15, 91
-
-
-  Zorzi, Bartolomeo, 100, 118
-
-
-
-
-
-End of the Project Gutenberg EBook of The Troubadours, by H.J. Chaytor
-
+Alamanon, Bertran d', 104
+_Alba_, 33, 128
+Albigeois, 13, 23, 75, ff.
+Alcuin, 7
+Alfonso II. of Aragon, 51, 59, 69, 74, 110, 113
+Alfonso VIII. of Castile, 110, 113, 114
+Alfonso X. of Castile, 118, 124
+Andre le Chapelain, 19, 130
+Aquino, Rinaldo d', 82
+Aquitaine, 42
+Arabs, 8, 105
+Aragon, 54, 71, 110
+---- Pedro II. of, 78, 83, 113
+Arles, 5
+Aurenga, Raimbaut d', 35, 85, 64
+Auvergne, 3
+---- Dauphin of, 134
+---- Peire d', 36, 67, 70, 135
+Azalais, 71, 79
+_Ballata_, 33
+Barral, 71, 79
+Belenoi, Aimeric de, 118
+Bethune, Conon de, 131
+Bezaudun, Raimon Vidal of, 115, 122
+Beziers, 50, 78
+Blacatz, 103
+Born, Bertran de, 13, 57, 111, 130
+Bornelh, Giraut de, 23, 35, 37, 53, 68, 86, 113
+Brunei, Uc, 113
+Cabestanh, Guillem de, 73
+Cabreira, Guiraut de, 122
+Caen, Raoul de, 6
+Cairel, Elias, 12
+Calanso, Guiraut de, 115, 122
+Calha, Albertet, 12
+Calvo, Bonifacio, 100, 118
+Carcassonne, 78
+Cardenal, Peire, 11, 82, 84, 92, 117, 118
+Castile, 54, 71
+---- Sancho III. of, 67
+Catalonia, 3, 5, 71, 109, 121 ff.
+Cercamon, 9, 42
+Chabaneau, 20
+_Chanso_, 23
+Cigala, Lanfranc, 39, 100, 116
+Circ, Uc de San, 100, 113
+Corbiac, Peire de, 93
+_Comjat_, 23
+Compostella, 109, 124
+Courts of Love, 19
+Cunizza, 101
+Daniel, Arnaut, 55
+Dante, 24, 53, 55, 57, 63, 104, 108, 131
+Denis, 124
+_Descort_, 33, 97
+Die, Countess of, 11, 65
+Dietmar von Aist, 128
+Dominic, 77, 80
+Ebles II., 46
+Eleanor of Aquitaine, 42, 46, 59, 130
+Escas Amanieu des, 121
+_Escondig_, 33
+Estampida, 33
+Este, 95
+Ezzelino III., 101
+Faidit, Gaucelm, 99, 135
+Ferdinand III. of Castile, 104, 116
+Figueira, Guillem, 82, 138
+Flamenca, 23
+Florence, 100
+Frederick II. of Sicily, 88, 105
+Friedrich von Hausen, 129
+Galicia, 123
+_Gasson_, 3, 9, 115
+Genoa, 78, 100
+Gerona, Serveri de, 120
+Guido delle Colonne, 106, 107
+Guido Guinicelli, 106
+Guiot de Dijon, 132
+Hautefort, 60, 111
+Henry II. of England, 47, 59, 63
+Henry III. of England, 104, 117
+Innocent III., 76, 77
+Inquisition, 80
+Isabella of Angouleme, 117
+Jaime I. of Aragon, 85
+Jaufre, Roman de, 23
+Languedoc, 3
+Lemosin, 5
+Lentino, Jacopo da, 82
+Leys d'Amors, 16, 23, 33, 138
+Limousin, 3, 4, 8, 123
+Louis VII. of France, 60, 69
+Louis VIII. of France, 89
+Lyons, 5, 77
+Malaspina, Marquis of, 100
+Malmesbury, William of, 41
+Manfred II., 100, 102
+Mantua, 101
+Marcabrun, 35, 43, 68, 85, 110, 135
+Mareuil, Arnaut de, 50, 53
+Marseilles, 5, 10
+---- Barral of 71, 79
+---- Folquet of, 10, 13, 72, 78, 91
+Marie of Champagne, 130
+Marvejols, Bernard Sicart de, 84, 117, 118
+Mauleon, Savaric de, 135
+Minnesingers, 128
+Miraval, Raimon de, 39, 83
+Montanhagol, Guillem de, 117
+Montaudon, Monk of, 11, 69, 79, 113
+---- Beatrice of, 97
+Montpelier, Germonde de, 89
+---- William VII. of, 51, 79
+Muret 78, 114
+Music, 26 ff.
+Narbonne, 5, 59, 67
+Navarre, 54, 110
+---- Guillem de Tudela of, 120
+Nesles, Blondel de, 131, 134
+Nostradamus, 19
+Novara, 102
+Orange, William IV. of, 96
+_Partimen_, 130
+_Pastorela_, 33
+Pegulhan, Aimeric de, 99, 107, 114, 138
+Perdigon, 11
+Pisa, 100
+_Planh_, 30
+Poitou, 4
+Poitiers, 6, 8
+---- William of, 6, 41, 65, 90
+Portugal, Denis of, 124
+Provence, 3
+---- Beatrice of, 102
+Puegsibot, Gausbert de, 14
+Puy, 69
+Raynouard, 19
+Richard Coeur de Lion, 55, 58, 69, 72, 134
+Riquier, Guiraut, 92, 118
+Rogier, Peire, 66
+Rovenhac, Bernart de, 118
+Roussillon, 3
+---- Girart de, 22
+Rudel, Jaufre, 23, 44
+Rudolf, Count of Neuenberg, 82
+Savoy, 96
+_Serena_, 33
+Simon de Montfort, 78
+_Sirventes_, 30, 135
+Sordello, 96, 101, 116
+_Stanza_, 24, ff.
+_Tenso_, 21, 31, 130
+Thibaut IV. of Champagne, 131
+Tor, Guillem de la, 100
+Toronet, 79
+Toulouse, 5, 13, 78, 80, 84, 138
+---- N'At de Mons of, 117
+---- Peire Raimon of, 113
+---- Raimon V. of, 49, 50, 60, 67, 111
+---- Raimon VI. of, 78, 80, 114
+Tripoli, Countess of, 44
+_Trobar clus_, 34
+Turin, 96
+Ussel, Gui d', 14
+Vaqueiras, Raimbaut de, 96, 100
+Vaudois, 76
+Venice, 100
+Ventadour, 11
+---- Bernart of, 11, 13, 46, 68, 128, 130, 133, 135
+Verona, 96
+_Vers_, 23
+Vidal, Peire, 71, 95, 97, 100, 112, 115, 127, 138
+Virgin Mary, 15, 91
+Zorzi, Bartolomeo, 100, 118

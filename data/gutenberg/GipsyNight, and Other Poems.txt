@@ -1,173 +1,62 @@
-�The Project Gutenberg EBook of Gipsy-Night and Other Poems, by 
-Richard Arthur Warren Hughes
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Gipsy-Night and Other Poems
-
-Author: Richard Arthur Warren Hughes
-
-Illustrator: Pamela Bianco
-
-Release Date: October 5, 2014 [EBook #47055]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK GIPSY-NIGHT AND OTHER POEMS ***
-
-
-
-
 Produced by David E. Brown, Joke Van Dorst, Bryan Ness and
 the Online Distributed Proofreading Team at
 http://www.pgdp.net (This file was produced from images
 generously made available by The Internet Archive/American
 Libraries.)
-
-
-
-
-
-
-
 Of this first American edition of _Gipsy-Night and Other Poems_, with a
 special proof of the _Lithograph Portrait_ by _Pamela Bianco_,
 sixty-three copies, each signed by both author and artist, have been
 issued, of which thirty are for sale in America and twenty-four in
 England.
-
-
 Number 46
-
-
-
-
-                                                         Richard Hughes
-
-
-
-
-  Gipsy-Night and Other Poems
-
-
-
-  [Illustration: Pamela Bianco]
-
-
-
-  GIPSY-NIGHT
-
-  _and_ Other Poems
-
-  _by_
-
-  _Richard Hughes_
-
-  [Illustration]
-
-  _Chicago_
-  WILL RANSOM
-  _1922_
-
-
-
-  _Copyright 1922 by Will Ransom_
-
-
-
-
+Richard Hughes
+Gipsy-Night and Other Poems
+_and_ Other Poems
+_by_
+_Richard Hughes_
+_Chicago_
+_1922_
+_Copyright 1922 by Will Ransom_
 Some of these pieces have appeared in England in _The Athenæum_, _London
 Mercury_, _Spectator_, _Saturday Westminster Gazette_, _Oxford Review_,
 _Free Oxford_, _Oxford Outlook_, _Poetry Review_, and _Oxford Poetry_;
 and in America in _The Dial_, the _New York Evening Post Literary
 Review_, _The Bookman_, and _Poetry_.
-
 The Author offers the usual acknowledgments.
-
-
-
-
-CONTENTS
-
-
-  _Portrait of the Author by Pamela Bianco_      _Frontispiece_
-
-  _Preface_                                                 _7_
-
-  _Gipsy-Night_                                             _9_
-
-  _The Horse Trough_                                       _11_
-
-  _Martha_                                                 _12_
-
-  _Gratitude_                                              _15_
-
-  _Vagrancy_                                               _17_
-
-  _Storm_                                                  _20_
-
-  _Tramp_                                                  _23_
-
-  _Epitaph_                                                _26_
-
-  _Glaucopis_                                              _27_
-
-  _Poets, Painters, Puddings_                              _28_
-
-  _Isaac Ball_                                             _30_
-
-  _Dirge_                                                  _32_
-
-  _The Singing Furies_                                     _34_
-
-  _The Ruin_                                               _36_
-
-  _Judy_                                                   _38_
-
-  _Winter_                                                 _40_
-
-  _The Moonlit Journey_                                    _41_
-
-  _A Song of the Walking Road_                             _42_
-
-  _The Sermon_                                             _44_
-
-  _The Rolling Saint_                                      _45_
-
-  _Weald_                                                  _48_
-
-  _The Jumping Bean_                                       _50_
-
-  _Old Cat Care_                                           _52_
-
-  _Cottager is given the Bird_                             _53_
-
-  _A Man_                                                  _55_
-
-  _Moon-struck_                                            _56_
-
-  _Enigma_                                                 _58_
-
-  _Lament for Gaza_                                        _59_
-
-  _The Image_                                              _60_
-
-  _Felo de Se_                                             _61_
-
-  _The Birds-nester_                                       _63_
-
-
-
-
+_Portrait of the Author by Pamela Bianco_      _Frontispiece_
+_Preface_                                                 _7_
+_Gipsy-Night_                                             _9_
+_The Horse Trough_                                       _11_
+_Martha_                                                 _12_
+_Gratitude_                                              _15_
+_Vagrancy_                                               _17_
+_Storm_                                                  _20_
+_Tramp_                                                  _23_
+_Epitaph_                                                _26_
+_Glaucopis_                                              _27_
+_Poets, Painters, Puddings_                              _28_
+_Isaac Ball_                                             _30_
+_Dirge_                                                  _32_
+_The Singing Furies_                                     _34_
+_The Ruin_                                               _36_
+_Judy_                                                   _38_
+_Winter_                                                 _40_
+_The Moonlit Journey_                                    _41_
+_A Song of the Walking Road_                             _42_
+_The Sermon_                                             _44_
+_The Rolling Saint_                                      _45_
+_Weald_                                                  _48_
+_The Jumping Bean_                                       _50_
+_Old Cat Care_                                           _52_
+_Cottager is given the Bird_                             _53_
+_A Man_                                                  _55_
+_Moon-struck_                                            _56_
+_Enigma_                                                 _58_
+_Lament for Gaza_                                        _59_
+_The Image_                                              _60_
+_Felo de Se_                                             _61_
+_The Birds-nester_                                       _63_
 Preface
-
-
 _Probably the most important contribution to modern poetical theory is
 Mr. Robert Graves' book_ On English Poetry. _He grounds it upon Man as a
 Neurotic Animal. Poetry is to the poet, he argues, what dreams are to
@@ -187,1350 +76,1005 @@ co-responsible. Indeed, though many of these poems may still prove poems
 within the meaning of Mr. Graves' Act, I should be sorry that they
 should be read with no other purpose than indecently to detect my
 neuroses._
-
-                                                                 _R. H._
-
 _North Wales, 1922_
-
-
-
-
 Gipsy-Night
-
-
-  When the feet of the rain tread a dance on the roofs,
-  And the wind slides through the rocks and the trees,
-  And Dobbin has stabled his hoofs
-  In the warm bracken-litter, noisy about his knees;
-  And when there is no moon, and the sodden clouds slip over;
-  Whenever there is no moon, and the rain drips cold,
-  And folk with a shilling of money are bedded in houses,
-  And pools of water glitter on Farmer's mould;
-      Then pity Sally's girls, with the rain in their blouses:
-      Martha and Johnnie, who have no money:
-      The small naked puppies who whimper against the bitches,
-      The small sopping children who creep to the ditches.
-
-  But when the moon is run like a red fox
-  Cover to cover behind the skies;
-  And the breezes crack in the trees on the rocks,
-  Or stoop to flutter about the eyes
-  Of one who dreams in the scent of pines
-  At ease:
-      Then would you not go foot it with Sarah's Girls
-      In and out the trees?
-      Or listen across the fire
-      To old Tinker-Johnnie, and Martha his Rawnee,
-      In jagged Wales, or in orchard Worcestershire?
-
-
-
-
+When the feet of the rain tread a dance on the roofs,
+And the wind slides through the rocks and the trees,
+And Dobbin has stabled his hoofs
+In the warm bracken-litter, noisy about his knees;
+And when there is no moon, and the sodden clouds slip over;
+Whenever there is no moon, and the rain drips cold,
+And folk with a shilling of money are bedded in houses,
+And pools of water glitter on Farmer's mould;
+Then pity Sally's girls, with the rain in their blouses:
+Martha and Johnnie, who have no money:
+The small naked puppies who whimper against the bitches,
+The small sopping children who creep to the ditches.
+But when the moon is run like a red fox
+Cover to cover behind the skies;
+And the breezes crack in the trees on the rocks,
+Or stoop to flutter about the eyes
+Of one who dreams in the scent of pines
+At ease:
+Then would you not go foot it with Sarah's Girls
+In and out the trees?
+Or listen across the fire
+To old Tinker-Johnnie, and Martha his Rawnee,
+In jagged Wales, or in orchard Worcestershire?
 The Horse Trough
-
-
-  Clouds of children round the trough
-  Splash and clatter in the sun:
-  Their clouted shoes are mostly off,
-  And some are quarrelling, and one
-  Cools half her face, nose downward bubbling,
-  Wetting her clo'es and never troubling;
-  Bobble, bobble, bobble there
-  Till bubbles like young earthquakes heave
-  The orange island of her hair,
-  And tidal waves run up her sleeve;
-  Another's tanned as brown as bistre;
-  Another ducks his little sister,
-  And all are mixed in such a crowd
-  And tell their separate joys so loud
-  That who can be this silent one,
-  This dimpled, pensive, baby one?
-  --She sits the sunny steps so still
-  For hours, trying hard to kill
-  One fly at least of those that buzz
-  So cannily ...
-                And then she does.
-
-
-
-
+Clouds of children round the trough
+Splash and clatter in the sun:
+Their clouted shoes are mostly off,
+And some are quarrelling, and one
+Cools half her face, nose downward bubbling,
+Wetting her clo'es and never troubling;
+Bobble, bobble, bobble there
+Till bubbles like young earthquakes heave
+The orange island of her hair,
+And tidal waves run up her sleeve;
+Another's tanned as brown as bistre;
+Another ducks his little sister,
+And all are mixed in such a crowd
+And tell their separate joys so loud
+That who can be this silent one,
+This dimpled, pensive, baby one?
+--She sits the sunny steps so still
+For hours, trying hard to kill
+One fly at least of those that buzz
+So cannily ...
+And then she does.
 Martha (Gipsies on Tilberstowe: 1917)
-
-
-  Small child with the pinched face,
-  Why do you stare
-  With screwed-up eyes under a shock
-  Of dull carrot hair?
-  --Child in the long, torn frock,
-  Crouched in the warm dust:
-  Why do you stare, as if
-  Stare you must?
-
-         *       *       *       *       *
-
-  Fairies in gossamer,
-  Hero and warrior,
-  Queens in their cherry gowns,
-  Wizards and witches:
-  Dream you of such as these?
-  Palaces? Orange-trees?
-  Dream you of swords and crowns,
-  Child of the ditches?
-
-  _Still in the warm dust
-  Sits she and stares; as if
-  Stare she must,
-  Pale eyes that see through:
-  Soon I must stare too:_
-
-  Soon through the fierce glare
-  Loom things that are not there:
-  Out of the blind Past
-  Savages grim:
-  Negroes and muleteers,
-  Saxons and wanderers
-  Tall as a ship's mast,
-  Spectral and dim.
-
-  _Stirring the race's dust,
-  Stares she as stare she must._
-
-  _Fade they: but still the glare
-  Shimmers her copper hair._
-
-  Eight years of penury,
-  Whining and beggary,
-  Famine and cursing,
-  Hunger and sharp theft:
-  Death comes to such as these
-  Under the sobbing trees.
-  The cold stars nursing
-  Those that are left.
-
-  _Angel and devil peers
-  Through those pale eyes of hers,_
-
-  Child of the Wide Earth,
-  Born at the World's birth,
-  Grave with the World's pain,
-  Mirthless and tearless:
-  Widowed from babyhood,
-  Child without childhood,
-  Stained with an earthy stain,
-  Loveless and fearless:
-
-  My God is overhead:
-  Yours must be cold. Or dead.
-
-  --Child with the pinched face
-  Why do you stare
-  With so much knowledge under your shock
-  Of wild matted hair?
-
-
-
-
+Small child with the pinched face,
+Why do you stare
+With screwed-up eyes under a shock
+Of dull carrot hair?
+--Child in the long, torn frock,
+Crouched in the warm dust:
+Why do you stare, as if
+Stare you must?
+*       *       *       *       *
+Fairies in gossamer,
+Hero and warrior,
+Queens in their cherry gowns,
+Wizards and witches:
+Dream you of such as these?
+Palaces? Orange-trees?
+Dream you of swords and crowns,
+Child of the ditches?
+_Still in the warm dust
+Sits she and stares; as if
+Stare she must,
+Pale eyes that see through:
+Soon I must stare too:_
+Soon through the fierce glare
+Loom things that are not there:
+Out of the blind Past
+Savages grim:
+Negroes and muleteers,
+Saxons and wanderers
+Tall as a ship's mast,
+Spectral and dim.
+_Stirring the race's dust,
+Stares she as stare she must._
+_Fade they: but still the glare
+Shimmers her copper hair._
+Eight years of penury,
+Whining and beggary,
+Famine and cursing,
+Hunger and sharp theft:
+Death comes to such as these
+Under the sobbing trees.
+The cold stars nursing
+Those that are left.
+_Angel and devil peers
+Through those pale eyes of hers,_
+Child of the Wide Earth,
+Born at the World's birth,
+Grave with the World's pain,
+Mirthless and tearless:
+Widowed from babyhood,
+Child without childhood,
+Stained with an earthy stain,
+Loveless and fearless:
+My God is overhead:
+Yours must be cold. Or dead.
+--Child with the pinched face
+Why do you stare
+With so much knowledge under your shock
+Of wild matted hair?
 Gratitude
-
-
-  _Eternal gratitude_--a long, thin word:
-  When meant, oftenest left unheard:
-  When light on the tongue, light in the purse too;
-  Of curious metallurgy: when coined true
-  It glitters not, is neither large nor small:
-  More worth than rubies--less, times, than a ball.
-  Not gift, nor willed: yet through its wide range
-  Buys what it buys exact, and leaves no change.
-
-  Old Gurney had it, won on a hot day
-  With ale, from glib-voiced Gipsy by the way.
-  He held it lightly: for 'twas a rum start
-  To find a hedgeling who had still a heart:
-  So put it down for twist of a beggar's tongue ...
-  _He_ had not felt the heat: how the dust stung
-  A face June-roasted: _he_ saw not the look
-  Aslant the gift-mug; how the hand shook ...
-  Yet the words filled his head, and he grew merry
-  And whistled from the Boar to Wrye-brook ferry,
-  And chaffed with Ferryman when the hawser creaked,
-  Or slipping bilge showed where the planks leaked;
-  --Lent hand himself, till doubly hard the barge
-  Butted its nose in mud of the farther marge.
-  When Gurney leapt to shore, he found--dismay!
-
-  He had no tuppence--(Tuppence was to pay
-  To sulky Ferryman).--'Naught have I,' says he,
-  'Naught but the gratitude of Tammas Lee
-  Given one hour.'--Sulky Charon grinned:
-  'Done,' said he, 'done: I take it--all of it, mind.'
-  'Done,' cries Jan Gurney. Down the road he went,
-  But by the ford left all his merriment.
-
-  This is the tale of midday chaffering:
-  How Charon took, and Gurney lost the thing:
-  How Ferryman gave it for his youngest daughter
-  To a tall lad who saved her out of the water--
-  (Being old and mean, had none of his own to give,
-  So passed on Tammas', glad to see her live):
-  How the young farmer paid his quarter's rent
-  With that one coin, when all else was spent,
-  And how Squire kept it for some goldless debt ...
-  For aught I know, it wanders current yet.
-
-  But Tammas was no angel in disguise:
-  He stole Squire's chickens--often: he told lies,
-  Robbed Charon's garden, burnt young Farmer's ricks
-  And played the village many lousy tricks.
-
-  No children sniffled, and no dog cried,
-  When full of oaths and smells, he died.
-
-
-
-
+_Eternal gratitude_--a long, thin word:
+When meant, oftenest left unheard:
+When light on the tongue, light in the purse too;
+Of curious metallurgy: when coined true
+It glitters not, is neither large nor small:
+More worth than rubies--less, times, than a ball.
+Not gift, nor willed: yet through its wide range
+Buys what it buys exact, and leaves no change.
+Old Gurney had it, won on a hot day
+With ale, from glib-voiced Gipsy by the way.
+He held it lightly: for 'twas a rum start
+To find a hedgeling who had still a heart:
+So put it down for twist of a beggar's tongue ...
+_He_ had not felt the heat: how the dust stung
+A face June-roasted: _he_ saw not the look
+Aslant the gift-mug; how the hand shook ...
+Yet the words filled his head, and he grew merry
+And whistled from the Boar to Wrye-brook ferry,
+And chaffed with Ferryman when the hawser creaked,
+Or slipping bilge showed where the planks leaked;
+--Lent hand himself, till doubly hard the barge
+Butted its nose in mud of the farther marge.
+When Gurney leapt to shore, he found--dismay!
+He had no tuppence--(Tuppence was to pay
+To sulky Ferryman).--'Naught have I,' says he,
+'Naught but the gratitude of Tammas Lee
+Given one hour.'--Sulky Charon grinned:
+'Done,' said he, 'done: I take it--all of it, mind.'
+'Done,' cries Jan Gurney. Down the road he went,
+But by the ford left all his merriment.
+This is the tale of midday chaffering:
+How Charon took, and Gurney lost the thing:
+How Ferryman gave it for his youngest daughter
+To a tall lad who saved her out of the water--
+(Being old and mean, had none of his own to give,
+So passed on Tammas', glad to see her live):
+How the young farmer paid his quarter's rent
+With that one coin, when all else was spent,
+And how Squire kept it for some goldless debt ...
+For aught I know, it wanders current yet.
+But Tammas was no angel in disguise:
+He stole Squire's chickens--often: he told lies,
+Robbed Charon's garden, burnt young Farmer's ricks
+And played the village many lousy tricks.
+No children sniffled, and no dog cried,
+When full of oaths and smells, he died.
 Vagrancy
-
-
-  When the slow year creeps hay-ward, and the skies
-  Are warming in the summer's mild surprise,
-  And the still breeze disturbs each leafy frond
-  Like hungry fishes dimpling in a pond,
-  It is a pleasant thing to dream at ease
-  On sun-warmed thyme, not far from beechen trees.
-
-  A robin flashing in a rowan-tree,
-  A wanton robin, spills his melody
-  As if he had such store of golden tones
-  That they were no more worth to him than stones:
-  The sunny lizards dream upon the ledges:
-  Linnets titter in and out the hedges,
-  Or swoop among the freckled butterflies.
-
-  Down to a beechen hollow winds the track
-  And tunnels past my twilit bivouac:
-  Two spiring wisps of smoke go singly up
-  And scarcely tremble in the leafy air.
-
-  --There are more shadows in this loamy cup
-  Than God could count: and oh, but it is fair:
-  The kindly green and rounded trunks, that meet
-  Under the soil with twinings of their feet
-  And in the sky with twinings of their arms:
-  The yellow stools: the still ungathered charms
-  Of berry, woodland herb, and bryony,
-  And mid-wood's changeling child, Anemone.
-
-         *       *       *       *       *
-
-  Quiet as a grave beneath a spire
-  I lie and watch the pointed climbing fire,
-  I lie and watch the smoky weather-cock
-  That climbs too high, and bends to the breeze's shock,
-  And breaks, and dances off across the skies
-  Gay as a flurry of blue butterflies.
-
-  But presently the evening shadows in,
-  Heralded by the night-jar's solitary din
-  And the quick bat's squeak among the trees;
-  --Who sudden rises, darting across the air
-  To weave her filmy web in the Sun's bright hair
-  That slowly sinks dejected on his knees ...
-
-  Now is he vanished: the bewildered skies
-  Flame out a desperate and last surmise;
-  Then yield to Night, their sudden conqueror.
-
-  From pole to pole the shadow of the world
-  Creeps over heaven, till itself is lit
-  By the very many stars that wake in it:
-
-  Sleep, like a messenger of great import,
-  Lays quiet and compelling hands athwart
-  The easy idlenesses of my mind.
-  --There is a breeze above me, and around:
-  There is a fire before me, and behind:
-  But Sleep doth hold me, and I hear no sound.
-
-  In the far West the clouds are mustering,
-  Without hurry, noise, or blustering:
-  And soon as Body's nightly Sentinel
-  Himself doth nod, I open furtive eyes ...
-
-  With darkling hook the Farmer of the Skies
-  Goes reaping stars: they flicker, one by one,
-  Nodding a little; tumble--and are gone.
-
-
-
-
+When the slow year creeps hay-ward, and the skies
+Are warming in the summer's mild surprise,
+And the still breeze disturbs each leafy frond
+Like hungry fishes dimpling in a pond,
+It is a pleasant thing to dream at ease
+On sun-warmed thyme, not far from beechen trees.
+A robin flashing in a rowan-tree,
+A wanton robin, spills his melody
+As if he had such store of golden tones
+That they were no more worth to him than stones:
+The sunny lizards dream upon the ledges:
+Linnets titter in and out the hedges,
+Or swoop among the freckled butterflies.
+Down to a beechen hollow winds the track
+And tunnels past my twilit bivouac:
+Two spiring wisps of smoke go singly up
+And scarcely tremble in the leafy air.
+--There are more shadows in this loamy cup
+Than God could count: and oh, but it is fair:
+The kindly green and rounded trunks, that meet
+Under the soil with twinings of their feet
+And in the sky with twinings of their arms:
+The yellow stools: the still ungathered charms
+Of berry, woodland herb, and bryony,
+And mid-wood's changeling child, Anemone.
+*       *       *       *       *
+Quiet as a grave beneath a spire
+I lie and watch the pointed climbing fire,
+I lie and watch the smoky weather-cock
+That climbs too high, and bends to the breeze's shock,
+And breaks, and dances off across the skies
+Gay as a flurry of blue butterflies.
+But presently the evening shadows in,
+Heralded by the night-jar's solitary din
+And the quick bat's squeak among the trees;
+--Who sudden rises, darting across the air
+To weave her filmy web in the Sun's bright hair
+That slowly sinks dejected on his knees ...
+Now is he vanished: the bewildered skies
+Flame out a desperate and last surmise;
+Then yield to Night, their sudden conqueror.
+From pole to pole the shadow of the world
+Creeps over heaven, till itself is lit
+By the very many stars that wake in it:
+Sleep, like a messenger of great import,
+Lays quiet and compelling hands athwart
+The easy idlenesses of my mind.
+--There is a breeze above me, and around:
+There is a fire before me, and behind:
+But Sleep doth hold me, and I hear no sound.
+In the far West the clouds are mustering,
+Without hurry, noise, or blustering:
+And soon as Body's nightly Sentinel
+Himself doth nod, I open furtive eyes ...
+With darkling hook the Farmer of the Skies
+Goes reaping stars: they flicker, one by one,
+Nodding a little; tumble--and are gone.
 Storm: to the Theme of Polyphemus
-
-
-  Mortal I stand upon the lifeless hills
-  That jut their cragged bones against the sky:
-  I crawl upon their naked ebony,
-  And toil across the scars of Titan ills
-  Dealt by the weaponing of gods and devils:
-  I climb their uppermost deserted levels,
-  And see how Heaven glowers his one eye
-  Blood-red and black-browed in the sullen sky,
-  While all his face is livid as a corpse
-  And wicked as a snake's: see how he warps
-  His sultry beam across the misted sea,
-  As if he grudged its darkling ministry.
-
-  He looks so covetous, I think he hides
-  --Jetsam of the slow ethereal tides--
-  Some cursed and battered Sailor of the Spheres:
-  All night he ravens on him and his peers,
-  But with the day he straddles monstrously
-  Across the earth in churlish shepherdry,
-  A-hungered for his hideous nightly feast.
-
-  But storms are gathering in the whitened East:
-  The day grows darker still, and suddenly
-  That lone and crafty Prisoner of the Sky
-  Plunges his murky torch in Heaven's Eye:
-  The blinded, screaming tempest trumpets out
-  His windy agonies: Oh, he will spout
-  His boiling rains upon the soggy air
-  And heave great rocking planets: he will tear
-  And snatch the screeching comets by the hair
-  To fling them all about him in the sea,
-  And blast the wretch's fatal Odyssey!
-
-  The great convulsions of the Deity
-  Rumble in agony across the sky:
-  His thunders rattle in and out the peaks:
-  His lightnings jab at every word He speaks:
-  --At every heavenly curse the cloud is split
-  And daggered lightnings crackle out of it.
-
-  Like a steep shower of snakes the hissing rain
-  Flickers its tongues upon the muddied plain,
-  Writhing and twisting on the gutted rocks
-  That tremble at the heavy thunder-shocks:
-  Soon from the hub on Heaven's axel-tree
-  The frozen hail flies spinning, and the sea
-  Is lashed beneath me to a howling smoke
-  As if the frozen fires of hell had woke
-  And cracked their icy flames in the face of Heaven.
-
-  Withered and crouching and scarce breathing even,
-  And battered as a gnat upon a wall
-  I cling and gasp--climb to my feet, and fall,
-  And crawl at last beneath a lidded stone,
-  Careless if all the earth's foundations groan
-  And strain in the heaving of this devilry,
-  Careless at last whether I live or die.
-
-         *       *       *       *       *
-
-  So the vast Æschylean tragedy
-  Rolls to its thunderous appointed close:
-  With final mutterings each actor goes:
-  And the huge Heavenly tragedian
-  Tears from his face the massy mask and wan,
-  And shines resplendent on the shattered stage
-  As he has done from age to bewildered age,
-  Giving the lie to all his mimic rage.
-
-
-
-
+Mortal I stand upon the lifeless hills
+That jut their cragged bones against the sky:
+I crawl upon their naked ebony,
+And toil across the scars of Titan ills
+Dealt by the weaponing of gods and devils:
+I climb their uppermost deserted levels,
+And see how Heaven glowers his one eye
+Blood-red and black-browed in the sullen sky,
+While all his face is livid as a corpse
+And wicked as a snake's: see how he warps
+His sultry beam across the misted sea,
+As if he grudged its darkling ministry.
+He looks so covetous, I think he hides
+--Jetsam of the slow ethereal tides--
+Some cursed and battered Sailor of the Spheres:
+All night he ravens on him and his peers,
+But with the day he straddles monstrously
+Across the earth in churlish shepherdry,
+A-hungered for his hideous nightly feast.
+But storms are gathering in the whitened East:
+The day grows darker still, and suddenly
+That lone and crafty Prisoner of the Sky
+Plunges his murky torch in Heaven's Eye:
+The blinded, screaming tempest trumpets out
+His windy agonies: Oh, he will spout
+His boiling rains upon the soggy air
+And heave great rocking planets: he will tear
+And snatch the screeching comets by the hair
+To fling them all about him in the sea,
+And blast the wretch's fatal Odyssey!
+The great convulsions of the Deity
+Rumble in agony across the sky:
+His thunders rattle in and out the peaks:
+His lightnings jab at every word He speaks:
+--At every heavenly curse the cloud is split
+And daggered lightnings crackle out of it.
+Like a steep shower of snakes the hissing rain
+Flickers its tongues upon the muddied plain,
+Writhing and twisting on the gutted rocks
+That tremble at the heavy thunder-shocks:
+Soon from the hub on Heaven's axel-tree
+The frozen hail flies spinning, and the sea
+Is lashed beneath me to a howling smoke
+As if the frozen fires of hell had woke
+And cracked their icy flames in the face of Heaven.
+Withered and crouching and scarce breathing even,
+And battered as a gnat upon a wall
+I cling and gasp--climb to my feet, and fall,
+And crawl at last beneath a lidded stone,
+Careless if all the earth's foundations groan
+And strain in the heaving of this devilry,
+Careless at last whether I live or die.
+*       *       *       *       *
+So the vast Æschylean tragedy
+Rolls to its thunderous appointed close:
+With final mutterings each actor goes:
+And the huge Heavenly tragedian
+Tears from his face the massy mask and wan,
+And shines resplendent on the shattered stage
+As he has done from age to bewildered age,
+Giving the lie to all his mimic rage.
 Tramp
-
 (The Bath Road, June)
-
-
-  When a brass sun staggers above the sky,
-  When feet cleave to boots, and the tongue's dry,
-  And sharp dust goads the rolling eye,
-  Come thoughts of wine, and dancing thoughts of girls:
-  They shiver their white arms, and the head whirls,
-  And noon light is hid in their dark curls:
-  Noon feet stumble and head swims.
-  Out shines the sun, and the thought dims,
-  And death, for blood, runs in the weak limbs.
-
-  To fall on flints in the shade of tall nettles
-  Gives easy sleep as a bed of rose petals,
-  And dust drifting from the highway
-  As light a coverlet as down may.
-  The myriad feet of many-sized flies
-  May not open those tired eyes.
-
-  The first wind of night
-  Twitches the coverlet away quite:
-  The first wind and large first rain
-  Flickers the dry pulse to life again.
-  Flickers the lids burning on the eyes:
-  Come sudden flashes of the slipping skies:
-  Hunger, oldest visionary,
-  Hides a devil in a tree,
-  Hints a glory in the clouds,
-  Fills the crooked air with crowds
-  Of ivory sightless demons singing--
-  Eyes start: straightens back:
-  Limbs stagger and crack:
-  But brain flies, brain soars
-  Up, where the Sky roars
-  Upon the back of cherubim:
-  Brain rockets up to Him.
-  Body gives another twist
-  To the slack waist-band;
-  In agony clenches fist
-  Till the nails bite the hand.
-  Body floats light as air,
-  With rain in its sparse hair.
-
-  Brain returns, and would tell
-  The things he has seen well:
-
-  Body will not stir his lips:
-  Mind and Body come to grips.
-
-  Deadly each hates the other
-  As treacherous blood brother.
-
-  No sight, no sound shows
-  How the struggle goes.
-
-  I sink at last faint in the wet gutter;
-  So many words to sing that the tongue cannot utter.
-
-
-
-
+When a brass sun staggers above the sky,
+When feet cleave to boots, and the tongue's dry,
+And sharp dust goads the rolling eye,
+Come thoughts of wine, and dancing thoughts of girls:
+They shiver their white arms, and the head whirls,
+And noon light is hid in their dark curls:
+Noon feet stumble and head swims.
+Out shines the sun, and the thought dims,
+And death, for blood, runs in the weak limbs.
+To fall on flints in the shade of tall nettles
+Gives easy sleep as a bed of rose petals,
+And dust drifting from the highway
+As light a coverlet as down may.
+The myriad feet of many-sized flies
+May not open those tired eyes.
+The first wind of night
+Twitches the coverlet away quite:
+The first wind and large first rain
+Flickers the dry pulse to life again.
+Flickers the lids burning on the eyes:
+Come sudden flashes of the slipping skies:
+Hunger, oldest visionary,
+Hides a devil in a tree,
+Hints a glory in the clouds,
+Fills the crooked air with crowds
+Of ivory sightless demons singing--
+Eyes start: straightens back:
+Limbs stagger and crack:
+But brain flies, brain soars
+Up, where the Sky roars
+Upon the back of cherubim:
+Brain rockets up to Him.
+Body gives another twist
+To the slack waist-band;
+In agony clenches fist
+Till the nails bite the hand.
+Body floats light as air,
+With rain in its sparse hair.
+Brain returns, and would tell
+The things he has seen well:
+Body will not stir his lips:
+Mind and Body come to grips.
+Deadly each hates the other
+As treacherous blood brother.
+No sight, no sound shows
+How the struggle goes.
+I sink at last faint in the wet gutter;
+So many words to sing that the tongue cannot utter.
 Epitaph
-
-
-  Jonathan Barlow loved wet skies,
-    And golden leaves on a rollick wind ...
-  The clouds drip damp on his crumbled eyes,
-    And the storm his roystering dirge hath dinned.
-
-  Proud buck rabbits he loved, and the feel
-    Of a finicky nose that sniffed his hand:
-  So now they burrow, and crop their meal;
-    Their fore-paws scatter him up in sand.
-
-  He loved old bracken, and now it pushes
-    Affectionate roots between his bones:
-  He runs in the sap of the young spring bushes,
-    --Basks, when a June sun warms the stones.
-
-         *       *       *       *       *
-
-  Jonathan Barlow loved his Connie
-    Better than beasts, or trees, or rain ...
-  But her ears are shut to her Golden-Johnnie,
-    And his tap, tap, tap, at her window-pane.
-
-
-
-
+Jonathan Barlow loved wet skies,
+And golden leaves on a rollick wind ...
+The clouds drip damp on his crumbled eyes,
+And the storm his roystering dirge hath dinned.
+Proud buck rabbits he loved, and the feel
+Of a finicky nose that sniffed his hand:
+So now they burrow, and crop their meal;
+Their fore-paws scatter him up in sand.
+He loved old bracken, and now it pushes
+Affectionate roots between his bones:
+He runs in the sap of the young spring bushes,
+--Basks, when a June sun warms the stones.
+*       *       *       *       *
+Jonathan Barlow loved his Connie
+Better than beasts, or trees, or rain ...
+But her ears are shut to her Golden-Johnnie,
+And his tap, tap, tap, at her window-pane.
 Glaucopis
-
-
-  John Fane Dingle
-    By Rumney Brook
-  Shot a crop-eared owl,
-    For pigeon mistook:
-
-  Caught her by the lax wing.
-    --She, as she dies,
-  Thrills his warm soul through
-    With her deep eyes.
-
-  Corpse-eyes are eerie:
-    Tiger-eyes fierce:
-  John Fane Dingle found
-    Owl-eyes worse.
-
-  Owl-eyes on night-clouds,
-    Constant as Fate:
-  Owl-eyes in baby's face:
-    On dish and plate:
-
-  Owl-eyes, without sound.
-    --Pale of hue
-  John died of no complaint,
-    With owl-eyes too.
-
-
-
-
+John Fane Dingle
+By Rumney Brook
+Shot a crop-eared owl,
+For pigeon mistook:
+Caught her by the lax wing.
+--She, as she dies,
+Thrills his warm soul through
+With her deep eyes.
+Corpse-eyes are eerie:
+Tiger-eyes fierce:
+John Fane Dingle found
+Owl-eyes worse.
+Owl-eyes on night-clouds,
+Constant as Fate:
+Owl-eyes in baby's face:
+On dish and plate:
+Owl-eyes, without sound.
+--Pale of hue
+John died of no complaint,
+With owl-eyes too.
 Poets, Painters, Puddings
-
-
-  Poets, painters, and puddings; these three
-  Make up the World as it ought to be.
-
-  Poets make faces
-  And sudden grimaces:
-  They twit you, and spit you
-  On words: then admit you
-  To heaven or hell
-  By the tales that they tell.
-
-  Painters are gay
-  As young rabbits in May:
-  They buy jolly mugs,
-  Bowls, pictures, and jugs:
-  The things round their necks
-  Are lively with checks,
-  (For they like something red
-  As a frame for the head):
-  Or they'll curse you with oaths,
-  That tear holes in your clothes.
-  (With nothing to mend them
-  You'd best not offend them).
-
-  Puddings should be
-  Full of currants, for me:
-  Boiled in a pail,
-  Tied in the tail
-  Of an old bleached shirt:
-  So hot that they hurt,
-  So huge that they last
-  From the dim, distant past
-  Until the crack o' doom
-  Lift the roof off the room.
-
-  Poets, painters, and puddings; these three
-  Crown the day as it crowned should be.
-
-
-
-
+Poets, painters, and puddings; these three
+Make up the World as it ought to be.
+Poets make faces
+And sudden grimaces:
+They twit you, and spit you
+On words: then admit you
+To heaven or hell
+By the tales that they tell.
+Painters are gay
+As young rabbits in May:
+They buy jolly mugs,
+Bowls, pictures, and jugs:
+The things round their necks
+Are lively with checks,
+(For they like something red
+As a frame for the head):
+Or they'll curse you with oaths,
+That tear holes in your clothes.
+(With nothing to mend them
+You'd best not offend them).
+Puddings should be
+Full of currants, for me:
+Boiled in a pail,
+Tied in the tail
+Of an old bleached shirt:
+So hot that they hurt,
+So huge that they last
+From the dim, distant past
+Until the crack o' doom
+Lift the roof off the room.
+Poets, painters, and puddings; these three
+Crown the day as it crowned should be.
 Isaac Ball
-
-
-  Painting pictures
-    Worth nothing at all
-  In a dark cellar
-    Sits Isaac Ball.
-
-  Cobwebs on his butter,
-    Herrings in bed:
-  Stout matted in the hair
-    Of his poor cracked head.
-
-  There he paints Men's Thoughts
-    --Or so says he:
-  For in that cellar
-    It's too dark to see.
-
-  Isaac knew great men,
-    Poets and peers:
-  Treated crown-princes
-    To stouts and beers;
-
-  Some still visit him;
-    Pretend to buy
-  His unpainted pictures--
-    The Lord knows why.
-
-  His grey beard is woolly,
-    Eyes brown and wild:
-  Sticky things in his pocket
-    For anybody's child.
-
-  Someday he'll win fame,
-    --So Isaac boasts,
-  Lecturing half the night
-    To long-legged ghosts.
-
-  Isaac was young once:
-    At sixty-five
-  Still seduces more girls
-    Than any man alive.
-
-
-
-
+Painting pictures
+Worth nothing at all
+In a dark cellar
+Sits Isaac Ball.
+Cobwebs on his butter,
+Herrings in bed:
+Stout matted in the hair
+Of his poor cracked head.
+There he paints Men's Thoughts
+--Or so says he:
+For in that cellar
+It's too dark to see.
+Isaac knew great men,
+Poets and peers:
+Treated crown-princes
+To stouts and beers;
+Some still visit him;
+Pretend to buy
+His unpainted pictures--
+The Lord knows why.
+His grey beard is woolly,
+Eyes brown and wild:
+Sticky things in his pocket
+For anybody's child.
+Someday he'll win fame,
+--So Isaac boasts,
+Lecturing half the night
+To long-legged ghosts.
+Isaac was young once:
+At sixty-five
+Still seduces more girls
+Than any man alive.
 Dirge
-
-
-  To those under smoke-blackened tiles, and cavernous echoing arches,
-  In tortuous hid courts, where the roar never ceases
-  Of deep cobbled streets wherein dray upon dray ever marches,
-  The sky is a broken lid, a litter of smashed yellow pieces.
-
-  To those under mouldering roofs, where life to an hour is crowded,
-  Life, to a span of the floor, to an inch of the light,
-  And night is all fevrous-hot, a time to be bawded and rowdied,
-  Day is a time of grinding, that looks for rest to the night.
-
-  Those who would live, do it quickly, with quick tears, sudden laughter,
-  Quick oaths--terse blasphemous thoughts about God the Creator:
-  Those who would die, do it quickly, with noose from the rafter,
-  Or the black shadowy eddies of Thames, the hurry-hater.
-
-  Life is the Master, the keen and grim destroyer of beauty:
-  Death is a quiet and deep reliever, where soul upon soul
-  And wizened and thwarted body on body are loosed from their duty
-  Of living, and sink in a bottomless, edgeless impalpable hole.
-
-  Dead, they can see far above them, as if from the depth of a pit,
-  Black on the glare small figures that twist and are shrivelled in it.
-
-
-
-
+To those under smoke-blackened tiles, and cavernous echoing arches,
+In tortuous hid courts, where the roar never ceases
+Of deep cobbled streets wherein dray upon dray ever marches,
+The sky is a broken lid, a litter of smashed yellow pieces.
+To those under mouldering roofs, where life to an hour is crowded,
+Life, to a span of the floor, to an inch of the light,
+And night is all fevrous-hot, a time to be bawded and rowdied,
+Day is a time of grinding, that looks for rest to the night.
+Those who would live, do it quickly, with quick tears, sudden laughter,
+Quick oaths--terse blasphemous thoughts about God the Creator:
+Those who would die, do it quickly, with noose from the rafter,
+Or the black shadowy eddies of Thames, the hurry-hater.
+Life is the Master, the keen and grim destroyer of beauty:
+Death is a quiet and deep reliever, where soul upon soul
+And wizened and thwarted body on body are loosed from their duty
+Of living, and sink in a bottomless, edgeless impalpable hole.
+Dead, they can see far above them, as if from the depth of a pit,
+Black on the glare small figures that twist and are shrivelled in it.
 The Singing Furies
-
-
-  The yellow sky grows vivid as the sun:
-  The sea glittering, and the hills dun.
-
-  The stones quiver. Twenty pounds of lead
-  Fold upon fold, the air laps my head.
-
-  Both eyes scorch: tongue stiff and bitter:
-  Flies buzz, but no birds twitter:
-  Slow bullocks stand with stinging feet,
-  And naked fishes scarcely stir for heat.
-
-                  White as smoke,
-  As jetted steam, dead clouds awoke
-  And quivered on the Western rim.
-  Then the singing started: dim
-  And sibilant as rime-stiff reeds
-  That whistle as the wind leads.
-  The North answered, low and clear;
-  The South whispered hard and sere,
-  And thunder muffled up like drums
-  Beat, whence the East wind comes.
-  The heavy sky that could not weep
-  Is loosened: rain falls steep:
-  And thirty singing furies ride
-  To split the sky from side to side.
-  They sing, and lash the wet-flanked wind:
-  Sing, from Col to Hafod Mynd
-  And fling their voices half a score
-  Of miles along the mounded shore:
-  Whip loud music from a tree,
-  And roll their pæan out to sea
-  Where crowded breakers fling and leap,
-  And strange things throb five fathoms deep.
-
-  The sudden tempest roared and died:
-  The singing furies muted ride
-  Down wet and slippery roads to hell:
-  And, silent in their captors' train
-  Two fishers, storm-caught on the main;
-  A shepherd, battered with his flocks;
-  A pit-boy tumbled from the rocks;
-  A dozen back-broke gulls, and hosts
-  Of shadowy, small, pathetic ghosts,
-  --Of mice and leverets caught by flood;
-  Their beauty shrouded in cold mud.
-
-
-
-
+The yellow sky grows vivid as the sun:
+The sea glittering, and the hills dun.
+The stones quiver. Twenty pounds of lead
+Fold upon fold, the air laps my head.
+Both eyes scorch: tongue stiff and bitter:
+Flies buzz, but no birds twitter:
+Slow bullocks stand with stinging feet,
+And naked fishes scarcely stir for heat.
+White as smoke,
+As jetted steam, dead clouds awoke
+And quivered on the Western rim.
+Then the singing started: dim
+And sibilant as rime-stiff reeds
+That whistle as the wind leads.
+The North answered, low and clear;
+The South whispered hard and sere,
+And thunder muffled up like drums
+Beat, whence the East wind comes.
+The heavy sky that could not weep
+Is loosened: rain falls steep:
+And thirty singing furies ride
+To split the sky from side to side.
+They sing, and lash the wet-flanked wind:
+Sing, from Col to Hafod Mynd
+And fling their voices half a score
+Of miles along the mounded shore:
+Whip loud music from a tree,
+And roll their pæan out to sea
+Where crowded breakers fling and leap,
+And strange things throb five fathoms deep.
+The sudden tempest roared and died:
+The singing furies muted ride
+Down wet and slippery roads to hell:
+And, silent in their captors' train
+Two fishers, storm-caught on the main;
+A shepherd, battered with his flocks;
+A pit-boy tumbled from the rocks;
+A dozen back-broke gulls, and hosts
+Of shadowy, small, pathetic ghosts,
+--Of mice and leverets caught by flood;
+Their beauty shrouded in cold mud.
 The Ruin
-
-
-  Gone are the coloured princes, gone echo, gone laughter:
-  Drips the blank roof: and the moss creeps after.
-
-  Dead is the crumbled chimney: all mellowed to rotting
-  The wall-tints, and the floor-tints, from the spotting
-  Of the rain, from the wind and slow appetite
-  Of patient mould: and of the worms that bite
-  At beauty all their innumerable lives.
-
-  --But the sudden nip of knives,
-  The lady aching for her stiffening lord,
-  The passionate-fearful bride
-  And beaded pallor clamped to the torment-board,
-  --Leave they no ghosts, no memories by the stairs?
-  No sheeted glimmer treading floorless ways?
-  No haunting melody of lovers' airs,
-  Nor stealthy chill upon the noon of days?
-  No: for the dead and senseless walls have long forgotten
-  What passionate hearts beneath the grass lie rotten.
-
-  Only from roofs and chimneys pleasantly sliding
-  Tumbles the rain in the early hours:
-  Patters its thousand feet on the flowers,
-  Cools its small grey feet in the grasses.
-
-
-
-
+Gone are the coloured princes, gone echo, gone laughter:
+Drips the blank roof: and the moss creeps after.
+Dead is the crumbled chimney: all mellowed to rotting
+The wall-tints, and the floor-tints, from the spotting
+Of the rain, from the wind and slow appetite
+Of patient mould: and of the worms that bite
+At beauty all their innumerable lives.
+--But the sudden nip of knives,
+The lady aching for her stiffening lord,
+The passionate-fearful bride
+And beaded pallor clamped to the torment-board,
+--Leave they no ghosts, no memories by the stairs?
+No sheeted glimmer treading floorless ways?
+No haunting melody of lovers' airs,
+Nor stealthy chill upon the noon of days?
+No: for the dead and senseless walls have long forgotten
+What passionate hearts beneath the grass lie rotten.
+Only from roofs and chimneys pleasantly sliding
+Tumbles the rain in the early hours:
+Patters its thousand feet on the flowers,
+Cools its small grey feet in the grasses.
 Judy
-
-
-  Sand hot to haunches:
-    Sun beating eyes down,
-  Yet they peer under lashes
-    At the hill's crown:
-
-  See how the hill slants
-    Up the sky half way;
-  Over the top tall clouds
-    Poke, gold and grey.
-
-  Down: see a green field
-    Tipped on its short edge,
-  Its upper rim straggled round
-    By a black hedge.
-
-  Grass bright as new brass:
-    Uneven dark gorse
-  Stuck to its own shadow,
-    _Like Judy that black horse_.
-
-  Birds clatter numberless,
-    And the breeze tells
-  That bean-flower somewhere
-    Has ousted the blue-bells:
-
-  Birds clatter numberless:
-    In the muffled wood
-  Big feet move slowly:
-    Mean no good.
-
-
-
-
+Sand hot to haunches:
+Sun beating eyes down,
+Yet they peer under lashes
+At the hill's crown:
+See how the hill slants
+Up the sky half way;
+Over the top tall clouds
+Poke, gold and grey.
+Down: see a green field
+Tipped on its short edge,
+Its upper rim straggled round
+By a black hedge.
+Grass bright as new brass:
+Uneven dark gorse
+Stuck to its own shadow,
+_Like Judy that black horse_.
+Birds clatter numberless,
+And the breeze tells
+That bean-flower somewhere
+Has ousted the blue-bells:
+Birds clatter numberless:
+In the muffled wood
+Big feet move slowly:
+Mean no good.
 Winter
-
-
-  Snow wind-whipt to ice
-    Under a hard sun:
-  Stream-runnels curdled hoar
-    Crackle, cannot run.
-
-  Robin stark dead on twig,
-    Song stiffened in it:
-  Fluffed feathers may not warm
-    Bone-thin linnet:
-
-  Big-eyed rabbit, lost,
-    Scrabbles the snow,
-  Searching for long-dead grass
-    With frost-bit toe:
-
-  Mad-tired on the road
-    Old Kelly goes;
-  Through crookt fingers snuffs the air
-    Knife-cold in his nose.
-
-  Hunger-weak, snow-dazzled,
-    Old Thomas Kelly
-  Thrusts his bit hands, for warmth
-    'Twixt waistcoat and belly.
-
-
-
-
+Snow wind-whipt to ice
+Under a hard sun:
+Stream-runnels curdled hoar
+Crackle, cannot run.
+Robin stark dead on twig,
+Song stiffened in it:
+Fluffed feathers may not warm
+Bone-thin linnet:
+Big-eyed rabbit, lost,
+Scrabbles the snow,
+Searching for long-dead grass
+With frost-bit toe:
+Mad-tired on the road
+Old Kelly goes;
+Through crookt fingers snuffs the air
+Knife-cold in his nose.
+Hunger-weak, snow-dazzled,
+Old Thomas Kelly
+Thrusts his bit hands, for warmth
+'Twixt waistcoat and belly.
 The Moonlit Journey
-
-
-  Unguarded stands the shuttered sky:
-  The creeping Thief of Night
-  With tool and hook begins to ply
-  His careful picking: he would pry
-  And filch her coffered light.
-  The soundless tapping of his bar
-  Pricks out each sudden star.
-
-  The soundless tapping of his bar
-  Lets out the wealthy Moon:
-  The frozen Bright goes arching far
-  On buttresses of lucid spar
-  And lights the road to Cloun;
-  And all the pouring of her riches
-  Floats on the silent ditches.
-
-  The crescent road is ivory
-  Between the silver water:
-  But squat and black and creeping, see,
-  Blank as the shadow of a tree,
-  Old Robert and his daughter
-  Toil on: and fearful, each descries
-  Moon-gleams in other's eyes.
-
-
-
-
+Unguarded stands the shuttered sky:
+The creeping Thief of Night
+With tool and hook begins to ply
+His careful picking: he would pry
+And filch her coffered light.
+The soundless tapping of his bar
+Pricks out each sudden star.
+The soundless tapping of his bar
+Lets out the wealthy Moon:
+The frozen Bright goes arching far
+On buttresses of lucid spar
+And lights the road to Cloun;
+And all the pouring of her riches
+Floats on the silent ditches.
+The crescent road is ivory
+Between the silver water:
+But squat and black and creeping, see,
+Blank as the shadow of a tree,
+Old Robert and his daughter
+Toil on: and fearful, each descries
+Moon-gleams in other's eyes.
 A Song of the Walking Road
-
-
-  The World is all orange-round:
-  The sea smells salt between:
-  The strong hills climb on their own backs,
-  Coloured and damascene,
-  Cloud-flecked and sunny-green;
-  Knotted and straining up,
-  Up, with still hands and cold:
-  Grip at the slipping sky,
-  Yet cannot hold:
-  Round twists old Earth, and round ...
-  Stillness not yet found.
-
-  Plains like a flat dish, too,
-  Shudder and spin:
-  Roads in a pattern crawl
-  Scratched with a pin
-  Across the fields' dim shagreen:
-  --Dusty their load:
-  But over the craggy hills
-  Wanders the Walking Road!
-
-  Broad as the hill's broad,
-  Rough as the world's rough, too:
-  Long as the Age is long,
-  Ancient and true,
-  Swinging, and broad, and long:
-  --Craggy, strong.
-
-  Gods sit like milestones
-  On the edge of the Road, by the Moon's sill;
-  Man has feet, feet that swing, pound the high hill
-  Above and above, until
-  He stumble and widely spill
-  His dusty bones.
-
-  Round twists old Earth, and round ...
-  Stillness not yet found.
-
-
-
-
+The World is all orange-round:
+The sea smells salt between:
+The strong hills climb on their own backs,
+Coloured and damascene,
+Cloud-flecked and sunny-green;
+Knotted and straining up,
+Up, with still hands and cold:
+Grip at the slipping sky,
+Yet cannot hold:
+Round twists old Earth, and round ...
+Stillness not yet found.
+Plains like a flat dish, too,
+Shudder and spin:
+Roads in a pattern crawl
+Scratched with a pin
+Across the fields' dim shagreen:
+--Dusty their load:
+But over the craggy hills
+Wanders the Walking Road!
+Broad as the hill's broad,
+Rough as the world's rough, too:
+Long as the Age is long,
+Ancient and true,
+Swinging, and broad, and long:
+--Craggy, strong.
+Gods sit like milestones
+On the edge of the Road, by the Moon's sill;
+Man has feet, feet that swing, pound the high hill
+Above and above, until
+He stumble and widely spill
+His dusty bones.
+Round twists old Earth, and round ...
+Stillness not yet found.
 The Sermon (Wales, 1920)
-
-
-  Like gript stick
-  Still I sit:
-  Eyes fixed on far small eyes,
-  Full of it:
-  On the old, broad face,
-  The hung chin;
-  Heavy arms, surplice
-  Worn through and worn thin.
-  Probe I the hid mind
-  Under the gross flesh:
-  Clutch at poetic words,
-  Follow their mesh
-  Scarce heaving breath.
-  Clutch, marvel, wonder,
-  Till the words end.
-
-  Stilled is the muttered thunder:
-  The hard, few people wake,
-  Gather their books and go ...
-  --Whether their hearts could break
-  How can I know?
-
-
-
-
+Like gript stick
+Still I sit:
+Eyes fixed on far small eyes,
+Full of it:
+On the old, broad face,
+The hung chin;
+Heavy arms, surplice
+Worn through and worn thin.
+Probe I the hid mind
+Under the gross flesh:
+Clutch at poetic words,
+Follow their mesh
+Scarce heaving breath.
+Clutch, marvel, wonder,
+Till the words end.
+Stilled is the muttered thunder:
+The hard, few people wake,
+Gather their books and go ...
+--Whether their hearts could break
+How can I know?
 The Rolling Saint
-
-
-  Under the crags of Teiriwch,
-  The door-sills of the Sun,
-  Where God has left the bony earth
-  Just as it was begun;
-  Where clouds sail past like argosies
-  Breasting the crested hills
-  With mainsail and foretopsail
-  That the thin breeze fills;
-  With ballast of round thunder,
-  And anchored with the rain;
-  With a long shadow sounding
-  The deep, far plain:
-  Where rocks are broken playthings
-  By petulant gods hurled,
-  And Heaven sits a-straddle
-  The roof-ridge of the World:
-  --Under the crags of Teiriwch
-  Is a round pile of stones,
-  Large stones, small stones,
-  --White as old bones;
-  Some from high places
-  Or from the lake's shore;
-  And every man that passes
-  Adds one more--
-  The years it has been growing
-  Verge on a hundred score.
-
-  For in the Cave of Teiriwch
-  That scarce holds a sheep,
-  Where plovers and rock-conies
-  And wild things sleep,
-  A woman lived for ninety years
-  On bilberries and moss
-  And lizards and small creeping things,
-  And carved herself a cross:
-  But wild hill robbers
-  Found the ancient saint
-  And dragged her to the sunlight,
-  Making no complaint.
-  Too old was she for weeping,
-  Too shrivelled and too dry:
-  She crouched and mumle-mumled
-  And mumled to the sky.
-  No breath had she for wailing,
-  Her cheeks were paper-thin:
-  She was, for all her holiness,
-  As ugly as sin.
-
-  They cramped her in a barrel
-  --All but her bobbing head
-  --And rolled her down from Teiriwch
-  Until she was dead:
-  They took her out and buried her
-  --Just broken bits of bone
-  And rags and skin, and over her
-  Set one small stone:
-  But if you pass her sepulchre
-  And add not one thereto
-  The ghost of that old murdered Saint
-  Will roll in front of you
-  The whole night through.
-
-  The clouds sail past in argosies
-  And cold drips the rain:
-  The whole world is far and high
-  Above the tilted plain.
-  The silent mists float eerily,
-  And I am here alone:
-
-  Dare I pass the place by
-  And cast not a stone?
-
-
-
-
+Under the crags of Teiriwch,
+The door-sills of the Sun,
+Where God has left the bony earth
+Just as it was begun;
+Where clouds sail past like argosies
+Breasting the crested hills
+With mainsail and foretopsail
+That the thin breeze fills;
+With ballast of round thunder,
+And anchored with the rain;
+With a long shadow sounding
+The deep, far plain:
+Where rocks are broken playthings
+By petulant gods hurled,
+And Heaven sits a-straddle
+The roof-ridge of the World:
+--Under the crags of Teiriwch
+Is a round pile of stones,
+Large stones, small stones,
+--White as old bones;
+Some from high places
+Or from the lake's shore;
+And every man that passes
+Adds one more--
+The years it has been growing
+Verge on a hundred score.
+For in the Cave of Teiriwch
+That scarce holds a sheep,
+Where plovers and rock-conies
+And wild things sleep,
+A woman lived for ninety years
+On bilberries and moss
+And lizards and small creeping things,
+And carved herself a cross:
+But wild hill robbers
+Found the ancient saint
+And dragged her to the sunlight,
+Making no complaint.
+Too old was she for weeping,
+Too shrivelled and too dry:
+She crouched and mumle-mumled
+And mumled to the sky.
+No breath had she for wailing,
+Her cheeks were paper-thin:
+She was, for all her holiness,
+As ugly as sin.
+They cramped her in a barrel
+--All but her bobbing head
+--And rolled her down from Teiriwch
+Until she was dead:
+They took her out and buried her
+--Just broken bits of bone
+And rags and skin, and over her
+Set one small stone:
+But if you pass her sepulchre
+And add not one thereto
+The ghost of that old murdered Saint
+Will roll in front of you
+The whole night through.
+The clouds sail past in argosies
+And cold drips the rain:
+The whole world is far and high
+Above the tilted plain.
+The silent mists float eerily,
+And I am here alone:
+Dare I pass the place by
+And cast not a stone?
 Weald
-
-
-  Still is the leaden night:
-  The film-eyed moon
-  Spills hardly any light,
-  But nods to sleep--And soon
-  Through five broad parishes there is no sound
-  But the far melancholy wooing
-  Of evil-minded cats; and the late shoeing
-  Of some unlucky filly by the ford.
-
-  For twenty miles abroad there is no moving,
-  But for the uncomfortable hooving
-  Of midnight cows a-row in Parson's Lag:
-  --That; and the slow twist of water round a snag.
-
-  The silver mist that slumbers in the hollow
-  Dreams of a breeze, and turns upon its side,
-  So sleep uneasy: but no breezes follow,
-  Only the moon blinks slowly thrice, wan-eyed.
-  --I think this is the most unhappy night
-  Since hot-cheeked Hecuba wept in the dawn.
-  --There never was a more unhappy night,
-  Not that when Hero's lamp proved unavailing,
-  Nor that when Bethlehem was filled with wailing ...
-
-  ... There is no reason for unhappiness,
-  Save that the saddened stars have hid their faces,
-  And that dun clouds usurp their brilliant places,
-  And that the wind lacks even strength to sigh.
-
-  And yet, as if outraged by some long tune
-  A dog cries dolefully, green-eyed in the moon ...
-
-
-
-
+Still is the leaden night:
+The film-eyed moon
+Spills hardly any light,
+But nods to sleep--And soon
+Through five broad parishes there is no sound
+But the far melancholy wooing
+Of evil-minded cats; and the late shoeing
+Of some unlucky filly by the ford.
+For twenty miles abroad there is no moving,
+But for the uncomfortable hooving
+Of midnight cows a-row in Parson's Lag:
+--That; and the slow twist of water round a snag.
+The silver mist that slumbers in the hollow
+Dreams of a breeze, and turns upon its side,
+So sleep uneasy: but no breezes follow,
+Only the moon blinks slowly thrice, wan-eyed.
+--I think this is the most unhappy night
+Since hot-cheeked Hecuba wept in the dawn.
+--There never was a more unhappy night,
+Not that when Hero's lamp proved unavailing,
+Nor that when Bethlehem was filled with wailing ...
+... There is no reason for unhappiness,
+Save that the saddened stars have hid their faces,
+And that dun clouds usurp their brilliant places,
+And that the wind lacks even strength to sigh.
+And yet, as if outraged by some long tune
+A dog cries dolefully, green-eyed in the moon ...
 The Jumping-Bean (A curious bean, with a small maggot in it, who comes
 to life and tumbles his dwelling at the stimulus of warmth)
-
-
-  Sun in a warm streak
-    Striping the plush:
-  Catch breath, hold finger tight:
-    All delight hush.
-
-  Dance, small grey thing
-    Sleek in the warm sun:
-  Roll around, to this, to that,
-    --Rare wormy fun!
-
-  Hot sun applauds thee:
-    Warm fingers press
-  To wake the small life within
-    Thy rotund dress.
-
-  Alack! Have years in cupboard,
-    In chill and dark,
-  Stifled thy discontent?
-    Snufft thy spark?
-
-  Liest thou stark, stiff,
-    There in thy bed?
-  _Weep then a dirge for him:
-    Poor Bean's dead!_
-
-
-
-
+Sun in a warm streak
+Striping the plush:
+Catch breath, hold finger tight:
+All delight hush.
+Dance, small grey thing
+Sleek in the warm sun:
+Roll around, to this, to that,
+--Rare wormy fun!
+Hot sun applauds thee:
+Warm fingers press
+To wake the small life within
+Thy rotund dress.
+Alack! Have years in cupboard,
+In chill and dark,
+Stifled thy discontent?
+Snufft thy spark?
+Liest thou stark, stiff,
+There in thy bed?
+_Weep then a dirge for him:
+Poor Bean's dead!_
 Old Cat Care outside the Cottage (1918)
-
-
-  Green-eyed Care
-  May prowl and glare
-  And poke his snub, be-whiskered nose:
-  But Door fits tight
-  Against the Night:
-  Through criss-cross cracks no evil goes.
-
-  Window is small:
-  No room at all
-  For Worry and Money, his shoulder-bones:
-  Chimney is wide,
-  But Smoke's inside
-  And happy Smoke would smother his moans.
-
-  Be-whiskered Care
-  May prowl out there:
-  But I never heard
-  He caught the Blue Bird!
-
-
-
-
+Green-eyed Care
+May prowl and glare
+And poke his snub, be-whiskered nose:
+But Door fits tight
+Against the Night:
+Through criss-cross cracks no evil goes.
+Window is small:
+No room at all
+For Worry and Money, his shoulder-bones:
+Chimney is wide,
+But Smoke's inside
+And happy Smoke would smother his moans.
+Be-whiskered Care
+May prowl out there:
+But I never heard
+He caught the Blue Bird!
 Cottager is given the Bird (1921)
-
-
-  Sidelong the Bird ran,
-      Hard-eyed on the turned mould:
-  Was door--window--wide?
-      --Then Heart grew kettle-cold.
-
-  Might no wind-suckt curtain
-      Dim that travelling Eye?
-  Could Door's thick benediction
-      Deafen: if he should cry?
-
-  Sidelong the Bird crept
-      Into the stark door:
-  His yellow, lidless eye!
-      Foot chill to the stone floor!
-
-  ... Then Smoke, that slender baby,
-      To Hearth's white Niobe-breast
-  Sank trembling--dead. Oh Bird,
-      Bird, spare the rest!
-
-         *       *       *       *       *
-
-  He has bidden bats to flit
-      In Window's wide mouth:
-  Starlings to tumble, and mock
-      Poor Pot's old rusty drouth:
-
-  And a wet canker, nip
-      Those round-breasted stones
-  That I hugged to strong walls
-      With the love of my strained bones.
-
-  He bad lank Spider run,
-      Grow busy, web me out
-  With dusty trespass stretcht
-      From mantel to kettle-spout.
-
-  Door, Window, Rafter, Chimney,
-      Grow silent, die:
-  All are dead: all moulder:
-      Sole banished mourner I.
-
-  See how the Past rustles
-      Stirring to life again ...
-  Three whole years left I lockt
-      Behind that window-pane.
-
-
-
-
+Sidelong the Bird ran,
+Hard-eyed on the turned mould:
+Was door--window--wide?
+--Then Heart grew kettle-cold.
+Might no wind-suckt curtain
+Dim that travelling Eye?
+Could Door's thick benediction
+Deafen: if he should cry?
+Sidelong the Bird crept
+Into the stark door:
+His yellow, lidless eye!
+Foot chill to the stone floor!
+... Then Smoke, that slender baby,
+To Hearth's white Niobe-breast
+Sank trembling--dead. Oh Bird,
+Bird, spare the rest!
+*       *       *       *       *
+He has bidden bats to flit
+In Window's wide mouth:
+Starlings to tumble, and mock
+Poor Pot's old rusty drouth:
+And a wet canker, nip
+Those round-breasted stones
+That I hugged to strong walls
+With the love of my strained bones.
+He bad lank Spider run,
+Grow busy, web me out
+With dusty trespass stretcht
+From mantel to kettle-spout.
+Door, Window, Rafter, Chimney,
+Grow silent, die:
+All are dead: all moulder:
+Sole banished mourner I.
+See how the Past rustles
+Stirring to life again ...
+Three whole years left I lockt
+Behind that window-pane.
 A Man
-
-
-  He is a man in love with grass,
-  He shivers at a tree:
-  Thrill of wing in briar-bushes
-  Wildly at his heart pushes
-  Like the first, faint hint
-  A lover is let see.
-
-  If he had known a wordless song
-  As a bird he would sing;
-  Who took delight in slim rabbits,
-  Watched their delicate habits,
-  --Waited, by the briar-bush,
-  That flutter of wooing.
-
-  _Why did he break that small wing?_
-  The sun looks hollowly:
-  Mocking's where the water goes;
-  The breeze bitter in his nose:
-  Mocking eyes wide burning
-  --Lost, lost is he!
-
-
-
-
+He is a man in love with grass,
+He shivers at a tree:
+Thrill of wing in briar-bushes
+Wildly at his heart pushes
+Like the first, faint hint
+A lover is let see.
+If he had known a wordless song
+As a bird he would sing;
+Who took delight in slim rabbits,
+Watched their delicate habits,
+--Waited, by the briar-bush,
+That flutter of wooing.
+_Why did he break that small wing?_
+The sun looks hollowly:
+Mocking's where the water goes;
+The breeze bitter in his nose:
+Mocking eyes wide burning
+--Lost, lost is he!
 Moon-Struck
-
-
-  Cold shone the moon, with noise
-  The night went by.
-  Trees uttered things of woe:
-  Bent grass dared not grow:
-
-  Ah desperate man with haggard eyes
-  And hands that fence away the skies
-  On rock and briar stumbling,
-  Is it fear of the storm's rumbling,
-  Of the hissing cold rain,
-  Or lightning's tragic pain
-  Drives you so madly?
-  See, see the patient moon;
-  How she her course keeps
-  Through cloudy shallows and across black deeps,
-  Now gone, now shines soon:
-  Where's cause for fear?
-
-  'I shudder and shudder
-  At her bright light:
-  I fear, I fear,
-  That she her fixt course follows
-  So still and white
-  Through deeps and shallows
-  With never a tremor:
-  Naught shall disturb her.
-  I fear, I fear
-  What they may be
-  That secretly bind her:
-  What hand holds the reins
-  Of those sightless forces
-  That govern her courses.
-  Is it Setebos
-  Who deals in her command?
-  Or that unseen Night-Comer
-  With tender curst hand?
-  --I shudder, and shudder.'
-
-  Poor storm-wisp, wander!
-  Wind shall not hurt thee,
-  Rain not appal thee,
-  Lightning not blast thee;
-  Thou art worn so frail
-  Only the moonlight pale
-  To an ash shall burn thee,
-  To an invisible Pain.
-
-
-
-
+Cold shone the moon, with noise
+The night went by.
+Trees uttered things of woe:
+Bent grass dared not grow:
+Ah desperate man with haggard eyes
+And hands that fence away the skies
+On rock and briar stumbling,
+Is it fear of the storm's rumbling,
+Of the hissing cold rain,
+Or lightning's tragic pain
+Drives you so madly?
+See, see the patient moon;
+How she her course keeps
+Through cloudy shallows and across black deeps,
+Now gone, now shines soon:
+Where's cause for fear?
+'I shudder and shudder
+At her bright light:
+I fear, I fear,
+That she her fixt course follows
+So still and white
+Through deeps and shallows
+With never a tremor:
+Naught shall disturb her.
+I fear, I fear
+What they may be
+That secretly bind her:
+What hand holds the reins
+Of those sightless forces
+That govern her courses.
+Is it Setebos
+Who deals in her command?
+Or that unseen Night-Comer
+With tender curst hand?
+--I shudder, and shudder.'
+Poor storm-wisp, wander!
+Wind shall not hurt thee,
+Rain not appal thee,
+Lightning not blast thee;
+Thou art worn so frail
+Only the moonlight pale
+To an ash shall burn thee,
+To an invisible Pain.
 Ænigma
-
-
-  How can I tell it?
-    I saw a thing
-  That I did not find strange
-    In my visioning.
-
-  A flawless tall mirror,
-    Glass dim and green;
-  And a tall, dim figure
-    There was between:
-
-  Pale, so pale her face
-    As veils of thin water;
-  And her eyes water-pale,
-    And the moonlight on her;
-
-  And she was dying, dying;
-    She combed her long hair,
-  And the crimson blood ran
-    In the fine gold there.
-
-  She was dying, dying ...
-    And in her perfect eye
-  No terror lurked; nor pity
-    That she should so die.
-
-
-
-
+How can I tell it?
+I saw a thing
+That I did not find strange
+In my visioning.
+A flawless tall mirror,
+Glass dim and green;
+And a tall, dim figure
+There was between:
+Pale, so pale her face
+As veils of thin water;
+And her eyes water-pale,
+And the moonlight on her;
+And she was dying, dying;
+She combed her long hair,
+And the crimson blood ran
+In the fine gold there.
+She was dying, dying ...
+And in her perfect eye
+No terror lurked; nor pity
+That she should so die.
 Lament for Gaza
-
-
-  You who listen, pity
-  Gaza, this poor city;
-  For now the roof rocks,
-  And the blind god's hands
-  Grope at the pillars where he stands:
-  While Gaza mocks,
-  While Gaza mocks.
-
-
-
-
+You who listen, pity
+Gaza, this poor city;
+For now the roof rocks,
+And the blind god's hands
+Grope at the pillars where he stands:
+While Gaza mocks,
+While Gaza mocks.
 The Image
-
-
-  Dim the light in your faces: be passionless in the room.
-  Snuffed are the tapers, and bitterly hang on the flowerless air:
-  See: and this is the Image of her they will lay in the tomb,
-  Clear, and waxen, and cooled in the mass of her hair.
-
-  Quiet the tears in your voices: feel lightly, finger, for finger
-  In love: then see how like is the Image, but lifelessly fashioned
-  And sightless, calm, unloving ... Oh who is the Artist? Oh linger
-  And ponder whither has flitted his Sitter Impassioned.
-
-
-
-
+Dim the light in your faces: be passionless in the room.
+Snuffed are the tapers, and bitterly hang on the flowerless air:
+See: and this is the Image of her they will lay in the tomb,
+Clear, and waxen, and cooled in the mass of her hair.
+Quiet the tears in your voices: feel lightly, finger, for finger
+In love: then see how like is the Image, but lifelessly fashioned
+And sightless, calm, unloving ... Oh who is the Artist? Oh linger
+And ponder whither has flitted his Sitter Impassioned.
 Felo de Se
-
-
-  If I were stone dead and buried under,
-  Is there a part of me would still wander,
-  Shiver, mourn, and cry Alack,
-  With no body to its back?
-
-  When brain grew mealy, turned to dust,
-  Would lissom Mind, too, suffer rust?
-  Immortal Soul grow imbecile,
-  Having no brain to think and feel?
-
-  --Or grant it be as priests say,
-  And growth come on my death-day:
-  Suppose Growth came: would Certainty?
-  Or would Mind still a quester be,
-
-  Frame deeper mysteries, not find them out,
-  And wander in a larger Doubt?
-  --Alas, if to Mind's petty stir
-  Death prove so poor a silencer:
-
-  Though veins when emptied a few hours
-  Of this hot blood, might suckle flowers:
-  _From spiritual flames that scorch me
-  Never, never were I free!_
-
-  Then back, Death! Till I call thee
-  Hast come too soon!
-  ... _Thou silly worm, gnaw not
-  Yet thine intricate cocoon._
-
-
-
-
+If I were stone dead and buried under,
+Is there a part of me would still wander,
+Shiver, mourn, and cry Alack,
+With no body to its back?
+When brain grew mealy, turned to dust,
+Would lissom Mind, too, suffer rust?
+Immortal Soul grow imbecile,
+Having no brain to think and feel?
+--Or grant it be as priests say,
+And growth come on my death-day:
+Suppose Growth came: would Certainty?
+Or would Mind still a quester be,
+Frame deeper mysteries, not find them out,
+And wander in a larger Doubt?
+--Alas, if to Mind's petty stir
+Death prove so poor a silencer:
+Though veins when emptied a few hours
+Of this hot blood, might suckle flowers:
+_From spiritual flames that scorch me
+Never, never were I free!_
+Then back, Death! Till I call thee
+Hast come too soon!
+... _Thou silly worm, gnaw not
+Yet thine intricate cocoon._
 The Birds-nester
-
 _A Memorial, to an Unfortunate Young Man, Expelled from his University
 for a Daring Neologism_
-
-
-  Critic, that hoary Gull, in air
-      Whistles, whistles shrilly:
-  Climbing Youth, beware
-      Murder and mockery!
-
-  That wheeling, hoary gull
-  Bats on his thin skull,
-  Claws at his steady eyes,
-  Whinnies and cries:
-  Youth flings the gibe back.
-  Hundreds of wings clack,
-  Bright eyes encircle, search
-  For foothold's fatal lurch.
-  'See now he shifts his grip:
-  Loosen each finger-tip!
-  Whew, brothers, shall he slip?'
-  Crack-tendoned, answers Youth
-  'I seek for Eggs of Truth.'
-
-  Claws clutch his hair,
-  Beaks prick his eyes--
-  'Whistle, _Despair_, _Despair!_
-  With ancient quills prise
-  Every hand's--foot's--hold,
-  Wedged in the rock's fold!
-  Batter and scream, bewilder
-  This impious babel-buil ...
-                            whew!
-  Down he is rocketing falling twisting.'
-
-  For days and nights
-  Time's curly breakers
-  Winnow him, wash him ...
-  What is that stirs?
-  What wing from the heights
-  Slants to that murdered limb?
-
-  Gull's peering eye bath spotted
-  Something the sea has rotted.
-  Secretly to the feast
-  Dives big gull, less, and least;
-  For Age never dies:
-  Age shall pick out his eyes,
-  Taste them with critick zest,
-  --Age knows the Best!
-  --Age shall build his lair
-  Out of his hair:
-  Gulp his small splintered bones
-  To his gizzard, for stones:
-  Feed on his words
-  All his young woolly birds.
-
-  Say not he died in vain!
-  All that he cried in pain
-  Ear-cocked Age hearkens to
-  Someday. Declares it true
-  Someday.
-
-  What though he fell? The jest
-  Feathers old Critic's nest.
-
-
-
-
+Critic, that hoary Gull, in air
+Whistles, whistles shrilly:
+Climbing Youth, beware
+Murder and mockery!
+That wheeling, hoary gull
+Bats on his thin skull,
+Claws at his steady eyes,
+Whinnies and cries:
+Youth flings the gibe back.
+Hundreds of wings clack,
+Bright eyes encircle, search
+For foothold's fatal lurch.
+'See now he shifts his grip:
+Loosen each finger-tip!
+Whew, brothers, shall he slip?'
+Crack-tendoned, answers Youth
+'I seek for Eggs of Truth.'
+Claws clutch his hair,
+Beaks prick his eyes--
+'Whistle, _Despair_, _Despair!_
+With ancient quills prise
+Every hand's--foot's--hold,
+Wedged in the rock's fold!
+Batter and scream, bewilder
+This impious babel-buil ...
+whew!
+Down he is rocketing falling twisting.'
+For days and nights
+Time's curly breakers
+Winnow him, wash him ...
+What is that stirs?
+What wing from the heights
+Slants to that murdered limb?
+Gull's peering eye bath spotted
+Something the sea has rotted.
+Secretly to the feast
+Dives big gull, less, and least;
+For Age never dies:
+Age shall pick out his eyes,
+Taste them with critick zest,
+--Age knows the Best!
+--Age shall build his lair
+Out of his hair:
+Gulp his small splintered bones
+To his gizzard, for stones:
+Feed on his words
+All his young woolly birds.
+Say not he died in vain!
+All that he cried in pain
+Ear-cocked Age hearkens to
+Someday. Declares it true
+Someday.
+What though he fell? The jest
+Feathers old Critic's nest.
 By arrangement with the author, and with the gracious permission of his
 publishers, _The Golden Cockerel Press, Waltham Saint Lawrence,
 Berkshire, England_, this edition of _Gipsy-Night and Other Poems_
 becomes the third publication issued by _The Private Press of Will
 Ransom: Maker of Books, 14 West Washington Street, Chicago, U. S. A._
-
 Composition and presswork by _Will Ransom_, assisted by _Edmond A.
 Hunt_; binding by _Anthony Faifer_. Printing finished _September 30th,
-1922_.
-
-[Illustration]
-
-
-       *       *       *       *       *
-
-
+*       *       *       *       *
 Transcriber's Notes
-
-
 Obvious printer errors were silently corrected.
-
 Archaic and variable spelling was preserved.
-
-
-
-
-
-End of the Project Gutenberg EBook of Gipsy-Night and Other Poems, by 
 Richard Arthur Warren Hughes
-

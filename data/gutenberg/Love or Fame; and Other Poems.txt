@@ -1,50 +1,27 @@
-he Project Gutenberg Etext of Love or Fame; and Other Poems by Fannie
+ame; and Other Poems by Fannie
 Isabelle Sherrick
-
-
 Copyright laws are changing all over the world, be sure to check
 the copyright laws for your country before posting these files!!
-
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-
-
 **Welcome To The World of Free Plain Vanilla Electronic Texts**
-
 **Etexts Readable By Both Humans and By Computers, Since 1971**
-
 *These Etexts Prepared By Hundreds of Volunteers and Donations*
-
-Information on contacting Project Gutenberg to get Etexts, and
 further information is included below.  We need your donations.
-
-
 Love or Fame; and Other Poems
-
 by Fannie Isabelle Sherrick
-
 February, 2001  [Etext #2491]
-
-
-The Project Gutenberg Etext of Love or Fame; and Other Poems by Fannie
 Isabelle Sherrick
 ******This file should be named 2491.txt or 2491.zip******
-
 This etext was produced by Brett Fishburne (bfish@atlantech.net)
-
-Project Gutenberg Etexts are usually created from multiple editions,
 all of which are in the Public Domain in the United States, unless a
 copyright notice is included.  Therefore, we usually do NOT keep any
 of these books in compliance with any particular paper edition.
-
-
 We are now trying to release all our books one month in advance
 of the official release dates, leaving time for better editing.
-
 Please note:  neither this list nor its contents are final till
 midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
@@ -53,10 +30,6 @@ in the first week of the next month.  Since our ftp program has
 a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
-
-
-Information about Project Gutenberg (one page)
-
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
 to get any etext selected, entered, proofread, edited, copyright
@@ -67,60 +40,38 @@ million dollars per hour this year as we release thirty-six text
 files per month, or 432 more Etexts in 1999 for a total of 2000+
 If these reach just 10% of the computerized population, then the
 total should reach over 200 billion Etexts given away this year.
-
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
 Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
 This is ten thousand titles each to one hundred million readers,
 which is only ~5% of the present number of computer users.
-
 At our revised rates of production, we will reach only one-third
 of that goal by the end of 2001, or about 3,333 Etexts unless we
 manage to get some real funding; currently our funding is mostly
 from Michael Hart's salary at Carnegie-Mellon University, and an
 assortment of sporadic gifts; this salary is only good for a few
 more years, so we are looking for something to replace it, as we
-don't want Project Gutenberg to be so dependent on one person.
-
 We need your donations more than ever!
-
-
-All donations should be made to "Project Gutenberg/CMU": and are
 tax deductible to the extent allowable by law.  (CMU = Carnegie-
 Mellon University).
-
 For these and other matters, please mail to:
-
-Project Gutenberg
 P. O. Box  2782
 Champaign, IL 61825
-
 When all other email fails. . .try our Executive Director:
 Michael S. Hart <hart@pobox.com>
 hart@pobox.com forwards to hart@prairienet.org and archive.org
 if your mail bounces from archive.org, I will still see it, if
 it bounces from prairienet.org, better resend later on. . . .
-
 We would prefer to send you this information by email.
-
 ******
-
-To access Project Gutenberg etexts, use any Web browser
 to view http://promo.net/pg.  This site lists Etexts by
 author and by title, and includes information about how
-to get involved with Project Gutenberg.  You could also
 download our past Newsletters, or subscribe here.  This
 is one of our major sites, please email hart@pobox.com,
 for a more complete list of our various sites.
-
 To go directly to the etext collections, use FTP or any
-Web browser to visit a Project Gutenberg mirror (mirror
 sites are available on 7 continents; mirrors are listed
 at http://promo.net/pg).
-
 Mac users, do NOT point and click, typing works better.
-
 Example FTP session:
-
 ftp metalab.unc.edu
 login: anonymous
 password: your@login
@@ -130,15 +81,8 @@ dir [to see files]
 get or mget [to get files. . .set bin for zip files]
 GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
 GET GUTINDEX.ALL [to get a listing of ALL books]
-
 ***
-
-**Information prepared by the Project Gutenberg legal advisor**
-
 (Three Pages)
-
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
 your copy of this etext, even if you got it for free from
@@ -146,28 +90,19 @@ someone other than us, and even if what's wrong is not our
 fault.  So, among other things, this "Small Print!" statement
 disclaims most of our liability to you.  It also tells you how
 you can distribute copies of this etext if you want to.
-
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
 etext, you indicate that you understand, agree to and accept
 this "Small Print!" statement.  If you do not, you can receive
 a refund of the money (if any) you paid for this etext by
 sending a request within 30 days of receiving it to the person
 you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
 tm etexts, is a "public domain" work distributed by Professor
-Michael S. Hart through the Project Gutenberg Association at
 Carnegie-Mellon University (the "Project").  Among other
 things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
 without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
-
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
@@ -177,18 +112,9 @@ corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
 But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
 liability to you for damages, costs and expenses, including
 legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -198,101 +124,52 @@ such person may choose to alternatively give you a replacement
 copy.  If you received it electronically, such person may
 choose to alternatively give you a second opportunity to
 receive it electronically.
-
-THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
 Some states do not allow disclaimers of implied warranties or
 the exclusion or limitation of consequential damages, so the
 above disclaimers and exclusions may not apply to you, and you
 may have other legal rights.
-
-INDEMNITY
 You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
 or addition to the etext, or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
 or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     etext or this "small print!" statement.  You may however,
-     if you wish, distribute this etext in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word pro-
-     cessing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The etext, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The etext may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the etext (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          etext in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Project of 20% of the
-     net profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Association/Carnegie-Mellon
-     University" within the 60 days following each
-     date you prepare (or were legally required to prepare)
-     your annual (or equivalent periodic) tax return.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+requires that you do not remove, alter or modify the
+etext or this "small print!" statement.  You may however,
+if you wish, distribute this etext in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word pro-
+cessing or hypertext software, but only so long as
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the etext (as is
+the case, for instance, with most word processors);
+no additional cost, fee or expense, a copy of the
+etext in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+"Small Print!" statement.
+net profits you derive calculated using the method you
+already use to calculate your applicable taxes.  If you
+don't derive profits, no royalty is due.  Royalties are
+University" within the 60 days following each
+date you prepare (or were legally required to prepare)
+your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
 free copyright licenses, and every other sort of contribution
-you can think of.  Money should be paid to "Project Gutenberg
 Association / Carnegie-Mellon University".
-
 We are planning on making some changes in our donation structure
 in 2000, so you might want to email me, hart@pobox.com beforehand.
-
-
-
-
 *END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
-
-
-
-
-
-
 Love or Fame; and Other Poems, by Fannie Isabelle Sherrick
-
-
-
 Contents.
-
-
-
-
 Part I.
 Girlhood . . . . . . . . . . . . . . . . . . . . . .  5-10.
 Part II.
@@ -351,23 +228,9 @@ Sunset on the Mississippi  . . . . . . . . . . . . .   141.
 Not Dead but Sleeping  . . . . . . . . . . . . . . .   143.
 A Sunbeam  . . . . . . . . . . . . . . . . . . . . .   145.
 The Phantom of Love  . . . . . . . . . . . . . . . 148-152.
-
-
-
-
-
 Love or Fame.
-
-
-
-
-
 Part I.
 Girlhood
-
-
-
-
 Girlhood, the dearest time of joy and love,
 The sunny spring of gladness and of peace,
 The time that joins its links with heaven above,
@@ -378,12 +241,10 @@ The fleeting days go by; fair womanhood
 Comes oft to lure the girlish feet away,
 But by the brooklet still they love to stray,
 Nor long to seek the world's engulfing flood.
-
 Hilda--a name that seems to stand alone--
 So strong, so clear it sharply echoing tone;
 And yet a name that holds a weirdlike grace,
 Withal like some strange, haunting, beauteous face;
-
 A woman's name, by woman's truth made dear,
 That leans upon itself and knows no fear,
 And yet a name a shrinking girl might wear,
@@ -396,7 +257,6 @@ Not yet she feels the longing, vague unrest
 That ever fills the woman's throbbing breast,
 But with a childlike questioning after truth,
 She lingers yet amid the dreams of youth.
-
 And now upon the bounding ocean's shore
 She stands where creep the wavelets more and more,
 Until at last the rocky ledge they meet,
@@ -405,8 +265,7 @@ Her eyes glance downward in a careless way,
 As though she loved their soft caressing play,
 And fain would stand and muse forever there,
 Lulled by their murmuring sound.
-
-                                  Placid and fair
+Placid and fair
 The ocean lies before her dreamy eyes,
 Stretched forth in beauty 'neath the sunny skies,
 And through the clouds' far lifting, sheeny mist
@@ -415,14 +274,12 @@ Enraptured by the calm and holy scene,
 She stands a creature pure and glad; serene,
 Her eyes glance heavenward and a roseate shade
 Plays o'er her Hebe features--perfect made.
-
 A child of nature, she has never known
 The arts and wiles which worldlier spirits own;
 She loves the ocean's ever changing play,
 When round her form is flung its dashing spray,
 And oft she laughs in wildest, merriest glee
 When folded close within its billows free.
-
 She loves the wildwood's green and leafy maze,
 Within whose foliage hide the sun's bright rays;
 And like a child she hoards the bright-eyed flowers,
@@ -435,7 +292,6 @@ To watch the dark ships as they wander home.
 Strange dreams in this calm hour her fancies weave,
 So quaint and odd, they seem but shadowy rays,
 Caught from the sunset's deep, mysterious haze.
-
 Lo! now she stands like some pale statue fair,
 With eyes cast down and careless falling hair;
 She vaguely dreams of things that are to be,
@@ -446,7 +302,6 @@ Her life to one true heart, and with a glow
 Of pride she vows her future life to live
 So good and true that all her days shall seem
 But the fulfillment of his heart's proud dream.
-
 Yet soon she trembles with some unknown thought,
 A vague and restless longing fills her breast,
 And with a passionate fear her mind is wrought.
@@ -457,7 +312,6 @@ Is turned unto the skies, but no, not here
 Will God speak all unto her listening ear;
 Too soon in dark, deep strife upon this shore
 Her soul will yield its peace forevermore.
-
 And then she hurries home with flying feet,
 The faces of that humble home to meet;
 For there in peace her dear old parents dwell,
@@ -474,7 +328,6 @@ And like a fragile flower before the storm,
 She bows her head and ends her slender form,
 For even like the flower she must stand
 And brave the tempest, for 'tis God's command.
-
 And like to her how many a girl has stood
 Upon the unknown brink of womanhood
 And sought in vain from guiding hand and power;
@@ -503,8 +356,7 @@ The eyes see not that should be strong and keen;
 While powerless, weak girlhood stands between
 The tides of life, and though its aims are high,
 How often will they fail!
-
-                           Where dangers lie
+Where dangers lie
 Poor Hilda stands and knows it not, the dream
 Of life to her is bright, youth's sunny gleam
 Shines over all in tender, softened light,
@@ -517,18 +369,8 @@ The unknown forces grow and cast their blight,
 Till all the past is lost in one dark night;
 Unto the woman's lot her life is cast,
 And like a dream the girlish days drift past.
-
-
-
-
-
 Part II.
 The Storm.
-
-
-
-
-
 One eve she stood upon a lonely lea
 And watched the deep'ning shadows grim
 That threw their forms athwart the restless sea,
@@ -549,7 +391,6 @@ And while her eyes with love and rapture filled,
 Of all that weird and strangely splendid scene,
 All other thoughts within her soul were stilled,
 While o'er her head fair spirits seemed to lean.
-
 Around her grew a stillness unto death,
 The waves their ever restless motion stayed;
 All living nature seemed to hold its breath,
@@ -564,7 +405,6 @@ Until at last all sky and earth and sea
 Seemed filled with shadows from its darkening wings---
 That dreadful spell cast over waves once free,
 Hushed into silence deep all living things.
-
 And still the maiden's watching, eager eyes
 Were fixed unmoved on black'ning sea and skies;
 So motionless she stood with hands clasped close
@@ -577,7 +417,6 @@ That called her on to some far different life,
 'Mid active minds and noisy, changing strife.
 With beating heart she saw the clouds unfold,
 Within their depths there gleamed a crown of gold.
-
 Too soon the scene had faded from the skies,
 While o'er the earth the threat'ning cloud had spread
 That rudely thrust itself before her eyes
@@ -588,7 +427,6 @@ That dreary silence by foretold the storm
 That soon would rage within the night's dark gloom;
 A deathly hush o'er waiting land and sea,
 And then with one loud clap the storm cloud burst.
-
 Behold! the elements again set free,
 As if with fearful spell they'd long been curst,
 Now vented all the power of stifled birth
@@ -609,7 +447,6 @@ Long, long she knelt, her soul in prayer thrown,
 Unheeding still the lightning's lurid glare;
 For what were raging storms and nature's moan
 To that mad strife within her bosom fair!
-
 At last the lightnings ceased, the winds grew still;
 All powers recognized God's mightier will;
 Old ocean, like a child with passion spent,
@@ -620,7 +457,6 @@ Along the sable robes that veiled the sky,
 The red stars glowed, yet paled each tiny fire
 Before the yellow moon, who, throned on high,
 Hung on her crescent bow a golden lyre.
-
 From Hilda, too, the stormy grief had fled,
 And with a strange, deep peace inspired, she rose
 From off the rocks and lifted up her head.
@@ -631,7 +467,6 @@ Then dawned upon her lips, for god her prayer
 Had heard; that harp of gold--these skies now fair,
 Seemed but the emblem that her soul's dark strife
 Should lead her soon unto a nobler life.
-
 Beyond her, on the ledge, a dark form stood,
 Regarding her with wistful, wondering eyes;
 He seemed the type of all that's true and good
@@ -640,7 +475,6 @@ The radiance fell and crowned his youthful head,
 While on his brow a dim, vague majesty
 Seemed shadowed forth.  Yet restless as the sea
 His eyes that Hilda's fair young face had read.
-
 With beating heart he'd watched her kneeling there
 Upon the rocks; had listened to her prayer
 In silence wondering; so strange it seemed
@@ -657,7 +491,6 @@ He loved as even the sun must love the flowers
 That shyly glance to him 'neath leafy bowers,
 Or as the river with its strong deep tide
 Must love the willows nestling by its side.
-
 She stood as one within a waking dream,
 Nor looked upon the earth, nor in the sky;
 But only far at sea whose amber gleam
@@ -670,12 +503,10 @@ She turns--beside her on the rocks he stands
 With questioning eyes and eager, outstretched hands;
 She smiles, then starts back with a startled look,
 As some wild fawn within its sheltered nook.
-
 "Fair Hilda, tell me why with reckless feet
 You braved the elements and dared to kneel
 Here in the angry storm--it was not meet
 That all this night's wild tempest you should feel."
-
 She looked at him with almost haughty air,
 To think that to reprove her he should dare;
 Then fearlessly as some undaunted child
@@ -690,7 +521,6 @@ Of that wild spirit born amid the storm
 Whose restless strength had swayed her fragile form.
 Before his own she laid her very soul,
 That he might there its inmost thoughts unroll.
-
 Her pleading voice grew stronger with each word,
 Until enthralled and hushed his spirit heard.
 Upright she stood in girlish, thrilling grace,
@@ -699,7 +529,6 @@ It seemed as though some heavenly, unknown power
 Had come to her within that strange, short hour,
 To make the listener feel the truth divine
 That lingered in her words and true design.
-
 Her rich young voice flowed on and on,
 In silvery cadence earnest, clear and strong,
 And still he stood with bowed head 'neath the skies
@@ -712,12 +541,10 @@ Amazed he stood, before her words struck dumb;
 And startled gazed--the maid he loved had come
 This night to teach him that her woman's soul
 Had dared to seek, than his, a higher goal.
-
 At last each thought was told; with eager eyes
 That glowed with fire, as stars throughout the night,
 She waited as some birdling ere it flies,
 Awaits to poise itself for stronger flight.
-
 But he, when that dear voice had ceased to flow,
 Awoke as if from some entrancing spell;
 He knew not what to say, but to and fro,
@@ -726,7 +553,6 @@ He knew her dauntless will, her fearless heart;
 He dared not say her dreams, her plans were naught,
 And yet to lose her--quickly came the thought--
 It roused him with a sudden mad'ning start.
-
 "Oh! Hilda unto me these things do seem
 But burning traces of some ill-starred dream;
 I grieve that e'er thy soul should long to claim
@@ -747,7 +573,6 @@ But Hilda, with a girl's weak, erring hand,
 Thy hopes are builded on the treacherous sand.
 Give up this dream that in thy mind now lies
 And be again my Hilda, glad and wise."
-
 "No, no" the dark eyes flash with sudden fire,
 "Of this bright dream I know I ne'er shall tire;
 The busy world has called me, I will go
@@ -776,7 +601,6 @@ If that I knew could save thee from one tear.
 Than werefore take from my thy presence dear?
 If thou would'st wear a crown, why leave this scene?
 But stay! I'll crown thee as my love--my queen."
-
 She sadly drew away with troubled mien,
 O'er bending face a heightened color spread,
 "You cannot understand me yet," she said,
@@ -787,7 +611,6 @@ I'd use it that the world should better grow;
 I long for fame because I then should know
 My power was felt and recognized--but stay,
 My words are vain, you sadly turn away."
-
 "Choose, Hilda," then once more he proudly cried;
 Upon his face there gleamed a passionate pride;
 "Between this love that I now offer thee
@@ -800,7 +623,6 @@ If once 'tis dead your woman's heart my grieve
 Itself to death; return it never will,
 And like the sun, a shadow it may leave
 Whose glory, dead and gone, will haunt you still."
-
 Her eyes were filled with grief, her head bent low,
 Upon the shore the waves crept to and fro,
 Their moan was vaguely echoed in her breast
@@ -813,14 +635,12 @@ It rose unto a glow, then died away
 In fitful gleams; on drooping eyelids lay
 A weight, yet 'neath those heavy veils of snow
 The dark eyes quivered with a restless glow.
-
 She could not speak, mute as the rocks that stand
 In stony silence now and evermore,
 She stood, while stars looked down from heaven's shore
 And pitied her.  Unto his proud command
 Her heart had not yet dared to make reply
 Lest in those words a deeper pain should lie.
-
 Impatient grown, he paces to and fro
 Upon the rocks, then on the tide below,
 Looks down with troubled frowns and stifled sighs.
@@ -837,7 +657,6 @@ Lest in a trackless waste thy soul shall stray,
 And as this meteor, flash and fade away,
 While all unmoved the world's calm eyes shall gaze,
 Nor give one tear unto thy shortened days."
-
 Back from her face the waves of crimson rolled,
 And left it pale as death; as flowers unfold
 Their dewy depths, to him her liquid eyes
@@ -850,7 +669,6 @@ Oh! seek not in my sorely troubled breast
 To rouse again its strength of dark unrest;
 For better were my heart in torture wrung
 Than linger here and leave its song unsung."
-
 With sad, sad eyes he looked into her face,
 Then turned aside with grand, unconscious grace,
 And bravely stifled every wayward sigh,
@@ -879,12 +697,10 @@ Upon thy brow is still as dear to me
 As sunlight to each flower and budding tree.
 One look into those eyes I love so well,
 And then, dear one--a sad, a last farewell."
-
 With that he caught her small and trembling hand;
 With simple royal grace and gesture grand,
 He pressed it to his lips, then let it fall;--
 His dream of love had passed beyond recall.
-
 That touch awakened all her woman's love,
 Her heart responded to his silent cry;
 As flowers love the strong, brave sun above,
@@ -895,7 +711,6 @@ Oh! blessed is that love and faith indeed,
 Which knows no doubt but only feels its need;
 That unsought love which comes and fills the breast
 Because we cannot help--that is the best.
-
 With soft caressing touch unto his own
 She pressed her hand, then backward swept the hair
 Whose shining wreath around her form was thrown;
@@ -908,31 +723,26 @@ This childlike girl had wakened this hour.
 Its might swept o'er his soul with fearful power--
 He dared not move--a silence strange and deep
 Fell o'er them both, as some half-waking sleep.
-
 To lose her! ah! the fearful, madd'ning thought,
 Unto a wilder grief his soul it wrought;
 With desperate pride he wrestled with his pain
 Lest she should see it in his face again.
 But ah! what slender chain of love is this
 That can be broken with a last warm kiss!
-
 With longing eyes she stood there by his side,
 Her looks fixed on the ocean's tireless tide,
 Then gazed down on the robes that swept her feet;
 His searching eyes she dared not, could not meet;
 And why? within her own the dark tears stood,
 True signs of weak and loving womanhood.
-
 At last she put aside her love's young dream,
 And all the brighter did its glory seem
 Because it must be banished from her heart.
 They stood so near, and yet how far apart--
 A gulf had come between them, vast and wide,
 A gulf made by her longing, restless pride.
-
 With low and trembling voice at last she said
 With sadly falling tears and bended head:
-
 "Oh! Adrian, my faint heart fain would dwell
 Forever here beneath thy love's dear spell;
 But ah! beyond the height where breaks the day,
@@ -947,7 +757,6 @@ Forgive me if to-night I've caused thee pain--
 If grief be thine, forgive me once again.
 Farewell! when from thy life my love is fled,
 Henceforth to thee let Hilda's name be dead."
-
 And this was all--vague shadows crept around,
 The waves sung in his ears their moaning sound;
 He looked in vain for Hilda's dear, sweet face,
@@ -956,17 +765,8 @@ To him.  In vain he called forth in despair;
 His words returned upon the empty air.
 Like some pale spirit she had stolen from him
 And left him there 'mid shadows dark and grim.
-
-
-
-
-
 Part III.
 Fame.
-
-
-
-
 Oh what is fame! a flower that dies at eve,
 A golden mist that subtle fancies weave,
 An unknown star that wise men never see,
@@ -977,7 +777,6 @@ There is no rest by day, no sleep by night;
 The eyes are blinded by the dazzling light.
 Ah! woe to him who first espies the star,
 It hath the power his life to make or mar.
-
 Amid the sombre draperies of the sky,
 The faintly-gleaming stars half-hidden lie;
 Upon Night's bending head a hood of snow
@@ -994,7 +793,6 @@ Paris, that brilliant city, gleams to-night
 With glittering lights that hide her ghastly woes;
 In mockery she's robed in bridal white,
 Though in her heart a tide of crimson flows.
-
 The city is aglow with wealth and pride;
 A gilded hall is thronged from side to side
 With fashion's train of beauteous dames, who smile
@@ -1013,7 +811,6 @@ Rich jewels gleam and proud eyes quickly glance,
 And costly robes each womanly charm enhance,
 From tempting coral lips gay laughter flies,
 To be reflected o'er in arch, coquettish eyes.
-
 But see! each tongue is hushed within that hall,
 From dainty hands gay fans unheeded fall;
 While eyes that one glad moment just before
@@ -1022,12 +819,10 @@ Are looking now, forgetting lovers' sighs,
 To see the veiling curtain slowly rise:
 And breathless waits that glittering, changing throng,
 To hear once more their idol's rippling song.
-
 A face divine, a crown of braided hair,
 Dark eyes that gleam with proud and passionate air,
 A robe of snowy satin sweeping wide,
 A brow that shadows forth a noble pride.
-
 And she is here--the queen of song, Arline,
 With flashing eyes and proud triumphant mien.
 She smiles--she knows her potent power full well;
@@ -1046,7 +841,6 @@ Of weird, sad passion that awakes each soul
 Into a mad, sweet ecstasy of pain;
 Then low the waves of dying music roll
 And leave the air in silence once again.
-
 Ah! conquering song, thou wert not born of earth,
 Celestial stars proclaim thy heavenly birth!
 And proud Arline, with wondrous, thrilling art,
@@ -1063,7 +857,6 @@ Then sing, Arline, uplift your starry eyes,
 Awake the very echoes of the skies,
 And rouse to nobler deeds this eager throng;--
 In all the world there's naught so sweet as song.
-
 But hush--in low sad strains the music dies,
 Low at her feet a wealth of flowers lies;
 She smiles--the world's bright fame is clearly won,
@@ -1076,7 +869,6 @@ Fear not, for she is thine; within thy flame
 Her soul enraptured burns--and love's sad pain
 Is all forgotten in this brilliant hour
 That proves too well her strange and gifted power.
-
 But see! still deeper grows the crimson glow
 Upon her face, for at her feet a crown
 Is thrown of royal roses; bending down
@@ -1094,8 +886,7 @@ With burnished hues of brown and amber rare,
 Falls o'er the shaded brow; while sweeping low,
 The long, dark lashes hide the deepening glow
 In downcast eyes.
-
-                   Oh! painter, do not tell
+Oh! painter, do not tell
 Of silvery streams and shaded, flowery dell,
 Nor talk of clouds with faces to the sun,
 That hang low down where golden rivers run.
@@ -1109,11 +900,9 @@ If this you cannot do, then talk no more
 Of nature's wealth of deep and mystic lore--
 Of waving grass and azure skies; a face
 Is worth them all.
-
-                    She stands in sunny grace,
+She stands in sunny grace,
 A woman--the fairest picture e'er was wrought;
 A poem fresh from God's own living thought.
-
 She turns again, for once more at her feet
 A few fair flowers fall--spell-bound she stands,
 Then stoops and clasps them all with eager hands;
@@ -1144,12 +933,10 @@ See! 'neath your feet the crown of roses lies
 All crushed and torn; then lift your proud, dark eyes
 Unto this throng once more, and let them see
 Within those depths, a spirit strong and free.
-
 The fragrant breath of flowers she loves so well
 Breathes on her face and wraps her in a spell;
 So often may a flower's fair perfume
 Bring back the sunny past--the present gloom.
-
 Arline, Arline, the world is at your feet,
 Why droop your head, why grow so still and pale?
 Are flowers worth tears, does life no joys repeat?
@@ -1164,8 +951,7 @@ Into a rapturous dream.  Upon the floor
 There lies his off'ring--turn your steps apart
 And crush it not, for he will grieve, Arline,
 To see it this.
-
-                 At last her troubled eyes
+At last her troubled eyes
 Are raised once more, and now a gentle queen
 She stands before them all--the shadow dies--
 A softened splendor like the night's weird grace
@@ -1204,50 +990,42 @@ And strangely thrilled by its sweet melody;
 They cannot know what thoughts may dwell in thee.
 A song may wake the echoes of the soul
 And o'er each life the tides of memory roll.
-
 The music dies--she fain would go--but no.
 They call her back, again her dark eyes glow
 With longing light; once more she stands and sings
 The plaintive words whose hidden sorrow rings
 Through every heart.  These words her lips repeat;
 The crowd move not; they listen at her feet.
-
-
 When nobler lips than mine shall sing
- Of faith and holy love;
+Of faith and holy love;
 And angles round thee closer fling
- Their glory from above;
+Their glory from above;
 Then think thou of my sad, long song,
- In realms far, far away;
+In realms far, far away;
 Though brighter memories round thee throng
- To gild each happy day.
-
+To gild each happy day.
 When fond lips with their glad, dear thrill,
- Shall press thine own once more;
+Shall press thine own once more;
 And softly of their own free will
- Shall whisper love's sweet lore;
+Shall whisper love's sweet lore;
 Then think of one who loved thee well
- In happy days gone by;
+In happy days gone by;
 Though round thee glows a golden spell
- That carries thee on high.
-
+That carries thee on high.
 Perhaps when each brave life is o'er
- And duties are well done;
+And duties are well done;
 Our hearts shall meet as once of yore
- Beneath a brighter sun.
+Beneath a brighter sun.
 And there, where life and love are well,
- We never more shall part;
+We never more shall part;
 While will return the olden spell
- To bind us heart to heart.
-
-
+To bind us heart to heart.
 A parting glance--a glimpse of dreamy eyes,
 A fair young face on which a shadow lies;
 And she is gone, the plaintive song is done.
 Arline has faded as the setting sun
 Fades from the skies, and left no parting trace,
 Save memories of her pale and haunting face.
-
 'Tis twelve o'clock, the city lies asleep,
 And far above, within the azure deep,
 The jeweled stars keep watch.  Down from the skies
@@ -1268,7 +1046,6 @@ As rifts in hanging clouds through which the rays
 Of silvery moonlight glance, so o'er each heart
 Steal flitting gleams of happy golden days,
 When in life's drama sorrow took no part.
-
 Into a stately dwelling dark and old,
 A woman glides with troubled, weary air
 Her face is pale, her hands are white and cold,
@@ -1283,7 +1060,6 @@ This missive gave to me.  I looked around,---
 For one brief moment his face upon me frowned,
 Then he was gone, and though I scanned the street,
 His form again my glances did not meet."
-
 The lady takes the note with careless hands,
 Then turns to where the ling'ring maid still stands
 And bids her go.  At last she is alone,
@@ -1310,7 +1086,6 @@ Within the rippling measures of my song
 The choicest treasures of the world belong.
 Why seek for more, the world and fame are mine,
 Then wherefore love, though love should be divine?"
-
 At last she reads the note; upon her face
 A deep indifference lies,--a cold, calm grace;
 But suddenly her eyes light up, her hands
@@ -1321,17 +1096,14 @@ At first her eyes are filled with unshed tears,
 Brought back by memories of other years;
 Anon, her mind by wondering fear is wrought
 Awakened by some new unwelcome thought.
-
 Ah! these the words that stir her heart and soul,
 And write new truths on life's unwritten scroll.
-
 "Arline, from all the world thou fame hast won.
 A crown thou wear'st that fades not with the sun;
 Yet chide me not, if now unto thy ear
 I speak such words as thou may'st grieve to hear,
 For I shall give thee tidings from the shore
 Which knows thy face and welcome step no more.
-
 "The two beloved ones left alone, each day,
 Grieved more and more until in peace at last
 The bounding line of life was safely past,
@@ -1346,7 +1118,6 @@ This gave them joy indeed, yet more of pain.
 For thus they knew their hopes were all in vain.
 Allured unto the world was thy young heart;---
 The gay, bright world in which they had no part.
-
 "But, ere thy mother's eyes were closed in sleep,
 She gave to me a secret strange to keep;
 'Twas this, that though they called thee daughter, child,
@@ -1385,12 +1156,10 @@ Into the world's deep tide thy life is cast,
 Yet thou art still the mistress of thy fate.
 If thou would'st wear thy birthright's name and power
 Speak but the word and claim thy rightful dower."
-
 And this is all, her head is bending low,
 From shaded eyes the tears unbidden flow.
 Across her face the darkening shadows fly
 That tell too well the thoughts that hidden lie.
-
 "Oh, God! where is the joy that honor brings,
 Where is the spell a golden glory flings,
 When one short hour, like this, of passing pain,
@@ -1407,7 +1176,6 @@ My life had not been thus.  Can fame, though dear,
 Replace that loss or save me from one tear?
 And can it fill my heart through all the years---
 Oh, God! be kind, my heart is full of fears."
-
 A passionate misery o'er her fair face swept,
 It awakened all the fires that long had slept.
 She threw the missive down, and paced the floor
@@ -1424,7 +1192,6 @@ Are hearts no better when they hear my song!
 My visions fair,--Oh! are they then but dreams,
 That do no good, but only lure my heart
 From woman's truer paths in life apart?
-
 "Oh! Adrian, had'st thou then the better thought,
 And have I but a web of sorrow wrought?
 Do all our hopes but lead to care and pain,
@@ -1435,7 +1202,6 @@ Oh, God! in heaven, guide thy child to-night,
 Upon my longings shed thy holiest light.
 Oh! mother, with thy tender, loving eyes,
 Look down upon me from the starlit skies."
-
 Upon her knees she sinks upon the floor
 As one upon a wild and stormy shore;
 Her face against the velvet cushion pressed
@@ -1444,7 +1210,6 @@ Her robes of satin sweep the floor; her hair
 Unloosened, falls low down, a golden snare
 Of wondrous lights and shades; and pale and cold
 Her face gleams 'neath that veil of brown and gold.
-
 Her breath comes quick, she battles with the storm
 That gathers in her breast and trembling form.
 She stills her heart--heeds not its painful throb,
@@ -1462,7 +1227,7 @@ The lids lay closed, a moonlit splendor lies
 Upon her broad, white brow, and cheeks of snow
 Are pressed against the crimson velvet's glow
 On which her head is lain.
-                            Oh, ne'er was wrought
+Oh, ne'er was wrought
 A fairer form than thine, Arline, nor thought
 Was ever purer than thine own; though wild
 And free thy life has ever been, a child
@@ -1480,17 +1245,8 @@ Then rest, Arline; upon thy pale, young face
 There falls the peace of heaven, a lovely grace;
 Around thy head the moon's bright, silver rays
 Are not more stainless than thy youthful days.
-
-
-
-
-
 Part IV.
 Broken Links
-
-
-
-
 Low in the West, a banner floating wide
 Of God's own colors hangs in dreamy pride;
 A wealth of purple stains and gleams of gold,
@@ -1505,7 +1261,6 @@ Oh! such the sunset sky of Italy,
 The land of dreams, of love and melody;
 The country of the passions and the heart,
 The mother of th' ideal and of art.
-
 Oh, painter! still your heart's wild throb and cry,
 You cannot paint this sunset tough you try;
 The canvas cannot rival Nature's skies,
@@ -1518,7 +1273,6 @@ Though all your soul in quivering rapture lies,
 Your pen brings not those clouds to other eyes.
 Though Art has power, still Nature is the queen,
 Her hand alone commands this glorious scene.
-
 Back from the shore there stands a villa old
 And quaint, upon a sloping flower-wreathed hill,
 Along the side thee flows a singing rill;
@@ -1531,7 +1285,6 @@ Without, a view of waves, and skies, and flowers;
 Within a dim, luxurious sense of hours,
 Of ease and wealth; a spot where one could dwell
 Forever 'neath some strange, enchanted spell.
-
 Upon the steps a woman stands--alone,
 Her lovely face, a trifle paler grown
 Since last we looked upon its haunting grace.
@@ -1546,7 +1299,6 @@ And as she bends to touch each smiling flower,
 Her hands seem gifted with a magic power
 That draws unto herself their clinging love,
 As human tendrils drawn to God above.
-
 At last with ling'ring steps she takes her way
 To where great massive rocks like near the bay;
 Upon a rock which seems a resting place,
@@ -1561,7 +1313,6 @@ Her dark brown hair, with gleams of flitting gold,
 Her queenly head encircles as a crown;
 A wealth of hair whose careless waves enfold
 The quivering sunlight, and its rays chain down.
-
 But soon she starts, for even at her side
 There stands a youthful from with fearless pride;
 At first upon her face a deep surprise,
@@ -1570,7 +1321,6 @@ As turning round she views the handsome face
 So near her own with careless, easy grace.
 "Why come you here?" she says, "why follow me?
 Oh! from thy presence can I ne'er be free?"
-
 "Arline!" he tosses back his sunny hair,
 Half kneels before her with a humble air;
 "Forgive me, for the fault indeed is mine
@@ -1579,7 +1329,6 @@ But oh! Arline, without thee life is naught,
 An idle dream, with only longings fraught;
 And once, Arline, you listened to my prayer,
 Nor turned away with cold and haughty air."
-
 She looks upon him with a face aglow:
 "Why bring back memories of the long ago?
 The past is dead, wake not its depths again,
@@ -1590,7 +1339,6 @@ I have allowed my heart to hear thy prayer."
 "Yes, yes, Arline," he speaks with eager air,
 "I know full well your love was mine, and I
 Now claim the hand your heart cannot deny."
-
 "Lorraine, how can you speak such words to me?
 My love was never thine, my heart is free;
 You know full well I was but kind, Lorraine,
@@ -1609,38 +1357,32 @@ At last to fly from thee, the season o'er,
 I refuge sought upon this lonely shore;
 And though the riches of the world were thine,
 They could not win for thee one thought of mine."
-
 His face grows darker with a fiery pride,
 His eyes flash forth the love he cannot hide;
 He rises to his feet, across his soul
 A passionate fury his will cannot control,
 Bursts forth:
-
-               "Arline, you know not what is love!
+"Arline, you know not what is love!
 To tell me this, for by the fates above,
 You shall be mine!  See, yonder is my boat,
 Upon the waves with me you soon shall float.
 Hush! rouse me not or you shall see
 What angry might your scorn has wrought in me."
-
 "Lorraine!" she meets his gaze with fearless eyes,
 Though on each cheek a burning crimson lies.
 She folds her arms and stands before him there
 A womanly woman, pure, and good, and fair.
 She says no word, but who can tell the power
 An earnest woman wields in such an hour?
-
 He turns away--a silence falls--the night
 Is coming on, the sun has taken flight,
 Upon the skies a veiling shadow lies.
 She moves not--from her face the color dies
 And leaves it pale and calm.
-
-                              Unto her side
+Unto her side
 He comes again:  "Forgive my hasty pride,
 Arline, for me thou are too purely good,
 And far above me is thy womanhood."
-
 For answer she extends her jeweled hand,
 He takes it with a loving awe, as though
 It were a sacred thing, and thus they stand.
@@ -1653,7 +1395,6 @@ You lived and loved"--to Arline's questioning eyes
 There came a startled look--a vague surprise--
 "The one you loved, Arline, no more loves you,
 Although, perchance, you dream that he is true."
-
 Why grow so pale, Arline, why stand so still?
 Have you no woman's pride? no woman's will?
 Why should you care? the world is yours and fame,
@@ -1664,7 +1405,6 @@ Lorraine is watching you with searching eyes,
 Before his gaze your poor heart quivering lies;
 He still speaks on, his words are sure, though slow,
 They find the truth he long has sought to know.
-
 Back from her face she sweeps the heavy hair,
 And looks up with a proud, unconquered air;
 Ah! few have wills like hers to do or die,
@@ -1677,7 +1417,6 @@ You do not seem to know nor even care;
 You tell me that you love, yet love is rare
 And generous, its truth you ne'er can know,
 If thus within the dust you trail it low."
-
 The night has come, the clouds are hanging low,
 Their splendor gone, the wind begins to blow,
 It shifts the clouds across the gloomy sky,
@@ -1688,7 +1427,6 @@ From rock to rock across the frowning hill,
 And deep within the vale, a muttering sound
 Of far-off thunder rolls along the ground,
 A herald of the storm, then all is still.
-
 And yet they heed it not, "Arline!  Arline!"
 He cries with flashing eyes, "my peerless queen,
 I cannot give you up, you must be mine;
@@ -1708,8 +1446,7 @@ Give me your hand, I'll lead you to the place
 Where waits my boat; before the storm comes on
 We'll reach the farther coast, for I am strong
 And young."
-
-             His face is close to hers--she starts
+His face is close to hers--she starts
 And with a shudder shuts her frightened eyes;
 A silence as of death--the storm-cloud parts;
 A sheet of lightning flashes o'er the skies,
@@ -1746,8 +1483,7 @@ And looks upon her face with dread and fear,
 Then tenderly he wipes away the red,
 Dark stains, and with a strong, yet tender grace,
 Uplifts her to his arms.
-
-                          Her marble face
+Her marble face
 Lies close unto his own--he bends his head
 And is he any less the man because one tear
 Falls on that wayward face so proud and dear?
@@ -1757,14 +1493,12 @@ What bitterness he feels--that slender form
 Within his arms.  Beneath the fierce wild storm
 He hurries to her stately home, and there
 Her followers wait with hushed and frightened air.
-
 Oh! can it be that she is dead, Arline--
 The idol of his heart, the world's proud queen?
 No, no; it must not be, her white lids move,
 She wakes once more to life and song and love.
 The pale lips quiver with a sudden pain,
 The lashes half unveil the eyes again.
-
 He gives her up, and leaves her to their care--
 When she awakes she must not find him there.
 Oh! brave, warm heart, your love indeed is true,
@@ -1773,17 +1507,8 @@ True love is like the watching stars of night,
 They shine for aye though eyes see not their light.
 And Adrian, fear not, God hears your cry,
 In His strong hand your fears and sorrows lie.
-
-
-
-
-
 Part V.
 Love
-
-
-
-
 And what is life?--a pleasure and a pain,
 A vision of the sun--a day of rain.
 And what is love?--a dream, a chain of gold
@@ -1794,14 +1519,12 @@ A woman's life is full of longing days,
 Her heart is not content to live on praise;
 She must have more; a woman measures life
 By length of love, a man by deeds and strife.
-
 Arline! once more we greet thy sunny face.
 Once more behold thy noble, earnest grace;
 But ah, how changed! the hopes of youth are dead;
 Life's dark unrest has bowed thy proud young head,
 And fame the mocking vision of thy youth,
 Has led thee from the paths of peace and truth.
-
 With longing eyes Arline is standing now,
 Her arms are folded with a weary air;
 The same deep pride is written on her brow,
@@ -1814,12 +1537,10 @@ She glances up--recoils with haughty pride,
 Which all her self-possession cannot hide;
 Then with a look of pity on her face
 She meets Lorraine with kind, forgiving grace.
-
 "Arline, I would that I had died indeed
 Before I gave thee pain, my heart has need
 Of thy forgiveness, else I cannot live,
 I crave the boon that only thou canst give."
-
 "Lorraine, the highest graces of a woman's heart
 Are purity and truth, no cunning art
 Can e'er replace these gifts; 'gainst sin and wrong
@@ -1828,7 +1549,6 @@ In life.  With these she conquers man's dark pride
 And wins the tributes that to Heaven belong.
 To womanhood belongs forgiveness too,
 And therefore is my pardon given you."
-
 With humbled pride he bowed his proud young head,
 Then looking in her face he gently said:
 "'Tis nobly given; if women were all like thee,
@@ -1849,14 +1569,12 @@ Yet, fair Arline, oh, with thy lovely grace,
 Uplift my soul unto the realm of thine;
 And with thy tender eyes and pitying face,
 Oh lead to worthier deeds this heart of mine!"
-
 "Lorraine, each one must know the price of sin,
 Each erring heart must know what lies within;
 If we would live aright we must be true
 Unto ourselves; I cannot govern you;
 For ah! we may not read another's mind,
 God puts there thoughts that we may never find.
-
 "We should not judge, for hearts indeed are weak,
 And vain and selfish, are the ends we seek;
 But each temptation, if we do not fall,
@@ -1865,7 +1583,6 @@ Think not thy way is right nor full of power,
 For every heart must have its wayward hour;
 And though men grieve thee with their outward sin,
 Remember nobler thoughts may dwell within.
-
 "And now I thank you for your refeverent love,
 And yet I feel you place me far above
 My own right sphere.  I am a woman weak,
@@ -1921,15 +1638,13 @@ Of sin.  If every woman would allure
 By graces true as thine, there would be less
 Of sorrow and of pain, and man would bless
 The day that God gave woman to him."
-
-                                      Her eyes
+Her eyes
 Are turned to him with eager, glad surprise;
 "I thank you for these words," she says, "for true
 I feel they are, and in my heart anew
 I welcome hope.  And we are friends again,
 The past indeed is dead."
-
-                           A look of pain
+A look of pain
 Came in his eyes, yet with a new-born pride
 He turned away, that look from her to hide.
 "To-night I go, Arline, we meet no more,
@@ -1938,24 +1653,20 @@ To soothe each wayward hour, to lighten care;
 Thy simple teachings have unlocked the door
 Of life's best thoughts to me, and if I grow
 to better manhood, you have made me so."
-
 Upon her bending head and gentle face
 A sunbeam fell and lit with mystic grace
 Her dark, uplifted eyes, then quickly fled
 To mingle with the sunset's dying red.
-
 A sunny face--a noble womanhood,
 A heart's wild passion dead, a new-born pride;
 One moment looking on her face he stood,
 Then turned and went forever from her side.
-
 The twilight comes, the first-born child of night,
 A warning monitor of time's quick flight;
 A dear, enchanted hour, when all are near
 We love on earth, and yet an hour of fear
 When shadows of the past around us fall
 And joy and hope have fled beyond recall.
-
 Within the twilight of the present day,
 And shadows of the years now past away,
 Arline is standing with a sad, sad air,
@@ -1968,7 +1679,6 @@ When once the mind is roused to questioning thought
 With endless misery it may be wrought;
 The happiest minds are those that question not--
 To live in faith is mankind's fairest lot.
-
 And darker grow the shadows of the night,
 She looks upon the sea, the distant height;
 Upon the waves the ships go gliding by,
@@ -1978,8 +1688,7 @@ And shadowy the far-off mountains seem;
 Oh!  Fame, where is thy joy? oh! love's bright dream,
 Where is thy spell? life, like the night, is dim
 And sorrowful.
-
-                Low droops her young head fair,
+Low droops her young head fair,
 Her whispered words steal on the silent air:
 "Oh, what is life, my soul, when love has fled?--
 And every one that I have loved is dead,
@@ -2003,8 +1712,7 @@ My temples throbbed, yet there with love and thee
 I felt it not, nor heeded I the rain.
 Too soon, howe'er, the vision passed away,
 And I was left alone.
-
-                       "Oh! waves at play,
+"Oh! waves at play,
 Mock not my hollow heart with songs of eve,
 For olden days I evermore must grieve,
 My own sad song forever must be still,
@@ -2019,7 +1727,6 @@ My laurel wreath unto the winds I fling,
 For worldly praise I never more will sing.
 Oh! tears, what do you here--keep back, I say,
 Each human life must know a sunless day."
-
 Unto her breast her hands are tightly pressed,
 She bravely struggles with the old unrest;
 Yet lower droops her form, the lashes sweep
@@ -2028,7 +1735,6 @@ Upon her heavy heart and weigh it down.
 As shadows fall at night o'er vale and town;
 And still and white as some pale form of death
 She stands, with folded hands and faint drawn breath.
-
 But suddenly through the silence of the room
 The one word "Hilda" pierces through the gloom;
 A whispered word, yet see! it makes her start,
@@ -2039,7 +1745,6 @@ Oh, life is dark, and hearts are weak and wild!
 With one faint cry she sees his longing eyes,
 His outstretched arms, and as a tired child,
 Unto that last, safe refuge quickly flies.
-
 Then presently her head droops low again,
 She draws away--there comes a bitter pain.
 "Oh, Adrian, my life has all been wrong;
@@ -2050,7 +1755,6 @@ I left thee with a willful, proud design,
 And cared not that a hopeless life was thine.
 To give unto thy care, what have I now?
 A worn and wasted life--a broken vow."
-
 "No, no! look up, Arline, bend not your head;
 You wrong yourself--your life is good and true,
 And pure the motive that your actions fed;
@@ -2069,14 +1773,12 @@ Then weep no more, Arline--you've reached the goal--
 The world is better for your sweet-voiced art.
 And, Hilda, had thy power not been good,
 My love these years could never have withstood."
-
 Her face is turned to his with eager gaze
 She drinks in all his words with ecstasy.
 "Oh, Adrian, far dearer than the praise
 Of all the world those words come now to me;
 Yet tell me, Adrian, is woman's life
 Naught but a shadowy dream--a pain--a strife?"
-
 A grave, sweet smile stole o'er his face, his eyes
 Met hers with earnest look, yet half surprise:
 "God knows the longings of each human heart,
@@ -2119,7 +1821,6 @@ Is falling on your face; look up and know
 The fading of the shadows 'neath the glow
 Of night, is but the emblem of the rays
 Of happiness that now shall gild your days."
-
 He takes her hand in his--and love's sweet thrill
 Runs through her veins, vague dreams her sense fill.
 Her face grows childlike in its faith again,
@@ -2146,7 +1847,6 @@ And now, for thee alone, my heart shall sing,
 Far from my sight my crown of fame I'll fling,
 And in its stead, the diadem I'll wear
 Of love and womanhood--earth's crown most fair."
-
 Out on the terrace, where the moonlight falls
 In silver radiance o'er the time-stained walls,
 A man and woman stand--he, strong and fair,
@@ -2157,7 +1857,6 @@ Her dark robes sweep the marble floor; one hand
 Is clasped in his; in silence now they stand,
 No need of words when silence speaketh more
 Than all the wealth of speech, or written lore.
-
 Her eyes are turned to his; no more they grieve;
 Oh, who can tell the spell that love doth weave?
 The music of the stars, a faint, sweet strain,
@@ -2166,7 +1865,6 @@ Two lives that glow as bright as heaven's own--
 Two stars, that in the night have closer grown,
 God sets the music in each soul; no hand
 But that of LOVE the music can command.
-
 The song of life is done--the tale is told,
 God grant the chain may count some links of gold.
 A woman's life--a man's true love--a song--
@@ -2185,106 +1883,66 @@ True women make true men,--'tis always so;
 Yet careless touch may soil the purest snow,
 The shadows of the night may hide the sky,
 Yet still beyond them all the stars still lie.
-
-
-
-
-
 Miscellaneous Poems.
-
-
-
-
-
 To Longfellow.
-
-
-
-
 The crown of stars is broken in parts,
 Its jewels brighter than the day,
 Have one by one been stolen away
 To shine in other homes and hearts.
 --[Hanging of the Crane.]
-
-
 Each poem is a star that shines
-  Within your crown of light;
+Within your crown of light;
 Each jeweled thought--a fadeless gem
-  That dims the stars of night.
-
+That dims the stars of night.
 A flower here and there, so sweet,
-  Its fragrance fills the earth,
+Its fragrance fills the earth,
 Is woven in among the gems
-  Of proud, immortal birth.
-
+Of proud, immortal birth.
 Each wee Forget-me-not hath eyes
-  As blue as yonder skies,
+As blue as yonder skies,
 To tell the world each song of thine
-  Is one that never dies.
-
+Is one that never dies.
 The purple pansies stained with gold,
-  The roses royal red,
+The roses royal red,
 In softened splendor shadow forth
-  The truths thy life hath said.
-
+The truths thy life hath said.
 Oh would the earth were filled with flowers
-  To crown thee poet-king!
+To crown thee poet-king!
 And all the world unto thy feet
-  Its wealth of love could fling.
-
+Its wealth of love could fling.
 And would I were one lowly flower
-  That fell beneath thy feet;
+That fell beneath thy feet;
 That even in dying I might win
 One verse of music sweet.
-
 The poet-heart doth hold the power
-  To thrill the hearts of men;
+To thrill the hearts of men;
 And though the chain is broken quite
-  It joins the links again.
-
+It joins the links again.
 No hand like thine can sweep the chords,
-  No heart like thine can sing;
+No heart like thine can sing;
 The poet-world is full of song
-  And thou alone art king!
-
+And thou alone art king!
 Oh would my eyes could see thy face
-  On which the glory shines!
+On which the glory shines!
 And would my soul could trace the thought
-  That lies between the lines!
-
+That lies between the lines!
 But though my eyes may never see,
-  My heart will worship still;
+My heart will worship still;
 And at the fountain of thy song
-  My soul will drink its fill.
-
+My soul will drink its fill.
 Thy crown of stars will never break,
-  Its circle is complete;
+Its circle is complete;
 And yet each heart some gem will keep
-  To make its life more sweet.
-
-
+To make its life more sweet.
 The following autograph letter was received from the poet:
-
 Dear Miss Sherrick:--I am much pleased and touched by the graceful
 and beautiful tribute you have paid me in your poem.  I beg you to
 accept my best thanks for these kind words, and for the friendly
 expressions of your letter, which I have left too long unanswered.
 Pardon the delay and believe me with great regard,
-
-                                     Yours sincerely,
-
-                                          Henry W. Longfellow.
-
-
-
-
-
+Yours sincerely,
+Henry W. Longfellow.
 Tower Grove.
-
-
-
-
 Oh tell me not of the lands so old
 Where the Orient treasures its hills of gold,
 And the rivers lie in the sun's bright rays
@@ -2293,7 +1951,6 @@ Nor proudly boast of the gardens grand
 That spring to earth at a king's command;
 There are treasures here in the far great West
 That rival the hills on the Orient's crest.
-
 Far from the sight of the dusty town
 Like a perfect gem in a golden crown,
 Lies a beautiful garden vast and fair,
@@ -2302,7 +1959,6 @@ And the dews fall down in a silent shower
 On the fragrant head of each beaming flower;
 While far and near o'er the land sun-kissed,
 Hangs the roseate veil of the sunset mist.
-
 Under the shade of the western wall
 There's a glimmer of roses fair and tall,
 And the crimson heart of each royal flower
@@ -2311,7 +1967,6 @@ There are things in this world too sweet to last,
 But we catch their grace ere the bloom is past,
 And the roses that die in the early morn
 In the garden of memory anew are born.
-
 The dear little pansies, quaint and fair,
 Uplift their heads in the silent air;
 And the gleam of the purple tinged with gold
@@ -2320,7 +1975,6 @@ There are tropical plants from the Southern seas
 Where the flowers sleep in the perfumed breeze;
 And the scent of the orange groves fill the air
 With a mystical incense rich and rare.
-
 Like waxen buds in a leafy screen
 Magnolia blooms float in a sea of green;
 And their fragrance falls on the dewy air
@@ -2329,7 +1983,6 @@ And up from the South in the voiceless night
 Steals the scent of the blossoms pure and white,
 And one by one as the winds sweep by
 They shrink away, from that touch, to die.
-
 There are trees and flowers from every clime
 Defying the scope of the poet's rhyme;
 There are beautiful lawns where the feet could rest,
@@ -2338,7 +1991,6 @@ There are peaceful nooks where the soul might dwell
 Forever lost in a fadeless spell;
 But the tomb of the man who is great and wise
 Is the loveliest spot in this paradise.
-
 And just to the south is a park so fair
 That the children of God love to wander there;
 And the emerald green of its winding ways
@@ -2347,7 +1999,6 @@ There are statues, too, of the good and great,
 Who point on forever to Truth's wide gate,
 And the bronze and the green and the sun's red gold
 Are mingled at eve in a glory untold.
-
 Immortal the name of the man shall be
 Who hath given these treasures so fair to see,
 And the grace of the flowers he loves so well
@@ -2356,498 +2007,346 @@ But fairer than all are the deeds of love
 That shine in God's temple of grace above;
 And Fame on her beautiful shadowless height
 Has woven his name in a glory of light.
-
-
-
-
-
 A Shell.
-
-
-
-
 Oh, take this shell, this pretty thing
-  With tinted waves of pearly red;
+With tinted waves of pearly red;
 Hold close your ear and hear it sing,
-  Then tell me what its voice hath said.
-    A song of surges deep and strong,
-    A song of summer sweet and long,
-    A sound of storm and wind and rain,
-    A sound of joy--a glad refrain.
-
+Then tell me what its voice hath said.
+A song of surges deep and strong,
+A song of summer sweet and long,
+A sound of storm and wind and rain,
+A sound of joy--a glad refrain.
 O plaything of the idle sea,
-  Whence come these changing tints of thine?
+Whence come these changing tints of thine?
 Have sunset clouds looked down on thee
-  And stained thee with their hues divine?
-    Oh, tell the secrets thou must know
-    Of clouds above and waves below;
-    Oh, whisper of the bending sky
-    And ocean caves where jewels lie.
-
+And stained thee with their hues divine?
+Oh, tell the secrets thou must know
+Of clouds above and waves below;
+Oh, whisper of the bending sky
+And ocean caves where jewels lie.
 O beauteous sea-shell, tinged with red,
-  What dost thou know; what canst thou tell?
+What dost thou know; what canst thou tell?
 Unto what mysteries are thou wed,
-  Thou fragile thing, thou pearly shell?
-    A whisper of the sounding sea;
-    A sweep of surges strong and free;
-    A tale of life--a tale of death;
-    A warm, bright sin--an icy breath.
-
+Thou fragile thing, thou pearly shell?
+A whisper of the sounding sea;
+A sweep of surges strong and free;
+A tale of life--a tale of death;
+A warm, bright sin--an icy breath.
 Ah, more than this, thou lovely shell,
-  Thy years have gathered from the deep!
+Thy years have gathered from the deep!
 And, more than this, thy voice can tell
-  Of things learned in that ocean sleep.
-    A grave within the lonely sea;
-    A spot where love can never be;
-    A place where tears may never fall;
-    A lonely grave--and that is all.
-
-
-
-
-
+Of things learned in that ocean sleep.
+A grave within the lonely sea;
+A spot where love can never be;
+A place where tears may never fall;
+A lonely grave--and that is all.
 Two Pictures.
-
-
-
-
 A beautiful form and a beautiful face,
 A winsome bride and a woman's grace,
 So fair and sweet it were heaven indeed
 For man to follow where she would lead.
-
 A web of lace and a jeweled hand,
 And life is changed by a golden band;
 A dream of love and a wealth of gold--
 The old new story once more is told.
-
 A wealth of flowers and a robe of snow,
 A beauteous woman with cheeks aglow;
 A train of satin that sweeps the floor--
 And life is altered forevermore.
-
 A beautiful scene on this Christmas eve,
 Where all could linger and none could grieve,
 A dazzling vision of wealth and pride,
 A royal feast and a happy bride.
-
 But turn your steps to the lonely street,
 Where fierce winds mutter and wild storms beat;
 And come with me to the haunts of woe
 Where life is a burden and hopes are low.
-
 Look on this woman, so thin and white;
 You close your eyes--'tis a dreadful sight;
 But shudder not--she is cold and dead--
 And died, oh men! for a CRUST OF BREAD.
-
 So young and hopeless, oh! God above,
 With none to comfort and none to love;
 A tortured soul and a hungry cry
 That rang unheard through the stormy sky.
-
 While, oh! so near in the gloomy night
 Lay rescue and love and warmth and light;
 And oh! so near to the longing eyes,
 There gleamed the bright depths of a paradise.
-
 Oh! look on this picture, thou fair young bride,
 For one poor morsel of bread she died;
 One glittering gem from your breast or hair,
 Could have saved this woman who lieth there.
-
 One costly spray of your flowers bright
 Could have bought the food that she craved this night;
 One drop of love from your boundless store
 Her soul could have saved forevermore.
-
 Oh, sadd'ning picture, this Christmas eve,--
 For thy sad story the angels grieve;
 To think in this city of wealth and might
 A woman perished for BREAD, this night.
-
-
-
-
-
 The Queen-Rose--A Summer Idyl.
-
-
-
-
 The sunlight fell with a golden gleam
-  On the waves of the rippling rill;
+On the waves of the rippling rill;
 The pansies nodded their purple heads;
-  But the proud queen-rose stood still.
+But the proud queen-rose stood still.
 She loved the light and she loved the sun,
 And the peaceful night when the day was done,
 But the faithless sun in his careless way
 Had broken her heart on that summer's day.
-
 She had bathed her soul in his warm sweet, rays,
-  She had given her life to him;
+She had given her life to him;
 And her crimson heart--it was his alone--
-  Of love it was full to the brim.
+Of love it was full to the brim.
 But a fairer bud in the garden of love
 Had conquered the heart of the king above;
 And the proud queen-rose on that summer's day
 Had given a love that was thrown away.
-
 The pansies laughed in the summer breeze,
-  For they were so happy and free;
+For they were so happy and free;
 And the lilies swayed in the waving grass,
-  Like sails on an emerald sea.
+Like sails on an emerald sea.
 But the sun glanced down with a mocking light,
 And the heart of the rose stood still at the sight,
 For never again with its love for him
 Would her crimson heart be filled to the brim.
-
 "Ah me!" she sighed, as she drooped her head,
-  "How vain is my haughty will;
+"How vain is my haughty will;
 I sought to mate with the sun above,
-  But lo! I am mortal still.
+But lo! I am mortal still.
 I envy the pansy that nods at my feet,
 For though she is lowly, her life is sweet;
 And I envy the lily, for she is glad,
 And knows not the longings that make me sad."
-
 A maiden sat where the pansies grew,
-  In a golden shower of light;
+In a golden shower of light;
 And she heard the words of the sighing rose,
-  Borne near in the wind's swift flight.
+Borne near in the wind's swift flight.
 "Ah, rose!" she cried, "I am like to you;
 There's never a heart in this world that's true;
 I yielded a love that's thrown away,
 And I'm weary of life on this summer's day.
-
 "But listen, my rose, and I'll tell you, sweet,
-  The lesson I learned to-day;
+The lesson I learned to-day;
 There's never a heart in this wide, wide world
-  That was born to be thrown away.
+That was born to be thrown away.
 The sun may smile as he sails away
 In the depths of his azure seas for aye;
 But the rose that blooms in the garden of love,
 Is as fair as the sun to our God above.
-
 "The smallest flower that slakes her thirst
-  In the dews of the early morn,
+In the dews of the early morn,
 Is as great as the stars in heaven above,
-  The greatest that ever was born.
+The greatest that ever was born.
 The love we give on this earth of ours
 Is treasured in heaven through all the hours,
 And the crimson heart of the proud queen-rose
 Is as fair a gem as the earth-land knows."
-
 The queen-rose listened and held her breath
-  As the maiden passed her by,
+As the maiden passed her by,
 And then, with a grace that was fearless and grand
-  She lifted her face to the sky.
+She lifted her face to the sky.
 And never again, when the day was done,
 Did she long for the love of the golden sun;
 For the lesson she learned on that summer's day
 Lay deep in her heart forever and aye.
-
-
-
-
-
 Twin Lilies.
-
-
-
-
 Twin lilies in the river floating,
-  Two lilies pure and white;
+Two lilies pure and white;
 And one is pale and faintly drooping,
-  The other glad and bright.
-
+The other glad and bright.
 Twin lilies in the silvery waters,
-  Two lilies white and frail;
+Two lilies white and frail;
 And one is ever laughing gladly,
-  The other, still and pale.
-
+The other, still and pale.
 Upon the peaceful gleaming waters,
-  They linger side by side;
+They linger side by side;
 And one, her head is drooping sadly;
-  The other glows with pride.
-
+The other glows with pride.
 Twin stars are o'er the river beaming,
-  Two stars with silvery light;
+Two stars with silvery light;
 And now they look with glances loving
-  Upon the lilies white.
-
+Upon the lilies white.
 Two lilies now are drooping lowly
-  Unto the river tide;
+Unto the river tide;
 While in the wave the stars reflected
-  Are floating side by side.
-
+Are floating side by side.
 And now the stars are bending slowly
-  To kiss the lilies white;
+To kiss the lilies white;
 Who e'en their fragrant heads are lifting
-  In wonder at the sight.
-
+In wonder at the sight.
 And one twin lily now is longing
-  For light and heaven above;
+For light and heaven above;
 And yields unto her star-king's keeping
-  Her wealth of life and love.
-
+Her wealth of life and love.
 And as the star-god bends in rapture
-  To kiss her pale, white face,
+To kiss her pale, white face,
 Her soul is wafted into heaven
-  Beneath his love and grace.
-
+Beneath his love and grace.
 Twin lilies in the tide were floating,
-  With quickly coming breath,
+With quickly coming breath,
 But one is left, with sad tears falling,
-  To mourn her sister's death.
-
+To mourn her sister's death.
 Twin stars upon the waves were gleaming;
-  Two star-gods pure and bright;
+Two star-gods pure and bright;
 But one is left--that one is fading
-  And dying with the night.
-
-
-
-
-
+And dying with the night.
 Memory
-
-
-
-
 A treasured link of shining pearls,
-  A by-gone melody,
+A by-gone melody,
 A shower of tears with smiles between--
-  And this is memory.
+And this is memory.
 A thing so light a breath of air
-  May waft its life away;
+May waft its life away;
 A thing so dark that moments of pain
-  Seem like some endless day.
-
+Seem like some endless day.
 A careless word may wound the heart,
-  And quickly it may die;
+And quickly it may die;
 Yet in the seas of memory
-  Forever it will lie.
+Forever it will lie.
 And sometimes when the tide rolls back
-  Its waves of joy and pain,
+Its waves of joy and pain,
 That careless word, though long forgot,
-  Will wound the heart again.
-
+Will wound the heart again.
 The restless seas of memory
-  Are vast and deep and wide;
+Are vast and deep and wide;
 And every deed that we can know
-  Sleeps in that tireless tide.
+Sleeps in that tireless tide.
 Upon the thoughtless lives of men
-  Its waves in mockery roll;
+Its waves in mockery roll;
 And sweep a might of bitter pain
-  Across each human soul.
-
+Across each human soul.
 And few can stand upon the sands
-  Beside this boundless sea,
+Beside this boundless sea,
 And say with calm unfaltering voice
-  "It has no grief for me."
+"It has no grief for me."
 The passing wave may bear away
-  Our deeds and words untrue;
+Our deeds and words untrue;
 Yet surely as the tide comes in
-  The wrecks will follow too.
-
-
-
-
-
+The wrecks will follow too.
 Moonlight.
-
-
-
-
 Oh, what so subtle as the spell
-  The silvery moonlight weaves?
+The silvery moonlight weaves?
 Oh, what so sad and what so glad,
-  And what so soon deceives.
-
+And what so soon deceives.
 A vision of the long ago--
-  Long years of pain between;
+Long years of pain between;
 A mocking dream of happier days--
-  A veil of silver sheen.
-
+A veil of silver sheen.
 A passing gleam of falling stars--
-  An idle summer's dream;
+An idle summer's dream;
 The sudden waking of a heart--
-  Things are not as they seem.
-
+Things are not as they seem.
 Oh, silver moon, indeed you hold
-  The secrets of the heart;
+The secrets of the heart;
 And none can know and none can guess
-  The mystery of thy art.
-
+The mystery of thy art.
 A silver length of rippling waves,
-  A glance from happy eyes;
+A glance from happy eyes;
 A strain of music low and sweet--
-  The heart in rapture lies.
-
+The heart in rapture lies.
 Yet, ah, how faithless are the vows
-  Made 'neath the summer moon;
+Made 'neath the summer moon;
 As changing as the falling rays
-  That fade away as soon.
-
+That fade away as soon.
 For love is like the subtle spell
-  The sliver moonlight weaves;
+The sliver moonlight weaves;
 And what so sad and what so glad
 And what so soon deceives?
-
-
-
-
-
 The Star of Youth.
-
-
-
-
 The sun sinks down in the crimson west,
-  Oh, a beautiful sun is he;
+Oh, a beautiful sun is he;
 With his purple robes and his crown of gold
-  And his feet dipped in the sea.
-
+And his feet dipped in the sea.
 Along the shore where the sea-weeds lie
-  Like threads of her tangled hair,
+Like threads of her tangled hair,
 Naomi stands in the amber glow
-  Of the mystical sunset air.
-
+Of the mystical sunset air.
 Her hair is brown, with a yellow tinge
-  That rivals the gold of the west;
+That rivals the gold of the west;
 Her eyes are dark with the velvety glow
-  That darkens the pansy's breast.
-
+That darkens the pansy's breast.
 A star shines out in the purple east,
-  Oh, a beautiful star is he!
+Oh, a beautiful star is he!
 With his home in the wonderful azure skies,
-  And his throne in the deep blue sea.
-
+And his throne in the deep blue sea.
 There are bars of gold in the crimson west
-  And jewels on every bar;
+And jewels on every bar;
 Yet Naomi's soul is beyond the sea,
-  And her eyes are fixed on the star.
-
+And her eyes are fixed on the star.
 O star that shines in the dusky east,
-  Be thou the star of my youth,
+Be thou the star of my youth,
 And guide my soul through the shadows of earth
-  To the shining gates of truth.
-
+To the shining gates of truth.
 There are years that melt in the seas of life
-  Like drops in the ocean of time;
+Like drops in the ocean of time;
 And the joys they bring are as soon forgot
-  As the words of a careless rhyme.
-
+As the words of a careless rhyme.
 Be thou the light that shall guide me far
-  From the years that vanish as rain,
+From the years that vanish as rain,
 And lead my soul to the feet of God,
-  Even through years of pain.
-
-
-
-
-
+Even through years of pain.
 The Day is Dead.
-
-
-
-
-  The day is dead,
+The day is dead,
 And evening trails her purple robes
-  In fading fires of red.
-
-  The day is dead.
+In fading fires of red.
+The day is dead.
 And yonder lily welcomes sleep
-  And nods her weary head.
-
-  The day is dead,
+And nods her weary head.
+The day is dead,
 And night droops low her sable plumes
-  To mourn the glory fled.
-
-
-
-
-
+To mourn the glory fled.
 My Queen.
-
-
-
-
- A fair sweet blossom is born for you,
-   A beautiful rose, my queen!
- And never was flower so fair as this,
-   Oh, never so fair, I ween!
+A fair sweet blossom is born for you,
+A beautiful rose, my queen!
+And never was flower so fair as this,
+Oh, never so fair, I ween!
 A banner is hung in the western sky
 Of colors that flash ere they fade and die;
 And the rippling waves where the waters run
 Are stained with the gold of the summer sun;
 The world is so fair for you, my queen,
-    The world is so fair and true;
+The world is so fair and true;
 And the rose that blossoms to-day, my own,
-    Is the love that I have for you.
-
+Is the love that I have for you.
 The grasses that spring at your feet, my queen,
-  Could whisper all day in your ear;
+Could whisper all day in your ear;
 But I stand dumb at your side, my own,
-  Stilled by my love's own fear.
+Stilled by my love's own fear.
 Oh, what would you know of my love's sweet will
 The heart speaks most when the lips are still;
 And the love that is filling my soul to-day
 Is the beautiful blossom you throw away.
 But I worship you still, my queen, my queen,
-  I worship you still, I ween;
+I worship you still, I ween;
 For the loveliest blossom on earth I know
-  Is my beautiful love, my queen!
-
-
-
-
-
+Is my beautiful love, my queen!
 The Song of the Brook.
-
-
-
-
 Oh, what would you have, you splendid sun,
-  With your restless eyes of fire?
+With your restless eyes of fire?
 And why do you lean o'er the lilies pale?
-  What more can your heart desire?
-
+What more can your heart desire?
 You've crimsoned the rays in the heart of the rose,
-  You've drunk up the dewdrops all;
+You've drunk up the dewdrops all;
 And down in the meadows your golden light
-  Has gilded the daisies tall.
-
+Has gilded the daisies tall.
 The thirsty flowers that grow on the hill
-  Have given their lives to you;
+Have given their lives to you;
 And what do you care, you restless sun,
-  As you sail through your seas of blue?
-
+As you sail through your seas of blue?
 Your rays are so warm, like the glances of love,
-  The lily is mad with delight;
+The lily is mad with delight;
 And whispers her secret with silent joy,
-  As she kisses my face in the night.
-
+As she kisses my face in the night.
 What more can you want, O eager sun?
-  I've given my all to you;
+I've given my all to you;
 I've counted my treasures and claimed them not,
-  What more can I ever do?
-
+What more can I ever do?
 But, eager sun, with your restless rays,
-  Know this, that I love not you;
+Know this, that I love not you;
 For the sun that knoweth a world of loves
-  To one can never be true.
-
-
-
-
-
+To one can never be true.
 Night.
-
-
-
-
 'Tis eventide; the noisy brook is hushed
 Or murmurs only as a tired child,
 Worn out with play; the tangled weeds lie still
@@ -2859,14 +2358,12 @@ Shut out the light that fades in crimson lines
 Along the western sky.  And yonder shade
 Of purple marks the cloud, the storm-god rides
 In moods of angry fire.
-
-                         The woods are filled
+The woods are filled
 With wild-wood blossoms drinking in the dew.
 Their scented breath is sweeter than the maid's
 Who stands at eve and drinks in love and hope
 From every budding flower.
-
-                            All day the sun
+All day the sun
 With fiery breath has held his hot, long reign;
 The leaves have quivered 'neath his burning gaze,
 And all the flowers have drooped; yet now the moon,
@@ -2874,20 +2371,17 @@ His pale young bride, awaking from her spell
 Of sweet day dreams, arises in the dusky East,
 And sweeping back the clouds that dim her crown
 Of stars, floods all the world with holy light.
-
 Oh, welcome night! the flowers love their queen!
 Yea, better than their king, for he is fierce
 And warm, and drinks the jeweled dew-drops all.
 Her hand is cool and soothing! 'neath its spell
 They sink to restful slumber.
-
-                               Bless'd night!
+Bless'd night!
 When all he world's asleep, and thought can fly
 On tireless wings from sky to sky, when, free
 From earthly chains, the soul immortal feels
 Its throbbing freedom.
-
-                        Bless'd night!
+Bless'd night!
 When God looks down from every shining star,
 And breathes in every dew-gemmed flower, when faith
 From her rock-bound temple on the hills
@@ -2895,140 +2389,92 @@ His everlasting glory sings!  Oh, welcome night!
 Thy beauty holds the spell that wakes to life
 All things immortal.  Crowned be thou with light
 Eternal as the sun whose radiance wakes the day.
-
-
-
-
-
 Sounds from the Convent.
-
-
-
-
 "Come, pensive nun, devout and pure,
- Sober, steadfast and demure."
-
-                   -- [Milton]
-
-
+Sober, steadfast and demure."
+-- [Milton]
 White-robed nun, I pray thee tell me
-  Whatsoe'er my life shall be;
+Whatsoe'er my life shall be;
 Thou of God art purely chosen,
-  Ne'er can I be like to thee.
-
+Ne'er can I be like to thee.
 There is sunlight in the shadow
-  Of the lives we live below;
+Of the lives we live below;
 There is starlight in the darkness
-  Of the night of human woe.
-
+Of the night of human woe.
 Yet I pray thee, sweet-voiced woman,
-  Tell me of thy life and thee;
+Tell me of thy life and thee;
 Can the soul to heaven given
-  Yield its secrets unto me?
-
+Yield its secrets unto me?
 Nevermore the earth shall claim thee,
-  Only lilies bloom for thee;
+Only lilies bloom for thee;
 All the world is full of beauty
-  That thy eyes may never see.
-
+That thy eyes may never see.
 On the hill the daisies springing,
-  Lift their heads to greet the morn;
+Lift their heads to greet the morn;
 Yet thou mayest not pluck the smallest
-  Of these blossoms lately born.
-
+Of these blossoms lately born.
 Violets may bring no memories
-  Unto thee of days gone by;
+Unto thee of days gone by;
 Summer eves and joyous mornings--
-  In the grave these, too, must die.
-
+In the grave these, too, must die.
 Long ago, the roses drooping,
-  Crimson blushed and died for thee;
+Crimson blushed and died for thee;
 Yet to-day no more thou know'st them,
-  They are lost in Life's dead sea.
-
+They are lost in Life's dead sea.
 Oh, the world is full of beauty!
-  Oh, the world is full of love!
+Oh, the world is full of love!
 Yet the chains that bind thee earthward,
-  Link thy soul with Heaven above.
-
+Link thy soul with Heaven above.
 Through the windows creeps the sunlight,
-  Rays of gold and restless red;
+Rays of gold and restless red;
 Covering all the world with glory,
-  Sweetly resting on thy head.
-
+Sweetly resting on thy head.
 Would my life were crowned with sunlight,
-  Would my soul was pure as thine!
+Would my soul was pure as thine!
 Then the world no more would know me,
-  Earth were Heaven, and Heaven were mine.
-
-
-
-
-
+Earth were Heaven, and Heaven were mine.
 The Lake.
-
-
-
-
 A limpid lake, a diamond gem,
-  The moonbeams kissed with light;
+The moonbeams kissed with light;
 And all the stars that heaven knew
-  Were mirrored in the night.
-
+Were mirrored in the night.
 How fair the world, how fair the night,
-  When lake and river run
+When lake and river run
 Like jeweled streams of fairy land
-  Beneath a silver sun.
-
+Beneath a silver sun.
 The lake grew proud and claimed each star
-  That lay upon her breast;
+That lay upon her breast;
 "Ah! they are mine," she said; "these gems
-  That in my bosom rest.
-
+That in my bosom rest.
 "And yonder moon, that sails on high,
-  Doth shine for me alone;
+Doth shine for me alone;
 Beneath the foam that crests my waves
-  Is built her silver throne."
-
+Is built her silver throne."
 A star-king knelt and kissed the waves
-  That swept the shadowed shore;
+That swept the shadowed shore;
 "Our moon is queen of heaven," he said,
-  "Is queen forevermore.
-
+"Is queen forevermore.
 A thousand lakes are hers by night,
-  A thousand lakes of light;
+A thousand lakes of light;
 A thousand rivers kiss her feet,
-  A thousand rivers bright.
-
+A thousand rivers bright.
 "Then be not vain, thou lakelet small,
-  The moon is not for thee;
+The moon is not for thee;
 Her home is in the river wide,
-  Her throne is in the sea."
-
+Her throne is in the sea."
 The bright waves swept the silent shore,
-  The star-king crept away;
+The star-king crept away;
 Yet calm and fair, still unconvinced,
-  The lake in silence lay.
-
+The lake in silence lay.
 The moon, that swept her silvery light
-  Far o'er the waters wide,
+Far o'er the waters wide,
 Belonged to her, and all the stars
-  That floated side by side.
-
+That floated side by side.
 Ah! silver lake, too well we know
-  How like we are to thee;
+How like we are to thee;
 A thousand truths are in the world
-  That we may never see!
-
-
-
-
-
+That we may never see!
 Life.
-
-
-
-
 A dewy flower, bathed in crimson light,
 May touch the soul--a pure and beauteous sight;
 A golden river flashing 'neath the sun,
@@ -3059,258 +2505,187 @@ Oh! life is sad, yet sunshine, too, is there;
 We cannot tell what spell the years may weave--
 Perchance a song that dies upon the air--
 Perhaps a shadow that the sun doth leave.
-
-
-
-
-
 A Memory.
-
-
-
-
 Amid my treasures once I found
-  A simple faded flower;
+A simple faded flower;
 A flower with all its beauty fled,
-  The darling of an hour.
-
+The darling of an hour.
 With bitterness I gazed awhile,
-  Then flung it from my sight;
+Then flung it from my sight;
 For with it all came back to me
-  the pain and heedless blight.
-
+the pain and heedless blight.
 But, moved with pity and regret
-  I took it up again;
+I took it up again;
 For oh, so long and wearily
-  In darkness it had lain.
-
+In darkness it had lain.
 Ah, purple pansy, once I kissed
-  Your dewy petals fair;
+Your dewy petals fair;
 For then, indeed, I had no thought
-  Of earthly pain or care.
-
+Of earthly pain or care.
 Your faded petals now I touch
-  With sacred love and awe;
+With sacred love and awe;
 For never will my heart kneel down
-  To earthly will or law.
-
+To earthly will or law.
 Your velvet beauty still is dear,
-  Though faded now you seem;
+Though faded now you seem;
 You drooped and died, yet still you are
-  The symbol of my dream.
-
+The symbol of my dream.
 Sweet, modest flower, tinged with gold,
-  A lesson you have said;
+A lesson you have said;
 Your purple glory, like my love,
-  Is faded now, and dead.
-
-
-
-
-
+Is faded now, and dead.
 The Baby's Tear.
-
-
-
-
 A tiny drop of crystal dew
 That fell from baby eyes of blue;
 A shining treasure, there it lay
 For grandma's love to wipe away.
-
 A tear of sorrow, pure and meek
 It graced our darling's dimpled cheek;
 A gem so fair, that angels smiled
 And claimed the treasure undefiled.
-
 A sunbeam came with winsome grace
 And chased the shadow from her face;
 A smile fell from its wings of light
 And baby eyes laughed at the sight.
-
 The wee bright tear was kissed away,
 Yet in our hearts its sorrow lay;
 For like a shadow came the thought,
 With pain and sorrow life is wrought.
-
 Oh, baby heart, what will you do
 When life's unrest is given you;
 And mother-love no more like this
 Each tear can banish with a kiss?
-
 The love you brought, oh, baby dear,
 Is like the sunbeam passing near;
 A ray of light--a touch of gold
 To keep our hearts from growing old.
-
 Then may thy life grow strong and sweet
 With mother-love to guide thy feet;
 And may the sunbeams ever chase
 Each shadow, darling from thy face.
-
-
-
-
-
 Irene.
-
-
-
-
 The years are slowly creeping on
-  Beneath the summer sun;
+Beneath the summer sun;
 Yet, still in silent love and peace
-  Our lives serenely run.
+Our lives serenely run.
 Beyond the mist that veils the coming years
 I see no gathering clouds, nor falling tears.
-
 Beside life's river we have stood
-  And lingered side by side;
+And lingered side by side;
 Where royal roses bloomed and blushed
-  And gleamed the lily's pride,
+And gleamed the lily's pride,
 And happily there we've plucked the sweet wild flowers
 while heedless passed away the sunny hours.
-
 Irene, thy sunny face is lit
-  With all the hope of youth;
+With all the hope of youth;
 God grant thy heart may never know
-  Aught but the purest truth.
+Aught but the purest truth.
 Keep in thy soul its faith and trusting love
 Until they e'en must bloom in heaven above.
-
 Beside the river still we stay
-  And swift the hours fly by;
+And swift the hours fly by;
 While low upon the fragrant banks
-  The flowers silent lie.
+The flowers silent lie.
 Yet, far beyond the mist, our longing eyes
 Still seek the gleaming walls of paradise.
-
-
-
-
-
 Unrecorded.
-
-
-
-
 The splendors of a southern sun
-  Caress the glowing sky;
+Caress the glowing sky;
 O'er crested waves, the colors glance
-  And gleaming, softly die.
+And gleaming, softly die.
 A gentle calm from heaven falls
-  And weaves a mystic spell;
+And weaves a mystic spell;
 A glowing grace that charms the soul--
-  Whose glory none can tell.
-
+Whose glory none can tell.
 Oh, warm sweet treasures of a sun
-  Of endless fire and love;
+Of endless fire and love;
 Those dying embers are the flames
-  From heavenly fires above.
+From heavenly fires above.
 Unto the water's edge they creep
-  And bathe the seas in red;
+And bathe the seas in red;
 Then die like shadows on the deep
-  With glory cold and dead.
-
+With glory cold and dead.
 A ship--a lone, dark wanderer
-  Upon the southern seas,
+Upon the southern seas,
 Speeds like a white-faced messenger
-  Before the dying breeze.
+Before the dying breeze.
 Her masts are tipped with amethyst,
-  A splendor all untold;
+A splendor all untold;
 A crimson mantle wraps her round,
-  Her sails are made of gold.
-
+Her sails are made of gold.
 The light wind dies--she slowly drifts,
-  Then stops--an idle thing;
+Then stops--an idle thing;
 While sunset clouds around her prow
-  A dreamy grandeur fling.
+A dreamy grandeur fling.
 And eyes upon her deck look forth
-  With looks of longing pain;
+With looks of longing pain;
 A hundred sunsets they would give
-  Dear home to see again.
-
+Dear home to see again.
 But see! a shadow as of night
-  Spreads o'er the crimson sky;
+Spreads o'er the crimson sky;
 Like doomed and lifeless forms of earth
-  The clouds in heaven lie.
+The clouds in heaven lie.
 A silence falls--the ship stands still,
-  A fated thing of earth;
+A fated thing of earth;
 Then like a child of sin and wrong
-  The storm is given birth.
-
+The storm is given birth.
 Oh! struggle well ye gallant crew
-  With storm and wind and wave;
+With storm and wind and wave;
 For there are helpless women here
-  And children, too, to save.
+And children, too, to save.
 Quick--sailors do your duty well--
-  And man the life-boats, too;
+And man the life-boats, too;
 For soon the rocks will strand the ship,
-  And pierce her through and through.
-
+And pierce her through and through.
 See! like a woman turned to stone
-  A weeping mother stands;
+A weeping mother stands;
 Her heart seems like seems like some frozen thing--
-  She wrings her trembling hands;
+She wrings her trembling hands;
 Within her arms she holds a child
-  With frightened wond'ring eyes;
+With frightened wond'ring eyes;
 Below--the waters pitiless--
-  Above--the angry skies.
-
+Above--the angry skies.
 Beside her stands a fair young girl
-  With eyes that flash and quiver;
+With eyes that flash and quiver;
 They are the only ones still left,
-  These three that moan and shiver.
+These three that moan and shiver.
 But soon a voice shouts back the words--
-  Through all the deaf'ning roar:--
+Through all the deaf'ning roar:--
 A strong hand grasps the trembling girl,
-  "There's room for just one more."
-
+"There's room for just one more."
 "Stay, stay," she cries with whitened face
-  "Why should I fear to die?
+"Why should I fear to die?
 Oh, take this woman by my side,
-  Nor stay to question why.
+Nor stay to question why.
 She has a dear one 'mongst your crew,
-  She is a mother, too;
+She is a mother, too;
 I am alone--I fear not death,
-  If this you'll only do."
-
+If this you'll only do."
 The sailor grasped the mother's hand,
-  She turned and kissed the maid;
+She turned and kissed the maid;
 The tears of pity filled her eyes
-  Yet not one word she said.
+Yet not one word she said.
 The maiden stood with outstretched hands,
-  All hope indeed was gone;
+All hope indeed was gone;
 And yet she stood with fearless heart,
-  Undaunted and alone.
-
+Undaunted and alone.
 "Oh, God, the heart that knows your love
-  Will never need to fear;
+Will never need to fear;
 A priceless gem lies on my face,
-  The mother's grateful tear."
+The mother's grateful tear."
 The lightnings swept across the ship,
-  The darkness wrapped her round;
+The darkness wrapped her round;
 Above the thunder of the storm,
-  There came no other sound.
-
+There came no other sound.
 The morning broke--the storm had fled,
-  The wreck was washed away;
+The wreck was washed away;
 And calmly now as yesterday
-  The sea in splendor lay.
+The sea in splendor lay.
 The noble heart that throbbed with life
-  Lay fathoms deep below:
+Lay fathoms deep below:
 And what lies buried in that heart
-  The waves alone can know.
-
-
-
-
-
+The waves alone can know.
 Beatrice Cenci.
-
-
-
-
 O beautiful woman, too well we know
 The terrible weight of thy woman's woe,
 So great that the world, in its careless way,
@@ -3319,7 +2694,6 @@ In the name of the truth from thy brow is torn
 The crown of redemption thou long hast worn,
 And into the valley of sin thou art hurled
 To be trampled anew by the feet of the world.
-
 The beautiful picture is thine no more
 That hangs in the palace on Italy's shore;
 The tear-stained eyes where the shadow lies,
@@ -3328,14 +2702,12 @@ Will tell thy story to men no more,
 For all untrue is the tale of yore;
 And the far-famed picture that hangs on the wall
 Is a painter's fancy--that is all.
-
 Italia's shore is a land of light
 Where the sunlight of day drowns the shadows of night;
 And the great warm sun with his golden rays
 Imprisons the light of eternal days;
 But the tale of thy woes is a shadow there
 That fills with its horror the perfumed air.
-
 By day and by night in the palace there,
 Thy picture has hung with its face so fair;
 Beguiling the travelers come from afar
@@ -3344,17 +2716,14 @@ Till the hears that shuddered before thy sin
 Recalled not the shadow that lay within,
 But remembered only with pitying grace
 The hopeless grief on the child-like face.
-
 The rosy dawn with its misty light,
 Shone fair on thy brow in the morning bright;
 And the glittering noon with its rays of gold
 Imprisoned thy soul in its jeweled hold.
-
 Oh, fair was the picture at early dawn,
 With the matchless beauty that Guido had drawn;
 And fair was the face in the noon of gold,
 Touched with a glory that never grew old.
-
 But lovelier still in the shadowed eyes
 Lay the burning sunset of Italy's skies;
 And the beautiful face with its voiceless woe
@@ -3363,7 +2732,6 @@ No wonder the poets grew wild at the sight,
 And sung of thy beauty with mad delight,
 Till the fame of the picture spread over the land,
 Revealing the touch of its master-hand.
-
 The fair Madonna with saint-like face,
 Creation of Raphael's exquisite grace,
 Is scarcely more famed than the child-like head
@@ -3376,283 +2744,192 @@ But the romance that clings to the wondrous face
 Will fall on our hearts with a softened grace,
 And the fair young sinner on Italy's shore
 Will be loved and pitied forevermore.
-
-
-
-
-
 Under the Stars.
-
-
-
-
 Under the stars, when the shadows fall,
-  Under the stars of night;
+Under the stars of night;
 What is so fair as the jeweled crown
 Of the azure skies, when the sun is down,
-  Beautiful stars of light!
-
+Beautiful stars of light!
 Under the stars, where the daisies lie
-  Lifeless beneath the snow;
+Lifeless beneath the snow;
 Lovely and pure, they have lived a day,
 Silently passing forever away,
-  Lying so meek and low.
-
+Lying so meek and low.
 Under the stars in the long-ago--
-  Under the stars to-night;
+Under the stars to-night;
 Life is the same, with its great unrest
 Wearily throbbing within each breast,
-  Searching for truth and light.
-
+Searching for truth and light.
 Under the stars as they drift along,
-  Far in the azure seas;
+Far in the azure seas;
 Beautiful treasures of light and song,
 Glad'ning the earth as they glide along,
-  What is so fair as these?
-
+What is so fair as these?
 Under the stars in the quiet night,
-  Under the stars above;
+Under the stars above;
 Sweet is the breath of the evening air,
 Spirits of heaven unseen are there,
-  Weaving a web of love.
-
+Weaving a web of love.
 Under the stars in the shadowy eve,
-  Glittering stars of truth;
+Glittering stars of truth;
 Beautiful sprays of eternal light,
 Laid on the brow of the dusky night,
-  Blossoms of fadeless youth.
-
-
-
-
-
+Blossoms of fadeless youth.
 Catching the Sunbeams.
-
-
-
-
 Catching the sunbeams, oh, wee dimpled child,
-  Gleefully laughing because they are bright;
+Gleefully laughing because they are bright;
 Knowing, ah! never, my beautiful pet,
-  Ne'er can our fingers imprison the light.
-
+Ne'er can our fingers imprison the light.
 Beautiful sunshine, oh! fair is the light
-  Falling on earth from the heavens above;
+Falling on earth from the heavens above;
 Beautiful childhood, oh! glad is the sight
-  Filling the world with its measure of love.
-
+Filling the world with its measure of love.
 Playing with sunbeams, oh, all of us, pet,
-  Toy with the treasures, so shining and bright;
+Toy with the treasures, so shining and bright;
 Catching the sunshine we never may hold,
-  Trying like you, to imprison the light.
-
+Trying like you, to imprison the light.
 Sunbeams that glitter and sparkle and shine--
-  Life is so full of the beautiful light;
+Life is so full of the beautiful light;
 Gilding the wings of each fleet-footed day
-  Only to fade in the shadows of night.
-
+Only to fade in the shadows of night.
 Playing with sunbeams, oh! all of us, pet,
-  Long for the treasures so shining and glad;
+Long for the treasures so shining and glad;
 Finding too late that they slip from our hands,
-  Leaving us heart-sick and weary and sad.
-
+Leaving us heart-sick and weary and sad.
 Learning the lessons we never will heed--
-  Life is so full of the things that we crave;
+Life is so full of the things that we crave;
 Catching the sunshine oh, darling, each heart
-  Longs for the sunbeams till it reaches the grave.
-
-
-
-
-
+Longs for the sunbeams till it reaches the grave.
 The Soldier's Grave.
-
-
-
-
-[To the memory of Lieut. Wm. W. Wardell, of the First Massachusetts
 Cavalry, killed May 28, 1864.]
-
-
 Above his head the cypress waves
-  Its dark green drooping leaves;
+Its dark green drooping leaves;
 The sunlight through its branches wide
 Where bright birds linger side by side
-  A golden net-work weaves.
-
+A golden net-work weaves.
 Within the church-yard's silent gloom
-  He lies in quiet rest;
+He lies in quiet rest;
 And never more to cold, pale brow,
 Or proud lips mute with silence now
-  Will loving lips be pressed.
-
+Will loving lips be pressed.
 Perhaps even now in death's dark dream
-  He sees the deadly strife;
+He sees the deadly strife;
 Where brothers fought with blinded eyes,
 Forgetting all the tender ties
-  That bound them life to life.
-
+That bound them life to life.
 Ah! nobly there he proudly rode
-  With honest, warm, true heart;
+With honest, warm, true heart;
 And shrank not from the carnage red,
 But bravely thee, among the dead,
-  He took a soldier's part.
-
+He took a soldier's part.
 Yet soon his hands fell helplessly,
-  Low at his trembling side;
+Low at his trembling side;
 For on his brow the death drops rose,
 While in his heart the life-blood froze
-  And died his young life's pride.
-
+And died his young life's pride.
 The dark brown eyes, whose loving glance
-  Gave happiness to all,
+Gave happiness to all,
 Have closed their weary lids for aye
 Beneath the sunset of life's day,
-  Where dark'ning shadows fall.
-
+Where dark'ning shadows fall.
 Oh, weary years that still creep on
-  Adown the sands of Time,
+Adown the sands of Time,
 Give back the loving tones of yore,
 That haunt us here forever more
-  As echoing church bell's chime.
-
+As echoing church bell's chime.
 And yet it cannot, cannot be
-  That hearts must ever grieve;
+That hearts must ever grieve;
 Above his head the shadows fall,
 Yet still the sunbeams shine through all
-  And mystic splendors weave.
-
+And mystic splendors weave.
 And thus upon the grieving heart
-  That ever weeps for him,
+That ever weeps for him,
 The dark clouds fall, yet God's sweet light
 Of faith still onward takes its flight,
-  Through shadows vast and grim.
-
+Through shadows vast and grim.
 Oh! faint heart, with thy clinging grief,
-  Look upward to the sky;
+Look upward to the sky;
 For there, beyond the weary strife,
 Where angels ever guard thy life,
-  There's One who hears thy cry.
-
+There's One who hears thy cry.
 Within the "City of the Dead"
-  He only lies asleep;
+He only lies asleep;
 And soon his hand will clasp once more
 Thine own as oft he did of your,
-  With love's pure feeling deep.
-
-
-
-
-
+With love's pure feeling deep.
 Beyond the Sunset are the Hills of God.
-
-
-
-
 Gleaming folds of read and gold linger in the western sky;
 Fleecy clouds of purest tint, mingle with the purple dye.
-
 Faintly to the dreamy mind comes the sound of earthly life;
 Far beyond the shining banks, cometh rest from worldly strife.
-
 Through the sunset's misty veil, now we look with longing eyes,
 To behold more beauteous sight than the evening's glor'ous skies.
-
 Slowly now the red banks part, showing what is hidden there;
 Flushing hills of shadowy light, piercing through the dark'ning air.
-
 Like the rainbow's promise clear, God has placed His emblem there,
 Giving life and trust to all, love unbounded, rich and rare.
-
 Glimpses of a life beyond come to each faint, weary heart,
 And we long for that bright shore where the loved ones ne'er shall
-  part.
-
+part.
 Strange, that souls should still live on, hopeless with their hidden
-  pain;
+pain;
 When, would they but read the skies, heaven and hope would come again.
-
 Though the life be weary spent, evening brings the glory near;
 And beyond the sunset's glow, grand the hills of God appear.
-
-
-
-
-
 Never.
-
-
-
-
 Two dark-brown eyes looked into mine
-  Two eyes with restless quiver;
+Two eyes with restless quiver;
 A gentle hand crept in my own
-  Beside the gleaming river.
-
+Beside the gleaming river.
 "Ah, sweet," I murmured, passing sad,
-  You will forget me ever?"
+You will forget me ever?"
 The dear, brown eyes their answer gave;
-  "I will forget you NEVER."
-
+"I will forget you NEVER."
 Up in the leaves above our heads
-  The winds were softly dying;
+The winds were softly dying;
 Down in the river at our feet
-  The lilies pale were lying.
+The lilies pale were lying.
 The winds their mournful murmur sent:
-  You will forget me ever?
+You will forget me ever?
 The lilies raised their drooping heads:
-  We will forget you never.
-
+We will forget you never.
 A spell hung o'er the numbered hours
-  That chained each thought and feeling;
+That chained each thought and feeling;
 My heart was filled with idle dreams
-  That sent my sense reeling.
+That sent my sense reeling.
 Once more I murmured, "Well, I know
-  You will forget me ever;"
+You will forget me ever;"
 Yet still the same dear promise came,
-  "I will forget you NEVER."
-
+"I will forget you NEVER."
 Ah, vain the words that we must speak,
-  Though we are still believing;
+Though we are still believing;
 And subtle are the webs of fate
-  That love is ever weaving;
+That love is ever weaving;
 The dark brown eyes meet mine no more,
-  I am forgotten ever;
+I am forgotten ever;
 And mocking memory echoes now,
-  I will forget you NEVER.
-
+I will forget you NEVER.
 Beside the idle stream I stand,
-  Where flowers droop and shiver
+Where flowers droop and shiver
 And cold and dark it seems to me
-  This dreary, restless river;
+This dreary, restless river;
 For, sweet, your eyes are lost to me,
-  I am forgotten ever;
+I am forgotten ever;
 And only MEMORY echoes now,
-  "I will forget you NEVER."
-
-
-
-
-
+"I will forget you NEVER."
 The Mississippi.
-
-
-
-
 Where is the bard, O river grand and old,
 That has thy praises sung, thy beauties told,
 In measures lofty as the mighty pride
 That lingers in thy deep and flowing tide?
 And where the echoing measures low and sweet
 That should thine own faint rippling songs repeat?
-
 The eyes of nature ever turned on thee
 Watch o'er thy restless wandering to the sea;
 The rosy morn awakes thee from thy sleep;
 Along thy dusky waves her glances creep,
 And o'er the weird dark shadows of the night
 She spreads her sunny robes of morning light.
-
 The yellow noon comes too, with fiery eyes,
 And all unwept the dewy morning dies;
 Thy waters run in waves of rippling gold,
@@ -3666,8 +2943,7 @@ Anon into a splendor falling low
 Of crimson stains and gleams of molten gold
 It changes, like great waves of fire rolled
 Across the sky.
-
-                 The moon caresses thee
+The moon caresses thee
 With rays of silver light as to the sea
 Thy dark waves glide; and shadows long and wide
 Reflect grim images within thy tide.
@@ -3675,18 +2951,15 @@ Pale stars that wander through the trackless skies
 All night, glance in thy depths with glowing eyes,
 And like a stream of silver flecked with gold
 Thy waters run.
-
-                 O river, proud and old,
+O river, proud and old,
 From snow-bound shores thy dark waves loosened run
 To mingle with the waters of the sun;
 And lo! from North and South, from East and West,
 Companions come to aid thee in thy quest.
-
 Along thy shores great cities stately stand,
 Sprung up beneath thy kindly welcoming hand;
 Proud commerce lives upon thy sweeping tide
 And palaces upon thy bosom glide.
-
 O Mississippi, monarch of the West,
 What daring hand can quell thy proud unrest?
 What human pen can paint thee as thou art,
@@ -3695,183 +2968,128 @@ Thou symbol of a nation strong and free,
 Whose throne is on the land and on the sea!
 What power is thine, what might is unto thee!
 Though men shall die, thy waters still will be.
-
-
-
-
-
 The Prince Imperial.
-
-
-
-
 Under the cross in the Southern skies,
 Where the beautiful night like a shadow lies,
 A fair young life went out in the light
 To wake no more in the star-crowned night.
-
 Beautiful visions of life were his,
-  Visions of triumph and fame;
+Visions of triumph and fame;
 Longing for glory that he might be
-  Worthy to wear his name.
-
+Worthy to wear his name.
 Brave was his heart as he sailed away
-  Under the Northern sky;
+Under the Northern sky;
 Leaving behind him all that he loved--
-  Stilling his heart's wild cry.
-
+Stilling his heart's wild cry.
 Proudly his mother, with royal pride,
-  Stifled her last regret;
+Stifled her last regret;
 Steeling her heart--but her dream was in vain
-  For the star of his race was set.
-
+For the star of his race was set.
 Surely the moon as he slept at night
-  Whispered his doom on high;
+Whispered his doom on high;
 Surely the waves in their rocky beds
-  Mourned as he passed them by.
-
+Mourned as he passed them by.
 For never again in the dusky night
-  Would the prince go sailing by;
+Would the prince go sailing by;
 Weaving his dreams with a boyish pride
-  Under the shadowy sky.
-
+Under the shadowy sky.
 Silent and cold in the morn he lay,
-  Slain by a ruthless hand!
+Slain by a ruthless hand!
 Never to wake with his fearless eyes--
-  Never again to command.
-
+Never again to command.
 Imperial mother--too well we know
 The speechless depths of her awful woe;
 For the bright young life into Eternity hurled
 Was her only like to a sad, dark world.
-
 But mothers kneel in the silent night
 To whisper a prayer to the Throne of Light,
 For the beautiful woman whose head lies low,
 Crushed 'neath the weight of its crown of woe.
-
 From sun to shadow her life has swayed
 Like some wild rose in a mountain glade;
 But the storms have won, and the blossom lies
 Forever broken--no more to rise.
-
-
-
-
-
 On the Lake.
-
-
-
-
 There's a beautiful lake where the sun lies low,
 And the skies are warm with their summer glow;
 And a beautiful picture there I see
 Where the winds are warm and the waves are free,
-  And the waves lie still in the sun
+And the waves lie still in the sun
 As the flowers at night, when the day is done.
-
 You may sing of your silvery seas by night
 When the moon looks down with a dreamy light;
 And the stars shine out in the skies above
 Like the warm sweet gaze of the eyes of love;
-  But the glow on the lake to-day
+But the glow on the lake to-day
 Is a glory that never will fade away.
-
 The beautiful lake is a sea of gold
 And the beauty it wears will never grow old;
 The trees bend down in the sun's warm glow
 Till their branches meet in the waves below,
-  And the clouds in the far-off skies
+And the clouds in the far-off skies
 Are mirrored anew where the sunlight lies.
-
 I love to float where the shadows lie
 'Neath the matchless glow of the summer sky;
 And I love to dream that these waves of light
 Will never fade in the gloomy night:
-  But I know that the things I love
+But I know that the things I love
 Are as far from my reach as the clouds above.
-
 Oh, the beautiful lake is a sea of gold
 And the beauty it wears will never grow old;
 The cloudlets of Heaven are mirrored there
 In a golden splendor so bright and fair
-  That the soul is dazzled for aye
+That the soul is dazzled for aye
 By the beautiful light of this summer's day.
-
 Oh, I love to dream when this life is o'er
 We shall moor our boats near the golden shore;
 And our sorrows shall drift from us far away
 As the leaves that float in their idle play,
-  And the waves shall smile in the sun
+And the waves shall smile in the sun
 When the night is over and life is done.
-
-
-
-
-
 Beyond.
-
-
-
-
 Beyond yon dim old mountain's shadowy height,
-  The restless sun droops low his grand old face;
+The restless sun droops low his grand old face;
 While downward sweeps the trembling veil of night,
-  To hide the earth; the frost king's filmy lace
+To hide the earth; the frost king's filmy lace
 Rests on the mountain's hoary snow-crowned head,
-  And adds to it a softened grace; the light
+And adds to it a softened grace; the light
 Which dies afar in faint and fading red
-  In purple shadows circles near.
-
-                                   The flight
+In purple shadows circles near.
+The flight
 Of birds across the vast and silent plains
-  Awakes the echoes of the sleeping earth;
+Awakes the echoes of the sleeping earth;
 Of all the summer beauty naught remains,
-  There come no tidings of the spring's glad birth.
-
+There come no tidings of the spring's glad birth.
 Beyond the valley and far-off height
-  The birds in wandering do take their way;
+The birds in wandering do take their way;
 Ah, whither is their strange and trackless flight
-  Amid the dying embers of the day;
+Amid the dying embers of the day;
 Into the clouds that seek to veil the sun
-  They seem to float on strange bright wings of fire;
+They seem to float on strange bright wings of fire;
 Beyond the shades that tell us day is done
-  They soar on spirit wings that never tire.
-
+They soar on spirit wings that never tire.
 Ah, strange, strange mysteries indeed are these;
-  To watch the sunlight fade and die away,
+To watch the sunlight fade and die away,
 To hear the whispering of the dark pine trees,
-  To see the deepening shadows 'round us play,
+To see the deepening shadows 'round us play,
 And then to feel that all that 'round us lies
-  Is e'en beyond the knowledge of the soul.
+Is e'en beyond the knowledge of the soul.
 We seek to grasp the truth, it quickly flies
-  And leaves us full of doubt.
-
-                                Around us roll
+And leaves us full of doubt.
+Around us roll
 The spheres that light the way to heaven's shore,
-  And soon their lights will brighten all the sky;
+And soon their lights will brighten all the sky;
 And yet we dare not read their mystic lore
-  But only stand and wait and wonder why,
+But only stand and wait and wonder why,
 Beyond, beyond in deep mysterious space
-  They wander through the darkness all the night,
+They wander through the darkness all the night,
 Each one within its own allotted place.
-
-  The stars' dim course, the birds' lone dreamy flight,
+The stars' dim course, the birds' lone dreamy flight,
 Will ever fill our souls with doubt and fear.
-  We walk upon life's unknown shadowy shore
+We walk upon life's unknown shadowy shore
 With wandering steps, while through the heavens clear
-  The stars their music sing forevermore.
-
-
-
-
-
+The stars their music sing forevermore.
 A Sonnet.
-
-
-
-
 Sweet summer queen, with trailing robe of green,
 What spell has thou to bind the heart to thee?
 Thy throne is built upon the sun-lit sea,
@@ -3886,728 +3104,493 @@ In crimson robes and hues of flashing gold
 He'll clothe thee, and thy beauty in the night
 Will take a richer glow.  But wintry death
 Will come and wrap thee in his fold.
-
-
-
-
-
 Under the Sea.
-
-
-
-
 Under the sea, the great wide sea
-  That sweeps the golden shore;
+That sweeps the golden shore;
 What treasures lie beneath the waves
-  Forevermore!
-
+Forevermore!
 Ask of the winds, the sobbing winds
-  That toss the waves on high;
+That toss the waves on high;
 And fling the burden of their song
-  Unto the sky.
-
+Unto the sky.
 Ask of the stars, the jeweled stars
-  That sleep within the tide;
+That sleep within the tide;
 Like golden lilies floating far,
-  And swinging wide.
-
+And swinging wide.
 Ask of the clouds that drift at noon
-  In fadeless seas of blue,
+In fadeless seas of blue,
 And looking down see skies beneath
-  Of deeper hue.
-
+Of deeper hue.
 Up in the sky, the golden clouds
-  Will never make reply;
+Will never make reply;
 Deep in the sea, the jeweled stars
-  In silence lie.
-
+In silence lie.
 Under the sea, the great wide sea
-  That sweeps the golden shore,
+That sweeps the golden shore,
 Are secrets hidden from us now
-  And evermore.
-
-
-
-
-
+And evermore.
 The Old Year and the New.
-
-
-
-
 Low at my feet there lies to-night
-  A crushed and withered rose;
+A crushed and withered rose;
 Within its heart of fading red
-  No crimson fire glows;
+No crimson fire glows;
 For o'er its leaves the frost of death
-  Steals like an icy breath;
+Steals like an icy breath;
 And soon 't will vanish from my sight,
-  A thing of gloom and death.
-
+A thing of gloom and death.
 Ah! beauteous flower, once thou wert
-  My pleasure and my pride;
+My pleasure and my pride;
 And now when thou art old and worn
-  I will not turn aside;
+I will not turn aside;
 But gently o'er thy faded leaves
-  I'll shed one kindly tear;
+I'll shed one kindly tear;
 That thou wilt know, though dead and gone,
-  To memory thou art dear.
-
+To memory thou art dear.
 Before my gaze there lies to-night
-  A rose-bud fresh and fair;
+A rose-bud fresh and fair;
 And like the breath of dewy morn
-  Its fragrance scents the air.
+Its fragrance scents the air.
 This fragile flower I fain would pluck
-  With hand most kind yet bold;
+With hand most kind yet bold;
 And watch its petals day by day
-  Their shining wealth unfold.
-
+Their shining wealth unfold.
 And soon 'twill be my very own
-  To keep forevermore:
+To keep forevermore:
 This flower that bloomed for me alone
-  Upon a heavenly shore.
+Upon a heavenly shore.
 God grant my hands may guard it well
-  And keep it pure and fair;
+And keep it pure and fair;
 For angel hands have gathered it
-  And placed it in my care.
-
+And placed it in my care.
 Then fare thee well, thou dying year,
-  Thou art my withered rose;
+Thou art my withered rose;
 And on the stem where once thou wert,
-  Another flower grows;
+Another flower grows;
 Yet fear thee not, when thou are dead,
-  To thee I'll still be true;
+To thee I'll still be true;
 And 'mid the joys of other years
-  I still will think of you.
-
-
-
-
-
+I still will think of you.
 Easter.
-
-
-
-
 Let all the flowers wake to life;
-  Let all the songsters sing;
+Let all the songsters sing;
 Let everything that lives on earth
-  Become a joyous thing.
-
+Become a joyous thing.
 Wake up, thou pansy, purple-eyed,
-  And greet the dewy spring;
+And greet the dewy spring;
 Swell out, ye buds, and o'er the earth
-  Thy sweetest fragrance fling.
-
+Thy sweetest fragrance fling.
 Why dost thou sleep, sweet violet?
-  The earth has need of thee;
+The earth has need of thee;
 Wake up and catch the melody
-  That sounds from sea to sea.
-
+That sounds from sea to sea.
 Ye stars, that dwell in noonday skies,
-  Shine on, though all unseen;
+Shine on, though all unseen;
 The great White Throne lies just beyond,
-  The stars are all between.
-
+The stars are all between.
 Ring out, ye bells, sweet Easter bells,
-  And ring the glory in;
+And ring the glory in;
 Ring out the sorrow, born of earth--
-  Ring out the stains of sin.
-
+Ring out the stains of sin.
 O banners wide, that sweep the sky,
-  Unfurl ye to the sun;
+Unfurl ye to the sun;
 And gently wave about the graves
-  Of those whose lives are done.
-
+Of those whose lives are done.
 Let peace be in the hearts that mourn--
-  Let "Rest" be in the grave;
+Let "Rest" be in the grave;
 The Hand that swept these lives away
-  Hath power alone to save.
-
+Hath power alone to save.
 Ring out, ye bells, sweet Easter bells,
-  And ring the glory in;
+And ring the glory in;
 Ring out the sorrow, born of earth--
-  Ring out the stains of sin.
-
-
-
-
-
+Ring out the stains of sin.
 May.
-
-
-
-
 The world is full of gems to-day,
-  The world is full of love;
+The world is full of love;
 The earth is strewn with star-gemmed flowers
-  That fall from skies above.
-
+That fall from skies above.
 The sunshine is a stream of gold
-  That flows from flower to flower;
+That flows from flower to flower;
 The shadows are but passing thoughts
-  That mark each shining hour.
-
+That mark each shining hour.
 The pansy nods her purple head,
-  And sings a silent song;
+And sings a silent song;
 Her life is full of sunny hours--
-  The days are never long.
-
+The days are never long.
 The rose uplifts her sun-crowned head;
-  She is the queen of love;
+She is the queen of love;
 Her eyes behold the hidden stars
-  That glow in skies above.
-
+That glow in skies above.
 There is a fragrance in the air,
-  A glory in the sky;
+A glory in the sky;
 Oh, who would sigh for other days,
-  Or grieve for things gone by?
-
-
-
-
-
+Or grieve for things gone by?
 Summer Rain.
-
-
-
-
 Oh, what is so pure as the glad summer rain,
 That falls on the grass where the sunlight has lain?
 And what is so fair as the flowers that lie
 All bathed in the tears of the soft summer sky?
-
 The blue of the heavens is dimmed by the rain
 That wears away sorrow and washes out pain;
 But we know that the flowers we cherish would die
 Were it not for the tears of the cloud-laden sky.
-
 The rose is the sweeter when kissed by the rain,
 And hearts are the dearer where sorrow has lain;
 The sky is the fairer that rain-clouds have swept,
 And no eyes are so bright as the eyes that have wept.
-
 Oh, they are so happy, these flowers that die,
 They laugh in the sunshine, oh, why cannot I?
 They droop in the shadow, they smile in the sun,
 Yet they die in the winter when summer is done.
-
 The lily is lovely, and fragrant her breath,
 But the beauty she wears is the emblem of death;
 The rain is so fair as it falls on the flowers,
 But the clouds are the shadows of sunnier hours.
-
 Why laugh in the sunshine, why smile in the rain?
 The world is a shadow and life is a pain;
 Why live in the summer, why dream in the sun,
 To die in the winter, when summer is done?
-
 Oh, there is the truth that each life underlies,
 That baffles the poets and sages so wise;
 Ah! there is the bitter that lies in the sweet
 As we gather the roses that bloom at our feet.
-
 Oh, flowers forgive me, I'm willful to-day,
 Oh, take back the lesson you gave me I pray;
 For I slept in the sunshine, I woke in the rain
 And it banished forever my sorrow and pain.
-
-
-
-
-
 September.
-
-
-
-
 Oh, soon the forests all will boast
-  A crown of red and gold;
+A crown of red and gold;
 A purple haze will circle round
-  The mountains dim and old;
+The mountains dim and old;
 Afar the hills, now green and fair,
-  Their sombre robes will wear;
+Their sombre robes will wear;
 A mist-like veil will dim the sun
-  And linger on the air.
-
+And linger on the air.
 Already seems the earth half sad
-  The summer-child is dead;
+The summer-child is dead;
 And who can tell the dreams gone by,
-  The tales of life unsaid?
+The tales of life unsaid?
 September is a glowing time;
-  A month of happy hours;
+A month of happy hours;
 Yet in its crimson heart lies hid
-  The frost that kills the flowers.
-
+The frost that kills the flowers.
 Life, too, may feel the glory near
-  And wear its crown of gold;
+And wear its crown of gold;
 Yet are the snows not nearest then?
-  Are hearts not growing old?
+Are hearts not growing old?
 September is the prime of life,
-  The glory of the year;
+The glory of the year;
 Yet when the leaves begin to fall
-  The winter must be near.
-
-
-
-
-
+The winter must be near.
 October.
-
-
-
-
 I would not ask thee back, fair May,
-  With all your bright-eyed flowers;
+With all your bright-eyed flowers;
 Nor would I welcome April days
-  With all their laughing showers;
+With all their laughing showers;
 For each bright season of the year
-  Can claim its own sweet pleasures;
+Can claim its own sweet pleasures;
 And we must take them as they come--
-  These gladly-given treasures.
-
+These gladly-given treasures.
 There's music in the rain that falls
-  In bright October weather;
+In bright October weather;
 And we must learn to love them both--
-  The sun and rain together.
+The sun and rain together.
 A mist is 'round the mountain-tops
-  Of gold-encircled splendor;
+Of gold-encircled splendor;
 A dreamy spell is in the air
-  Of beauty sad and tender.
-
+Of beauty sad and tender.
 The winter hath not wooed her yet,
-  This fair October maiden;
+This fair October maiden;
 And she is free to wander still
-  With fruits and flowers laden.
+With fruits and flowers laden.
 She shakes the dew-drops from her hair
-  In one swift, golden shower;
+In one swift, golden shower;
 And all the woods are filled with light
-  That gilds each autumn flower.
-
+That gilds each autumn flower.
 But soon the frost-king's icy breath
-  Will chill her laughing beauty;
+Will chill her laughing beauty;
 And she will waken in the dusk
-  Unto a sterner duty.
+Unto a sterner duty.
 Ah! life is full of days like these,
-  Of days too bright to perish;
+Of days too bright to perish;
 Yet death, like winter, claims too oft
-  The things we most would cherish.
-
-
-
-
-
+The things we most would cherish.
 Falling Leaves.
-
-
-
-
 There was a sound of music low--
-  An undertone of laughter;
+An undertone of laughter;
 The song was done, and can't you guess
-  The words that followed after?
-
+The words that followed after?
 Like autumn leaves sometimes they fall--
-  The words that burn and falter;
+The words that burn and falter;
 And is it true they too must fade
-  Upon Love's sacred alter?
-
+Upon Love's sacred alter?
 From memory each one of us
-  Can cull some sweetest treasure;
+Can cull some sweetest treasure;
 Yet golden days, like golden leaves,
-  Give pain as well as pleasure.
-
+Give pain as well as pleasure.
 There was a sound of music low--
-  An undertone of laughter:
+An undertone of laughter:
 The sun was gone--yet heaven knew
-  The stars that followed after.
-
-
-
-
-
+The stars that followed after.
 Autumn Flowers.
-
-
-
-
 O crimson-tined flowers
-  That live when others die,
+That live when others die,
 What thoughtless hand unloving
-  Could ever pass you by?
-
+Could ever pass you by?
 You are the last bright blossoms,
-  The summer's after-glow,
+The summer's after-glow,
 When all her early children
-  Have faded long ago.
-
+Have faded long ago.
 Sweet golden-rod and xenia
-  And crimson marigold,
+And crimson marigold,
 What dreams of autumn splendor
-  Your velvet leaves unfold.
-
+Your velvet leaves unfold.
 Long, long ago the violets
-  Have closed their sweet blue eyes,
+Have closed their sweet blue eyes,
 And lain with pale, dead faces
-  Beneath the summer skies.
-
+Beneath the summer skies.
 And on their graves you blossom
-  With leaves of gold and red,
+With leaves of gold and red,
 And yet--how soon forever
-  Your beauty will be fled.
-
+Your beauty will be fled.
 The frost will come to kill you
-  The snows will wrap you round;
+The snows will wrap you round;
 And you will sleep forgotten
-  Upon the frozen ground.
-
+Upon the frozen ground.
 Your tints are like the beauty
-  The sunlight leaves behind,
+The sunlight leaves behind,
 And deep and full of sadness
-  The thoughts you bring to mind.
-
+The thoughts you bring to mind.
 Dear memories of the summer!
-  Sweet tokens of the past!
+Sweet tokens of the past!
 You are the fairest flowers
-  Because you are the last.
-
-
-
-
-
+Because you are the last.
 Remembrance.
-
-
-
-
 Why should we dream of days gone by?
-  Why should we wait and wonder?
+Why should we wait and wonder?
 Sweet summer days have come and gone,
-  The leaves are falling yonder.
-
+The leaves are falling yonder.
 The wee sweet flowers we loved the best,
-  The king of frost has chosen;
+The king of frost has chosen;
 And now the sun looks sadly down
-  Upon his darlings frozen.
-
+Upon his darlings frozen.
 Ah! summer sun and autumn frost,
-  You are at war forever;
+You are at war forever;
 For all the ties that one would make
-  The other fain would sever.
-
+The other fain would sever.
 With autumn days remembrance comes
-  Of golden glories fleeting;
+Of golden glories fleeting;
 Of pleasures gone and sorrows come--
-  Of parting and of meeting.
-
+Of parting and of meeting.
 Oh! summer days, why haunt us still?
-  Remembrance is a sorrow;
+Remembrance is a sorrow;
 And all the dreams we dream to-day
-  Will fade upon the morrow.
-
+Will fade upon the morrow.
 Each life has some sweet summer-time,
-  Some perfect day of beauty;
+Some perfect day of beauty;
 When flowers of love and leaves of hope
-  Are twined around each duty.
-
+Are twined around each duty.
 But oh! the autumn-time will come,
-  Which fades each golden glory;
+Which fades each golden glory;
 And life, when we are old and gray,
-  Seems but a sad, old story.
-
-
-
-
-
+Seems but a sad, old story.
 Winter Flowers.
-
-
-
-
 The summer queen has many flowers
-  To deck her sunny hair,
+To deck her sunny hair,
 And trailing grasses, pure and sweet,
-  To scent the heavy air;
+To scent the heavy air;
 And upward through the misty sky
-  There is a glory too,
+There is a glory too,
 Of floating clouds and rifts of gold
-  And depths of smiling blue.
-
-
+And depths of smiling blue.
 Yet winter, too, can boast a wealth
-  Of flowers pure and white;
+Of flowers pure and white;
 A kingly crown of frosted gems--
-  A wreath of sparkling light;
+A wreath of sparkling light;
 So bright and beautiful, indeed,
-  It were a wondrous sight
+It were a wondrous sight
 To see a world of fragile flowers
-  Sprung up within a night.
-
+Sprung up within a night.
 And sometimes there are cast'es, too,
-  Of glittering ice and snow,
+Of glittering ice and snow,
 Piled high upon our window-panes
-  'Neath curtains hanging low;
+'Neath curtains hanging low;
 And they are like the castles fair
-  Our day-dreams build for aye;
+Our day-dreams build for aye;
 A frozen mist that one warm breath
-  May quickly drive away.
-
+May quickly drive away.
 And yet, how beautiful they are,
-  These flowers of our breath;
+These flowers of our breath;
 That bloom when not a leaf is left
-  To mourn the summer's death.
+To mourn the summer's death.
 And oh! how wondrous are the things
-  That God has given the earth;
+That God has given the earth;
 The day that brings to one a death
-  Smiles on another's birth.
-
-
-
-
-
+Smiles on another's birth.
 Snow-Flakes.
-
-
-
-
 I wonder what they are,
-  These pretty, wayward things,
+These pretty, wayward things,
 That o'er the gloomy earth
-  The wind of heaven flings.
-
+The wind of heaven flings.
 Each one a tiny star,
-  And each a perfect gem;
+And each a perfect gem;
 What magic in the art
-  That thus has fashioned them.
-
+That thus has fashioned them.
 What beauty in the flake
-  That falls upon my hand;
+That falls upon my hand;
 And yet this tiny thing
-  My will cannot command.
-
+My will cannot command.
 No two are just alike,
-  And yet they are the same;
+And yet they are the same;
 I wonder if my thought
-  Could give to each a name.
-
+Could give to each a name.
 Unlike the fragile flowers
-  That love the sun's warm rays,
+That love the sun's warm rays,
 These snow-flakes love the cold,
-  And die on sunny days!
-
+And die on sunny days!
 So dainty and so pure,
-  How beautiful they are;
+How beautiful they are;
 And yet the slightest touch
-  Their purity may mar.
-
+Their purity may mar.
 They must be gazed upon,
-  Not handled or caressed;
+Not handled or caressed;
 And thus we hold afar
-  The things we love the best.
-
-
-
-
-
+The things we love the best.
 Sunset on the Mississippi.
-
-
-
-
 O beautiful hills in the purple light,
-  That shadow the western sky,
+That shadow the western sky,
 I dream of you oft in the silent night,
-  As the golden days go by.
-
+As the golden days go by.
 The river that flows at my longing feet
-  Is tinged with a deeper glow;
+Is tinged with a deeper glow;
 But the song that it sings is as sad to-day
-  As it was in the long ago.
-
+As it was in the long ago.
 The far-off clouds in the far-off sky
-  Are tinted with gold and red;
+Are tinted with gold and red;
 But the lesson they tell to the hearts of men
-  Is a lesson that never is said.
-
+Is a lesson that never is said.
 The star-crowned night in her sable plumes
-  Is veiling the eastern sky,
+Is veiling the eastern sky,
 And she trails her robes in the dying fires
-  That far in the west do lie.
-
+That far in the west do lie.
 A single gem from her circlet old
-  Is lost as she wanders by,
+Is lost as she wanders by,
 And the beautiful star with its golden light
-  Shines out in the lonely sky.
-
+Shines out in the lonely sky.
 O beautiful star in the misty sky,
-  My soul would take wings with tee;
+My soul would take wings with tee;
 But you sail away in your golden seas
-  With never a thought for me.
-
+With never a thought for me.
 O sun-crowned hills in the purple light.
-  I could sit at your feet forever;
+I could sit at your feet forever;
 But you fade away in the shadowy night
-  And I'll see you again, ah, never.
-
+And I'll see you again, ah, never.
 Dark river that flows at my longing feet,
-  I list to your music low;
+I list to your music low;
 But the song that you sing brings me thoughts to-night
-  Of the beautiful long ago;
-
+Of the beautiful long ago;
 And my soul grows sad as I think of the day--
-  That radiant day of light--
+That radiant day of light--
 When the sun went down in a glory of gold
-  'Neath the pitiless shadows of night.
-
+'Neath the pitiless shadows of night.
 Farewell, ye hills in the purple light;
-  Farewell to your glory forever;
+Farewell to your glory forever;
 You fade away in the silent night,
-  And I'll see you again, ah, never!
-
-
-
-
-
+And I'll see you again, ah, never!
 Not Dead, but Sleeping.
-
-
-
-
-[To the memory of Edwin B. Foster, a member of the Howards, who
 nobly sacrificed his own life for others, and in remembrance of
 those unknown to fame or friends who have silently followed in
 the steps of our Saviour.]
-
-
-
 The shadow of death is around us all,
-  And life is a sorrowful thing;
+And life is a sorrowful thing;
 For the winds sweep by with a mournful sigh,
-  And sad are the tidings they bring.
-
+And sad are the tidings they bring.
 He is dead--and the strong, brave life that he gave
-  Seemed offered to God in vain;
+Seemed offered to God in vain;
 Yet he died, Christ-like, in a labor of love,
-  'Mid sorrow and death and pain.
-
+'Mid sorrow and death and pain.
 And why should we sorrow--the crown is his
-  And the glory of life is won;
+And the glory of life is won;
 Though he died when his labor was just begun,
-  Yet the work of his life is done.
-
+Yet the work of his life is done.
 The beautiful South is a land of death,
-  Where the shadows darken the sun;
+Where the shadows darken the sun;
 And the moans of the dying are heard in the night
-  When the deeds of the day are done.
-
+When the deeds of the day are done.
 The sunlight falls with a dreary gleam
-  On the cities where ruin is spread,
+On the cities where ruin is spread,
 And the rain beats down with a mournful sound
-  On the graves of the silent dead.
-
+On the graves of the silent dead.
 Yet high in the heavens a Hand is stretched,
-  That treasures the deeds of love;
+That treasures the deeds of love;
 And the lives gone out in the darkness below
-  Are wrapped in the glory above.
-
+Are wrapped in the glory above.
 The North bends down in her icy pride
-  And kisses the land of the sun;
+And kisses the land of the sun;
 Love joins them both in a flood of tears,
-  And the glory of peace is won.
-
+And the glory of peace is won.
 The hand that was dyed in a brother's blood
-  Now eases that brother's pain;
+Now eases that brother's pain;
 And the hearts that in life were driven apart,
-  In death are united again.
-
+In death are united again.
 Then why should we sorrow--our God is love,
-  And lives are not lived in vain;
+And lives are not lived in vain;
 Bright hope still shines like a star of night
-  In the shadow of death and pain.
-
-
-
-
-
+In the shadow of death and pain.
 A Sunbeam.
-
-
-
-
 The sun was hid all day by clouds,
-  The rain fell softly down;
+The rain fell softly down;
 A cold gray mist hung o'er the earth,
-  And veiled the silent town.
-
+And veiled the silent town.
 Behind the clouds a sunbeam crept
-  With restless wings of gold;
+With restless wings of gold;
 The skies above were bright and warm,
-  The earth below was cold.
-
+The earth below was cold.
 It glanced along the heavy clouds,
-  Then sought to glide between;
+Then sought to glide between;
 But ah! they gathered closer still,
-  With fierce and angry mien.
-
+With fierce and angry mien.
 The dancing ray grew strangely still,
-  Just like some weary bird,
+Just like some weary bird,
 That droops upon a lonely shore,
-  And sings its song unheard.
-
+And sings its song unheard.
 For on the earth the drooping flowers
-  Were longing for the light;
+Were longing for the light;
 And children with their watching eyes
-  Could trace no sunbeam's flight.
-
+Could trace no sunbeam's flight.
 At last an angel, wand'ring by,
-  With snowy wings outspread,
+With snowy wings outspread,
 Beheld the sunbeam sad at heart,
-  And passing by she said:
-
+And passing by she said:
 "Why wait you here above the clouds,
-  The earth has need of you;
+The earth has need of you;
 Spread out your wings, speed quickly on
-  And pierce the vapor through."
-
+And pierce the vapor through."
 But still the sunbeam mournfully
-  Gazed on the gloom below;
+Gazed on the gloom below;
 Then looked up in the spirit's face
-  With softened, anxious glow.
-
+With softened, anxious glow.
 The angel smiled, the clouds gave way
-  And drifted far apart;
+And drifted far apart;
 And lo! the glory of that smile
-  Fell on each earthly heart.
-
+Fell on each earthly heart.
 Then quickly through the widening rift
-  The sunbeam drifted down;
+The sunbeam drifted down;
 A ray of gold fell through the mist
-  Upon the silent town.
-
+Upon the silent town.
 Two weary eyes beheld its light,
-  Then closed forevermore;
+Then closed forevermore;
 A soul passed through the rift of blue
-  And reached the farther shore.
-
+And reached the farther shore.
 One moment o'er the wan, white face
-  A ray of glory fell;
+A ray of glory fell;
 Then shadows came, the sunbeam fled;
-  Its future who can tell?
-
+Its future who can tell?
 Once more the clouds enwrapped the earth,
-  The rain fell softly down;
+The rain fell softly down;
 A cold, gray mist hung o'er the hills
-  And veiled the silent town.
-
-
-
-
-
+And veiled the silent town.
 The Phantom of Love.
-
-
-
-
 She stood by my side with a queenly air,
 Her face it was young and proud and fair;
 She held my rose in her hands of snow;
@@ -4616,7 +3599,6 @@ The sunlight drooped in her eyes of fire
 And quickened my heart to a wild desire;
 I envied the rose in her hands so fair,
 I envied the flowers that gleamed in her hair.
-
 Ah! many a suitor I knew before
 Had knelt at her feet in the days of yore;
 And many a lover as foolish as I,
@@ -4625,7 +3607,6 @@ She had scorned them all with a careless grace
 And a woman's scorn on her beautiful face.
 Yet now in the summer I knelt at her feet,
 And dreamed a dream that was fair and sweet.
-
 The roses drooped in her gold-brown hair,
 And quivered and glowed in the sun-lit air;
 The jewels gleamed on her hands of snow
@@ -4634,7 +3615,6 @@ A river of gold ran low at our feet,
 And echoed the words I cannot repeat.
 Oh! life was fair that I loved the sun!
 And love was so sweet when the day was done!
-
 The sun in her velvety eyes looked down
 And deepened their glow to a warmer brown.
 I loved this woman, this woman so fair,
@@ -4643,7 +3623,6 @@ I drank in her beauty as men drink wine,--
 It filled my soul with a love divine.
 The touch of her hand was madness to me;
 Oh, my love was as great as love could be!
-
 I kissed the roses that drooped in her hair,
 I pressed the dews from her lips so fair;
 I held her hands in my own once more;
@@ -4652,7 +3631,6 @@ And what did we care that the sun was low,
 And the hills were bright with the sunset glow?
 The purple that glowed in the skies above,
 Was the royal banner of hope and love.
-
 One perfumed breath from her lips so fair,
 One sacred kiss on her sun-lit hair,
 And then we parted as lovers meet--
@@ -4661,7 +3639,6 @@ And fastened them in, with a lover's prayer,
 Where she loved them best, in her silken hair;
 For the things she loved were as dear to me
 As the shining stars to the watching sea.
-
 On lake and river, the sun lay low
 Where we parted that night in the summer glow
 And the hanging clouds were steeped in red,
@@ -4679,7 +3656,6 @@ I stood alone where the dark reeds quiver,
 And the lilies pale in the night-winds shiver.
 I dreamed of my love that was fair as the day,
 Oh, the beautiful love that would last for aye!
-
 Oh! what is that--in the river there--
 Is it the gleam of the lilies tall and fair,
 Or only the branch of some fallen tree,
@@ -4688,19 +3664,16 @@ Oh, see! how strange it looks and how white.
 How it glistens and gleams in the shining light!
 It dazzles my eyes--Oh, what can it be?
 It is nearing the shore--it is coming to me!
-
 My God! that my eyes could be blind to-night
 To shut out forever that dreadful sight!
 Oh, God! am I mad--or can it be
 That the woman I loved is thus coming to me?
 That bright thing drifting down with the tide,
 Is all that is left of my beautiful bride!
-
 Oh, pitiless moon with your pale cold light,
 Grow dark for one instant and shut out that sight,
 Till my eyes, grown dim with the tears unshed
 Shall look no more on the face of my dead.
-
 The pale lilies circle around her head
 And whisper slowly--my love is dead.
 The dark weeds lie in her tangled hair,
@@ -4711,7 +3684,6 @@ Oh, God! is it I who am standing alone
 Where the night-winds shiver and creep and moan,
 Filling my soul with a grief so mad
 That I hate the things that are living and glad?
-
 Fear not, my love, you shall welcome be,
 For even in death you have come to me.
 The dead and the living shall lie to-night.
@@ -4722,14 +3694,12 @@ Her face is so white--is it a woman I see,
 Or only a phantom drifting past me?
 Her hand is so near--it touches my own--
 My God! it is gone--I am standing alone.
-
 Oh, why did I love when the sun was high,
 And the clouds lay piled in the glittering sky!
 Oh, why did I love when the sun lay low
 And the heavens were red with the blood-red glow!
 And why do I live when the purple light
 Is faded forever from out of my sight.
-
 Oh, beautiful demon, that men call love,
 As fair as the angels that smile above!
 'T were better that men should never be born
@@ -4738,10 +3708,3 @@ Than see thy face in the dewy morn.
 And worship in vain some cold, proud star;
 Than drink in thy beauty with passionate breath
 That brings to them only sorrow and death.
-
-
-
-
-
-End of the Project Gutenberg Etext of Love or Fame; and Other Poems
-

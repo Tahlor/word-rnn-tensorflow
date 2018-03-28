@@ -1,150 +1,71 @@
-�Project Gutenberg's Lundy's Lane and Other Poems, by Duncan Campbell Scott
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Lundy's Lane and Other Poems
-
-Author: Duncan Campbell Scott
-
-Release Date: September 22, 2007 [EBook #22717]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LUNDY'S LANE AND OTHER POEMS ***
-
-
-
-
 Produced by Marilynda Fraser-Cunliffe and the Online
 Distributed Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
 _Lundy's Lane
-
 and Other Poems_
-
-
-
-
 _By_
-
 _Duncan Campbell Scott_
-
-
 _Author of "The Magic House,"
 "In the Village of Viger," etc., etc._
-
-
-
 _McClelland, Goodchild & Stewart_
 _Publishers_ :: :: :: :: _Toronto_
-
 Copyright, 1916,
 By GEORGE H. DORAN COMPANY
-
 Printed in the United States of America
-
-
-
-
 To the Memory of My Daughter
-
-ELIZABETH DUNCAN SCOTT
-
-1895-1907
-
-
-
-
-CONTENTS
-
-
-                                                  Page
-
-THE BATTLE OF LUNDY'S LANE                         13
-
-VIA BOREALIS--
-  Spring on Mattagami                              25
-  An Impromptu                                     36
-  The Half-Breed Girl                              38
-  Night Burial in the Forest                       41
-  Dream Voyageurs                                  44
-  Song: Creep into My Heart                        45
-  Ecstasy                                          46
-
-LYRICS, SONGS AND SONNETS--
-  Meditation at Perugia                            49
-  At William MacLennan's Grave. Near Florence      53
-  The Wood-Spring to the Poet                      56
-  The November Pansy                               63
-  The Height of Land                               68
-  New Year's Night, 1916                           77
-  Fragment of an Ode to Canada                     79
-  Fantasia                                         84
-  The Lover to His Lass                            86
-  The Ghost's Story                                90
-  Night                                            92
-  The Apparition                                   94
-  At Sea                                           96
-  Madonna with Two Angels                          98
-  Mid-August                                      100
-  Mist and Frost                                  105
-  The Beggar and the Angel                        110
-  Improvisation on an Old Song                    117
-  O Turn Once More                                121
-  At the Gill-Nets                                124
-  A Love Song                                     126
-  Three Songs:
-      I Where love is life                        128
-     II Nothing came here but sunlight            129
-    III I have songs of dancing pleasure          129
-  The Sailor's Sweetheart                         131
-  Feuilles d'Automne                              133
-  To the Heroic Soul:
-     I Nurture thyself, O Soul!                   135
-    II Be strong, O Warring Soul!                 136
-  Retrospect                                      138
-  Frost Magic:
-     I Now in the moonrise, from a wintry sky     139
-    II With these alone he draws in magic lines   140
-  In Snow-Time                                    142
-  To a Canadian Lad Killed in the War             143
-
-THE CLOSED DOOR--
-  By a Child's Bed                                147
-  Elizabeth Speaks                                149
-  A Legend of Christ's Nativity                   154
-  Willow-Pipes                                    163
-  Angel                                           164
-  Christmas Folk-Song                             165
-  From Beyond                                     166
-  The Leaf                                        167
-  A Mystery Play                                  168
-
-LINES IN MEMORY OF EDMUND MORRIS                  179
-
-
-
-
-THE BATTLE OF LUNDY'S LANE
-
-
-
-
-THE BATTLE OF LUNDY'S LANE
-
+Page
+Spring on Mattagami                              25
+An Impromptu                                     36
+The Half-Breed Girl                              38
+Night Burial in the Forest                       41
+Dream Voyageurs                                  44
+Song: Creep into My Heart                        45
+Ecstasy                                          46
+Meditation at Perugia                            49
+At William MacLennan's Grave. Near Florence      53
+The Wood-Spring to the Poet                      56
+The November Pansy                               63
+The Height of Land                               68
+New Year's Night, 1916                           77
+Fragment of an Ode to Canada                     79
+Fantasia                                         84
+The Lover to His Lass                            86
+The Ghost's Story                                90
+Night                                            92
+The Apparition                                   94
+At Sea                                           96
+Madonna with Two Angels                          98
+Mid-August                                      100
+Mist and Frost                                  105
+The Beggar and the Angel                        110
+Improvisation on an Old Song                    117
+O Turn Once More                                121
+At the Gill-Nets                                124
+A Love Song                                     126
+Three Songs:
+I Where love is life                        128
+II Nothing came here but sunlight            129
+III I have songs of dancing pleasure          129
+The Sailor's Sweetheart                         131
+Feuilles d'Automne                              133
+To the Heroic Soul:
+I Nurture thyself, O Soul!                   135
+II Be strong, O Warring Soul!                 136
+Retrospect                                      138
+Frost Magic:
+I Now in the moonrise, from a wintry sky     139
+II With these alone he draws in magic lines   140
+In Snow-Time                                    142
+To a Canadian Lad Killed in the War             143
+By a Child's Bed                                147
+Elizabeth Speaks                                149
+A Legend of Christ's Nativity                   154
+Willow-Pipes                                    163
+Angel                                           164
+Christmas Folk-Song                             165
+From Beyond                                     166
+The Leaf                                        167
+A Mystery Play                                  168
 Rufus Gale speaks--1852
-
-
 Yes,--in the Lincoln Militia,--in the war of eighteen-twelve;
 Many's the day I've had since then to dig and delve--
 But those are the years I remember as the brightest years of all,
@@ -160,8 +81,7 @@ Whenever they broke our line we broke their line,
 They took our guns and we won them again, and around the levels
 Where the hill sloped up--with the Eighty-ninth,--we fought like devils
 Around the flag;--and on they came and we drove them back,
-  Until with its very fierceness the fight grew slack.
-
+Until with its very fierceness the fight grew slack.
 It was then about nine and dark as a miser's pocket,
 When up came Hercules Scott's brigade swift as a rocket,
 And charged,--and the flashes sprang in the dark like a lion's eyes;
@@ -223,196 +143,157 @@ You wanted to prove him in battle, You sent him to Lundy's Lane,
 "Give me back my Abner--give me back my son!"
 It was so all through the winter until the spring had begun,
 And the crocus was up in the dooryard, and the drift by the fence
-    was thinned,
+was thinned,
 And the sap drip-dropped from the branches wounded by the wind,
 And the whole earth smelled like a flower,--then she came to me one
-    night--
+night--
 "Rufus!" she said, with a sob in her throat,--"Rufus, you're right."
 I hadn't cried till then, not a tear--but then I was torn in two--
 There, it's all right--my eyes don't see as they used to do!
-
 But O the joy of that battle--it was worth the whole of life,
 You felt immortal in action with the rapture of the strife,
 There in the dark by the river, with the flashes of fire before,
 Running and crashing along, there in the dark, and the roar
 Of the guns, and the shrilling cheers, and the knowledge that filled
-    your heart
+your heart
 That there was a victory making and you must do your part,
 But--there's his grave in the orchard where the headstone glimmers
-    white:
+white:
 We could see it, we thought, from our window even on the darkest
-    night;
+night;
 It is set there for a sign that what one lad could do
 Would be done by a hundred hundred lads whose hearts were stout and
-    true.
+true.
 And when in the time of trial you hear the recreant say,
 Shooting his coward lips at us, "You shall have had your day:
 For all your state and glory shall pass like a cloudy wrack,
 And here some other flag shall fly where flew the Union Jack,"--
 Why tell him a hundred thousand men would spring from these sleepy
-    farms,
+farms,
 To tie that flag in its ancient place with the sinews of their arms;
 And if they doubt you and put you to scorn, why you can make it plain,
 With the tale of the gallant Lincoln men and the fight at Lundy's Lane.
-
-1908.
-
-
-
-
-VIA BOREALIS
-
-TO
-
 _Pelham Edgar_
-
-
-
-
-SPRING ON MATTAGAMI
-
-
 Far in the east the rain-clouds sweep and harry,
-  Down the long haggard hills, formless and low,
+Down the long haggard hills, formless and low,
 Far in the west the shell-tints meet and marry,
-  Piled gray and tender blue and roseate snow;
+Piled gray and tender blue and roseate snow;
 East--like a fiend, the bolt-breasted, streaming
-  Storm strikes the world with lightning and with hail;
+Storm strikes the world with lightning and with hail;
 West--like the thought of a seraph that is dreaming,
-  Venus leads the young moon down the vale.
-
+Venus leads the young moon down the vale.
 Through the lake furrow between the gloom and bright'ning
-  Firm runs our long canoe with a whistling rush,
+Firm runs our long canoe with a whistling rush,
 While Potàn the wise and the cunning Silver Lightning
-  Break with their slender blades the long clear hush;
+Break with their slender blades the long clear hush;
 Soon shall I pitch my tent amid the birches,
-  Wise Potàn shall gather boughs of balsam fir,
+Wise Potàn shall gather boughs of balsam fir,
 While for bark and dry wood Silver Lightning searches;
-  Soon the smoke shall hang and lapse in the moist air.
-
+Soon the smoke shall hang and lapse in the moist air.
 Soon shall I sleep--if I may not remember
-  One who lives far away where the storm-cloud went;
+One who lives far away where the storm-cloud went;
 May it part and starshine burn in many a quiet ember,
-  Over her towered city crowned with large content;
+Over her towered city crowned with large content;
 Dear God, let me sleep, here where deep peace is,
-  Let me own a dreamless sleep once for all the years,
+Let me own a dreamless sleep once for all the years,
 Let me know a quiet mind and what heart ease is,
-  Lost to light and life and hope, to longing and to tears.
-
+Lost to light and life and hope, to longing and to tears.
 Here in the solitude less her memory presses,
-  Yet I see her lingering where the birches shine,
+Yet I see her lingering where the birches shine,
 All the dark cedars are sleep-laden like her tresses,
-  The gold-moted wood-pools pellucid as her eyen;
+The gold-moted wood-pools pellucid as her eyen;
 Memories and ghost-forms of the days departed
-  People all the forest lone in the dead of night;
+People all the forest lone in the dead of night;
 While Potàn and Silver Lightning sleep, the happy-hearted,
-  Troop they from their fastnesses upon my sight.
-
+Troop they from their fastnesses upon my sight.
 Once when the tide came straining from the Lido,
-  In a sea of flame our gondola flickered like a sword,
+In a sea of flame our gondola flickered like a sword,
 Venice lay abroad builded like beauty's credo,
-  Smouldering like a gorget on the breast of the Lord:
+Smouldering like a gorget on the breast of the Lord:
 Did she mourn for fame foredoomed or passion shattered
-  That with a sudden impulse she gathered at my side?
+That with a sudden impulse she gathered at my side?
 But when I spoke the ancient fates were flattered,
-  Chill there crept between us the imperceptible tide.
-
+Chill there crept between us the imperceptible tide.
 Once I well remember in her twilight garden,
-  She pulled a half-blown rose, I thought it meant for me,
+She pulled a half-blown rose, I thought it meant for me,
 But poising in the act, and with half a sigh for pardon,
-  She hid it in her bosom where none may dare to see:
+She hid it in her bosom where none may dare to see:
 Had she a subtle meaning?--would to God I knew it,
-  Where'er I am I always feel the rose leaves nestling there,
+Where'er I am I always feel the rose leaves nestling there,
 If I might know her mind and the thought which then flashed through it,
-  My soul might look to heaven not commissioned to despair.
-
+My soul might look to heaven not commissioned to despair.
 Though she denied at parting the gift that I besought her,
-  Just a bit of ribbon or a strand of her hair;
+Just a bit of ribbon or a strand of her hair;
 Though she would not keep the token that I brought her,
-  Proud she stood and calm and marvellously fair;
+Proud she stood and calm and marvellously fair;
 Yet I saw her spirit--truth cannot dissemble--
-  Saw her pure as gold, staunch and keen and brave,
+Saw her pure as gold, staunch and keen and brave,
 For she knows my worth and her heart was all atremble,
-  Lest her will should weaken and make her heart a slave.
-
+Lest her will should weaken and make her heart a slave.
 If she could be here where all the world is eager
-  For dear love with the primal Eden sway,
+For dear love with the primal Eden sway,
 Where the blood is fire and no pulse is thin or meagre,
-  All the heart of all the world beats one way!
+All the heart of all the world beats one way!
 There is the land of fraud and fame and fashion,
-  Joy is but a gaud and withers in an hour,
+Joy is but a gaud and withers in an hour,
 Here is the land of quintessential passion,
 Where in a wild throb Spring wells up with power.
-
 She would hear the partridge drumming in the distance,
-  Rolling out his mimic thunder in the sultry noons;
+Rolling out his mimic thunder in the sultry noons;
 Hear beyond the silver reach in ringing wild persistence
-  Reel remote the ululating laughter of the loons;
+Reel remote the ululating laughter of the loons;
 See the shy moose fawn nestling by its mother,
-  In a cool marsh pool where the sedges meet;
+In a cool marsh pool where the sedges meet;
 Rest by a moss-mound where the twin-flowers smother
-  With a drowse of orient perfume drenched in light and heat:
-
+With a drowse of orient perfume drenched in light and heat:
 She would see the dawn rise behind the smoky mountain,
-  In a jet of colour curving up to break,
+In a jet of colour curving up to break,
 While like spray from the iridescent fountain,
-  Opal fires weave over all the oval of the lake:
+Opal fires weave over all the oval of the lake:
 She would see like fireflies the stars alight and spangle
-  All the heaven meadows thick with growing dusk,
+All the heaven meadows thick with growing dusk,
 Feel the gipsy airs that gather up and tangle
 The woodsy odours in a maze of myrrh and musk:
-
 There in the forest all the birds are nesting,
-  Tells the hermit thrush the song he cannot tell,
+Tells the hermit thrush the song he cannot tell,
 While the white-throat sparrow never resting,
-  Even in the deepest night rings his crystal bell:
+Even in the deepest night rings his crystal bell:
 O, she would love me then with a wild elation,
-  Then she must love me and leave her lonely state,
+Then she must love me and leave her lonely state,
 Give me love yet keep her soul's imperial reservation,
-  Large as her deep nature and fathomless as fate:
-
+Large as her deep nature and fathomless as fate:
 Then, if she would lie beside me in the even,
-  On my deep couch heaped of balsam fir,
+On my deep couch heaped of balsam fir,
 Fragrant with sleep as nothing under heaven,
-  Let the past and future mingle in one blur;
+Let the past and future mingle in one blur;
 While all the stars were watchful and thereunder
-  Earth breathed not but took their silent light,
+Earth breathed not but took their silent light,
 All life withdrew and wrapt in a wild wonder
-  Peace fell tranquil on the odorous night:
-
+Peace fell tranquil on the odorous night:
 She would let me steal,--not consenting or denying--
-  One strong arm beneath her dusky hair,
+One strong arm beneath her dusky hair,
 She would let me bare, not resisting or complying,
-  One sweet breast so sweet and firm and fair;
+One sweet breast so sweet and firm and fair;
 Then with the quick sob of passion's shy endeavour,
-  She would gather close and shudder and swoon away,
+She would gather close and shudder and swoon away,
 She would be mine for ever and for ever,
-  Mine for all time and beyond the judgment day.
-
+Mine for all time and beyond the judgment day.
 Vain is the dream, and deep with all derision--
-  Fate is stern and hard--fair and false and vain--
+Fate is stern and hard--fair and false and vain--
 But what would life be worth without the vision,
-  Dark with sordid passion, pale with wringing pain?
+Dark with sordid passion, pale with wringing pain?
 What I dream is mine, mine beyond all cavil,
-  Pure and fair and sweet, and mine for evermore,
+Pure and fair and sweet, and mine for evermore,
 And when I will my life I may unravel,
-  And find my passion dream deep at the red core.
-
+And find my passion dream deep at the red core.
 Venus sinks first lost in ruby splendour,
-  Stars like wood-daffodils grow golden in the night,
+Stars like wood-daffodils grow golden in the night,
 Far, far above, in a space entranced and tender,
-  Floats the growing moon pale with virgin light.
+Floats the growing moon pale with virgin light.
 Vaster than the world or life or death my trust is
-  Based in the unseen and towering far above;
+Based in the unseen and towering far above;
 Hold me, O Law, that deeper lies than Justice,
-  Guide me, O Light, that stronger burns than Love.
-
-
-
-
-AN IMPROMPTU
-
-
+Guide me, O Light, that stronger burns than Love.
 Here in the pungent gloom
 Where the tamarac roses glow
 And the balsam burns its perfume,
@@ -426,7 +307,6 @@ How the oboe croons,
 The canary-throated,
 In the gloom of the violoncellos
 And bassoons.
-
 But afar in the thickset forest
 I hear a sound go free,
 Crashing the stately neighbours
@@ -436,7 +316,6 @@ Drumming and harping and horning
 In savage minstrelsy--
 It wakes in my soul a warning
 Of the wind of destiny.
-
 My life is soaring and swinging
 In triple walls of quiet,
 In my heart there is rippling and ringing
@@ -446,100 +325,71 @@ A hush falls, and then
 I hear in the thickset world
 The wind of destiny hurled
 On the lives of men.
-
-
-
-
-THE HALF-BREED GIRL
-
-
 She is free of the trap and the paddle,
-  The portage and the trail,
+The portage and the trail,
 But something behind her savage life
-  Shines like a fragile veil.
-
+Shines like a fragile veil.
 Her dreams are undiscovered,
-  Shadows trouble her breast,
+Shadows trouble her breast,
 When the time for resting cometh
-  Then least is she at rest.
-
+Then least is she at rest.
 Oft in the morns of winter,
-  When she visits the rabbit snares,
+When she visits the rabbit snares,
 An appearance floats in the crystal air
-  Beyond the balsam firs.
-
+Beyond the balsam firs.
 Oft in the summer mornings
-  When she strips the nets of fish,
+When she strips the nets of fish,
 The smell of the dripping net-twine
-  Gives to her heart a wish.
-
+Gives to her heart a wish.
 But she cannot learn the meaning
-  Of the shadows in her soul,
+Of the shadows in her soul,
 The lights that break and gather,
-  The clouds that part and roll,
-
+The clouds that part and roll,
 The reek of rock-built cities,
-  Where her fathers dwelt of yore,
+Where her fathers dwelt of yore,
 The gleam of loch and shealing,
-  The mist on the moor,
-
+The mist on the moor,
 Frail traces of kindred kindness,
-  Of feud by hill and strand,
+Of feud by hill and strand,
 The heritage of an age-long life
-  In a legendary land.
-
+In a legendary land.
 She wakes in the stifling wigwam,
-  Where the air is heavy and wild,
+Where the air is heavy and wild,
 She fears for something or nothing
-  With the heart of a frightened child.
-
+With the heart of a frightened child.
 She sees the stars turn slowly
-  Past the tangle of the poles,
+Past the tangle of the poles,
 Through the smoke of the dying embers,
-  Like the eyes of dead souls.
-
+Like the eyes of dead souls.
 Her heart is shaken with longing
-  For the strange, still years,
+For the strange, still years,
 For what she knows and knows not,
-  For the wells of ancient tears.
-
+For the wells of ancient tears.
 A voice calls from the rapids,
-  Deep, careless and free,
+Deep, careless and free,
 A voice that is larger than her life
-  Or than her death shall be.
-
+Or than her death shall be.
 She covers her face with her blanket,
-  Her fierce soul hates her breath,
+Her fierce soul hates her breath,
 As it cries with a sudden passion
-  For life or death.
-
-
-
-
-NIGHT BURIAL IN THE FOREST
-
-
+For life or death.
 Lay him down where the fern is thick and fair.
 Fain was he for life, here lies he low:
 With the blood washed clean from his brow and his beautiful hair,
 Lay him here in the dell where the orchids grow.
-
 Let the birch-bark torches roar in the gloom,
 And the trees crowd up in a quiet startled ring
 So lone is the land that in this lonely room
 Never before has breathed a human thing.
-
 Cover him well in his canvas shroud, and the moss
 Part and heap again on his quiet breast,
 What recks he now of gain, or love, or loss
 Who for love gained rest?
-
 While she who caused it all hides her insolent eyes
 Or braids her hair with the ribbons of lust and of lies,
 And he who did the deed fares out like a hunted beast
 To lurk where the musk-ox tramples the barren ground
 Where the stroke of his coward heart is the only sound.
-
 Haunting the tamarac shade,
 Hear them up-thronging
 Memories foredoomed
@@ -552,26 +402,17 @@ The wilderness teems
 With inscrutable eyes
 Of ghosts that are dreams
 Commingled with memories.
-
 Leave him here in his secret ferny tomb,
 Withdraw the little light from the ocean of gloom,
 He who feared nought will fear aught never,
 Left alone in the forest forever and ever.
-
 Then, as we fare on our way to the shore
 Sudden the torches cease to roar:
 For cleaving the darkness remote and still
 Comes a wind with a rushing, harp-like thrill,
 The sound of wings hurled and furled and unfurled,
 The wings of the Angel who gathers the souls from the wastes of
-    the world.
-
-
-
-
-DREAM VOYAGEURS
-
-
+the world.
 To ports of balm through isles of musk
 The gentle airs are leading us;
 To curtained calm and tents of dusk,
@@ -579,7 +420,6 @@ The wood-wild things unheeding us
 Will share their hoards of hardihood,
 Cool dew and roots of fern for food,
 Frail berries full of the sun's blood.
-
 To planets bland with dales of dream
 A tranquil life is leading us,
 We shall land from the languid stream,
@@ -587,13 +427,6 @@ The musing shades, unheeding us,
 Will share their veils of angelhood,
 Thoughts that are tranced with mystic food,
 Still broodings tinct with a seraph's blood.
-
-
-
-
-SONG
-
-
 Creep into my heart, creep in, creep in,
 Afar from the fret, the toil and the din,
 Where the spring of love forever flows,
@@ -607,165 +440,117 @@ Where the fairest thing of all the fair
 Thou art, who hast somehow crept in there,
 Deep into my heart,
 Deep into my heart.
-
-
-
-
-ECSTASY
-
-
 The shore-lark soars to his topmost flight,
-  Sings at the height where morning springs,
+Sings at the height where morning springs,
 What though his voice be lost in the light,
-  The light comes dropping from his wings.
-
+The light comes dropping from his wings.
 Mount, my soul, and sing at the height
-  Of thy clear flight in the light and the air,
+Of thy clear flight in the light and the air,
 Heard or unheard in the night in the light
-  Sing there! Sing there!
-
-
-
-
-LYRICS, SONGS AND SONNETS
-
-
-
-
-MEDITATION AT PERUGIA
-
-
+Sing there! Sing there!
 The sunset colours mingle in the sky,
-  And over all the Umbrian valleys flow;
-  Trevi is touched with wonder, and the glow
+And over all the Umbrian valleys flow;
+Trevi is touched with wonder, and the glow
 Finds high Perugia crimson with renown;
-    Spello is bright;
+Spello is bright;
 And, ah! St. Francis, thy deep-treasured town,
-    Enshrined Assisi, fully fronts the light.
-
+Enshrined Assisi, fully fronts the light.
 This valley knew thee many a year ago;
-  Thy shrine was built by simpleness of heart;
-  And from the wound called life thou drew'st the smart:
+Thy shrine was built by simpleness of heart;
+And from the wound called life thou drew'st the smart:
 Unquiet kings came to thee and the sad poor--
-    Thou gavest them peace;
+Thou gavest them peace;
 Far as the Sultan and the Iberian shore
-    Thy faith and abnegation gave release.
-
+Thy faith and abnegation gave release.
 Deeper our faith, but not so sweet as thine;
-  Wider our view, but not so sanely sure;
-  For we are troubled by the witching lure
+Wider our view, but not so sanely sure;
+For we are troubled by the witching lure
 Of Science, with her lightning on the mist;
-    Science that clears,
+Science that clears,
 Yet never quite discloses what she wist,
-    And leaves us half with doubts and half with fears.
-
+And leaves us half with doubts and half with fears.
 We act her dreams that shadow forth the truth,
-  That somehow here the very nerves of God
-  Thrill the old fires, the rocks, the primal sod;
+That somehow here the very nerves of God
+Thrill the old fires, the rocks, the primal sod;
 We throw our speech upon the open air,
-    And it is caught
+And it is caught
 Far down the world, to sing and murmur there;
-    Our common words are with deep wonder fraught.
-
+Our common words are with deep wonder fraught.
 Shall not the subtle spirit of man contrive
-  To charm the tremulous ether of the soul,
-  Wherein it breathes?--until, from pole to pole,
+To charm the tremulous ether of the soul,
+Wherein it breathes?--until, from pole to pole,
 Those who are kin shall speak, as face to face,
-    From star to star,
+From star to star,
 Even from earth to the most secret place,
-    Where God and the supreme archangels are.
-
+Where God and the supreme archangels are.
 Shall we not prove, what thou hast faintly taught,
-  That all the powers of earth and air are one,
-  That one deep law persists from mole to sun?
+That all the powers of earth and air are one,
+That one deep law persists from mole to sun?
 Shall we not search the heart of God and find
-    That law empearled,
+That law empearled,
 Until all things that are in matter and mind
-    Throb with the secret that began the world?
-
+Throb with the secret that began the world?
 Yea, we have journeyed since thou trod'st the road,
-  Yet still we keep the foreappointed quest;
-  While the last sunset smoulders in the West,
+Yet still we keep the foreappointed quest;
+While the last sunset smoulders in the West,
 Still the great faith with the undying hope
-    Upsprings and flows,
+Upsprings and flows,
 While dim Assisi fades on the wide slope
-    And the deep Umbrian valleys fill with rose.
-
-
-
-
-AT WILLIAM MACLENNAN'S GRAVE
-
-
+And the deep Umbrian valleys fill with rose.
 Here where the cypress tall
 Shadows the stucco wall,
-    Bronze and deep,
+Bronze and deep,
 Where the chrysanthemums blow,
 And the roses--blood and snow--
-    He lies asleep.
-
+He lies asleep.
 Florence dreameth afar;
 Memories of foray and war,
-    Murmur still;
+Murmur still;
 The Certosa crowns with a cold
 Cloud of snow and gold
-    The olive hill.
-
+The olive hill.
 What has he now for the streams
 Born sweet and deep with dreams
-    From the cedar meres?
+From the cedar meres?
 Only the Arno's flow,
 Turbid, and weary, and slow
-    With wrath and tears.
-
+With wrath and tears.
 What has he now for the song
 Of the boatmen, joyous and long,
-    Where the rapids shine?
+Where the rapids shine?
 Only the sound of toil,
 Where the peasants press the soil
-    For the oil and wine.
-
+For the oil and wine.
 Spirit-fellow in sooth
 With bold La Salle and Duluth,
-    And La Vérandrye,--
+And La Vérandrye,--
 Nothing he has but rest,
 Deep in his cypress nest
-    With memory.
-
+With memory.
 Hearts of steel and of fire,
 Why do ye love and aspire,
-    When follows
+When follows
 Death--all your passionate deeds,
 Garnered with rust and with weeds
-    In the hollows?
-
+In the hollows?
 God that hardened the steel,
 Bid the flame leap and reel,
-    Gave us unrest;
+Gave us unrest;
 We act in the dusk afar,
 In a star beyond your star,
-    His behest.
-
+His behest.
 "We leave you dreams and names
 Still we are iron and flames,
-    Biting and bright;
+Biting and bright;
 Into some virgin world,
 Champions, we are hurled,
-    Of venture and fight."
-
+Of venture and fight."
 Here where the shadows fall,
 From the cypress by the wall,
-    Where the roses are--
+Where the roses are--
 Here is a dream and a name,
 There, like a rose of flame,
-    Rises--a star.
-
-
-
-
-THE WOOD-SPRING TO THE POET
-
-
+Rises--a star.
 Dawn-cool, dew-cool
 Gleams the surface of my pool
 Bird haunted, fern enchanted,
@@ -788,12 +573,10 @@ I hold my crystal at one level
 There where you see the liquid bevel
 Break in silver and go free
 Singing to its destiny.
-
 Give, Poet, give!
 Thus only shalt thou live.
 Give! for 'tis thy joyous doom
 To charm, to comfort, to illume.
-
 Speak to the maiden and the child
 With accents deep and mild,
 Tell them of the world so wide
@@ -805,7 +588,6 @@ When the flaming seraph sent
 To lead him into Paradise,
 Calls his name with the mother's voice
 He has just ceased to hear on earth.
-
 Give to the youth his heart's content,
 But power with prudence blent,
 Thicken his sinews with love,
@@ -821,15 +603,13 @@ Give them hopes rooted in stone,
 That the loveliest flowers take on,
 Bind on their brows with a gesture free
 The palm green bays of liberty.
-
 Give to the mothers of men
-  The knowledge of joy in pain,
+The knowledge of joy in pain,
 Give them the sense of reward
 That grew in the breast of the Lord
 On the dawn of the seventh morn;
 For 'tis they who re-create the world
 Whenever a child is born.
-
 Give, Poet, give!
 Give them songs that charm and fill
 The soul with an alluring pleasure,
@@ -842,14 +622,12 @@ Come with a glorious clarion calling;
 And when they swoon beneath the spell
 Recapture them to hear the echoes
 Falling--falling--falling.
-
 To those stoned for the truth
 Give ruth;
 Give manna for the mourner's mouth
 Sovereign as air;
 For his heart's drouth
 A prayer.
-
 Give to dead souls that mock at life
 Aweary of their cankered hearts,
 Weary of sleep and weary of strife,
@@ -860,7 +638,6 @@ Tempered trusty with life,
 Proud pointed with wild life,
 Plunge it as lightning plunges,
 Stab them to life!
-
 Give to those who grieve in secret,
 Those who bear the sorrows of earth,
 The deep unappeasable longings
@@ -873,7 +650,6 @@ Wide as the veil that hides God's face,
 The pure plenitude of space,
 In which our universe is but a glittering crease,--
 Give them such peace.
-
 Give, Poet, give!
 Thus only shalt thou live:
 Give as we give who are hidden
@@ -884,7 +660,6 @@ Where the lake dreams,
 Where the fall is hurled,
 Striving to sweeten
 The oceans of the world.
-
 Should my song for a moment cease,
 Silence fall in the woodland peace;
 Should I wilfully check the flow
@@ -898,99 +673,76 @@ Deserts vast would stare at the sky,
 And even thy rich heart
 (O Poet, Poet!)
 Even thy rich heart run dry.
-
-
-
-
-THE NOVEMBER PANSY
-
-
 This is not June,--by Autumn's stratagem
 Thou hast been ambushed in the chilly air;
-  Upon thy fragile crest virginal fair
+Upon thy fragile crest virginal fair
 The rime has clustered in a diadem;
-  The early frost
+The early frost
 Has nipped thy roots and tried thy tender stem,
-  Seared thy gold petals, all thy charm is lost.
-
+Seared thy gold petals, all thy charm is lost.
 Thyself the only sunshine: in obeying
 The law that bids thee blossom in the world
-  Thy little flag of courage is unfurled;
+Thy little flag of courage is unfurled;
 Inherent pansy-memories are saying
-  That there is sun,
+That there is sun,
 That there is dew and colour and warmth repaying
-  The rain, the starlight when the light is done.
-
+The rain, the starlight when the light is done.
 These are the gaunt forms of the hollyhocks
 That shower the seeds from out their withered purses;
-  Here were the pinks; there the nasturtium nurses
+Here were the pinks; there the nasturtium nurses
 The last of colour in her gaudy smocks;
-  The ruins yonder
+The ruins yonder
 Show but a vestige of the flaming phlox;
-  The poppies on their faded glory ponder.
-
+The poppies on their faded glory ponder.
 Here visited the vagrant humming-bird,
 The nebulous darting green, the ruby-throated;
-  The warm fans of the butterfly here floated;
+The warm fans of the butterfly here floated;
 Those two nests reared the robins, and the third
-  Was left forlorn
+Was left forlorn
 Muffled in lilacs, whence the perfume stirred
-  The tremulous eyelids of the dewy morn.
-
+The tremulous eyelids of the dewy morn.
 Thy sisters of the early summer-time
 Were masquers in this carnival of pleasure;
-  Each in her turn unrolled her golden treasure,
+Each in her turn unrolled her golden treasure,
 And thou hast but the ashes of the prime;
-  'Tis life's own malice
+'Tis life's own malice
 That brings the peasant of a race sublime
-  To feed her flock around her ruined palace.
-
+To feed her flock around her ruined palace.
 Yet for withstanding thus the autumn's dart
 Some deeper pansy-insight will atone;
-  It comes to souls neglected and alone,
+It comes to souls neglected and alone,
 Something that prodigals in pleasure's mart
-  Lose in the whirl;
+Lose in the whirl;
 The peasant child will have a purer heart
-  Than the vain favourite of the vanished earl.
-
+Than the vain favourite of the vanished earl.
 And far above this tragic world of ours
 There is a world of a diviner fashion,
-  A mystic world, a world of dreams and passion
+A mystic world, a world of dreams and passion
 That each aspiring thing creates and dowers
-  With its own light;
+With its own light;
 Where even the frail spirits of trees and flowers
-  Pause, and reach out, and pass from height to height.
-
+Pause, and reach out, and pass from height to height.
 Here will we claim for thee another fief,
 An upland where a glamour haunts the meadows,
-  Snow peaks arise enrobed in rosy shadows,
+Snow peaks arise enrobed in rosy shadows,
 Fairer the under slopes with vine and sheaf
-  And shimmering lea;
+And shimmering lea;
 The paradise of a simple old belief,
-  That flourished in the Islands of the Sea.
-
+That flourished in the Islands of the Sea.
 A snow-cool cistern in the fairy hills
 Shall feed thy roots with moisture clear as dew;
-  A ferny shield to temper the warm blue
+A ferny shield to temper the warm blue
 That heaven is; a thrush that thrills
-  To answer his mate,
+To answer his mate,
 And when above the ferns the shadow fills,
-  Fireflies to render darkness consolate.
-
+Fireflies to render darkness consolate.
 Here muse and brood, moulding thy seed and die
 And re-create thy form a thousand fold,
-  Mellowing thy petals to more lucent gold,
+Mellowing thy petals to more lucent gold,
 Till they expand, tissues of amber sky;
-  Till the full hour,
+Till the full hour,
 And the full light and the fulfilling eye
-  Shall find amid the ferns the perfect flower.
-
-
-
-
-THE HEIGHT OF LAND
-
-
+Shall find amid the ferns the perfect flower.
 Here is the height of land:
 The watershed on either hand
 Goes down to Hudson Bay
@@ -1012,11 +764,9 @@ Deeper than peace;--
 The spruces have retired a little space
 And left a field of sky in violet shadow
 With stars like marigolds in a water-meadow.
-
 Now the Indian guides are dead asleep;
 There is no sound unless the soul can hear
 The gathering of the waters in their sources.
-
 We have come up through the spreading lakes
 From level to level,--
 Pitching our tents sometimes over a revel
@@ -1052,7 +802,6 @@ And we must answer in chime;
 Though yet no man may tell
 The secret of that spell
 Golden and inappellable.
-
 Now are there sounds walking in the wood,
 And all the spruces shiver and tremble,
 And the stars move a little in their courses.
@@ -1067,7 +816,6 @@ And echoes faintly like an inland shell
 Ghost tremors of the spell;
 Thought reawakens and is linked again
 With all the welter of the lives of men.
-
 Here on the uplands where the air is clear
 We think of life as of a stormy scene,--
 Of tempest, of revolt and desperate shock;
@@ -1087,7 +835,6 @@ Mingled of both, a greater boon than either:
 Thus we have seen in the retreating tempest
 The victor-sunlight merge with the ruined rain,
 And from the rain and sunlight spring the rainbow.
-
 The ancient disturber of solitude
 Stirs his ancestral potion in the gloom,
 And the dark wood
@@ -1109,14 +856,12 @@ Covered still with patches of bright fire
 Smoking with incense of the fragrant resin
 That even then began to thin and lessen
 Into the gloom and glimmer of ruin.
-
 'Tis overpast. How strange the stars have grown;
 The presage of extinction glows on their crests
-  And they are beautied with impermanence;
-  They shall be after the race of men
-  And mourn for them who snared their fiery pinions,
+And they are beautied with impermanence;
+They shall be after the race of men
+And mourn for them who snared their fiery pinions,
 Entangled in the meshes of bright words.
-
 A lemming stirs the fern and in the mosses
 Eft-minded things feel the air change, and dawn
 Tolls out from the dark belfries of the spruces.
@@ -1155,19 +900,11 @@ At the zenith of our wisdom when I feel
 The long light flow, the long wind pause, the deep
 Influx of spirit, of which no man may tell
 The Secret, golden and inappellable?
-
-
-
-
-NEW YEAR'S NIGHT, 1916
-
-
 The Earth moans in her sleep
 Like an old mother
 Whose sons have gone to the war,
 Who weeps silently in her heart
 Till dreams comfort her.
-
 The Earth tosses
 As if she would shake off humanity,
 A burden too heavy to be borne,
@@ -1179,7 +916,6 @@ Bearing gladly the dumb animals,
 And sleep when the time comes
 Glistening in the remains of sunlight
 With marmoreal innocency.
-
 Be comforted, old mother,
 Whose sons have gone to the war;
 And be assured, O Earth,
@@ -1194,20 +930,12 @@ Who would cover your face with the cerecloth
 All rustling with stars,
 And mourn in the ashes of sunlight,
 Mourn your marmoreal innocency?
-
-
-
-
-FRAGMENT OF AN ODE TO CANADA
-
-
-                               This is the land!
+This is the land!
 It lies outstretched a vision of delight,
 Bent like a shield between the silver seas
 It flashes back the hauteur of the sun;
 Yet teems with humblest beauties, still a part
 Of its Titanic and ebullient heart.
-
 Land of the glacial, lonely mountain ranges,
 Where nothing haps save vast Æonian changes,
 The slow moraine, the avalanche's wings,
@@ -1221,7 +949,6 @@ With their white thunder harnessed in the mills,
 Turning one wealth to another wealth perpetually;
 Spinning the lightning with dynamic spindles,
 Till some far city dowered with fire enkindles.
-
 The land of fruit, fine-flavoured with the frost,
 Land of the cattle, the deep-chested host,
 The happy-souled, that contemplate the hours,
@@ -1232,7 +959,6 @@ The miracle of the flower and milk and kernel,
 Nurtured by sun-fire and frost-fire supernal,
 Until the farmer turns it in his hand,
 The million-millioned miracle of the land.
-
 And yet with all these pastoral and heroic graces,
 Our simplest flowers wear the loveliest faces;
 The sparrows are our most enraptured singers,
@@ -1244,9 +970,7 @@ Ever in doubt when they shall sing or where;
 The mountains may with ice and avalanche wrestle,
 Far down their rugged steeps dimple and nestle
 The still, translucent, turquoise-hearted tarns.
-
-          *      *      *      *      *
-
+*      *      *      *      *
 And Thou, O Power, that 'stablishest the Nation,
 Give wisdom in the midst of our elation;
 Who are so free that we forget we are--
@@ -1261,7 +985,6 @@ Thy gift, this land, that is in nothing wanting;
 Give Mind to match the glory of the gift,
 Give great Ideals to bridge the sordid rift
 Between our heritage and our use of it.
-
 Then in some day of terror for the world,
 When all the flags of the Furies are unfurled,
 When Truth and Justice, wildered and unknit,
@@ -1271,15 +994,7 @@ What shall we answer in that stricken hour?
 Shall the deep thought be pregnant then with power?
 Shall the few words spring swift and grave and clear?
 Use well the present moment. They shall hear.
-
 August, 1911.
-
-
-
-
-FANTASIA
-
-
 Here in Samarcand they offer emeralds,
 Pure as frozen drops of sea-water,
 Rubies, pale as dew-ponds stained with slaughter,
@@ -1293,7 +1008,6 @@ From the dull stones as the lightning from the thunder;
 They can never come together
 On the mats of Turkish leather
 In the booths of Samarcand.
-
 Here they sell you balls of nard and honey,
 And squat jars of clarid butter,
 And the cheese from Kurdistan.
@@ -1302,7 +1016,6 @@ Then they scowl and curse and mutter,
 Deep in Kurdish or Persan
 For they want your heart out and my hand
 In the booths of Samarcand.
-
 They would sell your heart's blood separate,
 In a jar with a gold brim,
 With a text of burning hatred
@@ -1315,188 +1028,122 @@ But your heart could never touch my hand,
 They could never come together
 On the mats of Turkish leather
 In the booths of Samarcand.
-
-
-
-
-THE LOVER TO HIS LASS
-
-
 Crown her with stars, this angel of our planet,
-  Cover her with morning, this thing of pure delight,
+Cover her with morning, this thing of pure delight,
 Mantle her with midnight till a mortal cannot
-  See her for the garments of the light and the night.
-
+See her for the garments of the light and the night.
 How far I wandered, worlds away and far away,
-  Heard a voice but knew it not in the clear cold,
+Heard a voice but knew it not in the clear cold,
 Many a wide circle and many a wan star away,
-  Dwelling in the chambers where the worlds were growing old.
-
+Dwelling in the chambers where the worlds were growing old.
 Saw them growing old and heard them falling
-  Like ripe fruit when a tree is in the wind;
+Like ripe fruit when a tree is in the wind;
 Saw the seraphs gather them, their clarion voices calling
-  In rounds of cheering labour till the orchard floor was thinned.
-
+In rounds of cheering labour till the orchard floor was thinned.
 Saw a whole universe turn to its setting,
-  Old and cold and weary, gray and cold as death,
+Old and cold and weary, gray and cold as death,
 But before mine eyes were veiled in forgetting,
-  Something always caught my soul and held its breath.
-
+Something always caught my soul and held its breath.
 Caught it up and held it, now I know the reason;
-  Governed it and soothed it, now I know why;
+Governed it and soothed it, now I know why;
 Nurtured it and trained it and kept it for the season
-  When new worlds should blossom in the springtime sky.
-
+When new worlds should blossom in the springtime sky.
 How have they blossomed, see the sky is like a garden!
-  Ah! how fresh the worlds look hanging on the slope!
+Ah! how fresh the worlds look hanging on the slope!
 Pluck one and wear it, Love, and ask the Gardener's pardon,
-  Pluck out the Pleiads like a spray of heliotrope.
-
+Pluck out the Pleiads like a spray of heliotrope.
 See Aldebaran like a red rose clamber,
-  See brave Betelgeux pranked with poppy light;
+See brave Betelgeux pranked with poppy light;
 This young earth must float in floods of amber
-  Glowing with a crocus flame in the dells of night.
-
+Glowing with a crocus flame in the dells of night.
 O you cannot cheat the soul of an inborn ambition,
-  'Tis a naked viewless thing living in its thought,
+'Tis a naked viewless thing living in its thought,
 But it mounts through errors and by valleys of contrition
-  Till it conquers destiny and finds the thing it sought.
-
+Till it conquers destiny and finds the thing it sought.
 Crown her with stars, this angel of our planet,
-  Cover her with morning, this thing of pure delight,
+Cover her with morning, this thing of pure delight,
 Mantle her with midnight till a mortal cannot
-  See her for the garments of the light and the night.
-
-
-
-
-THE GHOST'S STORY
-
-
+See her for the garments of the light and the night.
 All my life long I heard the step
-  Of some one I would know,
+Of some one I would know,
 Break softly in upon my days
-  And lightly come and go.
-
+And lightly come and go.
 A foot so brisk I said must bear
-  A heart that's clean and clear;
+A heart that's clean and clear;
 If that companion blithe would come,
-  I should be happy here.
-
+I should be happy here.
 But though I waited long and well,
-  He never came at all,
+He never came at all,
 I grew aweary of the void,
-  Even of the light foot-fall.
-
+Even of the light foot-fall.
 From loneliness to loneliness
-  I felt my spirit grope--
+I felt my spirit grope--
 At last I knew the uttermost,
-  The loneliness of hope.
-
+The loneliness of hope.
 And just upon the border land,
-  Where flesh and spirit part,
+Where flesh and spirit part,
 I knew the secret foot-fall was
-  The beating of my heart.
-
-
-
-
-NIGHT
-
-
+The beating of my heart.
 The night is old, and all the world
-  Is wearied out with strife;
+Is wearied out with strife;
 A long gray mist lies heavy and wan
-  Above the house of life.
-
+Above the house of life.
 Four stars burn up and are unquelled
-  By the low, shrunken moon;
+By the low, shrunken moon;
 Her spirit draws her down and down--
-  She shall be buried soon.
-
+She shall be buried soon.
 There is a sound that is no sound,
-  Yet fine it falls and clear,
+Yet fine it falls and clear,
 The whisper of the spinning earth
-  To the tranced atmosphere.
-
+To the tranced atmosphere.
 An odour lives where once was air,
-  A strange, unearthly scent,
+A strange, unearthly scent,
 From the burning of the four great stars
-  Within the firmament.
-
+Within the firmament.
 The universe, deathless and old,
-  Breathes, yet is void of breath:
+Breathes, yet is void of breath:
 As still as death that seems to move
-  And yet is still as death.
-
-
-
-
-THE APPARITION
-
-
+And yet is still as death.
 Gentle angel with your mantle,
-  All of tender green,
+All of tender green,
 I was yearning for a vision
-  Of the life unseen.
-
+Of the life unseen.
 When you hovered in the sunset,
-  Just as rain was done;
+Just as rain was done;
 Where the dropping from the poplars
-  Seemed like rain begun.
-
+Seemed like rain begun.
 There you gathered forming slowly
-  Rounding into view:
+Rounding into view:
 All your vesture glowed like verdure
-  When the sap is new.
-
+When the sap is new.
 Then you mutely gave your warning
-  And I felt the stress
+And I felt the stress
 Of its passion and its presage
-  And its utterness.
-
+And its utterness.
 There you swayed one tranquil moment,
-  Mystically fair,
+Mystically fair,
 Then you were not of the sunset,
-  Were not in the air.
-
-
-
-
-AT SEA
-
-
+Were not in the air.
 Three are emerald pools in the sea,
-  And wing-like flashes of light;
+And wing-like flashes of light;
 The sea is bound with the heavens
-  In a large delight.
-
+In a large delight.
 Night comes out of the east
-  And rushes down on the sun;
+And rushes down on the sun;
 The emerald pools and the light pools
-  Are darkened and done.
-
+Are darkened and done.
 Our boat dips and cleaves onward,
-  Careless of night or of light,
+Careless of night or of light,
 Following the line of her compass
-  By her engines' might.
-
+By her engines' might.
 Through the desert of air and of water;
-  Like the lonely soul of man,
+Like the lonely soul of man,
 Following her fate to the ending,
-  Unaware of the hidden plan.
-
+Unaware of the hidden plan.
 Sure only of battle and longing,
-  Of the pain and the quest,
+Of the pain and the quest,
 And beyond in the darkness somewhere
-  Sure of her rest.
-
-
-
-
-MADONNA WITH TWO ANGELS
-
-
+Sure of her rest.
 Under the sky without a stain
 The long, ripe, rippling of the grain;
 Light, broadcast from the golden oats
@@ -1519,517 +1166,371 @@ Ponder here in the orchard nest
 On the truth of life made manifest:
 The struggle and effort was all to prove
 That the best of the world is home and love.
-
-
-
-
-MID-AUGUST
-
-
 From the upland hidden,
-  Where the hill is sunny
-  Tawny like pure honey
-  In the August heat,
+Where the hill is sunny
+Tawny like pure honey
+In the August heat,
 Memories float unbidden
-  Where the thicket serries
-  Fragrant with ripe berries
-  And the milk-weed sweet.
-
+Where the thicket serries
+Fragrant with ripe berries
+And the milk-weed sweet.
 Like a prayer-mat holy
-  Are the patterned mosses
-  Which the twin-flower crosses
-  With her flowerless vine;
+Are the patterned mosses
+Which the twin-flower crosses
+With her flowerless vine;
 In fragile melancholy
-  The pallid ghost flowers hover
-  As if to guard and cover
-  The shadow of a shrine.
-
+The pallid ghost flowers hover
+As if to guard and cover
+The shadow of a shrine.
 Where the pine-linnet lingered
-  The pale water searches,
-  The roots of gleaming birches
-  Draw silver from the lake;
+The pale water searches,
+The roots of gleaming birches
+Draw silver from the lake;
 The ripples, liquid-fingered,
-  Plucking the root-layers,
-  Fairy like lute players
-  Lulling music make.
-
+Plucking the root-layers,
+Fairy like lute players
+Lulling music make.
 O to lie here brooding
-  Where the pine-tree column
-  Rises dark and solemn
-  To the airy lair,
+Where the pine-tree column
+Rises dark and solemn
+To the airy lair,
 Where, the day eluding,
-  Night is couched dream laden,
-  Like a deep witch-maiden
-  Hidden in her hair.
-
+Night is couched dream laden,
+Like a deep witch-maiden
+Hidden in her hair.
 In filmy evanescence
-  Wraithlike scents assemble,
-  Then dissolve and tremble
-  A little until they die;
+Wraithlike scents assemble,
+Then dissolve and tremble
+A little until they die;
 Spirits of the florescence
-  Where the bees searched and tarried
-  Till the blossoms all were married
-  In the days before July.
-
+Where the bees searched and tarried
+Till the blossoms all were married
+In the days before July.
 Light has lost its splendour,
-  Light refined and sifted,
-  Cool light and dream drifted
-  Ventures even where,
+Light refined and sifted,
+Cool light and dream drifted
+Ventures even where,
 (Seeping silver tender)
-  In the dim recesses,
-  Trembling mid her tresses,
-  Hides the maiden hair.
-
+In the dim recesses,
+Trembling mid her tresses,
+Hides the maiden hair.
 Covered with the shy-light,
-  Filling in the hushes,
-  Slide the tawny thrushes
-  Calling to their broods,
+Filling in the hushes,
+Slide the tawny thrushes
+Calling to their broods,
 Hoarding till the twilight
-  The song that made for noon-days
-  Of the amorous June days
-  Preludes and interludes.
-
+The song that made for noon-days
+Of the amorous June days
+Preludes and interludes.
 The joy that I am feeling
-  Is there something in it
-  Unlike the warble the linnet
-  Phrases and intones?
+Is there something in it
+Unlike the warble the linnet
+Phrases and intones?
 Or is a like thought stealing
-  With a rapture fine, free
-  Through the happy pine tree
-  Ripening her cones?
-
+With a rapture fine, free
+Through the happy pine tree
+Ripening her cones?
 In some high existence
-  In another planet
-  Where their poets cannot
-  Know our birds and flowers,
+In another planet
+Where their poets cannot
+Know our birds and flowers,
 Does the same persistence
-  Give the dreams they issue
-  Something like the tissue
-  Of these dreams of ours?
-
+Give the dreams they issue
+Something like the tissue
+Of these dreams of ours?
 O to lie athinking--
-  Moods and whims! I fancy
-  Only necromancy
-  Could the web unroll,
+Moods and whims! I fancy
+Only necromancy
+Could the web unroll,
 Only somehow linking
-  Beauties that meet and mingle
-  In this quiet dingle
-  With the beauty of the whole.
-
-
-
-
-MIST AND FROST
-
-
+Beauties that meet and mingle
+In this quiet dingle
+With the beauty of the whole.
 Veil-like and beautiful
 Gathered the dutiful
-    Mist in the night,
+Mist in the night,
 True to the messaging,
 Dreamful and presaging
-    Vapour and light.
-
+Vapour and light.
 Ghostly and chill it is,
 Pallid and still it is,
-    Sudden uprist;
+Sudden uprist;
 What is there tragical,
 Moving or magical,
-    Hid in the mist?
-
+Hid in the mist?
 Millions of essences,
 Fairy-like presences
-    Formless as yet;
+Formless as yet;
 Light-riven spangles,
 Crystalline tangles
-    Floating unset.
-
+Floating unset.
 Frost will come shepherding
 Nowise enjeoparding
-    Frondage or flower;
+Frondage or flower;
 Just a degree of it,
 Nought can we see of it
-    Only its power.
-
+Only its power.
 Earth like a Swimmer
 Plunged into the dimmer
-    Wave of the night,
+Wave of the night,
 Now is uprisen,
 An Elysian vision
-    Of spray and of light.
-
+Of spray and of light.
 'Tis the intangible
 Delicate frangible
-    Secret of mist,
+Secret of mist,
 Breathing may banish it,
 Thought may evanish it,--
-    Ponder and whist!
-
+Ponder and whist!
 Passionless purity,
 Calmness in surety
-    Dwells everywhere,
+Dwells everywhere,
 A winnowed whiteness,
 A lunar lightness
-    Glows in the air.
-
+Glows in the air.
 But in the heart of it
 Every least part of it
-    Blooms with the charm,
+Blooms with the charm,
 Star-shape and frondage
 Broken from bondage
-    Forged into form.
-
+Forged into form.
 Crystals encrusted,
 Diamonds dusted
-    Line everything,
+Line everything,
 Tiny the stencillings
 Are as the pencillings
-    On a moth's wing.
-
+On a moth's wing.
 And O, what a wonder!
 No farther asunder
-    Than atoms are laid,
+Than atoms are laid,
 The arches and angles
 Of star-froth and spangles
-    Cast their own shade.
-
+Cast their own shade.
 Out from the chalices,
 The pigmy palaces
-    Where the tint hides,
+Where the tint hides,
 Opal and sapphire
 Half-pearl and half-fire
-    The colour slides;
-
+The colour slides;
 Till the frail miracle
 Rapturous lyrical
-    Flushes and glows
+Flushes and glows
 With a wraith of florescence
 That tempers or lessens
-    The light of the snows.
-
+The light of the snows.
 Held all aquiver,--
 But now with a shiver
-    The power of the sun
+The power of the sun
 Dissolves the laces
 Of the tender mazes,
-    All is undone.
-
+All is undone.
 But the old Earth brooding,
 All wisdom including,
-    Affirms and assures
+Affirms and assures
 That above the material,
 Triumphal imperial
-    Beauty endures.
-
-
-
-
-THE BEGGAR AND THE ANGEL
-
-
+Beauty endures.
 An angel burdened with self-pity
 Came out of heaven to a modern city.
-
 He saw a beggar on the street,
 Where the tides of traffic meet.
-
 A pair of brass-bound hickory pegs
 Brought him his pence instead of legs.
-
 A murky dog by him did lie,
 Poodle, in part, his ancestry.
-
 The angel stood and thought upon
 This poodle-haunted beggar man.
-
 "My life is grown a bore," said he,
 "One long round of sciamachy;
-
 I think I'll do a little good,
 By way of change from angelhood."
-
 He drew near to the beggar grim,
 And gravely thus accosted him:
-
 "How would you like, my friend, to fly
 All day through the translucent sky;
-
 To knock at the door of the red leaven,
 And even to enter the orthodox heaven?
-
 If you would care to know this joy,
 I will surrender my employ,
-
 And take your ills, collect your pelf,
 An humble beggar like yourself.
-
 For ages you these joys may know,
 While I shall suffer here below;
-
 And in the end we both may gain
 Access of pleasure from my pain."
-
 The stationary vagrant said,
 "I do not mind, so go ahead."
-
 The angel told the heavenly charm,
 He felt a wing on either arm;
-
 "Good-day," he said, "this floating's queer
 If I should want to change next year--?"
-
 "Pull out that feather!" the angel said,
 "The one half black and the other half red."
-
 The cripple cried, "Before you're through
 You may get fagged, and if you do,--"
-
 The angel superciliously--
 "My transformed friend, don't think of me.
-
 I shall be happy day and night,
 In doing what I think is right."
-
 "So so," the feathered beggar said,
 "Good-bye, I am just overhead."
-
-          *      *      *      *      *
-
+*      *      *      *      *
 The angel when he grasped the dish,
 Began to criticize his wish.
-
 The seat was hard as granite rocks,
 His real legs were in the box.
-
 His knees were cramped, his shins were sore,
 The lying pegs stuck out before.
-
 In vain he clinked the dish and whined.
 The passers-by seemed deaf and blind.
-
 As pious looking as Saint Denis,
 An urchin stole his catch-penny.
-
 And even the beggar's drab-fleeced poodle
 Began to know him for a noodle.
-
 "It has an uncelestial scent,
 The clothing of this mendicant;"
-
 He cried, "That trickling down my spine
 Is anything but hyaline.
-
 This day is like a thousand years:
 I'd give an age of sighs and tears
-
 To see with his confectioned grin
 One cherub sitting on his chin.
-
 That cripple was by far too sly--
 I wish he'd tumble from the sky,
-
 That things might be as they were before;
 I really cannot stand much more!"
-
-          *      *      *      *      *
-
+*      *      *      *      *
 The beggar in the angel's guise,
 Rose far above the smoky skies.
-
 But being a beggar, never saw
 The charm of the compelling law
-
 That turned the swinging universe:
 'Twas gloomy as an empty purse.
-
 Often with heaven in his head,
 He blundered on a planet dead.
-
 And when with an immortal fuss,
 He singed his wings at Sirius.
-
 He plucked the feather with his teeth,
 The charm was potent and beneath,
-
 He saw the turmoil of the way
 Grown wilder at the close of day,
-
 With the sad poodle, can in hand,
 The angel still at the old stand.
-
 "My friend," said the angel, hemming and humming,
 "Truly I thought you were never coming."
-
 "That's an unhandsome thing to say,
 Seeing I've only been gone a day.
-
 But there's nothing in all your brazen sky
 To match the cock of that poodle's eye.
-
 Take your dish and give me my wings,
 'Tis but a fair exchange of things."
-
-          *      *      *      *      *
-
+*      *      *      *      *
 The beggar felt his garment's rot,
 The horn ridge of each callous spot;
-
 He clinked his can and was content;
 His poverty was permanent.
-
-
-
-
-IMPROVISATION ON AN OLD SONG
-
 (The refrain is quoted by Edward Fitzgerald in
 one of his letters)
-
-
-I
-
 Growing, growing, all the glory going;
 Flashing out of fire and light, burning to a husk,
 All the world's a-dying and failing in the dusk--
-  _Growing, growing, all the glory going._
-
+_Growing, growing, all the glory going._
 Rust is on the door-latch, ashes at the root,
 Dry rot in the ridge-pole, canker in the fruit;
-  _Growing, growing, all the glory going._
-
+_Growing, growing, all the glory going._
 Plot, ye subtle statesmen,--a trace of melted wax;
 Bind, ye haughty prelates,--a thread of ravelled flax;
-  _Growing, growing, all the glory going._
-
+_Growing, growing, all the glory going._
 March, ye mighty captains,--an eddy in the dust;
 Rave, ye furious lovers,--a stain of crimson rust;
-  _Growing, growing, all the glory going._
-
+_Growing, growing, all the glory going._
 Pictures, poems, music--their essential soul,
 Idle as dry roses in a silver bowl;
-  _Growing, growing, all the glory going._
-
+_Growing, growing, all the glory going._
 London is a hearsay, Paris but a myth,
 Rome a wand of sweet-flag withered to the pith;
-  _Growing, growing, all the glory going._
-
+_Growing, growing, all the glory going._
 Palsy shakes the planets, frost has chilled the sun,
 In a crushing silence the All is dead and done.
-  _Growing, growing, all the glory going._
-
-
-II
-
+_Growing, growing, all the glory going._
 Going, going, all the glory growing,
 See it stir and flutter; that is singing, hark!
 Singing in the caverns of the primal dark.
-  _Going, going, all the glory growing._
-
+_Going, going, all the glory growing._
 What is in the making, what immortal plan
 Draws to its unfolding? 'Tis the Soul of man.
-  _Going, going, all the glory growing._
-
+_Going, going, all the glory growing._
 See it mount and hover, singing as it goes,
 Battling with the darkness, nourished by its woes;
-  _Going, going, all the glory growing._
-
+_Going, going, all the glory growing._
 The bale-fires of midnight glaring in its eyes,
 Past the phantom shadows see it rush and rise;
-  _Going, going, all the glory growing._
-
+_Going, going, all the glory growing._
 The supernal morning on its dewy wings,
 Soaring and scorning the lust of earthy things;
-  _Going, going, all the glory growing._
-
+_Going, going, all the glory growing._
 The beatific noontide on its eager breast
 Springing and singing to its halcyon rest;
-  _Going, going, all the glory growing._
-
+_Going, going, all the glory growing._
 In its starry vesture not a vestige of the sod,
 Winging still and singing to the heart of God.
-  _Going, going, all the glory growing._
-
-
-
-
-O TURN ONCE MORE
-
-
+_Going, going, all the glory growing._
 O turn once more!
-  The meadows where we mused and strayed together
+The meadows where we mused and strayed together
 Abound and glow yet with the ruby sorrel;
 'Twas there the bluebirds fought and played together,
 Their quarrel was a flying bluebird-quarrel;
 Their nest is firm still in the burnished cherry,
 They will come back there some day and be merry;
-  O turn once more.
-
+O turn once more.
 O turn once more!
-  The spring we lingered at is ever steeping
+The spring we lingered at is ever steeping
 The long, cool grasses where the violets hide,
 Where you awoke the flower-heads from their sleeping
 And plucked them, proud in their inviolate pride;
 You left the roots, the roots will flower again,
 O turn once more and pluck the flower again;
-  O turn once more.
-
+O turn once more.
 O turn once more!
-  We were the first to find the fairy places
+We were the first to find the fairy places
 Where the tall lady-slippers scarf'd and snooded,
 Painted their lovely thoughts upon their faces,
 And then, bewitched by their own beauty brooded;
 This will recur in some enchanted fashion;
 Time will repeat his miracles of passion;
-  O turn once more.
-
+O turn once more.
 O turn once more!
-  What heart is worth the longing for, the winning,
+What heart is worth the longing for, the winning,
 That is not moved by currents of surprise;
 Who never breaks the silken thread in spinning,
 Shows a bare spindle when the daylight dies;
 The constant blood will yet flow full and tender;
 The thread will mended be though gossamer-slender;
-  O turn once more.
-
-
-
-
-AT THE GILL-NETS
-
-
+O turn once more.
 Tug at the net,
 Haul at the net,
 Strip off the quivering fish;
 Hid in the mist
 The winds whist,
 Is like my heart's wish.
-
 What is your wish,
 Your heart's wish?
 Is it for home on the hills?
 Strip off the fish,
 The silver fish,
 Caught by their rosy gills.
-
 How can I know,
 I love you so,
 Each little thought I get
 Is held so,
 It dies you know,
 Caught in your heart's net.
-
 Tug at your net,
 Your heart's net,
 Strip off my silver fancies;
 Keep them in rhyme,
 For a dull time,
 Fragile as frost pansies.
-
-
-
-
-A LOVE SONG
-
-
 I gave her a rose in early June,
 Fed with the sun and the dew,
 Each petal I said is a note in the tune,
@@ -2038,7 +1539,6 @@ The tune is the whole red-hearted rose,
 Flush and form, honey and hue,
 Lull with the cadence and throb to the close,
 I love you, I love you, I love you.
-
 She gave me a rose in early June,
 Fed with the sun and the dew,
 Each petal she said is a mount in the moon,
@@ -2047,7 +1547,6 @@ The moon is the whole pale-hearted rose,
 Round and radiance, burnish and blue,
 Break in the flood-tide that murmurs and flows,
 I love you, I love you, I love you.
-
 This is our love in early June,
 Fed with the sun and the dew,
 Moonlight and roses hid in a tune,
@@ -2056,15 +1555,6 @@ The moonlight falls in the breath of the rose,
 Light and cadence, honey and hue,
 Mingle, and murmur, and flow to the close,
 I love you, I love you, I love you.
-
-
-
-
-THREE SONGS
-
-
-I
-
 Where love is life
 The roses blow,
 Though winds be rude
@@ -2075,7 +1565,6 @@ They nod in rhyme
 We know--we know
 Where love is life
 The roses blow.
-
 Where life is love
 The roses blow,
 Though care be quick
@@ -2086,110 +1575,70 @@ That rosebuds find
 A way to show
 Where life is love
 The roses blow.
-
-
-II
-
 Nothing came here but sunlight,
-  Nothing fell here but rain,
+Nothing fell here but rain,
 Nothing blew but the mellow wind,
-  Here are the flowers again!
-
+Here are the flowers again!
 No one came here but you, dear,
-  You with your magic train
+You with your magic train
 Of brightness and laughter and lightness,
-  Here is my joy again!
-
-
-III
-
+Here is my joy again!
 I have songs of dancing pleasure,
-  I have songs of happy heart,
+I have songs of happy heart,
 Songs are mine that pulse in measure
-  To the throbbing of the mart.
-
+To the throbbing of the mart.
 Songs are mine of magic seeming,
-  In a land of love forlorn,
+In a land of love forlorn,
 Where the joys are had for dreaming,
-  At a summons from the horn.
-
+At a summons from the horn.
 But my sad songs come unbidden,
-  Rising with a wilder zest,
+Rising with a wilder zest,
 From the bitter pool that's hidden,
-  Deep--deep--deep within my breast.
-
-
-
-
-THE SAILOR'S SWEETHEART
-
-
+Deep--deep--deep within my breast.
 O if love were had for asking,
-  In the markets of the town,
+In the markets of the town,
 Hardly a lass would think to wear
-  A fine silken gown:
+A fine silken gown:
 But love is had by grieving
 By choosing and by leaving,
 And there's no one now to ask me
 If heavy lies my heart.
-
 O if love were had for a deep wish
-  In the deadness of the night,
+In the deadness of the night,
 There'd be a truce to longing
-  Between the dusk and the light:
+Between the dusk and the light:
 But love is had for sighing,
 For living and for dying,
 And there's no one now to ask me
 If heavy lies my heart.
-
 O if love were had for taking
-  Like honey from the hive,
+Like honey from the hive,
 The bees that made the tender stuff
-  Could hardly keep alive:
+Could hardly keep alive:
 But love it is a wounded thing,
 A tremor and a smart,
 And there's no one left to kiss me now
 Over my heavy heart.
-
-
-
-
-FEUILLES D'AUTOMNE
-
-
 Gather the leaves from the forest
-  And blow them over the world,
+And blow them over the world,
 The wind of winter follows
-  The wind of autumn furled.
-
+The wind of autumn furled.
 Only the beech tree cherishes
-  A leaf or two for ruth,
+A leaf or two for ruth,
 Their stems too tough for the tempest,
-  Like thoughts of love and of youth.
-
+Like thoughts of love and of youth.
 You may sit by the fire and ponder
-  While darkness veils the pane,
+While darkness veils the pane,
 And fear that your memories are rushing away
-  In the wind and the rain.
-
+In the wind and the rain.
 But you'll find them in the quiet
-  When the clouds race with the moon,
+When the clouds race with the moon,
 Making the tender silver sound
-  Of a beech in the month of June.
-
+Of a beech in the month of June.
 For you cannot rob the memory
-  Of the leaves it loves the best;
+Of the leaves it loves the best;
 The wind of time may harry them,
-  It rushes away with the rest.
-
-
-
-
-TO THE HEROIC SOUL
-
-
-I
-
+It rushes away with the rest.
 Nurture thyself, O Soul, from the clear spring
 That wells beneath the secret inner shrine;
 Commune with its deep murmur,--'tis divine;
@@ -2198,17 +1647,12 @@ The outer tide of Spirit to trouble and swing
 The inlet of thy being. Learn to know
 These powers, and life with all its venom and show
 Shall have no force to dazzle thee or sting:
-
 And when Grief comes thou shalt have suffered more
 Than all the deepest woes of all the world;
 Joy, dancing in, shall find thee nourished with mirth;
 Wisdom shall find her Master at thy door;
 And Love shall find thee crowned with love empearled;
 And death shall touch thee not but a new birth.
-
-
-II
-
 Be strong, O warring soul! For very sooth
 Kings are but wraiths, republics fade like rain,
 Peoples are reaped and garnered as the grain,
@@ -2217,20 +1661,12 @@ Be strong when all the days of life bear ruth
 And fury, and are hot with toil and strain:
 Hold thy large faith and quell thy mighty pain:
 Dream the great dream that buoys thine age with youth.
-
 Thou art an eagle mewed in a sea-stopped cave:
 He, poised in darkness with victorious wings,
 Keeps night between the granite and the sea,
 Until the tide has drawn the warder-wave:
 Then from the portal where the ripple rings,
 He bursts into the boundless morning,--free!
-
-
-
-
-RETROSPECT
-
-
 This is the mockery of the moving years;
 Youth's colour dies, the fervid morning glow
 Is gone from off the foreland; slow, slow,
@@ -2239,22 +1675,12 @@ To empty, the consuming shadow nears
 That Time is casting on the worldly show
 Of pomp and glory. But falter not;--below
 That thought is based a deeper thought that cheers.
-
 Glean thou thy past; that will alone inure
 To catch thy heart up from a dark distress;
 It were enough to find one deed mature,
 Deep-rooted, mighty 'mid the toil and press;
 To save one memory of the sweet and pure,
 From out life's failure and its bitterness.
-
-
-
-
-FROST MAGIC
-
-
-I
-
 Now, in the moonrise, from a wintry sky,
 The frost has come to charm with elfin might
 This quiet room; to draw with symbols bright
@@ -2263,17 +1689,12 @@ Upon the casement; all the thoughts that lie
 Deep hidden in my heart's core he would tell,
 How the red shoots of fancy strike and swell,
 How they are watered, what soil nourished by.
-
 With eerie power he piles his atomies,
 Incrusted gems, star-glances overborne
 With lids of sleep pulled from the moth's bright eyes,
 And forests of frail ferns, blanched and forlorn,
 Where Oberon of unimagined size
 Might in the silver silence wind his horn.
-
-
-II
-
 With these alone he draws in magic lines,
 Faces that people dreams, and chiefly one
 Happy and brilliant as the northern sun,
@@ -2282,20 +1703,12 @@ One of God's children with the laughing signs
 Of dimples, and glad accents, and sweet cries,
 That angels are and heaven's memories:
 The wizard thus my soul's estate divines;
-
 All it holds dear he sets alone apart,
 Etches the past in likeness of dim groves
 Silvered in quiet rime and with rare art,
 In crystal spoils and fairy treasure-troves,
 He draws the picture of the happy heart,
 By those who love it most, whom most it loves.
-
-
-
-
-IN SNOW-TIME
-
-
 I have seen things that charmed the heart to rest:
 Faint moonlight on the towers of ancient towns,
 Flattering the soul to dream of old renowns;
@@ -2304,20 +1717,12 @@ Where the lone eagle by his chilly nest
 Called the lone soul to brood serenely free;
 Still pools of sunlight shimmering in the sea,
 Calm after storm, wherein the storm seemed blest.
-
 But here a peace deeper than peace is furled,
 Enshrined and chaliced from the changeful hour;
 The snow is still, yet lives in its own light.
 Here is the peace which brooded day and night,
 Before the heart of man with its wild power
 Had ever spurned or trampled the great world.
-
-
-
-
-TO A CANADIAN LAD KILLED IN THE WAR
-
-
 O noble youth that held our honour in keeping,
 And bore it sacred through the battle flame,
 How shall we give full measure of acclaim
@@ -2326,20 +1731,12 @@ For though we sowed with doubtful hands, half sleeping,
 Thou in thy vivid pride hast reaped a nation,
 And brought it in with shouts and exultation,
 With drums and trumpets, with flags flashing and leaping.
-
 Let us bring pungent wreaths of balsam, and tender
 Tendrils of wild-flowers, lovelier for thy daring,
 And deck a sylvan shrine, where the maple parts
 The moonlight, with lilac bloom, and the splendour
 Of suns unwearied; all unwithered, wearing
 Thy valor stainless in our heart of hearts.
-
-
-
-
-THE CLOSED DOOR
-
-
 _The dew falls and the stars fall,
 The sun falls in the west,
 But never more
@@ -2358,22 +1755,14 @@ Who was health and wealth and all,
 Who never shall answer my call,
 While the sun falls in the west,
 The dew falls and the stars fall._
-
-
-
-
-BY A CHILD'S BED
-
-
 She breathèd deep,
-  And stepped from out life's stream
+And stepped from out life's stream
 Upon the shore of sleep;
 And parted from the earthly noise,
 Leaving her world of toys,
 To dwell a little in a dell of dream.
-
 Then brooding on the love I hold so free,
-  My fond possessions come to be
+My fond possessions come to be
 Clouded with grief;
 These fairy kisses,
 This archness innocent,
@@ -2385,9 +1774,8 @@ If I had never had what now I value most;
 Till all I have seems something I have lost;
 A desert underneath the garden shows,
 And in a mound of cinders roots the rose.
-
 Here then I linger by the little bed,
-  Till all my spirit's sphere,
+Till all my spirit's sphere,
 Grows one half brightness and the other dead,
 One half all joy, the other vague alarms;
 And, holding each the other half in fee,
@@ -2395,15 +1783,7 @@ Floats like the growing moon
 That bears implicitly
 Her lessening pearl of shadow
 Clasped in the crescent silver of her arms.
-
-
-
-
-ELIZABETH SPEAKS
-
 (Aetat Six)
-
-
 Now every night we light the grate
 And I sit up till _really_ late;
 My Father sits upon the right,
@@ -2423,7 +1803,6 @@ Or lines that look like many things,
 Like skipping ropes, or hoops, or swings:
 Before you know what you're about,
 They all go out!
-
 My Father says that they are gnomes,
 Beyond the grate they have their homes,
 In a tall, black, and windy town,
@@ -2446,7 +1825,6 @@ They blow a horn we cannot hear,
 And march with the beadle at their head,
 Right through the little open door,
 Then close it tight and go to bed.
-
 My Mother says that may be so;
 (They both agree they're _gnomes_, you know).
 She says, she thinks that every night,
@@ -2470,13 +1848,10 @@ Puts out his light.
 Then hand in hand, and very still,
 They clamber up the dark, dark hill
 And hold their breath tight--tight.
-
 (I'd like to know which tale is right.)
-
 O! there is something I forgot!
 Sometimes one little spark burns on
 Long after the rest have gone.
-
 My Father says that lamp is left
 By a little crooked, crotchety man,
 Who cannot find his wayward son;
@@ -2486,7 +1861,6 @@ Of course he limps so slow
 He squeezes through the very last,
 When he is gone the naughty scamp
 Jumps up and puff! out goes the lamp.
-
 My Mother says that is the light,
 Borne by the very bravest knight;
 He is so very, very brave,
@@ -2497,240 +1871,189 @@ He answers boldly, "I--will--not!"
 Then they shoot him on the spot,
 And give a horrid, dreadful shout,
 And then of course his light goes out.
-
 I sit and think when they are through,
 Which tale I like best of the two.
 Sometimes I like the _Father_ one;
 It is such fun!
 But then I love the _Mother_ one,
 That dear brave soldier and the rest:--
-  _Now which one do you like the best?_
-
-
-
-
-A LEGEND OF CHRIST'S NATIVITY
-
-
+_Now which one do you like the best?_
 At Bethlehem upon the hill,
-  The day was done, the night was nigh,
+The day was done, the night was nigh,
 The dusk was deep and had its will,
 The stars were very small and still,
-  Like unblown tapers, faint and high.
-
+Like unblown tapers, faint and high.
 The noises had begun to fall,
-  And quiet stole upon the place,
+And quiet stole upon the place,
 The howl of dogs along the wall,
 Voices that from the houstops call
-  And answer, and the grace
-
+And answer, and the grace
 Of some low breath of even-song
-  Grew faint apace: between the rocks
+Grew faint apace: between the rocks
 In misty pastures, and along
 The dim hillside with crook and thong
-  The lonely shepherds watched their flocks.
-
+The lonely shepherds watched their flocks.
 The Inn-master within the Inn
-  Called loudly out after this sort,
+Called loudly out after this sort,
 "Draw no more water, cease the din,
 Pile the loose fodder, and begin
-  To turn the mules out of the court.
-
+To turn the mules out of the court.
 The time has come to shut the gate,
-  Make way," he cried, and then began
+Make way," he cried, and then began
 To sweep and set the litter straight,
 And pile the saddle-bags and freight
-  Of some belated caravan.
-
+Of some belated caravan.
 The drivers whirled their beasts about,
-  And beat them on with shoutings great;
+And beat them on with shoutings great;
 The nosebags slipped, the feed flew out,
 The water-buckets reeled, the rout
-  Went jostling onward to the gate.
-
+Went jostling onward to the gate.
 Came one unto the master then,
-  Hasting to find him through the gloom,
+Hasting to find him through the gloom,
 "Give us a place to rest;" and when
 He spake, the master cried again,
-  "There is no room--there is no room."
-
+"There is no room--there is no room."
 "But I have come from Nazareth,
-  Full three days' toil to Bethlehem"--
+Full three days' toil to Bethlehem"--
 "What matters that," the master saith,
 "For here is hardly room for breath;
-  The guests curse me for crowding them."
-
+The guests curse me for crowding them."
 "Hold, Sir! leave me not so, I pray"--
-  He plucked him sudden by the sleeve,
+He plucked him sudden by the sleeve,
 "My wife is with me and doth say,
 Her hour hath come, I beg you, stay,
-  And make some plan for her relief."
-
+And make some plan for her relief."
 "Two hours ago you might have had
-  The chamber wherein stands the loom;
+The chamber wherein stands the loom;
 But then to drive me wholly mad,
 Came this great merchant from Baghdad,
-  And thrust himself into the room.
-
+And thrust himself into the room.
 "There is no other shelf to call
-  A bed--But just beyond the gate,
+A bed--But just beyond the gate,
 You may find shelter in a stall,
 If there be shelter left at all,
-  You may be even now too late."
-
+You may be even now too late."
 Beyond the gate within the night,
-  A figure rested on the ground,
+A figure rested on the ground,
 About her all the rout took flight,
 The dizzy noise, the flashing light,
-  The mules were tramping all around.
-
+The mules were tramping all around.
 Leaning in mute expectancy,
-  Beneath a stunted sycamore,
+Beneath a stunted sycamore,
 She added darkness utterly,
 To the dim light, the shrouded tree,
-  By her hands held her face before.
-
+By her hands held her face before.
 And yet to mock her eye's desire,
-  The cavern into which she stared,
+The cavern into which she stared,
 Was lit with disks and lines of fire;
 When triple darkness did conspire,
-  The secret founts of light were bared.
-
+The secret founts of light were bared.
 And all the wheeling fire was rife
-  With haunting fears, her broken breath
+With haunting fears, her broken breath
 Grew short with this prophetic strife;
 What was for one the dawn of life,
-  Would be for one the dawn of death.
-
+Would be for one the dawn of death.
 Meantime the stranger with a lamp,
-  Which lit the darkness, small and wan,
+Which lit the darkness, small and wan,
 Searched where the mules did tramp and stamp,
 Amid the litter and the damp,
-  For some small place to rest upon.
-
+For some small place to rest upon.
 And there against the furthest wall,
-  Where the black shade was dense and deep,
+Where the black shade was dense and deep,
 He found a mean and meager stall,
 But there when the weak light did fall,
-  He found a little lad asleep.
-
+He found a little lad asleep.
 He lifted up his childish head,
-  And smiled serenely at the light,
+And smiled serenely at the light,
 "And have you found him, then," he said,
 "My brother who I thought was dead,
-  I lost him in the crowd last night.
-
+I lost him in the crowd last night.
 "His name is Ezra, and he is
-  So tall and strong that when I try,
+So tall and strong that when I try,
 Standing on tiptoe for a kiss
 I could not reach, except for this,
-  He lifts me up so easily.
-
+He lifts me up so easily.
 "I had two little doves to take
-  Up to the booths"--he held his breath,
+Up to the booths"--he held his breath,
 "Peace, child! and for your mother's sake,
 Yield me this place--nay, nay! awake!
-  My weary wife is sick to death."
-
+My weary wife is sick to death."
 "I will," the little lad replied
-  "I promised never to forget
+"I promised never to forget
 My mother, years ago she died,
 I will lie out on the hillside,
-  And I may find dear Ezra yet."
-
+And I may find dear Ezra yet."
 And now she drooped her weary head,
-  Within that comfortless manger,
+Within that comfortless manger,
 It might have been a palace bed,
 With canopy of gold instead,
-  So little did she know or care.
-
-    _Gentle Jesus, slumber mild,
-      Lullaby, lullaby;
-    Succored by a little child,
-      Lull, lullaby._
-
-    _You of children are the king,
-      Lullaby, lullaby;
-    Sovereign to all ministering,
-      Lull, lullaby._
-
-    _Grace you bring them from above,
-      Lullaby, lullaby;
-    They give promise, lisping love,
-      Lull, lullaby._
-
+So little did she know or care.
+_Gentle Jesus, slumber mild,
+Lullaby, lullaby;
+Succored by a little child,
+Lull, lullaby._
+_You of children are the king,
+Lullaby, lullaby;
+Sovereign to all ministering,
+Lull, lullaby._
+_Grace you bring them from above,
+Lullaby, lullaby;
+They give promise, lisping love,
+Lull, lullaby._
 And out upon the darkened hill,
-  With all the quiet-pastured sheep,
+With all the quiet-pastured sheep,
 Charmed by the falling of a rill,
 Where in the pool it cadenced still,
-  The little lad was fallen asleep.
-
+The little lad was fallen asleep.
 All his young dreams were robed with power.
-  And glad were all his vision folk;
+And glad were all his vision folk;
 He wandered on from hour to hour,
 With Ezra, happy as a flower
-  That blooms safe-shadowed by the oak.
-
+That blooms safe-shadowed by the oak.
 But once before his dreams were told,
-  He thought he saw within the deep
+He thought he saw within the deep
 Vault of the sky a rose unfold,
 Made all of fire and lovely gold,
-  Whose petals seemed to glow and leap,
-
+Whose petals seemed to glow and leap,
 As if each dewy, crystal cell
-  Were a great angel live with light,
+Were a great angel live with light,
 And trembling to the coronal,
 Merging in sheen of pearl and shell,
-  With his great comrade, equal, bright,
-
+With his great comrade, equal, bright,
 Until the petals flashed and sprang,
-  And folded to the central heart:
+And folded to the central heart:
 Music there was that showered and rang,
 As if each angel harped and sang,
-  Controlled by some celestial art.
-
+Controlled by some celestial art.
 The child saw splendor without name,
-  And turned and smiled, and all the noise
+And turned and smiled, and all the noise
 Of strings and singing sank; it came
 Faint and dream-altered, yet the same,
-  Soft-tempered to his mother's voice.
-
-    _Slumber, slumber, gentle child,
-      Lullaby, lullaby;
-    Sweet as henna, dear and mild,
-      Lull, lullaby._
-
-    _You the first of all the race,
-      Lullaby, lullaby;
-    Gave your master early grace,
-      Lull, lullaby._
-
-    _Gave a shelter for his head,
-      Lullaby, lullaby;
-    Took the chilly earth instead,
-      Lull, lullaby._
-
-    _Now take comfort infant earth,
-      Lullaby, lullaby;
-    Jesus Christ is come to birth,
-      Lull, lullaby._
-
-    _For his principality,
-      Lullaby, lullaby;
-    Children cluster at his knee,
-      Lull, lullaby._
-
-    _Hail the heaven-happy age,
-      Lullaby, lullaby;
-    Love begins his pilgrimage,
-      Lull, lullaby._
-
-
-
-
-WILLOW-PIPES
-
-
+Soft-tempered to his mother's voice.
+_Slumber, slumber, gentle child,
+Lullaby, lullaby;
+Sweet as henna, dear and mild,
+Lull, lullaby._
+_You the first of all the race,
+Lullaby, lullaby;
+Gave your master early grace,
+Lull, lullaby._
+_Gave a shelter for his head,
+Lullaby, lullaby;
+Took the chilly earth instead,
+Lull, lullaby._
+_Now take comfort infant earth,
+Lullaby, lullaby;
+Jesus Christ is come to birth,
+Lull, lullaby._
+_For his principality,
+Lullaby, lullaby;
+Children cluster at his knee,
+Lull, lullaby._
+_Hail the heaven-happy age,
+Lullaby, lullaby;
+Love begins his pilgrimage,
+Lull, lullaby._
 So in the shadow by the nimble flood
 He made her whistles of the willow wood,
 Flutes of one note with mellow slender tone;
@@ -2743,34 +2066,18 @@ And when the ground was covered with light chips,
 Grey leaves and green, and twigs and tender slips,
 They placed the well-made whistles in a row
 And left them for the careless wind to blow.
-
-
-
-
-ANGEL
-
-
 Come to me when grief is over,
-  When the tired eyes,
+When the tired eyes,
 Seek thy cloudy wings to cover
-  Close their burning skies.
-
+Close their burning skies.
 Come to me when tears have dwindled
-  Into drops of dew,
+Into drops of dew,
 When the sighs like sobs re-kindled
-  Are but deep and few.
-
+Are but deep and few.
 Hold me like a crooning mother,
-  Heal me of the smart;
+Heal me of the smart;
 All mine anguish let me smother
-  In thy brooding heart.
-
-
-
-
-CHRISTMAS FOLK-SONG
-
-
+In thy brooding heart.
 Those who die on Christmas Day
 (I heard the triumphant Seraph say)
 Will be remembered, for they died
@@ -2781,7 +2088,6 @@ Will ask if Jesus rules on Earth
 The Anniversary of His Birth;
 This Question do they ask alway
 Of those who die on Christmas Day.
-
 Those who are born on Christmas Day
 (I heard the triumphant Seraph say)
 Will bring again the Peace on Earth
@@ -2792,56 +2098,29 @@ They may be Kings of Mighty Line,
 Their Lives alike will be benign;
 To them belongeth Peace alway,
 Those who are born on Christmas Day.
-
-
-
-
-FROM BEYOND
-
-
 Here there is balm for every tender heart
-  Wounded by life;
+Wounded by life;
 Rest for each one who bore a valiant part
-  Crushed in the strife.
-
+Crushed in the strife.
 I suffered there and held a losing fight
-  Even to the grave;
+Even to the grave;
 And now I know that it was very right
-  To suffer and be brave.
-
-
-
-
-THE LEAF
-
-
+To suffer and be brave.
 This silver-edged geranium leaf
 Is one sign of a bitter grief
 Whose symbols are a myriad more;
 They cluster round a carven stone
 Where she who sleeps is never alone
 For two hearts at the core,
-
 Bound with her heart make one of three,
 A trinity in unity,
 One sentient heart that grieves;
 And myriad dark-leaved memories keep
 Vigil above the triune sleep,--
 Edged all with silver are the leaves.
-
-
-
-
-A MYSTERY PLAY
-
-
-CHARACTERS
-
 The Father.  The Child.  Death.  Angels.
-            Two Travellers.
-
-          *      *      *      *      *
-
+Two Travellers.
+*      *      *      *      *
 _The even settles still and deep,
 In the cold sky the last gold burns,
 Across the colour snow flakes creep.
@@ -2851,102 +2130,64 @@ The frost down falls with mighty stress
 Through the swift cloud that parts on high;
 The great stars shrivel into less
 In the hard depth of the iron sky._
-
-          *      *      *      *      *
-
+*      *      *      *      *
 _The Child:_
-
 What is that light, dear father,
-  That light in the dark, dark sky?
-
-
+That light in the dark, dark sky?
 _The Father:_
-
 Those are the lights of the city
-  And the villages thereby.
-
-
+And the villages thereby.
 _The Child:_
-
 There must be fire in the city
-  To throw that yellow glare;
+To throw that yellow glare;
 And fire in the little villages
-  On all the hearthstones there.
-
-
+On all the hearthstones there.
 _The Father, musing:_
-
 Yea, flames are on the hearthstones;
-  The ovens are full of bread,
+The ovens are full of bread,
 But here the coals are dying
-  And the flames are dead.
-
-
+And the flames are dead.
 _The Child:_
-
 What is the cold, dear father?
-  It stings like an angry bee.
+It stings like an angry bee.
 Wherever it stings my hand turns white,
-  See!
-
-
+See!
 _The Father:_
-
 The cold is a beast, my dear one,
-  With his paws he tears at the thatch,
+With his paws he tears at the thatch,
 His breath is a curse and a warning,
-  You can see it creep on the latch.
-
-
+You can see it creep on the latch.
 _The Child:_
-
 If 'tis a wolf, dear father,
-  That lies with his paw on the floor,
+That lies with his paw on the floor,
 Let us heat the spade in the embers
-  And drive him away from the door.
-
-
+And drive him away from the door.
 _Angels:_
-
 God is the power of growth,
 In the snail and the tree,
 God is the power of growth
 In the heart of the man.
-
-
 _The Child:_
-
 Did you not hear the singing,
-  Voices overhead?
+Voices overhead?
 Mother's voice and Ruth's voice,
-  Voices of the dead.
-
-
+Voices of the dead.
 _The Father, musing:_
-
 Our Ruth died in the springtime,
-  With the spade I turned the sod,
+With the spade I turned the sod,
 We buried her by the brier rose,
-  Her life is hid with God.
-
-
+Her life is hid with God.
 _The Child:_
-
 All summer long in the garden
-  No roses came to the tree.
+No roses came to the tree.
 Father, was it for sorrow,
-  Sorrow for thee and me?
-
-
+Sorrow for thee and me?
 _The Father:_
-
 Roses grew in the garden,
-  I saw them at morning and even,
+I saw them at morning and even,
 Shadows of earthly roses
-  They bloomed for fingers in heaven.
-
-          *      *      *      *      *
-
+They bloomed for fingers in heaven.
+*      *      *      *      *
 _The air is very clear and still,
 The moonlight falls from half the sphere;
 The shadow from the silver hill
@@ -2956,35 +2197,23 @@ By the dead stream the alders throw
 Their shadows, shot with tingling spars;
 On the sheer height the elm trees glow:
 Their tops are tangled with the stars._
-
-          *      *      *      *      *
-
+*      *      *      *      *
 _The Child:_
-
 Father, the coals are dying,
-  See! I have heated the spade,
+See! I have heated the spade,
 Let me throw the door wide open,
-  I will not be afraid.
-
-
+I will not be afraid.
 _The Father:_
-
 Let me kiss you once on the forehead,
-  And once on your darling eyes;
+And once on your darling eyes;
 We may see them both at the dawning,
-  In the dales of Paradise.
-
-
+In the dales of Paradise.
 _The Child:_
-
 And if I only see them,
-  I will tell them how you smiled;
+I will tell them how you smiled;
 For the wolf, you know, is angry,
-  And I am a little child.
-
-
+And I am a little child.
 _Death:_
-
 Undaunted spirits,
 I give thee peace,
 For a world of dread--
@@ -2997,38 +2226,26 @@ Waxed deep, deep,
 What we bear is best;
 Just ones,
 I give thee sleep.
-
-
 _First Traveller:_
-
 Keep up your spirits, I know
 There's a cabin under the hill,
 The fellow will make a roaring fire;
 We'll heat our hands and drink our fill
 And go warm to our heart's desire!
-
-
 _Second Traveller:_
-
 The door is open,--Heigho!
 This pair will claim neither crown nor groat,
 The man has gripped his garden spade
 As if he would dig his grave in the snow;
 The boy has the face of a saint, I trow;
 His brow says, "I was not afraid!"
-
-
 _First Traveller:_
-
 Ah well, these things must be, you know!
 Gather your sables around your throat;
 Give us that story about the monk,
 His niece, and the wandering conjurer,
 Just to keep our blood astir.
-
-
 _The Angels:_
-
 The heart of God,
 The worlds and man,
 Are fashioned and moulded,
@@ -3044,9 +2261,7 @@ Bear well thy grief,
 'Tis a rich full sheaf:
 Gather the souls that have passed in the night,
 Theirs is the peace and the light.
-
-          *      *      *      *      *
-
+*      *      *      *      *
 _The moon is gone, the dawning brings
 A deeper dark with silver blent,
 Above the wells where, myriad, springs
@@ -3056,13 +2271,6 @@ Tremble and melt away--one sweep
 The great soft color floods and flows,
 Where under snow the roses sleep;
 The morn has turned the snow to rose._
-
-
-
-
-LINES IN MEMORY OF EDMUND MORRIS
-
-
 Dear Morris--here is your letter--
 Can my answer reach you now?
 Fate has left me your debtor,
@@ -3079,7 +2287,6 @@ This--in your famous scribble,
 It was ever a cryptic fist,
 Cuneiform or Chaldaic
 Meanings held in a mist.
-
 Dear Morris, (now I'm inditing
 And poring over your script)
 I gather from the writing,
@@ -3092,7 +2299,6 @@ Is that Phimister Proctor
 Or something about a doctor?
 Well, nobody knows, but Eddie,
 Whatever it is I'm ready.
-
 For our friendship was always fortunate
 In its greetings and adieux,
 Nothing flat or importunate,
@@ -3106,7 +2312,6 @@ Yes, Morris, I am inditing--
 Answering at last it seems,
 How can you read the writing
 In the vacancy of dreams?
-
 I would have you look over my shoulder
 Ere the long, dark year is colder,
 And mark that as memory grows older,
@@ -3119,9 +2324,7 @@ And be conscious of an awareness
 In our old lives, and the bareness
 Of theirs, with the newest passions
 In the last fad of the fashions?
-
-          *      *      *      *      *
-
+*      *      *      *      *
 How often have we risen without daylight
 When the day star was hidden in mist,
 When the dragon-fly was heavy with dew and sleep,
@@ -3129,7 +2332,7 @@ And viewed the miracle pre-eminent, matchless,
 The prelusive light that quickens the morning.
 O crystal dawn, how shall we distill your virginal freshness
 When you steal upon a land that man has not sullied with his
-    intrusion,
+intrusion,
 When the aboriginal shy dwellers in the broad solitudes
 Are asleep in their innumerable dens and night haunts
 Amid the dry ferns, in the tender nests
@@ -3138,32 +2341,26 @@ How shall we simulate the thrill of announcement
 When lake after lake lingering in the starlight
 Turn their faces towards you,
 And are caressed with the salutation of colour?
-
 How shall we transmit in tendril-like images,
 The tenuous tremor in the tissues of ether,
 Before the round of colour buds like the dome of a shrine,
 The preconscious moment when love has fluttered in the bosom,
 Before it begins to ache?
-
 How often have we seen the even
 Melt into the liquidity of twilight,
 With passages of Titian splendour,
 Pellucid preludes, exquisitely tender,
 Where vanish and revive, thro' veils of the ashes of roses,
 The crystal forms the breathless sky discloses.
-
 The new moon a slender thing,
 In a snood of virgin light,
 She seemed all shy on venturing
 Into the vast night.
-
 Her own land and folk were afar,
 She must have gone astray,
 But the gods had given a silver star,
 To be with her on the way.
-
-          *      *      *      *      *
-
+*      *      *      *      *
 I can feel the wind on the prairie
 And see the bunch-grass wave,
 And the sunlights ripple and vary
@@ -3207,9 +2404,7 @@ And the ghosts of the warriors,
 And the black stallions
 Covered by the night wind
 As by a mantle.
-
-          *      *      *      *      *
-
+*      *      *      *      *
 I remember well a day,
 When the sunlight had free play,
 When you worked in happy stress,
@@ -3221,12 +2416,10 @@ Of hawk's feathers, A Man!
 Ah Morris, those were the times
 When you sang your inconsequent rhymes
 Sprung from a careless fountain:
-
 "_He met her on the mountain,
 He gave her a horn to blow,
 And the very last words he said to her
 Were, 'Go 'long, Eliza, go.'_"
-
 Foolish,--but life was all,
 And under the skilful fingers
 Contours came at your call--
@@ -3275,9 +2468,7 @@ The scene that was veiled had a meaning,
 So deep that none might know;
 Was it here in the morn on the mountain,
 That he gave her the horn to blow?
-
-          *      *      *      *      *
-
+*      *      *      *      *
 Tears are the crushed essence of this world,
 The wine of life, and he who treads the press
 Is lofty with imperious disregard
@@ -3308,9 +2499,7 @@ The failures hidden in our sum of conquest.
 Persistence is the master of this life;
 The master of these little lives of ours;
 To the end--effort--even beyond the end.
-
-          *      *      *      *      *
-
+*      *      *      *      *
 Here, Morris, on the plains that we have loved,
 Think of the death of Akoose, fleet of foot,
 Who, in his prime, a herd of antelope
@@ -3339,7 +2528,6 @@ In the lithe poplars whispered together and trembled,
 Fluttered before a sunset of gold smoke,
 With interspaces, green as sea water,
 And calm as the deep water of the sea.
-
 There Akoose lay, silent amid the bracken,
 Gathered at last with the Algonquin Chieftains.
 Then the tenebrous sunset was blown out,
@@ -3352,9 +2540,7 @@ The sleep of Akoose and the dinosaurs?
 Innumerable time, that yet is like the breath
 Of the long wind that creeps upon the prairie
 And dies away with the shadows at sundown.
-
-          *      *      *      *      *
-
+*      *      *      *      *
 What we may think, who brood upon the theme,
 Is, when the old world, tired of spinning, has fallen
 Asleep, and all the forms, that carried the fire
@@ -3374,15 +2560,4 @@ Escape, a lovely wraith of spirit, to latitudes
 Where the appearance, throated like a bird,
 Winged with fire and bodied all with passion,
 Shall flame with presage, not of tears, but joy.
-
-
-THE END
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Lundy's Lane and Other Poems, by 
 Duncan Campbell Scott
-

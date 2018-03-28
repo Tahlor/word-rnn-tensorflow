@@ -8,6 +8,9 @@ from beam import BeamSearch
 
 class Model():
     def __init__(self, args, infer=False):
+        input_dim = 2
+        BONUS = False
+
         self.args = args
         if infer:
             args.batch_size = 1
@@ -30,6 +33,8 @@ class Model():
         self.cell = cell = rnn.MultiRNNCell(cells)
 
         self.input_data = tf.placeholder(tf.int32, [args.batch_size, args.seq_length])
+        #self.input_data = tf.placeholder(tf.int32, [args.batch_size, args.seq_length, input_dim])
+        self.bonus_features = tf.placeholder(tf.int32, [args.batch_size, args.seq_length], name = "BonusFeatures")
         self.targets = tf.placeholder(tf.int32, [args.batch_size, args.seq_length])
         self.initial_state = cell.zero_state(args.batch_size, tf.float32)
         self.batch_pointer = tf.Variable(0, name="batch_pointer", trainable=False, dtype=tf.int32)
@@ -56,9 +61,37 @@ class Model():
             softmax_b = tf.get_variable("softmax_b", [args.vocab_size])
             variable_summaries(softmax_b)
             with tf.device("/cpu:0"):
+
+                # Create new variable named 'embedding' to connect the character input to the base layer
+                # of the RNN. Its role is the conceptual inverse of softmax_w.
+                # It contains the trainable weights from the one-hot input vector to the lowest layer of RNN.
                 embedding = tf.get_variable("embedding", [args.vocab_size, args.rnn_size])
-                inputs = tf.split(tf.nn.embedding_lookup(embedding, self.input_data), args.seq_length, 1)
-                inputs = [tf.squeeze(input_, [1]) for input_ in inputs]
+
+                # Inputs is: BATCHES, SEQ in BATCH, WORdS in SEQ
+
+                # Create an embedding tensor with tf.nn.embedding_lookup(embedding, self.input_data).
+                # This tensor has dimensions batch_size x seq_length x rnn_size.
+                # tf.split splits that embedding lookup tensor into seq_length tensors (along dimension 1).
+                # Thus inputs is a list of seq_length different tensors,
+                # each of dimension batch_size x 1 x rnn_size.
+                inputs = tf.split(tf.nn.embedding_lookup(embedding, self.input_data), args.seq_length, 1) # substitute embedding with input; split along SEQ in Batch
+
+                if BONUS:
+                    bonus_features = tf.split(tf.nn.embedding_lookup(embedding, self.bonus_features), args.seq_length, 1)
+
+                    # Concat these - 10 cells will be given the last word
+                    o = []
+                    #print(inputs[0].shape)
+                    #print(bonus_features[0].shape)
+                    for n in range(0,len(inputs)):
+                        o.append(tf.concat([inputs[n][:, :, :args.rnn_size-10], bonus_features[n][:, :, :10]], 2))
+                    inputs = o
+
+                # Iterate through these resulting tensors and eliminate that degenerate second dimension of 1,
+                # i.e. squeeze each from batch_size x 1 x rnn_size down to batch_size x rnn_size.
+                # Thus we now have a list of seq_length tensors, each with dimension batch_size x rnn_size.
+                inputs = [tf.squeeze(input_, [1]) for input_ in inputs] # make it into a list, squeeze removes the 1 dimensional SEQ-in-Batch;
+
 
         def loop(prev, _):
             prev = tf.matmul(prev, softmax_w) + softmax_b
@@ -97,6 +130,10 @@ class Model():
 
             x = np.zeros((1, 1))
             x[0, 0] = sample[-1]
+
+            # Keep feeding one rhyming word UNTIL newline space is sampled, then feed next
+            # Need to adjust beam search to go line by line UGH!
+
             feed = {self.input_data: x, self.initial_state: state}
             [probs, final_state] = sess.run([self.probs, self.final_state],
                                             feed)

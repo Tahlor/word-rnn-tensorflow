@@ -10,10 +10,13 @@ from six.moves import cPickle
 from utils import TextLoader
 from model import Model
 
+import sample
+
 # Defaults
 # python train.py --data_dir .\data --rnn_size 256 --num_layers 2 --model lstm --batch_size 50 --seq_length 25 --num_epochs 50
 
-def main(data_dir="./data", rnn_size=256, num_layers=2, model= "lstm", batch_size = 50, seq_length = 25, num_epochs=50):
+# "D:\PyCharm Projects\word-rnn-tensorflow\data\poems_large.txt"
+def main(data_dir=r".\data", rnn_size=256, num_layers=2, model= "lstm", batch_size = 50, seq_length = 200, num_epochs=50):
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_dir', type=str, default=data_dir,
                        help='data directory containing input.txt')
@@ -83,7 +86,7 @@ def train(args):
         assert saved_words==data_loader.words, "Data and loaded model disagree on word set!"
         assert saved_vocab==data_loader.vocab, "Data and loaded model disagree on dictionary mappings!"
 
-    with open(os.path.join(args.save_dir, 'config.pkl'), 'wb') as f:
+    with open(os.path.join(args.save_dir, 'config.pkl'), 'wb') as f:    
         cPickle.dump(args, f)
     with open(os.path.join(args.save_dir, 'words_vocab.pkl'), 'wb') as f:
         cPickle.dump((data_loader.words, data_loader.vocab), f)
@@ -102,7 +105,7 @@ def train(args):
         if args.init_from is not None:
             saver.restore(sess, ckpt.model_checkpoint_path)
             
-        # Epoch loop
+        # Epoch loop    
         for e in range(model.epoch_pointer.eval(), args.num_epochs):
             sess.run(tf.assign(model.lr, args.learning_rate * (args.decay_rate ** e)))
             data_loader.reset_batch_pointer()
@@ -114,16 +117,23 @@ def train(args):
             if args.init_from is not None:
                 data_loader.pointer = model.batch_pointer.eval()
                 args.init_from = None
+
+            # Batch step loop
             for b in range(data_loader.pointer, data_loader.num_batches):
                 start = time.time()
-                x, y = data_loader.next_batch()
-                feed = {model.input_data: x, model.targets: y, model.initial_state: state,
+                x, y, last_words = data_loader.next_batch()
+
+                # Concatenate Inputs
+                #x = tf.concat([x[:,:,None],last_words[:,:,None]],2)
+                feed = {model.input_data: x, model.targets: y, model.bonus_features:last_words, model.initial_state: state,
                         model.batch_time: speed}
                 summary, train_loss, state, _, _ = sess.run([merged, model.cost, model.final_state,
                                                              model.train_op, model.inc_batch_pointer_op], feed)
                 train_writer.add_summary(summary, e * data_loader.num_batches + b)
                 speed = time.time() - start
-                if (e * data_loader.num_batches + b) % args.batch_size == 0:
+                #if (e * data_loader.num_batches + b) % args.batch_size == 0:
+                # Print every epoch
+                if True:
                     print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
                         .format(e * data_loader.num_batches + b,
                                 args.num_epochs * data_loader.num_batches,
@@ -133,6 +143,7 @@ def train(args):
                     checkpoint_path = os.path.join(args.save_dir, 'model.ckpt')
                     saver.save(sess, checkpoint_path, global_step = e * data_loader.num_batches + b)
                     print("model saved to {}".format(checkpoint_path))
+                #sample.main()
         train_writer.close()
 
 if __name__ == '__main__':

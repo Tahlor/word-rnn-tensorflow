@@ -1,61 +1,8 @@
-e Project Gutenberg EBook of May Day with the Muses, by Robert Bloomfield
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: May Day with the Muses
-
-Author: Robert Bloomfield
-
-Posting Date: October 15, 2012 [EBook #9043]
-Release Date: October, 2005
-First Posted: September 1, 2003
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK MAY DAY WITH THE MUSES ***
-
-
-
-
 Produced by Jonathan Ingram, Charles Bidwell and Distributed
 Proofreaders
-
-
-
-
-
-
-
-
-
-
-MAYDAY WITH THE MUSES.
-
-BY
-ROBERT BLOOMFIELD
-
 Author of the Farmer's Boy, Rural Tales, &c.
-
-LONDON:
 Printed for the Author: and for Baldwin Chadock, and Joy
-
-1822
-
-LONDON:
-
 Printed by Thomas Davison, Whitefriars.
-
-
-
-
-PREFACE.
-
 I am of opinion that Prefaces are very useless things in cases like the
 present, where the Author must talk of himself, with little amusement to
 his readers. I have hesitated whether I should say any thing or nothing;
@@ -72,107 +19,72 @@ insects which land, air, or water can supply.........I have, from my own
 ground, the longest blade of grass upon record, and once accepted, as a
 half year's rent for a field of wheat, an ear, containing more grains than
 had been seen before upon a single stem."
-
 I hope my old Sir Ambrose stands in no need of defence from me or from any
 one; a man has a right to do what he likes with his own estate. The
 characters I have introduced as candidates may not come off so easily; a
 cluster of poets is not likely to be found in one village, and the
 following lines, written by my good friend T. Park. Esq. of Hampstead, are
 not only true, but beautifully true, and I cannot omit them.
-
-
-WRITTEN IN THE ISLE OF THANET,
-
 August, 1790.
-
 The bard, who paints from rural plains,
-  Must oft himself the void supply
+Must oft himself the void supply
 Of damsels pure and artless swains,
-  Of innocence and industry:
-
+Of innocence and industry:
 For sad experience shows the heart
-  Of human beings much the same;
+Of human beings much the same;
 Or polish'd by insidious art,
-  Or rude as from the clod it came.
-
+Or rude as from the clod it came.
 And he who roams the village round,
-  Or strays amid the harvest sere,
+Or strays amid the harvest sere,
 Will hear, as now, too many a sound
-  Quiet would never wish to hear.
-
+Quiet would never wish to hear.
 The wrangling rustics' loud abuse,
-  The coarse, unfeeling, witless jest,
+The coarse, unfeeling, witless jest,
 The threat obscene, the oath profuse,
-  And all that cultured minds detest.
-
+And all that cultured minds detest.
 Hence let those Sylvan poets glean,
-  Who picture life without a flaw;
+Who picture life without a flaw;
 Nature may form a perfect scene,
-  But Fancy must the figures draw.
-
+But Fancy must the figures draw.
 The word "fancy" connects itself with my very childhood, fifty years back.
 The fancy of those who wrote the songs which I was obliged to hear in
 infancy was a very inanimate and sleepy fancy. I could enumerate a dozen
 songs at least which all described sleeping shepherds and shepherdesses,
 and, in one instance, where they both went to sleep: this is not fair
 certainly; it is not even "watch and watch."
-
 "As Damon and Phillis were keeping of sheep,
 Being free from all care they retired to sleep," &c.
-
 I must say, that if I understand any thing at all about keeping sheep,
 this is not the way to go to work with them. But such characters and such
 writings were fashionable, and fashion will beat common sense at any time.
-
 With all the beauty and spirit of Cunningham's "Kate of Aberdeen," and
 some others, I never found any thing to strike my mind so forcibly as the
 last stanza of Dibdin's "Sailor's Journal"--
-
 "At length, 'twas in the month of May,
-  Our crew, it being lovely weather,
+Our crew, it being lovely weather,
 At three A.M. discovered day
-  And England's chalky cliffs together!
+And England's chalky cliffs together!
 At seven, up channel how we bore,
-  Whilst hopes and fears rush'd o'er each fancy!
+Whilst hopes and fears rush'd o'er each fancy!
 At twelve, I gaily jump'd on shore,
-  And to my throbbing heart press'd Nancy."
-
+And to my throbbing heart press'd Nancy."
 This, to my feelings, is a balm at all times; it is spirit, animation, and
 imagery, all at once.
-
 I will plead no excuses for any thing which the reader may find in this
 little volume, but merely state, that I once met with a lady in London,
 who, though otherwise of strong mind and good information, would maintain
 that "it is impossible for a blind man to fall in love." I always thought
 her wrong, and the present tale of "Alfred and Jennet" is written to
 elucidate my side of the question.
-
 I have been reported to be dead; but I can assure the reader that this,
 like many other reports, is not true. I have written these tales in
 anxiety, and in a wretched state of health; and if these formidable foes
 have not incapacitated me, but left me free to meet the public eye with
 any degree of credit, that degree of credit I am sure I shall gain.
-
 I am, with remembrance of what is past,
-
 Most respectfully,
-
-ROBERT BLOOMFIELD.
-
-
 _Shefford, Bedfordshire,_
-
 _April 10th_, 1822.
-
-
-
-
-    MAY-DAY WITH THE MUSES.
-
-
-
-THE INVITATION
-
 O for the strength to paint my joy once more!
 That joy I feel when Winter's reign is o'er;
 When the dark despot lifts his hoary brow,
@@ -197,7 +109,6 @@ Still be propitious when his feet shall stray
 Beneath the bursting hawthorn-buds of May;
 Warm every thought, and brighten every hour,
 And let him feel thy presence and thy power.
-
 SIR AMBROSE HIGHAM, in his eightieth year,
 With memory unimpair'd, and conscience clear,
 His English heart untrammell'd, and full blown
@@ -212,10 +123,7 @@ But calmly wait the hour of his decay,
 The broad bright sunset of his glorious day;
 And where he first drew breath at last to fall,
 Beneath the towering shades of Oakly Hall[A].
-
-[Footnote A: The seat of Sir Ambrose is situated in the author's
 imagination only; the reader must build Oakly Hall where he pleases.]
-
 Quick spread the news through hamlet, field, and farm,
 The labourer wiped his brow and staid his arm;
 'Twas news to him of more importance far
@@ -234,7 +142,6 @@ From him they shared the embers' social glow;
 _He_ fed the flame that glanced along the snow,
 When winter drove his storms across the sky,
 And pierced the bones of shrinking poverty.
-
 Sir Ambrose loved the Muses, and would pay
 Due honours even to the ploughman's lay;
 Would cheer the feebler bard, and with the strong
@@ -247,7 +154,6 @@ And hence a sudden thought, a new-born whim,
 Would shake his cup of pleasure to the brim,
 Turn scoffs and doubts and obstacles aside,
 And instant action follow like a tide.
-
 Time past, he had on his paternal ground
 With pride the latent sparks of genius found
 In many a local ballad, many a tale,
@@ -262,7 +168,6 @@ That vanish in the quietness of night
 "A crowd of merry faces in the spring;--
 "Here, pens, boy, pens; I'll weigh the case no more,
 "But write the summons:--go, go, shut the door.
-
 "'All ye on Oakly manor dwelling,
 'Farming, labouring, buying, selling,
 'Neighbours! banish gloomy looks,
@@ -301,7 +206,6 @@ That vanish in the quietness of night
 'And wreaths of every flower that blows.
 'The months are wending fast away;
 'Farewell,--remember Old May-day.'"
-
 Surprise, and mirth, and gratitude, and jeers,
 The clown's broad wonder, th' enthusiast's tears,
 Fresh gleams of comfort on the brow of care,
@@ -318,7 +222,6 @@ For here Sir Ambrose sent a challenge forth,
 That claim'd a tribute due to sterling worth;
 And all, whatever might their host regale,
 Agreed to share the feast and drink his ale.
-
 Now shot through many a heart a secret fire,
 A new born spirit, an intense desire
 For once to catch a spark of local fame,
@@ -350,7 +253,6 @@ The broad Atlantic pour her pregnant breath,
 And rouse the vegetable world from death;
 Our island spring is rapture's self to me,
 All I have seen, and all I wish to see.
-
 Thus came the jovial day, no streaks of red
 O'er the broad portal of the morn were spread,
 But one high-sailing mist of dazzling white,
@@ -367,7 +269,6 @@ Weeps while he struggles with restraint or pain,
 But change the scene, and make him laugh again,
 His heart rekindles, and his cheek appears
 A thousand times more lovely through his tears.
-
 From the first glimpse of day a busy scene
 Was that high swelling lawn, that destined green,
 Which shadowless expanded far and wide,
@@ -408,7 +309,6 @@ No cringing looks, no pauper tales to tell,
 No timid glance, they knew their host too well,--
 Freedom was there, and joy in every eye:
 Such scenes were England's boast in days gone by.
-
 Beneath the thorn was good Sir Ambrose found,
 His guests an ample crescent form'd around;
 Nature's own carpet spread the space between,
@@ -423,7 +323,6 @@ A patriarch family, a close-link'd band,
 True to their rural chieftain, heart and hand:
 The deep carouse can never boast the bliss,
 The animation of a scene like this.
-
 At length the damask cloths were whisk'd away,
 Like fluttering sails upon a summer's day;
 The hey-day of enjoyment found repose;
@@ -440,7 +339,6 @@ Dull must that clown be, dull as winter's sleet,
 Who would not instantly be on his feet:
 An echoing health to mingling shouts gave place,
 "Sir Ambrose Higham, and his noble race."
-
 Avaunt, Formality! thou bloodless dame,
 With dripping besom quenching nature's flame;
 Thou cankerworm, who liv'st but to destroy,
@@ -449,7 +347,6 @@ Thou freezing mist round intellectual mirth,
 Thou spell-bound vagabond of spurious birth,
 Away! away! and let the sun shine clear,
 And all the kindnesses of life appear.
-
 With mild complacency, and smiling brow,
 The host look'd round, and bade the goblets flow;
 Yet curiously anxious to behold
@@ -460,262 +357,206 @@ That instant started Philip from the throng,
 Philip, a farmer's son, well known for song,--
 And, as the mingling whispers round him ran,
 He humbly bow'd, and timidly began:--
-
-
-
-
-THE DRUNKEN FATHER
-
 Poor Ellen married Andrew Hall,
-  Who dwells beside the moor,
+Who dwells beside the moor,
 Where yonder rose-tree shades the wall,
-  And woodbines grace the door.
-
+And woodbines grace the door.
 Who does not know how blest, how loved
-  Were her mild laughing eyes
+Were her mild laughing eyes
 By every youth!--but Andrew proved
-  Unworthy of his prize.
-
+Unworthy of his prize.
 In tippling was his whole delight,
-  Each sign-post barr'd his way;
+Each sign-post barr'd his way;
 He spent in muddy ale at night
-  The wages of the day.
-
+The wages of the day.
 Though Ellen still had charms, was young,
-  And he in manhood's prime,
+And he in manhood's prime,
 She sad beside her cradle sung,
-  And sigh'd away her time.
-
+And sigh'd away her time.
 One cold bleak night, the stars were hid,
-  In vain she wish'd him home;
+In vain she wish'd him home;
 Her children cried, half cheer'd, half chid,
-  "O when will father come!"
-
+"O when will father come!"
 'Till Caleb, nine years old, upsprung,
-  And kick'd his stool aside,
+And kick'd his stool aside,
 And younger Mary round him clung,
-  "I'll go, and you shall guide."
-
+"I'll go, and you shall guide."
 The children knew each inch of ground,
-  Yet Ellen had her fears;
+Yet Ellen had her fears;
 Light from the lantern glimmer'd round,
-  And show'd her falling tears.
-
+And show'd her falling tears.
 "Go by the mill and down the lane;
-  "Return the same way home:
+"Return the same way home:
 "Perhaps you'll meet him, give him light;
-  "O how I _wish_ he'd come."
-
+"O how I _wish_ he'd come."
 Away they went, as close and true
-  As lovers in the shade,
+As lovers in the shade,
 And Caleb swung his father's staff
-  At every step he made.
-
+At every step he made.
 The noisy mill-clack rattled on,
-  They saw the water flow,
+They saw the water flow,
 And leap in silvery foam along,
-  Deep murmuring below.
-
+Deep murmuring below.
 "We'll soon be there," the hero said,
-  "Come on, 'tis but a mile,--
+"Come on, 'tis but a mile,--
 "Here's where the cricket-match was play'd,
-  "And here's the shady stile.
-
+"And here's the shady stile.
 "How the light shines up every bough!
-  "How strange the leaves appear!
+"How strange the leaves appear!
 "Hark!--What was that?--'tis silent now,
-  "Come, Mary, never fear."
-
+"Come, Mary, never fear."
 The staring oxen breathed aloud,
-  But never dream'd of harm;
+But never dream'd of harm;
 A meteor glanced along the cloud
-  That hung o'er Wood-Hill Farm.
-
+That hung o'er Wood-Hill Farm.
 Old Caesar bark'd and howl'd hard by,
-  All else was still as death,
+All else was still as death,
 But Caleb was ashamed to cry,
-  And Mary held her breath.
-
+And Mary held her breath.
 At length they spied a distant light,
-  And heard a chorus brawl;
+And heard a chorus brawl;
 Wherever drunkards stopp'd at night,
-  Why there was Andrew Hall.
-
+Why there was Andrew Hall.
 The house was full, the landlord gay,
-  The bar-maid shook her head,
+The bar-maid shook her head,
 And wish'd the boobies far away
-  That kept her out of bed.
-
+That kept her out of bed.
 There Caleb enter'd, firm, but mild,
-  And spoke in plaintive tone:--
+And spoke in plaintive tone:--
 "My mother could not leave the child,
-  "So we are come alone."
-
+"So we are come alone."
 E'en drunken Andrew felt the blow
-  That innocence can give,
+That innocence can give,
 When its resistless accents flow
-  To bid affection live.
-
+To bid affection live.
 "I'm coming, loves, I'm coming now,"--
-  Then, shuffling o'er the floor,
+Then, shuffling o'er the floor,
 Contrived to make his balance true,
-  And led them from the door.
-
+And led them from the door.
 The plain broad path that brought him there
-  By day, though faultless then,
+By day, though faultless then,
 Was up and down and narrow grown,
-  Though wide enough for ten.
-
+Though wide enough for ten.
 The stiles were wretchedly contrived,
-  The stars were all at play,
+The stars were all at play,
 And many a ditch had moved itself
-  Exactly in his way.
-
+Exactly in his way.
 But still conceit was uppermost,
-  That stupid kind of pride:--
+That stupid kind of pride:--
 "Dost think I cannot see a post?
-  "Dost think I want a guide?
-
+"Dost think I want a guide?
 "Why, Mary, how you twist and twirl!
-  "Why dost not keep the track?
+"Why dost not keep the track?
 "I'll carry thee home safe, my girl,"--
-  Then swung her on his back.
-
+Then swung her on his back.
 Poor Caleb muster'd all his wits
-  To bear the light ahead,
+To bear the light ahead,
 As Andrew reel'd and stopp'd by fits,
-  Or ran with thund'ring tread.
-
+Or ran with thund'ring tread.
 Exult, ye brutes, traduced and scorn'd,
-  Though true to nature's plan;
+Though true to nature's plan;
 Exult, ye bristled, and ye horn'd,
-  When infants govern man.
-
+When infants govern man.
 Down to the mill-pool's dangerous brink
-  The headlong party drove;
+The headlong party drove;
 The boy alone had power to think,
-  While Mary scream'd above.
-
+While Mary scream'd above.
 "Stop!" Caleb cried, "you've lost the path;
-  "The water's close before;
+"The water's close before;
 "I see it shine, 'tis very deep,--
-  "Why, don't you hear it roar?"
-
+"Why, don't you hear it roar?"
 And then in agony exclaim'd,
-  "O where's my mother _now_?"
+"O where's my mother _now_?"
 The Solomon of hops and malt
-  Stopp'd short and made a bow:
-
+Stopp'd short and made a bow:
 His head was loose, his neck disjointed,
-  It cost him little trouble;
+It cost him little trouble;
 But, to be stopp'd and disappointed,
-  Poh! danger was a bubble.
-
+Poh! danger was a bubble.
 Onward be stepp'd, the boy alert,
-  Calling his courage forth,
+Calling his courage forth,
 Hung like a log on Andrew's skirt,
-  And down he brought them both.
-
+And down he brought them both.
 The tumbling lantern reach'd the stream,
-  Its hissing light soon gone;
+Its hissing light soon gone;
 'Twas night, without a single gleam,
-  And terror reign'd alone.
-
+And terror reign'd alone.
 A general scream the miller heard,
-  Then rubb'd his eyes and ran,
+Then rubb'd his eyes and ran,
 And soon his welcome light appear'd,
-  As grumbling he began:--
-
+As grumbling he began:--
 "What have we here, and whereabouts?
-  "Why what a hideous squall!
+"Why what a hideous squall!
 "Some drunken fool! I thought as much--
-  "'Tis only Andrew Hall!
-
+"'Tis only Andrew Hall!
 "Poor children!" tenderly he said,
-  "But now the danger's past."
+"But now the danger's past."
 They thank'd him for his light and aid,
-  And drew near home at last.
-
+And drew near home at last.
 But who upon the misty path
-  To meet them forward press'd?
+To meet them forward press'd?
 'Twas Ellen, shivering, with a babe
-  Close folded to her breast.
-
+Close folded to her breast.
 Said Andrew, "Now you're glad, I know,
-  "To se-se-see us come;--
+"To se-se-see us come;--
 "But I have taken care of both,
-  "And brought them bo-bo-both safe home."
-
+"And brought them bo-bo-both safe home."
 With Andrew vex'd, of Mary proud,
-  But prouder of her boy,
+But prouder of her boy,
 She kiss'd them both, and sobb'd aloud,--
-  The children cried for joy.
-
+The children cried for joy.
 But what a home at last they found!
-  Of comforts all bereft;
+Of comforts all bereft;
 The fire out, the last candle gone,
-  And not one penny left!
-
+And not one penny left!
 But Caleb quick as light'ning flew,
-  And raised a light instead;
+And raised a light instead;
 And as the kindling brands he blew,
-  His father snored in bed.
-
+His father snored in bed.
 No brawling, boxing termagant
-  Was Ellen, though offended;
+Was Ellen, though offended;
 Who ever knew a fault like this
-  By violence amended?
-
+By violence amended?
 No:--she was mild as April morn,
-  And Andrew loved her too;
+And Andrew loved her too;
 She rose at daybreak, though forlorn,
-  To try what love could do.
-
+To try what love could do.
 And as her waking husband groan'd,
-  And roll'd his burning head,
+And roll'd his burning head,
 She spoke with all the power of truth,
-  Down kneeling by his bed.
-
+Down kneeling by his bed.
 "Dear Andrew, hear me,--though distress'd
-  "Almost too much to speak,--
+"Almost too much to speak,--
 "This infant starves upon my breast--
-  "To scold I am too weak.
-
+"To scold I am too weak.
 "I work, I spin, I toil all day,
-  "Then leave my work to cry,
+"Then leave my work to cry,
 "And start with horror when I think
-  "You wish to see me die.
-
+"You wish to see me die.
 "But _do_ you wish it? can that bring
-  "More comfort, or more joy?
+"More comfort, or more joy?
 "Look round the house, how destitute!
-  "Look at your ragged boy!
-
+"Look at your ragged boy!
 "That boy should make a father proud,
-  "If any feeling can;
+"If any feeling can;
 "Then save your children, save your wife,
-  "Your honour as a man.
-
+"Your honour as a man.
 "Hear me, for God's sake hear me now,
-  "And act a father's part!"
+"And act a father's part!"
 The culprit bless'd her angel tongue,
-  And clasp'd her to his heart;
-
+And clasp'd her to his heart;
 And would have vow'd, and would have sworn,
-  But Ellen kiss'd him dumb,--
+But Ellen kiss'd him dumb,--
 "Exert your mind, vow to _yourself_,
-  "And better days will come.
-
+"And better days will come.
 "I shall be well when you are kind,
-  "And you'll be better too."--
+"And you'll be better too."--
 "I'll drink no more,"--he quick rejoin'd,--
-  "Be't poison if I do."
-
+"Be't poison if I do."
 From that bright day his plants, his flowers,
-  His crops began to thrive,
+His crops began to thrive,
 And for three years has Andrew been
-  The soberest man alive.
-
+The soberest man alive.
 Soon as he ended, acclamations 'rose,
 Endang'ring modesty and self-repose,
 Till the good host his prudent counsel gave,
@@ -728,14 +569,12 @@ Then listen'd all, the flippant and the grave.
 "Enjoy the day as I enjoy the sight:
 "They shall not class us with the knavish elves,
 "Who banish shame, and criticise themselves."
-
 Thenceforward converse flow'd with perfect ease,
 Midst country wit, and rustic repartees.
 One drank to Ellen, if such might be found,
 And archly glanced at female faces round.
 If one with tilted can began to bawl,
 Another cried, "Remember Andrew Hall."
-
 Then, multifarious topics, corn and hay,
 Vestry intrigues, the rates they had to pay,
 The thriving stock, the lands too wet, too dry,
@@ -744,7 +583,6 @@ Ran mingling through the crowd--a crowd that might,
 Transferr'd to canvas, give the world delight;
 A scene that WILKIE might have touch'd with pride--
 The May-day banquet then had never died.
-
 But who is he, uprisen, with eye so keen,
 In garb of shining plush of grassy green--
 Dogs climbing round him, eager for the start,
@@ -754,127 +592,103 @@ The sturdy keeper of the Oakly game.
 Short prelude made, he pointed o'er the hill,
 And raised a voice that every ear might fill;
 His heart was in his theme, and in the forest still.
-
-
-
-
-THE FORESTER.
-
-[Illustration.]
-
-
-THE FORESTER.
-
 Born in a dark wood's lonely dell,
-  Where echoes roar'd, and tendrils curl'd
+Where echoes roar'd, and tendrils curl'd
 Round a low cot, like hermit's cell,
-  Old Salcey Forest was my world.
+Old Salcey Forest was my world.
 I felt no bonds, no shackles then,
-  For life in freedom was begun;
+For life in freedom was begun;
 I gloried in th' exploits of men,
-  And learn'd to lift my father's gun.
-
+And learn'd to lift my father's gun.
 O what a joy it gave my heart!
-  Wild as a woodbine up I grew;
+Wild as a woodbine up I grew;
 Soon in his feats I bore a part,
-  And counted all the game he slew.
+And counted all the game he slew.
 I learn'd the wiles, the shifts, the calls,
-  The language of each living thing;
+The language of each living thing;
 I mark'd the hawk that darting falls,
-  Or station'd spreads the trembling wing.
-
+Or station'd spreads the trembling wing.
 I mark'd the owl that silent flits,
-  The hare that feeds at eventide,
+The hare that feeds at eventide,
 The upright rabbit, when he sits
-  And mocks you, ere he deigns to hide.
+And mocks you, ere he deigns to hide.
 I heard the fox bark through the night,
-  I saw the rooks depart at morn,
+I saw the rooks depart at morn,
 I saw the wild deer dancing light,
-  And heard the hunter's cheering horn.
-
+And heard the hunter's cheering horn.
 Mad with delight, I roam'd around
-  From morn to eve throughout the year,
+From morn to eve throughout the year,
 But still, midst all I sought or found,
-  My favourites were the spotted deer.
+My favourites were the spotted deer.
 The elegant, the branching brow,
-  The doe's clean limbs and eyes of love;
+The doe's clean limbs and eyes of love;
 The fawn as white as mountain snow,
-  That glanced through fern and brier and grove.
-
+That glanced through fern and brier and grove.
 One dark, autumnal, stormy day,
-  The gale was up in all its might,
+The gale was up in all its might,
 The roaring forest felt its sway,
-  And clouds were scudding quick as light:
+And clouds were scudding quick as light:
 A ruthless crash, a hollow groan,
-  Aroused each self-preserving start,
+Aroused each self-preserving start,
 The kine in herds, the hare alone,
-  And shagged colts that grazed apart.
-
+And shagged colts that grazed apart.
 Midst fears instinctive, wonder drew
-  The boldest forward, gathering strength
+The boldest forward, gathering strength
 As darkness lour'd, and whirlwinds blew,
-  To where the ruin stretch'd his length.
+To where the ruin stretch'd his length.
 The shadowing oak, the noblest stem
-  That graced the forest's ample bound,
+That graced the forest's ample bound,
 Had cast to earth his diadem;
-  His fractured limbs had delved the ground.
-
+His fractured limbs had delved the ground.
 He lay, and still to fancy groan'd;
-  He lay like Alfred when he died--
+He lay like Alfred when he died--
 Alfred, a king by Heaven enthroned,
-  His age's wonder, England's pride!
+His age's wonder, England's pride!
 Monarch of forests, great as good,
-  Wise as the sage,--thou heart of steel!
+Wise as the sage,--thou heart of steel!
 Thy name shall rouse the patriot's blood
-  As long as England's sons can feel.
-
+As long as England's sons can feel.
 From every lawn, and copse, and glade,
-  The timid deer in squadrons came,
+The timid deer in squadrons came,
 And circled round their fallen shade
-  With all of language but its name.
+With all of language but its name.
 Astonishment and dread withheld
-  The fawn and doe of tender years,
+The fawn and doe of tender years,
 But soon a triple circle swell'd,
-  With rattling horns and twinkling ears.
-
+With rattling horns and twinkling ears.
 Some in his root's deep cavern housed,
-  And seem'd to learn, and muse, and teach,
+And seem'd to learn, and muse, and teach,
 Or on his topmost foliage browsed,
-  That had for centuries mock'd their reach.
+That had for centuries mock'd their reach.
 Winds in their wrath these limbs could crash,
-  This strength, this symmetry could mar;
+This strength, this symmetry could mar;
 A people's wrath can monarchs dash
-  From bigot throne or purple car.
-
+From bigot throne or purple car.
 When Fate's dread bolt in Clermont's bowers
-  Provoked its million tears and sighs,
+Provoked its million tears and sighs,
 A nation wept its fallen flowers,
-  Its blighted hopes, its darling prize.--
+Its blighted hopes, its darling prize.--
 So mourn'd my antler'd friends awhile,
-  So dark, so dread, the fateful day;
+So dark, so dread, the fateful day;
 So mourn'd the herd that knew no guile,
-  Then turn'd disconsolate away!
-
+Then turn'd disconsolate away!
 Who then of language will be proud?
-  Who arrogate that gift of heaven?
+Who arrogate that gift of heaven?
 To wild herds when they bellow loud,
-  To all the forest-tribes 'tis given.
+To all the forest-tribes 'tis given.
 I've heard a note from dale or hill
-  That lifted every head and eye;
+That lifted every head and eye;
 I've heard a scream aloft, so shrill
-  That terror seized on all that fly.
-
+That terror seized on all that fly.
 Empires may fall, and nations groan,
-  Pride be thrown down, and power decay;
+Pride be thrown down, and power decay;
 Dark bigotry may rear her throne,
-  But science is the light of day.
+But science is the light of day.
 Yet, while so low my lot is cast,
-  Through wilds and forests let me range;
+Through wilds and forests let me range;
 My joys shall pomp and power outlast--
-  The voice of nature cannot change.
-
-       *       *       *       *       *
-
+The voice of nature cannot change.
+*       *       *       *       *
 A soberer feeling through the crowd he flung,
 Clermont was uppermost on every tongue;
 But who can live on unavailing sighs?
@@ -883,7 +697,6 @@ Spirit, and youth, and worth, demand a tear--
 That day was past, and sorrow was not here;
 Sorrow the contest dared not but refuse
 'Gainst Oakly's open cellar and the muse.
-
 Sir Ambrose cast his eye along the line,
 Where many a cheerful face began to shine,
 And, fixing on his man, cried, loud and clear,
@@ -904,17 +717,6 @@ No tragic tale on stilts;--his mind had more
 Of boundless frolic than of serious lore;--
 Down went his hat, his shaggy friend close by
 Dozed on the grass, yet watch'd his master's eye.
-
-
-
-THE SHEPHERD'S DREAM:
-
-OR, FAIRIES' MASQUERADE.
-
-[Illustration]
-
-THE SHEPHERD'S DREAM: OR, FAIRIES' MASQUERADE.
-
 I had folded my flock, and my heart was o'erflowing,
 I loiter'd beside the small lake on the heath;
 The red sun, though down, left his drapery glowing,
@@ -923,7 +725,6 @@ I sat on the turf, but I meant not to sleep,
 And gazed o'er that lake which for ever is new,
 Where clouds over clouds appear'd anxious to peep
 From this bright double sky with its pearl and its blue.
-
 Forgetfulness, rather than slumber, it seem'd,
 When in infinite thousands the fairies arose
 All over the heath, and their tiny crests gleam'd
@@ -932,7 +733,6 @@ There a stripling went forth, half a finger's length high,
 And led a huge host to the north with a dash;
 Silver birds upon poles went before their wild cry,
 While the monarch look'd forward, adjusting his sash.
-
 Soon after a terrible bonfire was seen,
 The dwellings of fairies went down in their ire,
 But from all I remember, I never could glean
@@ -941,7 +741,6 @@ The flames seem'd to rise o'er a deluge of snow,
 That buried its thousands,--the rest ran away;
 For the hero had here overstrain'd his long bow,
 Yet he honestly own'd the mishap of the day.
-
 Then the fays of the north like a hailstorm came on,
 And follow'd him down to the lake in a riot,
 Where they found a large stone which they fix'd him upon,
@@ -950,7 +749,6 @@ He that couquer'd them all, was to conquer no more,
 But the million beheld he could conquer alone;
 After resting awhile, he leap'd boldly on shore,
 When away ran a fay that had mounted his throne.
-
 'Twas pleasant to see how they stared, how they scamper'd,
 By furze-bush, by fern, by no obstacle stay'd,
 And the few that held council, were terribly hamper'd,
@@ -959,7 +757,6 @@ I saw they were dress'd for a masquerade train,
 Colour'd rags upon sticks they all brandish'd in view,
 And of such idle things they seem'd mightily vain,
 Though they nothing display'd but a bird split in two.
-
 Then out rush'd the stripling in battle array,
 And both sides determined to fight and to maul:
 Death rattled his jawbones to see such a fray,
@@ -968,7 +765,6 @@ Here he fail'd,--hence he fled, with a few for his sake,
 And leap'd into a cockle-shell floating hard by;
 It sail'd to an isle in the midst of the lake,
 Where they mock'd fallen greatness, and left him to die.
-
 Meanwhile the north fairies stood round in a ring,
 Supporting his rival on guns and on spears,
 Who, though not a soldier, was robed like a king;
@@ -977,7 +773,6 @@ A lily triumphantly floated above,
 The crowd press'd, and wrangling was heard through the whole;
 Some soldiers look'd surly, some citizens strove
 To hoist the old nightcap on liberty's pole.
-
 But methought in my dream some bewail'd him that fell,
 And liked not his victors so gallant, so clever,
 Till a fairy stepp'd forward, and blew through a shell,
@@ -986,7 +781,6 @@ I woke at the sound, all in silence, alone,
 The moor-hens were floating like specks on a glass,
 The dun clouds were spreading, the vision was gone,
 And my dog scamper'd round 'midst the dew on the grass.
-
 I took up my staff, as a knight would his lance,
 And said, "Here 's my sceptre, my baton, my spear,
 And there's my prime minister far in advance,
@@ -995,24 +789,12 @@ So I slept without care till the dawning of day,
 Then trimm'd up my woodbines and whistled amain;
 My minister heard as he bounded away,
 And we led forth our sheep to their pastures again.
-
 Scorch'd by the shadeless sun on Indian plains,
 Mellow'd by age, by wants, and toils, and pains,
 Those toils still lengthen'd when he reach'd that shore
 Where Spain's bright mountains heard the cannons roar,
 A pension'd veteran, doom'd no more to roam,
 With glowing heart thus sung the joys of home.
-
-
-
-
-THE SOLDIER'S HOME.
-
-[Illustration.]
-
-
-THE SOLDIER'S HOME.
-
 My untried muse shall no high tone assume,
 Nor strut in arms;--farewell my cap and plume:
 Brief be my verse, a task within my power,
@@ -1079,7 +861,6 @@ I raved at war and all its horrid cost,
 And glory's quagmire, where the brave are lost.
 On carnage, fire, and plunder, long I mused,
 And cursed the murdering weapons I had used.
-
 Two shadows then I saw, two voices heard,
 One bespoke age, and one a child's appear'd.--
 In stepp'd my father with convulsive start,
@@ -1092,16 +873,13 @@ The child approach'd, and with her fingers light,
 Stroked my old eyes, almost deprived of sight.--
 But why thus spin my tale, thus tedious be?
 Happy old Soldier! what's the world to me?
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Change is essential to the youthful heart,
 It cannot bound, it cannot act its part
 To one monotonous delight a slave;
 E'en the proud poet's lines become its grave:
 By innate buoyancy, by passion led,
 It acts instinctively, it will be fed.
-
 A troop of country lasses paced the green,
 Tired of their seats, and anxious to be seen;
 They pass'd Sir Ambrose, turn'd, and pass'd again,
@@ -1131,7 +909,6 @@ And had he boasted one had wagg'd his tail,
 And plainly said, "What can my master ail?"
 To which the Shepherd, had he been more cool,
 Had only said, "'Tis Oakly feast, you fool."
-
 But where was Philip, he who danced so well?
 Had he retired, had pleasure broke her spell?
 No, he had yielded to a tend'rer bond,
@@ -1160,50 +937,35 @@ That old Sir Ambrose halloo'd him by name:
 He came, and made a proxy of his host,
 Who, as the dancers cooling join'd the throng,
 Eyed the fair writer as he read her song.
-
-
-
-
-ROSAMOND'S SONG OF HOPE.
-
-
 Sweet Hope, so oft my childhood's friend,
-  I will believe thee still,
+I will believe thee still,
 For thou canst joy with sorrow blend,
-  Where grief alone would kill.
-
+Where grief alone would kill.
 When disappointments wrung my heart,
-  Ill brook'd in tender years,
+Ill brook'd in tender years,
 Thou, like a sun, perform'dst thy part,
-  And dried my infant tears.
-
+And dried my infant tears.
 When late I wore the bloom of health,
-  And love had bound me fast,
+And love had bound me fast,
 My buoyant heart would sigh by stealth
-  For fear it might not last.
-
+For fear it might not last.
 My sickness came, my bloom decay'd,
-  But Philip still was by;
+But Philip still was by;
 And thou, sweet Hope, so kindly said,
-  "He'll weep if thou should'st die."
-
+"He'll weep if thou should'st die."
 Thou told'st me too, that genial Spring
-  Would bring me health again;
+Would bring me health again;
 I feel its power, but cannot sing
-  Its glories yet for pain.
-
+Its glories yet for pain.
 But thou canst still my heart inspire,
-  And Heaven can strength renew;
+And Heaven can strength renew;
 I feel thy presence, holy fire!
-  My Philip will be true.
-
-       *       *       *       *       *
-
+My Philip will be true.
+*       *       *       *       *
 All eyes were turn'd, all hearts with pity glow'd,
 The maid stood trembling, and the lover bow'd
 As rose around them, while she dried her tears,
 "Long life to Rosamond, and happy years!"
-
 Scarce had the voices ceased, when forth there came
 Another candidate for village fame:
 By gratitude to Heaven, by honest pride,
@@ -1218,12 +980,6 @@ Faced the whole ring, and shook his leathern coat.
 "Can talk a summer's sun down, and then dream
 "Of retrospective joys with hearts that glow
 "With feelings such as parents only know."
-
-
-
-
-ALFRED AND JENNET.
-
 Yes, let me tell of Jennet, my last child;
 In her the charms of all the rest ran wild,
 And sprouted as they pleased. Still by my side,
@@ -1246,14 +1002,12 @@ The half-fledged nestling, rabbit, mouse, or dove,
 By turns engaged her cares and infant love;
 And many a one, at the last doubtful strife,
 Warm'd in her bosom, started into life.
-
 At thirteen she was all that Heaven could send,
 My nurse, my faithful clerk, my lively friend;
 Last at my pillow when I sunk to sleep,
 First on my threshold soon as day could peep:
 I heard her happy to her heart's desire,
 With clanking pattens, and a roaring fire.
-
 Then, having store of new-laid eggs to spare,
 She fill'd her basket with the simple fare,
 And weekly trudged (I think I see her still)
@@ -1298,7 +1052,6 @@ Yet when he traced the wide extended plain,
 Or clear brook side, he felt a transient pain;
 The keen regret of goodness, void of pride,
 To think he could not roam without a guide.
-
 Who, guess ye, knew these scenes of home delight
 Better than Jennet, bless'd with health and sight?
 Whene'er she came, he from his sports would slide,
@@ -1309,7 +1062,6 @@ To Jennet's arm, and tell how sweet the breath
 Of bright May-mornings on the open heath;
 Then off they started, rambling far and wide,
 Like Cupid with a wood-nymph by his side.
-
 Thus months and months roll'd on, the summer pass'd,
 And the long darkness, and the winter blast,
 Sever'd the pair; no flowery fields to roam,
@@ -1320,7 +1072,6 @@ Gloomy and sad, yet striving to be gay
 As the long tedious evenings pass'd away:
 'Twas her delight fresh spirits to supply.--
 My girl was sent for--just for company.
-
 A tender governess my daughter found,
 Her temper placid, her instruction sound;
 Plain were her precepts, full of strength, their power
@@ -1339,7 +1090,6 @@ The globe she managed with a timid hand,
 Told which was ocean, which was solid land,
 And said, whate'er their diff'rent climates bore,
 All still roll'd round, though that I knew before.
-
 Thus grown familiar, and at perfect ease,
 What could be Jennet's duty but to please?
 Yet hitherto she kept, scarce knowing why,
@@ -1372,7 +1122,6 @@ That, 'spite of all her pains to persevere,
 She stopp'd to sigh, and wipe a starting tear;
 Then roused herself for faults to make amends.
 While Alfred trembled to his fingers' ends.
-
 But when this storm of feeling sunk to rest,
 Jennet, resuming, sung her very best,
 And on the ear, with many a dying fall,
@@ -1391,7 +1140,6 @@ Upsprung the youth, "O Jennet, where's your hand?
 "Could give me such unspeakable delight:
 "You little baggage! not to tell before
 "That you could sing; mind--you go home no more."
-
 Thus I have seen her from my own fire-side
 Attain the utmost summit of her pride;
 For, from that singing hour, as time roll'd round,
@@ -1412,7 +1160,6 @@ Spread forth her scents and hues, and whisper'd love
 And joy to every bird in every grove;
 And though their colours could not meet his eye,
 She pluck'd him flowers, then talk'd of poetry.
-
 Once on a sunbright morning, 'twas in June,
 I felt my spirits and my hopes in tune,
 And idly rambled forth, as if t' explore
@@ -1435,7 +1182,6 @@ This was for Alfred, which he seized with joy,
 "O, thank you, Jennet," said the generous boy.
 Much was their talk, which many a theme supplied,
 As down they sat, for every blade was dried.
-
 I would have skulk'd away, but dare not move,
 "Besides," thought I, "they will not talk of love;"
 But I was wrong, for Alfred, with a sigh,
@@ -1466,7 +1212,6 @@ It was a dainty sight to see them pass,
 Light as the July fawns upon the grass,
 Pure as the breath of spring when forth it spreads,
 Love in their hearts, and sunshine on their heads.
-
 Next day I felt what I was bound to do,
 To weigh the adventure well, and tell it too;
 For Alfred's mother must not be beguiled,
@@ -1477,7 +1222,6 @@ She was the judge, and she alone should know
 Whether to check the flame or let it grow.
 I went with fluttering heart, and moisten'd eye,
 But strong in truth, and arm'd for her reply.
-
 "Well, master Bowman, why that serious face?"
 Exclaim'd the lovely dame, with such a grace,
 That had I knelt before her, I had been
@@ -1504,7 +1248,6 @@ What must I, Bowman, or what can I do?"--
 "Send my girl home, and check it while you may."
 "I will," she said, but the next moment sigh'd;
 Parental love was struggling hard with pride.
-
 I left her thus, deep musing, and soon found
 My daughter, for I traced her by the sound
 Of Alfred's flageolet; no cares had they,
@@ -1579,7 +1322,6 @@ Her feverish hand in mine, and weigh'd the case,
 Nor dared to look each other in the face;
 Till, with a sudden stop, as if from fear,
 I roused her sinking spirit, "Who comes here?"
-
 Down the green slope before us, glowing warm,
 Came Alfred, tugging at his mother's arm;
 Willing she seem'd, but he still led the way,
@@ -1604,7 +1346,6 @@ My heart exulted while my breath was staid.
 "A dreary darkness, and a life of woe:
 "My dearest love, come _home_, and do not cry;
 "You are my daylight, Jennet, I shall die."
-
 To such appeals all prompt replies are cold,
 And stately prudence snaps her cobweb hold.
 Had the good widow tried, or wish'd to speak,
@@ -1641,9 +1382,7 @@ Or mark'd the bridegroom's bounding heart o'erflow,
 You might have wept for joy, as I could now:
 I speak from memory of days long past;
 Though 'tis a father's tale, I've done at last.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Here rest thee, rest thee, Muse, review the scene
 Where thou with me from peep of dawn hast been:
 We did not promise that this motley throng
@@ -1680,7 +1419,6 @@ A twin red rose--no other ornament
 Had pride suggested, or false feeling lent;
 She came to grace the triumph of her lord,
 And pay him honours at his festive board.
-
 Nine ruddy lasses follow'd where she stepp'd;
 White were their virgin robes, that lightly swept
 The downy grass; in every laughing eye
@@ -1701,7 +1439,6 @@ The rest, in order pacing by his bower,
 In the loop'd wreath left each her single flower,--
 Then stood aside.--What broke the scene's repose?
 The whole assembly clapp'd their hands and rose.
-
 The Muses charm'd them as they form'd a ring,
 And look'd the very life and soul of Spring!
 But still the white hair'd dame they view'd with pride,
@@ -1710,7 +1447,6 @@ Oh, sweet it is to hear, to see, to name,
 Unquench'd affection in the palsied frame--
 To think upon the boundless raptures past,
 And love, triumphant, conquering to the last!
-
 Silenced by feeling, vanquish'd by his tears,
 The host sprung up, nor felt the weight of years;
 Yet utterance found not, though in virtue's cause,
@@ -1719,7 +1455,6 @@ Till, by one last and vigorous essay,
 His tide of feeling roll'd itself away;
 The language of delight its bondage broke,
 And many a warm heart bless'd him as he spoke.
-
 "Neighbours and friends, by long experience proved,
 "Pardon this weakness; I was too much moved:
 "My dame, you see, can youth and age insnare,
@@ -1762,18 +1497,3 @@ And on each turret pour'd a brilliant gleam
 Of modest light, that trembled on the stream;
 The owl awoke, but dared not yet complain,
 And banish'd silence re-assumed her reign.
-
-
-THE END.
-
-
-
-
-
-
-
-
-
-
-End of Project Gutenberg's May Day with the Muses, by Robert Bloomfield
-

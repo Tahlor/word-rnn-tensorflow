@@ -1,76 +1,17 @@
-The Project Gutenberg EBook of The Pearl, by Sophie Jewett
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Pearl
-
-Author: Sophie Jewett
-
-Release Date: August 18, 2004 [EBook #13211]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE PEARL ***
-
-
-
-
-Produced by David Starner, Keith M. Eckrich, and the Project Gutenberg
 Online Distributed Proofreaders Team
-
-
-
-
-
-THE PEARL
-
-
-A MIDDLE ENGLISH POEM
-
-
-A MODERN VERSION IN THE METRE OF THE ORIGINAL
-
-BY
-
-SOPHIE JEWETT
-
-ASSOCIATE PROFESSOR OF ENGLISH LITERATURE IN WELLESLEY COLLEGE
-
-
-
-1908
-
-
-
 To KATHARINE LEE BATES
-
-THE TRANSLATOR TO THE AUTHOR
-
-     Poet of beauty, pardon me
-     If touch of mine have tarnished
-     Thy Pearl's pure luster, loved by thee;
-     Or dimmed thy vision of the dead
-     Alive in light and gaiety.
-     Thy life is like a shadow fled;
-     Thy place we know not nor degree,
-     The stock that bore thee, school that bred;
-     Yet shall thy fame be sung and said.
-     Poet of wonder, pain, and peace,
-     Hold high thy nameless, laurelled head
-     Where Dante dwells with Beatrice.
-
-
-
-
-
-PREFACE
-
+Poet of beauty, pardon me
+If touch of mine have tarnished
+Thy Pearl's pure luster, loved by thee;
+Or dimmed thy vision of the dead
+Alive in light and gaiety.
+Thy life is like a shadow fled;
+Thy place we know not nor degree,
+The stock that bore thee, school that bred;
+Yet shall thy fame be sung and said.
+Poet of wonder, pain, and peace,
+Hold high thy nameless, laurelled head
+Where Dante dwells with Beatrice.
 Among the treasures of the British Museum is a manuscript which
 contains four anonymous poems, apparently of common authorship: "The
 Pearl," "Cleanness," "Patience," "Sir Gawayne and the Green Knight."
@@ -85,7 +26,6 @@ retaining the alliteration characteristic of Northern Middle English
 verse. He wrote as was the fashion of his time, allegory, homily,
 lament, chivalric romance, but the distinction of his poetry is that
 of a finely accentuated individuality.
-
 The poems called "Cleanness" and "Patience," retell incidents of
 biblical history for a definitely didactic purpose, but even these are
 frequently lifted into the region of imaginative literature by the
@@ -94,7 +34,6 @@ Knight" is a priceless contribution to Arthurian story. "The Pearl,"
 though it takes the form of symbolic narrative, is essentially lyric
 and elegiac, the lament, it would seem, of a father for a little,
 long-lost daughter.
-
 The present translation of "The Pearl" was begun with no larger design
 than that of turning a few passages into modern English, by way of
 illustrating to a group of students engaged in reading the original,
@@ -104,7 +43,6 @@ experiment was persisted in because its problems are such as baffle
 and fascinate a translator, and the finished version is offered not
 merely to students of Middle English but to college classes in the
 history of English literature, and to non-academic readers.
-
 If "The Pearl" presented no greater obstacle to a modern reader than
 is offered by Chaucer's English, a translation might be a gratuitous
 task, but the Northwest-Midland dialect of the poem is, in fact,
@@ -112,7 +50,6 @@ incomparably more difficult than the diction of Chaucer, more
 difficult even than that of Langland. The meaning of many passages
 remains obscure, and a translator is often forced to choose what seems
 the least dubious among doubtful readings.
-
 The poem in the original passes frequently from imaginative beauty to
 conversational commonplace, from deep feeling to didactic aphorism or
 theological dogma, and it has been my endeavor faithfully to interpret
@@ -120,7 +57,6 @@ these variations of matter and of style, sometimes substituting modern
 colloquialisms for such as are obsolete, or in other ways paraphrasing
 a stubborn passage, but striving never to polish the dullest lines nor
 to strengthen the weakest.
-
 A reader who will observe the difficult rhyming scheme, a scheme that
 calls for six words of one rhyme and four of another, will understand
 the presence of forced lines, an intrusion that one must needs suffer
@@ -129,7 +65,6 @@ to the poem, but the introduction of naive and familiar expressions is
 one of its charms, as when the Pearl, protesting like Piccarda in
 Paradise[1] that among beatified spirits there can be no rivalry,
 exclaims: "The more the merrier."[2]
-
 The translation may, at many points, need apology, but the original
 needs only explanation. Readers familiar with mediaeval poetry expect
 to encounter moral platitudes and theological subtlety. Dogma takes
@@ -147,7 +82,6 @@ should be so regarded, but the plain reader finds in the symbolic
 maiden of the English poem, as in the transfigured lady of the
 Italian, some record of a human being whose loss was anguish, and
 whose presence rapture, to a poet long ago.
-
 The lover of things mediaeval will find in this little book not only
 the familiar garden of Guillaume de Lorris, of Boccaccio and of
 Chaucer, but an unexpected and enchanting vision of great forest and
@@ -156,12 +90,10 @@ flame-winged birds; of the Pearl among her white peers; of the
 Apocalyptic Jerusalem, discovered to the poet, it may be, as a goodly
 Gothic city, though its walls are built of precious stone, and its
 towers rise from neither church nor minster.
-
 If even a few readers turn from the modern to the original version,
 the translation will have had fair fortune, for the author of "The
 Pearl" is, though unknown and unnamed, a poet second only to Chaucer
 in Chaucer's generation.
-
 It is a pleasure to record my many debts of gratitude: to Professor
 Frank H. Chase of Beloit, Professor John L. Lowes of Swarthmore, and
 Dr. Charles G. Osgood of Princeton, for their careful reading of the
@@ -170,37 +102,11 @@ to Professor Martha Hale Shackford, and Miss Laura A. Hibbard, for
 constant aid while the work was in making, and, above all, to
 Professor Katharine Lee Bates for a critical, line by line, comparison
 of this version with the original.
-
-
-[Footnote 1: Par. III.]
-
-[Footnote 2: Pearl, stanza 71.]
-
-[Footnote 3:  Par. VII, II. 17-18; Par. VIII, I. 15.]
-
-
-S.J.
-WELLESLEY COLLEGE,
 June, 1908.
-
-
 EDITIONS: R. Morris, Early English text Sc. 1864; I. Gollancz, London,
-1891; C.G. Osgood, Boston, 1906 (with admirable introduction, etc.).
 TRANSLATIONS: Gollancz (above); S. Weir Mitchell, New York, 1906
 (poetic, but incomplete); G.G. Coulton, London, 1906 (metre of the
 original); C.G. Osgood, Princeton, 1907 (prose).
-
-
-
-
-THE PEARL
-
-
-
-
-I
-
-
 Pearl that the Prince full well might prize,
 So surely set in shining gold!
 No pearl of Orient with her vies;
@@ -213,8 +119,6 @@ Alas! I lost my pearl of old!
 I pine with heart-pain unforgot;
 Down through my arbour grass it rolled,
 My own pearl, precious, without spot.
-
-
 Since in that spot it slipped from me
 I wait, and wish, and oft complain;
 Once it would bid my sorrow flee,
@@ -227,8 +131,6 @@ While verity I muse in vain
 How clay should her bright beauty clot;
 O Earth! a brave gem thou dost stain,
 My own pearl, precious, without spot!
-
-
 Needs must that spot with spices spread,
 Where such wealth falleth to decay;
 Fair flowers, golden and blue and red,
@@ -241,8 +143,6 @@ Of good come good things, so we say,
 Then surely such seed faileth not,
 But spices spring in sweet array
 From my pearl, precious, without spot.
-
-
 Once, to that spot of which I rhyme,
 I entered, in the arbour green,
 In August, the high summer-time
@@ -255,8 +155,6 @@ As it was lovely to be seen,
 So sweet the fragrance there, I wot,
 Worthy her dwelling who hath been
 My own pearl, precious, without spot.
-
-
 Upon that spot my hands I crossed
 In prayer, for cold at my heart caught,
 And sudden sorrow surged and tossed,
@@ -269,12 +167,6 @@ Such odours to my sense were brought,
 I fell upon that flowery plot,
 Sleeping,--a sleep with dreams inwrought
 Of my pearl, precious, without spot.
-
-
-
-
-II
-
 From the spot my spirit springs into space,
 The while my body sleeping lies;
 My ghost is gone in God's good grace,
@@ -287,8 +179,6 @@ A man might scarce believe his eyes,
 Such gleaming glory was from them sent;
 No woven web may men devise
 Of half such wondrous beauties blent.
-
-
 In beauty shone each fair hillside
 With crystal cliffs in shining row,
 While bright woods everywhere abide,
@@ -301,8 +191,6 @@ The gravel on the ground below
 Seemed precious pearls of Orient;
 The sunbeams did but darkling show
 So gloriously those beauties blent.
-
-
 The beauty of the hills so fair
 Made me forget my sufferings;
 I breathed fruit fragrance fine and rare,
@@ -315,8 +203,6 @@ For when those bright birds beat their wings,
 They sing together, all content;
 Keen joy to any man it brings
 To hear and see such beauties blent.
-
-
 So beautiful was all the wood
 Where, guided forth by Chance, I strayed,
 There is no tongue that fully could
@@ -329,8 +215,6 @@ Hedges and slopes and rivers wide,
 Like gold thread their banks' garnishment;
 And when I won the waterside,
 Dear Lord! what wondrous beauties blent!
-
-
 The beauties of that stream were steep,
 All-radiant banks of beryl bright;
 Sweet-sighing did the water sweep,
@@ -343,13 +227,6 @@ Pure emerald even the pebbles seemed,
 Sapphire, or other gems that lent
 Luster, till all the water gleamed
 With the glory of such beauties blent.
-
-
-
-
-III
-
-
 For the beauteousness of downs and dales,
 Of wood and water and proud plains,
 My joy springs up and my grief quails,
@@ -362,8 +239,6 @@ While Fortune fares as her proud will deigns,
 Sending solace or sending sore,
 When a man her fickle favour gains,
 He looketh to have aye more and more.
-
-
 There was more of marvel and of grace
 Than I could tell, howe'er I tried;
 The human heart that could embrace
@@ -376,8 +251,6 @@ Beyond, on some slope undescried
 The City stood, I thought, wherefore
 I strove to cross the river's tide,
 And ever I longed, yet more and more.
-
-
 More, and still more wistfully,
 The banks beyond the brook I scanned;
 If, where I stood, 't was fair to see,
@@ -390,8 +263,6 @@ I thought I ought not thus to stand
 Timid, with such bright bliss before;
 Then a new matter came to hand
 That moved my heart yet more and more.
-
-
 Marvels more and more amaze
 My mind beyond that water fair:
 From a cliff of crystal, splendid rays,
@@ -404,8 +275,6 @@ Like fine gold leaf one cuts with care,
 Shone the maiden on the farther shore.
 Long time I looked upon her there,
 And ever I knew her more and more.
-
-
 As more and more I scanned her face
 And form, when I had found her so,
 A glory of gladness filled the place
@@ -418,13 +287,6 @@ But now she lifts that brow aglow,
 Like ivory smooth, even as of yore,
 It made my senses straying go,
 It stung my heart aye more and more.
-
-
-
-
-IV
-
-
 More than I liked did my fear rise.
 Stock still I stood and dared not call;
 With lips close shut and watchful eyes,
@@ -437,8 +299,6 @@ Then graciously and gay withal,
 In royal robes, so sweet, so slight,
 She rose, so modest and so small,
 That precious one in pearls bedight.
-
-
 Pearl bedight full royally,
 Adown the bank with merry mien,
 Came the maiden, fresh as fleur-de-lys.
@@ -451,8 +311,6 @@ With large folds falling loose, I ween,
 Arrayed with double pearls, her white
 Kirtle, of the same linen sheen,
 With precious pearls all round was dight.
-
-
 A crown with pearls bedight, the girl
 Was wearing, and no other stone;
 High pinnacled of clear white pearl,
@@ -465,8 +323,6 @@ Like sheer gold thread the bright hair strown
 Loose on her shoulders, lying light.
 Her colour took a deeper tone
 With bordering pearls so fair bedight.
-
-
 Bedight was every hem, and bound,
 At wrists, sides, and each aperture,
 With pearls the whitest ever found,--
@@ -479,8 +335,6 @@ I thought that no tongue might endure
 Fully to tell of that sweet sight,
 So was it perfect, clear and pure,
 That precious pearl with pearls bedight.
-
-
 Bedight in pearls, lest my joy cease,
 That lovely one came down the shore;
 The gladdest man from here to Greece,
@@ -493,13 +347,6 @@ Caught off the shining crown she wore,
 And greeted me with glance alight.
 I blessed my birth; my bliss brimmed o'er
 To answer her in pearls bedight.
-
-
-
-
-V
-
-
 "O Pearl," I said, "in pearls bedight,
 Art thou my pearl for which I mourn,
 Lamenting all alone at night?
@@ -512,8 +359,6 @@ What fate has hither my jewel borne,
 And left me in earth's strife and stir?
 Oh, sweet, since we in twain were torn,
 I have been a joyless jeweler."
-
-
 That Jewel then with gems besprent
 Glanced up at me with eyes of grey,
 Put on her pearl crown orient,
@@ -526,8 +371,6 @@ Your pearl may ever dwell at play,
 Where sin nor mourning come to her;
 It were a joy to thee alway
 Wert thou a gentle jeweler.
-
-
 "But, Jeweler, if thou dost lose
 Thy joy for a gem once dear to thee,
 Methinks thou dost thy mind abuse,
@@ -540,8 +383,6 @@ A thief thou hast dubbed thy destiny
 That something for nothing gives thee, sir;
 Thou blamest thy sorrow's remedy,
 Thou art no grateful jeweler."
-
-
 Like jewels did her story fall,
 A jewel, every gentle clause;
 "Truly," I said, "thou best of all!
@@ -554,8 +395,6 @@ And love my Lord and all His laws,
 Who hath brought this bliss. Ah! if I were
 Beyond these waves, I should have cause
 To be a joyful jeweler."
-
-
 "Jeweler," said that Gem so dear,
 "Why jest ye men, so mad ye be?
 Three sayings thou hast spoken clear,
@@ -568,13 +407,6 @@ Second, with me in this country
 Thou wilt dwell, whatever may deter;
 Third, that to cross here thou art free:
 That may no joyful jeweler."
-
-
-
-
-VI
-
-
 The jeweler merits little praise,
 Who loves but what he sees with eye,
 And it were a discourteous phrase
@@ -587,8 +419,6 @@ This is but pride and bigotry,
 That a good man may ill assume,
 To hold no matter trustworthy
 Till like a judge he hear and doom.
-
-
 "Whate'er thy doom, dost thou complain
 As man should speak to God most high?
 Thou wouldst gladly dwell in this domain;
@@ -601,8 +431,6 @@ In Paradise 't was ruined by
 Our forefather. Now in the womb
 Of dreary death each man must lie,
 Ere God on this bank gives his doom."
-
-
 "Doom me not, sweet, to my old fears
 And pain again wherein I pine.
 My pearl that, long, long lost, appears,
@@ -615,8 +443,6 @@ I reck not how my days decline,
 Though far from earth my soul seek room,
 Parted from that dear pearl of mine.
 Save endless dole what is man's doom?"
-
-
 "No doom save pain and soul's distress?"
 She answered: "Wherefore thinkst thou so?
 For pain of parting with the less,
@@ -629,8 +455,6 @@ For though thou mayst dance to and fro,
 Struggle and shriek, and fret and fume,
 When thou canst stir not, swift nor slow,
 At last, thou must endure His doom."
-
-
 "Let God doom as He doth ordain;
 He will not turn one foot aside;
 Thy good deeds mount up but in vain,
@@ -643,13 +467,6 @@ Thy anguish He will heal and hide,
 And lightly lift away thy gloom;
 For, be thou sore or satisfied,
 All is for Him to deal and doom."
-
-
-
-
-VII
-
-
 Doom me not, dearest damosel;
 It is not for wrath nor bitterness,
 If rash and raving thoughts I tell.
@@ -662,8 +479,6 @@ Comfort my sorrow and redress,
 Piteously thinking upon this:
 Grief and my soul thou hast made express
 One music,--thou who wert my bliss.
-
-
 "My bliss and bale, thou hast been both,
 But joy by great grief was undone;
 When thou didst vanish, by my troth,
@@ -676,8 +491,6 @@ So seldom. Gently thy words run,
 But I am dust, my deeds amiss;
 The mercy of Christ and Mary and John
 Is root and ground of all my bliss."
-
-
 "A blissful life I see thee lead,
 The while that I am sorrow's mate;
 Haply thou givest little heed
@@ -690,8 +503,6 @@ I am fain of thy most fair estate;
 The high road of my joy is this,
 That thou hast happiness so great;
 It is the ground of all my bliss."
-
-
 She said, "May bliss to thee betide,"
 Her face with beauty beaming clear,
 "Welcome thou art here to abide,
@@ -704,8 +515,6 @@ When in His place thou shalt appear,
 To kneel devout be not remiss,
 My Lord the Lamb loveth such cheer,
 Who is the ground of all my bliss."
-
-
 "Thou sayest a blissful life I know,
 And thou wouldst learn of its degree.
 Thou rememberest when thy pearl fell low
@@ -718,13 +527,6 @@ And dowered with all His wealth is she
 Who is His love, and I am His;
 His worthiness and royalty
 Are root and ground of all my bliss."
-
-
-
-
-VIII
-
-
 "My blissful one, may this be true.
 Pardon if I speak ill," I prayed:
 "Art thou the queen o' the heaven's blue,
@@ -737,8 +539,6 @@ For perfectness by none gainsaid,
 We call her the Phoenix of Araby,
 That flies in faultless charm arrayed,
 Like to the Queen of courtesy."
-
-
 "Courteous Queen," that bright one said,
 And, kneeling, lifted up her face:
 "Matchless Mother and merriest Maid,
@@ -751,8 +551,6 @@ That Empress may all heaven embrace,
 And earth and hell in her empery;
 Her from her heritage none will chase,
 For she is Queen of courtesy."
-
-
 "The court of the kingdom of God doth thrive
 Only because of this wondrous thing:
 Each one who therein may arrive,
@@ -765,8 +563,6 @@ But my Lady, from whom our Lord did spring,
 Rules over all our company,
 And for that we all rejoice and sing,
 Since she is Queen of courtesy."
-
-
 "Of courtesy, as says St. Paul,
 Members of Christ we may be seen.
 As head and arm and leg, and all,
@@ -779,8 +575,6 @@ The head shows neither spite nor spleen,
 Though arm and finger jewelled be,
 So fare we all in love serene,
 As kings and queens by courtesy."
-
-
 "Courtesy flowers thy folk among,
 And charity, I well believe.
 If foolish words flow from my tongue,
@@ -793,13 +587,6 @@ Who lived in penance morn and eve,
 Through bodily pain in bliss to be?
 Honour more high might he receive,
 Than be crowned king by courtesy?"
-
-
-
-
-IX
-
-
 "That courtesy rewards no deed
 If all be true that thou dost say;
 Our life not two years didst thou lead
@@ -812,8 +599,6 @@ As a countess, damsel, by my fay!
 To live in heaven were a fair boon,
 Or like a lady of less array,
 But a queen! Ah, no! it is too soon."
-
-
 "With Him there is no soon nor late,"
 Replied to me that worthy wight;
 "True always is His high mandate;
@@ -826,8 +611,6 @@ Of the Kingdom of Heaven, clear as light:
 As a lord who will his vineyard prune;
 The season of the year is right,
 And labourers must be hired soon.'"
-
-
 "Right soon the hirelings all may see
 How the master with the dawn arose;
 To hire his labourers forth went he,
@@ -840,8 +623,6 @@ Then to the market-place he goes,
 And finds men idle at high noon:
 'How can a man stand here who knows
 The vineyards should be tilled so soon?'"
-
-
 "'Soon as day dawned we hither won,
 And no man hath our labour sought;
 We have been standing since rose the sun
@@ -854,8 +635,6 @@ Among the vines they went and wrought,
 While morning, noon and afternoon,
 More labourers the master brought,
 Until the night must gather soon."
-
-
 "Soon fell the time of evensong.
 An hour before the sun was set,
 He saw more idlers, young and strong;
@@ -868,13 +647,6 @@ The day grew dark and darker yet,
 "Before the rising of the moon;
 The master who would pay his debt,
 Bade summon all the hirelings soon."
-
-
-
-
-X
-
-
 "The lord soon called his steward: 'Go
 Bring in the men quick as ye may;
 Give them the wages that I owe,
@@ -887,8 +659,6 @@ And then the first began to pray,
 Complaining they had travailed sore:
 'These wrought but one hour of the day,
 We think we should receive the more.'"
-
-
 "'More have we served,' they muttered low,
 'Who have endured the long day's heat,
 Than these who not two hours toiled so;
@@ -901,8 +671,6 @@ Why dost thou now for more entreat?
 Thou wast well satisfied before.
 Once made, a bargain is complete;
 Why shouldst thou, threatening, ask for more?"
-
-
 "'What can be more within my gift
 Than what I will with mine to do?
 Let not thine eyes to evil shift,
@@ -915,8 +683,6 @@ And thus poor men may have their due,
 That late and little burden bore;
 Their work may vanish like the dew,
 The mercy of God is much the more."
-
-
 "More gladness have I, herewithin,
 Of flower of life, and noble name,
 Than all men in the world might win,
@@ -929,8 +695,6 @@ Yet others did not fare the same,
 Who toiled and travailed there before,
 And of their hire might nothing claim,
 Perchance shall not for a year more."
-
-
 Then more, and openly, I spake:
 "From thy tale no reason can I wring;
 God's righteousness doth ever wake,
@@ -943,13 +707,6 @@ If one man to his work did cling
 All day, and thou wert paid before,
 Most wage falls to least labouring,
 And ever the less receives the more."
-
-
-
-
-XI
-
-
 "Of more or less where God doth reign,
 There is no chance," she gently said,
 "For, whether large or small his gain,
@@ -962,8 +719,6 @@ Free were his pardon whoever prayed
 Him who to save man's soul did vow,
 Unstinted his bliss, and undelayed,
 For the grace of God is great enow."
-
-
 "But now thou wouldst my wit checkmate,
 Making my wage as wrong appear;
 Thou say'st that I am come too late,
@@ -976,8 +731,6 @@ Nay much the rather, year by year,
 All bend from right and to evil bow;
 Mercy and grace their way must steer,
 For the grace of God is great enow."
-
-
 "But enow of grace have the innocent
 New-born, before the sacred shrine,
 They are sealed with water in sacrament,
@@ -990,8 +743,6 @@ They obeyed His will, they bore His sign,
 Why should He not their claim allow?
 Yea, and reward them, I opine,
 For the grace of God is great enow."
-
-
 "'T is known enow that all mankind
 At first were formed for perfect bliss;
 Our forefather that boon resigned,
@@ -1004,8 +755,6 @@ He suffered on the cross for this,
 Red blood ran from His crowned brow;
 He saved us by that pain of His,
 For the grace of God is great enow."
-
-
 "Enow there flowed from out that well,
 Blood and water from His broad wound:
 The blood bought us from bale of hell,
@@ -1018,13 +767,6 @@ Now is there nothing in earth's great round,
 To bar from the bliss wherewith God did endow
 Mankind,--restored to us safe and sound,
 For the grace of God is great enow."
-
-
-
-
-XII
-
-
 "Grace enow a man may get
 By penitence, though he sin again;
 But with long sorrow and regret,
@@ -1037,8 +779,6 @@ The sinful soul of mercy fain
 Finds pardon if he will repent,
 But he who sinless doth remain
 Is surely saved, being innocent."
-
-
 "Two men are saved of God's good grace,
 Who severally have done His will:
 The righteous man shall see His face,
@@ -1051,8 +791,6 @@ The psalmist doth the sense fulfill:
 His heart to evil never lent,
 There to ascend he shall have skill;'
 So surely saved is the innocent."
-
-
 "That the righteous is saved I hold certain;
 Before God's palace he shall stand
 Who never took man's life in vain,
@@ -1065,8 +803,6 @@ As who saith: 'Behold! yon lovely land!
 Thou may'st win it, if so thy will be bent.'
 But with never peril on either hand,
 Surely saved is the innocent."
-
-
 "Of the righteous saved, hear one man say--
 David, who in the Psalter cried:
 'O Lord, call never Thy servant to pay,
@@ -1079,8 +815,6 @@ But may He on the bloody cross that died,
 His holy hands with hard nails rent,
 Give thee to pass when thou art tried,
 Saved, not as righteous, but innocent."
-
-
 "Of the sinless saved the tale is told,--
 Read in the Book where it is said:
 When Jesus walked, among men of old,
@@ -1093,13 +827,6 @@ But Jesus said: 'Be ye not afraid;
 Suffer the children, nor prevent;
 God's kingdom is for such arrayed.'
 Surely saved are the innocent."
-
-
-
-
-XIII
-
-
 "Christ called to Him the innocents mild,
 And said His kingdom no man might win,
 Unless he came thither as a child,--Not
@@ -1112,8 +839,6 @@ There shall that endless bliss begin,
 The merchant sought, and straight was led
 To barter all stuffs men weave and spin,
 To buy him a pearl unblemished."
-
-
 "'This pearl unblemished, bought so dear,
 For which the merchant his riches gave,
 Is like the kingdom of heaven clear;'
@@ -1126,8 +851,6 @@ My Lord, the Lamb Who died to save,
 Here set it in token of His blood shed
 For peace. Then let the wild world rave,
 But buy thee this pearl unblemished."
-
-
 "O Pearl unblemished, in pure pearls dressed,
 That beareth," said I, "the pearl of price,
 Who formed thy figure-and thy vest?
@@ -1140,8 +863,6 @@ Than fleur-de-lys thou art fairer thrice,
 Angel-mannered and courtly bred,--
 Tell to me truly: in Paradise
 What meaneth the pearl unblemished?"
-
-
 "My spotless Lamb, who all doth heal,"
 She answered, "my dear Destiny,
 Chose me in marriage bond to seal;
@@ -1154,8 +875,6 @@ He gave me my might and great beauty;
 He washed my weeds in His blood so red,
 And crowned me, forever clean to be,
 And clothed me in pearls unblemished."
-
-
 "Unblemished bride, bright to behold,
 That royalty hath so rich and rare,
 What is this Lamb, that thou hast told
@@ -1168,13 +887,6 @@ Must these to a lower place repair,
 That never any with Him may wed,
 Save only thyself, so proud and fair,
 Peerless Queen, and unblemished?"
-
-
-
-
-XIV
-
-
 "Unblemished," answered she again,
 "Without a spot of black or gray,
 With honour may I this maintain;
@@ -1187,8 +899,6 @@ On the hill of Zion he saw them stay,
 In vision his spirit looked on them,
 For the wedding clad in bright-array,
 At the city of New Jerusalem."
-
-
 "Of Jerusalem in speech I tell;
 And what He is if thou wouldst see--
 My Lamb, my Lord, my dear Jewel,
@@ -1201,8 +911,6 @@ As a sheep to the slaughter led was He;
 Quiet, the while the crowd contemn,
 As a lamb in the shearer's hands might be,
 He was judged by Jews in Jerusalem.'"
-
-
 "In Jerusalem was my Lover slain,
 Rent on the rood by ruffians bold;
 To bear our ills He was full fain,
@@ -1215,8 +923,6 @@ On the rude cross stretched faint and cold,
 He let men deride him and condemn;
 Meek as a lamb, betrayed and sold,
 He died for us in Jerusalem."
-
-
 "At Jerusalem, Jordan and Galilee,
 Wherever Saint John came to baptize,
 His words with Isaiah's words agree.
@@ -1229,8 +935,6 @@ Though He wrought evil in no wise.
 The branches springing from that stem
 Who can recount? 'T is He who dies
 For our sake in Jerusalem.'"
-
-
 "In Jerusalem my Lover sweet
 Twice as a lamb did thus appear,
 Even as the prophets both repeat,
@@ -1243,13 +947,6 @@ The Apostle John beheld Him near;
 That book seven sacred seals begem;
 And at that sight all folk felt fear
 In hell, in earth and Jerusalem."
-
-
-
-
-XV
-
-
 This Jerusalem Lamb had never stain
 Of other hue than perfect white,
 That showeth neither streak nor strain
@@ -1262,8 +959,6 @@ Nor rivalry our bliss to blight.
 The more the merrier, I profess.
 In company our love grows bright,
 In honour more and never less.
-
-
 "Lessening of bliss no comer brings
 To us who bear this pearl at breast;
 Nor show they flaws nor tarnishings
@@ -1276,8 +971,6 @@ Grief goes; at each mass we are blest
 By the Lamb Who gives us happiness;
 The bliss of each is bright and best,
 And no one's honour is the less."
-
-
 "That thou my tale the less may doubt,
 In the Revelation 'tis told, and more:
 'I saw,' says John, 'a goodly rout
@@ -1290,8 +983,6 @@ Then a sound from heaven I heard outpour,
 As streams, full laden, foam and press,
 Or as thunders among dark crags roar,
 The tumult was, and nothing less."
-
-
 "'Nathless, though high that shout might ring,
 And loud the voices sounding near,
 A strain full new I heard them sing,
@@ -1304,8 +995,6 @@ Close by God's throne, without one fear,
 Where the four beasts His power confess,
 And the elders stand so grave of cheer,
 They sang their new song, none the less."
-
-
 "'Nathless is none with skill so fine,
 For all the crafts that ever he knew,
 That of that song might sing a line;
@@ -1318,8 +1007,6 @@ For never lying nor tale untrue
 Defiled their lips in life's distress;'
 Whatever might move them, they but drew
 Nearer the Master, none the less."
-
-
 "Nevertheless, speak out I must,
 My Pearl, though queries rude I pose.
 To try thy fair wit were unjust
@@ -1332,13 +1019,6 @@ A hind that no least cunning knows,
 I needs must my one doubt express;
 Though boisterous as the wind that blows,
 Let my prayer move thee none the less."
-
-
-
-
-XVI
-
-
 Yet, none the less, on thee I call,
 If thou wilt listen verily,
 As thou art glorious over all,
@@ -1351,8 +1031,6 @@ In Palestine its place must be;
 In wildwood such none ever saw.
 Since spotless is your purity,
 Your dwellings should be free from flaw.
-
-
 "Now this most fair and flawless rout,
 Thronging thousands, as thou dost tell,
 They must possess, beyond a doubt,
@@ -1365,8 +1043,6 @@ Alone and hidden, for the spell
 Of rushing stream and shining shaw?
 If thou hast a dwelling beyond this dell,
 Now show me that city free from flaw."
-
-
 "Not flawless the city in Juda's land,"
 That gentle one gently to me spake,
 "But the Lamb did bless it when He planned
@@ -1379,8 +1055,6 @@ The Lamb Who is white with never a flake
 Of black, did thither His fair folk draw;
 For His flock no fenced fold need He make,
 Nor moat for His city free from flaw."
-
-
 "To figure flawlessly what may mean
 Jerusalems twain: the first of those
 Was 'the Sight of Peace' as it is seen
@@ -1393,8 +1067,6 @@ To that city bright the spirit goes
 When the flesh hath fallen beneath death's law;
 There glorious gladness forever grows
 For His fair folk that are free from flaw."
-
-
 "Flawless maid so mild and meek,"
 Then said I to that lovely flower:
 "Let me that stately city seek,
@@ -1407,13 +1079,6 @@ Thine eyes with the sight for one short hour,--
 From without,--within none ever saw;
 To step in that street thou hast no power,
 Unless thy soul were free from flaw."
-
-
-
-
-XVII
-
-
 "This flawless sight I will not hide;
 Up toward the brook's head thou must go,
 While I will follow on this side,
@@ -1426,8 +1091,6 @@ Afar, the city, all aglow,
 That brighter than bright sunbeams shone.
 In writing it is pictured so,
 In the Revelation of St. John.
-
-
 As John the Apostle saw the sight,
 I saw that city, standing near
 Jerusalem, so royal dight,
@@ -1440,8 +1103,6 @@ Wrought wondrous richly, tier on tier.
 Each base was of a separate stone
 As, perfectly, it doth appear
 In the Revelation of St. John.
-
-
 John named the stones that he had seen,
 I knew the order that he made;
 The first a jasper must have been,
@@ -1454,8 +1115,6 @@ Fourth, emerald, of greenest shade,
 Fifth, sardonyx, was raised thereon;
 The sixth a ruby, as is said
 In the Revelation of St. John.
-
-
 John joined to these the chrysolite,
 The seventh gem in that basement;
 The eighth, a beryl, clear and white;
@@ -1468,8 +1127,6 @@ The wall above those basements went
 Jasper, like glass that glistening shone;
 I saw, as the story doth present,--
 The Revelation of St. John.
-
-
 I saw, as John doth clear devise:
 The great stones rose like a broad stair;
 Above, the city, to my eyes,
@@ -1482,13 +1139,6 @@ Each length of bright wall builded there
 For full twelve furlongs' space stretched on,
 And height, length, breadth all equal were:
 "I saw one mete it," writeth John.
-
-
-
-
-XVIII
-
-
 As John doth write more met mine eye:
 Within each wall were set three gates;
 Twelve in succession I could spy,
@@ -1501,8 +1151,6 @@ The oldest first, as the story states.
 Within those streets by night or noon,
 Light beams that not one hour abates;
 They needed neither sun nor moon.
-
-
 Of sun or moon they had no need;
 For God Himself was their lamp light,
 The Lamb their lantern was indeed;
@@ -1515,8 +1163,6 @@ As John the Apostle doth endite;
 High God Himself did sit thereon.
 From the throne a river welled outright
 Was brighter than both sun and moon.
-
-
 Sun nor moon shone never so sweet
 As the full flood of that bright stream;
 Swiftly it swept through every street,
@@ -1529,8 +1175,6 @@ The gates with neither bolt nor beam,
 Wide open stand at night and noon;
 To enter there let no man dream
 Whom sin hath stained beneath the moon.
-
-
 The moon may there win no least might,
 She is too spotty, grey and grim;
 Therein, moreover, is never night,
@@ -1543,8 +1187,6 @@ Beside the stream trees tall and trim
 Bear living fruits that none doth prune;
 Twelve times a year bends low each limb,
 Renewed with fruitage every moon.
-
-
 Beneath the moon full well might fail
 The heart of mortal to endure
 The marvel that did mine eyes assail,
@@ -1557,13 +1199,6 @@ I say, and with conviction sure,
 Had the eyes of man received that boon,
 Though wisest clerks sought for his cure,
 His life were lost beneath the moon.
-
-
-
-
-XIX
-
-
 Now, even as the full moon might rise
 Ere daylight doth to darkness fall,
 Sudden I saw with still surprise
@@ -1576,8 +1211,6 @@ Each head was crowned with coronal,
 Pearl-wrought, and every robe was white;
 On each breast bound, imperial,
 The Pearl of Price with great delight.
-
-
 With great delight together going
 On glassy golden streets they tread;
 To a hundred thousand swiftly growing,
@@ -1590,8 +1223,6 @@ On toward the throne their way they thread,
 None crowded in that band so bright,
 But mild as maidens when mass is said,
 So fared they forth with great delight.
-
-
 The great delight His coming gave,
 It were too much for me to tell.
 When He approached the Elders grave,
@@ -1604,8 +1235,6 @@ The hymn might strike through earth to hell
 That with joy those hosts of heaven recite;
 To praise the Lamb I liked full well,
 Amid the group in great delight.
-
-
 Delighted, I would fain devise
 His loveliness, with mind intent:
 First was He, blithest, best to prize,
@@ -1618,8 +1247,6 @@ Down His white side the blood was sent.
 Alas! I thought, what scorn or spite
 Could any human heart have bent
 In such a deed to take delight?
-
-
 The Lamb's delight might no man doubt,
 Though that wide wound His hurt displayed,
 From His fair face looked lovely out
@@ -1632,13 +1259,6 @@ Ah Lord! how much of mirth she made!
 Among her peers she was so white!
 The stream I surely needs must wade,
 For longing love, in great delight.
-
-
-
-
-XX
-
-
 Delight that flooded eye and ear
 My mortal mind beatified;
 When I saw her, I must reach my dear,
@@ -1651,8 +1271,6 @@ But ere the water I had tried,
 Even as I would my vow fulfill,
 From my purpose I was turned aside;
 It was not to my Prince's will.
-
-
 My wilful purpose pleased not Him,
 That I with headlong zeal essayed;
 Though I was rash of thought and limb,
@@ -1665,8 +1283,6 @@ Where my pearl to the grass once strayed.
 I stretched my body, frightened, chill,
 And, sighing, to myself I said:
 "Now all be to the Prince's will."
-
-
 Against my will was I exiled
 From that bright region, fair and fain,
 From that life, glad and undefiled,
@@ -1679,8 +1295,6 @@ If very truth divide us twain;
 If thou goest crowned, secure from ill,
 Well for me in my prison-pain
 That thou art to the Prince's will."
-
-
 To the Prince's will had my heart bent,
 And sought but what to me was given,
 Held fast to that, with true intent,
@@ -1693,386 +1307,4 @@ Thus from my joy was I forth driven,
 From the life upon that holy hill.
 Oh, fools, that with the Lord have striven,
 Or proffered gifts against his will!
-
-
-The Prince's will to serve aright
-The Christian may full well divine;
-For I have found Him, day and night,
-A God, a Lord, a Friend in fine.
-Upon this mound my soul hath sight,
-Where I for piteous sorrow pine;
-My Pearl to God I pledge and plight,
-With Christ's dear blessing and with mine,--
-His, who, in form of bread and wine,
-The priest doth daily show us still.
-His servants may we be, or shine,
-Pure pearls, according to his will.
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Pearl, by Sophie Jewett
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE PEARL ***
-
-***** This file should be named 13211.txt or 13211.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/3/2/1/13211/
-
-Produced by David Starner, Keith M. Eckrich, and the Project Gutenberg
-Online Distributed Proofreaders Team
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.net
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+The P

@@ -1,7 +1,6 @@
-roject Gutenberg Etext "Hermann und Dorothea",
+othea",
 von Johann Wolfgang von Goethe
 #9 in our series by Goethe
-
 * Dieses Buch wurde uns freundlicherweise vom "Gutenberg       *
 * Projekt-DE" zur Verfügung gestellt.  Das Projekt ist unter   *
 * der Internet-Adresse http://gutenberg.aol.de erreichbar.     *
@@ -11,51 +10,28 @@ von Johann Wolfgang von Goethe
 * http://gutenberg.aol.de, where additional German language    *
 * books can be found.                                          *
 ****************************************************************
-
 Copyright laws are changing all over the world, be sure to check
 the copyright laws for your country before posting these files!!
-
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-
-
 **Welcome To The World of Free Plain Vanilla Electronic Texts**
-
 **Etexts Readable By Both Humans and By Computers, Since 1971**
-
 *These Etexts Prepared By Hundreds of Volunteers and Donations*
-
-Information on contacting Project Gutenberg to get Etexts, and
 further information is included below.  We need your donations.
-
-
 Hermann und Dorothea
-
 by Johann Wolfgang von Goethe
-
 September,  [Etext #2312]
-
-
-***Project Gutenberg Etext "Hermann und Dorothea", by Goethe****
 ******This file should be named 2312-8.txt or 2312-8.zip******
-
-
 Etext reformatted by Michael Pullen
 globaltraveler5565@yahoo.com
-
-Project Gutenberg Etexts are usually created from multiple editions,
 all of which are in the Public Domain in the United States, unless a
 copyright notice is included.  Therefore, we usually do NOT keep any
 of these books in compliance with any particular paper edition.
-
-
 We are now trying to release all our books one month in advance
 of the official release dates, leaving time for better editing.
-
 Please note:  neither this list nor its contents are final till
 midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
@@ -64,10 +40,6 @@ in the first week of the next month.  Since our ftp program has
 a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
-
-
-Information about Project Gutenberg (one page)
-
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
 to get any etext selected, entered, proofread, edited, copyright
@@ -78,60 +50,38 @@ million dollars per hour this year as we release thirty-six text
 files per month, or 432 more Etexts in 1999 for a total of 2000+
 If these reach just 10% of the computerized population, then the
 total should reach over 200 billion Etexts given away this year.
-
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
 Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
 This is ten thousand titles each to one hundred million readers,
 which is only ~5% of the present number of computer users.
-
 At our revised rates of production, we will reach only one-third
 of that goal by the end of 2001, or about 3,333 Etexts unless we
 manage to get some real funding; currently our funding is mostly
 from Michael Hart's salary at Carnegie-Mellon University, and an
 assortment of sporadic gifts; this salary is only good for a few
 more years, so we are looking for something to replace it, as we
-don't want Project Gutenberg to be so dependent on one person.
-
 We need your donations more than ever!
-
-
-All donations should be made to "Project Gutenberg/CMU": and are
 tax deductible to the extent allowable by law.  (CMU = Carnegie-
 Mellon University).
-
 For these and other matters, please mail to:
-
-Project Gutenberg
 P. O. Box  2782
 Champaign, IL 61825
-
 When all other email fails. . .try our Executive Director:
 Michael S. Hart <hart@pobox.com>
 hart@pobox.com forwards to hart@prairienet.org and archive.org
 if your mail bounces from archive.org, I will still see it, if
 it bounces from prairienet.org, better resend later on. . . .
-
 We would prefer to send you this information by email.
-
 ******
-
-To access Project Gutenberg etexts, use any Web browser
 to view http://promo.net/pg.  This site lists Etexts by
 author and by title, and includes information about how
-to get involved with Project Gutenberg.  You could also
 download our past Newsletters, or subscribe here.  This
 is one of our major sites, please email hart@pobox.com,
 for a more complete list of our various sites.
-
 To go directly to the etext collections, use FTP or any
-Web browser to visit a Project Gutenberg mirror (mirror
 sites are available on 7 continents; mirrors are listed
 at http://promo.net/pg).
-
 Mac users, do NOT point and click, typing works better.
-
 Example FTP session:
-
 ftp sunsite.unc.edu
 login: anonymous
 password: your@login
@@ -141,15 +91,8 @@ dir [to see files]
 get or mget [to get files. . .set bin for zip files]
 GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
 GET GUTINDEX.ALL [to get a listing of ALL books]
-
 ***
-
-**Information prepared by the Project Gutenberg legal advisor**
-
 (Three Pages)
-
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
 your copy of this etext, even if you got it for free from
@@ -157,28 +100,19 @@ someone other than us, and even if what's wrong is not our
 fault.  So, among other things, this "Small Print!" statement
 disclaims most of our liability to you.  It also tells you how
 you can distribute copies of this etext if you want to.
-
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
 etext, you indicate that you understand, agree to and accept
 this "Small Print!" statement.  If you do not, you can receive
 a refund of the money (if any) you paid for this etext by
 sending a request within 30 days of receiving it to the person
 you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
 tm etexts, is a "public domain" work distributed by Professor
-Michael S. Hart through the Project Gutenberg Association at
 Carnegie-Mellon University (the "Project").  Among other
 things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
 without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
-
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
@@ -188,18 +122,9 @@ corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
 But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
 liability to you for damages, costs and expenses, including
 legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -209,100 +134,53 @@ such person may choose to alternatively give you a replacement
 copy.  If you received it electronically, such person may
 choose to alternatively give you a second opportunity to
 receive it electronically.
-
-THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
 Some states do not allow disclaimers of implied warranties or
 the exclusion or limitation of consequential damages, so the
 above disclaimers and exclusions may not apply to you, and you
 may have other legal rights.
-
-INDEMNITY
 You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
 or addition to the etext, or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
 or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     etext or this "small print!" statement.  You may however,
-     if you wish, distribute this etext in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word pro-
-     cessing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The etext, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The etext may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the etext (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          etext in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Project of 20% of the
-     net profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Association/Carnegie-Mellon
-     University" within the 60 days following each
-     date you prepare (or were legally required to prepare)
-     your annual (or equivalent periodic) tax return.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+requires that you do not remove, alter or modify the
+etext or this "small print!" statement.  You may however,
+if you wish, distribute this etext in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word pro-
+cessing or hypertext software, but only so long as
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the etext (as is
+the case, for instance, with most word processors);
+no additional cost, fee or expense, a copy of the
+etext in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+"Small Print!" statement.
+net profits you derive calculated using the method you
+already use to calculate your applicable taxes.  If you
+don't derive profits, no royalty is due.  Royalties are
+University" within the 60 days following each
+date you prepare (or were legally required to prepare)
+your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
 free copyright licenses, and every other sort of contribution
-you can think of.  Money should be paid to "Project Gutenberg
 Association / Carnegie-Mellon University".
-
 *END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
-
-
-
-
-
 Etext reformatted by Michael Pullen
 globaltraveler5565@yahoo.com
-
-
-
-
-
 Hermann und Dorothea
-
 Johann Wolfgang Goethe
-
-
-
 Inhalt:
-
 Erster Gesang: Kalliope.  Schicksal und Anteil
 Zweiter Gesang: Terpsichore.  Hermann
 Dritter Gesang: Thalia.  Die Bürger
@@ -312,13 +190,8 @@ Sechster Gesang: Klio.  Das Zeitalter
 Siebenter Gesang: Erato.  Dorothea
 Achter Gesang: Melpomene.  Hermann und Dorothea
 Neunter Gesang: Urania.  Aussicht
-
-
-
-
 Kalliope
 Schicksal und Anteil
-
 "Hab ich den Markt und die Straßen doch nie so einsam gesehen! Ist doch
 die Stadt wie gekehrt!  wie ausgestorben!  Nicht funfzig, Deucht mir,
 blieben zurück von allen unsern Bewohnern.  Was die Neugier nicht tut!
@@ -337,7 +210,6 @@ das neue; bequemlich Säßen viere darin, und auf dem Bocke der Kutscher.
 Diesmal fuhr er allein; wie rollt es leicht um die Ecke!" So sprach, unter
 dem Tore des Hauses sitzend am Markte, Wohlbehaglich, zur Frau der Wirt
 zum Goldenen Löwen.
-
 Und es versetzte darauf die kluge verständige Hausfrau: "Vater, nicht
 gerne verschenk ich die abgetragene Leinwand, Denn sie ist zu manchem
 Gebrauch und für Geld nicht zu haben, Wenn man ihrer bedarf.  Doch heute
@@ -346,28 +218,24 @@ hörte von Kindern und Alten, die nackend dahergehn.  Wirst du mir aber
 verzeihn?  denn auch dein Schrank ist geplündert.  Und besonders den
 Schlafrock mit indianischen Blumen, Von dem feinsten Kattun, mit feinem
 Flanelle gefüttert, Gab ich hin; er ist dünn und alt und ganz aus der Mode."
-
 Aber es lächelte drauf der treffliche Hauswirt und sagte: "Ungern vermiß
 ich ihn doch, den alten kattunenen Schlafrock, Echt ostindischen Stoffs;
 so etwas kriegt man nicht wieder.  Wohl!  ich trug ihn nicht mehr.  Man
 will jetzt freilich, der Mann soll Immer gehn im Surtout und in der
 Pekesche sich zeigen, Immer gestiefelt sein; verbannt ist Pantoffel und
 Mütze."
-
 "Siehe!"  versetzte die Frau, "dort kommen schon einige wieder, Die den
 Zug mit gesehn; er muß doch wohl schon vorbei sein.  Seht, wie allen die
 Schuhe so staubig sind!  wie die Gesichter Glühen!  und jeglicher führt
 das Schnupftuch und wischt sich den Schweiß ab.  Möcht' ich doch auch in
 der Hitze nach solchem Schauspiel so weit nicht Laufen und leiden!
 Fürwahr, ich habe genug am Erzählten."
-
 Und es sagte darauf der gute Vater mit Nachdruck: "Solch ein Wetter ist
 selten zu solcher Ernte gekommen, Und wir bringen die Frucht herein, wie
 das Heu schon herein ist, Trocken; der Himmel ist hell, es ist kein
 Wölkchen zu sehen, Und von Morgen wehet der Wind mit lieblicher Kühlung.
 Das ist beständiges Wetter!  und überreif ist das Korn schon; Morgen
 fangen wir an zu schneiden die reichliche Ernte."
-
 Als er so sprach, vermehrten sich immer die Scharen der Männer Und der
 Weiber, die über den Markt sich nach Hause begaben; Und so kam auch zurück
 mit seinen Töchtern gefahren Rasch, an die andere Seite des Markts, der
@@ -375,13 +243,11 @@ begüterte Nachbar, An sein erneuertes Haus, der erste Kaufmann des Ortes,
 Im geöffneten Wagen (er war in Landau verfertigt).  Lebhaft wurden die
 Gassen; denn wohl war bevölkert das Städtchen, Mancher Fabriken befliß man
 sich da, und manches Gewerbes.
-
 Und so saß das trauliche Paar, sich unter dem Torweg Über das wandernde
 Volk mit mancher Bemerkung ergötzend.  Endlich aber begann die würdige
 Hausfrau und sagte: "Seht!  dort kommt der Prediger her, es kommt auch der
 Nachbar Apotheker mit ihm: die sollen uns alles erzählen, Was sie draußen
 gesehn und was zu schauen nicht froh macht."
-
 Freundlich kamen heran die beiden und grüßten das Ehpaar, Setzten sich auf
 die Bänke, die hölzernen, unter dem Torweg, Staub von den Füßen schüttelnd,
 und Luft mit dem Tuche sich fächelnd.  Da begann denn zuerst, nach
@@ -394,7 +260,6 @@ nun hinaus, zu schauen der guten Vertriebnen Elend, und niemand bedenkt,
 daß ihn das ähnliche Schicksal Auch, vielleicht zunächst, betreffen kann,
 oder doch künftig.  Unverzeihlich find ich den Leichtsinn; doch liegt er
 im Menschen."
-
 Und es sagte darauf der edle verständige Pfarrherr, Er, die Zierde der
 Stadt, ein Jüngling näher dem Manne.  Dieser kannte das Leben und kannte
 der Hörer Bedürfnis, War vom hohen Werte der heiligen Schriften
@@ -414,10 +279,8 @@ Freilich ist er zu preisen, der Mann, dem in reiferen Jahren Sich der
 gesetzte Verstand aus solchem Frohsinn entwickelt, Der im Glück wie im
 Unglück sich eifrig und tätig bestrebet; Denn das Gute bringt er hervor
 und ersetzet den Schaden."
-
 Freundlich begann sogleich die ungeduldige Hausfrau: "Saget uns, was ihr
 gesehn; denn das begehrt' ich zu wissen."
-
 "Schwerlich", versetzte darauf der Apotheker mit Nachdruck, "Werd ich so
 bald mich freun nach dem, was ich alles erfahren.  Und wer erzählet es
 wohl, das mannigfaltigste Elend! Schon von ferne sahn wir den Staub, noch
@@ -457,7 +320,6 @@ sich selber bedenkend und hingerissen vom Strome.  Und wir eilten hinzu
 und fanden die Kranken und Alten, Die zu Haus und im Bett schon kaum ihr
 dauerndes Leiden Trügen, hier auf dem Boden beschädigt ächzen und jammern,
 Von der Sonne verbrannt und erstickt vom wogenden Staube."
-
 Und es sagte darauf gerührt der menschliche Hauswirt: "Möge doch Hermann
 sie treffen und sie erquicken und kleiden.  Ungern würd' ich sie sehn;
 mich schmerzt der Anblick des Jammers.  Schon von dem ersten Bericht so
@@ -471,7 +333,6 @@ wärmere Luft dort Durch die stärkeren Mauern; und Mütterchen bringt uns
 ein Gläschen Dreiundachtziger her, damit wir die Grillen vertreiben.
 Hier ist nicht freundlich zu trinken; die Fliegen umsummen die Gläser."
 Und sie gingen dahin und freuten sich alle der Kühlung.
-
 Sorgsam brachte die Mutter des klaren herrlichen Weines, In geschliffener
 Flasche auf blankem zinnernem Runde, Mit den grünlichen Römern, den echten
 Bechern des Rheinweins.  Und so sitzend umgaben die drei den glänzend
@@ -479,7 +340,6 @@ gebohnten Runden, braunen Tisch, er stand auf mächtigen Füßen.  Heiter
 klangen sogleich die Gläser des Wirtes und Pfarrers; Doch unbeweglich
 hielt der dritte denkend das seine, Und es fordert' ihn auf der Wirt mit
 freundlichen Worten:
-
 "Frisch, Herr Nachbar, getrunken!  denn noch bewahrte vor Unglück Gott uns
 gnädig und wird auch künftig uns also bewahren.  Denn wer erkennet es
 nicht, daß seit dem schrecklichen Brande, Da er so hart uns gestraft, er
@@ -490,12 +350,10 @@ sieht es erst recht, wie viel er vermag, in Gefahren; Sollt' er die
 blühende Stadt, die er erst durch fleißige Bürger Neu aus der Asche gebaut
 und dann sie reichlich gesegnet, Jetzo wieder zerstören und alle Bemühung
 vernichten?"
-
 Heiter sagte darauf der treffliche Pfarrer und milde: "Haltet am Glauben
 fest und fest an dieser Gesinnung; Denn sie macht im Glücke verständig und
 sicher, im Unglück Reicht sie den schönsten Trost und belebt die
 herrlichste Hoffnung."
-
 Da versetzte der Wirt mit männlichen, klugen Gedanken: "Wie begrüßt' ich
 so oft mit Staunen die Fluten des Rheinstroms, Wenn ich, reisend nach
 meinem Geschäft, ihm wieder mich nahte! Immer schien er mir groß und erhob
@@ -514,17 +372,11 @@ Aber ungern seh ich den Jüngling, der immer so tätig Mir in dem Hause
 sich regt, nach außen langsam und schüchtern.  Wenig findet er Lust, sich
 unter Leuten zu zeigen; Ja, er vermeidet sogar der jungen Mädchen
 Gesellschaft Und den fröhlichen Tanz, den alle Jugend begehret."
-
 Also sprach er und horchte.  Man hörte der stampfenden Pferde Fernes
 Getöse sich nahn, man hörte den rollenden Wagen, Der mit gewaltiger Eile
 nun donnert' unter den Torweg.
-
-
-
-
 Terpsichore
 Hermann
-
 Als nun der wohlgebildete Sohn ins Zimmer hereintrat, Schaute der Prediger
 ihm mit scharfen Blicken entgegen Und betrachtete seine Gestalt und sein
 ganzes Benehmen Mit dem Auge des Forschers, der leicht die Mienen
@@ -533,7 +385,6 @@ Ihr doch als ein veränderter Mensch!  Ich habe noch niemals Euch so munter
 gesehn und Eure Blicke so lebhaft.  Fröhlich kommt Ihr und heiter; man
 sieht, Ihr habet die Gaben Unter die Armen verteilt und ihren Segen
 empfangen."
-
 Ruhig erwiderte drauf der Sohn, mit ernstlichen Worten: "Ob ich löblich
 gehandelt?  ich weiß es nicht; aber mein Herz hat Mich geheißen zu tun, so
 wie ich genau nun erzähle.  Mutter, Ihr kramtet so lange, die alten
@@ -560,7 +411,6 @@ vermögen die Unsern zu helfen, Wenn wir im nächsten Dorf, wo wir heute zu
 rasten gedenken, Auch sie finden, wiewohl ich fürchte, sie sind schon
 vorüber.  Wär' Euch irgend von Leinwand nur was Entbehrliches, wenn Ihr
 Hier aus der Nachbarschaft seid, so spendet's gütig den Armen."
-
 Also sprach sie, und matt erhob sich vom Strohe die bleiche Wöchnerin,
 schaute nach mir; ich aber sagte dagegen: "Guten Menschen fürwahr spricht
 oft ein himmlischer Geist zu, Daß sie fühlen die Not, die dem armen Bruder
@@ -594,7 +444,6 @@ brachte die Brote, Flaschen Weines und Biers, und reicht' ihr alles und
 jedes.  Gerne hätt' ich noch mehr ihr gegeben; doch leer war der Kasten.
 Alles packte sie drauf zu der Wöchnerin Füßen und zog so Weiter; ich
 eilte zurück mit meinen Pferden der Stadt zu."
-
 Als nun Hermann geendet, da nahm der gesprächige Nachbar Gleich das Wort
 und rief: "O glücklich, wer in den Tagen Dieser Flucht und Verwirrung in
 seinem Haus nur allein lebt, Wem nicht Frau und Kinder zur Seite bange
@@ -608,7 +457,6 @@ vielem Fleiße gesammelt, Mißt' ich ungern, wenn auch der Wert der Ware
 nicht groß ist.  Bleibt der Provisor zurück, so geh ich getröstet von
 Hause.  Hab ich die Barschaft gerettet und meinen Körper, so hab ich
 Alles gerettet; der einzelne Mann entfliehet am leichtsten."
-
 "Nachbar", versetzte darauf der junge Hermann mit Nachdruck, "Keinesweges
 denk ich wie Ihr und tadle die Rede.  Ist wohl der ein würdiger Mann, der
 im Glück und im Unglück Sich nur allein bedenkt und Leiden und Freuden zu
@@ -616,10 +464,8 @@ teilen Nicht verstehet und nicht dazu von Herzen bewegt wird? Lieber
 möcht' ich als je mich heute zur Heirat entschließen; Denn manch gutes
 Mädchen bedarf des schützenden Mannes Und der Mann des erheiternden Weibs,
 wenn ihm Unglück bevorsteht."
-
 Lächelnd sagte darauf der Vater: "So hör ich dich gerne! Solch ein
 vernünftiges Wort hast du mir selten gesprochen."
-
 Aber es fiel sogleich die gute Mutter behend ein: "Sohn, fürwahr!  du hast
 recht; wir Eltern gaben das Beispiel.  Denn wir haben uns nicht an
 fröhlichen Tagen erwählet, Und uns knüpfte vielmehr die traurigste Stunde
@@ -663,7 +509,6 @@ ersten Zeiten der wilden Zerstörung den Sohn mir der Jugend gegeben.
 Darum lob ich dich, Hermann, daß du mit reinem Vertrauen Auch ein Mädchen
 dir denkst in diesen traurigen Zeiten Und es wagtest zu frein im Krieg und
 über den Trümmern."
-
 Da versetzte sogleich der Vater lebhaft und sagte: "Die Gesinnung ist
 löblich, und wahr ist auch die Geschichte, Mütterchen, die du erzählst;
 denn so ist alles begegnet.  Aber besser ist besser.  Nicht einen jeden
@@ -696,7 +541,6 @@ das Vermögen.  Schon ist die ältste bestimmt, ich weiß es; aber die
 zweite Wie die dritte sind noch, und vielleicht nicht lange, zu haben.
 Wär' ich an deiner Statt, ich hätte bis jetzt nicht gezaudert, Eins mir
 der Mädchen geholt, so wie ich das Mütterchen forttrug."
-
 Da versetzte der Sohn bescheiden dem dringenden Vater: "Wirklich, mein
 Wille war auch, wie Eurer, eine der Töchter Unsers Nachbars zu wählen.
 Wir sind zusammen erzogen, Spielten neben dem Brunnen am Markt in früheren
@@ -731,16 +575,13 @@ Hängte den Rock in den Schrank und zog die Haare herunter Mit den Fingern
 und schwur, nicht mehr zu betreten die Schwelle.  Und ich hatte wohl
 recht; denn eitel sind sie und lieblos, Und ich höre, noch heiß' ich bei
 ihnen immer Tamino."
-
 Da versetzte die Mutter: "Du solltest, Hermann, so lange Mit den Kindern
 nicht zürnen; denn Kinder sind sie ja sämtlich.  Minchen fürwahr ist gut
 und war dir immer gewogen; Neulich fragte sie noch nach dir.  Die solltest
 du wählen!"
-
 Da versetzte bedenklich der Sohn: "Ich weiß nicht, es prägte Jener Verdruß
 sich so tief bei mir ein, ich möchte fürwahr nicht Sie am Klaviere mehr
 sehn und ihre Liedchen vernehmen."
-
 Doch der Vater fuhr auf und sprach die zornigen Worte: "Wenig Freud' erleb
 ich an dir!  Ich sagt' es doch immer, Als du zu Pferden nur und Lust nur
 bezeugtest zum Acker: Was ein Knecht schon verrichtet des wohlbegüterten
@@ -753,7 +594,6 @@ Jünglinges lebt und wenn er nicht höher hinauf will.  Hätte mein Vater
 gesorgt für mich, so wie ich für dich tat, Mich zur Schule gesendet und
 mir die Lehrer gehalten, Ja, ich wäre was anders als Wirt zum Goldenen
 Löwen!"
-
 Aber der Sohn stand auf und nahte sich schweigend der Türe, Langsam und
 ohne Geräusch; allein der Vater, entrüstet, Rief ihm nach: "So gehe nur
 hin!  ich kenne den Trotzkopf! Geh und führe fortan die Wirtschaft, daß
@@ -767,13 +607,8 @@ sie mir auch das Klavier; es sollen die schönsten, Besten Leute der Stadt
 sich mit Vergnügen versammeln, Wie es sonntags geschieht im Hause des
 Nachbars!"  Da drückte Leise der Sohn auf die Klinke, und so verließ er
 die Stube.
-
-
-
-
 Thalia
 Die Bürger
-
 Also entwich der bescheidene Sohn der heftigen Rede; Aber der Vater fuhr
 in der Art fort, wie er begonnen--"Was im Menschen nicht ist, kommt auch
 nicht aus ihm, und schwerlich Wird mich des herzlichsten Wunsches
@@ -810,7 +645,6 @@ der großen Straße verbindet.  Aber ich fürchte nur sehr, so wird die
 Jugend nicht handeln! Denn die einen, sie denken auf Lust und
 vergänglichen Putz nur, Andere hocken zu Haus und brüten hinter dem Ofen.
 Und das fürcht ich, ein solcher wird Hermann immer mir bleiben."
-
 Und es versetzte sogleich die gute verständige Mutter: "Immer bist du doch,
 Vater, so ungerecht gegen den Sohn!  und So wird am wenigsten dir dein
 Wunsch des Guten erfüllet.  Denn wir können die Kinder nach unserem Sinne
@@ -825,13 +659,11 @@ Tadeln hemmst du dem Armen Allen Mut in der Brust, so wie du es heute
 getan hast." Und sie verließ die Stube sogleich und eilte dem Sohn nach,
 Daß sie ihn irgendwo fänd' und ihn mit gütigen Worten Wieder erfreute;
 denn er, der treffliche Sohn, er verdient' es.
-
 Lächelnd sagte darauf, sobald sie hinweg war, der Vater: "Sind doch ein
 wunderlich Volk die Weiber, so wie die Kinder! Jedes lebet so gern nach
 seinem eignen Belieben, Und man sollte hernach nur immer loben und
 streicheln.  Einmal für allemal gilt das wahre Sprüchlein der Alten: Wer
 nicht vorwärts geht, der kommt zurücke!  So bleibt es."
-
 Und es versetzte darauf der Apotheker bedächtig: "Gerne geb ich es zu,
 Herr Nachbar, und sehe mich immer Selbst nach dem Besseren um, wofern es
 nicht teuer doch neu ist; Aber hilft es fürwahr, wenn man nicht die Fülle
@@ -869,13 +701,8 @@ mir's in Sinn, den Engel Michael wieder, Der mir die Offizin bezeichnet,
 vergolden zu lassen Und den greulichen Drachen, der ihm zu Füßen sich
 windet; Aber ich ließ ihn verbräunt, wie er ist; mich schreckte die
 Fordrung."
-
-
-
-
 Euterpe
 Mutter und Sohn
-
 Also sprachen die Männer, sich unterhaltend.  Die Mutter Ging indessen,
 den Sohn erst vor dem Hause zu suchen, Auf der steinernen Bank, wo sein
 gewöhnlicher Sitz war.  Als sie daselbst ihn nicht fand, so ging sie, im
@@ -928,14 +755,12 @@ dort saß ihr Hermann und ruhte, Saß mit dem Arme gestützt und schien in
 die Gegend zu schauen Jenseits, nach dem Gebirg, er kehrte der Mutter den
 Rücken.  Sachte schlich sie hinan und rührt' ihm leise die Schulter.
 Und er wandte sich schnell; da sah sie ihm Tränen im Auge.
-
 "Mutter", sagt' er betroffen, "Ihr überrascht mich!"  Und eilig Trocknet'
 er ab die Träne, der Jüngling edlen Gefühles.  "Wie?  du weinest, mein
 Sohn?"  versetzte die Mutter betroffen; "Daran kenn ich dich nicht!  ich
 habe das niemals erfahren! Sag, was beklemmt dir das Herz?  was treibt
 dich, einsam zu sitzen Unter dem Birnbaum hier?  was bringt dir Tränen ins
 Auge?"
-
 Und es nahm sich zusammen der treffliche Jüngling und sagte: "Wahrlich,
 dem ist kein Herz im ehernen Busen, der jetzo Nicht die Not der Menschen,
 der umgetriebnen, empfindet; Dem ist kein Sinn in dem Haupte, der nicht um
@@ -968,7 +793,6 @@ Sehet, ich werde nicht wieder nach Hause kehren!  Von hier aus Geh ich
 gerad in die Stadt und übergebe den Kriegern Diesen Arm und dies Herz, dem
 Vaterlande zu dienen.  Sage der Vater alsdann, ob nicht der Ehre Gefühl
 mir Auch den Busen belebt und ob ich nicht höher hinauf will!"
-
 Da versetzte bedeutend die gute verständige Mutter, Stille Tränen
 vergießend, sie kamen ihr leichtlich ins Auge: "Sohn, was hat sich in dir
 verändert und deinem Gemüte, Daß du zu deiner Mutter nicht redest wie
@@ -982,7 +806,6 @@ Trompete, Nicht begehrst du zu scheinen in der Montur vor den Mädchen;
 Denn es ist deine Bestimmung, so wacker und brav du auch sonst bist, Wohl
 zu verwahren das Haus und stille das Feld zu besorgen.  Darum sage mir
 frei: was dringt dich zu dieser Entschließung?"
-
 Ernsthaft sagte der Sohn: "Ihr irret, Mutter.  Ein Tag ist Nicht dem
 anderen gleich.  Der Jüngling reifet zum Manne; Besser im stillen reift er
 zur Tat oft als im Geräusche Wilden, schwankenden Lebens, das manchen
@@ -1000,7 +823,6 @@ Und so laßt mich, o Mutter!  Denn da ich vergebliche Wünsche Hege im
 Busen, so mag auch mein Leben vergeblich dahingehn.  Denn ich weiß es
 recht wohl: der einzelne schadet sich selber, Der sich hingibt, wenn sich
 nicht alle zum Ganzen bestreben."
-
 "Fahre nur fort", so sagte darauf die verständige Mutter, "Alles mir zu
 erzählen, das Größte wie das Geringste! Denn die Männer sind heftig und
 denken nur immer das Letzte, Und die Hindernis treibt die Heftigen leicht
@@ -1009,7 +831,6 @@ wandelt Auch den Umweg, geschickt zu ihrem Zweck zu gelangen.  Sage mir
 alles daher, warum du so heftig bewegt bist, Wie ich dich niemals gesehn,
 und das Blut dir wallt in den Adern, Wider Willen die Träne dem Auge sich
 dringt zu entstürzen."
-
 Da überließ sich dem Schmerze der gute Jüngling und weinte, Weinte laut an
 der Brust der Mutter und sprach so erweichet: "Wahrlich!  des Vaters Wort
 hat heute mich kränkend getroffen, Das ich niemals verdient, nicht heut
@@ -1045,7 +866,6 @@ gesunde Schlaf mir nur wenige Stunden genügte: Ach!  da kommt mir so
 einsam vor, wie die Kammer, der Hof und Garten, das herrliche Feld, das
 über die Hügel sich hinstreckt; Alles liegt so öde vor mir: ich entbehre
 der Gattin."
-
 Da antwortete drauf die gute Mutter verständig: "Sohn, mehr wünschest du
 nicht, die Braut in die Kammer zu führen, Daß dir werde die Nacht zur
 schönen Hälfte des Lebens Und die Arbeit des Tags dir freier und eigener
@@ -1058,7 +878,6 @@ meisten.  Soll ich dir sagen, mein Sohn, so hast du, ich glaube, gewählet,
 Denn dein Herz ist getroffen und mehr als gewöhnlich empfindlich.  Sag
 es gerad nur heraus, denn mir schon sagt es die Seele: Jenes Mädchen ist's,
 das vertriebene, die du gewählt hast."
-
 "Liebe Mutter, Ihr sagt's!"  versetzte lebhaft der Sohn drauf.  "Ja, sie
 ist's!  und führ ich sie nicht als Braut mir nach Hause Heute noch, ziehet
 sie fort, verschwindet vielleicht mir auf immer In der Verwirrung des
@@ -1074,7 +893,6 @@ Darum lasset mich gehn, wohin die Verzweiflung mich antreibt.  Denn mein
 Vater, er hat die entscheidenden Worte gesprochen, Und sein Haus ist nicht
 mehr das meine, wenn er das Mädchen Ausschließt, das ich allein nach Haus
 zu führen begehre."
-
 Da versetzte behend die gute verständige Mutter: "Stehen wie Felsen doch
 zwei Männer gegeneinander! Unbewegt und stolz will keiner dem andern sich
 nähern, Keiner zum guten Worte, dem ersten, die Zunge bewegen.  Darum sag
@@ -1093,17 +911,11 @@ Räuschchen vorbei ist Und er das Unrecht fühlt, das er andern lebhaft
 erzeugte.  Komm!  wir wagen es gleich; das Frischgewagte gerät nur, Und
 wir bedürfen der Freunde, die jetzo bei ihm noch versammelt Sitzen;
 besonders wird uns der würdige Geistliche helfen."
-
 Also sprach sie behende und zog, vom Steine sich hebend, Auch vom Sitze
 den Sohn, den willig folgenden.  Beide Kamen schweigend herunter, den
 wichtigen Vorsatz bedenkend.
-
-
-
-
 Polyhymnia
 Der Weltbürger
-
 Aber es saßen die drei noch immer sprechend zusammen, Mit dem geistlichen
 Herrn der Apotheker beim Wirte, Und es war das Gespräch noch immer
 ebendasselbe, Das viel hin und her nach allen Seiten geführt ward.  Aber
@@ -1135,7 +947,6 @@ Die dem Reicheren stets und dem Höheren, wenig vermögend, Nachzustreben
 gewohnt sind, besonders die Weiber und Mädchen.  Segnet immer darum des
 Sohnes ruhig Bemühen Und die Gattin, die einst er, die gleichgesinnte,
 sich wählet."
-
 Also sprach er.  Es trat die Mutter zugleich mit dem Sohn ein, Führend ihn
 bei der Hand und vor den Gatten ihn stellend.  "Vater", sprach sie, "wie
 oft gedachten wir, untereinander Schwatzend, des fröhlichen Tags, der
@@ -1149,10 +960,8 @@ lebhaft Für ein Mädchen empfinden?  Nun ist die Stunde gekommen! Ja, er
 hat gefühlt und gewählt und ist männlich entschieden.  Jenes Mädchen
 ist's, die Fremde, die ihm begegnet.  Gib sie ihm; oder er bleibt, so
 schwur er, im ledigen Stande."
-
 Und es sagte der Sohn: "Die gebt mir, Vater!  Mein Herz hat Rein und
 sicher gewählt; Euch ist sie die würdigste Tochter."
-
 Aber der Vater schwieg.  Da stand der Geistliche schnell auf, Nahm das
 Wort und sprach: "Der Augenblick nur entscheidet Über das Leben des
 Menschen und über sein ganzes Geschicke; Denn nach langer Beratung ist
@@ -1173,7 +982,6 @@ verschmachtet! Ja, ich seh es ihm an, es ist sein Schicksal entschieden.
 Wahre Neigung vollendet sogleich zum Manne den Jüngling.  Nicht beweglich
 ist er; ich fürchte, versagt Ihr ihm dieses, Gehen die Jahre dahin, die
 schönsten, in traurigem Leben."
-
 Da versetzte sogleich der Apotheker bedächtig, Dem schon lange das Wort
 von der Lippe zu springen bereit war: "Laßt uns auch diesmal doch nur die
 Mittelstraße betreten! Eile mit Weile!  das war selbst Kaiser Augustus'
@@ -1182,7 +990,6 @@ geringen Verstand zu ihrem Nutzen zu brauchen: Und besonders bedarf die
 Jugend, daß man sie leite.  Laßt mich also hinaus; ich will es prüfen,
 das Mädchen, Will die Gemeinde befragen, in der sie lebt und bekannt ist.
 Niemand betriegt mich so leicht; ich weiß die Worte zu schätzen."
-
 Da versetzte sogleich der Sohn mit geflügelten Worten: "Tut es, Nachbar,
 und geht und erkundigt Euch.  Aber ich wünsche, Daß der Herr Pfarrer sich
 auch in Eurer Gesellschaft befinde; Zwei so treffliche Männer sind
@@ -1199,7 +1006,6 @@ sind Jammer und Not, die über die Erde sich breiten; Sollte nicht auch ein
 Glück aus diesem Unglück hervorgehn Und ich, im Arme der Braut, der
 zuverlässigen Gattin, Mich nicht erfreuen des Kriegs, so wie Ihr des
 Brandes Euch freutet?"
-
 Da versetzte der Vater und tat bedeutend den Mund auf: "Wie ist, o Sohn,
 dir die Zunge gelöst, die schon dir im Munde Lange Jahre gestockt und nur
 sich dürftig bewegte! Muß ich doch heut erfahren, was jedem Vater gedroht
@@ -1209,7 +1015,6 @@ hergeht oder den Ehmann.  Aber ich will euch zusammen nicht widerstehen;
 was hülf' es? Denn ich sehe doch schon hier Trotz und Tränen im voraus.
 Gehet und prüfet und bringt in Gottes Namen die Tochter Mir ins Haus; wo
 nicht, so mag er das Mädchen vergessen!"
-
 Also der Vater.  Es rief der Sohn mit froher Gebärde: "Noch vor Abend ist
 Euch die trefflichste Tochter bescheret, Wie sie der Mann sich wünscht,
 dem ein kluger Sinn in der Brust lebt.  Glücklich ist die Gute dann auch,
@@ -1221,7 +1026,6 @@ selbst und der eigenen Klugheit, Richte, so schwör ich Euch zu, mich ganz
 nach ihrer Entscheidung, Und ich seh es nicht wieder, als bis es mein ist,
 das Mädchen." Und so ging er hinaus, indessen manches die andern Weislich
 erwogen und schnell die wichtige Sache besprachen.
-
 Hermann eilte zum Stalle sogleich, wo die mutigen Hengste Ruhig standen
 und rasch den reinen Hafer verzehrten Und das trockene Heu, auf der besten
 Wiese gehauen.  Eilig legt' er ihnen darauf das blanke Gebiß an, Zog die
@@ -1237,7 +1041,6 @@ Türme.  So fuhr Hermann dahin, der wohlbekannten Chaussee zu, Rasch, und
 säumete nicht und fuhr bergan wie bergunter.  Als er aber nunmehr den
 Turm des Dorfes erblickte Und nicht fern mehr lagen die gartenumgebenen
 Häuser, Dacht' er bei sich selbst, nun anzuhalten die Pferde.
-
 Von dem würdigen Dunkel erhabener Linden umschattet, Die Jahrhunderte
 schon an dieser Stelle gewurzelt, War mit Rasen bedeckt ein weiter
 grünender Anger Vor dem Dorfe, den Bauern und nahen Städtern ein Lustort.
@@ -1264,7 +1067,6 @@ laßt nicht merken die Absicht, Sondern befraget die andern und hört, was
 sie alles erzählen.  Habt Ihr Nachricht genug, zu beruhigen Vater und
 Mutter, Kehret zu mir dann zurück, und wir bedenken das Weitre.  Also
 dacht' ich mir's aus, den Weg her, den wir gefahren."
-
 Also sprach er.  Es gingen darauf die Freunde dem Dorf zu, Wo in Gärten
 und Scheunen und Häusern die Menge von Menschen Wimmelte, Karrn an Karrn
 die breite Straße dahin stand.  Männer versorgten das brüllende Vieh und
@@ -1284,7 +1086,6 @@ Unverträglich fürwahr ist der Glückliche!  Werden die Leiden Endlich euch
 lehren, nicht mehr, wie sonst, mit dem Bruder zu hadern? Gönnet einander
 den Platz auf fremdem Boden und teilet, Was ihr habet, zusammen, damit ihr
 Barmherzigkeit findet!"
-
 Also sagte der Mann, und alle schwiegen; verträglich Ordneten Vieh und
 Wagen die wieder besänftigten Menschen.  Als der Geistliche nun die Rede
 des Mannes vernommen Und den ruhigen Sinn des fremden Richters entdeckte,
@@ -1304,7 +1105,6 @@ von diesen Flüchtigen Männern, der Ihr sogleich die Gemüter beruhigt? Ja,
 Ihr erscheint mir heut als einer der ältesten Führer, Die durch Wüsten und
 Irren vertriebene Völker geleitet.  Denk ich doch eben, ich rede mit
 Josua oder mit Moses."
-
 Und es versetzte darauf mit ernstem Blicke der Richter: "Wahrlich, unsere
 Zeit vergleicht sich den seltensten Zeiten, Die die Geschichte bemerkt,
 die heilige wie die gemeine.  Denn wer gestern und heut in diesen Tagen
@@ -1313,7 +1113,6 @@ Denk ich ein wenig zurück, so scheint mir ein graues Alter Auf dem Haupte
 zu liegen, und doch ist die Kraft noch lebendig.  Oh, wir anderen dürfen
 uns wohl mit jenen vergleichen, Denen in ernster Stund' erschien im
 feurigen Busche Gott der Herr; auch uns erschien er in Wolken und Feuer."
-
 Als nun der Pfarrer darauf noch weiter zu sprechen geneigt war Und das
 Schicksal des Manns und der Seinen zu hören verlangte, Sagte behend der
 Gefährte mit heimlichen Worten ins Ohr ihm: "Sprecht mit dem Richter nur
@@ -1321,13 +1120,8 @@ fort und bringt das Gespräch auf das Mädchen.  Aber ich gehe herum, sie
 aufzusuchen, und komme Wieder, sobald ich sie finde."  Es nickte der
 Pfarrer dagegen, Und durch die Hecken und Gärten und Scheunen suchte der
 Späher.
-
-
-
-
 Klio
 Das Zeitalter
-
 Als nun der geistliche Herr den fremden Richter befragte, Was die Gemeine
 gelitten, wie lang sie von Hause vertrieben, Sagte der Mann darauf: "Nicht
 kurz sind unsere Leiden; Denn wir haben das Bittre der sämtlichen Jahre
@@ -1344,7 +1138,6 @@ gewesen Und jetzt mehr als je den herrlichen Namen verdiente? Waren nicht
 jener Männer, der ersten Verkünder der Botschaft, Namen den höchsten
 gleich, die unter die Sterne gesetzt sind? Wuchs nicht jeglichem Menschen
 der Mut und der Geist und die Sprache?
-
 Und wir waren zuerst, als Nachbarn, lebhaft entzündet.  Drauf begann der
 Krieg, und die Züge bewaffneter Franken Rückten näher; allein sie schienen
 nur Freundschaft zu bringen.  Und die brachten sie auch: denn ihnen
@@ -1357,13 +1150,11 @@ Beginnen, Dann die Herzen der Weiber, mit unwiderstehlicher Anmut.
 Leicht selbst schien uns der Druck des vielbedürfenden Krieges; Denn die
 Hoffnung umschwebte vor unsern Augen die Ferne, Lockte die Blicke hinaus
 in neueröffnete Bahnen.
-
 Oh, wie froh ist die Zeit, wenn mit der Braut sich der Bräut'gam Schwinget
 im Tanze, den Tag der gewünschten Verbindung erwartend! Aber herrlicher
 war die Zeit, in der uns das Höchste, Was der Mensch sich denkt, als nah
 und erreichbar sich zeigte.  Da war jedem die Zunge gelöst; es sprachen
 die Greise, Männer und Jünglinge laut voll hohen Sinns und Gefühles.
-
 Aber der Himmel trübte sich bald.  Um den Vorteil der Herrschaft Stritt
 ein verderbtes Geschlecht, unwürdig, das Gute zu schaffen.  Sie
 ermordeten sich und unterdrückten die neuen Nachbarn und Brüder und
@@ -1386,7 +1177,6 @@ frevelhafte Beginnen.  Nichts ist heilig ihm mehr; er raubt es.  Die
 wilde Begierde Dringt mit Gewalt auf das Weib und macht die Lust zum
 Entsetzen.  Überall sieht er den Tod und genießt die letzten Minuten
 Grausam, freut sich des Bluts und freut sich des heulenden Jammers.
-
 Grimmig erhob sich darauf in unsern Männern die Wut nun, Das Verlorne zu
 rächen und zu verteid'gen die Reste.  Alles ergriff die Waffen, gelockt
 von der Eile des Flüchtlings Und vom blassen Gesicht und scheu unsicheren
@@ -1399,7 +1189,6 @@ Menschen doch nie in dieser schnöden Verirrung Wieder sehn!  Das wütende
 Tier ist ein besserer Anblick.  Sprech' er doch nie von Freiheit, als
 könn' er sich selber regieren! Losgebunden erscheint, sobald die Schranken
 hinweg sind, Alles Böse, das tief das Gesetz in die Winkel zurücktrieb."
-
 "Trefflicher Mann!"  versetzte darauf der Pfarrer mit Nachdruck, "Wenn ihr
 den Menschen verkennt, so kann ich Euch darum nicht schelten; Habt Ihr
 doch Böses genug erlitten vorn wüsten Beginnen! Wolltet Ihr aber zurück
@@ -1407,7 +1196,6 @@ die traurigen Tage durchschauen, Würdet Ihr selber gestehen, wie oft Ihr
 auch Gutes erblicktet.  Manches Treffliche, das verborgen bleibt in dem
 Herzen, Regt die Gefahr es nicht auf, und drängt die Not nicht den
 Menschen, Daß er als Engel sich zeig', erscheine den andern ein Schutzgott."
-
 Lächelnd versetzte darauf der alte würdige Richter.  "Ihr erinnert mich
 klug, wie oft nach dem Brande des Hauses Man den betrübten Besitzer an
 Gold und Silber erinnert, Das geschmolzen im Schutt nun überblieben
@@ -1433,7 +1221,6 @@ sogleich von der Seite den Säbel, Hieb ihn nieder gewaltig; er stürzt' ihr
 blutend zu Füßen.  Dann mit männlichen Streichen befreite sie tapfer die
 Mädchen, Traf noch viere der Räuber; doch die entflohen dem Tode.  Dann
 verschloß sie den Hof und harrte der Hülfe, bewaffnet."
-
 Als der Geistliche nun das Lob des Mädchens vernommen, Stieg die Hoffnung
 sogleich für seinen Freund im Gemüt auf, Und er war im Begriff, zu fragen,
 wohin sie geraten? Ob auf der traurigen Flucht sie nun mit dem Volk sich
@@ -1457,7 +1244,6 @@ gewickelt; Sitzt sie gleich, so sehen wir doch die treffliche Größe Und
 den blauen Rock, der, vielgefaltet, vom Busen Reichlich herunterwallt zum
 wohlgebildeten Knöchel.  Ohne Zweifel, sie ist's.  Drum kommet, damit wir
 vernehmen, Ob sie gut und tugendhaft sei, ein häusliches Mädchen."
-
 Da versetzte der Pfarrer, mit Blicken die Sitzende prüfend: "Daß sie den
 Jüngling entzückt, fürwahr, es ist mir kein Wunder, Denn sie hält vor dem
 Blick des erfahrenen Mannes die Probe.  Glücklich, wem doch Mutter Natur
@@ -1475,7 +1261,6 @@ Darfst du nicht leichtlich ihm trauen; dich macht die Zeit nur gewisser,
 Wie du es habest mit ihm und wie die Freundschaft bestehe." Lasset uns
 also zuerst bei guten Leuten uns umtun, Denen das Mädchen bekannt ist und
 die uns von ihr nun erzählen."
-
 "Auch ich lobe die Vorsicht", versetzte der Geistliche folgend; "Frein wir
 doch nicht für uns!  Für andere frein ist bedenklich." Und sie gingen
 darauf dem wackern Richter entgegen, Der in seinen Geschäften die Straße
@@ -1485,7 +1270,6 @@ hier Unter dem Apfelbaum sitzt und Kindern Kleider verfertigt Aus
 getragnem Kattun, der ihr vermutlich geschenkt ward.  Uns gefiel die
 Gestalt, sie scheint der Wackeren eine.  Saget uns, was Ihr wißt; wir
 fragen aus löblicher Absicht."
-
 Als, in den Garten zu blicken, der Richter sogleich nun herzutrat, Sagt'
 er: "Diese kennet Ihr schon; denn wenn ich erzählte Von der herrlichen Tat,
 die jene Jungfrau verrichtet, Als sie das Schwert ergriff und sich und
@@ -1504,13 +1288,11 @@ reicht' es dem Schulzen und sagte: "Teilet den Pfennig Unter die Dürftigen
 aus, und Gott vermehre die Gabe!" Doch es weigerte sich der Mann und sagte:
 "Wir haben Manchen Taler gerettet und manche Kleider und Sachen, Und ich
 hoffe, wir kehren zurück, noch eh es verzehrt ist."
-
 Da versetzte der Pfarrer und drückt' ihm das Geld in die Hand ein:
 "Niemand säume zu geben in diesen Tagen, und niemand Weigre sich
 anzunehmen, was ihm die Milde geboten! Niemand weiß, wie lang er es hat,
 was er ruhig besitzet; Niemand, wie lang er noch in fremden Landen
 umherzieht Und des Ackers entbehrt und des Gartens, der ihn ernähret."
-
 "Ei doch!"  sagte darauf der Apotheker geschäftig, "Wäre mir jetzt nur
 Geld in der Tasche, so solltet Ihr's haben, Groß wie klein; denn viele
 gewiß der Euren bedürfen's.  Unbeschenkt doch laß ich Euch nicht, damit
@@ -1520,7 +1302,6 @@ hervor, worin der Tobak ihm verwahrt war, Öffnete zierlich und teilte; da
 fanden sich einige Pfeifen.  "Klein ist die Gabe", setzt' er dazu.  Da
 sagte der Schultheiß.  "Guter Tobak ist doch dem Reisenden immer
 willkommen." Und es lobte darauf der Apotheker den Knaster.
-
 Aber der Pfarrherr zog ihn hinweg, und sie schieden vom Richter.  "Eilen
 wir!"  sprach der verständige Mann; "es wartet der Jüngling Peinlich.  Er
 höre so schnell als möglich die fröhliche Botschaft." Und sie eilten und
@@ -1534,7 +1315,6 @@ der Pfarrherr Seine Hand und sprach und nahm dem Gefährten das Wort weg:
 gewählt!  Glück dir und dem Weibe der Jugend! Deiner ist sie wert; drum
 komm und wende den Wagen, Daß wir fahrend sogleich die Ecke des Dorfes
 erreichen, Um sie werben und bald nach Hause führen die Gute."
-
 Aber der Jüngling stand, und ohne Zeichen der Freude Hört' er die Worte
 des Boten, die himmlisch waren und tröstlich, Seufzete tief und sprach:
 "Wir kamen mit eilendem Fuhrwerk, Und wir ziehen vielleicht beschämt und
@@ -1550,7 +1330,6 @@ nicht rasch bis hinan; wir möchten zu unsrer Beschämung Sachte die Pferde
 herum nach Hause lenken.  Ich fürchte, Irgendein Jüngling besitzt dies
 Herz, und die wackere Hand hat Eingeschlagen und schon dem Glücklichen
 Treue versprochen.  Ach!  da steh ich vor ihr mit meinem Antrag beschämet."
-
 Ihn zu trösten, öffnete drauf der Pfarrer den Mund schon; Doch es fiel der
 Gefährte mit seiner gesprächigen Art ein: "Freilich!  so wären wir nicht
 vorzeiten verlegen gewesen, Da ein jedes Geschäft nach seiner Weise
@@ -1571,7 +1350,6 @@ Jetzt ist aber das alles mit andern guten Gebräuchen Aus der Mode gekommen,
 und jeder freit für sich selber.  Nehme denn jeglicher auch den Korb mit
 eigenen Händen, Der ihm etwa beschert ist, und stehe beschämt vor dem
 Mädchen!"
-
 "Sei es, wie ihm auch sei!"  versetzte der Jüngling, der kaum auf Alle die
 Worte gehört und schon sich im stillen entschlossen; "Selber geh ich und
 will mein Schicksal selber erfahren Aus dem Munde des Mädchens, zu dem ich
@@ -1589,11 +1367,9 @@ Hügel An dem Birnbaum hin und unsern Weinberg hinunter Geh ich näher nach
 Hause zurück.  Oh, daß ich die Traute Freudig und schnell heimführte!
 Vielleicht auch schleich ich alleine Jene Pfade nach Haus und betrete froh
 sie nicht wieder."
-
 Also sprach er und gab dem geistlichen Herrn die Zügel, Der verständig sie
 faßte, die schäumenden Rosse beherrschend, Schnell den Wagen bestieg und
 den Sitz des Führers besetzte.
-
 Aber du zaudertest noch, vorsichtiger Nachbar, und sagtest: "Gerne vertrau
 ich, mein Freund, Euch Seel' und Geist und Gemüt an; Aber Leib und Gebein
 ist nicht zum besten verwahret, Wenn die geistliche Hand der weltlichen
@@ -1605,19 +1381,13 @@ Straßburg gewohnt, den Wagen zu lenken, Als ich den jungen Baron dahin
 begleitete; täglich Rollte der Wagen, geleitet von mir, das hallende Tor
 durch, Staubige Wege hinaus, bis fern zu den Auen und Linden, Mitten durch
 Scharen des Volks, das mit Spazieren den Tag lebt."
-
 Halb getröstet bestieg darauf der Nachbar den Wagen, Saß wie einer, der
 sich zum weislichen Sprunge bereitet; Und die Hengste rannten nach Hause,
 begierig des Stalles.  Aber die Wolke des Staubs quoll unter den
 mächtigen Hufen.  Lange noch stand der Jüngling und sah den Staub sich
 erheben, Sah den Staub sich zerstreun; so stand er ohne Gedanken.
-
-
-
-
 Erato
 Dorothea
-
 Wie der wandernde Mann, der vor dem Sinken der Sonne Sie noch einmal ins
 Auge, die schnell verschwindende, faßte, Dann im dunkeln Gebüsch und an
 der Seite des Felsens Schweben siehet ihr Bild; wohin er die Blicke nur
@@ -1636,7 +1406,6 @@ Menschen? Sag, warum kommst du allein zum Quell, der doch so entfernt
 liegt, Da sich andere doch mit dem Wasser des Dorfes begnügen? Freilich
 ist dies von besonderer Kraft und lieblich zu kosten.  Jener Kranken
 bringst du es wohl, die du treulich gerettet?"
-
 Freundlich begrüßte sogleich das gute Mädchen den Jüngling, Sprach: "So
 ist schon hier der Weg mir zum Brunnen belohnet, Da ich finde den Guten,
 der uns so vieles gereicht hat; Denn der Anblick des Gebers ist, wie die
@@ -1650,7 +1419,6 @@ Und so haben sie auch mit Waschen und Reinigen alle Tröge des Dorfes
 beschmutzt und alle Brunnen besudelt; Denn ein jeglicher denkt nur, sich
 selbst und das nächste Bedürfnis Schnell zu befriedigen und rasch, und
 nicht des Folgenden denkt er."
-
 Also sprach sie und war die breiten Stufen hinunter Mit dem Begleiter
 gelangt; und auf das Mäuerchen setzten Beide sich nieder des Quells.  Sie
 beugte sich über, zu schöpfen; Und er faßte den anderen Krug und beugte
@@ -1660,7 +1428,6 @@ Schwanken und nickten sich zu und grüßten sich freundlich im Spiegel.
 den Krug.  Dann ruhten sie beide, vertraulich Auf die Gefäße gelehnt; sie
 aber sagte zum Freunde: "Sage, wie find ich dich hier?  und ohne Wagen und
 Pferde Ferne vom Ort, wo ich erst dich gesehn?  wie bist du gekommen?"
-
 Denkend schaute Hermann zur Erde; dann hob er die Blicke Ruhig gegen sie
 auf und sah ihr freundlich ins Auge, Fühlte sich still und getrost.
 Jedoch ihr von Liebe zu sprechen, Wär' ihm unmöglich gewesen; ihr Auge
@@ -1682,7 +1449,6 @@ Worte vernahm, die verständigen, war ich betroffen, Und ich eilte nach
 Hause, den Eltern und Freunden die Fremde Rühmend nach ihrem Verdienst.
 Nun komm ich dir aber zu sagen, Was sie wünschen wie ich.--Verzeih mir die
 stotternde Rede."
-
 "Scheuet Euch nicht", so sagte sie drauf, "das Weitre zu sprechen; Ihr
 beleidigt mich nicht, ich hab es dankbar empfunden.  Sagt es nur grad
 heraus; mich kann das Wort nicht erschrecken: Dingen möchtet Ihr mich als
@@ -1703,19 +1469,16 @@ Frau, so tu ich es gerne; Denn ein wanderndes Mädchen ist immer von
 schwankendem Rufe.  Ja, ich gehe mit Euch, sobald ich die Krüge den
 Freunden Wiedergebracht und noch mir den Segen der Guten erbeten.  Kommt!
 Ihr müsset sie sehen, und mich von ihnen empfangen."
-
 Fröhlich hörte der Jüngling des willigen Mädchens Entschließung, Zweifelnd,
 ob er ihr nun die Wahrheit sollte gestehen.  Aber es schien ihm das
 beste zu sein, in dem Wahn sie zu lassen, In sein Haus sie zu führen, zu
 werben um Liebe nur dort erst.  Ach!  und den goldenen Ring erblickt' er
 am Finger des Mädchens; Und so ließ er sie sprechen und horchte fleißig
 den Worten.
-
 "Laßt uns", fuhr sie nun fort, "zurücke kehren!  Die Mädchen Werden immer
 getadelt, die lange beim Brunnen verweilen; Und doch ist es am rinnenden
 Quell so lieblich zu schwätzen." Also standen sie auf und schauten beide
 noch einmal In den Brunnen zurück, und süßes Verlangen ergriff sie.
-
 Schweigend nahm sie darauf die beiden Krüge beim Henkel, Stieg die Stufen
 hinan, und Hermann folgte der Lieben.  Einen Krug verlangt' er von ihr,
 die Bürde zu teilen.  "Laßt ihn", sprach sie; "es trägt sich besser die
@@ -1734,7 +1497,6 @@ alle, Wenn der Säugling die Krankende weckt und Nahrung begehret Von der
 Schwachen und so zu Schmerzen Sorgen sich häufen.  Zwanzig Männer
 verbunden ertrügen nicht diese Beschwerde, Und sie sollen es nicht; doch
 sollen sie dankbar es einsehn."
-
 Also sprach sie und war mit ihrem stillen Begleiter Durch den Garten
 gekommen, bis an die Tenne der Scheune, Wo die Wöchnerin lag, die sie froh
 mit den Töchtern verlassen, Jenen geretteten Mädchen, den schönen Bildern
@@ -1748,7 +1510,6 @@ zu trinken.  Und sie reichte das Wasser herum.  Da tranken die Kinder,
 Und die Wöchnerin trank mit den Töchtern, so trank auch der Richter.
 Alle waren geletzt und lobten das herrliche Wasser; Säuerlich war's und
 erquicklich, gesund zu trinken den Menschen.
-
 Da versetzte das Mädchen mit ernsten Blicken und sagte: "Freunde, dieses
 ist wohl das letztemal, daß ich den Krug Euch Führe zum Munde, daß ich die
 Lippen mit Wasser Euch netze: Aber wenn Euch fortan am heißen Tage der
@@ -1770,7 +1531,6 @@ an die Brust in diesen farbigen Wickeln, Oh, so gedenket des Jünglings,
 des guten, der sie uns reichte, Und der künftig auch mich, die Eure,
 nähret und kleidet! Und Ihr, trefflicher Mann", so sprach sie, gewendet
 zum Richter, "Habet Dank, daß Ihr Vater mir wart in mancherlei Fällen!"
-
 Und sie kniete darauf zur guten Wöchnerin nieder, Küßte die weinende Frau
 und vernahm des Segens Gelispel.  Aber du sagtest indes, ehrwürdiger
 Richter, zu Hermann: "Billig seid Ihr, o Freund, zu den guten Wirten zu
@@ -1784,7 +1544,6 @@ scheint, Ihr versteht's; denn Ihr habt ein Mädchen erwählet, Euch zu
 dienen im Haus und Euren Eltern, das brav ist.  Haltet sie wohl!  Ihr
 werdet, solang sie der Wirtschaft sich annimmt, Nicht die Schwester
 vermissen, noch Eure Eltern die Tochter."
-
 Viele kamen indes, der Wöchnerin nahe Verwandte, Manches bringend und ihr
 die bessere Wohnung verkündend.  Alle vernahmen des Mädchens Entschluß
 und segneten Hermann Mit bedeutenden Blicken und mit besondern Gedanken.
@@ -1801,13 +1560,8 @@ Als der Storch ihn jüngst beim Zuckerbäcker vorbeitrug, Und ihr sehet sie
 bald mit den schön vergoldeten Deuten." Und so ließen die Kinder sie los,
 und Hermann entriß sie Noch den Umarmungen kaum und den ferne winkenden
 Tüchern.
-
-
-
-
 Melpomene
 Hermann und Dorothea
-
 Also gingen die zwei entgegen der sinkenden Sonne, Die in Wolken sich tief,
 gewitterdrohend, verhüllte, Aus dem Schleier, bald hier bald dort, mit
 glühenden Blicken Strahlend über das Feld die ahnungsvolle Beleuchtung.
@@ -1823,7 +1577,6 @@ Herrn, so kann er ihm leichter genug tun, Wenn er die Dinge bedenkt, die
 jenem die wichtigsten scheinen, Und auf die er den Sinn, den fest
 bestimmten, gesetzt hat.  Darum saget mir doch: wie gewinn ich Vater und
 Mutter?"
-
 Und es versetzte dagegen der gute, verständige Jüngling: "Oh, wie geb ich
 dir recht, du kluges, treffliches Mädchen, Daß du zuvörderst dich nach dem
 Sinne der Eltern befragest! Denn so strebt' ich bisher vergebens, dem
@@ -1840,7 +1593,6 @@ Brust ein jedes Vertrauen.  Einige Zierde verlangt der gute Vater im
 Leben, Wünschet äußere Zeichen der Liebe, so wie der Verehrung, Und er
 würde vielleicht vom schlechteren Diener befriedigt, Der dies wüßte zu
 nutzen, und würde dem besseren gram sein."
-
 Freudig sagte sie drauf, zugleich die schnelleren Schritte Durch den
 dunkelnden Pfad verdoppelnd mit leichter Bewegung: "Beide zusammen hoff
 ich fürwahr zufriedenzustellen; Denn der Mutter Sinn ist wie mein eigenes
@@ -1854,7 +1606,6 @@ ich gelernt und was ich von jung auf gewohnt bin, Was von Herzen mir
 geht--ich will es dem Alten erzeigen.  Aber wer sagt mir nunmehr: wie
 soll ich dir selber begegnen, Dir, dem einzigen Sohn und künftig meinem
 Gebieter?"
-
 Also sprach sie, und eben gelangten sie unter den Birnbaum.  Herrlich
 glänzte der Mond, der volle, vom Himmel herunter; Nacht war's, völlig
 bedeckt das letzte Schimmern der Sonne.  Und so lagen vor ihnen in Massen
@@ -1871,7 +1622,6 @@ nebeneinander.  Aber das Mädchen begann und sagte: "Wie find ich des
 Mondes Herrlichen Schein so süß!  er ist der Klarheit des Tags gleich.
 Seh ich doch dort in der Stadt die Häuser deutlich und Höfe, An dem Giebel
 ein Fenster; mich deucht, ich zähle die Scheiben."
-
 "Was du siehst", versetzte darauf der gehaltene Jüngling, "Das ist unsere
 Wohnung, in die ich nieder dich führe, Und dies Fenster dort ist meines
 Zimmers im Dache, Das vielleicht das deine nun wird; wir verändern im
@@ -1882,7 +1632,6 @@ schwere Gewitter herüber, Wetterleuchtend und bald verschlingend den
 lieblichen Vollmond." Und so standen sie auf und wandelten nieder, das
 Feld hin, Durch das mächtige Korn, der nächtlichen Klarheit sich freuend;
 Und sie waren zum Weinberg gelangt und traten ins Dunkel.
-
 Und so leitet' er sie die vielen Platten hinunter, Die, unbehauen gelegt,
 als Stufen dienten im Laubgang.  Langsam schritt sie hinab, auf seinen
 Schultern die Hände; Und mit schwankenden Lichtern, durchs Laub,
@@ -1896,35 +1645,26 @@ er, Starr wie ein Marmorbild, vom ernsten Willen gebändigt, Drückte nicht
 fester sie an, er stemmte sich gegen die Schwere.  Und so fühlt' er die
 herrliche Last, die Wärme des Herzens Und den Balsam des Atems, an seinen
 Lippen verhauchet, Trug mit Mannesgefühl die Heldengröße des Weibes.
-
 Doch sie verhehlte den Schmerz und sagte die scherzenden Worte: "Das
 bedeutet Verdruß, so sagen bedenkliche Leute Wenn beim Eintritt ins Haus,
 nicht fern von der Schwelle, der Fuß knackt.  Hätt' ich mir doch fürwahr
 ein besseres Zeichen gewünschet! Laß uns ein wenig verweilen, damit dich
 die Eltern nicht tadeln Wegen der hinkenden Magd, und ein schlechter Wirt
 du erscheinest."
-
-
-
-
 Urania
 Aussicht
-
 Musen, die ihr so gern die herzliche Liebe begünstigt, Auf dem Wege bisher
 den trefflichen Jüngling geleitet, An die Brust ihm das Mädchen noch vor
 der Verlobung gedrückt habt: Helfet auch ferner den Bund des lieblichen
 Paares vollenden, Teilet die Wolken sogleich, die über ihr Glück sich
 heraufziehn! Aber saget vor allem, was jetzt im Hause geschiehet!
-
 Ungeduldig betrat die Mutter zum drittenmal wieder Schon das Zimmer der
 Männer, das sorglich erst sie verlassen, Sprechend vom nahen Gewitter, vom
 schnellen Verdunkeln des Mondes; Dann vom Außenbleiben des Sohns und der
 Nächte Gefahren; Tadelte lebhaft die Freunde, daß, ohne das Mädchen zu
 sprechen, Ohne zu werben für ihn, sie so bald sich vom Jüngling getrennet.
-
 "Mache nicht schlimmer das Übel!"  versetzt' unmutig der Vater; "Denn du
 siehst, wir harren ja selbst, und warten des Ausgangs."
-
 Aber gelassen begann der Nachbar sitzend zu sprechen: "Immer verdank ich
 es doch in solch unruhiger Stunde Meinem seligen Vater, der mir, als
 Knaben, die Wurzel Aller Ungeduld ausriß, daß auch kein Fäschen
@@ -1950,7 +1690,6 @@ im Geiste wirklich geschehen, Sah die Bretter gefügt und die schwarze
 Farbe bereitet, Saß geduldig nunmehr und harrete ruhig der Kutsche.
 Rennen andere nun in zweifelhafter Erwartung Ungebärdig herum, da muß ich
 des Sarges gedenken."
-
 Lächelnd sagte der Pfarrer: "Des Todes rührendes Bild steht Nicht als
 Schrecken dem Weisen und nicht als Ende dem Frommen.  Jenen drängt es ins
 Leben zurück und lehret ihn handeln; Diesem stärkt es, zu künftigem Heil,
@@ -1959,7 +1698,6 @@ Unrecht Hat dem empfindlichen Knaben den Tod im Tode gewiesen.  Zeige man
 doch dem Jüngling des edel reifenden Alters Wert und dem Alter die Jugend,
 daß beide des ewigen Kreises Sich erfreuen und so sich Leben im Leben
 vollende!"
-
 Aber die Tür ging auf.  Es zeigte das herrliche Paar sich, Und es
 erstaunten die Freunde, die liebenden Eltern erstaunten Über die Bildung
 der Braut, des Bräutigams Bildung vergleichbar; Ja, es schien die Türe zu
@@ -1986,10 +1724,8 @@ Frau sich geholt; das Mütterchen war es.  Denn an der Braut, die der Mann
 sich erwählt, läßt gleich sich erkennen, Welches Geistes er ist, und ob er
 sich eigenen Wert fühlt.  Aber Ihr brauchtet wohl auch nur wenig Zeit zur
 Entschließung? Denn mich dünket fürwahr, ihm ist so schwer nicht zu folgen."
-
 Hermann hörte die Worte nur flüchtig; ihm bebten die Glieder Innen, und
 stille war der ganze Kreis nun auf einmal.
-
 Aber das treffliche Mädchen, von solchen spöttischen Worten, Wie sie ihr
 schienen, verletzt und tief in der Seele getroffen, Stand, mit fliegender
 Röte die Wange bis gegen den Nacken Übergossen; doch hielt sie sich an und
@@ -2005,7 +1741,6 @@ tret ich nur arm, mit kleinem Bündel ins Haus ein, Das mit allem versehn
 die frohen Bewohner gewiß macht; Aber ich kenne mich wohl und fühle das
 ganze Verhältnis.  Ist es edel, mich gleich mit solchem Spotte zu treffen,
 Der auf der Schwelle beinah mich schon aus dem Hause zurücktreibt?"
-
 Bang bewegte sich Hermann und winkte dem geistlichen Freunde, Daß er ins
 Mittel sich schlüge, sogleich zu verscheuchen den Irrtum.  Eilig trat der
 Kluge heran und schaute des Mädchens Stillen Verdruß und gehaltenen
@@ -2027,7 +1762,6 @@ mürrisch zu stocken.  Doch du scheinst mir dazu nicht geschickt, da die
 Scherze des Vaters Schon dich treffen so tief, und doch nichts
 gewöhnlicher vorkommt, Als ein Mädchen zu plagen, daß wohl ihr ein
 Jüngling gefalle."
-
 Also sprach er.  Es fühlte die treffende Rede das Mädchen, Und sie hielt
 sich nicht mehr; es zeigten sich ihre Gefühle Mächtig, es hob sich die
 Brust, aus der ein Seufzer hervordrang, Und sie sagte sogleich mit heiß
@@ -2072,7 +1806,6 @@ Noch der sausende Sturm.  Das hab ich alles ertragen Auf der traurigen
 Flucht und nah am verfolgenden Feinde.  Und ich gehe nun wieder hinaus,
 wie ich lange gewohnt bin, Von dem Strudel der Zeit ergriffen, von allem
 zu scheiden.  Lebet wohl!  ich bleibe nicht länger; es ist nun geschehen."
-
 Also sprach sie, sich rasch zurück nach der Türe bewegend, Unter dem Arm
 das Bündelchen noch, das sie brachte, bewahrend.  Aber die Mutter ergriff
 mit beiden Armen das Mädchen, Um den Leib sie fassend, und rief verwundert
@@ -2094,7 +1827,6 @@ Redet, würdiger Herr!  denn Euch vertraut' ich die Sache.  Häufet nicht
 Angst und Verdruß; vollendet lieber das Ganze! Denn ich möchte so hoch
 Euch nicht in Zukunft verehren, Wenn Ihr Schadenfreude nur übt statt
 herrlicher Weisheit."
-
 Lächelnd versetzte darauf der würdige Pfarrer und sagte: "Welche Klugheit
 hätte denn wohl das schöne Bekenntnis Dieser Guten entlockt und uns
 enthüllt ihr Gemüte? Ist nicht die Sorge sogleich dir zur Wonn' und Freude
@@ -2111,7 +1843,6 @@ du mir's!  Oh, sei mir gesegnet!" Und es schaute das Mädchen mit tiefer
 Rührung zum Jüngling Und vermied nicht Umarmung und Kuß, den Gipfel der
 Freude, Wenn sie den Liebenden sind die lang ersehnte Versichrung
 Künftigen Glücks im Leben, das nun ein unendliches scheinet.
-
 Und den übrigen hatte der Pfarrherr alles erkläret.  Aber das Mädchen kam,
 vor dem Vater sich herzlich mit Anmut Neigend und so ihm die Hand, die
 zurückgezogene, küssend, Sprach: "Ihr werdet gerecht der Überraschten
@@ -2121,11 +1852,9 @@ ins Glück, das neu mir gegönnte, mich finden! Ja, der erste Verdruß, an
 dem ich Verworrene schuld war, Sei der letzte zugleich!  Wozu die Magd
 sich verpflichtet, Treu, zu liebendem Dienst, den soll die Tochter Euch
 leisten!"
-
 Und der Vater umarmte sie gleich, die Tränen verbergend.  Traulich kam
 die Mutter herbei und küßte sie herzlich, Schüttelte Hand in Hand; es
 schwiegen die weinenden Frauen.
-
 Eilig faßte darauf der gute verständige Pfarrherr Erst des Vaters Hand und
 zog ihm vom Finger den Trauring (Nicht so leicht; er war vom rundlichen
 Gliede gehalten), Nahm den Ring der Mutter darauf und verlobte die Kinder,
@@ -2135,14 +1864,12 @@ Liebe zum Mädchen durchdrungen Und das Mädchen gesteht, daß auch ihr der
 Jüngling erwünscht ist.  Also verlob' ich euch hier und segn' euch
 künftigen Zeiten, Mit dem Willen der Eltern und mit dem Zeugnis des
 Freundes."
-
 Und es neigte sich gleich mit Segenswünschen der Nachbar.  Aber als der
 geistliche Herr den goldenen Reif nun Steckt' an die Hand des Mädchens,
 erblickt' er den anderen staunend, Den schon Hermann zuvor am Brunnen
 sorglich betrachtet.  Und er sagte darauf mit freundlich scherzenden
 Worten: "Wie!  du verlobest dich schon zum zweitenmal?  Daß nicht der
 erste Bräutigam bei dem Altar sich zeige mit hinderndem Einspruch!"
-
 Aber sie sagte darauf.  "Oh, laßt mich dieser Erinnrung Einen Augenblick
 weihen!  Denn wohl verdient sie der Gute, Der mir ihn scheidend gab und
 nicht zur Heimat zurückkam.  Alles sah er voraus, als rasch die Liebe der
@@ -2177,7 +1904,6 @@ bereitet und mir die herrlichsten Hoffnungen aufschließt.  Oh, verzeih,
 mein trefflicher Freund, daß ich, selbst an dem Arm dich Haltend, bebe!
 So scheint dem endlich gelandeten Schiffer Auch der sicherste Grund des
 festesten Bodens zu schwanken."
-
 Also sprach sie und steckte die Ringe nebeneinander.  Aber der Bräutigam
 sprach mit edler männlicher Rührung: "Desto fester sei, bei der
 allgemeinen Erschüttrung, Dorothea, der Bund!  Wir wollen halten und
@@ -2196,11 +1922,3 @@ rüste mich selbst und reiche die Waffen.  Weiß ich durch dich nur
 versorgt das Haus und die liebenden Eltern, Oh, so stellt sich die Brust
 dem Feinde sicher entgegen.  Und gedächte jeder wie ich, so stünde die
 Macht auf Gegen die Macht, und wir erfreuten uns alle des Friedens."
-
-
-
-
-
-Ende dieses Project Gutenberg Etextes "Hermann und Dorathea" von Goethe.
-End of Project Gutenberg Etext "Hermann und Dorothea", by Goethe
-

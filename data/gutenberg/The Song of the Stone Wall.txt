@@ -1,57 +1,11 @@
-e Project Gutenberg EBook of The Song of the Stone Wall, by Helen Keller
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Song of the Stone Wall
-
-Author: Helen Keller
-
-Release Date: April 20, 2004 [EBook #12093]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE SONG OF THE STONE WALL ***
-
-
-
-
 Produced by Jamie Taylor in memory of Helen Keller.
-
-
-
-
-THE SONG OF
-THE STONE WALL
-
-
-BY
-HELEN KELLER
-
-
-
-
-1910
 Copyright, 1909, 1910.
 _Published October, 1910_.
-
-
-
-
-DEDICATION
-
-
 When I began "The Song of the Stone Wall," Dr. Edward Everett Hale
 was still among us, and it was my intention to dedicate the poem
 to him if it should be deemed worthy of publication. I fancied that
 he would like it; for he loved the old walls and the traditions that
 cling about them.
-
 As I tried to image the men who had built the walls long ago, it
 seemed to me that Dr. Hale was the living embodiment of whatever was
 heroic in the founders of New England. He was a great American. He
@@ -59,7 +13,6 @@ was also a great Puritan. Was not the zeal of his ancestors upon his
 lips, and their courage in his heart? Had they not bequeathed to him
 their torch-like faith, their patient fervor of toil and their creed
 of equality?
-
 But his bright spirit had inherited no trace of their harshness and
 gloom. The windows of his soul opened to the sunlight of a joyous
 faith. His optimism and genial humor inspired gladness and good
@@ -75,26 +28,13 @@ nearer to God and to each other. Like his ancestors, he dreamed of a
 land of freedom founded on the love of God and the brotherhood of
 man, a land where each man shall achieve his share of happiness and
 learn the work of manhood--to rule himself and "lend a hand."
-
 Thoughts like these were often in my mind as the poem grew and took
 form. It is fitting, therefore, that I should dedicate it to him,
 and in so doing I give expression to the love and reverence which I
 have felt for him ever since he called me his little cousin, more
 than twenty years ago.
-
-HELEN KELLER
-
 Wrentham, Massachusetts,
 January, 1910.
-
-
-
-
-
-THE SONG OF
-THE STONE WALL
-
-
 Come walk with me, and I will tell
 What I have read in this scroll of stone;
 I will spell out this writing on hill and meadow.
@@ -105,13 +45,11 @@ This is New England's tapestry of stone
 Alive with memories that throb and quiver
 At the core of the ages
 As the prophecies of old at the heart of God's Word.
-
 The walls have many things to tell me,
 And the days are long. I come and listen:
 My hand is upon the stones, and the tale I fain would hear
 Is of the men who built the walls,
 And of the God who made the stones and the workers.
-
 With searching feet I walk beside the wall;
 I plunge and stumble over the fallen stones;
 I follow the windings of the wall
@@ -131,7 +69,6 @@ Sunbeams flit and waver in the rifts,
 Vanish and reappear, linger and sleep,
 Conquer with radiance the obdurate angles,
 Filter between the naked rents and wind-bleached jags.
-
 I understand the triumph and the truth
 Wrought into these walls of rugged stone.
 They are a miracle of patient hands,
@@ -148,12 +85,11 @@ A beam from the everlasting sun of God.
 Rude and unresponsive are the stones;
 Yet in them divine things lie concealed;
 I hear their imprisoned chant:--
-
 "We are fragments of the universe,
 Chips of the rock whereon God laid the foundation of the world:
 Out of immemorial chaos He wrought us.
 Out of the sun, out of the tempest, out of the travail of the earth
- we grew.
+we grew.
 We are wonderfully mingled of life and death;
 We serve as crypts for innumerable, unnoticed, tiny forms.
 We are manifestations of the Might
@@ -175,7 +111,6 @@ When Chaos shall again return,
 And endless Night shall spread her wings upon a rained world,
 We alone shall stand up from the shattered earth,
 Indestructible, invincible witnesses of God's eternal purpose."
-
 In reflective mood by the wall I wander;
 The hoary stones have set my heart astir;
 My thoughts take shape and move beside me in the guise
@@ -188,7 +123,7 @@ The patient, sturdy men who piled the stones
 Have vanished, like the days, beyond the bounds
 Of earth and mortal things.
 From their humble, steadfast lives has sprung the greatness of my
- nation.
+nation.
 I am bone of their bone, breath of their breath,
 Their courage is in my soul.
 The wall is an Iliad of granite: it chants to me
@@ -200,11 +135,10 @@ My pulses beat in unison with pulses that are stilled;
 The fire of their zeal inspires me
 In my struggle with darkness and pain.
 These embossed books, unobliterated by the tears and laughter
- of Time,
+of Time,
 Are signed with the vital hands of undaunted men.
 I love these monoliths, so crudely imprinted
 With their stalwart, cleanly, frugal lives.
-
 From my seat among the stones I stretch my hand and touch
 My friend the elm, urnlike, lithesome, tall.
 Far above the reach of my exploring fingers
@@ -217,7 +151,6 @@ Are wrought anew to beauty and to fruitfulness.
 I feel the glad stirrings under her rough bark;
 Her living sap mounts up to bring forth leaves;
 Her great limbs thrill beneath the wand of spring.
-
 This wall was builded in our fathers' days--
 Valorous days when life was lusty and the land was new.
 Resemble the walls the builders, buffeted, stern, and worn.
@@ -246,7 +179,6 @@ Bordered the new-dug acre marked for death;
 Beside the springing corn they laid in the sweet, dark earth
 The young man, strong and free, the maiden fair and trustful,
 The little child, and the uncomplaining mother.
-
 Across the meadow, by the ancient pines,
 Where I, the child of life that lived that spring,
 Drink in the fragrances of the young year,
@@ -270,7 +202,6 @@ And all the yearning mystery of death
 Are celebrated in sweet epitaphs of vines and violets.
 Close by the wall a peristyle of pines
 Sings requiem to all the dead that sleep.
-
 Beyond the village churchyard, still and calm,
 Steeped in the sweetness of eternal morn,
 The wall runs down in crumbling cadence
@@ -314,7 +245,6 @@ She stands at the lilac-shaded door
 With her baby at her breast;
 She looks across the twilit fields and smiles
 And whispers to her child: "Thy father comes!"
-
 Life triumphed over many-weaponed Death.
 Sorrow and toil and the wilderness thwarted their stout invasion;
 But with the ship that sailed again went no retreating soul!
@@ -330,7 +260,6 @@ With odorous sap, they set upon the hill
 The shrine of liberty for man's mind,
 And by it the shrine of liberty for man's soul,
 The school-house and the church.
-
 The apple-tree by the wall sheds its blossom about me--
 A shower of petals of light upon darkness.
 From Nature's brimming cup I drink a thousand scents;
@@ -349,7 +278,6 @@ At the foot of the aged pines the maiden's moccasins
 Track the sod like the noiseless sandals of Spring.
 Out of chinks in the wall delicate grasses wave,
 As beauty grew out of the crannies of these hard souls.
-
 Joyously, gratefully, after their long wrestling
 With the bitter cold and the harsh white winter,
 They heard the step of Spring on the edge of melting snow-drifts;
@@ -357,9 +285,9 @@ Gladly, with courage that flashed from their life-beaten souls,
 As the fire-sparks fly from the hammered stone,
 They hailed the fragrant arbutus;
 Its sweetness trailed beside the path that they cut through the
- forest,
+forest,
 And they gave it the name of their ship Mayflower.
-     Beauty was at their feet, and their eyes beheld it;
+Beauty was at their feet, and their eyes beheld it;
 The earth cried out for labor, and they gave it.
 But ever as they saw the budding spring,
 Ever as they cleared the stubborn field,
@@ -370,7 +298,6 @@ And beheld the walls that are not built of stone,
 The portals opened by angels whose garments are of light;
 And beyond the radiant walls of living stones
 They dreamed vast meadows and hills of fadeless green.
-
 In the old house across the road
 With weather-beaten front, like the furrowed face of an old man,
 The lights are out forever, the windows are broken,
@@ -387,7 +314,6 @@ Under the stars and the clouds, under the summer sun,
 Beaten by rain and wind, covered with tender vines,
 The walls stand symbols of a granite race,
 The measure and translation of olden times.
-
 In the rough epic of their life, their toil, their creeds,
 Their psalms, their prayers, what stirring tales
 Of days that were their past had they to tell
@@ -404,7 +330,6 @@ And written against the voice of his conviction.
 With such memories they exalted and cherished
 The heroism of their tried souls,
 And ours are wrung with doubt and self-distrust!
-
 I am kneeling on the odorous earth;
 The sweet, shy feet of Spring come tripping o'er the land,
 Winter is fled to the hills, leaving snowy wreaths
@@ -423,7 +348,6 @@ The murmur of pine and cedar, the ripple of many streams;
 Crows are calling from the Druidical wood;
 The morning mist still haunts the meadows
 Like the ghosts of the wall builders.
-
 As I listen, methinks I hear the bitter plaint
 Of the passing of a haughty race,
 The wronged, friendly, childlike, peaceable tribes,
@@ -435,9 +359,8 @@ All the travail of man and beast they knew--
 Birth and death, heat and cold,
 Hunger and thirst, love and hate;
 For these are the unchanging things writ in the imperishable book of
- life
+life
 That man suckled at the breast of woman must know.
-
 In the dim sanctuary of the pines
 The winds murmur their mysteries through dusky aisles--
 Secrets of earth's renewal and the endless cycle of life.
@@ -482,10 +405,9 @@ Before this mother in Israel the judges cowered;
 But still they suffered her to die.
 Through the tragic, guilty walls I hear the sighs
 Of desolate women and penitent, remorseful men.
-
 Sing of happier themes, O many-voiced epic,
 Sing how the ages, like thrifty husbandmen, winnow the creeds of
- men,
+men,
 And leave only faith and love and truth.
 Sing of the Puritan's nobler nature,
 Fathomless as the forests he felled,
@@ -530,7 +452,6 @@ But bend us to the fruitful earth in toil.
 Beyond the wall a new-plowed field lies steaming in the sun,
 And down the road a merry group of children
 Run toward the village school.
-
 Hear, O hear!  In the historian walls
 Rises the beat and the tumult of the struggle for freedom.
 Sacred, blood-stained walls, your peaceful front
@@ -556,19 +477,17 @@ Cleansed by tribulation and atonement,
 The broken nation rose from her knees,
 And with hope reborn in her heart set forth again
 Upon the open road to ideal democracy.
-
 Sing, walls, in lightning words that shall cause the world to
- vibrate,
+vibrate,
 Of the democracy to come,
 Of the swift, teeming, confident thing!
 We are part of it--the wonder and the terror and the glory!
 Fearless we rush forward to meet the years,
 The years that come flying towards us
 With wings outspread, agleam on the horizon of time!
-
 O eloquent, sane walls, instinct with a new faith,
 Ye are barbarous, in congruous, but great with the greatness of
- reality.
+reality.
 Walls wrought in unfaltering effort,
 Sing of our prosperity, the joyous harvest
 Of the labor of lusty toilers.
@@ -597,7 +516,6 @@ Are flooded with its green felicity!
 Out of the moist earth it has sprung;
 In the gracious amplitudes of her bosom it was nurtured,
 And in it is wrought the miracle of life.
-
 Sing, prophetic, mystic walls, of the dreams of the builders;
 Sing in thundering tones that shall thrill us
 To try our dull discontent, our barren wisdom
@@ -607,7 +525,6 @@ Each a Lincoln in his smoldering patience,
 Each a Luther in his fearless faith,
 Who made a breach in the wall of darkness
 And let the hosts of liberty march through.
-
 Calm, eternal walls, tranquil, mature,
 Which old voices, old songs, old kisses cover,
 As mosses and lichens cover your ancient stones,
@@ -618,7 +535,7 @@ And law and right are one.
 Sing that the Lord cometh, the Lord cometh,
 The fountain-head and spring of life!
 Sing, steady, exultant walls, in strains hallowed and touched with
- fire,
+fire,
 Sing that the Lord shall build us all together.
 As living stones build us, cemented together.
 May He who knoweth every pleasant thing
@@ -627,10 +544,3 @@ Who counted every stone blessed by their consecrated hands,
 Grant that we remain liberty-loving, substantial, elemental,
 And that faith, the rock not fashioned of human hands,
 Be the stability of our triumphant, toiling days.
-
-
-
-
-
-End of Project Gutenberg's The Song of the Stone Wall, by Helen Keller
-

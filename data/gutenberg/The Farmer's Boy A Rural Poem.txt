@@ -1,119 +1,37 @@
-e Project Gutenberg EBook of The Farmer's Boy, by Robert Bloomfield
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Farmer's Boy
-       A Rural Poem
-
-Author: Robert Bloomfield
-
-Posting Date: October 15, 2012 [EBook #9092]
-Release Date: October, 2005
-First Posted: September 4, 2003
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE FARMER'S BOY ***
-
-
-
-
 Produced by Jonathan Ingram, Charles Bidwell and Distributed
 Proofreaders
-
-
-
-
-
-
-
-
-
-
-[Illustration]
-
-
-    THE FARMER'S BOY;
-
-    A RURAL POEM.
-
-    By ROBERT BLOOMFIELD.
-
-
-"A SHEPHERD'S BOY ... HE SEEKS NO BETTER NAME."
-
-
+By ROBERT BLOOMFIELD.
 The Third Edition
-
-LONDON:
 Printed for Vernor and Hood, Poultry
 and sold by T.C. Rickman, 7, Upper Mary-Le-Bone-Street;
 Ingram, and Dingle, Bury; Booth, Norwich; Hill, Edinburgh;
 Archer, and Dugdale, Dublin.
-
-MDCCC
-
-
-
 A sonnet has come to my hands, the production,--and nearly the first
 poetical Production,--of a very young Lady. I have not the Author's
 consent to publish it: and there is no time to ask it. But I cannot omit
 adding such a flower to the Wreath of Glory of my Friend. I have therefore
 ventured to publish it without waiting permission; with one or two slight
 alterations.
-
-C. L.
-
-25 Aug. 1800.
-
-
-
-TO THE AUTHOR OF
-THE FARMER'S BOY.
-
-I.
-
 _If wealth, if honour, at command were mine,
-  And every boast Ambition could desire,
+And every boast Ambition could desire,
 The pompous Gifts, sweet Bard, I would resign
-  For the aft Music of thy tuneful Lyre,_
-
-II.
-
+For the aft Music of thy tuneful Lyre,_
 _Which speaks the soul awake to every charm
-  That Nature open'd from thy humble cot:
+That Nature open'd from thy humble cot:
 Speaks powers chill Indigence could not disarm;
-  Proof to Humanity's severest lot._
-
-III.
-
+Proof to Humanity's severest lot._
 _Thou Friend to Nature, and of Man the Friend;
-  Of every generous and benignant cause;
+Of every generous and benignant cause;
 The accents of thy glowing worth, unfeign'd,
-  Live in the cadence of each feeling pause.
+Live in the cadence of each feeling pause.
 Here thought, alternate, in the noble Plan
 Admires the POET, and reveres the Man._
-
-25 Aug. 1800.
-
-
-
-
-PREFACE
-
 Having the satisfaction of introducing to the Public this very pleasing
 and characteristic POEM, the FARMER'S BOY, I think it will be agreeable to
 preface it with a short Account of the manner in which it came into my
 hands: and, which will be much more interesting to every Reader, a little
 History of the Author, which has been communicated to me by his Brother,
 and which I shall very nearly transcribe as it lies before me.
-
 In _November_ last year [Footnote: This was written in 1799.] I receiv'd a
 MS. which I was requested to read, and to give my opinion of it. It had
 before been shewn to some persons in _London_: whose indifference toward
@@ -122,11 +40,9 @@ hands under no circumstances of adventitious recommendation. With some a
 person must be rich, or titled, or fashionable as a literary name, or at
 least fashionable in some respect, good or bad, before any thing which he
 can offer will be thought worthy of notice.
-
 I had been a little accustom'd to the effect of prejudices: and I was
 determin'd to judge, in the only just and reasonable way, of the Work, by
 the Work itself.
-
 At first I confess, seeing it divided into the four Seasons, I had to
 encounter a prepossession not very advantageous to any writer: that the
 Author was treading in a path already so admirably trod by THOMSON; and
@@ -134,7 +50,6 @@ might be adding one more to an attempt already so often, but so
 injudiciously and unhappily made, of transmuting that noble Poem from
 Blank Verse into Rhime; ... from its own pure native Gold into an alloyed
 Metal of incomparably less splendor, permanence, and worth.
-
 I had soon, however, the pleasure of finding myself reliev'd from that
 apprehension: and of discovering, that, although the delineation of RURAL
 SCENERY naturally branches itself into these divisions, there was little
@@ -145,7 +60,6 @@ of imagination, which were in common between Thomson and this Author. And
 these are qualities which whoever has the eye, the heart, the awakened and
 surrounding intellect, and the diviner sense of the Poet, which alone can
 deserve the name, must possess.
-
 But, with these general Characters of true Poetry, "_The Farmer's Boy_"
 has, as I have said, a character of its own. It is discriminated as much
 as the circumstances and habits, and situation, and ideas consequently
@@ -153,7 +67,6 @@ associated, which are so widely diverse in the two Authors, could make it
 different. Simplicity, sweetness, a natural tenderness, that _molle atque
 facetum_ which HORACE celebrates in the Eclogues of VIRGIL, will be found
 to belong to it.
-
 I intend some farther and more particular CRITICAL REMARKS on this
 charming Performance. But I now pass to the Account of the Author himself,
 as given me by his Brother:... a Man to whom also I was entirely a
@@ -163,10 +76,8 @@ Goodness of his Heart, I have had many Proofs, in consequence of a
 correspondence with him on different occasions which have since arisen,
 when this had made me acquainted with him, and interested me in his
 behalf.
-
 In writing to me, Mr. GEORGE BLOOMFIELD, who is a Shoemaker also, as his
 Brother, and lives at BURY, thus expresses himself.
-
 "As I spent five years with the Author, from the time he was thirteen
 years and a half old [Footnote: This by farther recollection has since
 been discover'd and stated by Mr. G. and Mr. R. BLOOMFIELD not to be quite
@@ -175,7 +86,6 @@ interesting time of life (I mean the time that instruction is acquir'd, if
 acquir'd at all), I think I am able to give a better account of him than
 any one can, or than he can of himself: for his Modesty would not let him
 speak of his Temper, Disposition, or Morals."
-
 "ROBERT was the younger Child of GEORGE BLOOMFIELD, a _Taylor_, at
 HONINGTON. [Footnote: This Village is between _Euston_ and _Troston_, and
 about eight miles N E. of _Bury_. L.] His Father died when he was an
@@ -184,10 +94,8 @@ obligingly informed me, 3 _Dec_. 1766. L.] His Mother [Footnote:
 ELIZABETH, Daughter of ROBERT MANBY. Vide Note at the end of this
 Preface.] was a Schoolmistress, and instructed her own Children with the
 others. He thus learn'd to read as soon as he learn'd to speak."
-
 "Though the Mother was left a Widow with six small Children, yet with the
 help of Friends she manag'd to give each of them a little schooling."
-
 "ROBERT was accordingly sent to Mr. RODWELL, [Footnote: This respectable
 Man is senior Clerk to the Magistrates of the Hundred of BLACKBOURN, in
 which Honington is situated, and has conducted himself with great
@@ -195,28 +103,23 @@ propriety in this and other public employments. L.] of Ixworth, to be
 improved in _Writing_: but he did not go to that School more than two or
 three months, nor was ever sent to any other; his Mother again marrying
 when ROBERT was about seven years old."
-
 "By her second Husband, JOHN GLOVER, she had another Family."
-
 "When _Robert_ was not above _eleven_ years old, the late Mr. W. AUSTIN,
 of SAPISTON, [Footnote: This little Village adjoins to HONINGTON. L.] took
 him. And though it is customary for Farmers to pay such Boys only 1s. 6d.
 per week, yet he generously took him into the house. This reliev'd his
 Mother of any other expence than only of finding him a few things to wear:
 and this was more than she well knew how to do."
-
 "She wrote therefore," Mr. G. BLOOMFIELD continues, "to me and my Brother
 NAT (then in London), to assist her; mentioning that he, ROBERT, was so
 small of his age that Mr. AUSTIN said he was not likely to be able to get
 his living by hard labour."
-
 Mr. G. BLOOMFIELD on this inform'd his Mother that, if she would let him
 take the Boy with him, he would take him, and teach him to make shoes: and
 NAT promis'd to clothe him. The Mother, upon this offer, took coach and
 came to LONDON, to Mr. G. BLOOMFIELD, with the Boy: for she said, she
 never should have been happy if she had not put him herself into his
 hands.
-
 "She charg'd me," he adds, "_as I valued a Mothers Blessing, to watch over
 him, to set good Examples for him, and never to forget that he had lost
 his Father_." I religiously confine myself to Mr. G. BLOOMFIELD'S own
@@ -224,13 +127,11 @@ words; and think I should wrong all the parties concern'd if in mentioning
 this pathetic and successful Admonition, I were to use any other. He came
 from Mr. AUSTIN'S 29 _June_ 1781. [Footnote: This date of his coming to
 Town is added by Mr. BLOOMFIELD himself since the first Edition.]
-
 Mr. G. BLOOMFIELD then lived at Mr. _Simm's_, No. 7, _Pitcher's-court,
 Bell-alley, Coleman-street_. "It is customary," he continues, "in such
 houses as are let to poor people in _London_, to have light Garrets fit
 for Mechanics to work in. In the Garret, where we had two turn-up Beds,
 and five of us worked, I received little ROBERT."
-
 "As we were all single Men, Lodgers at a Shilling per week each, oar beds
 were coarse, and all things far from being clean and snug, like what
 _Robert_ had left at SAPISTON. _Robert_ was our man, to fetch all things
@@ -238,7 +139,6 @@ to hand. At Noon he fetch'd our Dinners from the Cook's Shop: and any one
 of our fellow workmen that wanted to have any thing fetched in, would send
 him, and assist in his work and teach him, for a recompense for his
 trouble."
-
 "Every day when the Boy from the Public-house came for the pewter pots,
 and to hear what Porter was wanted, he always brought the yesterday's
 _Newspaper_. [Footnote: There was then, neither as a resource for the
@@ -247,13 +147,11 @@ Check which prevails now on the circulation of _Newspapers_, and other
 means of _popular_ Information. L.] The _reading_ of the Paper we had been
 us'd to take by turns; but after _Robert_ came, he mostly read for us,...
 because his time was of least value."
-
 "He frequently met with words that he was unacquainted with: of this he
 often complain'd. I one day happen'd at a Book-stall to see a small
 Dictionary, which had been very ill us'd. I bought it for him for 4d. By
 the help of this he in little time could read and comprehend the long and
 beautiful speeches of BURKE, FOX, or NORTH.
-
 "One Sunday, after an whole day's stroll in the country, we by accident
 went into a dissenting _Meeting-house_ in the _Old Jewry_, where a
 Gentleman was lecturing. This Man fill'd _Robert_ with astonishment. The
@@ -261,18 +159,13 @@ House was amazingly crowded with the most genteel people; and though we
 were forc'd to stand still in the aisle, and were much press'd, yet
 _Robert_ always quicken'd his steps to get into the Town on a Sunday
 evening soon enough to attend this Lecture.
-
 "The Preacher lived somewhere at the West End of the Town ... his name was
 FAWCET. His language," says Mr. G. BLOOMFIELD, "was just such as the
 _Rambler_ is written in; his Action like a person acting a Tragedy; his
 Discourse rational, and free from the Cant of Methodism.
-
 "Of him _Robert_ learn'd to accent what he call'd _hard_ words; and
 otherwise improv'd himself; and gain'd the most enlarg'd notions of
-PROVIDENCE.
-
 "He went sometimes with me to a _Debating Society_
-[Footnote: It is another of the Constitutional Refinements of these times
 to have fetter'd, and as to every valuable purpose, silenc'd, these
 Debating Societies. They were at least, to say the lowest of them, far
 better amusements than drunkenness, gambling, or fighting. They were no
@@ -286,7 +179,6 @@ _History of England, British Traveller_, and a _Geography_. But he always
 read them as a task, or to oblige us who bought them. And as they came in
 sixpenny numbers weekly, he had about as many hours to read as other boys
 spend in play."
-
 "I at that time," proceeds his Brother, "read the _London Magazine_; and
 in that work about two sheets were set apart for a _Review ... Robert_
 seem'd always eager to read this Review. Here he could see what the
@@ -299,35 +191,26 @@ to p. xvii.] should make so smooth verses: so I persuaded him to try
 whether the Editor of our Paper would give them a place in _Poet's
 Corner_. And he succeeded, and they were printed. And as I forget his
 other early productions, I shall copy this."
-
-
-  THE MILK-MAID, ON THE FIRST OF MAY.
-
 Hail, MAY! lovely MAY! how replenish'd my pails!
-  The young Dawn overspreads the East streak'd with gold!
+The young Dawn overspreads the East streak'd with gold!
 My glad heart beats time to the laugh of the Vales,
-  And COLIN'S voice rings through the woods from the fold.
-
+And COLIN'S voice rings through the woods from the fold.
 The Wood to the Mountain submissively bends,
-  Whose blue misty summits first glow with the sun!
+Whose blue misty summits first glow with the sun!
 See thence a gay train by the wild rill descends
-  To join the glad sports:... hark! the tumult's begun.
-
+To join the glad sports:... hark! the tumult's begun.
 Be cloudless, ye skies!... Be my Colin but there,
-  Not the dew-spangled bents on the wide level Dale,
+Not the dew-spangled bents on the wide level Dale,
 Nor Morning's first blush can more lovely appear
-  Than his looks, since my wishes I could not conceal.
-
+Than his looks, since my wishes I could not conceal.
 Swift down the mad dance, while blest health prompts to move,
-  We'll count joys to come, and exchange Vows of truth;
+We'll count joys to come, and exchange Vows of truth;
 And haply when Age cools the transports of Love,
-  Decry, like good folks, the vain pleasures of youth.
-
+Decry, like good folks, the vain pleasures of youth.
 No, no; the remembrance shall ever be dear!
-  At no time LOVE with INNOCENCE ceases to charm:
+At no time LOVE with INNOCENCE ceases to charm:
 It is transport in Youth ... and it smiles through the tear,
-  When they feel, in their children, its first soft alarm.
-
+When they feel, in their children, its first soft alarm.
 The Writer of this Preface doubts whether he has been successful in adding
 the last Stanza to this beautiful and simply expressive song. But he
 imagin'd that some thought of this kind was in the mind of the Author: and
@@ -339,21 +222,18 @@ Passions into habitual Affections yet more tender; and raises from those
 Affections _Virtues_ the most permanent, the most necessary and
 beneficent, and the most endearing: thus expanding the sentiment into all
 the Charities of domestic and social Life.
-
 "I remember," says Mr. G. BLOOMFIELD, continuing his Narrative, "a little
 piece which he called the Sailor's Return: [Footnote: It is much to be
 wished that this may be discovered. L.] in which he tried to describe the
 feelings of an honest _Tar_, who, after a long absence, saw his dear
 native Village first rising into view. This too obtain'd a place in the
 Poet's Corner."
-
 "And as he was so young," his brother proceeds, "it shews some Genius in
 him, and some Industry, to have acquir'd so much knowledge of the use of
 words in so little time. Indeed at this time myself and my fellow workmen
 in the Garret began to get instructions from him, though not more than
 sixteen years old."  [Footnote: What simple magnanimity and benevolence in
 this Remark. L.]
-
 "About this time there came a Man to lodge at our Lodgings that was
 troubled with fits. ROBERT was so much hurt to see this poor creature
 drawn into such frightful forms, and to hear his horrid screams, that I
@@ -365,12 +245,9 @@ value: such as the SEASONS, PARADISE LOST, and some _Novels_. These Books
 he lent to ROBERT; who spent all his leisure hours in reading the
 _Seasons_, which he was now capable of reading. I never heard him give so
 much praise to any Book as to that."
-
 "I think it was in the year 1784 that the Question came to be decided
 between the _journeymen Shoemakers_; whether those who had learn'd without
 serving an _Apprenticeship_ could follow the Trade."
-
-[Footnote: That is _as journeymen_: for there was no question that they
 could not as _Masters_ on their _own_ account. That a person may work as a
 _journeyman_ without having served an apprenticeship, had already been
 determined, T. 9. G. 3. _Beach v. Turner_. Burr. Mansf. 2449. A person
@@ -379,20 +256,17 @@ money, or advice and attention to the accounts and general concerns of the
 Trade, provided that he does not actually exercise the Trade, and that the
 acting partner has served. Vide _Reynolds_ v. _Chase_, M. 30. G. 2. Burr.
 Mansf. 2. 1 Burn. J.P. Apprent. Sec. 12. L.]
-
 "The Man by whom _Robert_ and I were employ'd, Mr. Chamberlayne, of
 _Cheapside_, took an active part against the lawful journeymen; and even
 went so far as to pay off every man that worked for him that had joined
 their Clubs. This so exasperated the men, that their acting Committee soon
 looked for _unlawful men_ (as they called them) among _Chamberlayne's_
 workmen."
-
 They found out little _Robert_, and threatened to prosecute _Chamlerlayne_
 for employing him, and to prosecute his Brother, Mr. _G. Bloomfield_, for
 teaching him. Chamberlayne requested of the Brother to go on and bring it
 to a Trial; for that he would defend it; and that neither _George_ nor
 _Robert_ should be hurt.
-
 In the mean time _George_ was much insulted for having refus'd to join
 upon this occasion those who call'd themselves, exclusively, the _Lawful
 Crafts_. _George_, who says he was never famed for patience, (it is not
@@ -403,46 +277,37 @@ of very bad character). In this, after stating that he took _Robert_ at
 his Mother's request, he made free as well with the private character of
 this man as with the views of the Committee. "This," says _George_, "was
 very foolish; for it made things worse: but I felt too much to refrain."
-
 What connects this episodical circumstance with the character of our
 Author follows in his brother's words.
-
 "_Robert_ naturally fond of Peace, and fearful for my personal safety,
 begg'd to be suffer'd to retire from the storm."
-
 "He came home; and Mr. AUSTIN kindly bade him take his house for his home
 till he could return to me. And here, with his mind glowing with the fine
 Descriptions of rural scenery which he found in THOMSON'S SEASONS, he
 again retrac'd the very fields where first he began to think. Here, free
 from the smoke,[Footnote: But one word is altered in this Description;
 which reminds one of the
-  _Omitte mirari beatae
-  Fumum et opes_ Strepitumque Romae.  L.]
+_Omitte mirari beatae
+Fumum et opes_ Strepitumque Romae.  L.]
 the noise, the contention of the city, he imbibed that Love of rural
 Simplicity and rural Innocence, which fitted him, in a great degree, to be
 the writer of such a thing as the _Farmer's Boy_."
-
 "Here he liv'd two Months:... at length, as the dispute in the trade
 still remain'd undecided, Mr. DUDBRIDGE offer'd to take _Robert_
 Apprentice, to secure him, at all events, from any consequences of the
 Litigation."
-
 He was bound by Mr. _Ingram_, of _Bell-alley_, to Mr. _John Dudbridge_.
 His Brother _George_ paid five shillings for _Robert_, by way of form, as
 a premium. Dudbridge was their Landlord, and a _Freeman_ of the _City_ of
 _London_. He acted most honourably, and took no advantage of the power
 which the Indentures gave him. _George Bloomfield_ staid with _Robert_
 till he found he could work as expertly as his self.
-
 Mr. GEORGE BLOOMFIELD adds, "When I left London he was turned of eighteen;
-[Footnote: This should seem to require correction by setting the Age
 forward according to the Dates above stated. C.L.] and much of my
 happiness since has arisen from a constant correspondence which I have
 held with him."
-
 "After I left him, he studied _Music_, and was a good player on the
 _Violin_."
-
 "But as my Brother _Nat_ had married a _Woolwich_ woman, it happen'd that
 _Robert_ took a fancy to MARY-ANNE CHURCH, a comely young woman of that
 town, whose Father is a boat-builder in the Government yard there. He
@@ -454,14 +319,11 @@ ready furnished Lodgings. At length, by hard working, &c. he acquired a
 Bed of his own, and hired the room up one pair of stairs at 14,
 _Bell-alley, Coleman-street_. The Landlord kindly gave him leave to sit
 and work in the light _Garret_, two pair of stairs higher."
-
 "In _this_ Garret, amid six or seven other workmen, his active Mind
 employ'd itself in composing _the Farmer's Boy_."
-
 "In my correspondence I have seen several _poetical_ effusions of his; all
 of them of a good moral tendency; but which he very likely would think do
 him little credit: on that account I have not preserv'd them."
-
 "ROBERT is a _Ladies Shoemaker_, and works for DAVIES, _Lombard-street_.
 He is of a slender make; of about 5 F. 4 I. high; very _dark_
 complexion.... His MOTHER, who is a very religions member of the _Church
@@ -475,7 +337,6 @@ Corrected from the above Date, p. vi, to his present Age, May 1800. C. L.]
 and has three Children;" two Daughters and a Son.[Footnote: Added from the
 information of Mr. R. BLOOMFIELD. _Hannah_, born 25 _Oct_. 1791. _Mary
 Anne_, 6 _Sept_. 1793. _Charles_, 15 _Sept_. 1798.]
-
 Mr. GEORGE BLOOMFIELD concludes this clear, affectionate, and interesting
 Narrative, by a very kind Address to the Writer of this Preface. But,
 pleas'd as I am with the good opinion of a Man like him, I must not take
@@ -483,20 +344,15 @@ praise to myself for not having neglected or suppress'd such a Work when
 it came into my hands. And I have no farther merit than that of seeing
 what it was impossible for an unprejudiced Mind not to see, and of doing
 what it was impossible not to do.
-
 But I join with him cordially in his prayer, "that GOD, _the Giver of
 thought_, may, as mental light spreads, raise up many who will turn a
 listening ear, and will not despise
-
-  "_The short and simple annals of the Poor_."
-
+"_The short and simple annals of the Poor_."
 Very few words will complete what remains to be added.
-
 Struck with the Work, but not less struck with the remark, which is become
 a proverb, of the Roman Satirist, that "_it is not easy_
-[Footnote:
-  Haud facile emergunt quorum virtutibus obstat
-  Res angusta domi.]
+Haud facile emergunt quorum virtutibus obstat
+Res angusta domi.]
 for those to emerge to notice whose circumstances obscure the observation
 of their Merits," I sent it to a Friend,[Footnote: This Friend, THOMAS
 HILL, Esq. I hope will forgive my mentioning him without asking his
@@ -508,7 +364,6 @@ adopted it upon terms honorable to themselves, and satisfactory to the
 Author, and to me in his behalf. They have publish'd it in a manner which
 speaks abundantly for itself; both as to the typographical accuracy and
 beauty, and the good taste and execution of the Ornaments in Wood.
-
 My part has been this, and it has been a very pleasing one: to revise the
 MS. making occasionally corrections with respect to Orthography, and
 sometimes in the grammatical construction. The corrections, in point of
@@ -520,14 +375,11 @@ plural for the singular termination of verbs, so as to exclude the _s_.
 But not a line is added or substantially alter'd through the whole poem. I
 have requested the MS. to be preserv'd for the satisfaction of those who
 may wish to be satisfied on this head.
-
 The _Proofs_ have gone through my hands. It has been printed slowly:
 because most carefully: as it deserv'd to be printed.
-
 I have no doubt of its Reception with the Public: I have none of its going
 down to Posterity with honor; which is not always the Fate of productions
 which are popular in their day.
-
 Thus much I know:... that the Author, with a spirit amiable at all times,
 and which would have been rever'd by Antiquity, seems far less interested
 concerning any Fame or Advantage he may derive from it to himself, than in
@@ -535,19 +387,11 @@ the pleasure of giving a printed Copy of it, as a tribute of duty and
 affection, to his MOTHER; in whose pleasure, if it succeeds, his filial
 heart places the gratification of which it is most desirous. It is much to
 be a POET, such as he will be found:... it is more to be such a MAN.
-
-CAPEL LOFFT.
-
 TROSTON, n. BURY, SUFFOLK.
-
-12 Dec. 1799.
-
-
 ELIZABETH MANBY, the Mother of the Author of this POEM, was sister to
 the wife of Mr. WILLIAM AUSTIN. I had written to Mr. GEORGE BLOOMFIELD to
 request the name, before Marriage, of his Mother. This gain'd me an
 Answer, which I have great pleasure in adding.
-
 "The late Mr. AUSTIN'S wife was a Manby (my Mother's sister). And it may
 seem strange that, in the FARMER'S BOY, _Giles_ no where calls him
 _Uncle_, but _Master_.... The treatment that my Brother _Robert_
@@ -565,10 +409,6 @@ tears when he was buried. He was beloved by all who knew him. But I
 imagine _Robert_ thought that when he was speaking of Benevolence that was
 universal, he had no occasion to mention the accidental circumstance of
 his being related to the Good Man of whom he sung."
-
-
-SUPPLEMENT
-
 I have mention'd in the Preface "THE SAILOR'S RETURN", from an intimation
 by Mr. G. BLOOMFIELD. From the Author himself, Mr. ROBERT BLOOMFIELD, I am
 oblig'd with what part he can recollect of this SONG, which I was desirous
@@ -577,24 +417,18 @@ FRANCE. Probably some time in the _Spring_ of 1784. The Author thinks the
 Title of it was "THE SOLDIER'S RETURN," and that it was occasion'd by the
 arrival of some Regiments of British Soldiers from remote parts of the
 Globe.
-
 He says, "I have endeavour'd to bring it back to my mind: but can only
 remember the following; which is not the beginning nor the finish."
-
-  Round LYBIA'S south point, where from toils so late freed,
-  Sweet Hope cheer'd my soul as we clear'd the rough sea;
-  I strove midst the Tars to improve the ship's speed;
-  Nor thought I of aught but ANNA and THEE.
-
-  Here comes the dear Girl! comes with kind arms extended
-  To welcome me!... limbs numb'd with age fain would move.
-  My cheek feels the offspring of rapture warm blended,
-  With answering drops:... this the meed of chaste Love!
-
-  Rouse the Fire--
-
-       *       *       *       *       *
-
+Round LYBIA'S south point, where from toils so late freed,
+Sweet Hope cheer'd my soul as we clear'd the rough sea;
+I strove midst the Tars to improve the ship's speed;
+Nor thought I of aught but ANNA and THEE.
+Here comes the dear Girl! comes with kind arms extended
+To welcome me!... limbs numb'd with age fain would move.
+My cheek feels the offspring of rapture warm blended,
+With answering drops:... this the meed of chaste Love!
+Rouse the Fire--
+*       *       *       *       *
 I think every Reader will be of opinion that it is indeed desirable the
 whole Song, of which this is a Fragment, should be recover'd. It will
 probably be found (according to the recollection of the Author) either in
@@ -603,14 +437,11 @@ and some I have since had the pleasure to see in MS. Mr. BLOOMFIELD
 appears fully to possess the simple, yet elegant, pathetic, and animated
 flow of Composition, the sweetness of Diction, Thought, and Numbers, which
 the SONG or BALLAD in their best character require.
-
 I now quote a little Fragment in _blank verse_ from the same Letter: with
 a slight correction in a place or two where the distribution or mechanism
 of the lines was not exact.
-
 SUBJECT. _An Harvest Scene: describing Gleaners return'd from the Field_.
-
-  --Welcome the Cot's
+--Welcome the Cot's
 Warm walls!... thrice welcome Rest, by toil endear'd;
 Each hard bed softening, healing every care.
 Sleep on, ye gentle souls ...
@@ -619,26 +450,21 @@ Or if bereft of all with pain acquir'd,
 Your fall, with theirs compar'd who sink from affluence,
 With hands unus'd to toil, and minds unus'd
 To bend, how little felt! how soon repair'd!
-
 The ear of the Author seems as sweetly attun'd to verse without as with
 Rhime: though his less practice has given him proportionally less
 exactness.
-
 It reminds one of the simple, tender, and flowing melody of the blank
 verse of ROWE: or of some of the affecting passages in the _Paradise
 Regain'd_ of MILTON.
-
 Sweetness, pastoral Content, the innocent and benevolent heart "_with a
 little pleas'd,_" breathe indeed through the Poems, and in the manners and
 conversation, of the Author of THE FARMER'S BOY.
-
 When the _Spirit_ of CHRISTIANITY declares "_blessed are the meek,_" every
 heart which considers what meekness is, feels the truth of that
 blessedness. It may smooth the way, and prevent impediments, which a
 different temper raises to temporal felicity: it certainly assures that
 Heaven which is _within_: and is a pledge and anticipation of the Heaven
 hereafter.
-
 It is pleasing to think on a remark of Mr. GEO. BLOOMFIELD concerning his
 Brother when he first went to LONDON. "I have him in my mind's eye a
 little Boy; not bigger than Boys generally are at twelve years old. When I
@@ -649,11 +475,9 @@ slip'd up ... his nails were unus'd to a flat pavement. I remember viewing
 him as he scamper'd up ... how small he was. Little thought, that little
 fatherless Boy would be one day known and esteem'd by the most learned,
 the most respected, the wisest and the best men of the Kingdom."
-
 The brotherly overflowing of the heart in this passage I felt when I read
 the Letter (dated 27 _March_ last), and cannot deny to others the pleasure
 of feeling it.
-
 And those who have shewn themselves the FRIENDS of the FARMER'S BOY must
 excuse me if I mention some of them whose liberal and zealous attention
 had excited those feelings in the heart of his Brother, and have fill'd
@@ -671,7 +495,6 @@ the honorable function of a kind of LITERARY JURY. The Names who have
 given this testimony of their high esteem to the character of Mr.
 BLOOMFIELD, and of the pleasure they have received from the perusal of his
 Poem, are:
-
 THOMAS SHERLOCKE GOOCH, Esq.
 Major POCKLINGTON,
 Dr. GIBBONS, M.D.
@@ -683,8 +506,6 @@ GEO. ARCHER, Esq.
 J. MILLS, Esq.
 Mrs. TRAIL,
 Mrs. LEAKE,
-NATHAN DRAKE, M.D.
-
 I have transcribed the names in the order in which they were transmitted
 to me. With a large proportion of those who have thus stood forth the
 Friends of Genius and Worth I have the pleasure of being acquainted. It
@@ -697,7 +518,6 @@ different quarters. Those, as the separate act of individuals, I have not
 particularized otherwise than by this general acknowledgment: though many
 such have been mention'd to me by the Author. This, as a collective act, I
 hope I may be allow'd the gratification of thus noticing.
-
 Sir CHARLES BUNBURY has warmly expressed his approbation of the Poem; as
 not only excellent for a Farmer's Boy, but such as would do honour to any
 person, whatever his education: and he also has much contributed to make
@@ -724,7 +544,6 @@ tenderness of the sentiments are to be equally admired." Were I to name
 all the Friends and Admirers of the POEM and of the simple and amiable
 manners and character of the AUTHOR, I should name, I believe, nearly
 every person in this Island whom I respect, esteem, and admire.
-
 It would be highly gratifying to me could I now transcribe those
 testimonies to which I have generally referr'd:... but I abstain here
 from this: and the rather, as I believe Mr. DYER will probably soon
@@ -733,7 +552,6 @@ Dr. DRAKE, I know, has been so struck with it as to intend to appropriate
 to an investigation of its peculiar merit the concluding part of an
 enlarg'd Edition of his LITERARY HOURS.[Footnote: This has been since
 excellently perform'd by him. See the APPENDIX.]
-
 The mention already made of the FARMER'S BOY in the NEW LONDON REVIEW and
 in the MONTHLY MIRROR I have seen with pleasure. I rejoice in that Fame
 which is just to living Merit, and waits not for the Tomb to present the
@@ -742,7 +560,6 @@ of his Genius, but of his pure, benevolent, amiable Virtue, his
 affectionate Veneration to the DEITY, and his good Will to all....
 Obscurity and Adversity have not broken; Fame and Prosperity, I am
 persuaded, will not corrupt him.
-
 I cannot deny myself the satisfaction of mentioning that, after an absence
 of twelve years, the Author of the Farmer's Boy has revisited his native
 Plains. That he has seen his Mother in health and spirits: seen her with a
@@ -763,31 +580,20 @@ shall be so, will support fully and extend the Fame he has acquir'd.
 Though I have spent, occasionally, much of my life among persons worthy of
 Admiration and of Esteem, I can recollect few days so interesting and so
 valuable to me as these.
-
-C.L.
-
 TROSTON, 25 May, 1800.
-
 What I have said in prose, p. ix of this Preface, is charmingly expressed
 in the language of the Muses by Mr. COLLIER, in his Miscellaneous Poems
 lately publish'd.
-
 O where on earth can he a pleasure find
-  Whose heart th' extatic sweets of Love has known,
+Whose heart th' extatic sweets of Love has known,
 When in the jarring chaos of his mind
-  The gentle God no longer holds his throne!
-
-
-
-ON REVISITING THE PLACE OF MY NATIVITY.
-
+The gentle God no longer holds his throne!
 Though Winter's frowns had damp'd the beaming eye,
 Through Twelve successive Summers heav'd the sigh,
 The unaccomplish'd wish was still the same;
 Till May in new and sudden glories came!
 My heart was rous'd; and Fancy on the wing,
 Thus heard the language of enchanting Spring:--
-
 'Come to thy native groves and fruitful fields!
 Thou know'st the fragrance that the wild-flow'r yields;
 Inhale the Breeze that bends the purple bud,
@@ -800,7 +606,6 @@ Ere Philomel shall silent meet the morn;
 She hails the green, but not the rip'ning corn.
 Come, ere the pastures lose their yellow flow'rs:
 Come now; with heart as jocund as the hours.'
-
 Who could resist the call?--that, Giles had done,
 Nor heard the Birds, nor seen the rising Sun;
 Had not Benevolence, with cheering ray,
@@ -825,29 +630,9 @@ The early chorus of the cheerful Grove,
 Gave point to Gratitude; and fire to Love.
 O Memory! shield me from the World's poor strife;
 And give those scenes thine everlasting life!
-
-ROB. BLOOMFIELD.
-
-LONDON, MAY 30, 1800.
-
-
-
-SPRING.
-
-ARGUMENT.
-
 _Invocation, &c. Seed time. Harrowing. Morning walks. Milking. The Dairy.
 Suffolk Cheese. Spring coming forth. Sheep fond of changing. Lambs at
 play. The Butcher, &c._
-
-[Illustration]
-
-
-
-    SPRING
-
-I.
-
 O come, blest Spirit! whatsoe'er thou art,
 Thou rushing warmth that hover'st round my heart,
 Sweet inmate, hail! thou source of sterling joy,
@@ -866,7 +651,6 @@ And lead my soul to ecstasies of praise
 For all the blessings of my infant days!
 Bear me through regions where gay Fancy dwells;
 But mould to Truth's fair form what Memory tells.
-
 Live, trifling incidents, and grace my song,
 That to the humblest menial belong:
 To him whose drudgery unheeded goes,
@@ -885,7 +669,6 @@ And, as revolving SEASONS chang'd the scene
 From heat to cold, tempestuous to serene,
 Though every change still varied his employ,
 Yet each new duty brought its share of joy.
-
 Where noble GRAFTON spreads his rich domains,
 Round _Euston's_ water'd vale, and sloping plains,
 Where woods and groves in solemn grandeur rise,
@@ -906,7 +689,6 @@ And fourscore ewes he fed, a sturdy team,
 And lowing kine that grazed beside the stream:
 Unceasing industry he kept in view;
 And never lack'd a job for Giles to do.
-
 FLED now the sullen murmurs of the North,
 The splendid raiment of the SPRING peeps forth;
 Her universal green, and the clear sky,
@@ -949,9 +731,6 @@ The work is done; no more to man is given;
 The grateful farmer trusts the rest to Heaven.
 Yet oft with anxious heart he looks around,
 And marks the first green blade that breaks the ground;
-
-[Illustration: a gate]
-
 In fancy sees his trembling oats uprun,
 His tufted barley yellow with the sun;
 Sees clouds propitious shed their timely store,
@@ -978,7 +757,6 @@ In the mid air, while circling round and round,
 They call their lifeless comrades from the ground;
 With quick'ning wing, and notes of loud alarm,
 Warn the whole flock to shun the' impending harm.
-
 This task had _Giles_, in fields remote from home:
 Oft has he wish'd the rosy morn to come.
 Yet never fam'd was he nor foremost found
@@ -1017,7 +795,6 @@ To shun whose thefts 'twas Giles's evening care,
 His feather'd victims to suspend in air,
 High on the bough that nodded o'er his head,
 And thus each morn to strew the field with dead.
-
 His simple errand done, he homeward hies;
 Another instantly its place supplies.
 The clatt'ring dairy-maid immers'd in steam,
@@ -1062,9 +839,6 @@ A mottled ensign of his harmless trade,
 An unambitious, peaceable cockade.
 As unambitious too that cheerful aid
 The mistress yields beside her rosy maid;
-
-[Illustration: maid with a cow]
-
 With joy she views her plenteous reeking store,
 And bears a brimmer to the dairy door;
 Her cows dismiss'd, the luscious mead to roam,
@@ -1089,7 +863,6 @@ Or down his path in expectation stand,
 With equal claims upon his strewing hand.
 Thus wastes the morn, till each with pleasure sees
 The bustle o'er, and press'd the new-made cheese.
-
 Unrivall'd stands thy country CHEESE, O _Giles!_
 Whose very name alone engenders smiles;
 Whose fame abroad by every tongue is spoke,
@@ -1102,9 +875,6 @@ Her pouring thousands stows in breathless rooms,
 Midst pois'nous smokes and steams, and rattling looms;
 Where Grandeur revels in unbounded stores;
 Restraint, a slighted stranger at their doors!
-
-[Illustration: man pouring feed into a trough]
-
 Thou, like a whirlpool, drain'st the countries round,
 Till London market, London price, resound
 Through every town, round every passing load,
@@ -1131,7 +901,6 @@ Was your rich milk to suffer wrongs like these,
 Farewell your pride! farewell renowned cheese!
 The skimmer dread, whose ravages alone
 Thus turn the mead's sweet nectar into stone.
-
 NEGLECTED now the early _daisy_ lies:
 Nor thou, pale _primrose_, bloom'st the only prize:
 Advancing SPRING profusely spreads abroad
@@ -1148,7 +917,6 @@ On airy downs the shepherd idling lies,
 And sees to-morrow in the marbled skies.
 Here then, my soul, thy darling theme pursue,
 For every day was Giles a SHEPHERD too.
-
 Small was his charge: no wilds had they to roam;
 But bright enclosures circling round their home.
 Nor yellow-blossom'd furze, nor stubborn thorn,
@@ -1173,7 +941,6 @@ Where blows the woodbine, faintly streak'd with red,
 And rests on every bough its tender head;
 Round the young ash its twining branches meet,
 Or crown the hawthorn with its odours sweet.
-
 Say, ye that know, ye who have felt and seen,
 _Spring's_ morning smiles, and soul-enliv'ning green,
 Say, did you give the thrilling transport way?
@@ -1186,7 +953,6 @@ If spotless innocence, and infant mirth,
 Excites to praise, or gives reflection birth;
 In shades like these pursue your fav'rite joy,
 Midst Nature's revels, sports that never cloy.
-
 A few begin a short but vigorous race,
 And indolence abash'd soon flies the place;
 Thus challeng'd forth, see thither one by one,
@@ -1219,33 +985,15 @@ His gay companions _Giles_ beholds no more;
 Clos'd are their eyes, their fleeces drench'd in gore;
 Nor can Compassion, with her softest notes,
 Withhold the knife that plunges through their throats.
-
 Down, indignation! hence, ideas foul!
 Away the shocking image from my soul!
 Let kindlier visitants attend my way,
 Beneath approaching _Summer's_ fervid ray;
 Nor thankless glooms obtrude, nor cares annoy,
 Whilst the sweet theme is _universal joy_.
-
-
-
-SUMMER.
-
-ARGUMENT.
-
 _Turnip sowing. Wheat ripening. Sparrows. Insects. The sky-lark. Reaping,
 &c. Harvest-field, Dairy-maid, &c. Labours of the barn. The gander. Night;
 a thunder storm. Harvest-home. Reflections, &c._
-
-
-[Illustration]
-
-
-
-    SUMMER.
-
-II.
-
 THE FARMER'S life displays in every part
 A moral lesson to the sensual heart.
 Though in the lap of Plenty, thoughtful still,
@@ -1296,7 +1044,6 @@ Down with a touch the mellow'd soil is laid,
 And yon tall crop next claims his timely aid;
 Thither well pleas'd he hies, assur'd to find
 Wild trackless haunts, and objects to his mind.
-
 Shot up from broad rank blades that droop below,
 The nodding WHEAT-EAR forms a graceful bow,
 With milky kernels starting full, weigh'd down,
@@ -1311,9 +1058,6 @@ On either side completely overspread,
 Here branches bend, there corn o'ertops his head.
 Green covert, hail! for through the varying year
 No hours so sweet, no scene to him so dear.
-
-[Illustration]
-
 Here _Wisdom's_ placid eye delighted sees
 His frequent intervals of lonely ease,
 And with one ray his infant soul inspires,
@@ -1350,9 +1094,6 @@ Yet oft beneath a cloud she sweeps along,
 Lost for awhile, yet pours her varied song:
 He views the spot, and as the cloud moves by,
 Again she stretches up the clear blue sky;
-
- [Illustration]
-
 Her form, her motion, undistinguish'd quite,
 Save when she wheels direct from shade to light:
 The flutt'ring songstress a mere speck became,
@@ -1365,7 +1106,6 @@ Peace o'er his slumbers waves her guardian wing,
 Nor conscience once disturbs him with a sting;
 He wakes refresh'd from every trivial pain,
 And takes his pole and brushes round again.
-
 Its dark-green hue, its sicklier tints all fail,
 And rip'ening harvest rustles in the gale.
 A glorious sight, if glory dwells below,
@@ -1384,21 +1124,16 @@ Whilst here, the veriest clown that treads the sod,
 Without one scruple gives the praise to GOD;
 And twofold joys possess his raptur'd mind,
 From gratitude and admiration join'd.
-
 Here, midst the boldest triumphs of her worth,
 NATURE herself invites the REAPERS forth;
 Dares the keen sickle from its twelvemonth's rest,
 And gives that ardour which in every breast
 From infancy to age alike appears,
 When the first sheaf its plumy top uprears.
-
-[Illustration]
-
 No rake takes here what Heaven to all bestows--
 Children of want, for you the bounty flows!
 And every cottage from the plenteous store
 Receives a burden nightly at its door.
-
 Hark! where the sweeping scythe now rips along:
 Each sturdy Mower emulous and strong;
 Whose writhing form meridian heat defies,
@@ -1427,14 +1162,10 @@ Whilst unrestrain'd the social converse flows,
 And every breast Love's powerful impulse knows,
 And rival wits with more than rustic grace
 Confess the presence of a pretty face.
-
 For, lo! encircled there, the lovely MAID,
 In youth's own bloom and native smiles array'd;
 Her hat awry, divested of her gown,
 Her creaking stays of leather, stout and brown;...
-
-[Illustration]
-
 Invidious barrier! why art thou so high,
 When the slight covering of her neck slips by,
 There half revealing to the eager sight
@@ -1443,7 +1174,6 @@ In many a local tale of harmless mirth,
 And many a jest of momentary birth,
 She bears a part, and as she stops to speak,
 Strokes back the ringlets from her glowing cheek.
-
 Now noon gone by, and four declining hours,
 The weary limbs relax their boasted pow'rs;
 Thirst rages strong, the fainting spirits fail,
@@ -1456,7 +1186,6 @@ To _Mary_ first the brimming draught is given
 By toil made welcome as the dews of heaven,
 And never lip that press'd its homely edge
 Had kinder blessings or a heartier pledge.
-
 Of wholesome viands here a banquet smiles,
 A common cheer for all;... e'en humble _Giles_,
 Who joys his trivial services to yield
@@ -1469,7 +1198,6 @@ Where, in his path as heaps on heaps are thrown,
 He rears, and plunges the loose mountain down:
 Laborious task! with what delight when done
 Both horse and rider greet th' unclouded sun!
-
 Yet by th' unclouded sun are hourly bred
 The bold assailants that surround thine head,
 Poor patient _Ball!_ and with insulting wing
@@ -1490,7 +1218,6 @@ Pen'd in the yard, e'en now at closing day
 Unruly _Cows_ with mark'd impatience stay,
 And vainly striving to escape their foes,
 The pail kick down; a piteous current flows.
-
 Is't not enough that plagues like these molest?
 Must still another foe annoy their rest?
 He comes, the pest and terror of the yard,
@@ -1519,7 +1246,6 @@ Gently he stoops, or strecht at ease along,
 Enjoys the insults of the gabbling throng,
 That march exulting round his fallen head,
 As human victors trample on their dead.
-
 Still TWILIGHT, welcome! Rest, how sweet art thou!
 Now eve o'erhangs the western cloud's thick brow:
 The far-stretch'd curtain of retiring light,
@@ -1528,7 +1254,6 @@ Flash from its bulging sides, where darkness lours,
 In Fancy's eye, a chain of mould'ring tow'rs;
 Or craggy coasts just rising into view,
 Midst jav'lins dire, and darts of streaming blue.
-
 Anon tir'd labourers bless their shelt'ring home,
 When MIDNIGHT, and the frightful TEMPEST come.
 The Farmer wakes, and sees with silent dread
@@ -1545,7 +1270,6 @@ With tenfold danger low the tempest bends,
 And quick and strong the sulph'urous flame descends:
 The fright'ned mastiff from his kennel flies,
 And cringes at the door with piteous cries....
-
 Where now's the trifler? where the child of pride?
 These are the moments when the heart is try'd!
 Nor lives the man with conscience e'er so clear,
@@ -1556,7 +1280,6 @@ Still, welcome beats the long continued show'r,
 And sleep protracted, comes with double pow'r;
 Calm dreams of bliss bring on the morning sun,
 For every barn is fill'd, and HARVEST _done_!
-
 Now, ere sweet SUMMER bids its long adieu,
 And winds blow keen where late the blossom grew,
 The bustling day and jovial night must come,
@@ -1569,7 +1292,6 @@ And where the joy, if rightly understood,
 Like cheerful praise for universal good?
 The soul nor check nor doubtful anguish knows,
 But free and pure the grateful current flows.
-
 Behold the sound oak table's massy frame
 Bestride the kitchen floor! the careful dame
 And gen'rous host invite their friends around,
@@ -1578,7 +1300,6 @@ Are guests by right of custom:... old and young;
 And many a neighbouring yeoman join the throng,
 With artizans that lent their dext'rous aid,
 When o'er each field the flaming sun-beams play'd,--
-
 Yet Plenty reigns, and from her boundless hoard,
 Though not one jelly trembles on the board,
 Supplies the feast with all that sense can crave;
@@ -1595,7 +1316,6 @@ Here, fresh and brown, the hazel's produce lies
 In tempting heaps, and peals of laughter rise,
 And crackling Music, with the frequent _Song_,
 Unheeded bear the midnight hour along.
-
 Here once a year Distinction low'rs its crest,
 The master, servant, and the merry guest,
 Are equal all; and round the happy ring
@@ -1606,7 +1326,6 @@ Refills the jug his honour'd host to tend,
 To serve at once the master and the friend;
 Proud thus to meet his smiles, to share his tale,
 His nuts, his conversation, and his ale.
-
 Such were the days, ... of days long past I sing,
 When Pride gave place to mirth without a sting;
 Ere tyrant customs strength sufficient bore
@@ -1619,7 +1338,6 @@ Destroys life's intercourse; the social plan
 That rank to rank cements, as man to man:
 Wealth flows around him, fashion lordly reigns;
 Yet poverty is his, and mental pains.
-
 Methinks I hear the mourner thus impart
 The stifled murmurs of his wounded heart:
 'Whence comes this change, ungracious, irksome, cold?
@@ -1676,35 +1394,15 @@ The stifled murmurs of his wounded heart:
 'From chilling want and guilty murmurs free:
 'Let labour have its due;... then peace is mine,
 'And never, never shall my heart repine.'
-
-
-
-
-AUTUMN.
-
-ARGUMENT.
-
 _Acorns. Hogs in the wood. Wheat-sowing. The Church. Village girls.
 The mad girl. The bird-boy's hut. Disappointments; reflections, &c.
 Euston-hall. Fox-hunting. Old Trouncer. Long nights. A welcome to Winter._
-
-
-[Illustration]
-
-
-
-    AUTUMN.
-
-
-III.
-
 Again, the year's _decline_, midst storms and floods,
 The thund'ring chase, the yellow fading woods,
 Invite my song; that fain would boldly tell
 Of upland coverts, and the echoing dell,
 By turns resounding loud, at eve and morn
 The swineherd's halloo, or the huntsman's horn.
-
 No more the fields with scatter'd grain supply
 The restless wand'ring tenants of the STY;
 From oak to oak they run with eager haste,
@@ -1749,7 +1447,6 @@ In vain may _Giles_, thro' gath'ring glooms that fall,
 And solemn silence, urge his piercing call:
 Whole days and nights they tarry midst their store,
 Nor quit the woods till oaks can yield no more.
-
 Beyond bleak _Winter's_ rage, beyond the _Spring_
 That rolling Earth's unvarying course will bring,
 Who tills the ground looks on with mental eye,
@@ -1776,7 +1473,6 @@ And knows no leisure; till the distant chime
 Of Sabbath bells he hears at sermon time,
 That down the brook sound sweetly in the gale,
 Or strike the rising hill, or skim the dale.
-
 Nor his alone the sweets of ease to taste:
 Kind rest extends to all;... save one poor beast,
 That true to time and pace, is doom'd to plod,
@@ -1789,7 +1485,6 @@ O'er whose low cells the dock and mallow spread,
 And rampant nettles lift the spiry head,
 Whilst from the hollows of the tower on high
 The grey-cap'd daws in saucy legions fly.
-
 Round these lone walls assembling neighbours meet,
 And tread departed friends beneath their feet;
 And new-brier'd graves, that prompt the secret sigh,
@@ -1810,7 +1505,6 @@ For love's their errand: hence the tints that glow
 On either cheek, an heighten'd lustre know:
 When, conscious of their charms, e'en Age looks sly,
 And rapture beams from Youth's observant eye.
-
 THE PRIDE of such a party, Nature's pride,
 Was lovely POLL;[Footnote: MARY RAYNER, of Ixworth Thorp.] who innocently
 try'd,
@@ -1838,9 +1532,6 @@ Her midnight meals in secresy she takes,
 Low mutt'ring to the moon, that rising breaks
 Through night's dark gloom:... oh how much more forlorn
 _Her_ night, that knows of no returning dawn!...
-
-[Illustration:]
-
 Slow from the threshold, once her infant seat,
 O'er the cold earth she crawls to her retreat;
 Quitting the cot's warm walls unhous'd to lie,
@@ -1871,7 +1562,6 @@ For ever of the proffer'd parley shy,
 She hears the' unwelcome foot advancing nigh;
 Nor quite unconscious of her wretched plight,
 Gives one sad look, and hurries out of sight....
-
 Fair promis'd sunbeams of terrestrial bliss,
 Health's gallant hopes,... and are ye sunk to this?
 For in life's road though thorns abundant grow,
@@ -1884,12 +1574,10 @@ _That_ love matur'd, next playful on the knee
 To press the velvet lip of infancy;
 To stay the tottering step, the features trace;...
 Inestimable sweets of social peace!
-
 O THOU, who bidst the vernal juices rise!
 Thou, on whose blasts autumnal foliage flies!
 Let Peace ne'er leave me, nor my heart grow cold,
 Whilst life and sanity are mine to hold.
-
 Shorn of their flow'rs that shed th' untreasur'd seed,
 The withering pasture, and the fading mead,
 Less tempting grown, diminish more and more,
@@ -1900,7 +1588,6 @@ Revives the languid chirp, and warms the blood
 Of cold-nipt weaklings of the latter brood,
 That from the shell just bursting into day,
 Through yard or pond pursue their vent'rous way.
-
 Far weightier cares and wider scenes expand;
 What devastation marks the new-sown land!
 "From hungry woodland foes go, _Giles_, and guard
@@ -1909,7 +1596,6 @@ A future sustenance, a Summer's pride,
 Demand thy vigilance: then be it try'd:
 Exert thy voice, and wield thy shotless gun:
 Go, tarry there from morn till setting sun."
-
 Keen blows the blast, or ceaseless rain descends;
 The half-stript hedge a sorry shelter lends.
 O for a HOVEL, e'er so small or low,
@@ -1918,9 +1604,6 @@ Might bring home's comforts fresh before his eyes!
 No sooner thought, than see the structure rise,
 In some sequester'd nook, embank'd around,
 Sods for its walls, and straw in burdens bound:
-
-[Illustration]
-
 Dried fuel hoarded is his richest store,
 And circling smoke obscures his little door;
 Whence creeping forth, to duty's call he yields,
@@ -1967,7 +1650,6 @@ Back to past joys in vain his thoughts may stray;
 Trace and retrace the beaten worn-out way,
 The rankling injury will pierce his breast,
 And curses on thee break his midnight rest.
-
 Bereft of song, and ever cheering green,
 The soft endearments of the Summer scene,
 New harmony pervades the solemn wood,
@@ -1984,7 +1666,6 @@ O'er slopes and lawns, the park's extensive pride,
 To where the victims of the chace reside,
 Ingulf'd in earth, in conscious safety warm,
 Till lo! a plot portends their coming harm.
-
 In earliest hours of dark unhooded morn,
 Ere yet one rosy cloud bespeaks the dawn,
 Whilst far abroad THE FOX pursues his prey,
@@ -2019,7 +1700,6 @@ Pursues in vain; where youth itself soon tires,
 Spite of the transports that the chace inspires;
 For who unmounted long can charm the eye,
 Or hear the music of the leading cry?
-
 Poor faithful TROUNCER! thou canst lead no more;
 All thy fatigues and all thy triumphs o'er!
 Triumphs of worth, whose honorary fame
@@ -2036,7 +1716,6 @@ Foremost o'er fen or level mead to pass,
 And sweep the show'ring dew-drops from the grass;
 Then bright emerging from the mist below
 To climb the woodland hill's exulting brow.
-
 Pride of thy race! with worth far less than thine,
 Full many human leaders daily shine!
 Less faith, less constancy, less gen'rous zeal!...
@@ -2051,8 +1730,6 @@ And though high deeds, and fair exalted praise,
 In memory liv'd, and flow'd in rustic lays,
 Short was the strain of monumental woe:
 "_Foxes, rejoice! here buried lies your foe.[A]_"
-[Footnote A: Inscribed on a stone in Euston Park wall.]
-
 In safety hous'd, throughout NIGHT'S _length'ning_ reign,
 The Cock sends forth a loud and piercing strain;
 More frequent, as the glooms of midnight flee,
@@ -2073,7 +1750,6 @@ Toils still each morn resum'd with double care,
 To meet the icy terrors of the year;
 To meet the threats of _Boreas_ undismay'd,
 And _Winter's_ gathering frowns and hoary head.
-
 THEN welcome, COLD; welcome, ye _snowy_ nights!
 Heaven midst your rage shall mingle pure delights,
 And confidence of hope the soul sustain,
@@ -2082,28 +1758,10 @@ Nor shall the child of poverty despair,
 But bless THE POWER that rules the _changing year_;
 Assur'd,... tho' horrors round his cottage reign,...
 That _Spring_ will come, and Nature smile again.
-
-
-
-WINTER.
-
-ARGUMENT.
-
 _Tenderness to cattle. Frozen turnips. The cow-yard. Night.
 The farm-house. Fire-side. Farmer's advice and instruction. Nightly cares
 of the stable. Dobbin. The post-horse. Sheep-stealing dogs. Walks
 occasioned thereby. The ghost. Lamb time. Returning Spring. Conclusion._
-
-
-[Illustration]
-
-
-
-    WINTER.
-
-
-IV.
-
 With kindred pleasures mov'd, and cares opprest,
 Sharing alike our weariness and rest;
 Who lives the daily partner of our hours,
@@ -2118,7 +1776,6 @@ Tender solicitude the bosom fills,
 And Pity executes what Reason wills:
 Youth learns compassion's tale from every tongue,
 And flies to aid the helpless and the young;
-
 When now, unsparing as the scourge of war,
 Blasts follow blasts, and groves dismantled roar,
 Around their home the storm-pinch'd CATTLE lows,
@@ -2145,14 +1802,12 @@ Till _Giles_ with pond'rous beetle foremost go,
 And scatt'ring splinters fly at every blow;
 When pressing round him, eager for the prize,
 From their mixt breath warm exhalations rise.
-
 If now in beaded rows drops deck the spray,
 While _Phoebus_ grants a momentary ray,
 Let but a cloud's broad shadow intervene,
 And stiffen'd into gems the drops are seen;
 And down the furrow'd oak's broad southern side
 Streams of dissolving rime no longer glide.
-
 THOUGH NIGHT approaching bids for rest prepare,
 Still the flail echoes through the frosty air,
 Nor stops till deepest shades of darkness come,
@@ -2167,12 +1822,8 @@ Where oft the swine from ambush warm and dry
 Bolt out, and scamper headlong to their sty,
 When _Giles_ with well-known voice, already there,
 Deigns them a portion of his evening care.
-
 _Him_, though the cold may pierce, and storms molest,
 Succeeding hours shall cheer with warmth and rest:
-
-[Illustration]
-
 Gladness to spread, and raise the grateful smile,
 He hurls the faggot bursting from the pile,
 And many a log and rifted trunk conveys,
@@ -2189,7 +1840,6 @@ Bade from its central base, capacious laid,
 The well-wrought chimney rear its lofty head;
 Where since hath many a savoury ham been stor'd,
 And tempests howl'd, and Christmas gambols roar'd.
-
 FLAT on the _hearth_ the glowing embers lie,
 And flames reflected dance in every eye:
 There the long billet, forc'd at last to bend,
@@ -2200,7 +1850,6 @@ Who sits joint tenant of the corner-stool,
 The converse sharing, though in duty's school;
 For now attentively 'tis his to hear
 Interrogations from the Master's chair.
-
 'LEFT ye your bleating charge, when daylight fled,
 'Near where the hay-stack lifts its snowy head?
 'Whose fence of bushy furze, so close and warm,
@@ -2239,7 +1888,6 @@ Interrogations from the Master's chair.
 'The ruthless whirlwinds rage along the sky,
 'Round his head whistling;... and shall thou repine,
 'While this protecting roof still shelters thine?'
-
 Mild, as the vernal show'r, his words prevail,
 And aid the moral precept of his tale:
 His wond'ring hearers learn, and ever keep
@@ -2252,12 +1900,10 @@ Warmth that long reigning bids the eyelids close,
 As through the blood its balmy influence goes,
 When the cheer'd heart forgets fatigues and cares,
 And drowsiness alone dominion bears.
-
 Sweet then the ploughman's slumbers, hale and young,
 When the last topic dies upon his tongue;
 Sweet then the bliss his transient dreams inspire,
 Till chilblains wake him, or the snapping fire:
-
 He starts, and ever thoughtful of his team,
 Along the glitt'ring snow a feeble gleam
 Shoots from his lantern, as he yawning goes
@@ -2274,7 +1920,6 @@ E'en sober _Dobbin_ lifts his clumsy heels
 And kicks, disdainful of the dirty wheels;
 But soon, his frolic ended, yields again
 To trudge the road, and wear the clinking chain.
-
 Short-sighted DOBBIN!... thou canst only see
 The trivial hardships that _encompass_ thee:
 Thy chains were freedom, and thy toils repose,
@@ -2301,7 +1946,6 @@ His harness loos'd, he welcomes eager-eyed
 The pail's full draught that quivers by his side;
 And joys to see the well-known stable door,
 As the starv'd mariner the friendly shore.
-
 Ah, well for him if here his suff'rings ceas'd,
 And ample hours of rest his pains appeas'd!
 But rous'd again, and sternly bade to rise,
@@ -2316,7 +1960,6 @@ With tiresome sameness in his ears resound,
 O'er blinding dust, or miles of flinty ground.
 Thus nightly robb'd, and injur'd day by day,
 His piece-meal murd'rers wear his life away.
-
 What say'st thou, _Dobbin?_ what though hounds await
 With open jaws the moment of thy fate,
 No better fate attends _his_ public race;
@@ -2331,7 +1974,6 @@ To pond, or field, or village fair, when thou
 Held'st high thy braided mane and comely brow;
 And oft the Tale shall rise to homely fame
 Upon thy gen'rous spirit and thy name.
-
 Though faithful to a proverb, we regard
 The midnight chieftain of the farmer's yard,
 Beneath whose guardianship all hearts rejoice,
@@ -2352,14 +1994,12 @@ Chasing amain his fright'ned victims round,
 Till death in wild confusion strews the ground;
 Then wearied out, to kennel sneaks away,
 And licks his guilty paws till break of day.
-
 The deed discover'd, and the news once spread,
 Vengeance hangs o'er the unknown culprit's head:
 And careful _Shepherds_ extra hours bestow
 In patient _watchings_ for the common foe;
 A foe most dreaded now, when rest and peace
 Should wait the season of the flock's increase.
-
 In part these nightly terrors to dispel,
 GILES, ere he sleeps, his little Flock must tell.
 From the fire-side with many a shrug he hies,
@@ -2384,7 +2024,6 @@ Scatter'd immensely wide from east to west,
 The beauteous 'semblance of a _Flock_ at rest.
 These, to the raptur'd mind, aloud proclaim
 Their MIGHTY SHEPHERD'S everlasting Name.
-
 Whilst thus the loit'rer's utmost stretch of soul
 Climbs the still clouds, or passes those that roll,
 And loos'd _Imagination_ soaring goes
@@ -2443,7 +2082,6 @@ With these blest guardians _Giles_ his course pursues,
 Till numbering his heavy-sided ewes,
 Surrounding stillness tranquilize his breast,
 And shape the dreams that wait his hours of rest.
-
 As when retreating tempests we behold,
 Whose skirts at length the azure sky unfold,
 And full of murmurings and mingled wrath,
@@ -2466,7 +2104,6 @@ For ewes that stood aloof with fearful eye,
 With stamping foot now men and dogs defy,
 And obstinately faithful to their young,
 Guard their first steps to join the bleating throng.
-
 But casualties and death from damps and cold
 Will still attend the well-conducted fold:
 Her tender offspring dead, the dam aloud
@@ -2485,14 +2122,12 @@ For this his predecessor's skin he wears,
 Till cheated into tenderness and cares,
 The unsuspecting dam, contented grown,
 Cherish and guard the fondling as her own.
-
 Thus all by turns to fair perfection rise;
 Thus twins are parted to increase their size:
 Thus instinct yields as interest points the way,
 Till the bright flock, augmenting every day,
 On sunny hills and vales of springing flow'rs
 With ceaseless clamour greet the vernal hours.
-
 The humbler _Shepherd_ here with joy beholds
 The approv'd economy of crowded folds,
 And, in his small contracted round of cares,
@@ -2501,7 +2136,6 @@ For Boys with emulation learn to glow,
 And boast their pastures, and their healthful show
 Of well-grown Lambs, the glory of the Spring;
 And field to field in competition bring.
-
 E'en GILES, for all his cares and watchings past,
 And all his contests with the wintry blast,
 Claims a full share of that sweet praise bestow'd
@@ -2522,16 +2156,7 @@ Play round, and cheer the elevated Boy!
 'Here round my home, still lift my soul to THEE;
 'And let me ever, midst thy bounties, raise
 'An humble note of thankfulness and praise!'--
-
-APRIL 22, 1798.
-
-
-
-    NOTES
-
-
 _A fav'rite morsel with the Rook, &c._ P. 9, l. 104.
-
 In these verses, which have much of picturesque, there is a severe charge
 against _Rooks and Crows_, as very formidable depredators; and their
 destruction, as such, seems to be recommended. Such was the prevalent
@@ -2541,13 +2166,10 @@ dispose him to rejoice in whatever plea can be offered in stay of
 execution of this sentence. And yet more so, if it shall appear that
 ROOKS, at least, deserve not only mercy, but _protection_ and
 _encouragement_ from the Farmer.
-
 I shall quote a passage from BEWICK'S interesting HISTORY of BIRDS: the
 narrative part of which is often as full of information as the
 embellishments cut in wood are beautiful.... It is this.
-
 Speaking of Birds of the PIE-KIND in general, he says "Birds of this kind
-[Footnote: P. 63] are found in every part of the known world, from
 Greenland to the Cape of Good Hope. In many respects they may be said to
 be of singular benefit to mankind: principally by destroying great
 quantities of noxious insects, worms, and reptiles. ROOKS, in particular,
@@ -2561,7 +2183,6 @@ meadows and corn-fields were destroyed by them in SUFFOLK. The decrease of
 Rookeries in that County was thought to be the occasion of it. The many
 Rookeries with us is in some measure the reason why we have so few of
 these destructive animals."[Footnote: Wallis's History of Northumberland.]
-
 "Rooks," he subjoins, "are often accus'd of feeding on the corn just after
 it has been sown, and various contrivances have been made both to kill and
 frighten them away; but, in our estimation, the advantages deriv'd from
@@ -2574,17 +2195,13 @@ sensible neighboring Farmer and Tenant, is done in the grub-state of the
 chaffer by biting through the _roots_ of grass, &c. A latent, and
 imperceptibly, but rapidly spreading mischief, against which the _rooks_
 and birds of similar instinct are, in a manner, the sole protection. C.
-L.]
-
 "In general they are sagacious, active, and faithful to each other. They
 live in pairs; and their mutual attachment is constant. They are a
 clamorous race: mostly build in trees, and form a kind of society in which
 there appears something like a regular government. A Centinel watches for
 the general safety, and gives notice on the appearance of danger."
-
 Under the Title, "ROOKS," (p. 71) Mr. BEWICK repeats his observations on
 the useful property of this Bird.
-
 I confess myself solicitous for their safety and kind treatment.
 We have two which were lam'd by being blown down in a storm (a calamity
 which destroys great numbers almost every spring). One of them is
@@ -2592,20 +2209,11 @@ perfectly domesticated. The other is yet more remarkable; since although
 enjoying his natural liberty completely, he recognizes, even in his
 flights at a distance from the house, his adoptive home, his human
 friends, and early protectors.
-
 The ROOK is certainly a very beautiful and very sensible Bird; very
 confiding, and very much attach'd. It will give me a pleasure, in which I
 doubt not that the Author of this delightful Poem will partake, if any
 thing here said shall avail them with the Farmer; and especially with the
-SUFFOLK FARMER.
-
-C. L.
-
-
-
 _Destroys life's intercourse; the social plan._ P. 46, l. 341.
-
-
 "Allowing for the imperfect state of sublunary happiness, which is
 comparative at best, there are not, perhaps, many nations existing whose
 situation is so desirable; where the means of subsistence are so easy, and
@@ -2641,13 +2249,7 @@ repeated to Europeans. If the knowledge of a few individuals can only be
 acquired at such a price as the happiness of nations, it were better for
 the discoverers and the discovered that the _South Sea_ had still remain'd
 unknown to _Europe_ and its restless inhabitants."
-
 REFLECTIONS ON OTAHEITE: Cook's second Voyage.
-
-
-
-APPENDIX
-
 When the FIRST EDITION of this POEM appear'd in March last, I intimated a
 design of accompanying it with some CEITICAL REMARKS. With that design
 various Engagements have since greatly interfer'd. From one of the most
@@ -2692,14 +2294,11 @@ accordingly announc'd my intention of resuming my profession as a
 BARRISTER. In the mean time, the leisure which has thus been thrown to me
 may properly and usefully be devoted to the Remarks which I had before
 meditated; and for which I had in some measure pledg'd myself to the
-PUBLIC.
-
 The FIRST of these will naturally be that which relates to the _manner_
 and circumstances of the Composition. There is such proof in it of Genius
 disregarding difficulty, and of powers of retention and arrangement, that
 it will be believ'd I could not overpass it: and that it would have been
 stated at the first if it had been then in my power to state it.
-
 I now lay it before the Public in the words of Mr. SWAN: who in a Letter
 address'd to me in _The Ladies Museum_ of this Month, after congratulating
 me on my "successful efforts," (and with such a Production to propose to
@@ -2713,14 +2312,11 @@ meriting a Letter and a public statement:) "to throw light upon the manner
 of the composition of the Farmer's Boy; which appears to him (and most
 justly) no inconsiderable addition to the well-earn'd laurels of the
 Author."
-
 For the pleasure of the view which it includes of the character and
 manners of Mr. BLOOMFIELD, I shall, with the Author of this interesting
 Letter, go beyond the mere fact; and give his narration of the cause and
 manner of the _Discovery_, as well at the Discovery itself.
-
 Mr. SWAN thus expresses himself:
-
 "From the pleasure I receiv'd in reading the FARMER'S BOY, and from some
 strange coincidences in the early part of Mr. Bloomfield's life with my
 own, I was naturally enough anxious to become acquainted with the Author.
@@ -2733,16 +2329,13 @@ his production, that the whole of his good fortune appears to him as a
 dream."--'I had no more idea,' says he, 'to be sent for by the Duke of
 Grafton, and be so kindly and generously treated, than of the hour I shall
 die.'
-
 "I gave him," Mr. SWAN continues, "my card of address, an invitation to my
 house, and a sincere profession of friendship; if, among his numerous
 admirers, and noble and royal patrons, the latter was worthy of
 acceptance."
-
 "Last Sunday afternoon [Footnote: The Letter is dated 12 July, 1800.] I
 was highly pleas'd with his company, and gratified and entertain'd with
 his conversation.--Sir, he is all ... nay, more than you have describ'd."
-
 "Among other subjects of conversation respecting the _Farmer's Boy_, I
 wish'd to be inform'd of his manner of composition. I enquir'd, as he
 compos'd it in a garret, amid the bustle and noise of six or seven fellow
@@ -2761,7 +2354,6 @@ pen and ink, to write any thought that struck his lively and wakeful
 imagination; that Dr. Blacklock, though blind, had the happy faculty of
 writing down, in a very legible hand, the chaste and elegant productions
 of his Muse."
-
 "With these and many other methods of composition we are acquainted; but
 that of a great part of _the Farmer's Boy_ stands, in my opinion, first on
 the List of Litterary [Footnote: I have ventur'd to restore litterary to
@@ -2774,54 +2366,41 @@ cannot fail to surprize the Litterary World: who are well acquainted with
 the treacherousness of memory, and how soon the most happy ideas, for want
 of sufficient quickness in noting down, are lost in the rapidity of
 thought."
-
 "But this is not all.--He went still a step farther.--He not only compos'd
 and committed that part of the work to his retentive memory, but he
 corrected it all in his head. And, as he said, when it was thus
 prepar'd,... _I had nothing to do but to write it down_."
-
 "By this new and wonderful mode of composition he studied and completed
 his Farmer's Boy in a garret; among six or seven workmen, without their
 ever suspecting any thing of the matter."
-
 "Sir, this to me was both new and wonderful: and induc'd me rather to
 communicate the information to you through the medium of the Press than by
 writing; that it may meet the eye of many, who will be equally struck and
 pleas'd with the novelty of the idea as myself."
-
 I have on this part of the subject, only, after quoting thus much at
 present from the Letter of Mr. SWAN, to add, that I entirely agree with
 him, I believe, as to the force, clearness, and comprehensiveness of
 intellect manifested by this experiment, and its success.
-
 I now pass to part of what has been fully and excellently said by Dr.
 DRAKE of HADLEIGH, while investigating the merits of this astonishing
 Rural Poem.
-
 In a Letter from HADLEIGH [Footnote: 9 March, 1800.] Dr. DRAKE had given
 me this distinct and vivid representation of his general idea of the Poem.
-
 "I have read THE FARMER'S BOY with a mixture of astonishment and delight.
 There is a pathetic simplicity in his sentiments and descriptions that
 does honour to his head and heart."
-
 "His copies from Nature are truly original and faithful, and are touched
 with the hand of a Master.... His versification occasionally displays an
 energy and harmony which might decorate even the pages of a DARWIN."
-
 "The general characteristics of his Style, however, are sweetness and
 ease. In short, I have no hesitation in declaring, that I think it, as a
 Rural and descriptive Poem, superior to any production since the days of
-THOMSON."
-
 "It wants no reference to its Author's uneducated poverty to render its
 excellence the more striking; they are such as would confer durable Fame
 on the first and most polish'd Poet in the Kingdom."
-
 I shall now take the liberty of extracting part of the CRITIQUE which Dr.
 DRAKE, agreeably to his intimation to me, has made of the FARMER'S BOY in
 his LITTERARY HOURS.[Footnote: Vol. II, Ess. xxxix, p. 444.]
-
 "From the pleasing duty of describing such a 'character' (meaning the
 personal character of Mr. BLOOMFIELD) let us now turn our attention to
 the species of composition of which his Poem is so perfect a specimen. It
@@ -2831,7 +2410,6 @@ adherence to classical imagery and costume; at the same time totally
 overlooking that profusion of picturesque beauty, and that originality of
 manner and peculiarity of employment, which our climate and our rustics
 every where present."
-
 "A few Authors were mention'd in that Essay as having judiciously deviated
 from the customary plan: to these may now be added the name of
 _Boomfield_; the _Farmers Boy_, though not assuming the form of an
@@ -2840,61 +2418,49 @@ Composition_; not like the Poem of _Thomson_, taking a wide excursion
 through all the phenomena of the _Seasons_, but nearly limited to the
 rural _occupation_ and business of the fields, the dairy, and the farm
 yard."
-
 "As with these employments, however, the vicissitudes of the Year are
 immediately and necessarily connected, Mr. Bloomfield has, with propriety,
 divided his Poem into _Four_ Books, affixing to those Books the Titles of
 the Seasons."
-
 "Such indeed are the merits of this Work, that in true _pastoral_ imagery
 and simplicity I do not think any production can be put in competition
 with it since the days of Theocritus." [Footnote: I have heard that the
 opinion of no less a Judge than Dr. WATSON, Bishop of LLANDAFF, is by no
 means short of the encomium implied in this comparison, high and ample as
 it is. L.]
-
 "To that charming simplicity which particularizes the Grecian, are added
 the individuality, [Footnote: Much of these qualities indeed is certainly
 in _Theocritus_ also. L.] fidelity, and boldness of description, which
 render Thomson so interesting to the lovers of Nature."
-
 "GESNER possesses the most engaging sentiment, and the most refin'd
 simplicity of manners; but he wants that rustic wildness and naivete in
 delineation characteristic of the Sicilian, and of the composition before
 us."
-
 "WARNER and DRAYTON have much to recommend them: but they are very
 unequal; and are devoid of the _sweet and pensive morality_ which pervade
 almost every page of _the Farmers Boy_; nor can they establish any
 pretensions to that fecundity in painting the oeconomy of rural life,
 which this Poem, drawn from actual experience, so richly displays."
-
 "It is astonishing indeed what various and striking circumstances,
 peculiar to the occupation of the _British Farmer_, and which are adapted
 to all the purposes of the _pastoral_ Muse, had escaped our Poets,
 previous to the publication of Mr. _Bloomfield's_ Work."
-
 "Those who are partial to the _Country_;--and where is the man of Genius
 who feels not a delight approaching to ecstasy from the contemplation of
 its scenery, and the happiness which its cultivation diffuses?--those who
 have paid attention to the process of husbandry, and who view its
 occurrences with interest; who are at the same time alive to all the
 minutiae of the animal and vegetable creation; who mark
-
-  '_How Nature paints for colours, how the Bee
-  Sits on the bloom, extracting liquid sweet_,'
-
+'_How Nature paints for colours, how the Bee
+Sits on the bloom, extracting liquid sweet_,'
 will derive from the study of this Poem a gratification the most permanent
 and pure."
-
 Though I have thus largely extracted I cannot omit transferring hither the
 ANALYSIS of the Poem, as given by Dr. Drake.
-
 "The _first_ Book, intitled _Spring_, opens with an appropriate
 invocation. A transition is then made to the artless character of _Giles_,
 the _Farmer's Boy_; after which the scene near _Euston_ in Suffolk is
 describ'd, and an amiable portrait of Mr. _Austin_, immediately follows.
-
 "Seed-time, harrowing, the devastation of the rooks,[Footnote: I will not
 say much: but I was glad to see since the second Edition of this Poem the
 cause of the Rooks had again been advocated, in the _Newcastle Chronicle_.
@@ -2902,7 +2468,6 @@ L.] wood-scenery, the melody of birds, cows milking, and the operations of
 the dairy, occupy the chief part of this Season: which is clos'd by a
 beautiful Personification of the Spring and her attendants, and an
 admirable delineation of the sportive pleasures of the young Lambs."
-
 "The _second_ Book, or _Summer_, commences with a characteristic sketch of
 the prudent yet benevolent Farmer. The genial influence of the rain is
 then welcom'd; to which succeeds a most delicious picture of a green and
@@ -2916,7 +2481,6 @@ of docking horses, the insolence of the gander, the apathy of the swine,
 are drawn in a striking manner: and the Book concludes with masterly
 pictures of a twilight repose, a midnight storm of thunder and lightning,
 and views of the ancient and present mode of celebrating Harvest-home."
-
 "The _third_ Book, _Autumn_, is introduc'd with a delineation of forest
 scenery, and pigs fattening on fallen acorns. Sketches of wild ducks and
 their haunts, of hogs settling to repose in a wood, and of wheat sowing,
@@ -2930,7 +2494,6 @@ disappointment, are conceiv'd and colour'd in an exquisite style.
 Fox-hunting, the Fox-hound's epitaph, the long autumnal evenings, a
 description of domestic fowl, and a welcome to the snowy nights of Winter,
 form the concluding topics of this Season."
-
 "The _fourth_ Book, under the appellation of _Winter_, is usher'd in by
 some humane injunctions for the treatment of storm-pinch'd cattle. The
 frozen turnips are broken for them: and the cowyard at night is describ'd.
@@ -2941,25 +2504,21 @@ with much effect: and the ploughman feeding his horses at night, with the
 comparison between the cart-horse and post-horse, have great merit. The
 mastiff turn'd sheep-biter is next delineated; succeeded by a description
 of a moon-light night, and the appearance of a spectre."
-
 "The counting of the Sheep in the fold, and the adopted Lambs, are
 beautiful paintings: and with the Triumph of GILES on the conclusion of
 the Year, and his Address to the DEITY, the Book and Poem close."
-
 "Such are the Materials of which THE FARMER'S BOY is constructed. Several
 of the topics, it will be perceiv'd, are new to Poetry; and of those which
 are in their _title_ familiar to the readers of our descriptive Bards, it
 will be found that the imagery and adjunctive circumstances are original,
 and the effort of a mind practis'd in the rare art of selecting and
 combining the most striking and picturesque features of an object."
-
 Dr. Drake after this well accounts for the poetic singularity that the
 Poetry of _Thomson_ should have past through a mind so enthusiastically
 enamor'd of it, without impairing the originality of its character, when
 exercis'd on a subject so much leading to imitation. This he explains, and
 justly, by the vivid impressions on a most sensible and powerful
 imagination in his earliest youth, anterior to the study of any Poet.
-
 Dr. Drake expresses his astonishment at the VERSIFICATION and DICTION of
 this Poem. And says most truly, "I am well aware that smooth and flowing
 lines are of easy purchase, and the property of almost every poetaster of
@@ -2967,7 +2526,6 @@ the day: but the versification of Mr. _Bloomfield_ is of another
 character; it displays beauties of the most positive kind, and those
 witcheries of expression which are only to be acquir'd by the united
 efforts of Genius and Study."
-
 "The _general_ characteristics of his versification are facility and
 sweetness; that ease which is, in fact, the result of unremitted labour,
 and one of the most valuable acquisitions of litterature. It displays
@@ -2977,7 +2535,6 @@ From the nature of his subject, however, this splendid mode of decoration
 could be us'd but with a sparing hand: and it is not one of his least
 merits that his diction and harmony should so admirably correspond with
 the scene which he has chosen."
-
 "To excel," Dr. DRAKE continues, "in rural IMAGERY, it is necessary that
 the Poet should diligently study Nature for himself; and not peruse her as
 is but too common, '_through the spectacles of Books_' [Footnote: The
@@ -2988,7 +2545,6 @@ COWPER were enabled to unfold their scenery with such distinctness and
 truth: and on this plan, while wandering through his native fields,
 attentive to '_each rural sight, each rural sound_,' has Mr. BLOOMFIELD
 built his charming Poem."
-
 "It is a Work which proves how inexhaustible the features of the World we
 inhabit: how from objects which the mass of mankind is daily accustom'd to
 pass with indifference and neglect. GENIUS can still produce pictures the
@@ -3000,30 +2556,25 @@ to all the tenderest duties of humanity and religion, consecrate its
 glowing landscapes, and shed an interest over them, a spirit of devotion,
 that calm and rational delight which the goodness and greatness of the
 Creator ought ever to inspire."
-
 Dr. DRAKE confirms, by copious and very judicious _Extracts_ from the
 various parts of the Poem, as they offer themselves to critical selection,
 in accompanying the Farmer's Boy through the Circle of his year, the
 Judgment which he has form'd with so much ability, taste, and feeling, and
 has to agreeably express'd, of the Merits of our ENGLISH GEORGIC. And he
 speaks in his _third_ and last Essay on it thus:
-
 "From the review we have now taken of THE FARMER'S BOY, it will be
 evident, I think, that owing to its harmony and sweetness of
 versification, its benevolence of sentiment, and originality of imagery,
 it is entitled to rank very high in the class of descriptive and
 _pastoral_ Poetry."
-
 He concludes with an highly animated and feeling anticipation of that
 public attention to the Poem and to its Author, merited in every view, and
 which already has manifested itself in such an extent.
-
 I understand there is a Paper on "_The Farmer's Boy_" in a Work lately
 publish'd by Dr. ANDERSON; and assuredly from its subject well entitled to
 attention, as well as from the abilities and public spirit of its
 Editor;--AGRICULTURAL RECREATIONS. Where indeed with more appropriate
 Honor could such a Poem be notic'd?
-
 In the _Critical Remarks_ I intended I find myself so much agreeing in
 sentiment with Dr. Drake that I shall attempt little more than merely to
 offer some few observations. One of these relates to the _coincidences_ of
@@ -3032,213 +2583,133 @@ would previously be expected from what has been said, are extremely few
 indeed. And almost all that are particularly of moment in appreciating the
 poetical excellences of the Work are most truly _coincidences_, and cannot
 be otherwise consider'd.
-
 For the first of these which I shall mention I am indebted to WILLIAM
 SMITH, Esq. of BURY, who had largely his share of Public Admiration, when
 he sustain'd for many years with great skill and judgment, and great
 natural advantages, almost every character of our Drama which had been
 eminently favor'd by either Muse; and who now enjoys retirement with
 honor and merited esteem.
-
 He mention'd to me in conversation, and since by Letter, a passage very
 closely resembling one in the IDYLLIA of AUSONIUS. It is this in _Spring_.
-
-  Like the torn flower the fair assemblage fly.
-  Ah, fallen _Rose_! sad emblem of their doom;
-  Frail as thyself, _they perish while they bloom_! I.v. 388-40.
-
+Like the torn flower the fair assemblage fly.
+Ah, fallen _Rose_! sad emblem of their doom;
+Frail as thyself, _they perish while they bloom_! I.v. 388-40.
 The passage to which Mr. Smith referr'd me is this. (It is not in my
 Edition of _Ausonius_; but he sent me a Copy.)
-
-  "Conquerimur, Natura, brevis quod Gratia florum est;
-    Ostentara oculis illico dona rapis.
-  Quam longa una dies aetas tarn longa rosarum,
-    Ques _pubescentes juncta senecta pressit_."
-
+"Conquerimur, Natura, brevis quod Gratia florum est;
+Ostentara oculis illico dona rapis.
+Quam longa una dies aetas tarn longa rosarum,
+Ques _pubescentes juncta senecta pressit_."
 ID. xiv.
-
 I am favor'd with a Translation made by Mr. SMITH in his very early days.
 And hope that as a brother _Etonian_ he allows me to quote it.
-
-  Nature, we grieve that thou giv'st flowers so gay,
-  Then snatchest Gifts thou shew'st so swift away.
-  A Day's a Rose's Life.--_How quickly meet_,
-  Sweet Flower, _thy Blossom and thy Winding sheet_!
-
+Nature, we grieve that thou giv'st flowers so gay,
+Then snatchest Gifts thou shew'st so swift away.
+A Day's a Rose's Life.--_How quickly meet_,
+Sweet Flower, _thy Blossom and thy Winding sheet_!
 In the _Procession_ of SPRING there is a fine series of allegorical
 Images.
-
-  Advancing SPRING profusely spreads abroad
-  _Flowers of kinds, with sweetest fragrance stor'd_:
-  Where she treads LOVE gladdens every plain;
-  _Delight_ on tip-toe beats her lucid train;
-  Sweet _Hope_ with conscious brow _before_ her flies,
-  Anticipating wealth from summer skies.
-
+Advancing SPRING profusely spreads abroad
+_Flowers of kinds, with sweetest fragrance stor'd_:
+Where she treads LOVE gladdens every plain;
+_Delight_ on tip-toe beats her lucid train;
+Sweet _Hope_ with conscious brow _before_ her flies,
+Anticipating wealth from summer skies.
 I. v. 271--6.
-
 Compare now this of LUCRETIUS.
-
-  It VER et VENUS et Veneris _praenuntius ante_
-  Prunatus _graditur_ Zephyrus vestigia propter.
-  FLORA quibus mater praespergens, ante viai
-  Cuncta coloribus egregiis et odoribus opplet.
-
+It VER et VENUS et Veneris _praenuntius ante_
+Prunatus _graditur_ Zephyrus vestigia propter.
+FLORA quibus mater praespergens, ante viai
+Cuncta coloribus egregiis et odoribus opplet.
 DE NAT. RES. L. V. v. 736-9.
 Ed. Brindley 1749.
-
-  There SPRING, and VENUS, and her Harbinger,
-  Near to her moves the winged Zephyrus,
-  For whom maternal FLORA strews the way
-  _With Flowers of every charming scent and hue_.
-
+There SPRING, and VENUS, and her Harbinger,
+Near to her moves the winged Zephyrus,
+For whom maternal FLORA strews the way
+_With Flowers of every charming scent and hue_.
 Or in the very words of BLOOMFIELD,
-
-  Flowers of all hues with sweetest fragrance stor'd.
-
+Flowers of all hues with sweetest fragrance stor'd.
 _Hope_ here occupies the place of _Zephyrus_. DELIGHT on tip-toe
 supporting the _lucid_ train of _Spring_,--the image and attitude so full
 of life and beauty,--is our Poet's own. And what Poet, what _Painter_,
 would not have been proud of it?
-
 In another passage,
-
-  The splendid raiment of the Spring peeps forth
-  Her universal Green--
-
+The splendid raiment of the Spring peeps forth
+Her universal Green--
 This of Lucretius will be found to have much similitude:
-
-  Camposque per omnes
-  Florida fulserunt viridami prata colore.
-
-782, 3.
-
-  _O'er every plain
-  The flowery meadows beam with verdant hue._
-
+Camposque per omnes
+Florida fulserunt viridami prata colore.
+_O'er every plain
+The flowery meadows beam with verdant hue._
 And that exceedingly fine verse,
-
-  _All Nature feels her venorating sway_,
-
+_All Nature feels her venorating sway_,
 calls to mind the ever-memorable exordium of the _Roman_ Poet.
-
 If we admire the imitative force of this line in the epic majesty of
 Virgilian numbers,
-
-  Quadrupedante putrem sonitu qualit ungula campum:
-
-  _Shakes the resounding hoof the trembling plain:_
-
+Quadrupedante putrem sonitu qualit ungula campum:
+_Shakes the resounding hoof the trembling plain:_
 shall we not admire the imitative harmony of this; attun'd certainly with
 not less felicity to the sweetness of the pastoral reed,
-
-  _The green turf trembling as they bound along._
-
+_The green turf trembling as they bound along._
 The pause on the first syllable of the verse has been an admir'd beauty in
 Homer and Milton.
-
-
-  [Greek: Nux ech d'espchsen enchos.] II.
-
-  And over them triumphant Death his dart
-  Shook, but delay'd to strike.    P.L.
-
+And over them triumphant Death his dart
+Shook, but delay'd to strike.    P.L.
 We have this beauty,--coinciding with the best examples, though underiv'd
 from them,--in a cadence of most pathetic softness.
-
-  Joys which the gay companions of her prime
-  Sip, as they drift along the stream of time.
-
+Joys which the gay companions of her prime
+Sip, as they drift along the stream of time.
 III. v. 169, 70.
-
 The beautiful Description of the Swine and Pigs feeding on fallen Acorns
 reminds me of a most picturesque one, not now at hand, in GILPIN on
 _Forest Scenery_.
-
 The turn of this thought,
-
-  Say not, I'll come and cheer thy gloomy cell.
-
+Say not, I'll come and cheer thy gloomy cell.
 III. v. 241, &c.
-
 I believe is from Scripture. Prov. iii. 28. And so I think certainly is
 that,
-
-  'Till Folly's wages, wounds and thorns, they reap.
-
-III. 37.
-
+'Till Folly's wages, wounds and thorns, they reap.
 But the most remarkable of all, and where I had no expectation of finding
 a similitude, is in near the close of the _Winter_.
-
-  Far yet above these wafted clouds are seen
-  (In a remoter sky yet more serene)
-  Others, detach'd in ranges through the air,
-  Spotless as snow, and countless as they're fair;
-  Scatter'd immensely wide from east to west,
-  _The beauteous semblance of a Flock at rest_.
-
-IV. 255--60.
-
+Far yet above these wafted clouds are seen
+(In a remoter sky yet more serene)
+Others, detach'd in ranges through the air,
+Spotless as snow, and countless as they're fair;
+Scatter'd immensely wide from east to west,
+_The beauteous semblance of a Flock at rest_.
 In HERCULES the LION-SLAYER there is this passage:
-
-  ........ Tad epaeluthe piona maela,
-  Ech soianaes anionia mei aulia ie saechsie,
-  Ayiar epeiia soes, mala muriai, akkai ep allais
-  Erchomenai phainonth, osei NEPHE HYDATOENTA
-  'Hossat' en thrano eisi elaunomena prolepose
-  Aee Noloioio ziae ae Thraekos Boreao.
-  Ton meni thlis arithmos en aeeri ginei ionion,
-  Oui anusis lisa gar ie meia proloioi chulindei
-  Is anemth, iade i alla chorusselai authis ep allois
-  Toss aiei melopisthe zoon epi zthcholi aeei.
-  Pan dar eneplaesthae pedion, pasaile cheleuthai,
-  Aaeidos erchomenaes.
-
-HAERAKL. LEONTOPH.
-
+........ Tad epaeluthe piona maela,
+Ech soianaes anionia mei aulia ie saechsie,
+Ayiar epeiia soes, mala muriai, akkai ep allais
+Erchomenai phainonth, osei NEPHE HYDATOENTA
+'Hossat' en thrano eisi elaunomena prolepose
+Aee Noloioio ziae ae Thraekos Boreao.
+Ton meni thlis arithmos en aeeri ginei ionion,
+Oui anusis lisa gar ie meia proloioi chulindei
+Is anemth, iade i alla chorusselai authis ep allois
+Toss aiei melopisthe zoon epi zthcholi aeei.
+Pan dar eneplaesthae pedion, pasaile cheleuthai,
+Aaeidos erchomenaes.
 Idyll. Theocrito adscriptum. Brunckii Analect. I. 360.
-
-  ........ On came the comely sheep,
-  From feed returning to their pens and fold.
-  And these the _Kine_, in multitudes, succeed;
-  One on the other rising to the eye;
-  As watery CLOUDS which in the Heavens are seen,
-  Driven by the south or Thracian _Boreas,
-  And, numberless, along the sky they glide:_
-  Nor cease; so many doth the powerful Blast
-  Speed foremost, and so many, fleece on fleece,
-  Successive rise, reflecting varied light
-  So still the herds of Kine successive drew
-  A far extended line: and fill'd the plain,
-  And all the pathways, with the coming troop.
-
-       *       *       *       *       *
-
+........ On came the comely sheep,
+From feed returning to their pens and fold.
+And these the _Kine_, in multitudes, succeed;
+One on the other rising to the eye;
+As watery CLOUDS which in the Heavens are seen,
+Driven by the south or Thracian _Boreas,
+And, numberless, along the sky they glide:_
+Nor cease; so many doth the powerful Blast
+Speed foremost, and so many, fleece on fleece,
+Successive rise, reflecting varied light
+So still the herds of Kine successive drew
+A far extended line: and fill'd the plain,
+And all the pathways, with the coming troop.
+*       *       *       *       *
 I may possibly enlarge these Remarks in a future Edition. At present I am
 happy to be stopt here, by so good a cause as the urgency of the
 Publishers to complete a Third Edition; they informing me that the second
 is entirely out of print. But it is pleasant to see these Coincidences
 with CLASSIC POETS of other days and Nations in a CLASSIC of our own, of
 the best School:
-
-  "_The fields his study, Nature was his book_."
-
-C.L.
-
+"_The fields his study, Nature was his book_."
 TROSTON, 22 Aug. 1800.
-
-
-THE END.
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Farmer's Boy, by Robert Bloomfield
-

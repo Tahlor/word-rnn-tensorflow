@@ -1,176 +1,105 @@
-oject Gutenberg's The Santa Fe Trail and Other Poems, by Joseph R. Wilson
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Santa Fe Trail and Other Poems
-
-Author: Joseph R. Wilson
-
-Release Date: March 30, 2013 [EBook #42439]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE SANTA FE TRAIL AND OTHER POEMS ***
-
-
-
-
 Produced by Greg Bergquist, Matthew Wheaton and the Online
 Distributed Proofreading Team at http://www.pgdp.net (This
 file was produced from images generously made available
 by The Internet Archive/American Libraries.)
-
-
-
-
-
-
-
-    [Illustration: "CREEPING CLOSER TO THE TRAIL." (P. 15)]
-
-
-
-
-    "The Santa Fe Trail"
-
-    And Other Poems
-
-    _By_
-
-    JOSEPH R. WILSON, LL.B.
-
-
-    INTERNATIONAL PRINTING COMPANY
-    PHILADELPHIA
-    1921
-
-
-    COPYRIGHT
-    1921
-    BY JOSEPH R. WILSON
-
-
-    TO MY WIFE
-
-
-
-
-    INDEX
-
-
-                                                  Page
-    Brief History of the Famous Santa Fe Trail       7
-    The Santa Fe Trail                              12
-    The Blind Beggar of Albuquerque                 16
-    Sunrise From "The Alvarado"                     18
-    The Lilacs of Shawmont                          20
-    A Jolly Fellow is the Western Tumbleweed        21
-    The Grand Canyon of Arizona                     21
-    The Melodies of Memories                        22
-    The Harvey House Chimes                         23
-    Rest                                            24
-    She Gave Me Two                                 24
-    The Face in the Moon                            25
-    In Spirit Land                                  25
-    Life's Treasures                                25
-    Juror No. 3                                     26
-    He Who Sits in the Gloom                        28
-    Mi-Lady's Shoe                                  28
-    Beside the Sea                                  29
-    Winter's Sorrows                                29
-    Kisses                                          30
-    Mystery                                         30
-    Alma Mater "Pennsylvania"                       31
-    Napoleon's Tomb                                 31
-    The Sorrows Grim Want Imposes                   32
-    I Would I Were Still a Boy                      33
-    The Same Voice                                  34
-    Memories                                        34
-    Old Days (a Ballad)                             35
-    On the Engagement of Miss Constance "More"      36
-    Oh, Gondolier                                   36
-    A Proposal                                      36
-    Lake Geneva (a Memory)                          37
-    My Boyhood's Home                               37
-    The Death of the Host of the Jolly Swan         38
-    Oh! Tamaca                                      41
-    One Sweet Moment                                41
-    Mine Tonight                                    42
-    The Melody of Love                              43
-    Wives                                           44
-    A Country Romance                               45
-    Word Wounds                                     47
-    The Gondolier's Song                            48
-    Avaunt! Ye Tears                                48
-    The Last of the Tasmanians                      49
-    An English Lane                                 51
-    Words to Mendelssohn's "Consolation"            51
-    A Maiden of the South Pacific                   52
-    An Actor's Epitaph                              53
-    The Loved Ones Left Behind                      53
-    Life's Voyage in Vain                           54
-    The Song of the Stream                          55
-    Dry Thine Eyes                                  56
-    Honor                                           57
-    Song to the Moon                                58
-    To My Mother                                    59
-    The Unexpected Summons                          60
-    Oh! 'Tis Sweet to Live                          60
-    Too Late!                                       61
-    Song of Atilla                                  62
-    Dreams                                          63
-    Who Looks Beyond                                67
-    Ready to Die                                    68
-    The Soul                                        69
-    Where Life Began                                70
-    The Grandeur of Death                           70
-    The Day is Done                                 71
-    Death's Courtship                               71
-    An Appeal to Him                                71
-    A Christmas Carol                               72
-    Wilt Thou Lord Stand for Me?                    73
-    My Saviour Understands                          74
-    Help Us Great Friend                            74
-    Into the Valley of My Soul                      75
-
-
-
-
-BRIEF HISTORY OF THE FAMOUS SANTA FE TRAIL
-
-
+"The Santa Fe Trail"
+And Other Poems
+_By_
+Page
+Brief History of the Famous Santa Fe Trail       7
+The Santa Fe Trail                              12
+The Blind Beggar of Albuquerque                 16
+Sunrise From "The Alvarado"                     18
+The Lilacs of Shawmont                          20
+A Jolly Fellow is the Western Tumbleweed        21
+The Grand Canyon of Arizona                     21
+The Melodies of Memories                        22
+The Harvey House Chimes                         23
+Rest                                            24
+She Gave Me Two                                 24
+The Face in the Moon                            25
+In Spirit Land                                  25
+Life's Treasures                                25
+Juror No. 3                                     26
+He Who Sits in the Gloom                        28
+Mi-Lady's Shoe                                  28
+Beside the Sea                                  29
+Winter's Sorrows                                29
+Kisses                                          30
+Mystery                                         30
+Alma Mater "Pennsylvania"                       31
+Napoleon's Tomb                                 31
+The Sorrows Grim Want Imposes                   32
+I Would I Were Still a Boy                      33
+The Same Voice                                  34
+Memories                                        34
+Old Days (a Ballad)                             35
+On the Engagement of Miss Constance "More"      36
+Oh, Gondolier                                   36
+A Proposal                                      36
+Lake Geneva (a Memory)                          37
+My Boyhood's Home                               37
+The Death of the Host of the Jolly Swan         38
+Oh! Tamaca                                      41
+One Sweet Moment                                41
+Mine Tonight                                    42
+The Melody of Love                              43
+Wives                                           44
+A Country Romance                               45
+Word Wounds                                     47
+The Gondolier's Song                            48
+Avaunt! Ye Tears                                48
+The Last of the Tasmanians                      49
+An English Lane                                 51
+Words to Mendelssohn's "Consolation"            51
+A Maiden of the South Pacific                   52
+An Actor's Epitaph                              53
+The Loved Ones Left Behind                      53
+Life's Voyage in Vain                           54
+The Song of the Stream                          55
+Dry Thine Eyes                                  56
+Honor                                           57
+Song to the Moon                                58
+To My Mother                                    59
+The Unexpected Summons                          60
+Oh! 'Tis Sweet to Live                          60
+Too Late!                                       61
+Song of Atilla                                  62
+Dreams                                          63
+Who Looks Beyond                                67
+Ready to Die                                    68
+The Soul                                        69
+Where Life Began                                70
+The Grandeur of Death                           70
+The Day is Done                                 71
+Death's Courtship                               71
+An Appeal to Him                                71
+A Christmas Carol                               72
+Wilt Thou Lord Stand for Me?                    73
+My Saviour Understands                          74
+Help Us Great Friend                            74
+Into the Valley of My Soul                      75
 The early history of the Santa Fe Trail, which runs parallel with the
 Santa Fe Railroad for hundreds of miles, is somewhat obscured by
 mystery and tradition, but from historical data in possession of the
 Museum of New Mexico, at Santa Fe, it can be stated with a large
 degree of accuracy that the trail was started by Spanish explorers
 three hundred years ago.
-
 The first known expedition by Americans over the trail was made by the
 Mallet brothers, who arrived in Santa Fe, July 22, 1739. The first
 trader to follow the trail reached Santa Fe in 1763. It was not until
-1804 that LaLande, a trapper and hunter, crossed the trail and made
 Santa Fe that year. Kit Carson was one of those who struck the trail
 in 1826, when he was but sixteen years of age.
-
 The camping stations along the trail at that time were Diamond Spring,
 Lost Spring, Cottonwood Creek, Turkey Creek, Cow Creek (now
 Hutchinson, Kansas), and further on was Pawnee Rock, a famous landmark
 of sandstone, twenty feet high.
-
 From the year 1820 many caravans made their way over the trail to
 Santa Fe, then, as it is to-day, the seat of government. It was here
 in the old palace that some of the early governors had lived in a
 semi-royal state, maintaining a little court and body-guards whose
 lives were by no means a sinecure, since they were called upon to
 fight the Indians on many occasions.
-
 These Indians developed great hostility to the white man, and caravans
 on the trail were so frequently attacked, and so many tragedies
 stained the trail with the blood of women and children, that in 1823,
@@ -182,12 +111,10 @@ the trail, and soldiers, traders and their families were massacred by
 overwhelming numbers, the victims including many women and children.
 The members of one caravan met their fate in sight of Santa Fe,
 forty-six days out from St. Louis.
-
 Colonel Viscarra had not only to deal with one tribe, but many. There
 were the Navajos, Pawnees, Arapahos, Kiowas, Comanche, Apache and
 Cheyenee. There was only one tribe friendly to the traders, and that
 was the Pueblo Indians.
-
 In August, 1829, a particularly vicious attack on a caravan on the
 Santa Fe trail, bound for Santa Fe, caused the traders to petition the
 government for military protection, and as a result this year, under
@@ -198,12 +125,10 @@ Arkansas River. In spite of this protection, however, attacks by
 Indians were a common occurrence, and every caravan had to carry arms
 and ammunition, and vigilance was never relaxed from the time they
 left the Arkansas River until they struck the plaza at Santa Fe.
-
 Colonel Viscarra, a handsome, picturesque Spaniard, always mounted on
 a mettlesome thoroughbred, was probably the most dashing figure in the
 history of the Santa Fe trail. Tales of his gallantry and daring
 became folklore among the traders, pioneers and their descendants.
-
 In 1843, the American traders commenced to establish regular
 communication between Missouri and Santa Fe and in 1849, started to
 run a stage from Independence, Mo., to Santa Fe. The fare was $250.
@@ -211,14 +136,12 @@ Each passenger was allowed forty pounds of baggage. The capacity of
 the coach was ten passengers in addition to the driver and messenger.
 Relays of horses were stationed along the trail every fifteen to
 twenty miles.
-
 The vehicles used by the traders and pioneers were for the greater
 part Conestoga wagons drawn by horses or mules. As they proceeded
 westward it was a common sight to see on the trail, "creoles, polished
 gentlemen magnificently clothed in Spanish costume, exiled Spaniards
 escaping from Mexico, and richly caparisoned horses, mules and asses,
 and a courtesy of the road grew out of a common danger".
-
 The most terrible part of the trail was the great plain between the
 Arkansas River and Cimarron Spring. It was over three thousand feet
 above sea level and sixty-three miles without a water course or pool.
@@ -227,1950 +150,1289 @@ the only evidence of the parched vegetation. There was not a shrub or
 tree of any kind. It was a sandy desert plain and it was here the
 traveler saw the mirage, a beautiful lake which disappeared as he
 approached it.
-
 Breakdowns on this plain were frequent, and the Indians most
 dangerous. Dry, hot weather prevailed with the blue sky overhead, and
 over these parched wastes of the desert, exposed to attacks by Indians
 both night and day, the caravans finally reached Cimarron Spring,
 which was in a small ravine.
-
 After leaving Cimarron Spring (445 miles from Independence, Missouri),
 the caravans struck the following camps:
-
-    Willow Bar;
-    Cold Spring;
-    Rabbit Ear Creek;
-    Round Mound;
-    Rock Creek;
-    Point of Rocks;
-    Rio Colorado;
-    Ocate Creek;
-    Santa Clara Spring (Wagon Mound);
-    Rio Mora;
-    Rio Gallinas (Las Vegas);
-    Ojo De Bernal Spring;
-    San Miguel;
-    Pecos Village;
-
+Willow Bar;
+Cold Spring;
+Rabbit Ear Creek;
+Round Mound;
+Rock Creek;
+Point of Rocks;
+Rio Colorado;
+Ocate Creek;
+Santa Clara Spring (Wagon Mound);
+Rio Mora;
+Rio Gallinas (Las Vegas);
+Ojo De Bernal Spring;
+San Miguel;
+Pecos Village;
 and finally Santa Fe, a distance of 750 miles from Independence,
 Missouri, the starting point.
-
 The old Santa Fe Trail led from Franklin, Missouri, through Kansas,
 Colorado, Oklahoma and New Mexico. It followed the Arkansas River to
 Cimarron Crossing (Fort Dodge) to La Junta, Colorado; then south,
 crossing the Raton Pass, joining the main trail at Santa Clara Spring.
-
 The passenger looking out of the window of the train on the Santa Fe
 Railroad will see this trail running for miles parallel with the
 track, and will be able to people it with the historic traditions
 which have made the Santa Fe Trail one of the most romantic and,
 withal, one of the most tragic national highways in the United States.
-
-    NOTE.--The greater part of the information given in this brief
-    history is taken from _Twitchell on Leading Facts of New Mexico
-    History_.
-
-
-
-
-    THE SANTA FE TRAIL.
-
-
-    There are moanings on the trail,
-    From west and eastward bounders,
-    The host that's passed forever,
-    That shall never know it more;
-    From men and fragile women,
-    From pioneers and traders,
-    Whose dying word was "Never,"
-    Whose pale souls went on before.
-    And its ruts flow deep with tears
-    For the countless lowly biers,
-    Of those who died upon it,
-    In the agony of fears.
-
-    Oh! the rumbling caravan--
-    The women under cover,
-    While the men before them scan,
-    For Indians or water,
-    For the're mounds along the trail,
-    It's thousand miles of stretches,
-    Of man, and child and mother,
-    Fair flowers and hardened wretches;
-    Where the sandstorms blow and blow,
-    And obliterate all traces.
-
-    Moving twenty miles a day,
-    With mules and horses straining
-    Through the deep and parching sand,
-    The wagon wheels a-squeaking,
-    With the hot sun beating down
-    On whitened bones a bleaching.
-    Stretching all along the trail,
-    From Fort Dodge to San Miguel,
-    From caravans forgotten,
-    Where none lived to tell the tale.
-
-    Oh! the tide of misery,
-    And tears forever flowing,
-    From the women folk inside,
-    Through the long, dark hours of night,
-    Or moonlight's eerie bleaches,
-    Praying God to send the light.
-    The grey of early morning,
-    While a rifle shot rings out,
-    The Indians are coming,
-    And the men go driving on,
-    The tired horses running,
-    For the goal they never reach.
-
-    Oh! that never ending trail,
-    Through canyon and arroya,
-    And that cursed, cruel plain,
-    The parched wastes of the desert,
-    A mile above sea-level,
-    Not a tree or shrub upon it,
-    Without a drop of water,
-    'Tween the Arkansas river
-    And the spring at Cimarron,
-    Where they'll never drink again.
-
-    Pushing on to Willow Bar,
-    Round Mound and Rio Moro,
-    Through buff'lo grass and cacti,
-    To ruins of the Pecos,
-    With the blue skies overhead,
-    And the horses breathing hard,
-    Rolls the caravan along.
-    A country in the making,
-    And the women try to sing,
-    God bless them, they are helping,
-    Those tender friends of man,
-    To keep his heart from breaking,
-    With the wagon broken down,
-    And not a blade for grazing.
-
-    There are ghosts upon the trail,
-    The myriads that trod it,
-    And they pass without salute
-    In a never ending line,
-    In wagon and on horseback;
-    Some going West, some Eastward.
-    Strange spectres in the moonlight,
-    Brave men and noble women,
-    Young girls and little children,
-    All long ago forgotten.
-
-    And the past rolls back again,
-    With Indians approaching,
-    The Navajos and Pawnees,
-    Kiowas and Comanche,
-    Creeping closer to the trail.
-    The children and the women,
-    Oh! 'tis hard that they should die.
-    Then the musket shots ring out
-    From cool men bent on killing,
-    Fighting for the ones they love,
-    Though ten to one outnumbered,
-    Until morning tints the sky
-    And with it ends the combat.
-
-    Then the town of Santa Fe,
-    Oh! Father, in Thy mercy--
-    And the women laugh and sing,
-    The tired men are weeping,
-    A thousand times repeated,
-    As men entered Santa Fe.
-    The cursed trip was over,
-    Save to those left on the way,
-    The pioneer martyrs
-    Of the trail to Santa Fe.
-
-
-
-
-    BLIND BEGGAR OF ALBUQUERQUE
-
-
-    There are faces that pass in a moment,
-    But his face will live till I die.
-    He'd a beard and blue eyes like the Saviour,
-    At least like the face we all know,
-    And we met in the cool of the morning,
-    We met about two years ago.
-    And my heart bade me call out "Good morning,"
-    "Good morning," he answered to me.
-    But I saw his blue eyes looking elsewhere,
-    Like one who was trying to see.
-    He had come from a hut without windows,
-    A mud hut with only a door,
-    Yet his face was the face of the Saviour,
-    And I fain would speak to him more.
-    So I stopped, for his smile had a sweetness
-    That entered the gates of my soul;
-    I was hungry to know where it came from,
-    That I might its wonders extol.
-    And we talked of the beautiful morning,
-    The scent of the grass and the flowers,
-    And he spoke like a man of refinement,
-    Like one to whom knowledge was power,
-    Of the glory of God and His wonders,
-    And we talked for more than an hour.
-    I forgot that the speaker was sightless,
-    Or a mud hut his dwelling here.
-    Could it be he was just a blind beggar?
-    Was a greater One standing near?
-    And he talked of the hills in their grandeur,
-    As sentinels watching mankind,
-    Of the plains and vales, of sunshine and flowers,
-    Which he only saw in his mind.
-    And he spoke of the poor and the lowly,
-    Of God's mercy to such as he,
-    Of his gratitude to his Creator,
-    Gratitude, though he could not see.
-    And I stretched out my arms to that beggar,
-    From Syria, over the sea,
-    With the beard and the eyes of our Saviour--
-    At least they looked like that to me.
-    He had taught me a wonderful lesson,
-    The burden a Christian could bear,
-    Who from out the dark caverns of blindness
-    Saw only the things that were fair.
-    And I asked my dear Father forgiveness,
-    My fetters of sin to unbind,
-    That he'd make me to see like that beggar,
-    For I was the one who was blind.
-
-
-
-
-    SUNRISE FROM THE ALVARADO HOTEL, ALBUQUERQUE, NEW MEXICO.
-
-
-    "The Alvarado," on the Santa Fe,
-    Here oft my eyes have met the break of day;
-    The red sun rising through the morning mist,
-    Over the mountains, and the mesa kissed,
-    Down to the valley, where the shadows deep
-    Dissolved, and woke the city from its sleep.
-
-    Facing the East, the first faint streak of dawn
-    Sought my closed eyes and ope'd them to the morn.
-    Then like the passing shadow of a cloud
-    Revealed the world beneath the lifted shroud,
-    The glories of the proud Sandia Range,
-    Whose rugged grandeur God alone can change.
-
-    Sweet was the air that in my casement swept,
-    And in the court below a fountain leap't,
-    Which on the harp of life sweet music made,
-    And soothed me in my slumbers as it played.
-    The songs of gentle rain, of woodland stream,
-    Entranced me nightly in a murmuring dream.
-
-    The doves upon the roof made music too,
-    And sweet it was to hear them bill and coo.
-    Into my open window Nature smiled,
-    And all the world seemed pure and undefiled.
-    Naught can describe those joys of early morn,
-    When from the night another day was born.
-
-    When cares that come oppress and burden me,
-    I'll pray to God to send me memory,
-    Where precious moments came at break of day,
-    "The Alvarado" on the Santa Fe.
-    Thither my soul shall fly where'er I be,
-    And bring that joy of morning back to me.
-
-
-
-
-    THE LILACS OF SHAWMONT.
-
-
-    In our home in the West, on the edge of the mesa,
-        When our day's work is done, and the voices are still,
-    Comes faintly the scent of the lilacs of Shawmont
-        We knew in our youth, at the house on the hill.
-
-    Back to those halls, now so silent and empty,
-        Where voices of children once merrily rang;
-    To those dear dead windows still facing the garden,
-        Where the woodthrush, the robin and oriole sang.
-
-    Back to the solemn old bell in the tree forks,
-        Which summoned us home to the noonday repast;
-    Whose music had rung in the morning of centuries,
-        And yet was as sweet as the day it was cast.
-
-    From our home on the mesa we still hear it calling,
-        Long, long is the journey, o'er mountain and plain;
-    But it's only in memory--past to the present--
-        And only in fancy we hear it again.
-
-    The scent of the lilacs, the voices of children;
-        The chirp of the tree-toad, the song of the stream;
-    The path through the woods, where as lovers we wandered,
-        Confusingly call like a voice in a dream.
-
-    Call to us here in our home on the mesa,
-        From out the dear past in the house on the hill,
-    And in fancy we dwell in the home by the Schuylkill,
-        When our day's work is done and the voices are still.
-
-
-
-
-    A JOLLY FELLOW IS THE WESTERN TUMBLEWEED.
-
-
-    Oh! what a jolly fellow is the western tumbleweed,
-    As he rolls across the mesa with the breeze;
-    He'll even try to race a train, no matter what it's speed,
-    You can see him from the window jump the trees.
-
-    Just where the fellow's bound for it's a little hard to say,
-    For his heart seems full of joyousness and life,
-    As he capers like a schoolboy out for a holiday--
-    Some say the beggar's looking for a wife.
-
-
-
-
-    THE GRAND CANYON OF ARIZONA.
-
-
-    Methought 'twas God, Himself,
-    For as I reached the "El Tovar"
-    And passed toward the Canyon's brink,
-    I seemed to stand upon the bar
-    Of Heaven--too dazed to think.
-
-
-
-
-    THE MELODIES OF MEMORIES.
-
-
-    The melodies of every clime
-    Ring out so true and sweet,
-    They make the world akin in song,
-    Bring joy with every beat.
-    They breathe the incense of the morn,
-    The fragrance of the night,
-    They weave the mystery of love,
-    In garlands of delight.
-
-    Oh! sweet uplifting melodies,
-    That soothe the human soul;
-    The young and old, the rich, the poor,
-    Are one 'neath their control.
-    The melodies of younger days,
-    The sweetest ever sung,
-    The melodies of memories
-    That make the ages young.
-
-    Oh! crowd us, blessed melodies,
-    Come to us one by one;
-    Bring back the tender thoughts of life,
-    When it had scarce begun.
-    And in one long, delicious dream
-    We live the past again,
-    In melodies of memories,
-    In happiness and pain.
-
-
-
-
-    THE HARVEY HOUSE CHIMES ON THE SANTA FE RAILROAD.
-
-
-    "One, two, three, four, five, six, seven, eight!"
-    Better hurry--do not be late.
-    Best of food is on the table,
-    Eat as much as you are able--
-    1, 2, 3, 4, 5, 6, 7, 8.
-
-    "One, two, three, four, five, six, seven, eight!"
-    A welcome waits at every plate.
-    Shining silver, spotless linen,
-    Waitresses, all pretty women--
-    1, 2, 3, 4, 5, 6, 7, 8.
-
-    "One, two, three, four, five, six, seven, eight!"
-    Ascending sweet from one to eight,
-    Descending just as sweet to one--
-    The chimes have stopp'd, the meal's begun.
-
-
-
-
-    REST.
-
-
-    The golden sun is setting in the quiet, silent West,
-    The feathered songster's voice is hushed within its cozy nest,
-    And the evening breeze comes stealing o'er the fields of new-mown
-      hay,
-    As Phoebus folds his wings and bids farewell the dying day.
-
-    The gloaming shadows thicken 'round the house beneath the hill,
-    The water ripples softly 'neath the wheel that works the mill;
-    Then over all comes darkness, and the landscape fades from sight,
-    And tired Nature sinks to rest within the silent night.
-
-
-
-
-    SHE GAVE ME TWO.
-
-
-    In childhood days I met a little Miss,
-    Whose pouting lips were luscious as the dew.
-    I begged that she would give me just one kiss--
-    She gave me two.
-
-
-
-
-    THE FACE IN THE MOON.
-
-
-    One night I gazed with rapture on the moon,
-    And there I found surcease from all my cares.
-    The face I saw within, it was not his--
-    'Twas hers.
-
-
-
-
-    IN SPIRIT LAND.
-
-
-    In spirit land, I know not where,
-    I only know she comes to me
-    In memory--
-    When I was young and she was fair.
-
-
-
-
-    LIFE'S TREASURES.
-
-
-    It matters not
-    How great our treasures,
-    The cares of life
-    Outweigh its pleasures.
-
-
-
-
-    JUROR NO. 3.
-
-
-    Two boys were up for burglary, and crowded was the Court,
-    With half the town of Elkington, who came to see the sport.
-    For well they knew the Judge, whose heart was harder than a stone,
-    Who only dealt in justice--to whom mercy was unknown.
-    Oh! what a wondrous judge he was, no guilty e'er got free,
-    His instinct read between the lines what no one else could see,
-    And these two boys on whom he gazed with comprehensive stare,
-    Raised not their eyes to his stern face, for mercy was not there.
-
-    "No counsel, Judge," the prosecutor said in careless way;
-    A case was just a case to him, who tried them every day.
-    "We'll see to it," the Judge replied, as often times before.
-    He had imposed the maximum--the law allowed no more.
-    The case was called, the jury boxed, when Juror No. 3
-    Said, "Judge, they have no counsel, and it seems unfair to me.
-    The Commonwealth has two shrewd men." The Judge replied, "What
-      two?"
-    And Juror No. 3 came back, "Why, Mr. Todd and you."
-    "Let me correct you," said the Judge, amid the courtroom din;
-    "The Court administers the law when all the facts are in."
-
-    Then turning to the crier he said, "Keep order in the Court;
-    Now Mr. Todd, begin the case, the time is getting short."
-    Just then a woman's helpless cry fell on the Judge's ear,
-    And both the lads within the dock were seen to shed a tear.
-    And Juror No. 3 stood up and said, "Where is the friend?
-    I call on Thee, Lord Jesus, the prisoners to defend."
-
-    The Judge sat upright on the bench, a greater One than he
-    Was in the court to help the lads, summoned by Juror 3.
-    The case was tried and verdict found, "Guilty" the foreman said,
-    And not a juror disagreed--the Judge bowed low his head.
-
-    Then to the bar there came the man, whose house the lads had
-      robbed.
-    Gazing on Juror No. 3, "Forgive them, Judge," he sobbed.
-    "I forgive them as Our Master would, as I hope He'll pardon me."
-    And the light on the face of Juror 3 was wonderful to see.
-
-    And all eyes turned upon the bench; what would that stern Judge do?
-    His face was soft as baby's smile; he had been born anew.
-    "You have sinned, my lads; go, sin no more!" Then he set them free,
-    And who shall say that Jesus was not Juror No. 3?
-
-
-
-
-    HE WHO SITS IN THE GLOOM.
-
-
-    Not a day goes by, but I read somewhere
-        In this wonderful world of ours,
-    That some lowly being has raised his soul
-        And become as the Norman towers.
-    From out of the sweat and the slavish grind,
-        From the depths where but hope is known,
-    There has risen a star, serene and pure,
-        That reacheth the Heavenly throne.
-
-    And no one knoweth his neighbor's lot,
-        Or divineth the Father's will,
-    For he who sits in the gloom tonight
-        May tomorrow walk on the hill;
-    For swift as the flash of a falcon's wing,
-        In the gloaming homeward flight,
-    Comes the change that lifteth the downcast up,
-        And the darkness turns to light.
-
-
-
-
-    MI-LADY'S SHOE.
-
-
-    I only know you by the crease
-    And dents across your dainty shoe.
-    And yet there's something in that crease--
-    YOU!
-
-    A fairy phantom of the mind,
-    Above thy shoe a form I see,
-    Another worships at thy shrine--
-    ME!
-
-
-
-
-    BESIDE THE SEA.
-
-
-    Beside the sea, beside the sea,
-    I seemed to hear my mother's voice.
-    She had been sleeping twenty years,
-    And yet her voice came back to me,
-    Beside the sea, beside the sea.
-
-
-
-
-    WINTER'S SORROWS.
-
-
-    There's a bitterness and sorrow in the Winter's leaden air,
-    A chilling sort of something that's akin to human care,
-    A tender gray of sadness, like a voice of bygone gladness,
-    In the ashen sombre atmosphere that lingers everywhere.
-
-    There are tear-drops on the eyelid, in the Winter's leaden air,
-    A sympathetic chord is touched that finds expression there;
-    Reality seems clearer, and the end of all seems nearer,
-    In the sober, flinty ether, supernaturally bare.
-
-
-
-
-    KISSES.
-
-
-    Kisses sweet behind the door--
-    She was three and I was four;
-    Kisses still are sweet to me,
-    Though she now is fifty-three.
-
-    Kisses sweet behind the door--
-    I was three and he was four;
-    Kisses still are sweet to me,
-    Though he is more than fifty-three.
-
-
-
-
-    MYSTERY.
-
-
-    From out the caverns of mysterious thought
-        Appeared a form who said, "I'm Memory."
-    "Go back!" cried I, "I care not for the past,
-        Send me the form who knows what's yet to be."
-
-    A shadow rose and said, "You call, I'm here;
-        Thy future leads thee to the Stygian shore,
-    And none shall weep for thee a single tear."
-        "Avaunt!" I cried, "I will not hear thee more."
-
-
-
-
-    ALMA MATER "PENNSYLVANIA."
-
-
-    I see thee, dear "Old Penn," in silhouette,
-    Far back along the road on which I came;
-    And memories, fragrant as the violet,
-    Are interwoven with thine honored name.
-
-    I've thrilled at "Harvard" and at good old "Yale,"
-    Proud have I been to meet their doughty men,
-    But in the world there's just one nightingale--
-    My Alma Mater, my own honored "Penn."
-
-
-
-
-    NAPOLEON'S TOMB.
-
-
-    Here pause and gaze, ye travelers young and old,
-    On this dull marble hewn in sacred mould,
-    Mark that inscription on the graven stone,
-    Within sleeps he, who stood 'mongst men alone.
-
-    Within sleeps he who at Marengo fought,
-    Whose skill and courage set his foes at naught;
-    Who led his men beneath th' Egyptian Sun,
-    Scarce fought a battle, but the day he won.
-
-    Who, living, loved the cannon's deadly roar,
-    And made his trumpets heard on every shore;
-    Who, with his eagle banner, never furled,
-    His conquering legions over-ran the world.
-
-    Proud Austria humbled lay beneath his feet,
-    And Russia's legions fled in swift retreat;
-    He saw the world, ambition swelled his heart,
-    He longed for all, nor cared to have a part.
-
-    So lost he all, insatiate from the first,
-    When his proud deeds like fire on Europe burst.
-    A soldier, statesman, Emperor, _toute chose_ King,
-    Before nor since has lived so grand a thing.
-
-    He died in exile from his glorious France,
-    On lonely isle, his life a leaden trance;
-    The sea around, walled in on every side,
-    His proud heart broke, and so the hero died.
-
-    Within this marble rest the mummied bones
-    Of him who held in life a dozen thrones;
-    Approach with awe and reverential tread,
-    Here sleeps the mightiest of the living--dead.
-
-
-
-
-    THE SORROWS GRIM WANT IMPOSES.
-
-
-    'Neath the sorrows that grim want imposes,
-    Imperious stalks decay;
-    Hunger's terrors have withered the roses
-    That bloomed and then faded away.
-
-    The hearts which with young life once budded,
-    The fond hopes which happiness kissed,
-    Are dissolved in the tears which have flooded
-    The homes of the poor in our midst.
-
-
-
-
-    I WOULD I WERE STILL A BOY.
-
-
-    Oh! joy, for a fancied rest
-    Instead of this grind, a toy.
-    God seems to know what is best,
-    But would I were still a boy.
-
-    Oh! man, and a heartsick smile,
-    Has something gone wrong ahead?
-    Why! life is scarcely worth while,
-    If man can wish himself dead.
-
-    Oh! well, poor fellow, I know
-    Some have it better than you.
-    But, man! wherever you go,
-    The satisfied are the few.
-
-    Go seek ye, and ye shall find
-    The light of eternal joy.
-    When Faith once enters the mind,
-    Again you will be a boy.
-
-
-
-
-    THE SAME VOICE.
-
-
-    The same voice speaks as the days of eld,
-    Since the human race began,
-    Enmeshed in the woof and weave of life,
-    Designed in the form of man.
-
-    It spoke the dawn of his natal day,
-    It is speaking today as then,
-    The voice that speaks is the voice of God,
-    From out of the mouths of men.
-
-
-
-
-    MEMORIES.
-
-
-    The fragrance of a cigarette,
-    The incense of a morning fair;
-    The odor of the mignonette,
-    The perfume of a woman's hair,
-    The sunset dancing on the sea,
-    White bolles of cirrus in the sky,
-    Bring back fond memories to me.
-    Ask not! I cannot tell you why.
-
-
-
-
-    OLD DAYS.
-
-    A BALLAD.
-
-
-    She stood by the stile in the twilight dim,
-        With a soft look in her eye;
-    'Twas a tryst, she waited alone for him,
-    Her lover, a warrior bold and grim,
-        'Neath that beauteous evening sky.
-
-    "Why tarries my lord?" quoth the maiden fair,
-        "My love, my love, come to me!"
-    In her eyes came a look so sweet and rare,
-    As she gazed to the wood, through the scented air,
-        Till her eyes could no longer see.
-
-    Still she waited there for her warrior bold,
-        "He will come to-night!" said she.
-    Then up rode a knight in armor of gold:
-    "Your warrior died like a knight of old,
-        On the battlefield," said he.
-
-
-
-
-    ON THE ENGAGEMENT OF MISS CONSTANCE MORE.
-
-
-    Thou hast the wit and charming grace
-    To match with speech thy lovely face--
-    A maid whom men adore.
-    Yet I do prophesy this night,
-    Before the dawn of next year's light
-    That thou wilt be no "More."
-
-
-
-
-    OH, GONDOLIER.
-
-
-    Oh, Gondolier, turn thy boat again,
-    That I may see the sunlight on its prow,
-    The light that I have tried to paint in vain,
-    The light of Heaven--there! 'tis shimmering now.
-
-
-
-
-    A PROPOSAL.
-
-
-    Let us go a-maying, love;
-    All the world is playing, love,
-    This God-sent happy day.
-    Let us be together, love,
-    Ever and forever, love,
-    Forever and for aye.
-
-
-
-
-    LAKE GENEVA--A MEMORY.
-
-
-    I sat beside her in the gloaming light,
-    And neither spoke--'twas by Geneva's lake.
-    We sat, and neither spoke, and then came Night.
-
-
-
-
-    MY BOYHOOD'S HOME.
-
-
-    Oh, many a time in the silent night
-    I sigh for the days gone by,
-    When a happy boy with gay delight
-    I hailed the cuckoo's cry.
-
-    And the dear old woods that I loved so well,
-    Where the stock-dove built its nest;
-    The rippling stream and the hermit's cell,
-    Its green and shady crest.
-
-    The stately home 'neath the elms so tall,
-    The lawn with its cool bright turf;
-    The old peach tree by the garden wall,
-    Each has its own sweet worth.
-
-    For my head is bent with the weight of years,
-    As white as the falling snow;
-    My stream of life through this vale of tears
-    Will soon have ceased to flow.
-
-
-
-
-    THE DEATH OF THE HOST OF THE JOLLY SWAN
-
-
-    The pewter pots were shining on the shelves behind the bar,
-    Like the gold and silver lining of a sunset cloud afar,
-    And the pine log fire burned brightly with its blaze of light and
-      heat,
-    Athwart the untrodden sawdust floor that looked so clean and neat.
-
-    A cheerful, ruddy glamor lighted up the tavern walls,
-    And, shooting through the open door, lit up the silent halls,
-    To where the old clock's pendulum swung slowly to and fro,
-    With measured beat, that seemed to speak of the days of long ago.
-
-    Sick unto death--in the room above--lay the host of the Jolly Swan.
-    And far and near, his kinsmen had, to seek the doctors, gone,
-    For the jovial face and the merry laugh of the host of yesterday
-    Had all departed, leaving naught but the mould of the living clay.
-
-    Alone in his chamber he watched the sun slope down to his Western
-      bower,
-    And a gentle smile stole o'er his face, as the old clock chimed the
-      hour.
-    His thoughts were of the days gone by--as the host of the Jolly
-      Swan,
-    He had raised his tankard high and drank to the health of the old
-      friends gone.
-
-    There was good old Squire Thornleigh, with his great big raw-boned
-      gray,
-    And the biggest hearted fellow that e'er waved the "Hark! Away!"
-    There was Jones, the hunting parson, with his jovial, ringing
-      laugh,
-    Who could preach a right good sermon and an honest bumper quaff.
-
-    Then there was Billy Foster, who was only twenty-two,
-    When he broke his neck in the hunting field through the casting of
-      a shoe.
-    And portly old Judge Horner, who in the room below,
-    Had smoked and drank full many a night in the days of long ago.
-
-    And as he thought, the window ope'd, and in slipped Huntsman Death,
-    Arrayed in scarlet, white-topped boots, with a fine rich malty
-      breath.
-    "Ah! good old friend," the huntsman cried, "since you have called
-      me here,
-    Get down the pewter pots that we may drink a funeral bier--
-
-    For I have ridden hard today to reach the Swan this night,
-    And what I ask is nothing more than what is only right."
-    With that, the host got out of bed and brought two pewters brimmed,
-    And while below he saw that all the tavern lights were trimmed.
-
-    His kinsman, riding up the road, with doctors from afar,
-    Reined up to watch the lights that burned so brightly in the bar;
-    While the jolly host with Death alone sat in the room above,
-    And drank the foaming liquor down, his first and only love.
-
-    Just then the sound of horses' hoofs the sick man heard without,
-    And he and Death, in one glad breath, sent up a hunting shout--
-    "It's bold Squire Thornleigh's raw-boned gray, or Parson Jones's
-      bay--
-    I'm coming, Squire, Yoick's tally-ho!" Death shouted, "Hark! Away!"
-
-    Yoick's tally-ho fills loud the room as he springs up from bed,
-    And the bugle horn sounds merrily in the chamber of the dead;
-    Gay prancing steeds and huntsmen bold ride blithely by his side,
-    "Yoicks! tally-ho!" rang from his lips, and back he fell and died.
-
-    His kinsmen heard that hunting shout, that old familiar cry,
-    And in they rushed--too late--too late--to see the good man die.
-    Two empty tankards on the floor was all that they could see,
-    And how the host of the Jolly Swan died--is still a mystery.
-
-
-
-
-    OH! TAMACA.
-
-
-    Oh! Tamaca, oh! Tamaca,
-    I see thy face,
-    I see thy face.
-    The sea is rolling on the bar,
-    Low hang the clouds, afar, afar,
-    Thy skiff bounds swiftly in the race,
-    Tis death that leads thee, Tamaca.
-
-
-
-
-    ONE SWEET MOMENT.
-
-
-    Under the lindens we wandered,
-    Gaily my love and I;
-    Light through the shimmering leaflets
-    Fell like a kiss from the sky.
-    On to her soft, golden tresses,
-    Into her eyes divine,
-    Smothered her form with caresses,
-    Blended her shadow with mine.
-
-    Under the lindens we wandered;
-    Fifty years had gone by;
-    Light through the cold, naked branches
-    Fell like a pall from the sky.
-    Old and forsaken, our children
-    Had left us to starve and to die;
-    But we lived in the past one sweet moment
-    'Neath the lindens, my love and I.
-
-
-
-
-    MINE TONIGHT.
-
-
-    Mine to-night,
-    For tomorrow's light
-    Our dream will end, and waking bring dull pain.
-    Oh! the happy past,
-    Far too sweet to last,
-    For 'tis decreed we shall not meet again.
-
-    In thy dear eyes
-    My heaven lies,
-    And yet forever I must say good-bye;
-    With your lips to mine,
-    And my heart to thine,
-    With this last embrace would God I could die.
-
-
-
-
-    THE MELODY OF LOVE.
-
-
-    Oh! breathe again thine answer to the stars.
-    The woodbine turns to listen to thy voice;
-    The subtle beauty of such love as ours
-    Makes every living thing rejoice.
-    Blending sweet heaven with our earthly love,
-    Locked in each other's arms, our prayers to God
-    Rise from our souls unto his throne above
-    In gratitude, sweet gratitude to Him.
-
-    Oh! breathe again thine answer to the stars.
-    The nightingale doth listen in the grove
-    To music sweeter than the breath of flowers,
-    Unto the melody of love.
-    Holy as triumphs of an angel hand,
-    Strained heart to heart, for love is God's command,
-    Mute in the fulness of our joy, we stand
-    In gratitude, sweet gratitude to Him.
-
-
-
-
-    WIVES.
-
-
-    We were alone--my wife and I--
-    God from above looked down on us,
-    Never a word did either speak,
-    Dry lay the salt from the tears on her cheek,
-        Joy was afar from us.
-
-    Silence held sway, the sin was mine,
-    Pride was my sin--alas! for me,
-    Pride that strangled the man within,
-    That silenced the truth and increased my sin,
-        She had done naught to me.
-
-    Someone's speaking. Who dares intrude?
-    Reckless being, away from here.
-    "Reckless"--that little form in white?
-    Clinging to her, crying "Mother, good night!"
-        Low hung my head in shame.
-
-    "Mother," I cried, "can you forgive?"
-    With faltering step I went to her,
-    And never a word did mother speak,
-    But the salt grew wet on her glowing cheek,
-        And joy came back to us.
-
-
-
-
-    A COUNTRY ROMANCE.
-
-
-    May I take your hand in mine,
-        Little Miss?
-    For this fairy-like retreat
-    In the country fresh and sweet,
-    Is what I've longed to meet,
-        Little Miss.
-
-    Yes, I came here from the town,
-        Little Miss;
-    Without an aim in view,
-    I have roved the country through,
-    And by chance I've met with you,
-        Little Miss.
-
-    You were born upon the farm,
-        Little Miss?
-    Why, how happy you must be
-    In the country pure and free!
-    I am filled with ecstasy,
-        Little Miss.
-
-    Do I like the city belles,
-        Little Miss?
-    Well! some I do, and yet,
-    Why you needn't pout and fret,
-    For I am still to let,
-        Little Miss.
-
-    I am longing for a kiss,
-        Little Miss.
-    Yes, I'm asking with my eyes
-    In a tongue that never lies,
-    And in words I can't disguise,
-        Little Miss.
-
-    Oh! is what I say quite true,
-        Little Miss?
-    Ah! Why should Phyllis doubt
-    With that pretty little pout?
-    I know what I'm about,
-        Little Miss.
-
-    Now what age am I, you ask,
-        Little Miss?
-    Well, I've just turned twenty-two,
-    And I'd like to marry you.
-
-           *       *       *       *       *
-
-    Now, I'm married. Ah! Who to?
-        That little Miss.
-
-
-
-
-    WORD WOUNDS.
-
-
-    Though strong emotion sweeps the heart,
-        Though anguish wings the brow,
-    Hold back the words whose cruel smart
-        Hurts no one worse than thou
-
-    Pause, pause until the morrow brings
-        Reflection, thoughts more kind,
-    Then from calm reason's crystal springs
-        Distill from out thy mind.
-
-    A wound received from warrior's sword
-        May heal within a day,
-    But the wound of some light, thoughtless word
-        May be a wound for aye.
-
-
-
-
-    THE GONDOLIER'S SONG.
-
-    (From "Lionardo, the Gondolier.")
-
-
-    Goodnight, my love, a fond goodnight,
-    The moon shines down on thee.
-    But soon that cloud shall hide its light,
-    And thy dear face from me,
-    And thy dear face from me.
-
-    Goodnight again, my beauteous flower,
-    Farewell, my gentle dove;
-    The night speeds on, 'tis now the hour
-    When we must part, my love--
-    When we must part, my love.
-
-    Sleep, softly sleep, luxurious rest,
-    Sweet dreams, dear love, be thine.
-    May each unconscious thought be blest
-    With love, sweet love of mine--
-    Goodnight, sweet love of mine.
-
-
-
-
-    AVAUNT! YE TEARS.
-
-
-    Avaunt! ye tears, 'tis not the soul
-    That crumbles 'neath the grassy sod.
-    Now dost thou learn how vain to weep,
-    When death means, "God"?
-
-
-
-
-    THE LAST OF THE TASMANIANS.
-
-    Tasmania, a large, beautiful island to the southeast of
-    Australia, when discovered by Van Dieman, was peopled with a
-    magnificent race of savages, resembling somewhat the American
-    Indian. Civilization, with its attendant advantages and evils,
-    proved too much for the primitive child of the forest. The last
-    Tasmanian, a woman, died in 1885, and the once splendid race is
-    now extinct.
-
-
-    PROLOGUE.
-
-    Alone she sits, nor marks the dying day.
-    Alone on earth, she bows her weary head,
-    And dusky spirits bear her soul away;
-    A race extinct. The last Tasmanian dead.
-
-
-    APOSTROPHE.
-
-    Where are thy dark sons, Tasmania, Tasmania?
-    Where are the lords who once swayed o'er thy shore?
-    Gone to their fathers; Oh! weep ye, Tasmania,
-    Weep for the race thou shalt see never more.
-
-    Weep for the race on thy fair bosom nourished,
-    Tutored by nature, untrammeled, so free;
-    Kings of thy green hills and valleys they flourished,
-    Kings who now sleep in their graves by the sea.
-
-    Proud were the race who knew not their beginning,
-    To whom the long past was as sealed as their fate,
-    Who counted their seasons when insects were winging,
-    The time by the shadows, the suns for their date.
-
-    Skilled were thy dark sons, Tasmania! Tasmania!
-    Virtuous, gentle and peaceful their ways;
-    Till civilization o'ertook thee, Tasmania,
-    And civilized habits renumbered their days.
-
-    Set is the sun of thy people, Oh, country!
-    Strangers now trample unawed o'er they race;
-    Forgotten, the dusky-hued sons that a century
-    Past were the monarchs of all thy sweet place.
-
-    Soft may they sleep by thy shores, Oh! Tasmania,
-    Where sea-dirges swell for the child of the past;
-    Sleep as thy guardian spirits, Tasmania,
-    Hovering round thy dear land to the last.
-
-
-
-
-    AN ENGLISH LANE.
-
-
-    Tall elms on either side with stately heads,
-    With here and there an oak of ancient days,
-    Sweet briar hedges flanked with clover beds,
-    In which the feathered songster trills his lays.
-
-
-
-
-    WORDS TO MENDELSSOHN'S "CONSOLATION."
-
-
-    Lord, my poor heart, with sadness now is breaking,
-    Longing for light, that I may find belief,
-    Aching for rest from these tumultuous doubtings,
-    Seeking to find the path that leads to peace.
-    But Oh! dear Lord, my soul refuses comfort;
-    Vainly I strive for the goal beyond this sad, sweet world.
-    Rest for eternity.
-    Grant then, Oh! Lord, the enlightenment of sorrow,
-    That gentle faith which comes through grief alone;
-    Ripened in hours of darkest tribulation,
-    When my poor soul stood face to face with Thee.
-
-
-
-
-    A MAIDEN OF TE PITO TE HENUA, AN ISLAND IN THE SOUTH PACIFIC.
-
-
-    On her beautiful puoka (head)
-    Hung her raven-black rauoko (hair)
-    While love filled her mokoikoi (heart)
-    Her alabaster kiri (skin)
-    Gleamed on her kapu hivi (shoulder).
-    And her petticoats came down to her kuri (knee).
-
-    Sweet was her aerero (tongue);
-    White were her even niho (teeth),
-    And graceful her kakari munava (waist);
-    Voluptuous her ngutu (lips)
-    And shapely were her heru (legs).
-    Well developed were her kiko ua-ua (muscles).
-
-    Oh, this maid of Rapa Nin (island)
-    Bore a rima tuhi hana (ring).
-    Beloved was she by a tangala (man),
-    Who in his little vaka (boat)
-    Caught a wedding gift of ika (fish)
-    And breathed his tale of love in her ringa (ear).
-
-
-
-
-    AN ACTOR'S EPITAPH.
-
-
-    Here lies a body whose majestic grace
-        Drew from his fellow-man unstinted praise;
-    Who lured emotion from her hiding place,
-        And thrilled the world with deeds of other days.
-    He that possessed, which unto Art is dear,
-        A grand conception of unvarnished truth;
-    He oft provoked a smile, more oft a tear,
-        Sublime and beauteous in his manly youth.
-
-    Full in the zenith of his great renown,
-        God gave to him his final part to play;
-    While Death untimely rung the curtain down
-        On that great scene where man doth pass away.
-    The rustling leaves soft whisper o'er his head,
-        And robins fill the air with sweetest sound;
-    Within the theatre of the mighty dead
-        The actor sleeps beneath the sacred ground.
-
-
-
-
-    THE LOVED ONES LEFT BEHIND.
-
-
-    There are sounds of martial music,
-    But the laugh is hushed within,
-    As the soldier boys march bravely down the street;
-    A little child is weeping,
-    As she listens to the din,
-    Of kettle-drum and tramp of many feet.
-
-    "Oh! my papa! Oh! my papa!"
-    Wailed the tiny little mite.
-    "You have gone and left poor mamma all alone;
-    Come back, my darling papa,
-    Oh! do come home tonight,
-    And see how good your little girl has grown.
-
-    "I won't be naughty, papa,
-    And I won't make any noise,
-    When papa's head is aching him so bad;
-    I will walk about so quietly
-    And put away my toys,
-    Your little girl won't make her father sad."
-
-    But the tiny voice fell empty,
-    On the shadows in the room,
-    And the music in the distance fainter grew;
-    This is but a single instance
-    Of the scenes within the gloom,
-    Which the loved ones left behind are passing through.
-
-
-
-
-    LIFE'S VOYAGE IN VAIN.
-
-
-    With eyes upcast to the glistening stars,
-    Full of a strange mysterious awe,
-    I watch the lights on the heavenly bar,
-    And think of the ships that are sailing in,
-    Cargoless, empty, their voyage in vain.
-
-
-
-
-    THE SONG OF THE STREAM.
-
-
-    Born on some distant mountain top,
-        A happy wanderer from its birth,
-    From stone to stone with merry laugh
-        It dances o'er its mother earth.
-
-    Then with some gathering streamlet meets,
-        With bubbling laughter on they fling
-    Their glittering sprays through sweet retreats,
-        And cool abodes of sylvan king.
-
-    The mighty river next appears,
-        And to its arms the youngsters race,
-    Then separate with baby tears,
-        While current marshalls each in place.
-
-    And last the ocean heaves in view,
-        Then dies for aye the streamlet's span;
-    Death is the ocean, all life through,
-        Whose outstretched arms wait every man.
-
-
-
-
-    DRY THINE EYES.
-
-
-    Dry thine eyes, love; cease thy weeping,
-    For thy boy will soon be sleeping
-    Safe within the angels' keeping--
-    Dry thine eyes.
-
-    Hold my hand; the tide is flowing,
-    Down the stream my boat is going,
-    On the banks the kine are lowing,
-    In the skies.
-
-    See, my love, the shadows creeping,
-    Round my bed while I am sleeping,
-    List! I hear a sound of weeping!
-    Now it dies.
-
-    Raise me up, the day is breaking;
-    Streaks of gray proclaim its waking;
-    Sleep my weary eyes forsaking,
-    In the light.
-
-    Raise me up that I may, nearer,
-    Watch the shades becoming clearer;
-    Ebbing life seems growing dearer.
-    But my sight
-
-    Fails again; the sombre fretting
-    Changes now to golden netting.
-    See! the blood-red sun is setting!
-    Love, good-night.
-
-    Unto God my soul is winging;
-    I can hear the angels singing;
-    Joy bells overhead are ringing!
-    Dry thine eyes.
-
-
-
-
-    HONOR.
-
-
-    When aloft two young hearts are soaring
-        To those realms of pleasure and pain,
-    The law and the prophets ignoring,
-        There's a something recalls them again.
-
-    And the truths that we see in reflection,
-        Sad but sweetly encircle the soul,
-    For honor's more kind than affection
-        That creates, then destroys the loved goal.
-
-
-
-
-    SONG TO THE MOON.
-
-    (From "Lionardo, the Gondolier.")
-
-
-    Orb of some mighty potent power
-    In thine exalted sphere,
-    Thy soft light maketh sweet the hour
-    Within the fairy woodland bower,
-    To maidenhood, so dear.
-
-    Empress of Night, thy beauteous spell
-    Superb and matchless given,
-    Thy light the lover loves so well,
-    The gentle tale of old to tell
-    While earth becomes, his Heaven.
-
-    Luna, thou goddess of the night,
-    Chaste harbinger of love,
-    I feel in thy sweet fairy light
-    My heart again grow glad and bright,
-    When thou dost ride above.
-
-
-
-
-    TO MY MOTHER.
-
-
-    Awake, fond heart, to life again,
-        For why should sorrow ever
-    Enshroud the past with endless pain,
-    Cause bitter tears to flow in vain
-        For those passed o'er the river?
-
-    The dead are gone--they ne'er return,
-        Life's troubles here are ended;
-    And though to see them back we yearn,
-    Christ's teachings lead us to discern
-        'Tis not what God intended.
-
-    Who can the curtain thrust aside,
-        Or gaze through Death's dark portals?
-    Short space on earth doth each abide,
-    Then comes his call to swell the tide,
-        Whose waves are dying mortals.
-
-    We all must die, mayhap this night
-        Our souls are drifting thither,
-    Where those dear loved ones lost to sight
-    Await us there in glory bright,
-        Across the shining river.
-
-
-
-
-    THE UNEXPECTED SUMMONS.
-
-
-    Dead in his chair. The sun's expiring rays
-    With crimson glow lights up the rigid face,
-    And in the unclosed eyes that look afar
-    A blood-red sunbeam finds a resting place.
-
-    Dead! with the pen still clutched in pulseless hand,
-    "Dear wife," sole words before his sightless gaze.
-    One nerveless arm hangs strangely by the chair,
-    While at his frozen feet a kitten plays.
-
-    Dead! Can it be, with children's shouts without?
-    So still he sits. How painful is the light,
-    And deeper glows the crimson on his face,
-    The sun has set, Goodnight.
-
-
-
-
-    OH! 'TIS SWEET TO LIVE.
-
-
-    The funeral march, it suiteth not my mood,
-    Its Stygian tones are those on which men brood.
-    Beyond its solemn measure lies the tomb,
-    And shades dissolving in eternal gloom.
-
-    Nay! rather let me hear some lively air,
-    Whose Springtime notes suggest a morning fair,
-    Filled with the pulsing joys that life can give,
-    On this old earth, for oh! 'tis sweet to live.
-
-
-
-
-    TOO LATE.
-
-
-    The corn may spring, the corn may spring,
-    And thou beside the river walk;
-    Yet sad must be the song you sing,
-    A withered flower on the stalk.
-        The elms overhead are sighing,
-        The solemn rooks around are flying,
-            Caw, Caw! Caw, Caw!
-
-    And once 'twas here we walked alone,
-    In that sweet hush of eventide,
-    Before thy heart had turned to stone,
-    Before thy love for me had died.
-        The elms overhead are sighing,
-        The solemn rooks around are flying,
-            Caw, Caw! Caw, Caw!
-
-    Beyond the fence in peace I sleep,
-    And soughing breezes kiss my grave.
-    I hear my name, and thou dost weep,
-    For I was fair and thou wert brave.
-        The elms overhead are sighing,
-        The solemn rooks around are flying,
-            Caw, Caw! Caw, Caw!
-
-    I hear thee coming through the gate,
-    I feel thee kneeling at my head.
-    I hear thy cry, "Too late! Too late!"
-    I love her now and she is dead.
-        The elms overhead are sighing,
-        The solemn rooks around are flying,
-            Caw, Caw! Caw, Caw!
-
-
-
-
-    SONG OF ATTILA.
-
-    (From "Lionardo, the Gondolier.")
-
-
-    I'll sing you a song about great Attila,
-    A mighty man was he.
-    He was King of the Huns, had seventy sons,
-    And daughters one hundred and three, three, three,
-    And daughters 1, 0, 3.
-
-    All nations vowed him a very fine fellow,
-    With them he couldn't agree;
-    One Autumn so mellow, he conquered Torcello
-    A. D. four hundred and forty-three,
-    Anno Domini 4, 4, 3.
-
-    So he left a son to watch over the place,
-    Though round it flowed the sea,
-    And all over the place sprang the Kingly race
-    Of Torcellani--that's me, me, me,
-    Anno Domini 4, 4, 3.
-
-
-
-
-    DREAMS.
-
-
-    Midst pastoral lands and purling recluse streams
-    There dwells the maiden queen of recreant dreams,
-    Gentian by name, a maid most wondrous fair,
-    With eyes like astral and her glorious hair,
-    Tangled with moonbeams, disputes the right
-    Of other garb to veil the beauteous sight.
-    Her skin, as white as Ida's Cretean snow,
-    Outlines a form of soft voluptuous flow
-    Of grace majestic, contours fair to see,
-    Exquisite in their matchless symmetry;
-    While, crowning all, a sweet and noble grace
-    Marks every movement and o'erspreads her face.
-    And having this described this noctal flower,
-    The Muse will now define sweet Gentian's power.
-    From out her bower of amaranthine hue
-    She peers with eyes of soft, exquisite blue,
-    And breathing gently, like a zephyr's kiss,
-    Enjoys alone the core of perfect bliss.
-    Queen of a land, to every mortal given
-    A glimpse, at least, of what perchance is heaven;
-    Queen of a land of terror, shame and crime,
-    From life to death, and all that marketh time.
-    Queen of a land more wondrous than our own
-    Sweet Gentian reigns, and sways the realm alone.
-    Mistress of nations, every soul on earth
-    Becomes her vassal at the hour of birth.
-    Kings are her subjects, as the peasant boy,
-    And brilliant minds with her a fancy toy.
-    Once steeped in sleep, all minds become as one,
-    For Gentian's spell o'er man has then begun.
-    No longer cares of base terrestrial clay
-    Torment the soul with visions of the day.
-    Earth is no more, the river crossed is deep,
-    Man dies each time his head is bowed in sleep,
-    And Gentian paints the sphere to suit her mind
-    Capricious as the sex of womankind.
-    Now steeped in bliss she leads the love-sick swain
-    And gives the kiss for which he sighed in vain.
-    The maid who but that morn his glances fled
-    Caresses lovingly his restless head.
-    The hapless poet who is lost to fame
-    Hears in his sleep his own illustrious name,
-    And, laurel crowned, looks back with scornful eye
-    Into a past of mean obscurity.
-    The ship-wrecked boy on some far distant shore
-    In happy dreamland sees his home once more,
-    His mother's face aglow with pride and joy
-    As to her breast she clasps her sailor boy,
-    And summer seas beat on the golden sand
-    That forms the shore of Gentian's wonderland.
-    The ruined merchant's heart again grows light,
-    As fortune smiles on him at dead of night,
-    And sheriff's sales and judgment notes confessed
-    No longer break the weary toiler's rest.
-    Proudly he says, "My word is now my bond,"
-    And coins the yellow dross with Gentian's wand.
-    The holy man, by church ordained a priest,
-    In dreams partaketh of the merry feast,
-    And sparkling glances when the hour is late
-    Make roguish havoc with the celibate.
-    "Avaunt!" he cries, "such joys are not for me."
-    And wakes in prayer upon his bended knee.
-    The scientist retires with addled brain
-    To dream his fretful genius o'er again,
-    When from Cimmerian darkness breaks a light
-    The Atlantic bridged bursts on his 'stonished sight.
-    And then his mind is turned to stranger things,
-    As up he soars on his invented wings.
-    Begrimed with coal, the miner goes to rest
-    And sharp-drawn breaths inflate his manly chest.
-    Sudden, the clothes are rudely thrust aside,
-    His eyes with terror now stand open wide;
-    The roof is falling, God! the whole mine shakes!
-    A loud explosion, 'tis a dream, he wakes.
-    A little elf, a girl, a tiny tot,
-    With waxen face, indents the baby cot,
-    And visions fair regale her infant sight
-    Of cakes and candy through the silent night.
-    Sleep, little angel, Gentian marks thy worth,
-    A sleeping child, the sweetest thing on earth.
-    'Midst dirt and filth, at night the city gloom
-    Steals weird and sickly to a garret room,
-    Where, breathing hard upon a mattress bare,
-    A girlish form is outlined sleeping there.
-    One of the lost, polluted, base, defiled,
-    Yet once she slept, a little angel child.
-    And now she moves, sweet Gentian enters in,
-    And she is pure again and free from sin.
-    The dry, parched lips with innocence now speak,
-    And balmy breezes fan the fevered cheek.
-    The little white-washed cottage standeth near
-    And mother's voice sounds sweetly on her ear,
-    While from the fields the scent of new mown hay
-    Comes strong and lusty at the close of day.
-    Her little sisters and her brothers wait
-    For her to join them at the garden gate,
-    And in her sleep her laugh is undefiled,
-    For she is once again a little child.
-    The anxious farmer sees his fallow land
-    Yield heavy crops beneath the reaper's hand,
-    And barren orchards bend beneath the weight
-    Of golden fruit, 'twas joy to cultivate.
-    No landlord's agent doth his peace invade.
-    He dreams of ownership, and taxes paid.
-    The country parson turns and twists in bed,
-    As mighty thoughts run rampant through his head.
-    He mounts the village pulpit wreathed in smiles,
-    And proudly gazes down the crowded aisles.
-    Forgot is life, with its unvarnished views
-    And vault-like echoes from the empty pews,
-    The church is filled, his lips now move in prayer,
-    And touched is every heart that's gathered there.
-    Not satisfied, his sermon follows next,
-    And from a flower he takes his simple text.
-    Now thrills his audience with his eloquence,
-    And marvels greatly at his common sense;
-    And as he speaks with love of our dear Lord,
-    He sees ahead his well-earned, just reward.
-    A scholar, preacher, helper of the sick,
-    He gets at last a lawn-sleeved bishopric,
-    But soon as he the pastoral crosier takes,
-    The country parson to himself awakes.
-    The hapless monarch on his bed of down
-    No longer sinks beneath the jeweled crown;
-    His mind expands with liberty of thought,
-    And heart proclaims his king-ship dearly bought.
-    In sleep alone, his deep-drawn sighs confess
-    His heart's desire, domestic happiness.
-    "Domestic happiness," sweet Gentian sings,
-    "Belongs to laborers, and not to kings."
-    And so she bids us with a graceful ease
-    Assume a virtue of some dread disease,
-    Which pleases best the tricky fairy's mind,
-    Who hurts so much and yet can be so kind.
-    Well do we know how perfect is her will
-    Who makes us love the rival we would kill,
-    Or vice versa, which more awful seems
-    She makes us kill our rival in our dreams.
-    Ah! gentle Gentian, what a power is thine,
-    To be so cruel and yet so divine.
-
-
-
-
-    WHO LOOKS BEYOND.
-
-
-    There is a grandeur in the man,
-        Who views with calm that endless sleep;
-    Who looks beyond the taking off,
-        Conceives the goal beyond the deep.
-
-
-
-
-    READY TO DIE.
-
-
-    Life is a sarcasm rare,
-        It stands in a class of its own,
-    While love thrills the heart of the fair
-        Decay is at work on the bone.
-
-    That instant the clasp is undone
-        The mantle of life slips away,
-    And beauty men worshipped of yore
-        Becomes but inanimate clay.
-
-    There's reason in all things save death,
-        And no one knows why that should be;
-    What is there mysterious in breath,
-        That it should so suddenly flee?
-
-    Nay, ask not the bent, aged form,
-        The cripple, the starving, the weak,
-    But he whose life-blood courses warm,
-        With health in his eye, on his cheek.
-
-    Go ask him what thinks he of death,
-        He will laugh in his heart for reply,
-    With sarcasm bating his breath,
-        He will tell you he's ready to die.
-
-
-
-
-    THE SOUL.
-
-
-    "Your soul! your soul!" the preachers cry.
-    "What is a soul?" is man's reply.
-    "To know his soul, must man not die?"
-
-    "What is a soul?" I'm glad you ask.
-    The soul is life, the form, the mask.
-    The answer was not such a task.
-
-    The soul is in the ambient air,
-    Down in the earth, in landscape fair.
-    'Tis in the sea, 'tis everywhere.
-
-    To know his soul man must not die,
-    For 'tis the life he liveth by,
-    Connecting him with God on high.
-
-
-
-
-    WHERE LIFE BEGAN.
-
-
-    Theme by uncounted thousands written,
-    In Sanscrit, Greek, Teutonic, Latin;
-    Theme that bewildered all their senses,
-    Theme on which vapory thought condenses;
-    Stupendous, contradictory, thrilling,
-    A most mysterious part fulfilling;
-    An endless night that has no morning,
-    Though millions tear-dimmed wait its dawning;
-    A theme divine, in doubt distressing,
-    A curse to some, to more a blessing;
-    Where life began--and where it ceases?
-    The more we think the light decreases.
-    Conflicting doubts half smother reason,
-    Which complicates with age and season,
-    Until, with aching brain confessing,
-    The greatest sage returns to guessing.
-    Happy that simple-hearted creature
-    Who in the Bible finds a teacher.
-
-
-
-
-    THE GRANDEUR OF DEATH.
-
-
-    Oh! Death sublime, the end of our tempestuous struggle here,
-    Enfolding arms, and breast on which to lay our troubled head,
-    Eternal Gates! through which we turn our face from earthly cares,
-    And then our God, whose outstretched arms await the ransomed Dead.
-
-
-
-
-    THE DAY IS DONE.
-
-
-    And when the curfew of our life
-    Proclaims that even-tide has come,
-    And peaceful shadows end the strife,
-    The day is done,
-    The goal is won.
-
-
-
-
-    DEATH'S COURTSHIP.
-
-
-    Life has been thy courtship, sad thy smile,
-        Persistent wooer, always by my side;
-    Pray leave me with the things of earth awhile,
-        Said I that I e'er loved thee? Then I lied.
-
-
-
-
-    AN APPEAL TO HIM.
-
-
-    So weak, dear Lord, so tired,
-        And Thou so great and strong.
-    Wilt Thou not stretch Thine hand to earth,
-        To help a soul along?
-
-
-
-
-    A CHRISTMAS CAROL.
-
-
-    "Christ was born today!"
-    Hear the joy bells ringing,
-    "Christ was born today!"
-    Hear the children singing.
-    "Christ was born today,
-    Christ was born today!"
-
-    "Christ was born today!"
-    Hear the love-bells ringing;
-    "Christ was born today!"
-    Hear the old folks singing.
-    "Christ was born today,
-    Christ was born today!"
-
-    "Christ was born today!"
-    Joy and gladness bringing,
-    "Christ was born today!"
-    All the world is singing.
-    "Christ was born today!"
-    Forever and for aye,
-    "Christ was born today!"
-
-
-
-
-    WILT THOU, LORD, STAND FOR ME?
-
-
-    I've girded on my armor,
-        To battle for the Lord;
-    Though all the world oppose me,
-        I will uphold His Word.
-    Though tired, wounded, bleeding,
-        My sword still flashes free.
-    I stand for Thee, Lord Jesus,
-        Wilt Thou, Lord, stand for me?
-
-    His name is on my banner
-        In letters writ in gold;
-    The glorious name of JESUS
-        Let all the world behold,
-    And in the mighty combat
-        My leader's face I see.
-    I stand for Thee, Lord Jesus,
-        Wilt Thou, Lord, stand for me?
-
-
-
-
-    MY SAVIOUR UNDERSTANDS.
-
-
-    It is the Lord of Heaven tonight
-        Who's speaking unto me,
-    And I can see His radiant light
-        With great intensity.
-    He's here beside me now,
-        He takes my trembling hands.
-    Shout out--let all the world shout out,
-        My Saviour understands.
-
-
-
-
-    HELP US, GREAT FRIEND.
-
-
-    Many there are who would love to see
-    Things as they are,
-    Things as they are.
-    Life is not what we want it to be.
-    Not what we want it to be:
-    God, give us light,
-    God, give us sight,
-    God, send us peace ere the coming of night.
-
-    Many there are who desire to do
-    That which is right,
-    That which is right.
-    Vainly we strive with this end in view,
-    Strive with this end in view:
-    Help us, Great Friend,
-    Strength to us send,
-    Be our Protector, dear Lord, to the end.
-
-
-
-
-    INTO THE VALLEY OF MY SOUL.
-
-
-    Through all the bitter cares of life,
-        One sadder sight I see;
-    My own dear Saviour, on the Cross,
-        Who died on Calvary.
-    What are my aches to His?
-        Then why should I despair?
-    The One who gave His life for all
-        Will help our Cross to bear.
-
-    Into the valley of my soul,
-        Where deep the shadows lie,
-    There comes a shout from Calvary:
-        "Look upward to the sky!
-    Look up, Oh! fainting heart,
-        His outstretched arms receive;
-    For Christ is coming down to earth,
-        Look up, faint heart! Believe!"
-
-    Albuquerque, New Mexico,
-    May 14, 1921.
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Santa Fe Trail and Other Poems, by
+NOTE.--The greater part of the information given in this brief
+history is taken from _Twitchell on Leading Facts of New Mexico
+History_.
+There are moanings on the trail,
+From west and eastward bounders,
+The host that's passed forever,
+That shall never know it more;
+From men and fragile women,
+From pioneers and traders,
+Whose dying word was "Never,"
+Whose pale souls went on before.
+And its ruts flow deep with tears
+For the countless lowly biers,
+Of those who died upon it,
+In the agony of fears.
+Oh! the rumbling caravan--
+The women under cover,
+While the men before them scan,
+For Indians or water,
+For the're mounds along the trail,
+It's thousand miles of stretches,
+Of man, and child and mother,
+Fair flowers and hardened wretches;
+Where the sandstorms blow and blow,
+And obliterate all traces.
+Moving twenty miles a day,
+With mules and horses straining
+Through the deep and parching sand,
+The wagon wheels a-squeaking,
+With the hot sun beating down
+On whitened bones a bleaching.
+Stretching all along the trail,
+From Fort Dodge to San Miguel,
+From caravans forgotten,
+Where none lived to tell the tale.
+Oh! the tide of misery,
+And tears forever flowing,
+From the women folk inside,
+Through the long, dark hours of night,
+Or moonlight's eerie bleaches,
+Praying God to send the light.
+The grey of early morning,
+While a rifle shot rings out,
+The Indians are coming,
+And the men go driving on,
+The tired horses running,
+For the goal they never reach.
+Oh! that never ending trail,
+Through canyon and arroya,
+And that cursed, cruel plain,
+The parched wastes of the desert,
+A mile above sea-level,
+Not a tree or shrub upon it,
+Without a drop of water,
+'Tween the Arkansas river
+And the spring at Cimarron,
+Where they'll never drink again.
+Pushing on to Willow Bar,
+Round Mound and Rio Moro,
+Through buff'lo grass and cacti,
+To ruins of the Pecos,
+With the blue skies overhead,
+And the horses breathing hard,
+Rolls the caravan along.
+A country in the making,
+And the women try to sing,
+God bless them, they are helping,
+Those tender friends of man,
+To keep his heart from breaking,
+With the wagon broken down,
+And not a blade for grazing.
+There are ghosts upon the trail,
+The myriads that trod it,
+And they pass without salute
+In a never ending line,
+In wagon and on horseback;
+Some going West, some Eastward.
+Strange spectres in the moonlight,
+Brave men and noble women,
+Young girls and little children,
+All long ago forgotten.
+And the past rolls back again,
+With Indians approaching,
+The Navajos and Pawnees,
+Kiowas and Comanche,
+Creeping closer to the trail.
+The children and the women,
+Oh! 'tis hard that they should die.
+Then the musket shots ring out
+From cool men bent on killing,
+Fighting for the ones they love,
+Though ten to one outnumbered,
+Until morning tints the sky
+And with it ends the combat.
+Then the town of Santa Fe,
+Oh! Father, in Thy mercy--
+And the women laugh and sing,
+The tired men are weeping,
+A thousand times repeated,
+As men entered Santa Fe.
+The cursed trip was over,
+Save to those left on the way,
+The pioneer martyrs
+Of the trail to Santa Fe.
+There are faces that pass in a moment,
+But his face will live till I die.
+He'd a beard and blue eyes like the Saviour,
+At least like the face we all know,
+And we met in the cool of the morning,
+We met about two years ago.
+And my heart bade me call out "Good morning,"
+"Good morning," he answered to me.
+But I saw his blue eyes looking elsewhere,
+Like one who was trying to see.
+He had come from a hut without windows,
+A mud hut with only a door,
+Yet his face was the face of the Saviour,
+And I fain would speak to him more.
+So I stopped, for his smile had a sweetness
+That entered the gates of my soul;
+I was hungry to know where it came from,
+That I might its wonders extol.
+And we talked of the beautiful morning,
+The scent of the grass and the flowers,
+And he spoke like a man of refinement,
+Like one to whom knowledge was power,
+Of the glory of God and His wonders,
+And we talked for more than an hour.
+I forgot that the speaker was sightless,
+Or a mud hut his dwelling here.
+Could it be he was just a blind beggar?
+Was a greater One standing near?
+And he talked of the hills in their grandeur,
+As sentinels watching mankind,
+Of the plains and vales, of sunshine and flowers,
+Which he only saw in his mind.
+And he spoke of the poor and the lowly,
+Of God's mercy to such as he,
+Of his gratitude to his Creator,
+Gratitude, though he could not see.
+And I stretched out my arms to that beggar,
+From Syria, over the sea,
+With the beard and the eyes of our Saviour--
+At least they looked like that to me.
+He had taught me a wonderful lesson,
+The burden a Christian could bear,
+Who from out the dark caverns of blindness
+Saw only the things that were fair.
+And I asked my dear Father forgiveness,
+My fetters of sin to unbind,
+That he'd make me to see like that beggar,
+For I was the one who was blind.
+"The Alvarado," on the Santa Fe,
+Here oft my eyes have met the break of day;
+The red sun rising through the morning mist,
+Over the mountains, and the mesa kissed,
+Down to the valley, where the shadows deep
+Dissolved, and woke the city from its sleep.
+Facing the East, the first faint streak of dawn
+Sought my closed eyes and ope'd them to the morn.
+Then like the passing shadow of a cloud
+Revealed the world beneath the lifted shroud,
+The glories of the proud Sandia Range,
+Whose rugged grandeur God alone can change.
+Sweet was the air that in my casement swept,
+And in the court below a fountain leap't,
+Which on the harp of life sweet music made,
+And soothed me in my slumbers as it played.
+The songs of gentle rain, of woodland stream,
+Entranced me nightly in a murmuring dream.
+The doves upon the roof made music too,
+And sweet it was to hear them bill and coo.
+Into my open window Nature smiled,
+And all the world seemed pure and undefiled.
+Naught can describe those joys of early morn,
+When from the night another day was born.
+When cares that come oppress and burden me,
+I'll pray to God to send me memory,
+Where precious moments came at break of day,
+"The Alvarado" on the Santa Fe.
+Thither my soul shall fly where'er I be,
+And bring that joy of morning back to me.
+In our home in the West, on the edge of the mesa,
+When our day's work is done, and the voices are still,
+Comes faintly the scent of the lilacs of Shawmont
+We knew in our youth, at the house on the hill.
+Back to those halls, now so silent and empty,
+Where voices of children once merrily rang;
+To those dear dead windows still facing the garden,
+Where the woodthrush, the robin and oriole sang.
+Back to the solemn old bell in the tree forks,
+Which summoned us home to the noonday repast;
+Whose music had rung in the morning of centuries,
+And yet was as sweet as the day it was cast.
+From our home on the mesa we still hear it calling,
+Long, long is the journey, o'er mountain and plain;
+But it's only in memory--past to the present--
+And only in fancy we hear it again.
+The scent of the lilacs, the voices of children;
+The chirp of the tree-toad, the song of the stream;
+The path through the woods, where as lovers we wandered,
+Confusingly call like a voice in a dream.
+Call to us here in our home on the mesa,
+From out the dear past in the house on the hill,
+And in fancy we dwell in the home by the Schuylkill,
+When our day's work is done and the voices are still.
+Oh! what a jolly fellow is the western tumbleweed,
+As he rolls across the mesa with the breeze;
+He'll even try to race a train, no matter what it's speed,
+You can see him from the window jump the trees.
+Just where the fellow's bound for it's a little hard to say,
+For his heart seems full of joyousness and life,
+As he capers like a schoolboy out for a holiday--
+Some say the beggar's looking for a wife.
+Methought 'twas God, Himself,
+For as I reached the "El Tovar"
+And passed toward the Canyon's brink,
+I seemed to stand upon the bar
+Of Heaven--too dazed to think.
+The melodies of every clime
+Ring out so true and sweet,
+They make the world akin in song,
+Bring joy with every beat.
+They breathe the incense of the morn,
+The fragrance of the night,
+They weave the mystery of love,
+In garlands of delight.
+Oh! sweet uplifting melodies,
+That soothe the human soul;
+The young and old, the rich, the poor,
+Are one 'neath their control.
+The melodies of younger days,
+The sweetest ever sung,
+The melodies of memories
+That make the ages young.
+Oh! crowd us, blessed melodies,
+Come to us one by one;
+Bring back the tender thoughts of life,
+When it had scarce begun.
+And in one long, delicious dream
+We live the past again,
+In melodies of memories,
+In happiness and pain.
+"One, two, three, four, five, six, seven, eight!"
+Better hurry--do not be late.
+Best of food is on the table,
+Eat as much as you are able--
+"One, two, three, four, five, six, seven, eight!"
+A welcome waits at every plate.
+Shining silver, spotless linen,
+Waitresses, all pretty women--
+"One, two, three, four, five, six, seven, eight!"
+Ascending sweet from one to eight,
+Descending just as sweet to one--
+The chimes have stopp'd, the meal's begun.
+The golden sun is setting in the quiet, silent West,
+The feathered songster's voice is hushed within its cozy nest,
+And the evening breeze comes stealing o'er the fields of new-mown
+hay,
+As Phoebus folds his wings and bids farewell the dying day.
+The gloaming shadows thicken 'round the house beneath the hill,
+The water ripples softly 'neath the wheel that works the mill;
+Then over all comes darkness, and the landscape fades from sight,
+And tired Nature sinks to rest within the silent night.
+In childhood days I met a little Miss,
+Whose pouting lips were luscious as the dew.
+I begged that she would give me just one kiss--
+She gave me two.
+One night I gazed with rapture on the moon,
+And there I found surcease from all my cares.
+The face I saw within, it was not his--
+'Twas hers.
+In spirit land, I know not where,
+I only know she comes to me
+In memory--
+When I was young and she was fair.
+It matters not
+How great our treasures,
+The cares of life
+Outweigh its pleasures.
+Two boys were up for burglary, and crowded was the Court,
+With half the town of Elkington, who came to see the sport.
+For well they knew the Judge, whose heart was harder than a stone,
+Who only dealt in justice--to whom mercy was unknown.
+Oh! what a wondrous judge he was, no guilty e'er got free,
+His instinct read between the lines what no one else could see,
+And these two boys on whom he gazed with comprehensive stare,
+Raised not their eyes to his stern face, for mercy was not there.
+"No counsel, Judge," the prosecutor said in careless way;
+A case was just a case to him, who tried them every day.
+"We'll see to it," the Judge replied, as often times before.
+He had imposed the maximum--the law allowed no more.
+The case was called, the jury boxed, when Juror No. 3
+Said, "Judge, they have no counsel, and it seems unfair to me.
+The Commonwealth has two shrewd men." The Judge replied, "What
+two?"
+And Juror No. 3 came back, "Why, Mr. Todd and you."
+"Let me correct you," said the Judge, amid the courtroom din;
+"The Court administers the law when all the facts are in."
+Then turning to the crier he said, "Keep order in the Court;
+Now Mr. Todd, begin the case, the time is getting short."
+Just then a woman's helpless cry fell on the Judge's ear,
+And both the lads within the dock were seen to shed a tear.
+And Juror No. 3 stood up and said, "Where is the friend?
+I call on Thee, Lord Jesus, the prisoners to defend."
+The Judge sat upright on the bench, a greater One than he
+Was in the court to help the lads, summoned by Juror 3.
+The case was tried and verdict found, "Guilty" the foreman said,
+And not a juror disagreed--the Judge bowed low his head.
+Then to the bar there came the man, whose house the lads had
+robbed.
+Gazing on Juror No. 3, "Forgive them, Judge," he sobbed.
+"I forgive them as Our Master would, as I hope He'll pardon me."
+And the light on the face of Juror 3 was wonderful to see.
+And all eyes turned upon the bench; what would that stern Judge do?
+His face was soft as baby's smile; he had been born anew.
+"You have sinned, my lads; go, sin no more!" Then he set them free,
+And who shall say that Jesus was not Juror No. 3?
+Not a day goes by, but I read somewhere
+In this wonderful world of ours,
+That some lowly being has raised his soul
+And become as the Norman towers.
+From out of the sweat and the slavish grind,
+From the depths where but hope is known,
+There has risen a star, serene and pure,
+That reacheth the Heavenly throne.
+And no one knoweth his neighbor's lot,
+Or divineth the Father's will,
+For he who sits in the gloom tonight
+May tomorrow walk on the hill;
+For swift as the flash of a falcon's wing,
+In the gloaming homeward flight,
+Comes the change that lifteth the downcast up,
+And the darkness turns to light.
+I only know you by the crease
+And dents across your dainty shoe.
+And yet there's something in that crease--
+A fairy phantom of the mind,
+Above thy shoe a form I see,
+Another worships at thy shrine--
+Beside the sea, beside the sea,
+I seemed to hear my mother's voice.
+She had been sleeping twenty years,
+And yet her voice came back to me,
+Beside the sea, beside the sea.
+There's a bitterness and sorrow in the Winter's leaden air,
+A chilling sort of something that's akin to human care,
+A tender gray of sadness, like a voice of bygone gladness,
+In the ashen sombre atmosphere that lingers everywhere.
+There are tear-drops on the eyelid, in the Winter's leaden air,
+A sympathetic chord is touched that finds expression there;
+Reality seems clearer, and the end of all seems nearer,
+In the sober, flinty ether, supernaturally bare.
+Kisses sweet behind the door--
+She was three and I was four;
+Kisses still are sweet to me,
+Though she now is fifty-three.
+Kisses sweet behind the door--
+I was three and he was four;
+Kisses still are sweet to me,
+Though he is more than fifty-three.
+From out the caverns of mysterious thought
+Appeared a form who said, "I'm Memory."
+"Go back!" cried I, "I care not for the past,
+Send me the form who knows what's yet to be."
+A shadow rose and said, "You call, I'm here;
+Thy future leads thee to the Stygian shore,
+And none shall weep for thee a single tear."
+"Avaunt!" I cried, "I will not hear thee more."
+I see thee, dear "Old Penn," in silhouette,
+Far back along the road on which I came;
+And memories, fragrant as the violet,
+Are interwoven with thine honored name.
+I've thrilled at "Harvard" and at good old "Yale,"
+Proud have I been to meet their doughty men,
+But in the world there's just one nightingale--
+My Alma Mater, my own honored "Penn."
+Here pause and gaze, ye travelers young and old,
+On this dull marble hewn in sacred mould,
+Mark that inscription on the graven stone,
+Within sleeps he, who stood 'mongst men alone.
+Within sleeps he who at Marengo fought,
+Whose skill and courage set his foes at naught;
+Who led his men beneath th' Egyptian Sun,
+Scarce fought a battle, but the day he won.
+Who, living, loved the cannon's deadly roar,
+And made his trumpets heard on every shore;
+Who, with his eagle banner, never furled,
+His conquering legions over-ran the world.
+Proud Austria humbled lay beneath his feet,
+And Russia's legions fled in swift retreat;
+He saw the world, ambition swelled his heart,
+He longed for all, nor cared to have a part.
+So lost he all, insatiate from the first,
+When his proud deeds like fire on Europe burst.
+A soldier, statesman, Emperor, _toute chose_ King,
+Before nor since has lived so grand a thing.
+He died in exile from his glorious France,
+On lonely isle, his life a leaden trance;
+The sea around, walled in on every side,
+His proud heart broke, and so the hero died.
+Within this marble rest the mummied bones
+Of him who held in life a dozen thrones;
+Approach with awe and reverential tread,
+Here sleeps the mightiest of the living--dead.
+'Neath the sorrows that grim want imposes,
+Imperious stalks decay;
+Hunger's terrors have withered the roses
+That bloomed and then faded away.
+The hearts which with young life once budded,
+The fond hopes which happiness kissed,
+Are dissolved in the tears which have flooded
+The homes of the poor in our midst.
+Oh! joy, for a fancied rest
+Instead of this grind, a toy.
+God seems to know what is best,
+But would I were still a boy.
+Oh! man, and a heartsick smile,
+Has something gone wrong ahead?
+Why! life is scarcely worth while,
+If man can wish himself dead.
+Oh! well, poor fellow, I know
+Some have it better than you.
+But, man! wherever you go,
+The satisfied are the few.
+Go seek ye, and ye shall find
+The light of eternal joy.
+When Faith once enters the mind,
+Again you will be a boy.
+The same voice speaks as the days of eld,
+Since the human race began,
+Enmeshed in the woof and weave of life,
+Designed in the form of man.
+It spoke the dawn of his natal day,
+It is speaking today as then,
+The voice that speaks is the voice of God,
+From out of the mouths of men.
+The fragrance of a cigarette,
+The incense of a morning fair;
+The odor of the mignonette,
+The perfume of a woman's hair,
+The sunset dancing on the sea,
+White bolles of cirrus in the sky,
+Bring back fond memories to me.
+Ask not! I cannot tell you why.
+She stood by the stile in the twilight dim,
+With a soft look in her eye;
+'Twas a tryst, she waited alone for him,
+Her lover, a warrior bold and grim,
+'Neath that beauteous evening sky.
+"Why tarries my lord?" quoth the maiden fair,
+"My love, my love, come to me!"
+In her eyes came a look so sweet and rare,
+As she gazed to the wood, through the scented air,
+Till her eyes could no longer see.
+Still she waited there for her warrior bold,
+"He will come to-night!" said she.
+Then up rode a knight in armor of gold:
+"Your warrior died like a knight of old,
+On the battlefield," said he.
+Thou hast the wit and charming grace
+To match with speech thy lovely face--
+A maid whom men adore.
+Yet I do prophesy this night,
+Before the dawn of next year's light
+That thou wilt be no "More."
+Oh, Gondolier, turn thy boat again,
+That I may see the sunlight on its prow,
+The light that I have tried to paint in vain,
+The light of Heaven--there! 'tis shimmering now.
+Let us go a-maying, love;
+All the world is playing, love,
+This God-sent happy day.
+Let us be together, love,
+Ever and forever, love,
+Forever and for aye.
+I sat beside her in the gloaming light,
+And neither spoke--'twas by Geneva's lake.
+We sat, and neither spoke, and then came Night.
+Oh, many a time in the silent night
+I sigh for the days gone by,
+When a happy boy with gay delight
+I hailed the cuckoo's cry.
+And the dear old woods that I loved so well,
+Where the stock-dove built its nest;
+The rippling stream and the hermit's cell,
+Its green and shady crest.
+The stately home 'neath the elms so tall,
+The lawn with its cool bright turf;
+The old peach tree by the garden wall,
+Each has its own sweet worth.
+For my head is bent with the weight of years,
+As white as the falling snow;
+My stream of life through this vale of tears
+Will soon have ceased to flow.
+The pewter pots were shining on the shelves behind the bar,
+Like the gold and silver lining of a sunset cloud afar,
+And the pine log fire burned brightly with its blaze of light and
+heat,
+Athwart the untrodden sawdust floor that looked so clean and neat.
+A cheerful, ruddy glamor lighted up the tavern walls,
+And, shooting through the open door, lit up the silent halls,
+To where the old clock's pendulum swung slowly to and fro,
+With measured beat, that seemed to speak of the days of long ago.
+Sick unto death--in the room above--lay the host of the Jolly Swan.
+And far and near, his kinsmen had, to seek the doctors, gone,
+For the jovial face and the merry laugh of the host of yesterday
+Had all departed, leaving naught but the mould of the living clay.
+Alone in his chamber he watched the sun slope down to his Western
+bower,
+And a gentle smile stole o'er his face, as the old clock chimed the
+hour.
+His thoughts were of the days gone by--as the host of the Jolly
+Swan,
+He had raised his tankard high and drank to the health of the old
+friends gone.
+There was good old Squire Thornleigh, with his great big raw-boned
+gray,
+And the biggest hearted fellow that e'er waved the "Hark! Away!"
+There was Jones, the hunting parson, with his jovial, ringing
+laugh,
+Who could preach a right good sermon and an honest bumper quaff.
+Then there was Billy Foster, who was only twenty-two,
+When he broke his neck in the hunting field through the casting of
+a shoe.
+And portly old Judge Horner, who in the room below,
+Had smoked and drank full many a night in the days of long ago.
+And as he thought, the window ope'd, and in slipped Huntsman Death,
+Arrayed in scarlet, white-topped boots, with a fine rich malty
+breath.
+"Ah! good old friend," the huntsman cried, "since you have called
+me here,
+Get down the pewter pots that we may drink a funeral bier--
+For I have ridden hard today to reach the Swan this night,
+And what I ask is nothing more than what is only right."
+With that, the host got out of bed and brought two pewters brimmed,
+And while below he saw that all the tavern lights were trimmed.
+His kinsman, riding up the road, with doctors from afar,
+Reined up to watch the lights that burned so brightly in the bar;
+While the jolly host with Death alone sat in the room above,
+And drank the foaming liquor down, his first and only love.
+Just then the sound of horses' hoofs the sick man heard without,
+And he and Death, in one glad breath, sent up a hunting shout--
+"It's bold Squire Thornleigh's raw-boned gray, or Parson Jones's
+bay--
+I'm coming, Squire, Yoick's tally-ho!" Death shouted, "Hark! Away!"
+Yoick's tally-ho fills loud the room as he springs up from bed,
+And the bugle horn sounds merrily in the chamber of the dead;
+Gay prancing steeds and huntsmen bold ride blithely by his side,
+"Yoicks! tally-ho!" rang from his lips, and back he fell and died.
+His kinsmen heard that hunting shout, that old familiar cry,
+And in they rushed--too late--too late--to see the good man die.
+Two empty tankards on the floor was all that they could see,
+And how the host of the Jolly Swan died--is still a mystery.
+Oh! Tamaca, oh! Tamaca,
+I see thy face,
+I see thy face.
+The sea is rolling on the bar,
+Low hang the clouds, afar, afar,
+Thy skiff bounds swiftly in the race,
+Tis death that leads thee, Tamaca.
+Under the lindens we wandered,
+Gaily my love and I;
+Light through the shimmering leaflets
+Fell like a kiss from the sky.
+On to her soft, golden tresses,
+Into her eyes divine,
+Smothered her form with caresses,
+Blended her shadow with mine.
+Under the lindens we wandered;
+Fifty years had gone by;
+Light through the cold, naked branches
+Fell like a pall from the sky.
+Old and forsaken, our children
+Had left us to starve and to die;
+But we lived in the past one sweet moment
+'Neath the lindens, my love and I.
+Mine to-night,
+For tomorrow's light
+Our dream will end, and waking bring dull pain.
+Oh! the happy past,
+Far too sweet to last,
+For 'tis decreed we shall not meet again.
+In thy dear eyes
+My heaven lies,
+And yet forever I must say good-bye;
+With your lips to mine,
+And my heart to thine,
+With this last embrace would God I could die.
+Oh! breathe again thine answer to the stars.
+The woodbine turns to listen to thy voice;
+The subtle beauty of such love as ours
+Makes every living thing rejoice.
+Blending sweet heaven with our earthly love,
+Locked in each other's arms, our prayers to God
+Rise from our souls unto his throne above
+In gratitude, sweet gratitude to Him.
+Oh! breathe again thine answer to the stars.
+The nightingale doth listen in the grove
+To music sweeter than the breath of flowers,
+Unto the melody of love.
+Holy as triumphs of an angel hand,
+Strained heart to heart, for love is God's command,
+Mute in the fulness of our joy, we stand
+In gratitude, sweet gratitude to Him.
+We were alone--my wife and I--
+God from above looked down on us,
+Never a word did either speak,
+Dry lay the salt from the tears on her cheek,
+Joy was afar from us.
+Silence held sway, the sin was mine,
+Pride was my sin--alas! for me,
+Pride that strangled the man within,
+That silenced the truth and increased my sin,
+She had done naught to me.
+Someone's speaking. Who dares intrude?
+Reckless being, away from here.
+"Reckless"--that little form in white?
+Clinging to her, crying "Mother, good night!"
+Low hung my head in shame.
+"Mother," I cried, "can you forgive?"
+With faltering step I went to her,
+And never a word did mother speak,
+But the salt grew wet on her glowing cheek,
+And joy came back to us.
+May I take your hand in mine,
+Little Miss?
+For this fairy-like retreat
+In the country fresh and sweet,
+Is what I've longed to meet,
+Little Miss.
+Yes, I came here from the town,
+Little Miss;
+Without an aim in view,
+I have roved the country through,
+And by chance I've met with you,
+Little Miss.
+You were born upon the farm,
+Little Miss?
+Why, how happy you must be
+In the country pure and free!
+I am filled with ecstasy,
+Little Miss.
+Do I like the city belles,
+Little Miss?
+Well! some I do, and yet,
+Why you needn't pout and fret,
+For I am still to let,
+Little Miss.
+I am longing for a kiss,
+Little Miss.
+Yes, I'm asking with my eyes
+In a tongue that never lies,
+And in words I can't disguise,
+Little Miss.
+Oh! is what I say quite true,
+Little Miss?
+Ah! Why should Phyllis doubt
+With that pretty little pout?
+I know what I'm about,
+Little Miss.
+Now what age am I, you ask,
+Little Miss?
+Well, I've just turned twenty-two,
+And I'd like to marry you.
+*       *       *       *       *
+Now, I'm married. Ah! Who to?
+That little Miss.
+Though strong emotion sweeps the heart,
+Though anguish wings the brow,
+Hold back the words whose cruel smart
+Hurts no one worse than thou
+Pause, pause until the morrow brings
+Reflection, thoughts more kind,
+Then from calm reason's crystal springs
+Distill from out thy mind.
+A wound received from warrior's sword
+May heal within a day,
+But the wound of some light, thoughtless word
+May be a wound for aye.
+(From "Lionardo, the Gondolier.")
+Goodnight, my love, a fond goodnight,
+The moon shines down on thee.
+But soon that cloud shall hide its light,
+And thy dear face from me,
+And thy dear face from me.
+Goodnight again, my beauteous flower,
+Farewell, my gentle dove;
+The night speeds on, 'tis now the hour
+When we must part, my love--
+When we must part, my love.
+Sleep, softly sleep, luxurious rest,
+Sweet dreams, dear love, be thine.
+May each unconscious thought be blest
+With love, sweet love of mine--
+Goodnight, sweet love of mine.
+Avaunt! ye tears, 'tis not the soul
+That crumbles 'neath the grassy sod.
+Now dost thou learn how vain to weep,
+When death means, "God"?
+Tasmania, a large, beautiful island to the southeast of
+Australia, when discovered by Van Dieman, was peopled with a
+magnificent race of savages, resembling somewhat the American
+Indian. Civilization, with its attendant advantages and evils,
+proved too much for the primitive child of the forest. The last
+Tasmanian, a woman, died in 1885, and the once splendid race is
+now extinct.
+Alone she sits, nor marks the dying day.
+Alone on earth, she bows her weary head,
+And dusky spirits bear her soul away;
+A race extinct. The last Tasmanian dead.
+Where are thy dark sons, Tasmania, Tasmania?
+Where are the lords who once swayed o'er thy shore?
+Gone to their fathers; Oh! weep ye, Tasmania,
+Weep for the race thou shalt see never more.
+Weep for the race on thy fair bosom nourished,
+Tutored by nature, untrammeled, so free;
+Kings of thy green hills and valleys they flourished,
+Kings who now sleep in their graves by the sea.
+Proud were the race who knew not their beginning,
+To whom the long past was as sealed as their fate,
+Who counted their seasons when insects were winging,
+The time by the shadows, the suns for their date.
+Skilled were thy dark sons, Tasmania! Tasmania!
+Virtuous, gentle and peaceful their ways;
+Till civilization o'ertook thee, Tasmania,
+And civilized habits renumbered their days.
+Set is the sun of thy people, Oh, country!
+Strangers now trample unawed o'er they race;
+Forgotten, the dusky-hued sons that a century
+Past were the monarchs of all thy sweet place.
+Soft may they sleep by thy shores, Oh! Tasmania,
+Where sea-dirges swell for the child of the past;
+Sleep as thy guardian spirits, Tasmania,
+Hovering round thy dear land to the last.
+Tall elms on either side with stately heads,
+With here and there an oak of ancient days,
+Sweet briar hedges flanked with clover beds,
+In which the feathered songster trills his lays.
+Lord, my poor heart, with sadness now is breaking,
+Longing for light, that I may find belief,
+Aching for rest from these tumultuous doubtings,
+Seeking to find the path that leads to peace.
+But Oh! dear Lord, my soul refuses comfort;
+Vainly I strive for the goal beyond this sad, sweet world.
+Rest for eternity.
+Grant then, Oh! Lord, the enlightenment of sorrow,
+That gentle faith which comes through grief alone;
+Ripened in hours of darkest tribulation,
+When my poor soul stood face to face with Thee.
+On her beautiful puoka (head)
+Hung her raven-black rauoko (hair)
+While love filled her mokoikoi (heart)
+Her alabaster kiri (skin)
+Gleamed on her kapu hivi (shoulder).
+And her petticoats came down to her kuri (knee).
+Sweet was her aerero (tongue);
+White were her even niho (teeth),
+And graceful her kakari munava (waist);
+Voluptuous her ngutu (lips)
+And shapely were her heru (legs).
+Well developed were her kiko ua-ua (muscles).
+Oh, this maid of Rapa Nin (island)
+Bore a rima tuhi hana (ring).
+Beloved was she by a tangala (man),
+Who in his little vaka (boat)
+Caught a wedding gift of ika (fish)
+And breathed his tale of love in her ringa (ear).
+Here lies a body whose majestic grace
+Drew from his fellow-man unstinted praise;
+Who lured emotion from her hiding place,
+And thrilled the world with deeds of other days.
+He that possessed, which unto Art is dear,
+A grand conception of unvarnished truth;
+He oft provoked a smile, more oft a tear,
+Sublime and beauteous in his manly youth.
+Full in the zenith of his great renown,
+God gave to him his final part to play;
+While Death untimely rung the curtain down
+On that great scene where man doth pass away.
+The rustling leaves soft whisper o'er his head,
+And robins fill the air with sweetest sound;
+Within the theatre of the mighty dead
+The actor sleeps beneath the sacred ground.
+There are sounds of martial music,
+But the laugh is hushed within,
+As the soldier boys march bravely down the street;
+A little child is weeping,
+As she listens to the din,
+Of kettle-drum and tramp of many feet.
+"Oh! my papa! Oh! my papa!"
+Wailed the tiny little mite.
+"You have gone and left poor mamma all alone;
+Come back, my darling papa,
+Oh! do come home tonight,
+And see how good your little girl has grown.
+"I won't be naughty, papa,
+And I won't make any noise,
+When papa's head is aching him so bad;
+I will walk about so quietly
+And put away my toys,
+Your little girl won't make her father sad."
+But the tiny voice fell empty,
+On the shadows in the room,
+And the music in the distance fainter grew;
+This is but a single instance
+Of the scenes within the gloom,
+Which the loved ones left behind are passing through.
+With eyes upcast to the glistening stars,
+Full of a strange mysterious awe,
+I watch the lights on the heavenly bar,
+And think of the ships that are sailing in,
+Cargoless, empty, their voyage in vain.
+Born on some distant mountain top,
+A happy wanderer from its birth,
+From stone to stone with merry laugh
+It dances o'er its mother earth.
+Then with some gathering streamlet meets,
+With bubbling laughter on they fling
+Their glittering sprays through sweet retreats,
+And cool abodes of sylvan king.
+The mighty river next appears,
+And to its arms the youngsters race,
+Then separate with baby tears,
+While current marshalls each in place.
+And last the ocean heaves in view,
+Then dies for aye the streamlet's span;
+Death is the ocean, all life through,
+Whose outstretched arms wait every man.
+Dry thine eyes, love; cease thy weeping,
+For thy boy will soon be sleeping
+Safe within the angels' keeping--
+Dry thine eyes.
+Hold my hand; the tide is flowing,
+Down the stream my boat is going,
+On the banks the kine are lowing,
+In the skies.
+See, my love, the shadows creeping,
+Round my bed while I am sleeping,
+List! I hear a sound of weeping!
+Now it dies.
+Raise me up, the day is breaking;
+Streaks of gray proclaim its waking;
+Sleep my weary eyes forsaking,
+In the light.
+Raise me up that I may, nearer,
+Watch the shades becoming clearer;
+Ebbing life seems growing dearer.
+But my sight
+Fails again; the sombre fretting
+Changes now to golden netting.
+See! the blood-red sun is setting!
+Love, good-night.
+Unto God my soul is winging;
+I can hear the angels singing;
+Joy bells overhead are ringing!
+Dry thine eyes.
+When aloft two young hearts are soaring
+To those realms of pleasure and pain,
+The law and the prophets ignoring,
+There's a something recalls them again.
+And the truths that we see in reflection,
+Sad but sweetly encircle the soul,
+For honor's more kind than affection
+That creates, then destroys the loved goal.
+(From "Lionardo, the Gondolier.")
+Orb of some mighty potent power
+In thine exalted sphere,
+Thy soft light maketh sweet the hour
+Within the fairy woodland bower,
+To maidenhood, so dear.
+Empress of Night, thy beauteous spell
+Superb and matchless given,
+Thy light the lover loves so well,
+The gentle tale of old to tell
+While earth becomes, his Heaven.
+Luna, thou goddess of the night,
+Chaste harbinger of love,
+I feel in thy sweet fairy light
+My heart again grow glad and bright,
+When thou dost ride above.
+Awake, fond heart, to life again,
+For why should sorrow ever
+Enshroud the past with endless pain,
+Cause bitter tears to flow in vain
+For those passed o'er the river?
+The dead are gone--they ne'er return,
+Life's troubles here are ended;
+And though to see them back we yearn,
+Christ's teachings lead us to discern
+'Tis not what God intended.
+Who can the curtain thrust aside,
+Or gaze through Death's dark portals?
+Short space on earth doth each abide,
+Then comes his call to swell the tide,
+Whose waves are dying mortals.
+We all must die, mayhap this night
+Our souls are drifting thither,
+Where those dear loved ones lost to sight
+Await us there in glory bright,
+Across the shining river.
+Dead in his chair. The sun's expiring rays
+With crimson glow lights up the rigid face,
+And in the unclosed eyes that look afar
+A blood-red sunbeam finds a resting place.
+Dead! with the pen still clutched in pulseless hand,
+"Dear wife," sole words before his sightless gaze.
+One nerveless arm hangs strangely by the chair,
+While at his frozen feet a kitten plays.
+Dead! Can it be, with children's shouts without?
+So still he sits. How painful is the light,
+And deeper glows the crimson on his face,
+The sun has set, Goodnight.
+The funeral march, it suiteth not my mood,
+Its Stygian tones are those on which men brood.
+Beyond its solemn measure lies the tomb,
+And shades dissolving in eternal gloom.
+Nay! rather let me hear some lively air,
+Whose Springtime notes suggest a morning fair,
+Filled with the pulsing joys that life can give,
+On this old earth, for oh! 'tis sweet to live.
+The corn may spring, the corn may spring,
+And thou beside the river walk;
+Yet sad must be the song you sing,
+A withered flower on the stalk.
+The elms overhead are sighing,
+The solemn rooks around are flying,
+Caw, Caw! Caw, Caw!
+And once 'twas here we walked alone,
+In that sweet hush of eventide,
+Before thy heart had turned to stone,
+Before thy love for me had died.
+The elms overhead are sighing,
+The solemn rooks around are flying,
+Caw, Caw! Caw, Caw!
+Beyond the fence in peace I sleep,
+And soughing breezes kiss my grave.
+I hear my name, and thou dost weep,
+For I was fair and thou wert brave.
+The elms overhead are sighing,
+The solemn rooks around are flying,
+Caw, Caw! Caw, Caw!
+I hear thee coming through the gate,
+I feel thee kneeling at my head.
+I hear thy cry, "Too late! Too late!"
+I love her now and she is dead.
+The elms overhead are sighing,
+The solemn rooks around are flying,
+Caw, Caw! Caw, Caw!
+(From "Lionardo, the Gondolier.")
+I'll sing you a song about great Attila,
+A mighty man was he.
+He was King of the Huns, had seventy sons,
+And daughters one hundred and three, three, three,
+And daughters 1, 0, 3.
+All nations vowed him a very fine fellow,
+With them he couldn't agree;
+One Autumn so mellow, he conquered Torcello
+A. D. four hundred and forty-three,
+Anno Domini 4, 4, 3.
+So he left a son to watch over the place,
+Though round it flowed the sea,
+And all over the place sprang the Kingly race
+Of Torcellani--that's me, me, me,
+Anno Domini 4, 4, 3.
+Midst pastoral lands and purling recluse streams
+There dwells the maiden queen of recreant dreams,
+Gentian by name, a maid most wondrous fair,
+With eyes like astral and her glorious hair,
+Tangled with moonbeams, disputes the right
+Of other garb to veil the beauteous sight.
+Her skin, as white as Ida's Cretean snow,
+Outlines a form of soft voluptuous flow
+Of grace majestic, contours fair to see,
+Exquisite in their matchless symmetry;
+While, crowning all, a sweet and noble grace
+Marks every movement and o'erspreads her face.
+And having this described this noctal flower,
+The Muse will now define sweet Gentian's power.
+From out her bower of amaranthine hue
+She peers with eyes of soft, exquisite blue,
+And breathing gently, like a zephyr's kiss,
+Enjoys alone the core of perfect bliss.
+Queen of a land, to every mortal given
+A glimpse, at least, of what perchance is heaven;
+Queen of a land of terror, shame and crime,
+From life to death, and all that marketh time.
+Queen of a land more wondrous than our own
+Sweet Gentian reigns, and sways the realm alone.
+Mistress of nations, every soul on earth
+Becomes her vassal at the hour of birth.
+Kings are her subjects, as the peasant boy,
+And brilliant minds with her a fancy toy.
+Once steeped in sleep, all minds become as one,
+For Gentian's spell o'er man has then begun.
+No longer cares of base terrestrial clay
+Torment the soul with visions of the day.
+Earth is no more, the river crossed is deep,
+Man dies each time his head is bowed in sleep,
+And Gentian paints the sphere to suit her mind
+Capricious as the sex of womankind.
+Now steeped in bliss she leads the love-sick swain
+And gives the kiss for which he sighed in vain.
+The maid who but that morn his glances fled
+Caresses lovingly his restless head.
+The hapless poet who is lost to fame
+Hears in his sleep his own illustrious name,
+And, laurel crowned, looks back with scornful eye
+Into a past of mean obscurity.
+The ship-wrecked boy on some far distant shore
+In happy dreamland sees his home once more,
+His mother's face aglow with pride and joy
+As to her breast she clasps her sailor boy,
+And summer seas beat on the golden sand
+That forms the shore of Gentian's wonderland.
+The ruined merchant's heart again grows light,
+As fortune smiles on him at dead of night,
+And sheriff's sales and judgment notes confessed
+No longer break the weary toiler's rest.
+Proudly he says, "My word is now my bond,"
+And coins the yellow dross with Gentian's wand.
+The holy man, by church ordained a priest,
+In dreams partaketh of the merry feast,
+And sparkling glances when the hour is late
+Make roguish havoc with the celibate.
+"Avaunt!" he cries, "such joys are not for me."
+And wakes in prayer upon his bended knee.
+The scientist retires with addled brain
+To dream his fretful genius o'er again,
+When from Cimmerian darkness breaks a light
+The Atlantic bridged bursts on his 'stonished sight.
+And then his mind is turned to stranger things,
+As up he soars on his invented wings.
+Begrimed with coal, the miner goes to rest
+And sharp-drawn breaths inflate his manly chest.
+Sudden, the clothes are rudely thrust aside,
+His eyes with terror now stand open wide;
+The roof is falling, God! the whole mine shakes!
+A loud explosion, 'tis a dream, he wakes.
+A little elf, a girl, a tiny tot,
+With waxen face, indents the baby cot,
+And visions fair regale her infant sight
+Of cakes and candy through the silent night.
+Sleep, little angel, Gentian marks thy worth,
+A sleeping child, the sweetest thing on earth.
+'Midst dirt and filth, at night the city gloom
+Steals weird and sickly to a garret room,
+Where, breathing hard upon a mattress bare,
+A girlish form is outlined sleeping there.
+One of the lost, polluted, base, defiled,
+Yet once she slept, a little angel child.
+And now she moves, sweet Gentian enters in,
+And she is pure again and free from sin.
+The dry, parched lips with innocence now speak,
+And balmy breezes fan the fevered cheek.
+The little white-washed cottage standeth near
+And mother's voice sounds sweetly on her ear,
+While from the fields the scent of new mown hay
+Comes strong and lusty at the close of day.
+Her little sisters and her brothers wait
+For her to join them at the garden gate,
+And in her sleep her laugh is undefiled,
+For she is once again a little child.
+The anxious farmer sees his fallow land
+Yield heavy crops beneath the reaper's hand,
+And barren orchards bend beneath the weight
+Of golden fruit, 'twas joy to cultivate.
+No landlord's agent doth his peace invade.
+He dreams of ownership, and taxes paid.
+The country parson turns and twists in bed,
+As mighty thoughts run rampant through his head.
+He mounts the village pulpit wreathed in smiles,
+And proudly gazes down the crowded aisles.
+Forgot is life, with its unvarnished views
+And vault-like echoes from the empty pews,
+The church is filled, his lips now move in prayer,
+And touched is every heart that's gathered there.
+Not satisfied, his sermon follows next,
+And from a flower he takes his simple text.
+Now thrills his audience with his eloquence,
+And marvels greatly at his common sense;
+And as he speaks with love of our dear Lord,
+He sees ahead his well-earned, just reward.
+A scholar, preacher, helper of the sick,
+He gets at last a lawn-sleeved bishopric,
+But soon as he the pastoral crosier takes,
+The country parson to himself awakes.
+The hapless monarch on his bed of down
+No longer sinks beneath the jeweled crown;
+His mind expands with liberty of thought,
+And heart proclaims his king-ship dearly bought.
+In sleep alone, his deep-drawn sighs confess
+His heart's desire, domestic happiness.
+"Domestic happiness," sweet Gentian sings,
+"Belongs to laborers, and not to kings."
+And so she bids us with a graceful ease
+Assume a virtue of some dread disease,
+Which pleases best the tricky fairy's mind,
+Who hurts so much and yet can be so kind.
+Well do we know how perfect is her will
+Who makes us love the rival we would kill,
+Or vice versa, which more awful seems
+She makes us kill our rival in our dreams.
+Ah! gentle Gentian, what a power is thine,
+To be so cruel and yet so divine.
+There is a grandeur in the man,
+Who views with calm that endless sleep;
+Who looks beyond the taking off,
+Conceives the goal beyond the deep.
+Life is a sarcasm rare,
+It stands in a class of its own,
+While love thrills the heart of the fair
+Decay is at work on the bone.
+That instant the clasp is undone
+The mantle of life slips away,
+And beauty men worshipped of yore
+Becomes but inanimate clay.
+There's reason in all things save death,
+And no one knows why that should be;
+What is there mysterious in breath,
+That it should so suddenly flee?
+Nay, ask not the bent, aged form,
+The cripple, the starving, the weak,
+But he whose life-blood courses warm,
+With health in his eye, on his cheek.
+Go ask him what thinks he of death,
+He will laugh in his heart for reply,
+With sarcasm bating his breath,
+He will tell you he's ready to die.
+"Your soul! your soul!" the preachers cry.
+"What is a soul?" is man's reply.
+"To know his soul, must man not die?"
+"What is a soul?" I'm glad you ask.
+The soul is life, the form, the mask.
+The answer was not such a task.
+The soul is in the ambient air,
+Down in the earth, in landscape fair.
+'Tis in the sea, 'tis everywhere.
+To know his soul man must not die,
+For 'tis the life he liveth by,
+Connecting him with God on high.
+Theme by uncounted thousands written,
+In Sanscrit, Greek, Teutonic, Latin;
+Theme that bewildered all their senses,
+Theme on which vapory thought condenses;
+Stupendous, contradictory, thrilling,
+A most mysterious part fulfilling;
+An endless night that has no morning,
+Though millions tear-dimmed wait its dawning;
+A theme divine, in doubt distressing,
+A curse to some, to more a blessing;
+Where life began--and where it ceases?
+The more we think the light decreases.
+Conflicting doubts half smother reason,
+Which complicates with age and season,
+Until, with aching brain confessing,
+The greatest sage returns to guessing.
+Happy that simple-hearted creature
+Who in the Bible finds a teacher.
+Oh! Death sublime, the end of our tempestuous struggle here,
+Enfolding arms, and breast on which to lay our troubled head,
+Eternal Gates! through which we turn our face from earthly cares,
+And then our God, whose outstretched arms await the ransomed Dead.
+And when the curfew of our life
+Proclaims that even-tide has come,
+And peaceful shadows end the strife,
+The day is done,
+The goal is won.
+Life has been thy courtship, sad thy smile,
+Persistent wooer, always by my side;
+Pray leave me with the things of earth awhile,
+Said I that I e'er loved thee? Then I lied.
+So weak, dear Lord, so tired,
+And Thou so great and strong.
+Wilt Thou not stretch Thine hand to earth,
+To help a soul along?
+"Christ was born today!"
+Hear the joy bells ringing,
+"Christ was born today!"
+Hear the children singing.
+"Christ was born today,
+Christ was born today!"
+"Christ was born today!"
+Hear the love-bells ringing;
+"Christ was born today!"
+Hear the old folks singing.
+"Christ was born today,
+Christ was born today!"
+"Christ was born today!"
+Joy and gladness bringing,
+"Christ was born today!"
+All the world is singing.
+"Christ was born today!"
+Forever and for aye,
+"Christ was born today!"
+I've girded on my armor,
+To battle for the Lord;
+Though all the world oppose me,
+I will uphold His Word.
+Though tired, wounded, bleeding,
+My sword still flashes free.
+I stand for Thee, Lord Jesus,
+Wilt Thou, Lord, stand for me?
+His name is on my banner
+In letters writ in gold;
+The glorious name of JESUS
+Let all the world behold,
+And in the mighty combat
+My leader's face I see.
+I stand for Thee, Lord Jesus,
+Wilt Thou, Lord, stand for me?
+It is the Lord of Heaven tonight
+Who's speaking unto me,
+And I can see His radiant light
+With great intensity.
+He's here beside me now,
+He takes my trembling hands.
+Shout out--let all the world shout out,
+My Saviour understands.
+Many there are who would love to see
+Things as they are,
+Things as they are.
+Life is not what we want it to be.
+Not what we want it to be:
+God, give us light,
+God, give us sight,
+God, send us peace ere the coming of night.
+Many there are who desire to do
+That which is right,
+That which is right.
+Vainly we strive with this end in view,
+Strive with this end in view:
+Help us, Great Friend,
+Strength to us send,
+Be our Protector, dear Lord, to the end.
+Through all the bitter cares of life,
+One sadder sight I see;
+My own dear Saviour, on the Cross,
+Who died on Calvary.
+What are my aches to His?
+Then why should I despair?
+The One who gave His life for all
+Will help our Cross to bear.
+Into the valley of my soul,
+Where deep the shadows lie,
+There comes a shout from Calvary:
+"Look upward to the sky!
+Look up, Oh! fainting heart,
+His outstretched arms receive;
+For Christ is coming down to earth,
+Look up, faint heart! Believe!"
+Albuquerque, New Mexico,
+May 14, 1921.
 Joseph R. Wilson
-

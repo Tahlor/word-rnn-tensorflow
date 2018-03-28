@@ -1,92 +1,4 @@
-roject Gutenberg EBook, Among the Hills and Others, by Whittier
-From Volume I., The Works of Whittier: Narrative and Legendary Poems
-#9 in our series by John Greenleaf Whittier
-
-Copyright laws are changing all over the world. Be sure to check the
-copyright laws for your country before downloading or redistributing
-this or any other Project Gutenberg eBook.
-
-This header should be the first thing seen when viewing this Project
-Gutenberg file.  Please do not remove it.  Do not change or edit the
-header without written permission.
-
-Please read the "legal small print," and other information about the
-eBook and Project Gutenberg at the bottom of this file.  Included is
-important information about your specific rights and restrictions in
-how the file may be used.  You can also find out about how to make a
-donation to Project Gutenberg, and how to get involved.
-
-
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-
-**EBooks Readable By Both Humans and By Computers, Since 1971**
-
-*****These EBooks Were Prepared By Thousands of Volunteers*****
-
-
-
-Title: Narrative and Legendary Poems: Among the Hills and Others
-       From Volume I., The Works of Whittier
-
-Author: John Greenleaf Whittier
-
-Release Date: Dec, 2005  [EBook #9564]
-[Yes, we are more than one year ahead of schedule]
-[This file was first posted on October 2, 2003]
-
-
-Edition: 10
-
-Language: English
-
-Character set encoding: ASCII
-
-
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK, AMONG THE HILLS, ETC. ***
-
-
-
-
 This eBook was produced by David Widger
-
-
-
-
-
-                        NARRATIVE AND LEGENDARY
-
-                                 POEMS
-
-                                   BY
-                        JOHN GREENLEAF WHITTIER
-
-
-
-CONTENTS:
-
-AMONG THE HILLS
-     PRELUDE
-     AMONG THE HILLS
-
-THE DOLE OF JARL THORKELL
-THE TWO RABBINS
-NOREMBEGA
-MIRIAM
-MAUD MULLER
-MARY GARVIN
-THE RANGER
-NAUHAUGHT, THE DEACON
-THE SISTERS
-MARGUERITE
-THE ROBIN
-
-
-
-
-AMONG THE HILLS
-
 This poem, when originally published, was dedicated to Annie Fields,
 wife of the distinguished publisher, James T. Fields, of Boston, in
 grateful acknowledgment of the strength and inspiration I have found in
@@ -95,10 +7,6 @@ Wife: an Idyl of Bearcamp Water, and appeared in The Atlantic Monthly
 for January, 1868. When I published the volume Among the Hills, in
 December of the same year, I expanded the Prelude and filled out also
 the outlines of the story.
-
-
-PRELUDE.
-
 ALONG the roadside, like the flowers of gold
 That tawny Incas for their gardens wrought,
 Heavy with sunshine droops the golden-rod,
@@ -132,7 +40,6 @@ I lay aside grave themes, and idly turn
 The leaves of memory's sketch-book, dreaming o'er
 Old summer pictures of the quiet hills,
 And human life, as quiet, at their feet.
-
 And yet not idly all. A farmer's son,
 Proud of field-lore and harvest craft, and feeling
 All their fine possibilities, how rich
@@ -198,7 +105,6 @@ The veriest straggler limping on his rounds,
 The sun and air his sole inheritance,
 Laughed at a poverty that paid its taxes,
 And hugged his rags in self-complacency!
-
 Not such should be the homesteads of a land
 Where whoso wisely wills and acts may dwell
 As king and lawgiver, in broad-acred state,
@@ -227,7 +133,6 @@ Finding its late fulfilment in a change
 Slow as the oak's growth, lifting manhood up
 Through broader culture, finer manners, love,
 And reverence, to the level of the hills.
-
 O Golden Age, whose light is of the dawn,
 And not of sunset, forward, not behind,
 Flood the new heavens and earth, and with thee bring
@@ -258,606 +163,475 @@ Should minister, as outward types and signs
 Of the eternal beauty which fulfils
 The one great purpose of creation, Love,
 The sole necessity of Earth and Heaven!
-
-         . . . . . . . . . . .
-
+. . . . . . . . . . .
 For weeks the clouds had raked the hills
 And vexed the vales with raining,
 And all the woods were sad with mist,
 And all the brooks complaining.
-
 At last, a sudden night-storm tore
 The mountain veils asunder,
 And swept the valleys clean before
 The besom of the thunder.
-
 Through Sandwich notch the west-wind sang
 Good morrow to the cotter;
 And once again Chocorua's horn
 Of shadow pierced the water.
-
 Above his broad lake Ossipee,
 Once more the sunshine wearing,
 Stooped, tracing on that silver shield
 His grim armorial bearing.
-
 Clear drawn against the hard blue sky,
 The peaks had winter's keenness;
 And, close on autumn's frost, the vales
 Had more than June's fresh greenness.
-
 Again the sodden forest floors
 With golden lights were checkered,
 Once more rejoicing leaves in wind
 And sunshine danced and flickered.
-
 It was as if the summer's late
 Atoning for it's sadness
 Had borrowed every season's charm
 To end its days in gladness.
-
 Rivers of gold-mist flowing down
 From far celestial fountains,--
 The great sun flaming through the rifts
 Beyond the wall of mountains.
-
 We paused at last where home-bound cows
 Brought down the pasture's treasure,
 And in the barn the rhythmic flails
 Beat out a harvest measure.
-
 We heard the night-hawk's sullen plunge,
 The crow his tree-mates calling
 The shadows lengthening down the slopes
 About our feet were falling.
-
 And through them smote the level sun
 In broken lines of splendor,
 Touched the gray rocks and made the green
 Of the shorn grass more tender.
-
 The maples bending o'er the gate,
 Their arch of leaves just tinted
 With yellow warmth, the golden glow
 Of coming autumn hinted.
-
 Keen white between the farm-house showed,
 And smiled on porch and trellis,
 The fair democracy of flowers
 That equals cot and palace.
-
 And weaving garlands for her dog,
 'Twixt chidings and caresses,
 A human flower of childhood shook
 The sunshine from her tresses.
-
 Clear drawn against the hard blue sky,
 The peaks had winter's keenness;
 And, close on autumn's frost, the vales
 Had more than June's fresh greenness.
-
 Again the sodden forest floors
 With golden lights were checkered,
 Once more rejoicing leaves in wind
 And sunshine danced and flickered.
-
 It was as if the summer's late
 Atoning for it's sadness
 Had borrowed every season's charm
 To end its days in gladness.
-
 I call to mind those banded vales
 Of shadow and of shining,
 Through which, my hostess at my side,
 I drove in day's declining.
-
 We held our sideling way above
 The river's whitening shallows,
 By homesteads old, with wide-flung barns
 Swept through and through by swallows;
-
 By maple orchards, belts of pine
 And larches climbing darkly
 The mountain slopes, and, over all,
 The great peaks rising starkly.
-
 You should have seen that long hill-range
 With gaps of brightness riven,--
 How through each pass and hollow streamed
 The purpling lights of heaven,--
-
 On either hand we saw the signs
 Of fancy and of shrewdness,
 Where taste had wound its arms of vines
 Round thrift's uncomely rudeness.
-
 The sun-brown farmer in his frock
 Shook hands, and called to Mary
 Bare-armed, as Juno might, she came,
 White-aproned from her dairy.
-
 Her air, her smile, her motions, told
 Of womanly completeness;
 A music as of household songs
 Was in her voice of sweetness.
-
 Not fair alone in curve and line,
 But something more and better,
 The secret charm eluding art,
 Its spirit, not its letter;--
-
 An inborn grace that nothing lacked
 Of culture or appliance,
 The warmth of genial courtesy,
 The calm of self-reliance.
-
 Before her queenly womanhood
 How dared our hostess utter
 The paltry errand of her need
 To buy her fresh-churned butter?
-
 She led the way with housewife pride,
 Her goodly store disclosing,
 Full tenderly the golden balls
 With practised hands disposing.
-
 Then, while along the western hills
 We watched the changeful glory
 Of sunset, on our homeward way,
 I heard her simple story.
-
 The early crickets sang; the stream
 Plashed through my friend's narration
 Her rustic patois of the hills
 Lost in my free-translation.
-
 "More wise," she said, "than those who swarm
 Our hills in middle summer,
 She came, when June's first roses blow,
 To greet the early comer.
-
 "From school and ball and rout she came,
 The city's fair, pale daughter,
 To drink the wine of mountain air
 Beside the Bearcamp Water.
-
 "Her step grew firmer on the hills
 That watch our homesteads over;
 On cheek and lip, from summer fields,
 She caught the bloom of clover.
-
 "For health comes sparkling in the streams
 From cool Chocorua stealing
 There's iron in our Northern winds;
 Our pines are trees of healing.
-
 "She sat beneath the broad-armed elms
 That skirt the mowing-meadow,
 And watched the gentle west-wind weave
 The grass with shine and shadow.
-
 "Beside her, from the summer heat
 To share her grateful screening,
 With forehead bared, the farmer stood,
 Upon his pitchfork leaning.
-
 "Framed in its damp, dark locks, his face
 Had nothing mean or common,--
 Strong, manly, true, the tenderness
 And pride beloved of woman.
-
 "She looked up, glowing with the health
 The country air had brought her,
 And, laughing, said: 'You lack a wife,
 Your mother lacks a daughter.
-
 "'To mend your frock and bake your bread
 You do not need a lady
 Be sure among these brown old homes
 Is some one waiting ready,--
-
 "'Some fair, sweet girl with skilful hand
 And cheerful heart for treasure,
 Who never played with ivory keys,
 Or danced the polka's measure.'
-
 "He bent his black brows to a frown,
 He set his white teeth tightly.
 ''T is well,' he said, 'for one like you
 To choose for me so lightly.
-
 "You think, because my life is rude
 I take no note of sweetness
 I tell you love has naught to do
 With meetness or unmeetness.
-
 "'Itself its best excuse, it asks
 No leave of pride or fashion
 When silken zone or homespun frock
 It stirs with throbs of passion.
-
 "'You think me deaf and blind: you bring
 Your winning graces hither
 As free as if from cradle-time
 We two had played together.
-
 "'You tempt me with your laughing eyes,
 Your cheek of sundown's blushes,
 A motion as of waving grain,
 A music as of thrushes.
-
 "'The plaything of your summer sport,
 The spells you weave around me
 You cannot at your will undo,
 Nor leave me as you found me.
-
 "'You go as lightly as you came,
 Your life is well without me;
 What care you that these hills will close
 Like prison-walls about me?
-
 "'No mood is mine to seek a wife,
 Or daughter for my mother
 Who loves you loses in that love
 All power to love another!
-
 "'I dare your pity or your scorn,
 With pride your own exceeding;
 I fling my heart into your lap
 Without a word of pleading.'
-
 "She looked up in his face of pain
 So archly, yet so tender
 'And if I lend you mine,' she said,
 'Will you forgive the lender?
-
 "'Nor frock nor tan can hide the man;
 And see you not, my farmer,
 How weak and fond a woman waits
 Behind this silken armor?
-
 "'I love you: on that love alone,
 And not my worth, presuming,
 Will you not trust for summer fruit
 The tree in May-day blooming?'
-
 "Alone the hangbird overhead,
 His hair-swung cradle straining,
 Looked down to see love's miracle,--
 The giving that is gaining.
-
 "And so the farmer found a wife,
 His mother found a daughter
 There looks no happier home than hers
 On pleasant Bearcamp Water.
-
 "Flowers spring to blossom where she walks
 The careful ways of duty;
 Our hard, stiff lines of life with her
 Are flowing curves of beauty.
-
 "Our homes are cheerier for her sake,
 Our door-yards brighter blooming,
 And all about the social air
 Is sweeter for her coming.
-
 "Unspoken homilies of peace
 Her daily life is preaching;
 The still refreshment of the dew
 Is her unconscious teaching.
-
 "And never tenderer hand than hers
 Unknits the brow of ailing;
 Her garments to the sick man's ear
 Have music in their trailing.
-
 "And when, in pleasant harvest moons,
 The youthful huskers gather,
 Or sleigh-drives on the mountain ways
 Defy the winter weather,--
-
 "In sugar-camps, when south and warm
 The winds of March are blowing,
 And sweetly from its thawing veins
 The maple's blood is flowing,--
-
 "In summer, where some lilied pond
 Its virgin zone is baring,
 Or where the ruddy autumn fire
 Lights up the apple-paring,--
-
 "The coarseness of a ruder time
 Her finer mirth displaces,
 A subtler sense of pleasure fills
 Each rustic sport she graces.
-
 "Her presence lends its warmth and health
 To all who come before it.
 If woman lost us Eden, such
 As she alone restore it.
-
 "For larger life and wiser aims
 The farmer is her debtor;
 Who holds to his another's heart
 Must needs be worse or better.
-
 "Through her his civic service shows
 A purer-toned ambition;
 No double consciousness divides
 The man and politician.
-
 "In party's doubtful ways he trusts
 Her instincts to determine;
 At the loud polls, the thought of her
 Recalls Christ's Mountain Sermon.
-
 "He owns her logic of the heart,
 And wisdom of unreason,
 Supplying, while he doubts and weighs,
 The needed word in season.
-
 "He sees with pride her richer thought,
 Her fancy's freer ranges;
 And love thus deepened to respect
 Is proof against all changes.
-
 "And if she walks at ease in ways
 His feet are slow to travel,
 And if she reads with cultured eyes
 What his may scarce unravel,
-
 "Still clearer, for her keener sight
 Of beauty and of wonder,
 He learns the meaning of the hills
 He dwelt from childhood under.
-
 "And higher, warmed with summer lights,
 Or winter-crowned and hoary,
 The ridged horizon lifts for him
 Its inner veils of glory.
-
 "He has his own free, bookless lore,
 The lessons nature taught him,
 The wisdom which the woods and hills
 And toiling men have brought him:
-
 "The steady force of will whereby
 Her flexile grace seems sweeter;
 The sturdy counterpoise which makes
 Her woman's life completer.
-
 "A latent fire of soul which lacks
 No breath of love to fan it;
 And wit, that, like his native brooks,
 Plays over solid granite.
-
 "How dwarfed against his manliness
 She sees the poor pretension,
 The wants, the aims, the follies, born
 Of fashion and convention.
-
 "How life behind its accidents
 Stands strong and self-sustaining,
 The human fact transcending all
 The losing and the gaining.
-
 "And so in grateful interchange
 Of teacher and of hearer,
 Their lives their true distinctness keep
 While daily drawing nearer.
-
 "And if the husband or the wife
 In home's strong light discovers
 Such slight defaults as failed to meet
 The blinded eyes of lovers,
-
 "Why need we care to ask?--who dreams
 Without their thorns of roses,
 Or wonders that the truest steel
 The readiest spark discloses?
-
 "For still in mutual sufferance lies
 The secret of true living;
 Love scarce is love that never knows
 The sweetness of forgiving.
-
 "We send the Squire to General Court,
 He takes his young wife thither;
 No prouder man election day
 Rides through the sweet June weather.
-
 "He sees with eyes of manly trust
 All hearts to her inclining;
 Not less for him his household light
 That others share its shining."
-
 Thus, while my hostess spake, there grew
 Before me, warmer tinted
 And outlined with a tenderer grace,
 The picture that she hinted.
-
 The sunset smouldered as we drove
 Beneath the deep hill-shadows.
 Below us wreaths of white fog walked
 Like ghosts the haunted meadows.
-
 Sounding the summer night, the stars
 Dropped down their golden plummets;
 The pale arc of the Northern lights
 Rose o'er the mountain summits,
-
 Until, at last, beneath its bridge,
 We heard the Bearcamp flowing,
 And saw across the mapled lawn
 The welcome home lights glowing.
-
 And, musing on the tale I heard,
 'T were well, thought I, if often
 To rugged farm-life came the gift
 To harmonize and soften;
-
 If more and more we found the troth
 Of fact and fancy plighted,
 And culture's charm and labor's strength
 In rural homes united,--
-
 The simple life, the homely hearth,
 With beauty's sphere surrounding,
 And blessing toil where toil abounds
 With graces more abounding.
-1868.
-
-
-
-
-THE DOLE OF JARL THORKELL.
-
 THE land was pale with famine
 And racked with fever-pain;
 The frozen fiords were fishless,
 The earth withheld her grain.
-
 Men saw the boding Fylgja
 Before them come and go,
 And, through their dreams, the Urdarmoon
 From west to east sailed slow.
-
 Jarl Thorkell of Thevera
 At Yule-time made his vow;
 On Rykdal's holy Doom-stone
 He slew to Frey his cow.
-
 To bounteous Frey he slew her;
 To Skuld, the younger Norn,
 Who watches over birth and death,
 He gave her calf unborn.
-
 And his little gold-haired daughter
 Took up the sprinkling-rod,
 And smeared with blood the temple
 And the wide lips of the god.
-
 Hoarse below, the winter water
 Ground its ice-blocks o'er and o'er;
 Jets of foam, like ghosts of dead waves,
 Rose and fell along the shore.
-
 The red torch of the Jokul,
 Aloft in icy space,
 Shone down on the bloody Horg-stones
 And the statue's carven face.
-
 And closer round and grimmer
 Beneath its baleful light
 The Jotun shapes of mountains
 Came crowding through the night.
-
 The gray-haired Hersir trembled
 As a flame by wind is blown;
 A weird power moved his white lips,
 And their voice was not his own.
-
 "The AEsir thirst!" he muttered;
 "The gods must have more blood
 Before the tun shall blossom
 Or fish shall fill the flood.
-
 "The AEsir thirst and hunger,
 And hence our blight and ban;
 The mouths of the strong gods water
 For the flesh and blood of man!
-
 "Whom shall we give the strong ones?
 Not warriors, sword on thigh;
 But let the nursling infant
 And bedrid old man die."
-
 "So be it!" cried the young men,
 "There needs nor doubt nor parle."
 But, knitting hard his red brows,
 In silence stood the Jarl.
-
 A sound of woman's weeping
 At the temple door was heard,
 But the old men bowed their white heads,
 And answered not a word.
-
 Then the Dream-wife of Thingvalla,
 A Vala young and fair,
 Sang softly, stirring with her breath
 The veil of her loose hair.
-
 She sang: "The winds from Alfheim
 Bring never sound of strife;
 The gifts for Frey the meetest
 Are not of death, but life.
-
 "He loves the grass-green meadows,
 The grazing kine's sweet breath;
 He loathes your bloody Horg-stones,
 Your gifts that smell of death.
-
 "No wrong by wrong is righted,
 No pain is cured by pain;
 The blood that smokes from Doom-rings
 Falls back in redder rain.
-
 "The gods are what you make them,
 As earth shall Asgard prove;
 And hate will come of hating,
 And love will come of love.
-
 "Make dole of skyr and black bread
 That old and young may live;
 And look to Frey for favor
 When first like Frey you give.
-
 "Even now o'er Njord's sea-meadows
 The summer dawn begins
 The tun shall have its harvest,
 The fiord its glancing fins."
-
 Then up and swore Jarl Thorkell
 "By Gimli and by Hel,
 O Vala of Thingvalla,
 Thou singest wise and well!
-
 "Too dear the AEsir's favors
 Bought with our children's lives;
 Better die than shame in living
 Our mothers and our wives.
-
 "The full shall give his portion
 To him who hath most need;
 Of curdled skyr and black bread,
 Be daily dole decreed."
-
 He broke from off his neck-chain
 Three links of beaten gold;
 And each man, at his bidding,
 Brought gifts for young and old.
-
 Then mothers nursed their children,
 And daughters fed their sires,
 And Health sat down with Plenty
 Before the next Yule fires.
-
 The Horg-stones stand in Rykdal;
 The Doom-ring still remains;
 But the snows of a thousand winters
 Have washed away the stains.
-
 Christ ruleth now; the Asir
 Have found their twilight dim;
 And, wiser than she dreamed, of old
 The Vala sang of Him
-1868.
-
-
-
-
-THE TWO RABBINS.
-
 THE Rabbi Nathan two-score years and ten
 Walked blameless through the evil world, and then,
 Just as the almond blossomed in his hair,
@@ -881,8 +655,7 @@ In righteousness and wisdom, as the trees
 Of Lebanon the small weeds that the bees
 Bow with their weight. I will arise, and lay
 My sins before him."
-
-                        And he went his way
+And he went his way
 Barefooted, fasting long, with many prayers;
 But even as one who, followed unawares,
 Suddenly in the darkness feels a hand
@@ -897,7 +670,6 @@ Of such desires that, shuddering, he abhorred
 Himself; and, crying mightily to the Lord
 To free his soul and cast the demon out,
 Smote with his staff the blankness round about.
-
 At length, in the low light of a spent day,
 The towers of Ecbatana far away
 Rose on the desert's rim; and Nathan, faint
@@ -917,7 +689,6 @@ Foul from my sins, to tell thee all my shame.
 Haply thy prayers, since naught availeth mine,
 May purge my soul, and make it white like thine.
 Pity me, O Ben Isaac, I have sinned!"
-
 Awestruck Ben Isaac stood. The desert wind
 Blew his long mantle backward, laying bare
 The mournful secret of his shirt of hair.
@@ -929,8 +700,7 @@ That tears and prayers quench not, I come to thee
 For pity and for help, as thou to me.
 Pray for me, O my friend!" But Nathan cried,
 "Pray thou for me, Ben Isaac!"
-
-                                Side by side
+Side by side
 In the low sunshine by the turban stone
 They knelt; each made his brother's woe his own,
 Forgetting, in the agony and stress
@@ -939,7 +709,6 @@ Peace, for his friend besought, his own became;
 His prayers were answered in another's name;
 And, when at last they rose up to embrace,
 Each saw God's pardon in his brother's face!
-
 Long after, when his headstone gathered moss,
 Traced on the targum-marge of Onkelos
 In Rabbi Nathan's hand these words were read:
@@ -948,178 +717,132 @@ Forget it in love's service, and the debt
 Thou, canst not pay the angels shall forget;
 Heaven's gate is shut to him who comes alone;
 Save thou a soul, and it shall save thy own!/"
-1868.
-
-
-
-
-NOREMBEGA.
-
 Norembega, or Norimbegue, is the name given by early French fishermen
 and explorers to a fabulous country south of Cape Breton, first
 discovered by Verrazzani in 1524. It was supposed to have a magnificent
 city of the same name on a great river, probably the Penobscot. The site
 of this barbaric city is laid down on a map published at Antwerp in
-1570. In 1604 Champlain sailed in search of the Northern Eldorado,
 twenty-two leagues up the Penobscot from the Isle Haute. He supposed the
 river to be that of Norembega, but wisely came to the conclusion that
 those travellers who told of the great city had never seen it. He saw no
 evidences of anything like civilization, but mentions the finding of a
 cross, very old and mossy, in the woods.
-
 THE winding way the serpent takes
 The mystic water took,
 From where, to count its beaded lakes,
 The forest sped its brook.
-
 A narrow space 'twixt shore and shore,
 For sun or stars to fall,
 While evermore, behind, before,
 Closed in the forest wall.
-
 The dim wood hiding underneath
 Wan flowers without a name;
 Life tangled with decay and death,
 League after league the same.
-
 Unbroken over swamp and hill
 The rounding shadow lay,
 Save where the river cut at will
 A pathway to the day.
-
 Beside that track of air and light,
 Weak as a child unweaned,
 At shut of day a Christian knight
 Upon his henchman leaned.
-
 The embers of the sunset's fires
 Along the clouds burned down;
 "I see," he said, "the domes and spires
 Of Norembega town."
-
 "Alack! the domes, O master mine,
 Are golden clouds on high;
 Yon spire is but the branchless pine
 That cuts the evening sky."
-
 "Oh, hush and hark! What sounds are these
 But chants and holy hymns?"
 "Thou hear'st the breeze that stirs the trees
 Though all their leafy limbs."
-
 "Is it a chapel bell that fills
 The air with its low tone?"
 "Thou hear'st the tinkle of the rills,
 The insect's vesper drone."
-
 "The Christ be praised!--He sets for me
 A blessed cross in sight!"
 "Now, nay, 't is but yon blasted tree
 With two gaunt arms outright!"
-
 "Be it wind so sad or tree so stark,
 It mattereth not, my knave;
 Methinks to funeral hymns I hark,
 The cross is for my grave!
-
 "My life is sped; I shall not see
 My home-set sails again;
 The sweetest eyes of Normandie
 Shall watch for me in vain.
-
 "Yet onward still to ear and eye
 The baffling marvel calls;
 I fain would look before I die
 On Norembega's walls.
-
 "So, haply, it shall be thy part
 At Christian feet to lay
 The mystery of the desert's heart
 My dead hand plucked away.
-
 "Leave me an hour of rest; go thou
 And look from yonder heights;
 Perchance the valley even now
 Is starred with city lights."
-
 The henchman climbed the nearest hill,
 He saw nor tower nor town,
 But, through the drear woods, lone and still,
 The river rolling down.
-
 He heard the stealthy feet of things
 Whose shapes he could not see,
 A flutter as of evil wings,
 The fall of a dead tree.
-
 The pines stood black against the moon,
 A sword of fire beyond;
 He heard the wolf howl, and the loon
 Laugh from his reedy pond.
-
 He turned him back: "O master dear,
 We are but men misled;
 And thou hast sought a city here
 To find a grave instead."
-
 "As God shall will! what matters where
 A true man's cross may stand,
 So Heaven be o'er it here as there
 In pleasant Norman land?
-
 "These woods, perchance, no secret hide
 Of lordly tower and hall;
 Yon river in its wanderings wide
 Has washed no city wall;
-
 "Yet mirrored in the sullen stream
 The holy stars are given
 Is Norembega, then, a dream
 Whose waking is in Heaven?
-
 "No builded wonder of these lands
 My weary eyes shall see;
 A city never made with hands
 Alone awaiteth me--
-
 "'_Urbs Syon mystica_;' I see
 Its mansions passing fair,
 '/Condita caelo/;' let me be,
 Dear Lord, a dweller there!"
-
 Above the dying exile hung
 The vision of the bard,
 As faltered on his failing tongue
 The song of good Bernard.
-
 The henchman dug at dawn a grave
 Beneath the hemlocks brown,
 And to the desert's keeping gave
 The lord of fief and town.
-
 Years after, when the Sieur Champlain
 Sailed up the unknown stream,
 And Norembega proved again
 A shadow and a dream,
-
 He found the Norman's nameless grave
 Within the hemlock's shade,
 And, stretching wide its arms to save,
 The sign that God had made,
-
 The cross-boughed tree that marked the spot
 And made it holy ground
 He needs the earthly city not
 Who hath the heavenly found.
-1869.
-
-
-
-
-MIRIAM.
-
-TO FREDERICK A. P. BARNARD.
-
 THE years are many since, in youth and hope,
 Under the Charter Oak, our horoscope
 We drew thick-studded with all favoring stars.
@@ -1149,9 +872,7 @@ The flowers have ceased to blow, and trees are bare,
 Thou, wiser in thy choice, wilt scarcely blame
 The friend who shields his folly with thy name.
 AMESBURY, 10th mo., 1870.
-
-      . . . . . . . . . . . . . .
-
+. . . . . . . . . . . . . .
 One Sabbath day my friend and I
 After the meeting, quietly
 Passed from the crowded village lanes,
@@ -1190,7 +911,6 @@ Dumb in the distance. In the north,
 Dim through their misty hair, looked forth
 The space-dwarfed mountains to the sea,
 From mystery to mystery!
-
 So, sitting on that green hill-slope,
 We talked of human life, its hope
 And fear, and unsolved doubts, and what
@@ -1237,7 +957,6 @@ We walk in clearer light;--but then,
 Is He not God?--are they not men?
 Are His responsibilities
 For us alone and not for these?
-
 And I made answer: "Truth is one;
 And, in all lands beneath the sun,
 Whoso hath eyes to see may see
@@ -1254,7 +973,6 @@ The prophets of the elder day,
 The slant-eyed sages of Cathay,
 Read not the riddle all amiss
 Of higher life evolved from this.
-
 "Nor doth it lessen what He taught,
 Or make the gospel Jesus brought
 Less precious, that His lips retold
@@ -1277,7 +995,6 @@ Who gathers in one sheaf complete
 The scattered blades of God's sown wheat,
 The common growth that maketh good
 His all-embracing Fatherhood.
-
 "Wherever through the ages rise
 The altars of self-sacrifice,
 Where love its arms has opened wide,
@@ -1313,7 +1030,6 @@ The life man giveth for his friend
 Become vicarious in the end;
 Their healing place in nature take,
 And make life sweeter for their sake.
-
 "So welcome I from every source
 The tokens of that primal Force,
 Older than heaven itself, yet new
@@ -1342,7 +1058,6 @@ Through deepest joy of Him we learn,
 In sorest grief to Him we turn,
 And reason stoops its pride to share
 The child-like instinct of a prayer."
-
 And then, as is my wont, I told
 A story of the days of old,
 Not found in printed books,--in sooth,
@@ -1357,7 +1072,6 @@ As time and space I wandered o'er
 To tread the Mogul's marble floor,
 And see a fairer sunset fall
 On Jumna's wave and Agra's wall.
-
 The good Shah Akbar (peace be his alway!)
 Came forth from the Divan at close of day
 Bowed with the burden of his many cares,
@@ -1372,7 +1086,6 @@ With a faint hope, his Book scarce justified,
 That all the paths of faith, though severed wide,
 O'er which the feet of prayerful reverence passed,
 Met at the gate of Paradise at last.
-
 He sought an alcove of his cool hareem,
 Where, far beneath, he heard the Jumna's stream
 Lapse soft and low along his palace wall,
@@ -1385,7 +1098,6 @@ Soothed his tired ear with songs of a far land
 Where Tagus shatters on the salt sea-sand
 The mirror of its cork-grown hills of drouth
 And vales of vine, at Lisbon's harbor-mouth.
-
 The date-palms rustled not; the peepul laid
 Its topmost boughs against the balustrade,
 Motionless as the mimic leaves and vines
@@ -1406,7 +1118,6 @@ And, air-poised lightly as the blown sea-foam,
 The marble wonder of some holy dome
 Hung a white moonrise over the still wood,
 Glassing its beauty in a stiller flood.
-
 Silent the monarch gazed, until the night
 Swift-falling hid the city from his sight;
 Then to the woman at his feet he said
@@ -1419,7 +1130,6 @@ Thus the Book witnesseth; and well I know
 By what thou art, O dearest, it is so.
 As the lute's tone the maker's hand betrays,
 The sweet disciple speaks her Master's praise."
-
 Then Miriam, glad of heart, (for in some sort
 She cherished in the Moslem's liberal court
 The sweet traditions of a Christian child;
@@ -1457,7 +1167,6 @@ Of Goa's roasted Jews, have I not met
 Meek-faced, barefooted, crying in the street
 The saying of his prophet true and sweet,--
 'He who is merciful shall mercy meet!'"
-
 But, next day, so it chanced, as night began
 To fall, a murmur through the hareem ran
 That one, recalling in her dusky face
@@ -1492,8 +1201,7 @@ Fell the sweet song by Tigre's cowherds sung
 In the old music of his native tongue.
 He knew my voice, for love is quick of ear,
 Answering in song.
-
-                     This night he waited near
+This night he waited near
 To fly with me. The fault was mine alone
 He knew thee not, he did but seek his own;
 Who, in the very shadow of thy throne,
@@ -1509,22 +1217,19 @@ And all that fate had done since last we met
 Seemed but a dream that left us children yet,
 He hath not wronged thee nor thy royal bed;
 Spare him, O king! and slay me in his stead!"
-
 But over Akbar's brows the frown hung black,
 And, turning to the eunuch at his back,
 "Take them," he said, "and let the Jumna's waves
 Hide both my shame and these accursed slaves!"
 His loathly length the unsexed bondman bowed
 "On my head be it!"
-
-                      Straightway from a cloud
+Straightway from a cloud
 Of dainty shawls and veils of woven mist
 The Christian Miriam rose, and, stooping, kissed
 The monarch's hand. Loose down her shoulders bare
 Swept all the rippled darkness of her hair,
 Veiling the bosom that, with high, quick swell
 Of fear and pity, through it rose and fell.
-
 "Alas!" she cried, "hast thou forgotten quite
 The words of Him we spake of yesternight?
 Or thy own prophet's, 'Whoso doth endure
@@ -1533,7 +1238,6 @@ O great and good! be thy revenge alone
 Felt in thy mercy to the erring shown;
 Let thwarted love and youth their pardon plead,
 Who sinned but in intent, and not in deed!"
-
 One moment the strong frame of Akbar shook
 With the great storm of passion. Then his look
 Softened to her uplifted face, that still
@@ -1550,7 +1254,6 @@ At such as these, who here their doom await,
 Held like myself in the strong grasp of fate.
 They sinned through love, as I through love forgive;
 Take them beyond my realm, but let them live!"
-
 And, like a chorus to the words of grace,
 The ancient Fakir, sitting in his place,
 Motionless as an idol and as grim,
@@ -1565,7 +1268,6 @@ And thus it ran: "He who all things forgives
 Conquers himself and all things else, and lives
 Above the reach of wrong or hate or fear,
 Calm as the gods, to whom he is most dear."
-
 Two leagues from Agra still the traveller sees
 The tomb of Akbar through its cypress-trees;
 And, near at hand, the marble walls that hide
@@ -1576,9 +1278,7 @@ The Mission press with tireless hand unrolls
 The words of Jesus on its lettered scrolls,--
 Tells, in all tongues, the tale of mercy o'er,
 And bids the guilty, "Go and sin no more!"
-
-        . . . . . . . . . . .
-
+. . . . . . . . . . .
 It now was dew-fall; very still
 The night lay on the lonely hill,
 Down which our homeward steps we bent,
@@ -1609,12 +1309,6 @@ Ice-bitten in the winter sea,
 Or lisped beside a mother's knee,--
 The wiser world hath not outgrown,
 And the All-Father is our own!"
-
-
-
-
-NAUHAUGHT, THE DEACON.
-
 NAUHAUGHT, the Indian deacon, who of old
 Dwelt, poor but blameless, where his narrowing Cape
 Stretches its shrunk arm out to all the winds
@@ -1622,7 +1316,6 @@ And the relentless smiting of the waves,
 Awoke one morning from a pleasant dream
 Of a good angel dropping in his hand
 A fair, broad gold-piece, in the name of God.
-
 He rose and went forth with the early day
 Far inland, where the voices of the waves
 Mellowed and Mingled with the whispering leaves,
@@ -1638,7 +1331,6 @@ That, strand by strand uncoiling, breaks above
 The hand that grasps it. "Even now, O Lord!
 Send me," he prayed, "the angel of my dream!
 Nauhaught is very poor; he cannot wait."
-
 Even as he spake he heard at his bare feet
 A low, metallic clink, and, looking down,
 He saw a dainty purse with disks of gold
@@ -1725,118 +1417,72 @@ A Wellfleet skipper, known in every port
 That the Cape opens in its sandy wall--
 He answered, with a wise smile, to himself
 "I saw the angel where they see a man."
-1870.
-
-
-
-THE SISTERS.
-
 ANNIE and Rhoda, sisters twain,
 Woke in the night to the sound of rain,
-
 The rush of wind, the ramp and roar
 Of great waves climbing a rocky shore.
-
 Annie rose up in her bed-gown white,
 And looked out into the storm and night.
-
 "Hush, and hearken!" she cried in fear,
 "Hearest thou nothing, sister dear?"
-
 "I hear the sea, and the plash of rain,
 And roar of the northeast hurricane.
-
 "Get thee back to the bed so warm,
 No good comes of watching a storm.
-
 "What is it to thee, I fain would know,
 That waves are roaring and wild winds blow?
-
 "No lover of thine's afloat to miss
 The harbor-lights on a night like this."
-
 "But I heard a voice cry out my name,
 Up from the sea on the wind it came.
-
 "Twice and thrice have I heard it call,
 And the voice is the voice of Estwick Hall!"
-
 On her pillow the sister tossed her head.
 "Hall of the Heron is safe," she said.
-
 "In the tautest schooner that ever swam
 He rides at anchor in Anisquam.
-
 "And, if in peril from swamping sea
 Or lee shore rocks, would he call on thee?"
-
 But the girl heard only the wind and tide,
 And wringing her small white hands she cried,
-
 "O sister Rhoda, there's something wrong;
 I hear it again, so loud and long.
-
 "'Annie! Annie!' I hear it call,
 And the voice is the voice of Estwick Hall!"
-
 Up sprang the elder, with eyes aflame,
 "Thou liest! He never would call thy name!
-
 "If he did, I would pray the wind and sea
 To keep him forever from thee and me!"
-
 Then out of the sea blew a dreadful blast;
 Like the cry of a dying man it passed.
-
 The young girl hushed on her lips a groan,
 But through her tears a strange light shone,--
-
 The solemn joy of her heart's release
 To own and cherish its love in peace.
-
 "Dearest!" she whispered, under breath,
 "Life was a lie, but true is death.
-
 "The love I hid from myself away
 Shall crown me now in the light of day.
-
 "My ears shall never to wooer list,
 Never by lover my lips be kissed.
-
 "Sacred to thee am I henceforth,
 Thou in heaven and I on earth!"
-
 She came and stood by her sister's bed
 "Hall of the Heron is dead!" she said.
-
 "The wind and the waves their work have done,
 We shall see him no more beneath the sun.
-
 "Little will reek that heart of thine,
 It loved him not with a love like mine.
-
 "I, for his sake, were he but here,
 Could hem and 'broider thy bridal gear,
-
 "Though hands should tremble and eyes be wet,
 And stitch for stitch in my heart be set.
-
 "But now my soul with his soul I wed;
 Thine the living, and mine the dead!"
-1871.
-
-
-
-
-MARGUERITE.
-
-MASSACHUSETTS BAY, 1760.
-
 Upwards of one thousand of the Acadian peasants forcibly taken from
 their homes on the Gaspereau and Basin of Minas were assigned to the
 several towns of the Massachusetts colony, the children being bound by
 the authorities to service or labor.
-
 THE robins sang in the orchard, the buds into
 blossoms grew;
 Little of human sorrow the buds and the robins
@@ -1853,196 +1499,139 @@ The bedquilt's faded patchwork, the teacups on the
 stand,
 The wheel with flaxen tangle, as it dropped from
 her sick hand.
-
 What to her was the song of the robin, or warm
 morning light,
 As she lay in the trance of the dying, heedless of
 sound or sight?
-
 Done was the work of her bands, she had eaten her
 bitter bread;
 The world of the alien people lay behind her dim
 and dead.
-
 But her soul went back to its child-time; she saw
 the sun o'erflow
 With gold the Basin of Minas, and set over
 Gaspereau;
-
 The low, bare flats at ebb-tide, the rush of the sea
 at flood,
 Through inlet and creek and river, from dike to
 upland wood;
-
 The gulls in the red of morning, the fish-hawk's
 rise and fall,
 The drift of the fog in moonshine, over the dark
 coast-wall.
-
 She saw the face of her mother, she heard the song
 she sang;
 And far off, faintly, slowly, the bell for vespers
 rang.
-
 By her bed the hard-faced mistress sat, smoothing
 the wrinkled sheet,
 Peering into the face, so helpless, and feeling the
 ice-cold feet.
-
 With a vague remorse atoning for her greed and
 long abuse,
 By care no longer heeded and pity too late for use.
-
 Up the stairs of the garret softly the son of the
 mistress stepped,
 Leaned over the head-board, covering his face with
 his hands, and wept.
-
 Outspake the mother, who watched him sharply,
 with brow a-frown
 "What! love you the Papist, the beggar, the
 charge of the town?"
-
 Be she Papist or beggar who lies here, I know
 and God knows
 I love her, and fain would go with her wherever
 she goes!
-
 "O mother! that sweet face came pleading, for
 love so athirst.
 You saw but the town-charge; I knew her God's
 angel at first."
-
 Shaking her gray head, the mistress hushed down
 a bitter cry;
 And awed by the silence and shadow of death
 drawing nigh,
-
 She murmured a psalm of the Bible; but closer
 the young girl pressed,
 With the last of her life in her fingers, the cross
 to her breast.
-
 "My son, come away," cried the mother, her voice
 cruel grown.
 "She is joined to her idols, like Ephraim; let her
 alone!"
-
 But he knelt with his hand on her forehead, his
 lips to her ear,
 And he called back the soul that was passing
 "Marguerite, do you hear?"
-
 She paused on the threshold of Heaven; love, pity,
 surprise,
 Wistful, tender, lit up for an instant the cloud of
 her eyes.
-
 With his heart on his lips he kissed her, but never
 her cheek grew red,
 And the words the living long for he spake in the
 ear of the dead.
-
 And the robins sang in the orchard, where buds to
 blossoms grew;
 Of the folded hands and the still face never the
 robins knew!
-1871.
-
-
-
-
-THE ROBIN.
 MY old Welsh neighbor over the way
 Crept slowly out in the sun of spring,
 Pushed from her ears the locks of gray,
 And listened to hear the robin sing.
-
 Her grandson, playing at marbles, stopped,
 And, cruel in sport as boys will be,
 Tossed a stone at the bird, who hopped
 From bough to bough in the apple-tree.
-
 "Nay!" said the grandmother; "have you not heard,
 My poor, bad boy! of the fiery pit,
 And how, drop by drop, this merciful bird
 Carries the water that quenches it?
-
 "He brings cool dew in his little bill,
 And lets it fall on the souls of sin
 You can see the mark on his red breast still
 Of fires that scorch as he drops it in.
-
 "My poor Bron rhuddyn! my breast-burned bird,
 Singing so sweetly from limb to limb,
 Very dear to the heart of Our Lord
 Is he who pities the lost like Him!"
-
 "Amen!" I said to the beautiful myth;
 "Sing, bird of God, in my heart as well:
 Each good thought is a drop wherewith
 To cool and lessen the fires of hell.
-
 "Prayers of love like rain-drops fall,
 Tears of pity are cooling dew,
 And dear to the heart of Our Lord are all
 Who suffer like Him in the good they do! "
-1871.
-
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK, AMONG THE HILLS, ETC ***
 By John Greenleaf Whittier
-
 ***** This file should be named 9564.txt or 9564.zip *****
-
 This eBook was produced by David Widger
-
-Project Gutenberg eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the US
 unless a copyright notice is included.  Thus, we usually do not
 keep eBooks in compliance with any particular paper edition.
-
 We are now trying to release all our eBooks one year in advance
 of the official release dates, leaving time for better editing.
 Please be encouraged to tell us about any error or corrections,
 even years after the official publication date.
-
 Please note neither this listing nor its contents are final til
 midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg eBooks is at
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.
-
 Most people start at our Web sites at:
 http://gutenberg.net or
 http://promo.net/pg
-
 These Web sites include award-winning information about Project
 Gutenberg, including how to donate, how to help produce our new
 eBooks, and how to subscribe to our email newsletter (free!).
-
-
 Those of you who want to download any eBook before announcement
 can get to them as follows, and just download by date.  This is
 also a good way to get them instantly upon announcement, as the
 indexes our cataloguers produce obviously take a while after an
-announcement goes out in the Project Gutenberg Newsletter.
-
 http://www.ibiblio.org/gutenberg/etext03 or
 ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
-
 Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
-
 Just search by the first five letters of the filename you want,
 as it appears in our Newsletters.
-
-
-Information about Project Gutenberg (one page)
-
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
 to get any eBook selected, entered, proofread, edited, copyright
@@ -2054,34 +1643,11 @@ files per month:  1240 more eBooks in 2001 for a total of 4000+
 We are already on our way to trying for 2000 more eBooks in 2002
 If they reach just 1-2% of the world's population then the total
 will reach over half a trillion eBooks given away by year's end.
-
-The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
 This is ten thousand titles each to one hundred million readers,
 which is only about 4% of the present number of computer users.
-
 Here is the briefest record of our progress (* means estimated):
-
 eBooks Year Month
-
-    1  1971 July
-   10  1991 January
-  100  1994 January
- 1000  1997 August
- 1500  1998 October
- 2000  1999 December
- 2500  2000 December
- 3000  2001 November
- 4000  2001 October/November
- 6000  2002 December*
- 9000  2003 November*
-10000  2004 January*
-
-
-The Project Gutenberg Literary Archive Foundation has been created
-to secure a future for Project Gutenberg into the next millennium.
-
 We need your donations more than ever!
-
 As of February, 2002, contributions are being solicited from people
 and organizations in: Alabama, Alaska, Arkansas, Connecticut,
 Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
@@ -2091,73 +1657,42 @@ Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
 Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
 Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
 Virginia, Wisconsin, and Wyoming.
-
 We have filed in all 50 states now, but these are the only ones
 that have responded.
-
 As the requirements for other states are met, additions to this list
 will be made and fund raising will begin in the additional states.
 Please feel free to ask to check the status of your state.
-
 In answer to various questions we have received on this:
-
 We are constantly working on finishing the paperwork to legally
 request donations in all 50 states.  If your state is not listed and
 you would like to know if we have added it since the list you have,
 just ask.
-
 While we cannot solicit donations from people in states where we are
 not yet registered, we know of no prohibition against accepting
 donations from donors in these states who approach us with an offer to
 donate.
-
 International donations are accepted, but we don't know ANYTHING about
 how to make them tax-deductible, or even if they CAN be made
 deductible, and don't have the staff to handle it even if there are
 ways.
-
 Donations by check or money order may be sent to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Ave.
 Oxford, MS 38655-4109
-
 Contact us if you want to arrange for a wire transfer or payment
 method other than by check or money order.
-
-The Project Gutenberg Literary Archive Foundation has been approved by
 the US Internal Revenue Service as a 501(c)(3) organization with EIN
-[Employee Identification Number] 64-622154.  Donations are
 tax-deductible to the maximum extent permitted by law.  As fund-raising
 requirements for other states are met, additions to this list will be
 made and fund-raising will begin in the additional states.
-
 We need your donations more than ever!
-
 You can get up to date donation information online at:
-
 http://www.gutenberg.net/donation.html
-
-
 ***
-
-If you can't reach Project Gutenberg,
 you can always email directly to:
-
 Michael S. Hart <hart@pobox.com>
-
 Prof. Hart will answer or forward your message.
-
 We would prefer to send you information by email.
-
-
 **The Legal Small Print**
-
-
 (Three Pages)
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
 Why is this "Small Print!" statement here? You know: lawyers.
 They tell us you might sue us if there is something wrong with
 your copy of this eBook, even if you got it for free from
@@ -2165,30 +1700,19 @@ someone other than us, and even if what's wrong is not our
 fault. So, among other things, this "Small Print!" statement
 disclaims most of our liability to you. It also tells you how
 you may distribute copies of this eBook if you want to.
-
-*BEFORE!* YOU USE OR READ THIS EBOOK
-By using or reading any part of this PROJECT GUTENBERG-tm
 eBook, you indicate that you understand, agree to and accept
 this "Small Print!" statement. If you do not, you can receive
 a refund of the money (if any) you paid for this eBook by
 sending a request within 30 days of receiving it to the person
 you got it from. If you received this eBook on a physical
 medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM EBOOKS
-This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
 is a "public domain" work distributed by Professor Michael S. Hart
-through the Project Gutenberg Association (the "Project").
 Among other things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
 without paying copyright royalties. Special rules, set forth
 below, apply if you wish to copy and distribute this eBook
-under the "PROJECT GUTENBERG" trademark.
-
-Please do not use the "PROJECT GUTENBERG" trademark to market
 any commercial products without permission.
-
 To create these eBooks, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works. Despite these efforts, the Project's eBooks and any
@@ -2198,18 +1722,9 @@ corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other eBook medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
 But for the "Right of Replacement or Refund" described below,
-[1] Michael Hart and the Foundation (and any other party you may
-receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
 all liability to you for damages, costs and expenses, including
 legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
 If you discover a Defect in this eBook within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -2219,96 +1734,54 @@ such person may choose to alternatively give you a replacement
 copy. If you received it electronically, such person may
 choose to alternatively give you a second opportunity to
 receive it electronically.
-
-THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
 Some states do not allow disclaimers of implied warranties or
 the exclusion or limitation of consequential damages, so the
 above disclaimers and exclusions may not apply to you, and you
 may have other legal rights.
-
-INDEMNITY
 You will indemnify and hold Michael Hart, the Foundation,
 and its trustees and agents, and any volunteers associated
-with the production and distribution of Project Gutenberg-tm
 texts harmless, from all liability, cost and expense, including
 legal fees, that arise directly or indirectly from any of the
 following that you do or cause:  [1] distribution of this eBook,
-[2] alteration, modification, or addition to the eBook,
 or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
 You may distribute copies of this eBook electronically, or by
 disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
 or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     eBook or this "small print!" statement.  You may however,
-     if you wish, distribute this eBook in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word
-     processing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The eBook, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The eBook may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the eBook (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          eBook in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the eBook refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Foundation of 20% of the
-     gross profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Literary Archive Foundation"
-     the 60 days following each date you prepare (or were
-     legally required to prepare) your annual (or equivalent
-     periodic) tax return.  Please contact us beforehand to
-     let us know your plans and to work out the details.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-Project Gutenberg is dedicated to increasing the number of
+requires that you do not remove, alter or modify the
+eBook or this "small print!" statement.  You may however,
+if you wish, distribute this eBook in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word
+processing or hypertext software, but only so long as
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the eBook (as is
+the case, for instance, with most word processors);
+no additional cost, fee or expense, a copy of the
+eBook in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+"Small Print!" statement.
+gross profits you derive calculated using the method you
+already use to calculate your applicable taxes.  If you
+don't derive profits, no royalty is due.  Royalties are
+the 60 days following each date you prepare (or were
+legally required to prepare) your annual (or equivalent
+periodic) tax return.  Please contact us beforehand to
+let us know your plans and to work out the details.
 public domain and licensed works that can be freely distributed
 in machine readable form.
-
 The Project gratefully accepts contributions of money, time,
 public domain materials, or royalty free copyright licenses.
 Money should be paid to the:
-"Project Gutenberg Literary Archive Foundation."
-
 If you are interested in contributing scanning equipment or
 software or other items, please contact Michael Hart at:
 hart@pobox.com
-
-[Portions of this eBook's header and trailer may be reprinted only
 when distributed free of all fees.  Copyright (C) 2001, 2002 by
-Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
-used in any sales of Project Gutenberg eBooks or other materials be
 they hardware or software or any other related product without
 express permission.]
-
 *END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
-
-

@@ -1,81 +1,16 @@
-e Project Gutenberg EBook of Hymns, Songs, and Fables, for Young People
-by Eliza Lee Follen
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Hymns, Songs, and Fables, for Young People
-
-Author: Eliza Lee Follen
-
-Release Date: September 13, 2005 [EBook #16688]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK HYMNS, SONGS, AND FABLES ***
-
-
-
-
 Produced by PM Childrens Library, Linda Cantoni, and the
 Online Distributed Proofreading Team at http://www.pgdp.net.
 Produced from page scans provided by Internet Archive and
 University of Florida.
-
-
-
-
-
-
-
-
-
-HYMNS, SONGS, AND FABLES,
-FOR YOUNG PEOPLE.
-
-BY
-
-ELIZA LEE FOLLEN.
-
-REVISED AND ENLARGED FROM THE LAST EDITION.
-
-BOSTON:
-WM. CROSBY AND H.P. NICHOLS,
-118 WASHINGTON STREET.
-
-1851.
-
-[Illustration]
-
 Entered according to Act of Congress, in the year 1846, by WM. CROSBY
 AND H.P. NICHOLS, in the Clerk's Office of the District Court of the
 District of Massachusetts.
-
-CAMBRIDGE:
-STEREOTYPED AND PRINTED BY
-METCALF AND COMPANY,
-PRINTERS TO THE UNIVERSITY.
-
-
-
-
-PREFACE TO THE FIRST EDITION.
-
-BY CHARLES FOLLEN.
-
-
 This little book is dedicated to parents and children. Most of the
 poems were written with no other hope, than that they would instruct
 or please some child. The pleasure they have given in a limited circle
 has tempted the writer to print them. Some have never before appeared
 in public, but most of them have been already published in different
 works; some few, without the author's knowledge.
-
 It will be found that these poems are intended for children of
 different ages and characters. It may be objected to the book, that
 gay and serious pieces are bound up together; but so it is in human
@@ -84,7 +19,6 @@ a child's mind that it should be so. The smile that overtakes its
 tears is as necessary to the child as the sun after a spring shower
 is to the young plant; and without it a blight will fall upon the
 opening blossom.
-
 The natural love that all have for their literary offspring, perhaps,
 first induced the author to bring the stray little family together.
 This motive was strengthened by the hope that children might love the
@@ -92,22 +26,11 @@ book, and that she might have the pleasure of seeing it among their
 treasures, with the corners of the leaves well worn by their little
 fingers, and perhaps sometimes placed upon the pillow where "angels
 hover round."
-
 This success, which must secure to her also the approbation of
 parents, she does aspire after, and most earnestly desire; this, and
 this alone, will satisfy her; without this, she would be the first to
 pronounce it an unworthy offering.
-
 CAMBRIDGE, May 19, 1831.
-
-
-
-
-PREFACE
-
-TO THE PRESENT EDITION.
-
-
 The present edition of Hymns, Songs, and Fables, has been greatly
 enlarged, by poems either not before printed, or that have had a very
 limited circulation, and also by a number of translations from the
@@ -115,2482 +38,1770 @@ German. If they should have the good fortune to add to the innocent
 pleasure of the young, and deserve to become associated in their minds
 with the pure and hallowed recollections of home, and happy early
 days, my highest ambition with regard to them be entirely gratified.
-
-ELIZA LEE FOLLEN.
-
 CAMBRIDGE, November 19, 1846.
-
-
-
-
-CONTENTS.
-
-
-HYMNS.
-
-                                                        PAGE
-
 "Suffer little children to come unto me"                   1
-
 Hymn                                                       2
-
 Hymn for a Little Boy                                      3
-
 "The Lord is my Strength"                                  5
-
 Hymn                                                       6
-
 "Thy Will be done"                                         7
-
 Sabbath Day                                                8
-
 The Good Boy's Hymn on going to Bed                       10
-
 God is good                                               11
-
 Evening                                                   12
-
 Robinson Crusoe's Hymn                                    13
-
 Hymn                                                      14
-
 On Prayer                                                 16
-
 "The Spirit giveth Life"                                  17
-
 We never part from Thee                                   19
-
 "I will arise and go to my Father"                        20
-
 Evening Hymn                                              22
-
 Autumn                                                    23
-
 The Lord's Day                                            24
-
 The Ministry of Pain                                      25
-
 "By Faith ye are saved"                                   26
-
 Evening Prayer                                            27
-
 Evening Hymn                                              28
-
 Lines written at Midnight                                 29
-
 "Hope in God"                                             31
-
 Failure and Success                                       32
-
-
-SONGS.
-
 The Little Spring                                         35
-
 The Little Boy's May-day Song                             36
-
 Guess what I have heard                                   38
-
 Spring                                                    39
-
 The Little Boy's Good-night                               40
-
 The Shepherd's Sabbath-song                               41
-
 To Spring                                                 42
-
 Her Voyage is at an End                                   44
-
 Charley and his Father. A Ballad                          47
-
 Remember the Slave                                        50
-
 Home-sickness                                             52
-
 Happiness                                                 53
-
 Children in Slavery                                       54
-
 To Good Resolutions                                       55
-
 Thanks for a Pleasant Day                                 56
-
 To a Butterfly                                            57
-
 To Nature                                                 58
-
 On the Death of a Young Companion                         59
-
 The Sabbath is here                                       60
-
 The Child at her Mother's Grave                           62
-
 Child's Song                                              63
-
 To a Fountain                                             64
-
 Song for an Infant School                                 64
-
 The Summer                                                66
-
 To a Beautiful Girl                                       68
-
 The Little Slave's Wish                                   69
-
-
-FABLES.
-
 The Honest Bird                                           73
-
 Soliloquy of Ellen's Squirrel                             76
-
 The Pin, Needle, and Scissors                             77
-
 Learned Fred                                              83
-
 Little Roland                                             84
-
 Billy Rabbit to Mary                                      91
-
 The Old and New Shoes                                     93
-
 The Monkeys and the Bears                                 97
-
-
-
-
-HYMNS.
-
-
-"SUFFER LITTLE CHILDREN TO COME UNTO ME."
-
-    "Let little children come to me,"--
-      This is what the Saviour said;
-    Little children, come and see
-      Where these gracious words are read.
-
-    Often on these pages look,--
-      Of the love of God they tell;
-    'Tis indeed a holy book,--
-      Learn to read and love it well.
-
-    Thus you hear the Saviour speak,--
-      "Come ye all and learn of me";
-    He was gentle, lowly, meek,--
-      So should all his followers be.
-
-    When our Saviour from above,
-      From his Father did descend,
-    He took them in his arms of love,
-      And children knew him for their friend.
-
-    All little children Jesus blessed,--
-      Blessed in innocence they are;
-    Little children he caressed;
-      Praise him in your infant prayer.
-
-
-HYMN.
-
-    Praise to God! O let us raise
-    From our hearts a song of praise!
-    Of that goodness let us sing
-    Whence our lives and blessings spring.
-
-    Praise to him who made the light,
-    Praise to him who gave us sight,
-    Praise to him who formed the ear;
-    Will he not his children hear?
-
-    Praise him for our happy hours,
-    Praise him for our varied powers,
-    For these thoughts that rise above,
-    For these hearts he made for love,
-
-    For the voice he placed within,
-    Bearing witness when we sin;
-    Praise to him whose tender care
-    Keeps this watchful guardian there.
-
-    Praise his mercy, that did send
-    Jesus for our guide and friend;
-    Praise him, every heart and voice,
-    Him who makes all worlds rejoice.
-
-
-HYMN FOR A LITTLE BOY.
-
-    "What, mother, makes it seem to me,
-      When I am all alone,
-    As if some one could hear and see,
-      And all my thoughts were known?
-
-    "Sometimes it makes me very glad,
-      And dance and sing with joy;
-    Sometimes it makes me very sad,
-      And frights your little boy.
-
-    "O, tell me, mother, tell me why;
-      For I have never known
-    Why 'tis I laugh, or why I cry,
-      When I am all alone."
-
-    "My child, you never are alone;
-      There is a watchful eye
-    To which your very thoughts are known;
-      'Tis God is ever nigh.
-
-    "He made your little heart for joy,
-      He tunes your happy song;
-    O, then, my little timid boy,
-      Fear only doing wrong.
-
-    "For he who makes your heart so glad,
-      Who bids the good be gay,
-    With the same love will make it sad,
-      Whene'er you disobey.
-
-    "He is our Father, and he hears
-      Your weakest, faintest prayer;
-    He wipes away an infant's tears,
-      And children are his care."
-
-
-"THE LORD IS MY STRENGTH."
-
-    Almighty Father! I am weak,
-      But thou wilt strengthen me,
-    If from my heart I humbly seek
-      For help and light from thee.
-
-    When I am tempted to do wrong,
-      Then, Father, pity me,
-    And make my failing virtue strong;
-      Help me to think of thee!
-
-    Let Christian courage guard my youth;
-      That courage give to me
-    Which ever speaks and acts the truth,
-      And puts its trust in thee.
-
-
-HYMN.
-
-    Will God, who made the earth and sea,
-      The night, and shining day,
-    Regard a little child like me,
-      And listen when I pray?
-
-    If I am hungry, poor, and cold,
-      Then will he hear my cry?
-    And when I shall be sick and old,
-      O, then will God be nigh?
-
-    Yes; in his holy word we read
-      Of his unfailing love;
-    And when his mercy most we need,
-      His mercy he will prove.
-
-    To those who seek him, he is near;
-      He looks upon the heart,
-    And from the humble and sincere
-      He never will depart.
-
-    He sees our thoughts, our wishes knows,
-      He hears our faintest prayer;
-    Where'er the faithful Christian goes,
-      He finds his Father there.
-
-    Obedient children need not fear;
-      God is a faithful friend,
-    And when no other help is near,
-      He will deliverance send.
-
-    Then fear not hunger, cold, or pain,
-      But fear to disobey
-    That power which does your life sustain,
-      And guards you every day.
-
-
-"THY WILL BE DONE."
-
-    How sweet to be allowed to pray
-      To God, the Holy One,
-    With filial love and trust to say,--
-      "Father, thy will be done!"
-
-    We in these sacred words can find
-      A cure for every ill;
-    They calm and soothe the troubled mind,
-      And bid all care be still.
-
-    O, let that will, which gave me breath
-      And an immortal soul,
-    In joy or grief, in life or death,
-      My every wish control!
-
-    O, could my heart thus ever pray,
-      Thus imitate thy Son!
-    Teach me, O God, with truth to say,--
-      "Thy will, not mine, be done!"
-
-
-SABBATH DAY.
-
-    How sweet upon this sacred day,
-      The best of all the seven,
-    To cast our earthly thoughts away,
-      And think of God and heaven!
-
-    How sweet to be allowed to pray
-      Our sins may be forgiven;
-    With filial confidence to say,
-      "Father, who art in heaven"!
-
-    With humble hope to bend the knee,
-      And, free from folly's leaven,
-    Confess that we have strayed from thee,
-      Thou righteous Judge in heaven!
-
-    And if to make all sin depart
-      In vain the will has striven,
-    He who regards the inmost heart
-      Will send his grace from heaven.
-
-    If from the bosom that is dear
-      By cold unkindness driven,
-    The heart that knows no refuge here
-      Shall find a friend in heaven.
-
-    Then hail, thou sacred, blessed day,
-      The best of all the seven,
-    When hearts unite their vows to pay
-      Of gratitude to Heaven.
-
-
-THE GOOD BOY'S HYMN ON GOING TO BED.
-
-    How sweet to lay my weary head
-    Upon my quiet little bed,
-    And feel assured, that all day long
-    I have not knowingly done wrong!
-
-    How sweet to hear my mother say,
-    "You have been very good to-day!"
-    How sweet to see my father's joy
-    When he can say, "My dear, good boy!"
-
-    How sweet it is my thoughts to send
-    To many a dear-loved distant friend,
-    And feel, if they my heart could see,
-    How very happy they would be!
-
-    How sweet to think that He whose love
-    Made all these shining worlds above
-    My pure and happy heart can see,
-    And loves a little boy like me.
-
-[Illustration]
-
-
-GOD IS GOOD.
-
-    Thou art good! Each perfumed flower,
-      Waving fields, the dark green wood,
-    The insect fluttering for an hour,--
-      All things proclaim that God is good.
-
-    I hear it in each breath of wind;
-      The hills that have for ages stood,
-    And clouds with gold and silver lined,
-      All still repeat that God is good.
-
-    Each little rill, that many a year
-      Has the same verdant path pursued,
-    And every bird, in accents clear,
-      Joins in the song that God is good.
-
-    The restless sea, with haughty roar,
-      Calms each wild wave and billow rude,
-    Retreats submissive from the shore,
-      And swells the chorus, "God is good."
-
-    The countless hosts of twinkling stars,
-      That sing his praise with light renewed;
-    The rising sun each day declares,
-      In rays of glory, God is good.
-
-    The moon, that walks in brightness, says,
-      That God is good! and man, endued
-    With power to speak his Maker's praise,
-      Should still repeat that God is good.
-
-
-EVENING.
-
-    How beautiful the setting sun!
-      The clouds how bright and gay!
-    The stars, appearing one by one,
-      How beautiful are they!
-
-    And when the moon climbs up the sky,
-      And sheds her gentle light,
-    And hangs her crystal lamp on high,
-      How beautiful is night!
-
-    And can it be I am possessed
-      Of something brighter far?
-    Glows there a light within this breast
-      Outshining every star?
-
-    Yes; should the sun and stars turn pale,
-      The mountains melt away,
-    This flame within shall never fail,
-      But live in endless day.
-
-    This is the soul that God has given,--
-      Sin may its lustre dim;
-    While goodness bears it up to heaven,
-      And leads it back to him.
-
-
-ROBINSON CRUSOE'S HYMN.
-
-    My Heavenly Father! all I see,
-      Around me and above,
-    Sends forth a hymn of praise to thee,
-      And speaks thy boundless love.
-
-    The clear blue sky is full of thee,
-      The woods so dark and lone;
-    The soft south-wind, the sounding sea,
-      Worship the Holy One.
-
-    The humming of the insect throng,
-      The prattling, sparkling rill,
-    The birds, with their melodious song,
-      Repeat thy praises still.
-
-    And thou dost hear them every one,--
-      Father, thou hearest me;
-    I know that I am not alone,
-      When I but think of thee.
-
-
-HYMN.
-
-    It was my Heavenly Father's love
-      Brought every being forth;
-    He made the shining worlds above,
-      And every thing on earth.
-
-    Each lovely flower, the smallest fly,
-      The sea, the waterfall,
-    The bright green fields, the clear blue sky,--
-      'Tis God that made them all.
-
-    He gave me all my friends, and taught
-      My heart to love them well,
-    And he bestowed the power of thought,
-      And speech my thoughts to tell.
-
-    My father and my mother dear,--
-      He is their father too;
-    He bids me all their precepts hear,
-      And all they teach me, do.
-
-    God sees and hears me all the day,
-      And 'mid the darkest night;
-    He views me when I disobey,
-      And when I act aright.
-
-    He guards me with a parent's care,
-      When I am all alone;
-    My hymn of praise, my humble prayer,
-      He hears them every one.
-
-    God hears what I am saying now,--
-      O, what a wondrous thought!
-    My Heavenly Father, teach me how
-      To love thee as I ought.
-
-
-ON PRAYER.
-
-    As through the pathless fields of air
-      Wandered forth the timid dove,
-    So the heart, in humble prayer,
-      Essays to reach the throne of love.
-
-    Like her it may return unblest,
-      Like her again may soar,
-    And still return and find no rest,
-      No peaceful, happy shore.
-
-    But now once more she spreads her wings,
-      And takes a bolder flight,
-    And see! the olive-branch she brings,
-      To bless her master's sight.
-
-    And thus the heart renews its strength,
-      Though spent and tempest-driven,
-    And higher soars, and brings at length
-      A pledge of peace with Heaven.
-
-
-"THE SPIRIT GIVETH LIFE."
-
-    What was in the viewless wind,
-      Wild rushing through the oak,
-    Seemed to my listening, dreaming mind
-      As though a spirit spoke?
-
-    What is it to the murmuring stream
-      Doth give so sweet a song,
-    That on its tide my thoughts do seem
-      To pour themselves along?
-
-    What is it on the dizzy height,
-      What in each glowing star,
-    That speaks of things beyond the sight,
-      And questions what they are?
-
-    What in the rolling thunder's voice,
-      What in the ocean's roar,
-    Hears the grand chorus, "O, rejoice!"
-      Echo from shore to shore?
-
-    What in the gentle moon doth see
-      Pure thoughts and tender love,
-    And hears delicious melody
-      Around, below, above?
-
-    What bids the savage tempest speak
-      Of terror and dismay,
-    And wakes the agonizing shriek
-      Of guilt that fears to pray?
-
-    It is this ever-living mind;
-      This little throb of life
-    Hears its own echoes in the wind,
-      And in the tempest's strife;
-
-    To all that's sweet, and bright, and fair,
-      Its own affections gives;
-    Sees its own image everywhere,
-      Through all creation lives.
-
-    It bids the everlasting hills
-      Give back the solemn tone;
-    This boundless arch of azure fills
-      With accents all its own.
-
-    What is this life-inspiring mind,
-      This omnipresent thought?
-    How shall it ever utterance find
-      For all itself hath taught?
-
-    To Him who breathed the heavenly flame,
-      Its mysteries are known;
-    It seeks the source from whence it came,
-      And rests in God alone.
-
-
-WE NEVER PART FROM THEE.
-
-    God, who dwellest everywhere
-    God, who makest all thy care,
-    God, who hearest every prayer,
-        Thou who see'st the heart;
-
-    Thou to whom we lift our eyes.
-    Father, help our souls to rise,
-    And, beyond these narrow skies,
-        See thee as thou art!
-
-    Let our anxious thoughts be still,
-    Holy trust adore thy will,
-    Holy love our bosoms fill,
-        Let our songs ascend!
-    Dearest friends may parted be,
-    All our earthly treasures flee,
-    Yet we never part from thee,
-        Our eternal Friend.
-
-
-"I WILL ARISE AND GO TO MY FATHER."
-
-    Help me, O God, to trust in thee,
-      Thou high and holy One!
-    And may my troubled spirit flee
-      For rest to thee alone.
-
-    In thee alone the soul can find
-      Secure and sweet repose;
-    And thou canst bid the desert mind
-      To blossom as the rose.
-
-    Let not this spirit, formed to rise
-      Where angels claim their birth,
-    Forsake its home beyond the skies,
-      And cling to barren earth.
-
-    The bird of passage knows the sign
-      That warns him to depart;
-    Shall I not heed the voice divine,
-      That whispers in my heart,--
-
-    "Up! plume thy wings, soar far away!
-      No longer idly roam!
-    Fly to the realms of endless day;
-      For this is not thy home."
-
-    This still, small voice, O, may I hear!
-      Ere clouds and darkness come,
-    And thunders in my startled ear
-      Proclaim my final doom.
-
-    Father! to thee my spirit cries!
-      Thy wandering child reclaim.
-    Speak! and my dying faith shall rise,
-      And wake a deathless flame.
-
-
-EVENING HYMN.
-
-    Thou, from whom we never part,
-      Thou, whose love is everywhere,
-    Thou who seest every heart,
-      Listen to our evening prayer.
-
-    Father! fill our souls with love,
-      Love unfailing, full, and free,
-    Love no injury can move,
-      Love that ever rests on thee.
-
-    Heavenly Father! through the night
-      Keep us safe from every ill;
-    Cheerful as the morning light,
-      May we wake to do thy will.
-
-
-AUTUMN.
-
-    Sweet Summer, with her flowers, has past,
-      I hear her parting knell;
-    I hear the moaning, fitful blast,
-      Sighing a sad farewell.
-
-    But, while she fades and dies away,
-      In rainbow hues she glows;
-    Like the last smile of parting day,
-      Still brightening as she goes.
-
-    The robin whistles clear and shrill;
-      Sad is the cricket's song;
-    The wind, wild rushing o'er the hill,
-      Bears the dead leaf along.
-
-    I love this sober, solemn time,
-      This twilight of the year;
-    To me, sweet Spring, in all her prime,
-      Was never half so dear.
-
-    While death has set his changing seal
-      On all that meets the eye,
-    'Tis rapture, then, within to feel
-      The soul that cannot die;--
-
-    To look far, far beyond this sky,
-      To Him who changes never.
-    This earth, these heavens, shall change and die;
-      God is the same for ever.
-
-
-THE LORD'S DAY.
-
-    This is the day when Jesus woke
-      From the deep slumbers of the tomb;
-    This is the day the Saviour broke
-      The bonds of fear and hopeless gloom.
-
-    This is indeed a holy day;
-      No longer may we dread to die.
-    Let every fear be cast away,
-      And tears be wiped from every eye.
-
-    Sorrow and pain the Saviour knew;
-      A dark and thorny path he trod;
-    But heaven was ever in his view,--
-      That toilsome path led up to God.
-
-    Let every heart rejoice and sing;
-      Let every sin and sorrow cease;
-    Let children come this day and bring
-      Their offering of love and peace.
-
-
-THE MINISTRY OF PAIN.
-
-    Cease, my complaining spirit, cease;
-      Know 'tis a Father's hand you feel;
-    It leads you to the realms of peace;
-      It kindly only wounds to heal.
-
-    My Father! what a holy joy
-      Bursts on the sad, desponding mind,
-    To say, when fiercest ills annoy,--
-      "I know my Father still is kind!"
-
-    This bids each trembling fear be still,
-      Checks every murmur, every sigh;
-    Patience then waits his sovereign will,
-      Rejoiced to live,--resigned to die.
-
-    O blessed ministry of pain!
-      To teach the soul its real worth;
-    To lead it to that source again,
-      From whence it first derived its birth.
-
-
-"BY FAITH YE ARE SAVED."
-
-    Christian! when, overwhelmed with grief and care,
-      Thou prayest for the help that thou dost need,
-      As shipwrecked mariner for life will plead,
-    O, then for faith pour forth the fervent prayer!
-    'Tis faith alone life's heavy ills can bear.
-      O, mark her calm, far-seeing, quickening eye,
-      Full of the light of immortality!
-      It tells of worlds unseen, and calls us there;
-      That look of hers can save thee from despair.
-
-    When sorrow, like thick darkness, gathers round,
-      And all life's flowers are fading in the dust,
-    Faith lifts our drooping vision from the ground,--
-      Says, that the hand that smites us yet is just;
-    That human agony hath ever found
-      The mighty God a never-failing trust.
-
-
-EVENING PRAYER.
-
-    Great Source of being,
-    Father all-seeing!
-    We bow before thee;
-    Our souls adore thee;
-    Help us obey thee;
-    Guide us aright;
-    Keep us, we pray thee,
-    Through the long night.
-
-    Thou kind, forgiving
-    God of all living,
-    Thy power defend us,
-    Thy peace attend us,
-    While we are closing
-    This day in prayer,
-    Ever reposing
-    Under thy care.
-
-
-EVENING HYMN.
-
-    Before I close my eyes to-night,
-      Let me myself these questions ask:--
-    Have I endeavoured to do right,
-      Nor thought my duty was a task?
-
-    Have I been gentle, lowly, meek,
-      And the small voice of conscience heard?
-    When passion tempted me to speak,
-      Have I repressed the angry word?
-
-    Have I with cheerful zeal obeyed
-      What my kind parents bid me do,
-    And not by word or action said
-      The thing that was not strictly true?
-
-    In hard temptation's troubled hour,
-      Then have I stopped to think and pray,
-    That God would give my soul the power
-      To chase the sinful thought away?
-
-    O Thou who seest all my heart,
-      Wilt thou forgive and love me still!
-    Wilt thou to me new strength impart,
-      And make me love to do thy will!
-
-
-LINES WRITTEN AT MIDNIGHT.
-
-TRANSLATED FROM THE GERMAN OF A.G. EBERHARD.
-
-    The sun in smiles doth dress his face,
-    As evening comes to take his place;
-    So looks the parting loved-one, when
-    He means to quickly come again.
-
-    With moon and stars all sparkling bright,
-    Advances now the silent night;
-    And with the calm and gentle moon,
-    Sweet peace doth quietly come on.
-
-    Who at the moon and stars can gaze
-    Without a gush of love and praise?
-    And now it is the midnight hour,
-    And sleep asserts her soothing power.
-
-    But see, the flickering light is gone,
-    That from my neighbour's window shone;
-    His simple household prayer is said,
-    He rests from toil, on his hard bed.
-
-    Yet still the watchman wakes, and still
-    Faithful till morning watch he will;
-    But vain, O watchman! is thy care,
-    If God, the Guardian, be not there.
-
-    By my dull lamp, whose light's near gone,
-    In my small room I sit alone,
-    And, thinking o'er past joys and pain,
-    A sweet contentment doth remain.
-
-    He's still my trust; he, the true Shepherd, never
-    Will forsake his sheep,--he watcheth ever;
-    The mother may forget her child, but yet
-    Thus saith the Lord,--"Thee I will not forget."
-
-    I rest in peace, I trust in Thee;
-    Thy faithful eye still watcheth me;
-    For He who ever wakes and lives
-    To loving hearts no night e'er gives.
-
-
-"HOPE IN GOD."
-
-TRANSLATED FROM THE GERMAN OF S.A. MAHLMAN.
-
-    Hope, my heart, in patience hope,--
-      Thou at last thy flowers shalt gather;
-    God is full of tender love,--
-      Childlike speak thou to thy Father.
-    From believing, trusting hearts,
-    The God of mercy ne'er departs.
-
-    Clouds may come, and clouds may go,
-      Rest upon his goodness always;
-    To those joyful, sunny heights
-      Lead these rough and gloomy pathways;
-    Wakes for aye his Eye of Light,--
-    Tremble not in storm and night.
-
-    Anchored on the Eternal Rock,
-      To the heart of God fast clinging,
-    Tell him all thy deepest woes,
-      Before him all thy sorrows bringing;
-    He is kind, and comfort gives
-    To every sorrowing heart that lives.
-
-    Let true faith strong courage give;
-      Strength the Helper now is sending;
-    Soon thou'lt understand His ways,
-      Soon thou'lt find thy sorrows ending.
-    God! who life and goodness art!
-    In patience hope in Him, my heart.
-
-
-FAILURE AND SUCCESS.
-
-    It is in failure, in distress,
-      When, reft of all, it stands alone,
-    And not in what men call success,
-      The noble, valiant soul is known.
-
-    He who perfection makes his aim
-      Shoots at a mark he may not reach;
-    The world may laugh, the world may blame.
-      And what it calls _discretion_ preach.
-
-    And he will fail to win the goal
-      Which low ambition makes its own;
-    But, far beyond, his earnest soul
-      Stands in the light, though all alone.
-
-    It was through insult, pain, and loss
-      That Jesus won immortal power;
-    Thus the great failure of the cross
-      Was his triumphant, glorious hour.
-
-    Think not of failure or success;
-      He fails who has a low desire.
-    Up to the highest ever press,
-      Still onward, upward, higher! higher!
-
-    Make such thy purpose, such thy aim,
-      That they who watch thy spirit's flight
-    Shall look to heaven from whence it came,
-      And loose thee in celestial light.
-
-
-
-
-SONGS.
-
-
-THE LITTLE SPRING.
-
-    Beneath a green and mossy bank
-      There flows a clear and fairy stream;
-    There the pert squirrel oft has drank,
-      And thought, perhaps, 'twas made for him.
-
-    Their pitchers there the laborers fill,
-      As drop by drop the crystals flow,
-    Singing their silvery welcome still
-      To all who to the fountain go.
-
-    Then to the river on it glides,
-      Its tributary drop to bear,
-    Its modest head a moment hides,
-      Then rises up and sparkles there.
-
-    The touching lesson on my heart
-      Falls like the gentle dews of heaven,
-    Bids me with humble love impart
-      The little treasure God has given.
-
-    For from a source as small as this
-      Full many a cup of joy may flow,
-    And on the stream of human bliss
-      Its little ray of gladness throw.
-
-
-THE LITTLE BOY'S MAY-DAY SONG.
-
-    "The flowers are blooming everywhere,
-      On every hill and dell,
-    And O, how beautiful they are!
-      How sweetly, too, they smell!
-
-    "The little brooks, they dance along,
-      And look so glad and gay;
-    I love to hear their pleasant song,
-      I feel as glad as they.
-
-    "The young lambs bleat and frisk about,
-      The bees hum round their hive,
-    The butterflies are coming out,--
-      'Tis good to be alive.
-
-    "The trees that looked so stiff and gray
-      With green wreaths now are hung;
-    O mother! let me laugh and play,
-      I cannot hold my tongue.
-
-    "See yonder bird spread out his wings,
-      And mount the clear blue skies;
-    And hark! how merrily he sings,
-      As far away he flies."
-
-    "Go forth, my child, and laugh and play,
-      And let your cheerful voice,
-    With birds, and brooks, and merry May,
-      Cry loud, Rejoice! rejoice!
-
-    "I would not check your bounding mirth,
-      My little happy boy,
-    For He who made this blooming earth
-      Smiles on an infant's joy."
-
-
-GUESS WHAT I HAVE HEARD.
-
-    Dear mother, guess what I have heard!
-      O, it will soon be spring!
-    I'm sure it was a little bird,--
-      Mother, I heard him sing.
-
-    Look at this little piece of green
-      That peeps out from the snow,
-    As if it wanted to be seen,--
-      'Twill soon be spring, I know.
-
-    And O, come here, come here and look!
-      How fast it runs along!--
-    Here is a cunning little brook;
-      O, hear its pretty song!
-
-    I know 'tis glad the winter's gone
-      That kept it all so still,
-    For now it merrily runs on,
-      And goes just where it will.
-
-    I feel just like the brook, I know;
-      It says, it seems to me,--
-    "Good by, cold weather, ice, and snow;
-      Now girls and brooks are free."
-
-    I love to think of what you said,
-      Mother, to me last night,
-    Of this great world that God has made,
-      So beautiful and bright.
-
-    And now it is the happy spring
-      No naughty thing I'll do;
-    I would not be the only thing
-      That is not happy, too.
-
-
-SPRING.
-
-    Hark! the little birds are singing,--
-      Winter's gone and summer's near;
-    See, the tender grass is springing,
-      And the flowers will soon be here.
-
-    Who made the winter and the spring?
-      Who painted all the flowers?
-    Who taught the little birds to sing,
-      And made these hearts of ours?
-
-    O, 'tis God! how good he is!
-      He does every blessing give;
-    All this happy world is his,--
-      Let us love him while we live.
-
-
-THE LITTLE BOY'S GOOD-NIGHT.
-
-    The sun is hidden from our sight,
-      The birds are sleeping sound;
-    'Tis time to say to all, "Good night!"
-      And give a kiss all round.
-
-    Good night! my father, mother, dear,
-      Now kiss your little son;
-    Good night! my friends, both far and near,
-      Good night to every one.
-
-    Good night! ye merry, merry birds,
-      Sleep well till morning light;
-    Perhaps if you could sing in words,
-      You would have said, "Good night!"
-
-    To all my pretty flowers, good night!
-      You blossom while I sleep;
-    And all the stars, that shine so bright,
-      With you their watches keep.
-
-    The moon is lighting up the skies,
-      The stars are sparkling there;
-    'Tis time to shut our weary eyes,
-      And say our evening prayer.
-
-
-THE SHEPHERD'S SABBATH-SONG.
-
-TRANSLATED FROM THE GERMAN OF UHLAND.
-
-      This is the Sabbath day!
-    In the wide field I am alone.
-    Hark! now one morning bell's sweet tone,--
-      Now it has died away.
-
-      Kneeling I worship Thee;
-    Sweet dread doth o'er my spirit steal,
-    From whispering sounds of those who kneel,
-      Unseen, to pray with me.
-
-      Around and far away,
-    So clear and solemn is the sky,
-    It seems all opening to my eye;
-      This is the Sabbath day!
-
-
-TO SPRING.
-
-    Hail! reviving, joyous Spring,
-      Smiling through thy veil of showers;
-    Birds and brooks thy welcome sing,--
-      Haste, and waken all thy flowers.
-
-    Hark! a sweet pervading sound!
-      From the breathing, moving earth
-    Life is starting all around,
-      Sending joy and fragrance forth.
-
-    O'er the oak's gigantic form
-      Blossoms hang their drapery;
-    Branches that defied the storm
-      Now are full of melody.
-
-    There is not a silent thing
-      In this joyous company;
-    Woods, and hills, and valleys ring
-      With a shout of jubilee.
-
-    Wake, my spirit! art thou still?
-      Senseless things have found a voice;
-    Shall this throbbing heart be still,
-      When all nature cries, "Rejoice"?
-
-    Wake, come forth, my bounding soul!
-      Join the universal glee,
-    Yield to nature's kind control,
-      Catch her heavenly harmony.
-
-    Join the grateful, happy throng,
-      Cast each selfish care away;
-    Birds and brooks shall tune your song;
-      This is nature's holiday.
-
-
-HER VOYAGE IS AT AN END.
-
-    Hushed was the ocean's stormy roar,
-      Still as an infant's joy;
-    There sat upon the rocky shore
-      A father and his boy.
-
-    Far off they saw a gallant ship,
-      It came from foreign lands;
-    The boy began to dance and skip,
-      And clap his little hands.
-
-    Her wished-for port is near at hand,
-      The ship is hastening on;
-    They hear the birds sing on the land;
-      Her voyage is nearly done.
-
-    The boy's glad notes, his shouts of glee,
-      The rocks with music fill;
-    But now he cries,--"See, father, see!
-      The ship is standing still."
-
-    Her masts are trembling from the shock.
-      Her white sails all descend;
-    The ship has struck upon a rock,--
-      Her voyage is at an end.
-
-    The sailors hurry to and fro,
-      All crowded is the deck;
-    She struggles hard,--she's free;--O, no!
-      She is indeed a wreck.
-
-    The boy's young heart is full of grief:
-      "Father! what will she do?
-    Let's take the boat to her relief,
-      O, quickly let us go!"
-
-    They went,--and many a stronger hand
-      Its ready succour gave;
-    They brought the crew all safe to land,
-      And the cargo tried to save.
-
-    The night comes on, the night is dark,
-      More dark the billows seem;
-    They break against the ship, and hark!
-      The seamew's mournful scream.
-
-    The boy upon his pillow lies,
-      In sweet repose he sinks;
-    And, as he shuts his weary eyes,
-      On the poor ship he thinks.
-
-    The sun shines o'er the watery main
-      As it did the day before;
-    The father and his son again
-      Are seated on the shore.
-
-    With the western wind full many a boat
-      Their white sails gayly fill,
-    They lightly o'er the blue waves float,--
-      But the gallant ship is still.
-
-    The sailors now the mournful wreck
-      Of masts and rigging strip;
-    The waves are playing o'er the deck
-      Of the sad and ruined ship.
-
-    A crow upon the top branch stood
-      Of a lone and blasted tree;
-    He seemed to look upon the flood
-      With a gloomy sympathy.
-
-    The boy now looks up at the bird,
-      At the sinking vessel now;
-    He does not speak a single word.
-      But a shade is on his brow.
-
-    Now slowly comes a towering wave,
-      And sweeps with triumph on;
-    It bears her to her watery grave,--
-      The gallant ship is gone.
-
-    Hushed is the ocean's stormy roar,
-      Still as an infant's joy;
-    The father sits upon the shore
-      In silence with his boy.
-
+"Let little children come to me,"--
+This is what the Saviour said;
+Little children, come and see
+Where these gracious words are read.
+Often on these pages look,--
+Of the love of God they tell;
+'Tis indeed a holy book,--
+Learn to read and love it well.
+Thus you hear the Saviour speak,--
+"Come ye all and learn of me";
+He was gentle, lowly, meek,--
+So should all his followers be.
+When our Saviour from above,
+From his Father did descend,
+He took them in his arms of love,
+And children knew him for their friend.
+All little children Jesus blessed,--
+Blessed in innocence they are;
+Little children he caressed;
+Praise him in your infant prayer.
+Praise to God! O let us raise
+From our hearts a song of praise!
+Of that goodness let us sing
+Whence our lives and blessings spring.
+Praise to him who made the light,
+Praise to him who gave us sight,
+Praise to him who formed the ear;
+Will he not his children hear?
+Praise him for our happy hours,
+Praise him for our varied powers,
+For these thoughts that rise above,
+For these hearts he made for love,
+For the voice he placed within,
+Bearing witness when we sin;
+Praise to him whose tender care
+Keeps this watchful guardian there.
+Praise his mercy, that did send
+Jesus for our guide and friend;
+Praise him, every heart and voice,
+Him who makes all worlds rejoice.
+"What, mother, makes it seem to me,
+When I am all alone,
+As if some one could hear and see,
+And all my thoughts were known?
+"Sometimes it makes me very glad,
+And dance and sing with joy;
+Sometimes it makes me very sad,
+And frights your little boy.
+"O, tell me, mother, tell me why;
+For I have never known
+Why 'tis I laugh, or why I cry,
+When I am all alone."
+"My child, you never are alone;
+There is a watchful eye
+To which your very thoughts are known;
+'Tis God is ever nigh.
+"He made your little heart for joy,
+He tunes your happy song;
+O, then, my little timid boy,
+Fear only doing wrong.
+"For he who makes your heart so glad,
+Who bids the good be gay,
+With the same love will make it sad,
+Whene'er you disobey.
+"He is our Father, and he hears
+Your weakest, faintest prayer;
+He wipes away an infant's tears,
+And children are his care."
+Almighty Father! I am weak,
+But thou wilt strengthen me,
+If from my heart I humbly seek
+For help and light from thee.
+When I am tempted to do wrong,
+Then, Father, pity me,
+And make my failing virtue strong;
+Help me to think of thee!
+Let Christian courage guard my youth;
+That courage give to me
+Which ever speaks and acts the truth,
+And puts its trust in thee.
+Will God, who made the earth and sea,
+The night, and shining day,
+Regard a little child like me,
+And listen when I pray?
+If I am hungry, poor, and cold,
+Then will he hear my cry?
+And when I shall be sick and old,
+O, then will God be nigh?
+Yes; in his holy word we read
+Of his unfailing love;
+And when his mercy most we need,
+His mercy he will prove.
+To those who seek him, he is near;
+He looks upon the heart,
+And from the humble and sincere
+He never will depart.
+He sees our thoughts, our wishes knows,
+He hears our faintest prayer;
+Where'er the faithful Christian goes,
+He finds his Father there.
+Obedient children need not fear;
+God is a faithful friend,
+And when no other help is near,
+He will deliverance send.
+Then fear not hunger, cold, or pain,
+But fear to disobey
+That power which does your life sustain,
+And guards you every day.
+How sweet to be allowed to pray
+To God, the Holy One,
+With filial love and trust to say,--
+"Father, thy will be done!"
+We in these sacred words can find
+A cure for every ill;
+They calm and soothe the troubled mind,
+And bid all care be still.
+O, let that will, which gave me breath
+And an immortal soul,
+In joy or grief, in life or death,
+My every wish control!
+O, could my heart thus ever pray,
+Thus imitate thy Son!
+Teach me, O God, with truth to say,--
+"Thy will, not mine, be done!"
+How sweet upon this sacred day,
+The best of all the seven,
+To cast our earthly thoughts away,
+And think of God and heaven!
+How sweet to be allowed to pray
+Our sins may be forgiven;
+With filial confidence to say,
+"Father, who art in heaven"!
+With humble hope to bend the knee,
+And, free from folly's leaven,
+Confess that we have strayed from thee,
+Thou righteous Judge in heaven!
+And if to make all sin depart
+In vain the will has striven,
+He who regards the inmost heart
+Will send his grace from heaven.
+If from the bosom that is dear
+By cold unkindness driven,
+The heart that knows no refuge here
+Shall find a friend in heaven.
+Then hail, thou sacred, blessed day,
+The best of all the seven,
+When hearts unite their vows to pay
+Of gratitude to Heaven.
+How sweet to lay my weary head
+Upon my quiet little bed,
+And feel assured, that all day long
+I have not knowingly done wrong!
+How sweet to hear my mother say,
+"You have been very good to-day!"
+How sweet to see my father's joy
+When he can say, "My dear, good boy!"
+How sweet it is my thoughts to send
+To many a dear-loved distant friend,
+And feel, if they my heart could see,
+How very happy they would be!
+How sweet to think that He whose love
+Made all these shining worlds above
+My pure and happy heart can see,
+And loves a little boy like me.
+Thou art good! Each perfumed flower,
+Waving fields, the dark green wood,
+The insect fluttering for an hour,--
+All things proclaim that God is good.
+I hear it in each breath of wind;
+The hills that have for ages stood,
+And clouds with gold and silver lined,
+All still repeat that God is good.
+Each little rill, that many a year
+Has the same verdant path pursued,
+And every bird, in accents clear,
+Joins in the song that God is good.
+The restless sea, with haughty roar,
+Calms each wild wave and billow rude,
+Retreats submissive from the shore,
+And swells the chorus, "God is good."
+The countless hosts of twinkling stars,
+That sing his praise with light renewed;
+The rising sun each day declares,
+In rays of glory, God is good.
+The moon, that walks in brightness, says,
+That God is good! and man, endued
+With power to speak his Maker's praise,
+Should still repeat that God is good.
+How beautiful the setting sun!
+The clouds how bright and gay!
+The stars, appearing one by one,
+How beautiful are they!
+And when the moon climbs up the sky,
+And sheds her gentle light,
+And hangs her crystal lamp on high,
+How beautiful is night!
+And can it be I am possessed
+Of something brighter far?
+Glows there a light within this breast
+Outshining every star?
+Yes; should the sun and stars turn pale,
+The mountains melt away,
+This flame within shall never fail,
+But live in endless day.
+This is the soul that God has given,--
+Sin may its lustre dim;
+While goodness bears it up to heaven,
+And leads it back to him.
+My Heavenly Father! all I see,
+Around me and above,
+Sends forth a hymn of praise to thee,
+And speaks thy boundless love.
+The clear blue sky is full of thee,
+The woods so dark and lone;
+The soft south-wind, the sounding sea,
+Worship the Holy One.
+The humming of the insect throng,
+The prattling, sparkling rill,
+The birds, with their melodious song,
+Repeat thy praises still.
+And thou dost hear them every one,--
+Father, thou hearest me;
+I know that I am not alone,
+When I but think of thee.
+It was my Heavenly Father's love
+Brought every being forth;
+He made the shining worlds above,
+And every thing on earth.
+Each lovely flower, the smallest fly,
+The sea, the waterfall,
+The bright green fields, the clear blue sky,--
+'Tis God that made them all.
+He gave me all my friends, and taught
+My heart to love them well,
+And he bestowed the power of thought,
+And speech my thoughts to tell.
+My father and my mother dear,--
+He is their father too;
+He bids me all their precepts hear,
+And all they teach me, do.
+God sees and hears me all the day,
+And 'mid the darkest night;
+He views me when I disobey,
+And when I act aright.
+He guards me with a parent's care,
+When I am all alone;
+My hymn of praise, my humble prayer,
+He hears them every one.
+God hears what I am saying now,--
+O, what a wondrous thought!
+My Heavenly Father, teach me how
+To love thee as I ought.
+As through the pathless fields of air
+Wandered forth the timid dove,
+So the heart, in humble prayer,
+Essays to reach the throne of love.
+Like her it may return unblest,
+Like her again may soar,
+And still return and find no rest,
+No peaceful, happy shore.
+But now once more she spreads her wings,
+And takes a bolder flight,
+And see! the olive-branch she brings,
+To bless her master's sight.
+And thus the heart renews its strength,
+Though spent and tempest-driven,
+And higher soars, and brings at length
+A pledge of peace with Heaven.
+What was in the viewless wind,
+Wild rushing through the oak,
+Seemed to my listening, dreaming mind
+As though a spirit spoke?
+What is it to the murmuring stream
+Doth give so sweet a song,
+That on its tide my thoughts do seem
+To pour themselves along?
+What is it on the dizzy height,
+What in each glowing star,
+That speaks of things beyond the sight,
+And questions what they are?
+What in the rolling thunder's voice,
+What in the ocean's roar,
+Hears the grand chorus, "O, rejoice!"
+Echo from shore to shore?
+What in the gentle moon doth see
+Pure thoughts and tender love,
+And hears delicious melody
+Around, below, above?
+What bids the savage tempest speak
+Of terror and dismay,
+And wakes the agonizing shriek
+Of guilt that fears to pray?
+It is this ever-living mind;
+This little throb of life
+Hears its own echoes in the wind,
+And in the tempest's strife;
+To all that's sweet, and bright, and fair,
+Its own affections gives;
+Sees its own image everywhere,
+Through all creation lives.
+It bids the everlasting hills
+Give back the solemn tone;
+This boundless arch of azure fills
+With accents all its own.
+What is this life-inspiring mind,
+This omnipresent thought?
+How shall it ever utterance find
+For all itself hath taught?
+To Him who breathed the heavenly flame,
+Its mysteries are known;
+It seeks the source from whence it came,
+And rests in God alone.
+God, who dwellest everywhere
+God, who makest all thy care,
+God, who hearest every prayer,
+Thou who see'st the heart;
+Thou to whom we lift our eyes.
+Father, help our souls to rise,
+And, beyond these narrow skies,
+See thee as thou art!
+Let our anxious thoughts be still,
+Holy trust adore thy will,
+Holy love our bosoms fill,
+Let our songs ascend!
+Dearest friends may parted be,
+All our earthly treasures flee,
+Yet we never part from thee,
+Our eternal Friend.
+Help me, O God, to trust in thee,
+Thou high and holy One!
+And may my troubled spirit flee
+For rest to thee alone.
+In thee alone the soul can find
+Secure and sweet repose;
+And thou canst bid the desert mind
+To blossom as the rose.
+Let not this spirit, formed to rise
+Where angels claim their birth,
+Forsake its home beyond the skies,
+And cling to barren earth.
+The bird of passage knows the sign
+That warns him to depart;
+Shall I not heed the voice divine,
+That whispers in my heart,--
+"Up! plume thy wings, soar far away!
+No longer idly roam!
+Fly to the realms of endless day;
+For this is not thy home."
+This still, small voice, O, may I hear!
+Ere clouds and darkness come,
+And thunders in my startled ear
+Proclaim my final doom.
+Father! to thee my spirit cries!
+Thy wandering child reclaim.
+Speak! and my dying faith shall rise,
+And wake a deathless flame.
+Thou, from whom we never part,
+Thou, whose love is everywhere,
+Thou who seest every heart,
+Listen to our evening prayer.
+Father! fill our souls with love,
+Love unfailing, full, and free,
+Love no injury can move,
+Love that ever rests on thee.
+Heavenly Father! through the night
+Keep us safe from every ill;
+Cheerful as the morning light,
+May we wake to do thy will.
+Sweet Summer, with her flowers, has past,
+I hear her parting knell;
+I hear the moaning, fitful blast,
+Sighing a sad farewell.
+But, while she fades and dies away,
+In rainbow hues she glows;
+Like the last smile of parting day,
+Still brightening as she goes.
+The robin whistles clear and shrill;
+Sad is the cricket's song;
+The wind, wild rushing o'er the hill,
+Bears the dead leaf along.
+I love this sober, solemn time,
+This twilight of the year;
+To me, sweet Spring, in all her prime,
+Was never half so dear.
+While death has set his changing seal
+On all that meets the eye,
+'Tis rapture, then, within to feel
+The soul that cannot die;--
+To look far, far beyond this sky,
+To Him who changes never.
+This earth, these heavens, shall change and die;
+God is the same for ever.
+This is the day when Jesus woke
+From the deep slumbers of the tomb;
+This is the day the Saviour broke
+The bonds of fear and hopeless gloom.
+This is indeed a holy day;
+No longer may we dread to die.
+Let every fear be cast away,
+And tears be wiped from every eye.
+Sorrow and pain the Saviour knew;
+A dark and thorny path he trod;
+But heaven was ever in his view,--
+That toilsome path led up to God.
+Let every heart rejoice and sing;
+Let every sin and sorrow cease;
+Let children come this day and bring
+Their offering of love and peace.
+Cease, my complaining spirit, cease;
+Know 'tis a Father's hand you feel;
+It leads you to the realms of peace;
+It kindly only wounds to heal.
+My Father! what a holy joy
+Bursts on the sad, desponding mind,
+To say, when fiercest ills annoy,--
+"I know my Father still is kind!"
+This bids each trembling fear be still,
+Checks every murmur, every sigh;
+Patience then waits his sovereign will,
+Rejoiced to live,--resigned to die.
+O blessed ministry of pain!
+To teach the soul its real worth;
+To lead it to that source again,
+From whence it first derived its birth.
+Christian! when, overwhelmed with grief and care,
+Thou prayest for the help that thou dost need,
+As shipwrecked mariner for life will plead,
+O, then for faith pour forth the fervent prayer!
+'Tis faith alone life's heavy ills can bear.
+O, mark her calm, far-seeing, quickening eye,
+Full of the light of immortality!
+It tells of worlds unseen, and calls us there;
+That look of hers can save thee from despair.
+When sorrow, like thick darkness, gathers round,
+And all life's flowers are fading in the dust,
+Faith lifts our drooping vision from the ground,--
+Says, that the hand that smites us yet is just;
+That human agony hath ever found
+The mighty God a never-failing trust.
+Great Source of being,
+Father all-seeing!
+We bow before thee;
+Our souls adore thee;
+Help us obey thee;
+Guide us aright;
+Keep us, we pray thee,
+Through the long night.
+Thou kind, forgiving
+God of all living,
+Thy power defend us,
+Thy peace attend us,
+While we are closing
+This day in prayer,
+Ever reposing
+Under thy care.
+Before I close my eyes to-night,
+Let me myself these questions ask:--
+Have I endeavoured to do right,
+Nor thought my duty was a task?
+Have I been gentle, lowly, meek,
+And the small voice of conscience heard?
+When passion tempted me to speak,
+Have I repressed the angry word?
+Have I with cheerful zeal obeyed
+What my kind parents bid me do,
+And not by word or action said
+The thing that was not strictly true?
+In hard temptation's troubled hour,
+Then have I stopped to think and pray,
+That God would give my soul the power
+To chase the sinful thought away?
+O Thou who seest all my heart,
+Wilt thou forgive and love me still!
+Wilt thou to me new strength impart,
+And make me love to do thy will!
+The sun in smiles doth dress his face,
+As evening comes to take his place;
+So looks the parting loved-one, when
+He means to quickly come again.
+With moon and stars all sparkling bright,
+Advances now the silent night;
+And with the calm and gentle moon,
+Sweet peace doth quietly come on.
+Who at the moon and stars can gaze
+Without a gush of love and praise?
+And now it is the midnight hour,
+And sleep asserts her soothing power.
+But see, the flickering light is gone,
+That from my neighbour's window shone;
+His simple household prayer is said,
+He rests from toil, on his hard bed.
+Yet still the watchman wakes, and still
+Faithful till morning watch he will;
+But vain, O watchman! is thy care,
+If God, the Guardian, be not there.
+By my dull lamp, whose light's near gone,
+In my small room I sit alone,
+And, thinking o'er past joys and pain,
+A sweet contentment doth remain.
+He's still my trust; he, the true Shepherd, never
+Will forsake his sheep,--he watcheth ever;
+The mother may forget her child, but yet
+Thus saith the Lord,--"Thee I will not forget."
+I rest in peace, I trust in Thee;
+Thy faithful eye still watcheth me;
+For He who ever wakes and lives
+To loving hearts no night e'er gives.
+Hope, my heart, in patience hope,--
+Thou at last thy flowers shalt gather;
+God is full of tender love,--
+Childlike speak thou to thy Father.
+From believing, trusting hearts,
+The God of mercy ne'er departs.
+Clouds may come, and clouds may go,
+Rest upon his goodness always;
+To those joyful, sunny heights
+Lead these rough and gloomy pathways;
+Wakes for aye his Eye of Light,--
+Tremble not in storm and night.
+Anchored on the Eternal Rock,
+To the heart of God fast clinging,
+Tell him all thy deepest woes,
+Before him all thy sorrows bringing;
+He is kind, and comfort gives
+To every sorrowing heart that lives.
+Let true faith strong courage give;
+Strength the Helper now is sending;
+Soon thou'lt understand His ways,
+Soon thou'lt find thy sorrows ending.
+God! who life and goodness art!
+In patience hope in Him, my heart.
+It is in failure, in distress,
+When, reft of all, it stands alone,
+And not in what men call success,
+The noble, valiant soul is known.
+He who perfection makes his aim
+Shoots at a mark he may not reach;
+The world may laugh, the world may blame.
+And what it calls _discretion_ preach.
+And he will fail to win the goal
+Which low ambition makes its own;
+But, far beyond, his earnest soul
+Stands in the light, though all alone.
+It was through insult, pain, and loss
+That Jesus won immortal power;
+Thus the great failure of the cross
+Was his triumphant, glorious hour.
+Think not of failure or success;
+He fails who has a low desire.
+Up to the highest ever press,
+Still onward, upward, higher! higher!
+Make such thy purpose, such thy aim,
+That they who watch thy spirit's flight
+Shall look to heaven from whence it came,
+And loose thee in celestial light.
+Beneath a green and mossy bank
+There flows a clear and fairy stream;
+There the pert squirrel oft has drank,
+And thought, perhaps, 'twas made for him.
+Their pitchers there the laborers fill,
+As drop by drop the crystals flow,
+Singing their silvery welcome still
+To all who to the fountain go.
+Then to the river on it glides,
+Its tributary drop to bear,
+Its modest head a moment hides,
+Then rises up and sparkles there.
+The touching lesson on my heart
+Falls like the gentle dews of heaven,
+Bids me with humble love impart
+The little treasure God has given.
+For from a source as small as this
+Full many a cup of joy may flow,
+And on the stream of human bliss
+Its little ray of gladness throw.
+"The flowers are blooming everywhere,
+On every hill and dell,
+And O, how beautiful they are!
+How sweetly, too, they smell!
+"The little brooks, they dance along,
+And look so glad and gay;
+I love to hear their pleasant song,
+I feel as glad as they.
+"The young lambs bleat and frisk about,
+The bees hum round their hive,
+The butterflies are coming out,--
+'Tis good to be alive.
+"The trees that looked so stiff and gray
+With green wreaths now are hung;
+O mother! let me laugh and play,
+I cannot hold my tongue.
+"See yonder bird spread out his wings,
+And mount the clear blue skies;
+And hark! how merrily he sings,
+As far away he flies."
+"Go forth, my child, and laugh and play,
+And let your cheerful voice,
+With birds, and brooks, and merry May,
+Cry loud, Rejoice! rejoice!
+"I would not check your bounding mirth,
+My little happy boy,
+For He who made this blooming earth
+Smiles on an infant's joy."
+Dear mother, guess what I have heard!
+O, it will soon be spring!
+I'm sure it was a little bird,--
+Mother, I heard him sing.
+Look at this little piece of green
+That peeps out from the snow,
+As if it wanted to be seen,--
+'Twill soon be spring, I know.
+And O, come here, come here and look!
+How fast it runs along!--
+Here is a cunning little brook;
+O, hear its pretty song!
+I know 'tis glad the winter's gone
+That kept it all so still,
+For now it merrily runs on,
+And goes just where it will.
+I feel just like the brook, I know;
+It says, it seems to me,--
+"Good by, cold weather, ice, and snow;
+Now girls and brooks are free."
+I love to think of what you said,
+Mother, to me last night,
+Of this great world that God has made,
+So beautiful and bright.
+And now it is the happy spring
+No naughty thing I'll do;
+I would not be the only thing
+That is not happy, too.
+Hark! the little birds are singing,--
+Winter's gone and summer's near;
+See, the tender grass is springing,
+And the flowers will soon be here.
+Who made the winter and the spring?
+Who painted all the flowers?
+Who taught the little birds to sing,
+And made these hearts of ours?
+O, 'tis God! how good he is!
+He does every blessing give;
+All this happy world is his,--
+Let us love him while we live.
+The sun is hidden from our sight,
+The birds are sleeping sound;
+'Tis time to say to all, "Good night!"
+And give a kiss all round.
+Good night! my father, mother, dear,
+Now kiss your little son;
+Good night! my friends, both far and near,
+Good night to every one.
+Good night! ye merry, merry birds,
+Sleep well till morning light;
+Perhaps if you could sing in words,
+You would have said, "Good night!"
+To all my pretty flowers, good night!
+You blossom while I sleep;
+And all the stars, that shine so bright,
+With you their watches keep.
+The moon is lighting up the skies,
+The stars are sparkling there;
+'Tis time to shut our weary eyes,
+And say our evening prayer.
+This is the Sabbath day!
+In the wide field I am alone.
+Hark! now one morning bell's sweet tone,--
+Now it has died away.
+Kneeling I worship Thee;
+Sweet dread doth o'er my spirit steal,
+From whispering sounds of those who kneel,
+Unseen, to pray with me.
+Around and far away,
+So clear and solemn is the sky,
+It seems all opening to my eye;
+This is the Sabbath day!
+Hail! reviving, joyous Spring,
+Smiling through thy veil of showers;
+Birds and brooks thy welcome sing,--
+Haste, and waken all thy flowers.
+Hark! a sweet pervading sound!
+From the breathing, moving earth
+Life is starting all around,
+Sending joy and fragrance forth.
+O'er the oak's gigantic form
+Blossoms hang their drapery;
+Branches that defied the storm
+Now are full of melody.
+There is not a silent thing
+In this joyous company;
+Woods, and hills, and valleys ring
+With a shout of jubilee.
+Wake, my spirit! art thou still?
+Senseless things have found a voice;
+Shall this throbbing heart be still,
+When all nature cries, "Rejoice"?
+Wake, come forth, my bounding soul!
+Join the universal glee,
+Yield to nature's kind control,
+Catch her heavenly harmony.
+Join the grateful, happy throng,
+Cast each selfish care away;
+Birds and brooks shall tune your song;
+This is nature's holiday.
+Hushed was the ocean's stormy roar,
+Still as an infant's joy;
+There sat upon the rocky shore
+A father and his boy.
+Far off they saw a gallant ship,
+It came from foreign lands;
+The boy began to dance and skip,
+And clap his little hands.
+Her wished-for port is near at hand,
+The ship is hastening on;
+They hear the birds sing on the land;
+Her voyage is nearly done.
+The boy's glad notes, his shouts of glee,
+The rocks with music fill;
+But now he cries,--"See, father, see!
+The ship is standing still."
+Her masts are trembling from the shock.
+Her white sails all descend;
+The ship has struck upon a rock,--
+Her voyage is at an end.
+The sailors hurry to and fro,
+All crowded is the deck;
+She struggles hard,--she's free;--O, no!
+She is indeed a wreck.
+The boy's young heart is full of grief:
+"Father! what will she do?
+Let's take the boat to her relief,
+O, quickly let us go!"
+They went,--and many a stronger hand
+Its ready succour gave;
+They brought the crew all safe to land,
+And the cargo tried to save.
+The night comes on, the night is dark,
+More dark the billows seem;
+They break against the ship, and hark!
+The seamew's mournful scream.
+The boy upon his pillow lies,
+In sweet repose he sinks;
+And, as he shuts his weary eyes,
+On the poor ship he thinks.
+The sun shines o'er the watery main
+As it did the day before;
+The father and his son again
+Are seated on the shore.
+With the western wind full many a boat
+Their white sails gayly fill,
+They lightly o'er the blue waves float,--
+But the gallant ship is still.
+The sailors now the mournful wreck
+Of masts and rigging strip;
+The waves are playing o'er the deck
+Of the sad and ruined ship.
+A crow upon the top branch stood
+Of a lone and blasted tree;
+He seemed to look upon the flood
+With a gloomy sympathy.
+The boy now looks up at the bird,
+At the sinking vessel now;
+He does not speak a single word.
+But a shade is on his brow.
+Now slowly comes a towering wave,
+And sweeps with triumph on;
+It bears her to her watery grave,--
+The gallant ship is gone.
+Hushed is the ocean's stormy roar,
+Still as an infant's joy;
+The father sits upon the shore
+In silence with his boy.
 _Cohasset Shore, July, 1831._
-
-
-CHARLEY AND HIS FATHER.
-
-A BALLAD.
-
-    The birds are flown away,
-      The flowers are dead and gone,
-    The clouds look cold and gray
-      Around the setting sun.
-
-    The trees with solemn sighs
-      Their naked branches swing;
-    The winter winds arise,
-      And mournfully they sing.
-
-    Upon his father's knee
-      Was Charley's happy place,
-    And very thoughtfully
-      He looked up in his face;
-
-    And these his simple words:--
-      "Father, how cold it blows!
-    What 'comes of all the birds
-      Amidst the storms and snows?"
-
-    "They fly far, far away
-      From storms, and snows, and rain;
-    But, Charley dear, next May
-      They'll all come back again."
-
-    "And will my flowers come, too?"
-      The little fellow said,
-    "And all be bright and new,
-      That now looks cold and dead?"
-
-    "O, yes, dear; in the spring
-      The flowers will all revive,
-    The birds return and sing,
-      And all be made alive."
-
-    "Who shows the birds the way,
-      Father, that they must go?
-    And brings them back in May,
-      When there is no more snow?
-
-    "And when no flower is seen
-      Upon the hill and plain,
-    Who'll make it all so green,
-      And bring the flowers again?"
-
-    "My son, there is a Power
-      That none of us can see
-    Takes care of every flower,
-      Gives life to every tree.
-
-    "He through the pathless air
-      Shows little birds their way;
-    And we, too, are his care,--
-      He guards us day by day."
-
-    "Father, when people die,
-      Will they come back in May?"
-    Tears were in Charley's eye,--
-      "Will they, dear father, say?"
-
-    "No! they will never come;
-      We go to them, my boy,
-    There, in our heavenly home,
-      To meet in endless joy."
-
-    Upon his father's knee
-      Still Charley kept his place,
-    And very thoughtfully
-      He looked up in his face.
-
-
-REMEMBER THE SLAVE.
-
-    Mother! whene'er around your child
-      You clasp your arms in love,
-    And when, with grateful joy, you raise
-      Your eyes to God above,
-
-    Think of the negro mother, when
-      Her child is torn away,
-    Sold for a little slave,--O, then
-      For that poor mother pray!
-
-    Father! whene'er your happy boys
-      You look upon with pride,
-    And pray to see them when you're old,
-      All blooming by your side,
-
-    Think of that father's withered heart,
-      The father of a slave,
-    Who asks a pitying God to give
-      His little son a grave.
-
-    Brothers and sisters! who with joy
-      Meet round the social hearth,
-    And talk of home and happy days,
-      And laugh in careless mirth,
-
-    Remember, too, the poor young slave,
-      Who never felt your joy,
-    Who, early old, has never known
-      The bliss to be a boy.
-
-    Ye Christians! ministers of Him
-      Who came to make men free,
-    When, at the Almighty Maker's throne,
-      You bend the suppliant knee,
-
-    From the deep fountains of your soul
-      Then let your prayers ascend
-    For the poor slave, who hardly knows
-      That God is still his friend.
-
-    Let all who know that God is just,
-      That Jesus came to save,
-    Unite in the most holy cause
-      Of the forsaken slave.
-
-
-HOME-SICKNESS.
-
-TRANSLATED FROM THE GERMAN.
-
-    Were I a wild, wild falcon,
-      I'd soar away on high,
-    And seek my father's dwelling,
-      Beyond the far blue sky.
-
-    Against that well-known door then
-      I'd flap my wings with joy;
-    My mother from the window
-      Sees and admits her boy.
-
-    "Dear son!" she'd say; "O, welcome!
-      How often has my heart
-    Longed sadly to embrace thee;
-      Now here behold thou art!"
-
-    Thus memory still is dreaming
-      Of what can never be.
-    My long-lost home,--the loved ones,--
-      These eyes may never see.
-
-
-HAPPINESS.
-
-    What is it makes the morning bright?
-      What gilds the evening hours?
-    What makes our hearts seem gay and light,
-      As if we trod on flowers?
-
-    'Tis innocence that makes us gay,
-      Bids flowers grow everywhere;
-    Makes it bright sunshine every day.
-      And every evening fair.
-
-    What makes us, when we look above,
-      See smiling angels there,
-    And think they look on us in love,
-      As if we were their care?
-    'Tis that the soul, all free from sin,
-      Glows like an inward sun;
-    And heaven above and heaven within
-     Do meet and join in one.
-
-
-CHILDREN IN SLAVERY.
-
-    When children play the livelong day,
-      Like birds and butterflies,
-    As free and gay sport life away,
-      And know not care nor sighs;
-
-    Then earth and air seem fresh and fair,
-      All peace below, above;
-    Life's flowers are there, and everywhere
-      Is innocence and love.
-
-    When children pray with fear all day,
-      A blight must be at hand;
-    Then joys decay, and birds of prey
-      Are hovering o'er the land.
-    When young hearts weep as they go to sleep,
-      Then all the world seems sad;
-    The flesh must creep, and woes are deep,
-      When children are not glad.
-
-
-TO GOOD RESOLUTIONS.
-
-    How like the morning flower ye are!
-      Which lifts its diamond head,
-      Exulting in the mead;
-    But the rude wind shall steal its gem,
-      Shall break its tender stem,
-        And leave it dead.
-
-    Frail pledges of the contrite heart,
-      Wherefore so soon decay?
-      O, yet prolong your stay!
-    Until my soul shall boldly rise,
-      And claim its native skies,
-        Haste not away.
-
-
-THANKS FOR A PLEASANT DAY.
-
-    Come, let us all, with heart and voice,
-      To God our Father sing and pray;
-    In his unceasing love rejoice,
-      And thank him for this pleasant day.
-
-    The clear blue sky looks full of love;
-      Let all our selfish passions cease!
-    O, let us lift our thoughts above,
-      Where all is brightness, goodness, peace.
-
-    If we have done a brother wrong,
-      O, let us seek to be forgiven;
-    Nor let one discord spoil the song
-      Our hearts would raise this day to heaven.
-
-    This blessed day, when the pure air
-      Is full of sweetness, full of joy,--
-    When all around is calm and fair,--
-      Shall we the harmony destroy?
-
-    O, may it be our earnest care
-      To free our souls from every sin;
-    Then will each day be bright and fair,
-      For God's pure sunshine dwells within.
-
-
-TO A BUTTERFLY.
-
-     [Those who are acquainted with this little poem, translated
-     from Herder, will perceive that a slight liberty has been
-     taken with the last two lines.]
-
-    Airy, lovely, heavenly thing!
-    Butterfly with quivering wing!
-    Hovering in thy transient hour
-    Over every bush and flower,
-    Feasting upon flowers and dew,
-    Thyself a brilliant blossom, too!
-
-    Who, with skilful fingers fine,
-    Purpled o'er those wings of thine?
-    Was it some sylph whose tender care
-    Spangled thy robes so fine and fair,
-    And wove them of the morning air?
-    I feel thy little throbbing heart;
-    Thou fear'st e'en now death's bitter smart.
-
-    Fly, little spirit, fly away!
-    Be free and joyful thy short day!
-    Image thou dost seem to me
-    Of that which I may one day be,
-    When I shall drop this robe of earth,
-    And wake into a spirit's birth.
-
-
-TO NATURE.
-
-FROM THE GERMAN OF FREDERICK LEOPOLD, COUNT OF STALBERG.
-
-    Holy nature! fresh and free,
-    Let me ever follow thee;
-    By the hand, O, lead me still,
-    Like a child, at thy sweet will.
-
-    When with weariness oppressed,
-    I will on thy bosom rest,
-    Breathe in pleasure from above,
-    In thy mother-arms of love.
-
-    O, how well it is for me
-    Thee to love, with thee to be!
-    Holy nature! sweet and free,
-    Let me ever follow thee.
-
-
-ON THE DEATH OF A YOUNG COMPANION.
-
-        Farewell for a time!
-        Thou hast gone to that clime
-    Where sickness and sorrow are o'er.
-        We loved thee when here,
-        We shed the sad tear
-    To think we shall see thee no more.
-
-        We weep not for thee,
-        We remember that He
-    Who made little children his care
-        In his own fatherland
-        Will reach you his hand,
-    And comfort and welcome you there.
-
-        Our tears they will flow;
-        But do we not know
-    That thou art released from all pain?
-        Then weep not; for He
-        Who walked on the sea
-    Has said we shall all live again.
-
-
-THE SABBATH IS HERE.
-
-FROM KRUMACHER.
-
-    The Sabbath is here, it is sent us from heaven;
-           Rest, rest, toilsome life,
-           Be silent all strife,
-           Let us stop on our way,
-           And give thanks and pray
-         To Him who all things has given.
-
-    The Sabbath is here, to the fields let us go;
-           How fresh and how fair!
-           In the still morning air,
-           The bright golden grain
-           Waves over the plain;
-         It is God who doth all this bestow.
-
-    The Sabbath is here; on this blessed morn
-           No tired ox moans,
-           No creaking wheel groans,
-           At rest is the plough;
-           No noise is heard now,
-         Save the sound of the rustling corn.
-
-    The Sabbath is here; our seed we have sown
-           In hope and in faith;
-           The Father he saith
-           Amen! Be it so!
-           Behold the corn grow!
-         Rejoicing his goodness we'll own.
-
-    The Sabbath is here; His love we will sing
-           Who sendeth the rain
-           Upon the young grain.
-           And soon all around
-           The sickle will sound.
-         And home the bright sheaves we will bring.
-
-    The Sabbath is here; in hope and in love
-           We sow in the dust,
-           While humbly we trust
-           Up yonder shall grow
-           The seed which we sow,
-         And bloom a bright garland above.
-
-
-THE CHILD AT HER MOTHER'S GRAVE.
-
-TRANSLATED FROM THE GERMAN.
-
-    In that little room of thine,
-      Sweet sleep has come to thee;
-    Ah, mother! dearest mother mine!
-    O, call me to that room of thine!
-      O, shut it not from me!
-
-    I would so gladly be with thee,
-      And be thy child again;
-    'Tis cold and stormy here with me,
-    'Tis warm, and, O, so still with thee!
-      Ah! let me, let me in!
-
-    Thou took'st me gladly once with thee,
-      So gladly held my hand;
-    O, see, thou hast forsaken me!
-    Take me this time again with thee
-      Into the heavenly land.
-
-
-CHILD'S SONG.
-
-TRANSLATED FROM THE GERMAN.
-
-    When at night I go to sleep,
-      Fourteen angels are at hand;--
-    Two on my right their watches keep;
-      Two on my left to bless me stand;
-    Two hover gently o'er my head;
-    Two guard the foot of my small bed;
-    Two wake me with the sun's first ray;
-    Two dress me nicely every day;
-    Two guide me on the heavenly road,
-    That leads to paradise and God.
-
-
-TO A FOUNTAIN.
-
-FROM THE GERMAN OF RAMLER.
-
-    Lo! this fount is flowing ever;
-    But the fountain prattles never.
-    Traveller! at this fountain stay;
-    Learn of it, with pure endeavour,
-    Good to do, and nothing say.
-
-
-SONG FOR AN INFANT SCHOOL.
-
-        Children go
-        To and fro,
-    In a merry, pretty row,
-        Footsteps light,
-        Faces bright;
-      'Tis a happy sight.
-    Swiftly turning round and round,
-    Do not look upon the ground.
-        Follow me,
-        Full of glee,
-      Singing merrily.
-
-        Birds are free,
-        So are we;
-    And we live as happily.
-        Work we do,
-        Study too,
-      For we learn "twice two";
-    Then we laugh, and dance, and sing,
-    Gay as birds or any thing.
-        Follow me,
-        Full of glee,
-      Singing merrily.
-
-        Work is done,
-        Play's begun;
-    Now we have our laugh and fun.
-        Happy days,
-        Pretty plays,
-      And no naughty ways.
-    Holding fast each other's hand,
-    We're a little happy band;
-        Follow me,
-        Full of glee,
-      Singing merrily.
-
-
-THE SUMMER.
-
-A FREE TRANSLATION OF A GERMAN POPULAR SONG.
-
-    Go forth, my heart, and seek the bliss
-    Of such a summer day as this,
-      Bestowed on all by Heaven;
-    The beauties of the garden see,
-    Behold! it is for thee and me
-      Its glories all are given.
-
-    The trees with whispering leaves are dressed,
-    The earth upon her dusky breast
-      Her robe of green is wearing;
-    The flowers are blooming far and wide,--
-    Not Solomon in all his pride
-      With them would bear comparing.
-
-    The dove from out her nest doth fly;
-    Far upward in the clear blue sky
-      The lark her way is winging;
-    Hark to the lovely nightingale!
-    With her sweet song each hill and dale,
-      And woods and rocks, are ringing.
-
-    The hen brings out her little brood,
-    The swallow finds her young ones food,
-      The stork her house is keeping.
-    The bounding stag, the timid roe,
-    Are full of joy, and to and fro,
-      Through the high grass, are leaping.
-
-    The brook is tinkling as it goes,
-    And with the myrtle and the rose
-      Its shady banks adorning;
-    While, from the flowery mead near by,
-    The sheep and shepherd's joyful cry
-      Salutes the early morning.
-
-    The never idle troops of bees
-    Fly here and there, and where they please
-      Their honey food are quaffing;
-    The sap is running up the vine,
-    Round the old elm its tendrils twine,
-      And in the sun are laughing.
-
-    And can I, may I, silent be?
-    When all God's glorious works I see
-      My soul desires to know him.
-    When all are singing I must sing,
-    And to the Highest I must bring
-      The tribute which I owe him.
-
-    Are all things here so bright and fair,
-    And has he with a loving care
-      My happy being given?
-    What, in the glorious world above,
-    Where all is beauty, all is love,--
-      What shall I be in heaven?
-
-    O, were I there! O, stood I now
-    In that great Presence! there to bow
-      In grateful love before him,
-    Then would I with the angels raise
-    One never-ending song of praise,
-      And worship and adore him!
-
-
-TO A BEAUTIFUL GIRL.
-
-    Sweet flower! so young, so fresh, so fair,
-    Bright pleasure sparkling in thine eye,
-    Alas! e'en thee time will not spare,
-                     And thou must die.
-
-    The heart with youthful hope so gay,
-    That scarcely ever breathed a sigh,
-    Must weep o'er pleasures fled away,
-                     For all must die.
-
-    But though the rosy cheek may fade,
-    The virtuous wish, the purpose high,
-    The bloom with which the soul's arrayed,
-                     Shall never die.
-
-
-THE LITTLE SLAVE'S WISH.
-
-    I wish I was that little bird
-      Up in the bright blue sky,
-    That sings and flies just where he will,
-      And no one asks him why.
-
-    I wish I was that little brook
-      That runs so swift along,
-    Through pretty flowers, and shining stones,
-      Singing a merry song.
-
-    I wish I was a butterfly,
-      Without a fear or care,
-    Spreading my many-colored wings,
-      Like a flower in the air.
-
-    I wish I was that wild, wild deer,
-      That I saw the other day,
-    Who through the dark green forest flew,
-      Like an arrow far away.
-
-    I wish I was that little cloud
-      By the gentle south-wind driven,
-    Floating along so calm and bright
-      Up to the gates of heaven.
-
-    I'd rather be a savage beast,
-      And dwell in a gloomy cave,
-    And shake the forest when I roared,
-      Than what I am,--a slave.
-
-    My mother calls me her good boy,
-      My father calls me brave;
-    What wicked action have I done
-      That I should be a slave?
-
-    They tell me God is very good.
-      That his right arm can save;
-    O, is it, can it, be his will
-      That I should be a slave?
-
-    O, how much better 'tis to die,
-      And lie down in the grave,
-    Than 'tis to be what I am now,--
-      A little negro slave!
-
-[Illustration]
-
-
-
-
-FABLES.
-
-
-THE HONEST BIRD.
-
-    Once on a time, a little bird
-    Within a wicker cage was heard,
-    In mournful tones, these words to sing:--
-    "In vain I stretch my useless wing;
-    Still round and round I vainly fly,
-    And strive in vain for liberty.
-    Dear liberty, how sweet thou art!"
-    The prisoner sings, with breaking heart:--
-    "All other things I'd give for thee,
-    Nor ask one joy but liberty."
-
-    He sang so sweet, a little mouse,
-    Who often ran about the house,
-    Came to his cage; her cunning ear
-    She turned, the mournful bird to hear.
-    Soon as he ceased,--"Suppose," said she,
-    "I could contrive to set you free;
-    Would you those pretty wings give me?"
-
-    The cage was in the window-seat,
-    The sky was blue, the air was sweet.
-    The bird with eagerness replied,--
-    "O, yes! my wings, and see, beside,
-    These seeds and apples, sugar, too,
-    All, pretty mouse, I'll give to you,
-    If you will only set me free;
-    For, O, I pant for liberty!"
-
-    The mouse soon gnawed a hole; the bird,
-    In ecstasy, forgot his word;
-    Swift as an arrow, see, he flies,
-    Far up, far up, towards the skies;
-    But see, he stops, now he descends,
-    Towards the cage his course he bends.
-    "Kind mouse," said he, "behold me now
-    Returned to keep my foolish vow;
-    I only longed for freedom then,
-    Nor thought to want my wings again.
-    Better with life itself to part,
-    Than, living, have a faithless heart;
-    Do with me, therefore, as you will,
-    An honest bird I will be still."
-
-    His heart seemed full, no more he said,
-    He drooped his wings and hung his head.
-    The mouse, though very pert and smart,
-    Had yet a very tender heart;
-    She minced a little, twirled about,
-    Then thus her sentiments threw out:--
-    "I don't care much about your wings,--
-    Apples and cakes are better things;
-    You love the clouds, I choose the house;
-    Wings would look queer upon a mouse.
-    My nice long tail is better far,
-    So keep your wings just where they are."
-
-    She munched some apple, gave a smack,
-    And ran into her little crack.
-    The bird spread out his wings and flew,
-    And vanished in the sky's deep blue;
-    Far up his joyful song he poured,
-    And sang of freedom as he soared.
-
-
-SOLILOQUY
-
-OF ELLEN'S SQUIRREL, ON RECEIVING HIS LIBERTY;--OVERHEARD BY A LOVER
-OF NATURE AND A FRIEND OF ELLEN.
-
-    Was that the music of the wind,
-      That whispered in my trembling ear?
-    And can I, free and unconfined,
-      Taste of the joys that still are dear?
-
-    And can I skip from tree to tree,
-      And fly along the flowery plain,
-    Light as the wind, as fleet, as free,
-      And make my winter's nest again?
-
-    O, yes! my joyful, trembling heart,
-      The song you heard from yonder tree,
-    Which made awakening memory start,
-      Was the sweet sound of Liberty!
-
-    Dear Ellen, many thanks I owe
-      For tenderest care bestowed on me;
-    But most my gratitude will flow
-      For your best gift,--sweet Liberty!
-
-    Oft in your gayest, happiest hour,
-      When all your youthful heart beats high,
-    And, hastening on from flower to flower,
-      You taste the sweets of Liberty,
-
-    The thought that you have set me free,
-      That I can skip and dance like you,
-    To your kind, tender heart shall be
-      As pure a joy as e'er you knew.
-
-    Scarce can my wakening sense believe
-      The sounds I hear, the sights I see;
-    Dear Ellen, once again receive
-      Your Squirrel's thanks for Liberty.
-
-
-THE PIN, NEEDLE, AND SCISSORS.
-
-    'Tis true, although 'tis sad to say,
-    Disputes are rising every day.
-    You'd think, if no one did deny it,
-    A little work-box might be quiet;
-    But 'tis not so, for I did hear,
-    Or else I dreamed it, 'tis so queer,
-    A Pin and Needle in the cushion
-    Maintain the following discussion.
-
-    The Needle, "extra fine gold-eyed,"
-    Was very sharp and full of pride,
-    And thus, methought, she did begin:--
-    You clumsy, thick, short, ugly Pin,
-    I wish you were not quite so near;
-    How could my mistress stick me here?
-    She should have put me in my place,
-    With my bright sisters in the case."
-
-    "Would you were there!" the Pin replied;
-    "I do not want you by my side.
-    I'm rather short and thick, 'tis true;
-    Who'd be so long and thin as you?
-    I've got a head, though, of my own,
-    That you had better let alone."
-
-    "You make me laugh," the Needle cried;
-    "That you've a head can't be denied;
-    For _you_ a very proper head,
-    Without an eye, and full of lead."
-
-    "You are so cross, and sharp, and thin,"
-    Replied the poor insulted Pin,
-    "I hardly dare a word to say,
-    And wish indeed you were away;
-    That golden eye in your poor head
-    Was only made to hold a thread;
-    All your fine airs are foolish fudge,
-    For you are nothing but a drudge;
-    But I, in spite of your abuse,
-    Am made for pleasure and for use.
-    I fasten the bouquet and sash,
-    And help the ladies make a dash;
-    I go abroad and gayly roam,
-    While you are rusting here at home."
-
-    "Stop," cried the Needle, "you're too much,
-    You've brass enough to beat the Dutch;
-    Do I not make the ladies' clothes,
-    Ere I retire to my repose?
-    Then who, forsooth, the glory wins?
-    Alas! 'tis finery and pins.
-    This is the world's unjust decree,
-    But what is this vain world to me?
-    I'd rather live with my own kin,
-    Than dance about like you, vain Pin.
-    I'm taken care of every day;
-    You're used awhile, then thrown away,
-    Or else you get all bent up double,
-    And a snug crack for all your trouble."
-
-    "True," said the Pin, "I am abused,
-    And sometimes very roughly used;
-    I often get an ugly crook,
-    Or fall into a dirty nook;
-    But there I lie, and never mind it;
-    Who wants a pin is sure to find it;
-    In time I am picked up, and then
-    I lead a merry life again.
-    You fuss so at a fall or hurt,
-    And, if you get a little dirt,
-    You keep up such an odious creaking,
-    That where you are there is no speaking;
-    And then your lackey Emery's called,
-    And he, poor thing, is pricked and mauled,
-    Until your daintiness--O, shocking!--
-    Is fit for what? to mend a stocking!"
-
-    The Needle now began to speak,--
-    They might have quarrelled for a week,--
-    But here the Scissors interposed.
-    And thus the warm debate was closed:--
-    "You angry Needle! foolish Pin!
-    How did this nonsense first begin?
-    You should have both been better taught;
-    But I will cut the matter short.
-    You both are wrong, and both are right,
-    And both are very impolite.
-    E'en in a work-box 'twill not do
-    To talk of every thing that's true.
-    All personal remarks avoid,
-    For every one will be annoyed
-    At hearing disagreeable truth;
-    Besides, it shows you quite uncouth,
-    And sadly wanting in good taste.
-    But what advantages you waste!
-    Think, Pins and Needles, while you may,
-    How much you hear in one short day;
-    No servants wait on lordly man
-    Can hear one half of what you can.
-    'Tis not worth while to mince the matter;
-    Nor men nor boys like girls can chatter;
-    All now are learning, forward moving,
-    E'en Pins and Needles are improving;
-    And in this glorious, busy day
-    All have some useful part to play.
-    Go forth, ye Pins, and bring home news!
-    Ye Needles in your cases muse!
-    And take me for your kind adviser,
-    And only think of growing wiser;
-    Then, when you meet again, no doubt,
-    Something you'll have to talk about,
-    And need not get into a passion,
-    And quarrel in this vulgar fashion.
-    Less of yourselves you'll think, and more
-    Of others, than you did before.
-    You'll learn, that in their own right sphere
-    All things with dignity appear.
-    And have, when in their proper place,
-    Peculiar use and native grace."
-
-    Methought the polished Scissors blushed
-    To have said so much, and all was hushed.
-
-
-LEARNED FRED.
-
-FROM THE GERMAN.
-
-    One short six months had scarcely gone,
-      When, full of all he'd learned,
-    Young Frederick, that hopeful son,
-      From college home returned.
-
-    To his paternal roof restored,
-      It was not long before
-    The learned man at table poured
-      The treasures of his lore.
-
-    "Now," said the youngster, "father dear,
-      You doubtless think you see
-    Two roasted fowls before us here;
-      But I say there are three.
-
-    "_Atqui_ these roasted fowls are two,
-      And one in two must be;
-    _Ergo_,--or logic is not true,--
-      These roasted fowls are three."
-
-    "God bless your studies!" quoth papa;
-    "'Tis just as you have said;
-    _This_ is for me, _that_ for mamma,
-    The third for learned Fred."
-
-
-LITTLE ROLAND.
-
-TRANSLATED FROM THE GERMAN OF UHLAND.
-
-    Lady Bertha sat in the rocky cleft,
-      Her bitter woes to weep;
-    Little Roland played in the free fresh air;
-      His sorrows were not deep.
-
-    "My royal brother, O King Charles,
-      Why did I fly from thee?
-    Splendor and rank I left for love;
-      Now thou art wroth with me.
-
-    "O Milon, Milon, husband dear!
-      Beneath the waves art thou;
-    For love I have forsaken all,
-      Yet love forsakes me now.
-
-    "O Roland! thou, my dearest boy,
-      Now fame and love to me;
-    Come quickly, little Roland, come!
-      My hope rests all on thee.
-
-    "Go to the city, Roland, go!
-      To beg us meat and bread;
-    And whoso gives the smallest gift,
-      Ask blessings on his head."
-
-    Now great King Charles at table sat,
-      In the golden hall of state;
-    With dish and cup the servants ran,
-      On the noble guests to wait.
-
-    Flute, harp, and minstrelsy now tune
-      All hearts to joyful mood;
-    The cheerful music does not reach
-      To Bertha's solitude.
-
-    Before the hall in the court-yard sat
-      Of beggars a motley throng;
-    The meat and drink was more to them
-      Than flute, and harp, and song.
-
-    The king looked out, through the open door,
-      Upon the beggar throng;
-    Through the crowd he saw a noble boy,
-      Pushing his way along.
-
-    Strange was the little fellow's dress,
-      Of divers colors all;
-    But with the beggars he would not stay,--
-      He looked up at the hall.
-
-    Within the hall little Roland treads,
-      As though it were his own;
-    He takes a dish from the royal board
-      In silence, and is gone.
-
-    The king he thinks,--"What do I see?
-      This is a curious way";
-    But, as he quietly submits,
-      The rest do nothing say.
-
-    In a little while again he comes,
-      To the king he marches up,
-    And little Roland boldly takes
-      The royal golden cup.
-
-    "Halloo! stop there! thou saucy wight!"
-      King Charles's voice did ring;
-    Little Roland kept the golden cup,
-      And looked up at the king.
-
-    The king at first looked angrily;
-      But very soon he smiled:--
-    "You tread here in our golden hall,
-      As in the green woods wild.
-
-    "From the royal table you take a dish,
-      As they take an apple from a tree;
-    As with the waters of the brook,
-      With my red wine you make free."
-
-    "The peasant drinks from the running brook,
-      On apples she may dine;
-    My mother must have fish and game,
-      For her is the foaming wine."
-
-    "Is thy mother such a noble dame
-      As thou, my boy, dost boast,
-    Then surely has she a castle fair,
-      And of vassals a stately host.
-
-    "Tell me, who may her sewer be?
-      And who cupbearer, too?"
-    "My own right hand her sewer is;
-      My left, cupbearer true."
-
-    "Tell on; who are her faithful guards?"
-      "My two blue eyes alway."
-    "Tell on; who is her minstrel free?"
-      "My rosy mouth, I say."
-
-    "Brave servants has the dame, indeed;
-      But does strange livery choose,--
-    Made up of colors manifold,
-      Shining with rainbow hues."
-
-    "From each quarter of the city,
-      With eight boys I have fought;
-    Four sorts of cloth to the conqueror,
-      As tribute, they have brought."
-
-    "The best of servants, to my mind,
-      The dame's must surely be;
-    She is, I wot, the beggar's queen,
-      Who keeps a table free.
-
-    "The noble lady should not far
-      From my royal palace be;
-    Arise, three ladies, and three lords,
-      And bring her in to me."
-
-    Little Roland, holding fast the cup,
-      From the splendid hall he hies;
-    To follow him, at the king's command,
-      Three lords, three ladies, rise.
-
-    And after now a little while,
-      The king sees, far away,
-    The noble ladies and the knights
-      Return without delay.
-
-    The king he cries out suddenly,--
-      "Help, Heaven! see I aright?
-    'Tis my own blood, in open hall,
-      I have treated with cruel slight.
-
-    "Help, Heaven! in pilgrim dress I see
-      My sister Bertha stand;
-    So pale in my gay palace here,
-      A beggar's staff in her hand!"
-
-    Lady Bertha sinks down at his feet,
-      Pale image of despair;
-    His wrath returns, and he looks on her
-      With a stern and angry air.
-
-    Lady Bertha quick cast down her eyes,
-      No word to speak she tried;
-    Little Roland raised his clear blue eyes,--
-      "My uncle!" loud he cried.
-
-    "Rise up, my sister Bertha, rise!"
-      The king said tenderly;
-    "For the sake of this dear son of thine,
-      Thou shalt forgiven be."
-
-    Lady Bertha rose up joyfully:--
-      "Dear brother! thanks to thee;
-    Little Roland shall requite the boon
-      Thou hast bestowed on me.
-
-    "He of the glory of his king
-      Shall be an image fair;
-    The colors of many a foreign realm
-      His banner and shield shall bear.
-
-    "The cup from many a royal board
-      He shall seize with his free right hand,
-    And safety and fresh glory bring
-      To his sighing mother-land."
-
-
-BILLY RABBIT TO MARY.
-
-     [Billy Rabbit was a little rabbit which a boy caught in the
-     woods, and gave to a little girl of the name of Mary. She
-     was very attentive to the little prisoner, gave him an
-     abundance of good things to eat, and tried her best to make
-     him happy; but all in vain. After many attempts, he at last
-     succeeded in making his escape, and instantly disappeared in
-     the woods. In the course of the day, the following letter,
-     sealed with a sharp thorn, was received by his friend Mary.]
-
-    Artichoke Woods.
-
-    You thought, my dear Mary, you had Billy fast,
-    But I tried very hard, and escaped you at last;
-    The chance was so tempting, I thought I would _nab_ it,--
-    It was not very naughty, I'm sure, in a rabbit.
-    O, let not your kind heart be angry with me;
-    But think what a joy it is to be free,
-    To see the green woods, to feel the fresh air,
-    To skip, and to play, and to run everywhere.
-    The food that you gave me was pleasant and sweet,
-    But I'd rather be free, though with nothing to eat.
-
-    O, how glad they all were to see me come back,
-    And every one wanted to give me a smack.
-    Dick knocked over Brownie, and jumped over Bun,
-    And the neighbours came in to witness the fun.
-    My father said something, but could not be heard;
-    My mother looked at me, but spoke not a word;
-    And while she was looking, her eyes became pink,
-    And she shed a few tears, I verily think.
-
-    To him who a hole or a palace inhabits,
-    To all sorts of beings, to men, and to rabbits,
-    Ah! dear to us all is sweet Liberty,
-    Especially, Mary, to you and to me.
-    So I hope you'll forgive me for sending this letter,
-    To tell you I'm safe, and feel so much better,
-    Cut all sorts of capers, and act very silly,
-    And am your devoted, affectionate
-
-    BILLY.
-
-
-THE OLD AND NEW SHOES.
-
-    "Good bye, get away, you ugly old things!"
-      Said a little boy once to his shoes;
-    "All stubbed are your toes, all twisted your strings,
-      You're wrinkled, one-sided, and loose.
-
-    "But here are my new ones, so shiny and bright,
-      They are almost as smooth as my skin;
-    How stiff they are, too! how straight and upright!
-      How snug my feet feel now they're in!"
-
-    So saying, he gave to his old shoes a kick,
-      And strutted with pride to the door;
-    His unkindness had cut the old shoes to the quick,
-      For nothing contempt can endure.
-
-    "Master Frank, Master Frank, stop a while, if you please,"
-      ('Twas one of the shoes he heard call);
-    "Our _soles_ cannot bear such insults as these,
-      And your pride, Sir, will soon have a fall."
-
-    Frank stood still with wonder and looked at the shoe,
-      But could not see into the matter;
-    At last he exclaimed,--"As they've nothing to do,
-      I suppose, like Poll Parrot, they chatter."
-
-    So he opened the door, and walked down the stairs;
-      His shoes were too stiff to go fast;
-    But let us observe him, and see how he fares,
-      How repentant poor Frank was at last.
-
-    His shoes were so smooth that he could but just stand,
-      So tight, that they pinched in his toes;
-    He could only sit still, and try to look grand,
-      And remember he had on new shoes.
-
-    But Fido ran in, who loved little Frank,
-      And the shoes were remembered no more;
-    They began to cut capers, but at the first prank
-      Down tumbled poor Frank on the floor.
-
-    He was a brave boy, he thought not of crying,
-      He said, "Never mind," though in pain;
-    He whistled to Fido, but there is no denying
-      He fell down again and again.
-
-    He went to his bed with his heart full of sorrow;
-      He said to the nurse,--"I should choose,
-    If you please, when I'm dressed, my good Betsey, to-morrow,
-      To put on my easy old shoes.
-
-    "See how red my toes are, and I'm all black and blue;
-      I don't like my new shoes at all."
-    "Ah! you see," answered Betsey, "what I told you was true;
-      Your shoes, Master Frank, are too small."
-
-    His old shoes he was glad in the morning to see,
-      And, forgetting his trouble and pain,
-    "How happy," said he, "my poor toes will be
-      To get into the old shoes again."
-
-    The voice of the old shoe now once more was heard:--
-      "Master Frank, will you please to attend?
-    I wish, with your leave, to say just a word,--
-      'Tis a word of advice from a friend.
-
-    "Never part with old shoes till they part from you;
-      Let your new ones be always well tried;
-    Old shoes and old friends are far better than new,
-      And, trust me, more worthy of pride.
-
-    "Our strings and our toes are bad, we must own,
-      But they can be easily mended.
-    I have done," said the shoe, in a kind, easy tone,
-      And it gaped as the lecture was ended.
-
-    New toes and new heels now the old shoes have got,
-      New strings, too, their beauty renew;
-    Frank wears them in peace, and has never forgot
-      The words of the friendly old shoe.
-
-
-THE MONKEYS AND THE BEARS.
-
-TRANSLATED FROM THE GERMAN OF GELLART.
-
-    The monkeys, 'tis said, once asked of the bears,
-    How it was that their nation so much surpassed theirs,
-    And begged that the means they would graciously tell
-    By which the young bears were kept hearty and well.
-    "Perhaps it may be," said one of the mothers,
-    Who seemed more considerate and wise than the others,
-    "Perhaps," said she, trembling at even the thought,
-    "We give our dear young ones less food than we ought;
-    We may be impatient; I have really some fears
-    That we rock them too little, the poor little dears;
-    Our milk may cause fever, and their stomachs not suit,
-    Or perhaps they are weakened and injured by fruit.
-    Perhaps the whole mischief is caused by the air,
-    And who 'gainst this evil can ever prepare?
-    In their earliest years, it may poison instil,
-    And through their whole lifetime produce every ill.
-    Perhaps it may be, before we are aware,
-    They breathe in a pestilence, borne on the air.
-    Perhaps, for the nerves of us monkeys are weak,
-    In jumping, or leaping, some bone they may break
-    In their breasts." Here, for weeping, she scarcely could speak,
-    And she snatched up her little one long to her breast;
-    With such vehement love the poor victim she pressed,
-    That all its complainings and troubles were stilled;
-    Alas the poor mother! her pet she had killed.
-
-    Said the bear,--"No longer I think you need seek
-    For the cause why your young ones are sickly and weak;
-    It is not the milk, nor the fruit, nor the air,
-    Nor fault of the stomach, and 'tis no lack of care.
-    Your blind fondness it is that cuts short their days.
-    How is it that we such multitudes raise?
-    As soon as our young ones are able to run,
-    We take them out with us to play in the sun.
-    We take them through floods, through heat, and through cold,
-    And so they are healthy, and live to be old."
-
-
-THE END.
-
-
-
-
-A CATALOGUE OF BOOKS
-
-PUBLISHED BY
-
-CROSBY & NICHOLS,
-
-111 WASHINGTON STREET,
-
-BOSTON.
-
-
+The birds are flown away,
+The flowers are dead and gone,
+The clouds look cold and gray
+Around the setting sun.
+The trees with solemn sighs
+Their naked branches swing;
+The winter winds arise,
+And mournfully they sing.
+Upon his father's knee
+Was Charley's happy place,
+And very thoughtfully
+He looked up in his face;
+And these his simple words:--
+"Father, how cold it blows!
+What 'comes of all the birds
+Amidst the storms and snows?"
+"They fly far, far away
+From storms, and snows, and rain;
+But, Charley dear, next May
+They'll all come back again."
+"And will my flowers come, too?"
+The little fellow said,
+"And all be bright and new,
+That now looks cold and dead?"
+"O, yes, dear; in the spring
+The flowers will all revive,
+The birds return and sing,
+And all be made alive."
+"Who shows the birds the way,
+Father, that they must go?
+And brings them back in May,
+When there is no more snow?
+"And when no flower is seen
+Upon the hill and plain,
+Who'll make it all so green,
+And bring the flowers again?"
+"My son, there is a Power
+That none of us can see
+Takes care of every flower,
+Gives life to every tree.
+"He through the pathless air
+Shows little birds their way;
+And we, too, are his care,--
+He guards us day by day."
+"Father, when people die,
+Will they come back in May?"
+Tears were in Charley's eye,--
+"Will they, dear father, say?"
+"No! they will never come;
+We go to them, my boy,
+There, in our heavenly home,
+To meet in endless joy."
+Upon his father's knee
+Still Charley kept his place,
+And very thoughtfully
+He looked up in his face.
+Mother! whene'er around your child
+You clasp your arms in love,
+And when, with grateful joy, you raise
+Your eyes to God above,
+Think of the negro mother, when
+Her child is torn away,
+Sold for a little slave,--O, then
+For that poor mother pray!
+Father! whene'er your happy boys
+You look upon with pride,
+And pray to see them when you're old,
+All blooming by your side,
+Think of that father's withered heart,
+The father of a slave,
+Who asks a pitying God to give
+His little son a grave.
+Brothers and sisters! who with joy
+Meet round the social hearth,
+And talk of home and happy days,
+And laugh in careless mirth,
+Remember, too, the poor young slave,
+Who never felt your joy,
+Who, early old, has never known
+The bliss to be a boy.
+Ye Christians! ministers of Him
+Who came to make men free,
+When, at the Almighty Maker's throne,
+You bend the suppliant knee,
+From the deep fountains of your soul
+Then let your prayers ascend
+For the poor slave, who hardly knows
+That God is still his friend.
+Let all who know that God is just,
+That Jesus came to save,
+Unite in the most holy cause
+Of the forsaken slave.
+Were I a wild, wild falcon,
+I'd soar away on high,
+And seek my father's dwelling,
+Beyond the far blue sky.
+Against that well-known door then
+I'd flap my wings with joy;
+My mother from the window
+Sees and admits her boy.
+"Dear son!" she'd say; "O, welcome!
+How often has my heart
+Longed sadly to embrace thee;
+Now here behold thou art!"
+Thus memory still is dreaming
+Of what can never be.
+My long-lost home,--the loved ones,--
+These eyes may never see.
+What is it makes the morning bright?
+What gilds the evening hours?
+What makes our hearts seem gay and light,
+As if we trod on flowers?
+'Tis innocence that makes us gay,
+Bids flowers grow everywhere;
+Makes it bright sunshine every day.
+And every evening fair.
+What makes us, when we look above,
+See smiling angels there,
+And think they look on us in love,
+As if we were their care?
+'Tis that the soul, all free from sin,
+Glows like an inward sun;
+And heaven above and heaven within
+Do meet and join in one.
+When children play the livelong day,
+Like birds and butterflies,
+As free and gay sport life away,
+And know not care nor sighs;
+Then earth and air seem fresh and fair,
+All peace below, above;
+Life's flowers are there, and everywhere
+Is innocence and love.
+When children pray with fear all day,
+A blight must be at hand;
+Then joys decay, and birds of prey
+Are hovering o'er the land.
+When young hearts weep as they go to sleep,
+Then all the world seems sad;
+The flesh must creep, and woes are deep,
+When children are not glad.
+How like the morning flower ye are!
+Which lifts its diamond head,
+Exulting in the mead;
+But the rude wind shall steal its gem,
+Shall break its tender stem,
+And leave it dead.
+Frail pledges of the contrite heart,
+Wherefore so soon decay?
+O, yet prolong your stay!
+Until my soul shall boldly rise,
+And claim its native skies,
+Haste not away.
+Come, let us all, with heart and voice,
+To God our Father sing and pray;
+In his unceasing love rejoice,
+And thank him for this pleasant day.
+The clear blue sky looks full of love;
+Let all our selfish passions cease!
+O, let us lift our thoughts above,
+Where all is brightness, goodness, peace.
+If we have done a brother wrong,
+O, let us seek to be forgiven;
+Nor let one discord spoil the song
+Our hearts would raise this day to heaven.
+This blessed day, when the pure air
+Is full of sweetness, full of joy,--
+When all around is calm and fair,--
+Shall we the harmony destroy?
+O, may it be our earnest care
+To free our souls from every sin;
+Then will each day be bright and fair,
+For God's pure sunshine dwells within.
+from Herder, will perceive that a slight liberty has been
+taken with the last two lines.]
+Airy, lovely, heavenly thing!
+Butterfly with quivering wing!
+Hovering in thy transient hour
+Over every bush and flower,
+Feasting upon flowers and dew,
+Thyself a brilliant blossom, too!
+Who, with skilful fingers fine,
+Purpled o'er those wings of thine?
+Was it some sylph whose tender care
+Spangled thy robes so fine and fair,
+And wove them of the morning air?
+I feel thy little throbbing heart;
+Thou fear'st e'en now death's bitter smart.
+Fly, little spirit, fly away!
+Be free and joyful thy short day!
+Image thou dost seem to me
+Of that which I may one day be,
+When I shall drop this robe of earth,
+And wake into a spirit's birth.
+Holy nature! fresh and free,
+Let me ever follow thee;
+By the hand, O, lead me still,
+Like a child, at thy sweet will.
+When with weariness oppressed,
+I will on thy bosom rest,
+Breathe in pleasure from above,
+In thy mother-arms of love.
+O, how well it is for me
+Thee to love, with thee to be!
+Holy nature! sweet and free,
+Let me ever follow thee.
+Farewell for a time!
+Thou hast gone to that clime
+Where sickness and sorrow are o'er.
+We loved thee when here,
+We shed the sad tear
+To think we shall see thee no more.
+We weep not for thee,
+We remember that He
+Who made little children his care
+In his own fatherland
+Will reach you his hand,
+And comfort and welcome you there.
+Our tears they will flow;
+But do we not know
+That thou art released from all pain?
+Then weep not; for He
+Who walked on the sea
+Has said we shall all live again.
+The Sabbath is here, it is sent us from heaven;
+Rest, rest, toilsome life,
+Be silent all strife,
+Let us stop on our way,
+And give thanks and pray
+To Him who all things has given.
+The Sabbath is here, to the fields let us go;
+How fresh and how fair!
+In the still morning air,
+The bright golden grain
+Waves over the plain;
+It is God who doth all this bestow.
+The Sabbath is here; on this blessed morn
+No tired ox moans,
+No creaking wheel groans,
+At rest is the plough;
+No noise is heard now,
+Save the sound of the rustling corn.
+The Sabbath is here; our seed we have sown
+In hope and in faith;
+The Father he saith
+Amen! Be it so!
+Behold the corn grow!
+Rejoicing his goodness we'll own.
+The Sabbath is here; His love we will sing
+Who sendeth the rain
+Upon the young grain.
+And soon all around
+The sickle will sound.
+And home the bright sheaves we will bring.
+The Sabbath is here; in hope and in love
+We sow in the dust,
+While humbly we trust
+Up yonder shall grow
+The seed which we sow,
+And bloom a bright garland above.
+In that little room of thine,
+Sweet sleep has come to thee;
+Ah, mother! dearest mother mine!
+O, call me to that room of thine!
+O, shut it not from me!
+I would so gladly be with thee,
+And be thy child again;
+'Tis cold and stormy here with me,
+'Tis warm, and, O, so still with thee!
+Ah! let me, let me in!
+Thou took'st me gladly once with thee,
+So gladly held my hand;
+O, see, thou hast forsaken me!
+Take me this time again with thee
+Into the heavenly land.
+When at night I go to sleep,
+Fourteen angels are at hand;--
+Two on my right their watches keep;
+Two on my left to bless me stand;
+Two hover gently o'er my head;
+Two guard the foot of my small bed;
+Two wake me with the sun's first ray;
+Two dress me nicely every day;
+Two guide me on the heavenly road,
+That leads to paradise and God.
+Lo! this fount is flowing ever;
+But the fountain prattles never.
+Traveller! at this fountain stay;
+Learn of it, with pure endeavour,
+Good to do, and nothing say.
+Children go
+To and fro,
+In a merry, pretty row,
+Footsteps light,
+Faces bright;
+'Tis a happy sight.
+Swiftly turning round and round,
+Do not look upon the ground.
+Follow me,
+Full of glee,
+Singing merrily.
+Birds are free,
+So are we;
+And we live as happily.
+Work we do,
+Study too,
+For we learn "twice two";
+Then we laugh, and dance, and sing,
+Gay as birds or any thing.
+Follow me,
+Full of glee,
+Singing merrily.
+Work is done,
+Play's begun;
+Now we have our laugh and fun.
+Happy days,
+Pretty plays,
+And no naughty ways.
+Holding fast each other's hand,
+We're a little happy band;
+Follow me,
+Full of glee,
+Singing merrily.
+Go forth, my heart, and seek the bliss
+Of such a summer day as this,
+Bestowed on all by Heaven;
+The beauties of the garden see,
+Behold! it is for thee and me
+Its glories all are given.
+The trees with whispering leaves are dressed,
+The earth upon her dusky breast
+Her robe of green is wearing;
+The flowers are blooming far and wide,--
+Not Solomon in all his pride
+With them would bear comparing.
+The dove from out her nest doth fly;
+Far upward in the clear blue sky
+The lark her way is winging;
+Hark to the lovely nightingale!
+With her sweet song each hill and dale,
+And woods and rocks, are ringing.
+The hen brings out her little brood,
+The swallow finds her young ones food,
+The stork her house is keeping.
+The bounding stag, the timid roe,
+Are full of joy, and to and fro,
+Through the high grass, are leaping.
+The brook is tinkling as it goes,
+And with the myrtle and the rose
+Its shady banks adorning;
+While, from the flowery mead near by,
+The sheep and shepherd's joyful cry
+Salutes the early morning.
+The never idle troops of bees
+Fly here and there, and where they please
+Their honey food are quaffing;
+The sap is running up the vine,
+Round the old elm its tendrils twine,
+And in the sun are laughing.
+And can I, may I, silent be?
+When all God's glorious works I see
+My soul desires to know him.
+When all are singing I must sing,
+And to the Highest I must bring
+The tribute which I owe him.
+Are all things here so bright and fair,
+And has he with a loving care
+My happy being given?
+What, in the glorious world above,
+Where all is beauty, all is love,--
+What shall I be in heaven?
+O, were I there! O, stood I now
+In that great Presence! there to bow
+In grateful love before him,
+Then would I with the angels raise
+One never-ending song of praise,
+And worship and adore him!
+Sweet flower! so young, so fresh, so fair,
+Bright pleasure sparkling in thine eye,
+Alas! e'en thee time will not spare,
+And thou must die.
+The heart with youthful hope so gay,
+That scarcely ever breathed a sigh,
+Must weep o'er pleasures fled away,
+For all must die.
+But though the rosy cheek may fade,
+The virtuous wish, the purpose high,
+The bloom with which the soul's arrayed,
+Shall never die.
+I wish I was that little bird
+Up in the bright blue sky,
+That sings and flies just where he will,
+And no one asks him why.
+I wish I was that little brook
+That runs so swift along,
+Through pretty flowers, and shining stones,
+Singing a merry song.
+I wish I was a butterfly,
+Without a fear or care,
+Spreading my many-colored wings,
+Like a flower in the air.
+I wish I was that wild, wild deer,
+That I saw the other day,
+Who through the dark green forest flew,
+Like an arrow far away.
+I wish I was that little cloud
+By the gentle south-wind driven,
+Floating along so calm and bright
+Up to the gates of heaven.
+I'd rather be a savage beast,
+And dwell in a gloomy cave,
+And shake the forest when I roared,
+Than what I am,--a slave.
+My mother calls me her good boy,
+My father calls me brave;
+What wicked action have I done
+That I should be a slave?
+They tell me God is very good.
+That his right arm can save;
+O, is it, can it, be his will
+That I should be a slave?
+O, how much better 'tis to die,
+And lie down in the grave,
+Than 'tis to be what I am now,--
+A little negro slave!
+Once on a time, a little bird
+Within a wicker cage was heard,
+In mournful tones, these words to sing:--
+"In vain I stretch my useless wing;
+Still round and round I vainly fly,
+And strive in vain for liberty.
+Dear liberty, how sweet thou art!"
+The prisoner sings, with breaking heart:--
+"All other things I'd give for thee,
+Nor ask one joy but liberty."
+He sang so sweet, a little mouse,
+Who often ran about the house,
+Came to his cage; her cunning ear
+She turned, the mournful bird to hear.
+Soon as he ceased,--"Suppose," said she,
+"I could contrive to set you free;
+Would you those pretty wings give me?"
+The cage was in the window-seat,
+The sky was blue, the air was sweet.
+The bird with eagerness replied,--
+"O, yes! my wings, and see, beside,
+These seeds and apples, sugar, too,
+All, pretty mouse, I'll give to you,
+If you will only set me free;
+For, O, I pant for liberty!"
+The mouse soon gnawed a hole; the bird,
+In ecstasy, forgot his word;
+Swift as an arrow, see, he flies,
+Far up, far up, towards the skies;
+But see, he stops, now he descends,
+Towards the cage his course he bends.
+"Kind mouse," said he, "behold me now
+Returned to keep my foolish vow;
+I only longed for freedom then,
+Nor thought to want my wings again.
+Better with life itself to part,
+Than, living, have a faithless heart;
+Do with me, therefore, as you will,
+An honest bird I will be still."
+His heart seemed full, no more he said,
+He drooped his wings and hung his head.
+The mouse, though very pert and smart,
+Had yet a very tender heart;
+She minced a little, twirled about,
+Then thus her sentiments threw out:--
+"I don't care much about your wings,--
+Apples and cakes are better things;
+You love the clouds, I choose the house;
+Wings would look queer upon a mouse.
+My nice long tail is better far,
+So keep your wings just where they are."
+She munched some apple, gave a smack,
+And ran into her little crack.
+The bird spread out his wings and flew,
+And vanished in the sky's deep blue;
+Far up his joyful song he poured,
+And sang of freedom as he soared.
+Was that the music of the wind,
+That whispered in my trembling ear?
+And can I, free and unconfined,
+Taste of the joys that still are dear?
+And can I skip from tree to tree,
+And fly along the flowery plain,
+Light as the wind, as fleet, as free,
+And make my winter's nest again?
+O, yes! my joyful, trembling heart,
+The song you heard from yonder tree,
+Which made awakening memory start,
+Was the sweet sound of Liberty!
+Dear Ellen, many thanks I owe
+For tenderest care bestowed on me;
+But most my gratitude will flow
+For your best gift,--sweet Liberty!
+Oft in your gayest, happiest hour,
+When all your youthful heart beats high,
+And, hastening on from flower to flower,
+You taste the sweets of Liberty,
+The thought that you have set me free,
+That I can skip and dance like you,
+To your kind, tender heart shall be
+As pure a joy as e'er you knew.
+Scarce can my wakening sense believe
+The sounds I hear, the sights I see;
+Dear Ellen, once again receive
+Your Squirrel's thanks for Liberty.
+'Tis true, although 'tis sad to say,
+Disputes are rising every day.
+You'd think, if no one did deny it,
+A little work-box might be quiet;
+But 'tis not so, for I did hear,
+Or else I dreamed it, 'tis so queer,
+A Pin and Needle in the cushion
+Maintain the following discussion.
+The Needle, "extra fine gold-eyed,"
+Was very sharp and full of pride,
+And thus, methought, she did begin:--
+You clumsy, thick, short, ugly Pin,
+I wish you were not quite so near;
+How could my mistress stick me here?
+She should have put me in my place,
+With my bright sisters in the case."
+"Would you were there!" the Pin replied;
+"I do not want you by my side.
+I'm rather short and thick, 'tis true;
+Who'd be so long and thin as you?
+I've got a head, though, of my own,
+That you had better let alone."
+"You make me laugh," the Needle cried;
+"That you've a head can't be denied;
+For _you_ a very proper head,
+Without an eye, and full of lead."
+"You are so cross, and sharp, and thin,"
+Replied the poor insulted Pin,
+"I hardly dare a word to say,
+And wish indeed you were away;
+That golden eye in your poor head
+Was only made to hold a thread;
+All your fine airs are foolish fudge,
+For you are nothing but a drudge;
+But I, in spite of your abuse,
+Am made for pleasure and for use.
+I fasten the bouquet and sash,
+And help the ladies make a dash;
+I go abroad and gayly roam,
+While you are rusting here at home."
+"Stop," cried the Needle, "you're too much,
+You've brass enough to beat the Dutch;
+Do I not make the ladies' clothes,
+Ere I retire to my repose?
+Then who, forsooth, the glory wins?
+Alas! 'tis finery and pins.
+This is the world's unjust decree,
+But what is this vain world to me?
+I'd rather live with my own kin,
+Than dance about like you, vain Pin.
+I'm taken care of every day;
+You're used awhile, then thrown away,
+Or else you get all bent up double,
+And a snug crack for all your trouble."
+"True," said the Pin, "I am abused,
+And sometimes very roughly used;
+I often get an ugly crook,
+Or fall into a dirty nook;
+But there I lie, and never mind it;
+Who wants a pin is sure to find it;
+In time I am picked up, and then
+I lead a merry life again.
+You fuss so at a fall or hurt,
+And, if you get a little dirt,
+You keep up such an odious creaking,
+That where you are there is no speaking;
+And then your lackey Emery's called,
+And he, poor thing, is pricked and mauled,
+Until your daintiness--O, shocking!--
+Is fit for what? to mend a stocking!"
+The Needle now began to speak,--
+They might have quarrelled for a week,--
+But here the Scissors interposed.
+And thus the warm debate was closed:--
+"You angry Needle! foolish Pin!
+How did this nonsense first begin?
+You should have both been better taught;
+But I will cut the matter short.
+You both are wrong, and both are right,
+And both are very impolite.
+E'en in a work-box 'twill not do
+To talk of every thing that's true.
+All personal remarks avoid,
+For every one will be annoyed
+At hearing disagreeable truth;
+Besides, it shows you quite uncouth,
+And sadly wanting in good taste.
+But what advantages you waste!
+Think, Pins and Needles, while you may,
+How much you hear in one short day;
+No servants wait on lordly man
+Can hear one half of what you can.
+'Tis not worth while to mince the matter;
+Nor men nor boys like girls can chatter;
+All now are learning, forward moving,
+E'en Pins and Needles are improving;
+And in this glorious, busy day
+All have some useful part to play.
+Go forth, ye Pins, and bring home news!
+Ye Needles in your cases muse!
+And take me for your kind adviser,
+And only think of growing wiser;
+Then, when you meet again, no doubt,
+Something you'll have to talk about,
+And need not get into a passion,
+And quarrel in this vulgar fashion.
+Less of yourselves you'll think, and more
+Of others, than you did before.
+You'll learn, that in their own right sphere
+All things with dignity appear.
+And have, when in their proper place,
+Peculiar use and native grace."
+Methought the polished Scissors blushed
+To have said so much, and all was hushed.
+One short six months had scarcely gone,
+When, full of all he'd learned,
+Young Frederick, that hopeful son,
+From college home returned.
+To his paternal roof restored,
+It was not long before
+The learned man at table poured
+The treasures of his lore.
+"Now," said the youngster, "father dear,
+You doubtless think you see
+Two roasted fowls before us here;
+But I say there are three.
+"_Atqui_ these roasted fowls are two,
+And one in two must be;
+_Ergo_,--or logic is not true,--
+These roasted fowls are three."
+"God bless your studies!" quoth papa;
+"'Tis just as you have said;
+_This_ is for me, _that_ for mamma,
+The third for learned Fred."
+Lady Bertha sat in the rocky cleft,
+Her bitter woes to weep;
+Little Roland played in the free fresh air;
+His sorrows were not deep.
+"My royal brother, O King Charles,
+Why did I fly from thee?
+Splendor and rank I left for love;
+Now thou art wroth with me.
+"O Milon, Milon, husband dear!
+Beneath the waves art thou;
+For love I have forsaken all,
+Yet love forsakes me now.
+"O Roland! thou, my dearest boy,
+Now fame and love to me;
+Come quickly, little Roland, come!
+My hope rests all on thee.
+"Go to the city, Roland, go!
+To beg us meat and bread;
+And whoso gives the smallest gift,
+Ask blessings on his head."
+Now great King Charles at table sat,
+In the golden hall of state;
+With dish and cup the servants ran,
+On the noble guests to wait.
+Flute, harp, and minstrelsy now tune
+All hearts to joyful mood;
+The cheerful music does not reach
+To Bertha's solitude.
+Before the hall in the court-yard sat
+Of beggars a motley throng;
+The meat and drink was more to them
+Than flute, and harp, and song.
+The king looked out, through the open door,
+Upon the beggar throng;
+Through the crowd he saw a noble boy,
+Pushing his way along.
+Strange was the little fellow's dress,
+Of divers colors all;
+But with the beggars he would not stay,--
+He looked up at the hall.
+Within the hall little Roland treads,
+As though it were his own;
+He takes a dish from the royal board
+In silence, and is gone.
+The king he thinks,--"What do I see?
+This is a curious way";
+But, as he quietly submits,
+The rest do nothing say.
+In a little while again he comes,
+To the king he marches up,
+And little Roland boldly takes
+The royal golden cup.
+"Halloo! stop there! thou saucy wight!"
+King Charles's voice did ring;
+Little Roland kept the golden cup,
+And looked up at the king.
+The king at first looked angrily;
+But very soon he smiled:--
+"You tread here in our golden hall,
+As in the green woods wild.
+"From the royal table you take a dish,
+As they take an apple from a tree;
+As with the waters of the brook,
+With my red wine you make free."
+"The peasant drinks from the running brook,
+On apples she may dine;
+My mother must have fish and game,
+For her is the foaming wine."
+"Is thy mother such a noble dame
+As thou, my boy, dost boast,
+Then surely has she a castle fair,
+And of vassals a stately host.
+"Tell me, who may her sewer be?
+And who cupbearer, too?"
+"My own right hand her sewer is;
+My left, cupbearer true."
+"Tell on; who are her faithful guards?"
+"My two blue eyes alway."
+"Tell on; who is her minstrel free?"
+"My rosy mouth, I say."
+"Brave servants has the dame, indeed;
+But does strange livery choose,--
+Made up of colors manifold,
+Shining with rainbow hues."
+"From each quarter of the city,
+With eight boys I have fought;
+Four sorts of cloth to the conqueror,
+As tribute, they have brought."
+"The best of servants, to my mind,
+The dame's must surely be;
+She is, I wot, the beggar's queen,
+Who keeps a table free.
+"The noble lady should not far
+From my royal palace be;
+Arise, three ladies, and three lords,
+And bring her in to me."
+Little Roland, holding fast the cup,
+From the splendid hall he hies;
+To follow him, at the king's command,
+Three lords, three ladies, rise.
+And after now a little while,
+The king sees, far away,
+The noble ladies and the knights
+Return without delay.
+The king he cries out suddenly,--
+"Help, Heaven! see I aright?
+'Tis my own blood, in open hall,
+I have treated with cruel slight.
+"Help, Heaven! in pilgrim dress I see
+My sister Bertha stand;
+So pale in my gay palace here,
+A beggar's staff in her hand!"
+Lady Bertha sinks down at his feet,
+Pale image of despair;
+His wrath returns, and he looks on her
+With a stern and angry air.
+Lady Bertha quick cast down her eyes,
+No word to speak she tried;
+Little Roland raised his clear blue eyes,--
+"My uncle!" loud he cried.
+"Rise up, my sister Bertha, rise!"
+The king said tenderly;
+"For the sake of this dear son of thine,
+Thou shalt forgiven be."
+Lady Bertha rose up joyfully:--
+"Dear brother! thanks to thee;
+Little Roland shall requite the boon
+Thou hast bestowed on me.
+"He of the glory of his king
+Shall be an image fair;
+The colors of many a foreign realm
+His banner and shield shall bear.
+"The cup from many a royal board
+He shall seize with his free right hand,
+And safety and fresh glory bring
+To his sighing mother-land."
+woods, and gave to a little girl of the name of Mary. She
+was very attentive to the little prisoner, gave him an
+abundance of good things to eat, and tried her best to make
+him happy; but all in vain. After many attempts, he at last
+succeeded in making his escape, and instantly disappeared in
+the woods. In the course of the day, the following letter,
+sealed with a sharp thorn, was received by his friend Mary.]
+Artichoke Woods.
+You thought, my dear Mary, you had Billy fast,
+But I tried very hard, and escaped you at last;
+The chance was so tempting, I thought I would _nab_ it,--
+It was not very naughty, I'm sure, in a rabbit.
+O, let not your kind heart be angry with me;
+But think what a joy it is to be free,
+To see the green woods, to feel the fresh air,
+To skip, and to play, and to run everywhere.
+The food that you gave me was pleasant and sweet,
+But I'd rather be free, though with nothing to eat.
+O, how glad they all were to see me come back,
+And every one wanted to give me a smack.
+Dick knocked over Brownie, and jumped over Bun,
+And the neighbours came in to witness the fun.
+My father said something, but could not be heard;
+My mother looked at me, but spoke not a word;
+And while she was looking, her eyes became pink,
+And she shed a few tears, I verily think.
+To him who a hole or a palace inhabits,
+To all sorts of beings, to men, and to rabbits,
+Ah! dear to us all is sweet Liberty,
+Especially, Mary, to you and to me.
+So I hope you'll forgive me for sending this letter,
+To tell you I'm safe, and feel so much better,
+Cut all sorts of capers, and act very silly,
+And am your devoted, affectionate
+"Good bye, get away, you ugly old things!"
+Said a little boy once to his shoes;
+"All stubbed are your toes, all twisted your strings,
+You're wrinkled, one-sided, and loose.
+"But here are my new ones, so shiny and bright,
+They are almost as smooth as my skin;
+How stiff they are, too! how straight and upright!
+How snug my feet feel now they're in!"
+So saying, he gave to his old shoes a kick,
+And strutted with pride to the door;
+His unkindness had cut the old shoes to the quick,
+For nothing contempt can endure.
+"Master Frank, Master Frank, stop a while, if you please,"
+('Twas one of the shoes he heard call);
+"Our _soles_ cannot bear such insults as these,
+And your pride, Sir, will soon have a fall."
+Frank stood still with wonder and looked at the shoe,
+But could not see into the matter;
+At last he exclaimed,--"As they've nothing to do,
+I suppose, like Poll Parrot, they chatter."
+So he opened the door, and walked down the stairs;
+His shoes were too stiff to go fast;
+But let us observe him, and see how he fares,
+How repentant poor Frank was at last.
+His shoes were so smooth that he could but just stand,
+So tight, that they pinched in his toes;
+He could only sit still, and try to look grand,
+And remember he had on new shoes.
+But Fido ran in, who loved little Frank,
+And the shoes were remembered no more;
+They began to cut capers, but at the first prank
+Down tumbled poor Frank on the floor.
+He was a brave boy, he thought not of crying,
+He said, "Never mind," though in pain;
+He whistled to Fido, but there is no denying
+He fell down again and again.
+He went to his bed with his heart full of sorrow;
+He said to the nurse,--"I should choose,
+If you please, when I'm dressed, my good Betsey, to-morrow,
+To put on my easy old shoes.
+"See how red my toes are, and I'm all black and blue;
+I don't like my new shoes at all."
+"Ah! you see," answered Betsey, "what I told you was true;
+Your shoes, Master Frank, are too small."
+His old shoes he was glad in the morning to see,
+And, forgetting his trouble and pain,
+"How happy," said he, "my poor toes will be
+To get into the old shoes again."
+The voice of the old shoe now once more was heard:--
+"Master Frank, will you please to attend?
+I wish, with your leave, to say just a word,--
+'Tis a word of advice from a friend.
+"Never part with old shoes till they part from you;
+Let your new ones be always well tried;
+Old shoes and old friends are far better than new,
+And, trust me, more worthy of pride.
+"Our strings and our toes are bad, we must own,
+But they can be easily mended.
+I have done," said the shoe, in a kind, easy tone,
+And it gaped as the lecture was ended.
+New toes and new heels now the old shoes have got,
+New strings, too, their beauty renew;
+Frank wears them in peace, and has never forgot
+The words of the friendly old shoe.
+The monkeys, 'tis said, once asked of the bears,
+How it was that their nation so much surpassed theirs,
+And begged that the means they would graciously tell
+By which the young bears were kept hearty and well.
+"Perhaps it may be," said one of the mothers,
+Who seemed more considerate and wise than the others,
+"Perhaps," said she, trembling at even the thought,
+"We give our dear young ones less food than we ought;
+We may be impatient; I have really some fears
+That we rock them too little, the poor little dears;
+Our milk may cause fever, and their stomachs not suit,
+Or perhaps they are weakened and injured by fruit.
+Perhaps the whole mischief is caused by the air,
+And who 'gainst this evil can ever prepare?
+In their earliest years, it may poison instil,
+And through their whole lifetime produce every ill.
+Perhaps it may be, before we are aware,
+They breathe in a pestilence, borne on the air.
+Perhaps, for the nerves of us monkeys are weak,
+In jumping, or leaping, some bone they may break
+In their breasts." Here, for weeping, she scarcely could speak,
+And she snatched up her little one long to her breast;
+With such vehement love the poor victim she pressed,
+That all its complainings and troubles were stilled;
+Alas the poor mother! her pet she had killed.
+Said the bear,--"No longer I think you need seek
+For the cause why your young ones are sickly and weak;
+It is not the milk, nor the fruit, nor the air,
+Nor fault of the stomach, and 'tis no lack of care.
+Your blind fondness it is that cuts short their days.
+How is it that we such multitudes raise?
+As soon as our young ones are able to run,
+We take them out with us to play in the sun.
+We take them through floods, through heat, and through cold,
+And so they are healthy, and live to be old."
 CROSBY & NICHOLS have for sale a general assortment of Books in all
 the various departments of literature, comprising Theological, School,
 Juvenile, and Miscellaneous Books of all kinds.
-
 All Periodicals, both American and Foreign, supplied promptly. A
 liberal discount to clubs, societies, or individuals, where several
 are taken.
-
 _Foreign Books imported to order by every steamer._
-
-BOSTON:
-
-W.M. CROSBY AND H.P. NICHOLS,
-
-111 WASHINGTON STREET.
-
-
-
-
-A LIST OF BOOKS
-
-RECENTLY PUBLISHED BY
-
-WM. CROSBY & H.P. NICHOLS,
-
-111 WASHINGTON STREET, BOSTON.
-
-
 A MEMOIR OF WILLIAM ELLERY CHANNING, with Extracts from his
 Correspondence and Manuscripts. Edited by his nephew, WM. HENRY
 CHANNING. Comprised in three volumes, of from 450 to 500 pages each,
 uniform with the best edition of the Works. Two very superior
 portraits of Dr. Channing appear in the volumes; one from a painting
 by Allston, the other by Gambadella. Price $3.00.
-
 CONTENTS.--_Part First_,--Parentage and Birth; Boyhood; College Life;
 Richmond; Studies and Settlement. _Part Second_,--Early Ministry;
 Spiritual Growth; The Unitarian Controversy; Middle-age Ministry;
 European Journey. _Part Third_,--The Ministry and Literature; Religion
 and Philosophy; Social Reforms; The Antislavery Movement; Politics;
 Friends; Home Life; Notes.
-
-NOTICES OF THE PRESS.
-
 "A more interesting and instructive biographical work we have never
 read. High as was our opinion of Channing,--of his intellectual and
 moral worth,--the perusal of this work has convinced us that we never
@@ -2599,19 +1810,16 @@ than his sermons and essays. In his letters he lays his heart entirely
 open; and no man, no matter what his opinions or prejudices, can read
 them without saying,--'Channing was, indeed, a great and good
 man,--one who lived for the world!'"--_Christian Messenger._
-
 "Only one who was similar in purpose and temper,--who felt like
 aspirations, hopes, and faith,--could at all do justice to the
 distinguished subject. The present book must, therefore, we are sure,
 give us Channing's character in its completeness, and true harmony and
 proportions of parts."--_Salem Observer._
-
 "These memoirs of a great and good man will, we apprehend, obtain an
 uncommonly extensive circulation, not only among the denomination of
 Christians in which he ranked himself, but with all who reverence
 purity of character, an enlarged philanthropy, and eminent talents,
 guided by virtue and piety."--_Salem Register._
-
 "If we mistake not, now is the very time in God's providence when the
 biography of William Ellery Channing could best make its appearance.
 We have heard that a distinguished divine, of different speculative
@@ -2620,11 +1828,9 @@ greatly needed among us at this present moment.' Behold him here! We
 doubt not that the biography thus prepared is to make a great
 impression on the age that is passing, and that is yet to
 come."--_Christian Register._
-
 SERMONS ON CHRISTIAN COMMUNION. Designed to promote the Culture of the
 Religious Affections. Edited by Rev. T.R. SULLIVAN. 12mo. pp. 403.
 Price, $1.00.
-
 This work is not confined to the subject of the Lord's Supper, but
 "forms a series of practical discourses of the persuasive kind,
 relating to repentance, or the duty of commencing the Christian
@@ -2632,41 +1838,36 @@ course,--to edification, or the encouragements to progressive
 Christian improvement,--and to the eucharistic service, as affording
 exercise for all the grateful and devout affections of the heart in
 every stage of its subjection to Christian discipline."--_Preface._
-
 The following is a list of the writers:--
-
 Rev. H.A. MILES, Lowell.
- "   F. PARKMAN, D.D., Boston.
- "   S. JUDD, Augusta.
- "   F.D. HUNTINGTON, Boston.
- "   C.T. BROOKS, Newport.
- "   N. HALL, Dorchester.
- "   J.I.T. COOLIDGE, Boston.
- "   G.W. BRIGGS, Plymouth.
- "   A.A. LIVERMORE, Keene.
- "   J. WHITMAN, Lexington.
- "   J.W. THOMPSON, Salem.
- "   H.W. BELLOWS, New York.
- "   E.S. GANNETT, D.D., Boston.
- "   A.P. PEABODY, Portsmouth.
- "   J. WALKER, D.D., Cambridge.
- "   C. ROBBINS, Boston.
- "   G.E. ELLIS, Charlestown.
- "   G. PUTNAM, D.D., Roxbury.
- "   J.H. MORISON, Milton.
- "   A. YOUNG, D.D., Boston.
- "   E.B. HALL, D.D., Providence.
- "   S.G. BULFINCH, Nashua.
- "   O. DEWEY, D.D., New York.
- "   S. OSGOOD, Providence.
- "   A. HILL, Worcester.
- "   W.H. FURNESS, D.D., Philadelphia.
- "   N.L. FROTHINGHAM, D.D., Boston.
- "   E. PEABODY, Boston.
- "   S.K. LOTHROP, "
- "   C.A. BARTOL,  "
- "   A.B. MUZZEY, Cambridge.
-
+"   F. PARKMAN, D.D., Boston.
+"   S. JUDD, Augusta.
+"   F.D. HUNTINGTON, Boston.
+"   C.T. BROOKS, Newport.
+"   N. HALL, Dorchester.
+"   J.I.T. COOLIDGE, Boston.
+"   G.W. BRIGGS, Plymouth.
+"   A.A. LIVERMORE, Keene.
+"   J. WHITMAN, Lexington.
+"   J.W. THOMPSON, Salem.
+"   H.W. BELLOWS, New York.
+"   E.S. GANNETT, D.D., Boston.
+"   A.P. PEABODY, Portsmouth.
+"   J. WALKER, D.D., Cambridge.
+"   C. ROBBINS, Boston.
+"   G.E. ELLIS, Charlestown.
+"   G. PUTNAM, D.D., Roxbury.
+"   J.H. MORISON, Milton.
+"   A. YOUNG, D.D., Boston.
+"   E.B. HALL, D.D., Providence.
+"   S.G. BULFINCH, Nashua.
+"   O. DEWEY, D.D., New York.
+"   S. OSGOOD, Providence.
+"   A. HILL, Worcester.
+"   W.H. FURNESS, D.D., Philadelphia.
+"   N.L. FROTHINGHAM, D.D., Boston.
+"   E. PEABODY, Boston.
+"   A.B. MUZZEY, Cambridge.
 "The design of the work is admirable, and we doubt not it is admirably
 executed, and will promote the best interests of our churches. We
 chanced to open at Sermon XVIII., on Christian Education, and were
@@ -2674,27 +1875,22 @@ pleased to see the idea of Dr. Bushnell's celebrated book on
 'Christian Nurture' illustrated and urged in a sermon by Dr. Putnam,
 preached two years before Dr. Bushnell's book made its
 appearance."--_Christian Register._
-
 "The tone of these sermons, their living interest, their
 unpremeditated variety in unity, fit them well for this
 purpose,--close personal influence on minds of widely differing views,
 united in the one great aim of a Christian life. We shall probably
 take an early opportunity of making some selections."--_Christian
 Inquirer._
-
 "We think the volume is upon the whole one of the best volumes of
 discourses ever issued from the American press."--_Boston Daily
 Atlas._
-
 THE GOSPEL NARRATIVES, their Origin, Peculiarities, and Transmission.
 By Rev. HENRY A. MILES. 16mo. pp. 174. Price, 50 cents.
-
 This work is designed for families and Sunday Schools, and contains a
 comparison of each Gospel with the education, life, and character of
 its author, and with the purpose which he had in view in its
 composition; as also an account of the transmission of the Gospels
 down to our time, and the evidence of their uncorrupted preservation.
-
 "This volume by Mr. Miles has substantial value. It is by the
 circulation and use of such books that Christian knowledge is to be
 extended, and Christian faith confirmed. By a thorough study even of
@@ -2708,14 +1904,11 @@ persons, the 'Gospel Narratives' will be interesting to the general
 reader, whether youthful or adult. It must, without doubt, be
 introduced in all our Sunday Schools, and will rank among the most
 important manuals."
-
 NAOMI; or Boston Two Hundred Years Ago. A Tale of the Quaker
 Persecution in New England. By ELIZA BUCKMINSTER LEE, Author of "The
 Life of Jean Paul." Second Edition. 12mo. pp. 324. Price, 75 cents.
-
 The first edition of this popular book was exhausted within a month
 after its publication.
-
 "Mrs. Lee has given the public a most agreeable book. Her style is
 elevated and earnest. Her sentiments, of the pure and the true. The
 characters are well conceived, and are presented each in strong
@@ -2724,7 +1917,6 @@ us in doubt whether they are 'beings of the mind,' or were real men
 and women who bore the parts she assigns them in those dark tragedies
 that stained this 'fair heritage of freedom' in the early days of
 Massachusetts."--_Worcester Palladium._
-
 "We have been exceedingly interested in this book, and recommend it as
 a beautiful picture of female piety and quiet heroism, set in a frame
 of history and tradition, that cannot fail to please every one
@@ -2733,30 +1925,24 @@ accomplished author of 'The Life of Jean Paul' has produced an
 American novel which we should like to see followed by others
 illustrative of the facts and manners of the olden time."--_Christian
 Inquirer._
-
 THE MARRIAGE OFFERING. Designed as a Gift to the Newly-married. Edited
 by Rev. A.A. LIVERMORE. 16mo. pp. 215. Price, 50 cents.
-
 "It was a happy thought that suggested such a volume. We were not
 aware before that there was so much and so various Christian
 literature on the subject."--_Christian Register._
-
 MARTYRIA; a Legend, wherein are contained Homilies, Conversations, and
 Incidents of the Reign of Edward the Sixth. Written by WILLIAM
 MOUNTFORD, Clerk. With an Introduction to the American Edition, by
 Rev. F.D. HUNTINGTON. 16mo. pp. 348. Price, 75 cents.
-
 "The charm of the book lies in the elevated tone of thought and moral
 sentiment which pervades it. You feel, on closing the volume, as if
 leaving some ancient cathedral, where your soul had been mingling with
 ascending anthems and prayers. There is scarcely a page which does not
 contain some fine strain of thought or sentiment, over which you shut
 the book that you may pause and meditate.
-
 "We recommend the volume to our readers, with the assurance that they
 will find few works in the current literature of the day so well worth
 perusal."--_Christian Register._
-
 "This is really an original book. We have seen nothing for a long time
 more fresh or true. The writer has succeeded wonderfully, in taking
 himself and his readers into the heart of the age he describes. What
@@ -2764,13 +1950,11 @@ is more, he has uttered words and thoughts which stir up the deep
 places of the soul. Let those read who wish to commune with the true
 and unpretending martyr-spirit, the spread of faith and endurance,
 courage, self denial, forgiveness, prayer.
-
 "Of all the treatises we have ever read on marriage, we have seen none
 so good as one here called a 'Marriage Sermon'; not that we would ask
 any couple to hear it all on their marriage day, but we commend it to
 all who are married, or intend to be. The whole book is
 precious."--_Providence Journal._
-
 "There are few religious books which breathe a finer spirit than this
 singular volume. The author's mind seems to have meditated deeply on
 the awful realities of life. In the thoughtful flow of his periods,
@@ -2778,33 +1962,25 @@ and the grave, earnest eloquence of particular passages, we are
 sometimes reminded of the Old English prose writers. The work is a
 'curiosity' of literature, well worth an attentive
 perusal."--_Graham's Magazine._
-
 A TRANSLATION OF PAUL'S EPISTLE TO THE ROMANS, with an Introduction
 and Notes. By WILLIAM A. WHITWELL, Minister of the Congregational
 Society in Wilton, N.H. 16mo. pp. 116. Price, 50 cents.
-
 "We would express a high opinion of the book, and can assure the
 Christian reader who will compare it carefully with our common
 version, that he will rise up from the joint perusal of the two with a
 better understanding of Paul than he had before."--_Christian
 Register._
-
 CHRISTIANITY THE DELIVERANCE OF THE SOUL AND ITS LIFE. By WILLIAM
 MOUNTFORD. With an Introduction by Rev. F.D. HUNTINGTON. 16mo. pp.
-118. Price, 37-1/2 cents.
-
 "Mr. Mountford is full of warm religious feeling. He brings religion
 home to the heart, and applies it as the guide of the life."--_London
 Inquirer._
-
 SELF-FORMATION; or the History of an Individual Mind: Intended as a
 Guide for the Intellect through Difficulties to Success. By a Fellow
 of a College. 12mo. pp. 504. Price, $1.00.
-
 "The publishers have done good service by bringing forward an American
 edition of this work. It may be most unreservedly recommended,
 especially to the young."--_Daily Advertiser._
-
 "Your gift of 'Self-Formation' is truly a welcome one, and I am
 greatly obliged to you for it. It is a work of quite original
 character, and I esteem it (in common with all I know of, who have
@@ -2815,17 +1991,14 @@ read it carefully. It is several years since I looked into it in the
 English edition,--but I yet retain a vivid impression of the great
 delight it afforded me, and I shall gladly avail of the opportunity of
 renewing it."--_Extract from a Letter._
-
 "This is emphatically a good book, which may be read with profit by
 all classes, but more especially by young men, to whose wants it is
 admirably adapted. The American editor is no doubt right in saying,
 that it is almost without a question the most valuable and useful work
 on self education that has appeared in our own, if not in any other
 language."--_New York Tribune._
-
 THOUGHTS ON MORAL AND SPIRITUAL CULTURE. By Rev. ROBERT C. WATERSTON.
 Second Edition, revised. 16mo. pp. 302. Price, 62-1/2 cents.
-
 This book has met with a ready sale in this country, and has been
 republished in England. A London periodical, in reviewing it,
 says:--"We will venture to predict that it will soon take its place on
@@ -2834,22 +2007,18 @@ Character,' Greenwood's 'Lives of the Apostles,' and other works to
 which we might refer as standard publications, the value of which is
 not likely to be diminished by the lapse of time or the caprices of
 fashion."
-
 "The sense of duty in parents and teachers may be strengthened and
 elevated by contemplating the high standard which is here held up to
 them. The style has the great merit of being an earnest one, and there
 are many passages which rise into genuine eloquence and the glow of
 poetry."--_N.A. Review._
-
 "The Lecture 'On the Best Means of exerting a Moral and Spiritual
 Influence in Schools,' no teacher, male or female, possessed of any of
 the germs of improvement, can read without benefit."--_Hon. Horace
 Mann, Secretary of the Board of Education._
-
 DOMESTIC WORSHIP. By WILLIAM H. FURNESS, Pastor of the First
 Congregational Unitarian Church in Philadelphia. Third Edition. 12mo.
 pp. 272. Price, 75 cents.
-
 "We are glad to see this book. It is a work of great and peculiar
 excellence. It is not a compilation from other books of devotion; nor
 is it made up of conventional phrases and Scripture quotations, which
@@ -2868,75 +2037,56 @@ genuineness, that we cannot bring ourselves to regard them as
 compositions written for a purpose, but rather as the actual
 utterances of a pure and elevated soul in reverent and immediate
 communion with the Infinite Father."--_Christian Examiner._
-
 LAYS FOR THE SABBATH. A Collection of Religious Poetry. Compiled by
 EMILY TAYLOR. Revised, with Additions, by JOHN PIERPONT. 16mo. pp.
-288. Price, 75 cents.
-
 "It is simple and unpretending: and though some of the pieces are
 probably familiar to most readers, they all breathe a pure and
 elevated spirit, and here and there is an exquisite effusion of
 genius, which answers to the holiest wants of the soul.
-
 "Not only great pleasure may be derived from such a volume, but
 lasting and useful impressions. Many are keenly alive to the harmony
 of verse and the fresh outbursts of poetic feeling, who would pore
 with delight over such a volume, and many might thus be won to high
 thought and serious reflection."--_Christian Examiner._
-
 THE YOUNG MAIDEN. Seventh Edition. By Rev. A.B. MUZZEY, Author of "The
 Young Man's Friend," "Sunday School Guide," etc., etc. 16mo. pp. 264.
 Price, 62-1/2 cents.
-
 CONTENTS.--The Capacities of Woman; Female Influence; Female
 Education; Home; Society; Love; Single Life; Reasons for Marriage;
 Conditions of True Marriage; Society of Young Men; First Love; Conduct
 during Engagement; Trials of Woman and her Solace; Encouragements.
-
 "The sentiments and principles enforced in this book may be safely
 commended to the attention of women of all ranks. Its purpose is
 excellent throughout; and as it is everywhere governed by a just and
 amiable spirit, we believe it is calculated to do much good."--_London
 Atlas._
-
 "A little work, well worthy, from its good sense and good feeling, to
 be a permanent and favorite monitor to our fair
 countrywomen."--_Morning Herald._
-
 A HISTORY OF SUNDAY SCHOOLS and of Religious Education, from the
 Earliest Times. By LEWIS G. PRAY. Embellished with two Engravings.
-16mo. pp. 270. Price, 62-1/2 cents.
-
 "The author has been for a long period engaged in the cause of which
 he has now become the historian; and if ardor, perseverance, and
 faithfulness in that service qualify him to write its history, we know
 of no one to whom it could have been more properly
 confided."--_Portsmouth Journal._
-
 "A volume of great Interest to all who have at heart the subject
 discussed."--_Literary World._
-
 LIFE IN THE SICK-ROOM. Essays, by HARRIET MARTINEAU. With an
 Introduction to the American Edition, by MRS. FOLLEN. Second American
 Edition. 16mo. pp. 196. Price, 62-1/2 cents.
-
 "For the principles which it inculcates, for the exalted ideal it
 presents, for the renovating spirit with which it is filled, the book
 cannot fail to be a blessing to humanity."--_Christian Examiner._
-
 EUTHANASY, or Happy Talk towards the End of Life. By WILLIAM
 MOUNTFORD. Author of "Martyria." 16mo. pp.
-
 "This is a book which will prove an incalculable treasure to those who
 are in sorrow and bereavement, and cannot be perused by any thoughtful
 mind without pleasure and improvement."--_Christian Examiner._
-
 THE CHRISTIAN PARENT. By Rev. A.B. MUZZEY, Author of "The Young
 Maiden," &c., &c. 16mo. Price, 75 cents.
-
 RELIGIOUS CONSOLATION. Edited by Rev. EZRA S. GANNETT. 16mo. Price, 50
 cents.
-
 CONTENTS.--The Good of Affliction; The Mourner Comforted; Erroneous
 Views of Death; The Departed; Death and Sleep; Immortality; Trust in
 God under Afflictions; Filial Trust; The Future Life; Friends in
@@ -2946,19 +2096,14 @@ Affliction; Duties of the Afflicted; The Mourner Blessed; Consolation;
 The Dangers of Adversity; Trust in Divine Love; The Promises of Jesus;
 The Believer's Hope; The Uses of Affliction; Time Passing; The
 Christian's Death; The Hope of Immortality; God our Father.
-
 THOUGHTS; selected from the Works of WILLIAM ELLERY CHANNING, D.D.
-32mo. pp. 160. Price, 37-1/2 cents.
-
 "This is a diamond of a volume, the purpose of which is well expressed
 in the following 'thought' from Channing, which is put on the
 title-page:--
-
 "'Sometimes a single word, spoken by the voice of genius, goes far
 into the heart. A hint, a suggestion, an undefined delicacy of
 expression, teaches more than we gather from volumes of less gifted
 men.'
-
 "Those who differ in theological views from the gifted Channing will
 of course find many thoughts in this little volume not to their taste.
 But those to whom any theological views have ever done much good will
@@ -2967,12 +2112,10 @@ faint reflections of thought. And those who would be wise above all
 things prize to know what can be thought on all sides of every
 important subject. To enrich our columns we borrow a gem or
 two."--_Chronotype._
-
 "A collection of noble thoughts, that may well take its place by the
 side of the celebrated thoughts of Pascal, which have in them more of
 metaphysics, but less that touches the human heart. It makes a
 beautiful pocket volume."--_Christian Examiner._
-
 "We have long desired to see a book of this kind, and now, from a
 slight examination, believe that it is well done. It is a beautiful
 collection of beautiful thoughts, and must be a welcome possession,
@@ -2981,10 +2124,8 @@ opinions, but for all who value lofty sentiments worthily expressed,
 and who by the influence of such thoughts would be strengthened to
 duty, or raised to a higher sphere of contemplation."--_Christian
 Register._
-
 DAVID ELLINGTON. By Rev. HENRY WARE, JR. With other Extracts from his
 Writings. 18mo. pp. 192. Price, 37-1/2 cents.
-
 "Mr. Ware has left very few things which will do so much towards
 promoting the great object for which he lived and labored. The simple
 story of the every-day life of a good man, told as these stories are
@@ -2992,26 +2133,20 @@ told, finds a response in the hearts of those most indifferent to the
 great concerns of virtue and religion; it reaches and touches what
 nothing else, not the eloquent preaching of an apostle, could reach
 and touch."
-
 CHRISTIAN CONSOLATIONS. Sermons designed to furnish Comfort and
 Strength to the Afflicted. By Rev. A.P. PEABODY, Pastor of the South
 Church, Portsmouth, N.H. 16mo. pp. 320. Price, 75 cents.
-
 "We welcome with almost as much surprise as satisfaction the
 appearance of a volume of discourses as excellent as those of Mr.
 Peabody. They are rich in thought, and of a high order of literary
 merit."--_N.A. Review._
-
 THE GENERAL FEATURES OF THE MORAL GOVERNMENT OF GOD. By A.B. JACOCKS.
-16mo. pp. 94. Price, 37-1/2 cents.
-
 GENERAL PRINCIPLES OF THE PHILOSOPHY OF NATURE: with an Outline of
 some of its recent Developments among the Germans, embracing the
 Philosophical Systems of Schelling and Hegel, and Oken's System of
 Nature. By J.B. STALLO, A.M., lately Professor of Analytical
 Mathematics, Natural Philosophy, and Chemistry in St. John's College,
 N.Y. 12mo. pp. 532. Price, $1.25.
-
 "It grapples with the most abstruse problems, and tugs fiercely to
 pluck out the heart of their mystery. No difficulty is too great for
 the author to meet, and none seems able to upset his theory. In truth,
@@ -3023,221 +2158,128 @@ its meaning, if American literature takes the abstruse direction
 indicated by Mr. Stallo's volume. In that event, our books will remain
 unread, not because they are too shallow, but because they are too
 deep."--_Boston Courier._
-
 MORNING AND EVENING MEDITATIONS, for every Day in a Month. By MISS
 CARPENTER (daughter of the late Dr. Lant Carpenter). 16mo. pp. 312.
 Price, 62-1/2 cents.
-
 "The compiler of this work has rendered good service to all possessed
 of Christian sympathies."--_Literary World._
-
 "We like its spirit, and believe it will prove an excellent closet
 companion for those who will faithfully use it."--_Christian
 Register._
-
 THE WORDS OF CHRIST; from the New Testament. 16mo. pp. 150. Price, 50
 cents.
-
 "The compiler has most happily collected the words of Christ, so that,
 by the slightest reference possible to the tables, every text is
 ascertained under the several heads. It will prove very beneficial to
 the Biblical scholar, clergyman, and Sunday-school
 teacher."--_Christian World._
-
 DISCOURSES ON THE CHRISTIAN SPIRIT AND LIFE. By Rev. CYRUS A. BARTOL.
 Second Edition, Revised, with an Introduction. 12mo. pp. 408. Price,
 $1.00.
-
 DISCOURSES ON THE RECTITUDE OF HUMAN NATURE. By GEORGE W. BURNAP, D.D.
-12mo. pp. 409. Price, $1.00.
-
 A HISTORY OF JESUS. By Rev. WILLIAM H. FURNESS. 12mo. pp. 231. Price,
 $1.00.
-
 COMMUNION THOUGHTS. By Rev. S.G. BULFINCH. 16mo. pp. 204. Price,
-62-1/2 cents.
-
 INTRODUCTORY LESSONS ON CHRISTIAN EVIDENCES. By ARCHBISHOP WHATLEY.
-18mo. pp. 131. Price, 20 cents.
-
 RELIGIOUS THOUGHTS AND OPINIONS OF A STATESMAN. By WILLIAM VON
 HUMBOLDT. 16mo.
-
 THE STARS AND EARTH; OR THOUGHTS UPON SPACE, TIME, AND ETERNITY. 18mo.
 pp. 88. Price, 31 cents.
-
 A MEMOIR OF REV. HIRAM WITHINGTON, With Selections from his Writings.
-16mo. pp. 190. Price, 50 cents.
-
 TEN DISCOURSES ON ORTHODOXY. By Rev. JOSEPH H. ALLEN, 12mo. pp. 227.
 Price, 75 cents.
-
-POPULAR OBJECTIONS TO UNITARIAN CHRISTIANITY CONSIDERED AND ANSWERED.
 In Seven Discourses. By Rev. GEORGE W. BURNAP. 16mo. pp. 166. Price,
-37-1/2 cents.
-
 CONTENTS.--The Position of Unitarianism defined. Unitarians not
 Infidels. Explaining the Bible and Explaining it away. Unitarianism
 not mere Morality. Unitarianism Evangelical Christianity. Unitarianism
 does not tend to Unbelief. Dr. Watts a Unitarian.
-
 "These topics Mr. Burnap treats with a freshness of thought which will
 render the volume acceptable to those who have a taste for reading of
 this sort, while its general merits place it in the class of works one
 would wish to see extensively circulated among those who think that
 Unitarianism has nothing to stand upon, or that it is a doctrine full
 of impiety."--_Christian Examiner._
-
 THE MISCELLANEOUS WRITINGS OF F.W.P. GREENWOOD, D.D. 12mo. pp. 400.
 Price, $1.00.
-
 "It is a profitable book for any one to read,--partly because it
 communicates information and offers instruction, but chiefly because
 its moral tone is of the healthiest kind."--_Christian Examiner._
-
 ECHOES OF INFANT VOICES. 16mo. pp. 144. Price, 50 cents.
-
 MEMOIR AND WRITINGS OF REV. JAMES H. PERKINS. Edited by Rev. WILLIAM
 H. CHANNING. 2 Vols. 12mo.
-
 A STUDY FOR YOUNG MEN; or a Sketch of Sir Thomas Fowell Buxton. By
 Rev. THOMAS BINNEY. 16mo. pp. 150. Price, 42 cents.
-
 HYMNS FOR THE SANCTUARY. Compiled by a Committee of the West Boston
 Society. 12mo.
-
 CHRISTIAN HYMNS FOR PUBLIC AND PRIVATE WORSHIP. A Collection compiled
 by a Committee of the Cheshire Pastoral Association. Twenty-eighth
 Edition. 18mo. pp. 562. Price, 50 cents.
-
 Although this book has been published but four years, it is now used
 in _forty_ societies, and this fact is considered sufficient to show
 the estimation in which it is held, and the manner in which it has
 stood the test of comparison with other collections.
-
 The following are some of the peculiar merits of the Christian
 Hymns:--the number of hymns is very large; the variety of subjects and
 metres is very great; the hymns are better adapted for singing; the
 plan of arrangement is improved; and the price is very low.
-
-
-MANUALS FOR SABBATH SCHOOLS.
-
 LESSONS ON THE PARABLES OF THE SAVIOUR, for Sunday Schools and
 Families. By Rev. F.D. HUNTINGTON. 18mo. Fourth Edition.
-
 QUESTIONS ADAPTED TO THE TEXT OF THE NEW TESTAMENT. By C. SOULE
 CARTEE. 18mo. Parts I. and II. Fourth Thousand.
-
 A SCRIPTURE CATECHISM OF THE CHRISTIAN RELIGION, stated in the Words
 of the Bible. By EPHRAIM PEABODY. 18mo. pp. 56. Third Thousand.
-
 FIRST BOOK FOR SUNDAY SCHOOLS. Fifth Edition. 18mo. pp. 36.
-
 THE MINISTRY OF CHRIST. With Notes and Questions By Rev. THOMAS B.
 FOX. Third Edition, Revised and Corrected. 18mo. pp. 261.
-
 A MANUAL ON THE BOOK OF ACTS. By Rev. THOMAS B. FOX. 18mo.
-
 THE SUNDAY SCHOOL SERVICE-BOOK. By Hon. STEPHEN C. PHILLIPS, President
 of the Boston Sunday School Society. 18mo.
-
 THE SUNDAY SCHOOL SINGING-BOOK. By E.L. WHITE. Square 16mo.
-
 QUESTIONS ON THE GOSPEL NARRATIVES; their Origin, Peculiarities, and
 Transmission. By Rev. HENRY A. MILES. 18mo. pp. 18.
-
-
-JUVENILE BOOKS.
-
 THE CHILDHOOD OF MARY LEESON. By MARY HOWITT. 18mo. pp. 143.
-
 THE PLAYMATE. A Pleasant Companion for Spare Hours. Embellished with
 more than a Hundred Engravings. Large 16mo. pp. 400.
-
 HYMNS, SONGS, AND FABLES. By MRS. FOLLEN. 18mo. pp. 107.
-
 THE TWO NEW SCHOLARS, and Other Stories. 18mo. pp. 92.
-
 FIVE YEARS OF YOUTH; of Sense and Sentiment. By HARRIET MARTINEAU.
 With a Preface by MRS. FOLLEN. 18mo. pp. 255.
-
 ALLEGORIES AND CHRISTIAN LESSONS; for Children. By T.B. FOX. 18mo. pp.
-144.
-
 ELLA HERBERT; or Self-Denial. By a Lady. 18mo. pp. 71.
-
 TRADITIONS OF PALESTINE. By HARRIET MARTINEAU. 18mo. pp. 142.
-
 THE ESKDALE HERDBOY. By LADY STODDART. 18mo. pp. 146.
-
 THE BOY OF SPIRIT. 18mo. pp. 123.
-
 WHEN ARE WE HAPPIEST? 18mo. pp. 149.
-
 HURRA FOR NEW ENGLAND! 18mo. pp. 112.
-
 HOW TO SPOIL A GOOD CITIZEN; and Other Stories. By the Author of
 "Willie Rogers," &c., &c. 18mo. pp. 180.
-
-
-MRS. TUTHILL'S JUVENILES.
-
 I WILL BE A GENTLEMAN. Twelfth Edition. 18mo. pp. 154.
-
 I WILL BE A LADY. Twelfth Edition. 18mo. pp. 173.
-
 ONWARD! RIGHT ONWARD! Seventh Edition. 18mo. pp. 173.
-
 ANY THING FOR SPORT. Third Edition. 18mo. pp. 136.
-
 THE BOARDING-SCHOOL GIRL. Second Edition. 18mo. pp. 145.
-
 A STRIKE FOR FREEDOM, or Law and Order, 18mo.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 THE BOY OF MOUNT RHIGI. By Miss SEDGWICK. 16mo. pp. 252.
-
 THE GLORIOUS STRANGER. 18mo.
-
 COUSIN HATTY'S HYMNS AND TWILIGHT STORIES. 16mo.
-
 ALL FOR THE BEST. By T.S. ARTHUR. 16mo.
-
 BARDOUC. A Persian Tale. 18mo.
-
 THE CHILD'S MORNING BOOK. 18mo.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 THE CHRISTIAN EXAMINER AND RELIGIOUS MISCELLANY. Edited by Rev. GEORGE
 PUTNAM, D.D., and Rev. GEORGE E. ELLIS.
-
 "This work, which combines literature with theology, has always
 sustained a high reputation for learning and ability,--nearly all the
 more eminent Unitarians of the day having been at different times
 numbered among its contributors."
-
 The Examiner was first issued under the superintendence of the late
 Dr. Noah Worcester. It has since been edited by Rev. John G. Palfrey,
 D.D., Rev. Francis Jenks, Rev. F.W.P. Greenwood, D.D., Rev. James
 Walker, D.D., Rev. William Ware, Rev. Alvan Lamson, D.D., and Rev.
 Ezra S. Gannett, D.D., and through its pages the writings of
 Worcester, Channing, Norton, and Ware have been given to the public.
-
 The Christian Examiner is published on the first days of January,
 March, May, July, September, and November, in numbers of one hundred
 and forty-four octavo pages each, at _four dollars_ per annum.
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Hymns, Songs, and Fables, for Young
 People, by Eliza Lee Follen
-

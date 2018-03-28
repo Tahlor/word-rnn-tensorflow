@@ -1,2486 +1,1282 @@
-﻿The Project Gutenberg EBook of Oxford Poetry, by Vera Mary Brittain
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: Oxford Poetry
-       1920
-
-Editors: Vera Mary Brittain
-        Clifford Henry Benn Kitchin
-        Alan Porter
-
-Authors: Edmund Blunden
-         G. H. Bonner
-         Vera M. Brittain
-         G. A. Fielding Bucknall
-         Roy Campbell
-         Eric Dickinson
-         Louis Golding
-         L. P. Hartley
-         B. Higgins
-         Winifred Holtby
-         R. W. Hughes
-         E. W. Jacot
-         G. H. Johnstone
-         C. H. B. Kitchin
-         V. De S. Pinto
-         Alan Porter
-         Hilda Reid
-         Edgell Rickword
-         W. Force Stead
-         L. A. G. Strong
-		 
-Release Date: November 3, 2015 [EBook #50376]
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK OXFORD POETRY ***
-
-
-
-
 Produced by MWS, Chuck Greif and the Online Distributed
 Proofreading Team at http://www.pgdp.net (This file was
 produced from images generously made available by The
 Internet Archive/Canadian Libraries)
-
-
-
-
-
-
-
-
-
-
-                             OXFORD POETRY
-
-                                 1920
-
-
-                          _Uniform with this Volume_
-
-                          OXFORD POETRY, 1914
-
-                          (_Out of Print_)
-
-                          OXFORD POETRY, 1915
-
-                          OXFORD POETRY, 1916
-
-                          OXFORD POETRY, 1917
-
-                          OXFORD POETRY, 1918
-
-                          OXFORD POETRY, 1919
-
-                          OXFORD POETRY, 1917-1919,
-
-                          7s. 6d. net
-
-
-
-
-                             OXFORD POETRY
-                                 1920
-
-                               EDITED BY
-                     V. M. B., C. H. B. K., A. P.
-
-                                OXFORD
-                            BASIL BLACKWELL
-                                 1920
-
-
-     The following authors wish to make acknowledgment to the editors of
-     the publications mentioned for permission kindly given to reprint:
-     Mr. E. Blunden, _The Nation_ ("Forefathers"), _Voices_ ("Sheet
-     Lightning"); Miss V. M. Brittain, _The Oxford Chronicle_ ("Boar’s
-     Hill," and "The Lament of the Demobilized"); Mr. R. Campbell, _The
-     Oxford and Cambridge Miscellany_ ("Bongwi’s Theology"); Mr. L.
-     Golding, _Voices_ ("The Moon-Clock," "Cold Branch," "I Seek a Wild
-     Star"); Mr. A. Porter, _Voices_ ("Life and Luxury," "A Far
-     Country"); Mr. E. Rickword, _The London Mercury_ ("Intimacy"); Mr.
-     W. Force Stead, _The Poetry Review_; Mr. L. A. G. Strong, _Coterie_
-     ("A Devon Rhyme," "Christopher Marlye"), _The Oxford Chronicle_
-     ("From the Greek").
-
-
-
-
-CONTENTS
-
-
+_Uniform with this Volume_
+(_Out of Print_)
+The following authors wish to make acknowledgment to the editors of
+the publications mentioned for permission kindly given to reprint:
+Mr. E. Blunden, _The Nation_ ("Forefathers"), _Voices_ ("Sheet
+Lightning"); Miss V. M. Brittain, _The Oxford Chronicle_ ("Boar’s
+Hill," and "The Lament of the Demobilized"); Mr. R. Campbell, _The
+Oxford and Cambridge Miscellany_ ("Bongwi’s Theology"); Mr. L.
+Golding, _Voices_ ("The Moon-Clock," "Cold Branch," "I Seek a Wild
+Star"); Mr. A. Porter, _Voices_ ("Life and Luxury," "A Far
+Country"); Mr. E. Rickword, _The London Mercury_ ("Intimacy"); Mr.
+W. Force Stead, _The Poetry Review_; Mr. L. A. G. Strong, _Coterie_
+("A Devon Rhyme," "Christopher Marlye"), _The Oxford Chronicle_
+("From the Greek").
 EDMUND BLUNDEN (QUEEN’S)                                            PAGE
-  SHEET LIGHTNING                                                      1
-  FOREFATHERS                                                          3
-
-G. H. BONNER (MAGDALEN)
-  SONNET                                                               5
-
-VERA M. BRITTAIN (SOMERVILLE)
-  BOAR’S HILL, OCTOBER, 1919                                           6
-  THE LAMENT OF THE DEMOBILIZED                                        7
-  DAPHNE                                                               8
-
-G. A. FIELDING BUCKNALL (EXETER)
-  UNTO DUST                                                            9
-
-ROY CAMPBELL (MERTON)
-  THE PORPOISE                                                        10
-  BONGWI’S THEOLOGY                                                   11
-
-ERIC DICKINSON (EXETER)
-  THREE SONNETS                                                       12
-
+BOAR’S HILL, OCTOBER, 1919                                           6
+BONGWI’S THEOLOGY                                                   11
 LOUIS GOLDING (QUEEN’S)
-  THE MOON-CLOCK                                                      14
-  COLD BRANCH IN THE BLACK AIR                                        15
-  I SEEK A WILD STAR                                                  16
-
 ROBERT GRAVES (ST. JOHN’S)
-  MORNING PHŒNIX                                                      17
-
-L. P. HARTLEY (BALLIOL)
-  CANDLEMAS                                                           18
-
-B. HIGGINS (B.N.C.)
-  ONE SOLDIER                                                         21
-
-WINIFRED HOLTBY (SOMERVILLE)
-  THE DEAD MAN                                                        22
-
-R. W. HUGHES (ORIEL)
-  THE ROLLING SAINT                                                   23
-  THE SONG OF PROUD JAMES                                             25
-
 E. W. JACOT (QUEEN’S)
-  HERE’S A DAFFODIL                                                   26
-  NURSERY RHYMES                                                      26
-
-G. H. JOHNSTONE (MERTON)
-  SUMMER                                                              27
-"IPSE EGO ..."                                                        28
-
-C. H. B. KITCHIN (EXETER)
-  OPENING SCENE FROM "AMPHITRYON"                                     29
-
-V. DE S. PINTO (CHRIST CHURCH)
-  ART                                                                 38
-
+HERE’S A DAFFODIL                                                   26
 ALAN PORTER (QUEEN’S)
-  LIFE AND LUXURY                                                     39
-  A FAR COUNTRY                                                       44
-
-HILDA REID (SOMERVILLE)
-  THE MAGNANIMITY OF BEASTS                                           45
-
-EDGELL RICKWORD (PEMBROKE)
-  INTIMACY                                                            46
-  GRAVE JOYS                                                          47
-  ADVICE TO A GIRL FROM THE WARS                                      48
-  YEGOR                                                               49
-  STRANGE ELEMENTS                                                    50
-
 W. FORCE STEAD (QUEEN’S)
-  THE BURDEN OF BABYLON                                               51
-
-L. A. G. STRONG (WADHAM)
-  FROST                                                               55
-  VERA VENVSTAS                                                       55
-  A BABY                                                              56
-  FROM THE GREEK                                                      56
-  A DEVON RHYME                                                       56
-  THE BIRD MAN                                                        57
-  CHRISTOPHER MARLYE                                                  58
-
-
-
-
-_EDMUND BLUNDEN_
-
 (_QUEEN’S_)
-
-
-SHEET LIGHTNING
-
-    WHEN on the green the rag-tag game had stopt,
-    And red the lights through alehouse curtains glowed,
-    The clambering brake drove out and took the road.
-    Then on the stern moors all the babble dropt
-    Among those merry men, who felt the dew
-    Sweet to the soul and saw the southern blue
-    Thronged with heat lightning leagues and leagues abroad,
-    Working and whickering; snake-like; winged and clawed;
-    Or like old carp lazily rising and shouldering,
-    Long the slate cloud flank shook with the death-white smouldering;
-    Yet not a voice.
-
-                     The night drooped oven-hot;
-    Then where the turnpike pierced the black wood plot,
-    Tongues wagged again and each man felt the grim
-    Destiny of the hour speaking through him:
-    And then tales came of dwarfs on Starling Hill,
-    And those young swimmers drowned at the roller mill,
-    Where on the drowsiest noon the undertow
-    Famishing for life boiled like a pot below:
-    And how two higglers at the "Walnut Tree"
-    Had curst the Lord in thunderstorm and He
-    Had struck them into soot with lightning then--
-    It left the pitchers whole, it killed the men.
-    Many a lad and many a lass was named
-    Who once stept bold and proud--but death had tamed
-    Their revel on the eve of May: cut short
-    The primrosing and promise of good sport,
-    Shut up the score book, laid the ribbands by.
-
-    Such bodings mustered from the fevered sky;
-    But now the spring well through the honeycomb
-    Of scored stone rumbling tokened them near home,
-    The whip lash clacked, the jog-trot sharpened, all
-    Sang "Farmer’s Boy" as loud as they could bawl,
-    Till at the "Walnut Tree" the homeward brake
-    Stopt for hoarse ribaldry to brag and slake.
-
-    The weary wildfire faded from the dark
-    While this one damned the parson, that the clerk;
-    And anger’s balefire forked from the unbared blade
-    At word of notches missed or stakes not paid:
-    While Joe the driver stooped with oath to find
-    A young jack rabbit in the roadway, blind
-    Or dazzled by the lamps, as stiff as steel
-    With fear. Joe beat its brain out on the wheel.
-
-
-FOREFATHERS
-
-    HERE they went with smock and crook,
-      Toiled in the sun, lolled in the shade,
-    Here they mudded out the brook
-      And here their hatchet cleared the glade:
-    Harvest-supper woke their wit,
-    Huntsman’s moon their wooings lit.
-
-    From this church they led their brides;
-      From this church themselves were led
-    Shoulder-high; on these waysides
-      Sat to take their beer and bread:
-    Names are gone--what men they were
-    These their cottages declare.
-
-    Names are vanished, save the few
-      In the old brown Bible scrawled,
-    These were men of pith and thew,
-      Whom the city never called;
-    Scarce could read or hold a quill:
-    Built the barn, the forge, the mill.
-
-    On the green they watched their sons
-      Playing till too dark to see,
-    As their fathers watched them once,
-      As my father once watched me;
-    While the bat and beetle flew
-    On the warm air webbed with dew.
-
-    Unrecorded, unrenowned,
-      Men from whom my ways begin,
-    Here I know you by your ground,
-      But I know you not within--
-    All is mist, and there survives
-    Not one moment of your lives.
-
-    Like the bee that now is blown
-      Honey-heavy on my hand
-    From the toppling tansy-throne
-      In the green tempestuous land,--
-    I’m a-Maying now, nor know
-    Who made honey long ago.
-
-
-
-
-_G. H. BONNER_
-
-(_MAGDALEN_)
-
-
-SONNET
-
-    QUIETLY the old men die, in carven chairs
-    Nodding to silence by the extinguished hearth;
-    Their days are as a treasure nothing worth,
-    For all their joy is stolen by the years.
-    The striving and the fierce delights and fears
-    Of youth trouble them not; for them the earth
-    Is dead; in their cold hearts naught comes to birth
-    Save ghosts: they are too old even for tears.
-
-    As to the breast of some slow moving stream,
-    Close girt with sentinel trees on either side,
-    The sear leaves flutter down and silently
-    Glide onward on its dark November dream,
-    So peacefully upon the quiet tide
-    They steal out to the still moon-silvered sea.
-
-
-
-
-_VERA M. BRITTAIN_
-
-(_SOMERVILLE_)
-
-
+WHEN on the green the rag-tag game had stopt,
+And red the lights through alehouse curtains glowed,
+The clambering brake drove out and took the road.
+Then on the stern moors all the babble dropt
+Among those merry men, who felt the dew
+Sweet to the soul and saw the southern blue
+Thronged with heat lightning leagues and leagues abroad,
+Working and whickering; snake-like; winged and clawed;
+Or like old carp lazily rising and shouldering,
+Long the slate cloud flank shook with the death-white smouldering;
+Yet not a voice.
+The night drooped oven-hot;
+Then where the turnpike pierced the black wood plot,
+Tongues wagged again and each man felt the grim
+Destiny of the hour speaking through him:
+And then tales came of dwarfs on Starling Hill,
+And those young swimmers drowned at the roller mill,
+Where on the drowsiest noon the undertow
+Famishing for life boiled like a pot below:
+And how two higglers at the "Walnut Tree"
+Had curst the Lord in thunderstorm and He
+Had struck them into soot with lightning then--
+It left the pitchers whole, it killed the men.
+Many a lad and many a lass was named
+Who once stept bold and proud--but death had tamed
+Their revel on the eve of May: cut short
+The primrosing and promise of good sport,
+Shut up the score book, laid the ribbands by.
+Such bodings mustered from the fevered sky;
+But now the spring well through the honeycomb
+Of scored stone rumbling tokened them near home,
+The whip lash clacked, the jog-trot sharpened, all
+Sang "Farmer’s Boy" as loud as they could bawl,
+Till at the "Walnut Tree" the homeward brake
+Stopt for hoarse ribaldry to brag and slake.
+The weary wildfire faded from the dark
+While this one damned the parson, that the clerk;
+And anger’s balefire forked from the unbared blade
+At word of notches missed or stakes not paid:
+While Joe the driver stooped with oath to find
+A young jack rabbit in the roadway, blind
+Or dazzled by the lamps, as stiff as steel
+With fear. Joe beat its brain out on the wheel.
+HERE they went with smock and crook,
+Toiled in the sun, lolled in the shade,
+Here they mudded out the brook
+And here their hatchet cleared the glade:
+Harvest-supper woke their wit,
+Huntsman’s moon their wooings lit.
+From this church they led their brides;
+From this church themselves were led
+Shoulder-high; on these waysides
+Sat to take their beer and bread:
+Names are gone--what men they were
+These their cottages declare.
+Names are vanished, save the few
+In the old brown Bible scrawled,
+These were men of pith and thew,
+Whom the city never called;
+Scarce could read or hold a quill:
+Built the barn, the forge, the mill.
+On the green they watched their sons
+Playing till too dark to see,
+As their fathers watched them once,
+As my father once watched me;
+While the bat and beetle flew
+On the warm air webbed with dew.
+Unrecorded, unrenowned,
+Men from whom my ways begin,
+Here I know you by your ground,
+But I know you not within--
+All is mist, and there survives
+Not one moment of your lives.
+Like the bee that now is blown
+Honey-heavy on my hand
+From the toppling tansy-throne
+In the green tempestuous land,--
+I’m a-Maying now, nor know
+Who made honey long ago.
+QUIETLY the old men die, in carven chairs
+Nodding to silence by the extinguished hearth;
+Their days are as a treasure nothing worth,
+For all their joy is stolen by the years.
+The striving and the fierce delights and fears
+Of youth trouble them not; for them the earth
+Is dead; in their cold hearts naught comes to birth
+Save ghosts: they are too old even for tears.
+As to the breast of some slow moving stream,
+Close girt with sentinel trees on either side,
+The sear leaves flutter down and silently
+Glide onward on its dark November dream,
+So peacefully upon the quiet tide
+They steal out to the still moon-silvered sea.
 BOAR’S HILL, OCTOBER, 1919
-
-    TALL slender beech-trees, whispering, touched with fire,
-    Swaying at even beneath a desolate sky;
-    Smouldering embers aflame where the clouds hurry by
-    To the wind’s desire.
-
-    Dark sombre woodlands, rain-drenched by the scattering shower,
-    Spindle that quivers and drops its dim berries to earth--
-    Mourning, perhaps, as I mourn here alone for the dearth
-    Of a happier hour.
-
-    Can you still see them, who always delighted to roam
-    Over the Hill where so often together we trod
-    When winds of wild autumn strewed summer’s dead leaves on the sod,
-    Ere your steps turned home?
-
-
-THE LAMENT OF THE DEMOBILIZED
-
-    "FOUR years," some say consolingly. "Oh well,
-    What’s that? You’re young. And then it must have been
-    A very fine experience for you!"
-    And they forget
-    How others stayed behind, and just got on--
-    Got on the better since we were away.
-    And we came home and found
-    They had achieved, and men revered their names,
-    But never mentioned ours;
-    And no one talked heroics now, and we
-    Must just go back, and start again once more.
-    "You threw four years into the melting-pot--
-    Did you indeed!" these others cry. "Oh well,
-    The more fool you!"
-    And we’re beginning to agree with them.
-
-
-DAPHNE
-
-    SUNRISE and spring, and the river agleam in the morning,
-    Life at its freshest, like flowers in the dawn-dew of May,
-    Hope, and Love’s dreams the dim hills of the future adorning,
-    Youth of the world, just awake to the glory of day--
-
-    Is she not part of them, golden and fair and undaunted,
-    Glad with the triumph of runners ahead in the race,
-    Free as a child by no shadows or memories haunted,
-    Challenging Death to his solemn and pitiful face?
-
-    Sunset and dusk, and the stars of a mellow September,
-    Sombre grey shadows, like Sleep stealing over the grass,
-    Autumn leaves blown through the chill empty lanes of November,
-    Sorrow enduring, though Youth with its rhapsodies pass--
-
-    Are they not part of her, sweet with unconscious compassion,
-    Ready to shoulder our burden of life with a jest,
-    Will she not make them her own in her light-hearted fashion,
-    Sadder than we in her song, in her laughter more blest?
-
-
-
-
-_G. A. FIELDING BUCKNALL_
-
-(_EXETER_)
-
-
-UNTO DUST
-
-    NOT with a crown of thorns about his head
-    But with a single rose in his white hand,
-    Fairer than Death herself, he joins the dead,
-    He that could laugh at life, yet understand.
-    No veils are rent in twain, or unknown fears
-    Fall on the crowd who crucify my lord;
-    Lay him to rest, while poetry and tears
-    Be the last gifts his mourning friends accord.
-    Cast not white flowers on one who loved but red,
-    Leave him the dust who found in dust the praise
-    Only of life, and, now that he is dead
-    Surely in death is fair a thousand ways.
-    Leave him in peace, a poem to the end--
-    He was the man I loved: I was his friend.
-
-
-
-
-_ROY CAMPBELL_
-
-(_MERTON_)
-
-
-THE PORPOISE
-
-    THE ocean-cleaving porpoise goes
-    Thrashing the waves with fins of gold,
-    Butting the waves with brows of steel,
-    From palm-fringed archipelagos
-    To coasts of coral, where the bold
-    Cannibal drives a pointed keel.
-
-    And round and round the world he runs,
-    A golden rocket trailing fire,
-    Out-distancing the moon and stars,
-    Leaving the pale abortive suns
-    To paint their dreams of dead desire
-    On faint horizons. Nothing mars
-
-    His constant course, though storms may rend
-    The charging waves from strand to strand,
-    Though Love may wait with fingers curled
-    To clutch him at the current’s bend,
-    Though Death may dart an eager hand
-    To drag him underneath the world!
-
-    Still threading depths of pearl and rose,
-    Derisive, gay, and overbold,
-    Who will not hear, who will not feel,
-    The ocean-cleaving porpoise goes,
-    Thrashing the waves with fins of gold,
-    Butting the waves with brows of steel!
-
-
+TALL slender beech-trees, whispering, touched with fire,
+Swaying at even beneath a desolate sky;
+Smouldering embers aflame where the clouds hurry by
+To the wind’s desire.
+Dark sombre woodlands, rain-drenched by the scattering shower,
+Spindle that quivers and drops its dim berries to earth--
+Mourning, perhaps, as I mourn here alone for the dearth
+Of a happier hour.
+Can you still see them, who always delighted to roam
+Over the Hill where so often together we trod
+When winds of wild autumn strewed summer’s dead leaves on the sod,
+Ere your steps turned home?
+"FOUR years," some say consolingly. "Oh well,
+What’s that? You’re young. And then it must have been
+A very fine experience for you!"
+And they forget
+How others stayed behind, and just got on--
+Got on the better since we were away.
+And we came home and found
+They had achieved, and men revered their names,
+But never mentioned ours;
+And no one talked heroics now, and we
+Must just go back, and start again once more.
+"You threw four years into the melting-pot--
+Did you indeed!" these others cry. "Oh well,
+The more fool you!"
+And we’re beginning to agree with them.
+SUNRISE and spring, and the river agleam in the morning,
+Life at its freshest, like flowers in the dawn-dew of May,
+Hope, and Love’s dreams the dim hills of the future adorning,
+Youth of the world, just awake to the glory of day--
+Is she not part of them, golden and fair and undaunted,
+Glad with the triumph of runners ahead in the race,
+Free as a child by no shadows or memories haunted,
+Challenging Death to his solemn and pitiful face?
+Sunset and dusk, and the stars of a mellow September,
+Sombre grey shadows, like Sleep stealing over the grass,
+Autumn leaves blown through the chill empty lanes of November,
+Sorrow enduring, though Youth with its rhapsodies pass--
+Are they not part of her, sweet with unconscious compassion,
+Ready to shoulder our burden of life with a jest,
+Will she not make them her own in her light-hearted fashion,
+Sadder than we in her song, in her laughter more blest?
+NOT with a crown of thorns about his head
+But with a single rose in his white hand,
+Fairer than Death herself, he joins the dead,
+He that could laugh at life, yet understand.
+No veils are rent in twain, or unknown fears
+Fall on the crowd who crucify my lord;
+Lay him to rest, while poetry and tears
+Be the last gifts his mourning friends accord.
+Cast not white flowers on one who loved but red,
+Leave him the dust who found in dust the praise
+Only of life, and, now that he is dead
+Surely in death is fair a thousand ways.
+Leave him in peace, a poem to the end--
+He was the man I loved: I was his friend.
+THE ocean-cleaving porpoise goes
+Thrashing the waves with fins of gold,
+Butting the waves with brows of steel,
+From palm-fringed archipelagos
+To coasts of coral, where the bold
+Cannibal drives a pointed keel.
+And round and round the world he runs,
+A golden rocket trailing fire,
+Out-distancing the moon and stars,
+Leaving the pale abortive suns
+To paint their dreams of dead desire
+On faint horizons. Nothing mars
+His constant course, though storms may rend
+The charging waves from strand to strand,
+Though Love may wait with fingers curled
+To clutch him at the current’s bend,
+Though Death may dart an eager hand
+To drag him underneath the world!
+Still threading depths of pearl and rose,
+Derisive, gay, and overbold,
+Who will not hear, who will not feel,
+The ocean-cleaving porpoise goes,
+Thrashing the waves with fins of gold,
+Butting the waves with brows of steel!
 BONGWI’S THEOLOGY
-
-    THIS is the wisdom of the ape
-    Who yelps beneath the moon--
-    ’Tis God who made me in his shape;
-    He is a great baboon.
-    ’Tis he who tilts the moon askew
-    And fans the forest trees:
-    The Heavens, which are broad and blue,
-    Provide him his trapeze.
-    He swings with tail divinely bent
-    Around those azure bars,
-    And munches, to his soul’s content,
-    The kernels of the stars.
-    And when I die, his loving care
-    Shall raise me from the sod,
-    To learn the perfect Mischief there,
-    The Nimbleness of God!
-
-
-
-
-_ERIC DICKINSON_
-
-(_EXETER_)
-
-
-THREE SONNETS
-
-  FOR RANDOLPH HUGHES
-
-
-I
-
-    SUCH beauty is the magic of old kings
-    Who webbed enchantments on the bowls of night,
-    Who stole the ocean-coral for their rings,
-    And samite-curls of mermaids for their light;
-    Who sent their envoys from the courts of Kand,
-    To find the blue-flowered crown of ecstasy
-    That grows beneath a Titan’s quiet hand.
-    The beauty that is yours is grown to me
-    More fine than furthest snows in golden Ind,
-    More fair indeed than doves, who draw the cars
-    Of purpurate belief in monarch’s mind,
-    With benediction of the ultimate stars.
-        Because of all this knowledge born of you,
-        Raise up my faith in stone, and keep men true.
-
-
-II
-
-    ALWAYS your eyes, your hair, your cheek, your voice,
-    Impel the wish I had a magic art;
-    Your beauty’s kind can perfectly rejoice
-    With delicate music all a poet’s heart,
-    As voice of summer over hills of joy.
-    Oh, you are utterly of beauty’s dance,
-    Such kind of rhythmic beauty they employ,
-    Where Pheidias shakes the Parthenon with prance
-    Of his proud steeds, and prouder youths show us
-    The glory of a fair Athenian day.
-    Your beauty lived before tumultuous
-    Chattering knaves sped time and faith away,
-        Before the chime for Babylon was rung,
-        Or from the cross men found the stars were hung!
-
-
-III
-
-    My love of most complete and dearest worth,
-    Has ever breath of years, one day all spent,
-    Mingled with thought of present smiling earth?
-    Have you bethought you how so soon is sent
-    To this poor passionate heart the Worm of Death
-    With twined and intimate corrupt caress?
-    Have you bethought you, how that your dear breath,
-    Bathing the rose upon your mouth, shall press
-    One day no more betwixt its petalled home?
-    How all exceeding beauties exquisite
-    Of limbs, of eyes, of hair, of cheek, shall come
-    One day perhaps within that open night,
-        Where sheep go plaintive on a lone highway,
-        And ecstasy of love is far away?
-
-
-
-
-_LOUIS GOLDING_
-
+THIS is the wisdom of the ape
+Who yelps beneath the moon--
+’Tis God who made me in his shape;
+He is a great baboon.
+’Tis he who tilts the moon askew
+And fans the forest trees:
+The Heavens, which are broad and blue,
+Provide him his trapeze.
+He swings with tail divinely bent
+Around those azure bars,
+And munches, to his soul’s content,
+The kernels of the stars.
+And when I die, his loving care
+Shall raise me from the sod,
+To learn the perfect Mischief there,
+The Nimbleness of God!
+SUCH beauty is the magic of old kings
+Who webbed enchantments on the bowls of night,
+Who stole the ocean-coral for their rings,
+And samite-curls of mermaids for their light;
+Who sent their envoys from the courts of Kand,
+To find the blue-flowered crown of ecstasy
+That grows beneath a Titan’s quiet hand.
+The beauty that is yours is grown to me
+More fine than furthest snows in golden Ind,
+More fair indeed than doves, who draw the cars
+Of purpurate belief in monarch’s mind,
+With benediction of the ultimate stars.
+Because of all this knowledge born of you,
+Raise up my faith in stone, and keep men true.
+ALWAYS your eyes, your hair, your cheek, your voice,
+Impel the wish I had a magic art;
+Your beauty’s kind can perfectly rejoice
+With delicate music all a poet’s heart,
+As voice of summer over hills of joy.
+Oh, you are utterly of beauty’s dance,
+Such kind of rhythmic beauty they employ,
+Where Pheidias shakes the Parthenon with prance
+Of his proud steeds, and prouder youths show us
+The glory of a fair Athenian day.
+Your beauty lived before tumultuous
+Chattering knaves sped time and faith away,
+Before the chime for Babylon was rung,
+Or from the cross men found the stars were hung!
+My love of most complete and dearest worth,
+Has ever breath of years, one day all spent,
+Mingled with thought of present smiling earth?
+Have you bethought you how so soon is sent
+To this poor passionate heart the Worm of Death
+With twined and intimate corrupt caress?
+Have you bethought you, how that your dear breath,
+Bathing the rose upon your mouth, shall press
+One day no more betwixt its petalled home?
+How all exceeding beauties exquisite
+Of limbs, of eyes, of hair, of cheek, shall come
+One day perhaps within that open night,
+Where sheep go plaintive on a lone highway,
+And ecstasy of love is far away?
 (_QUEEN’S_)
-
-
-THE MOON-CLOCK
-
-    TICK-TOCK! the moon, that pale round clock,
-    Her big face peering, goes tick-tock!
-
-    Metallic as a grasshopper
-    The far faint tickings start and stir.
-
-    All night tinily you can hear
-    Tick-tock tinkling down the sheer
-
-    Steep falls of space. Minute, aloof,
-    Here is no praise, here no reproof.
-
-    Remote in voids star-purged of sense,
-    Tick-tock in stark indifference!
-
-    From ice-black lands of lack and rock,
-    The two swords shake and clank tick-tock.
-
-    In the dark din of the day’s vault
-    Demand thy headlong soul shall halt
-
-    One moment. Hearken, taut and tense,
-    In the vast Silence beyond sense,
-
-    The moon! From the hushed heart of her,
-    Metallic as a grasshopper,
-
-    Patient though earth may writhe and rock,
-    Imperturbably, tock, tick-tock!
-
-    Till, boastful earth, your forests wilt
-    In grotesque death. Till death shall silt,
-
-    Loud-blooded man, her unchecked sands
-    From feet and warped expiring hands
-
-    Through fatuous channels of the thinned
-    Brain. Till all the clangours which have dinned
-
-    Through your arched ears are only this,
-    Tick-tock down blank eternities,
-
-    Where still the sallow death’s-head ticks
-    As stars burn down like candle-wicks.
-
-
-COLD BRANCH IN THE BLACK AIR
-
-    WHO taps? You are not the wind tapping?
-              _No! Not the wind!_
-    You straining and moaning there,
-    Are you a cold branch in the black air
-          Which the storm has skinned?
-            _No! Not a cold branch!
-              Not the wind!_
-
-    Who are you? Who are you?
-                              _But you loved me once,
-          You drank me like wine.
-    The dead wood simmers in my skull. I am rotten.
-    And your blood is red still and you have forgotten,
-          And my blood was yours once and yours mine!_
-
-    Are you there still? O fainter, O further ... nothing!
-          Nothing taps!
-    Surely you straining and moaning there,
-    You were only a cold branch in the black air?
+TICK-TOCK! the moon, that pale round clock,
+Her big face peering, goes tick-tock!
+Metallic as a grasshopper
+The far faint tickings start and stir.
+All night tinily you can hear
+Tick-tock tinkling down the sheer
+Steep falls of space. Minute, aloof,
+Here is no praise, here no reproof.
+Remote in voids star-purged of sense,
+Tick-tock in stark indifference!
+From ice-black lands of lack and rock,
+The two swords shake and clank tick-tock.
+In the dark din of the day’s vault
+Demand thy headlong soul shall halt
+One moment. Hearken, taut and tense,
+In the vast Silence beyond sense,
+The moon! From the hushed heart of her,
+Metallic as a grasshopper,
+Patient though earth may writhe and rock,
+Imperturbably, tock, tick-tock!
+Till, boastful earth, your forests wilt
+In grotesque death. Till death shall silt,
+Loud-blooded man, her unchecked sands
+From feet and warped expiring hands
+Through fatuous channels of the thinned
+Brain. Till all the clangours which have dinned
+Through your arched ears are only this,
+Tick-tock down blank eternities,
+Where still the sallow death’s-head ticks
+As stars burn down like candle-wicks.
+WHO taps? You are not the wind tapping?
+_No! Not the wind!_
+You straining and moaning there,
+Are you a cold branch in the black air
+Which the storm has skinned?
+_No! Not a cold branch!
+Not the wind!_
+Who are you? Who are you?
+_But you loved me once,
+You drank me like wine.
+The dead wood simmers in my skull. I am rotten.
+And your blood is red still and you have forgotten,
+And my blood was yours once and yours mine!_
+Are you there still? O fainter, O further ... nothing!
+Nothing taps!
+Surely you straining and moaning there,
+You were only a cold branch in the black air?
 ... Or a door perhaps?
-
-
-I SEEK A WILD STAR
-
-    WHAT seek you in this hoarse hard sand
-    That shuffles from your futile hand?
-    Your limbs are wry. With salt despair
-    All day the scant winds freeze your hair.
-    What mystery in the barren sand
-    Seek you to understand?
-
-        _All day the acute winds' finger-tips
-        Flay my skin and cleave my lips.
-        But though like fame about my skull
-        Leap the gibes of the cynic gull,
-        I shall not go from this place. I
-        Seek through all curved vacancy
-        Though the sea taunt me and frost scar,
-        I seek a star, a star!_
-
-    Why seek you this, why seek you this
-    Of all distraught futilities?
-    The tide slides closer. The tide’s teeth
-    Shall bite your body with keen death!
-    Of all unspaced things that are
-    Vain, vain, most hideously far,
-    Why seek you then a star?
-
-        _I seek a wild star, I that am
-        Eaten by earth and all her shame;
-        To whom fields, towns are a close clot
-        Of mud whence the worm dieth not;
-        To whom all running water is
-        Besnagged with timeless treacheries,
-        Who in a babe’s heart see designed
-        Mine own distortion and the blind
-        Lusts of all my kind!
-        Hence of all things that are
-        Vain, most hideously far,
-        A star, I seek, a star!_
-
-
-
-
-_ROBERT GRAVES_
-
+WHAT seek you in this hoarse hard sand
+That shuffles from your futile hand?
+Your limbs are wry. With salt despair
+All day the scant winds freeze your hair.
+What mystery in the barren sand
+Seek you to understand?
+_All day the acute winds' finger-tips
+Flay my skin and cleave my lips.
+But though like fame about my skull
+Leap the gibes of the cynic gull,
+I shall not go from this place. I
+Seek through all curved vacancy
+Though the sea taunt me and frost scar,
+I seek a star, a star!_
+Why seek you this, why seek you this
+Of all distraught futilities?
+The tide slides closer. The tide’s teeth
+Shall bite your body with keen death!
+Of all unspaced things that are
+Vain, vain, most hideously far,
+Why seek you then a star?
+_I seek a wild star, I that am
+Eaten by earth and all her shame;
+To whom fields, towns are a close clot
+Of mud whence the worm dieth not;
+To whom all running water is
+Besnagged with timeless treacheries,
+Who in a babe’s heart see designed
+Mine own distortion and the blind
+Lusts of all my kind!
+Hence of all things that are
+Vain, most hideously far,
+A star, I seek, a star!_
 (_ST. JOHN’S_)
-
-
-MORNING PHŒNIX
-
-    IN my body lives a flame,
-    Flame that burns me all the day,
-    When a fierce sun does the same,
-    I am charred away.
-
-    Who could keep a smiling wit,
-    Roasted so in heart and hide,
-    Turning on the sun’s red spit,
-    Scorched by love inside?
-
-    Caves I long for and cold rocks,
-    Minnow-peopled country brooks,
-    Blundering gales of Equinox,
-    Sunless valley-nooks.
-
-    Daily so I might restore
-    Calcined heart and shrivelled skin,
-    A morning phœnix with proud roar
-    Kindled new within.
-
-
-
-
-_L. P. HARTLEY_
-
-(_BALLIOL_)
-
-
-CANDLEMAS
-
-    THE conversation waned and waxed,
-      _I_ was there: _you_ were there:
-    Doubtless a few were overtaxed,
-      Talking was more than they could bear.
-
-    The aura of each candle-flame
-      Excited me, excited you;
-    I felt you in each diadem,
-      Now in the yellow, now the blue.
-
-    The conversation waxed and waned:
-      Question, reply; question, reply:
-    We, for our intercourse, disdained
-      Such palpable machinery.
-
-    Columnar in transparent gloom,
-      Symbolical, inviolate,
-    Those candles held the spell of some
-      Campanile or minaret,
-
-    Which still takes in, as it exhales,
-      The mood of joy or orison;
-    With hoarded ceremonials
-      Enfranchising communion--
-
-    Till every spoken word or thought,
-      However alien and profane,
-    Becomes the medium and resort
-      Where spirits spirits entertain;
-
-    So, idle talk’s quintessences
-      Gleamed in the candles' radiance
-    With gathered stores of unproved bliss:
-      The multiplied inheritance
-
-    Of each succeeding moment.... More
-      Perfect in form the flames appeared;
-    Their arduous strivings overbore
-      Slight wayward wisps that swayed and veered.
-
-    They changed their contours, one and all,
-      Carefully, persistently,
-    With efforts economical
-      That had their will of you and me,--
-
-    For we somehow were party to
-      The issue of their enterprise;
-    Confounded in their overthrow,
-      Triumphant in their victories.
-
-    The alternation of each flame
-    --Thinning here--swelling there--
-    Compell’d our souls into the same
-    Compass,--ampler or narrower.
-
-    We knew that when those luminous spires
-      Hung upwards, pacified, and tranc’d,
-    Pois’d betwixt all and no desires,
-      Beyond their accidents advanc’d,--
-
-    We, their adepts, might acquiesce:
-      The promised consummation
-    Would drown our wills in its excess,
-      And mingle both our souls in one.
-
-    When suddenly a permanence,
-    --A flutter of wings before rest--
-    Drew down to those flame-forms: our sense
-      Was steeped in it, folded, caress’d....
-
-    A casual devastating gust
-      (The jolt, the sickening recoil!)
-    Our universe in chaos thrust;
-      And, not content to spoil
-
-    Our husbanded endeavour, threw
-      A mocking, flickering light,
-    Devour’d by shadows, on us two:
-      The talk became more bright.
-
-    We entered into it with zest;
-      Question, reply; question, reply:
-    And lookers-on were much impressed
-      By our inane garrulity.
-
-
-
-
-_B. HIGGINS_
-
-(_B.N.C._)
-
-
-ONE SOLDIER
-
-TO GEORGE WRIGHT
-
-    HEAP the earth upon this head.
-    Nature, like a wistful child,
-    Clings unto the clay she fed,
-    Shatters it--unreconciled
-    Moans the ashes of her dead.
-    Heap the earth upon this head.
-
-    Chanter of the lonely tombs,
-    Lift him to thy harmony--
-    Moulded in the million wombs
-    That breed the soul’s nobility!...
-    Such the man that perished?
-    Heap the earth upon this head.
-
-    Our masters brood and preach and plot,
-    And mourn in monuments, not tears,
-    The man the centuries forgot
-    Who builded up the mighty years!
-    Faded are the fights they led,
-    Piteous the blood they shed.
-    Heap the earth upon this head.
-
-    Heap, heap the earth upon this head,
-    Brother he was to you, to me--
-    Lived, lusted, joyed and wept.... _They_ spent
-    Their verbal earnings, and he went
-    And fought for human liberty,
-    And died. And politics were free.
-
-    Raise, raise memorials to our Dead....
-    But heap the earth upon this head.
-    Oh! heap the earth upon this head.
-
-
-
-
-_WINIFRED HOLTBY_
-
-(_SOMERVILLE_)
-
-
-THE DEAD MAN
-
-    I see men walk wild ways with love,
-      Along the wind their laughter blown
-    Strikes up against the singing stars;
-      But I lie all alone.
-    When love has stricken laughter dead
-      And tears their silly hearts in twain,
-    They long for easeful death, but I
-      Am hungry for their pain.
-
-
-
-
-_R. W. HUGHES_
-
-(_ORIEL_)
-
-
-THE ROLLING SAINT
-
-    UNDER the crags of Teiriwch,
-    The door-sills of the Sun,
-    Where God has left the bony earth
-    Just as it was begun;
-    Where clouds sail past like argosies
-    Breasting the crested hills,
-    With mainsail and foretop-sail
-    That the thin breeze fills;
-    With ballast of round thunder,
-    And anchored with the rain;
-    With a long shadow sounding
-    The deep, far plain:
-    Where rocks are broken playthings
-    By petulant gods hurled,
-    And Heaven sits a-straddle
-    On the roof-ridge of the World.
-    --Under the crags of Teiriwch
-    Is a round pile of stones:
-    Large stones, small stones,
-    --White as old bones;
-    Some from high places,
-    Or from the lake’s shore;
-    And every man that passes
-    Adds one more:
-    The years it has been growing
-    Verge on a hundred score.
-
-    For in the cave of Teiriwch
-    That scarce holds a sheep,
-    Where plovers and rock-conies
-    And wild things sleep,
-    A woman lived for ninety years
-    On bilberries and moss
-    And lizards, and small creeping things,
-    And carved herself a cross:
-    But wild hill robbers
-    Found the ancient saint
-    And dragged her to the sunlight,
-    Making no complaint:
-    Too old was she for weeping,
-    Too shrivelled, and too dry:
-    She crouched and mumle-mumled
-    And mumled to the sky.
-    No breath had she for wailing,
-    Her cheeks were paper-thin:
-    She was, for all her holiness
-    As ugly as sin.
-    They cramped her in a barrel
-    --All but her bobbing head.
-    --And rolled her down from Teiriwch
-    Until she was dead:
-    They took her out, and buried her
-    --Just broken bits of bone
-    And rags and skin: and over her
-    Set one small stone:
-    But if you pass her sepulchre
-    And add not one thereto
-    The ghost of that old murdered Saint
-    Will roll in front of you
-    The whole night through.
-
-    The clouds sail past in argosies
-    And cold drips the rain:
-    The whole world is far and high
-    Above the tilted plain.
-    The silent mist floats eerily,
-    And I am here alone:
-    _Dare I pass the place by,
-    And cast not a stone?_
-
-
-THE SONG OF PROUD JAMES
-
-(FROM "THE ENGLISHMAN.")
-
-    "If kith and kin disowned you,
-      And all your friends were dead?"
-    --I’d buy a spotted handkerchief
-      To flaunt upon my head:
-    I’d resurrect my maddest clothes,
-      And gaily would I laugh,
-    And climb the proud hills scornfully
-      With swinging cherry staff.
-
-    "But when you’d crossed the sky-line,
-      And knew you were alone?"
-    --I’d cast away the hollow sham,
-      I’d kick the ground, and groan,
-    And tear my coloured handkerchief
-      And snap my staff; and then
-    I’d curse the God that built me up
-      To break me down again.
-
-
-
-
-_E. W. JACOT_
-
+IN my body lives a flame,
+Flame that burns me all the day,
+When a fierce sun does the same,
+I am charred away.
+Who could keep a smiling wit,
+Roasted so in heart and hide,
+Turning on the sun’s red spit,
+Scorched by love inside?
+Caves I long for and cold rocks,
+Minnow-peopled country brooks,
+Blundering gales of Equinox,
+Sunless valley-nooks.
+Daily so I might restore
+Calcined heart and shrivelled skin,
+A morning phœnix with proud roar
+Kindled new within.
+THE conversation waned and waxed,
+_I_ was there: _you_ were there:
+Doubtless a few were overtaxed,
+Talking was more than they could bear.
+The aura of each candle-flame
+Excited me, excited you;
+I felt you in each diadem,
+Now in the yellow, now the blue.
+The conversation waxed and waned:
+Question, reply; question, reply:
+We, for our intercourse, disdained
+Such palpable machinery.
+Columnar in transparent gloom,
+Symbolical, inviolate,
+Those candles held the spell of some
+Campanile or minaret,
+Which still takes in, as it exhales,
+The mood of joy or orison;
+With hoarded ceremonials
+Enfranchising communion--
+Till every spoken word or thought,
+However alien and profane,
+Becomes the medium and resort
+Where spirits spirits entertain;
+So, idle talk’s quintessences
+Gleamed in the candles' radiance
+With gathered stores of unproved bliss:
+The multiplied inheritance
+Of each succeeding moment.... More
+Perfect in form the flames appeared;
+Their arduous strivings overbore
+Slight wayward wisps that swayed and veered.
+They changed their contours, one and all,
+Carefully, persistently,
+With efforts economical
+That had their will of you and me,--
+For we somehow were party to
+The issue of their enterprise;
+Confounded in their overthrow,
+Triumphant in their victories.
+The alternation of each flame
+--Thinning here--swelling there--
+Compell’d our souls into the same
+Compass,--ampler or narrower.
+We knew that when those luminous spires
+Hung upwards, pacified, and tranc’d,
+Pois’d betwixt all and no desires,
+Beyond their accidents advanc’d,--
+We, their adepts, might acquiesce:
+The promised consummation
+Would drown our wills in its excess,
+And mingle both our souls in one.
+When suddenly a permanence,
+--A flutter of wings before rest--
+Drew down to those flame-forms: our sense
+Was steeped in it, folded, caress’d....
+A casual devastating gust
+(The jolt, the sickening recoil!)
+Our universe in chaos thrust;
+And, not content to spoil
+Our husbanded endeavour, threw
+A mocking, flickering light,
+Devour’d by shadows, on us two:
+The talk became more bright.
+We entered into it with zest;
+Question, reply; question, reply:
+And lookers-on were much impressed
+By our inane garrulity.
+HEAP the earth upon this head.
+Nature, like a wistful child,
+Clings unto the clay she fed,
+Shatters it--unreconciled
+Moans the ashes of her dead.
+Heap the earth upon this head.
+Chanter of the lonely tombs,
+Lift him to thy harmony--
+Moulded in the million wombs
+That breed the soul’s nobility!...
+Such the man that perished?
+Heap the earth upon this head.
+Our masters brood and preach and plot,
+And mourn in monuments, not tears,
+The man the centuries forgot
+Who builded up the mighty years!
+Faded are the fights they led,
+Piteous the blood they shed.
+Heap the earth upon this head.
+Heap, heap the earth upon this head,
+Brother he was to you, to me--
+Lived, lusted, joyed and wept.... _They_ spent
+Their verbal earnings, and he went
+And fought for human liberty,
+And died. And politics were free.
+Raise, raise memorials to our Dead....
+But heap the earth upon this head.
+Oh! heap the earth upon this head.
+I see men walk wild ways with love,
+Along the wind their laughter blown
+Strikes up against the singing stars;
+But I lie all alone.
+When love has stricken laughter dead
+And tears their silly hearts in twain,
+They long for easeful death, but I
+Am hungry for their pain.
+UNDER the crags of Teiriwch,
+The door-sills of the Sun,
+Where God has left the bony earth
+Just as it was begun;
+Where clouds sail past like argosies
+Breasting the crested hills,
+With mainsail and foretop-sail
+That the thin breeze fills;
+With ballast of round thunder,
+And anchored with the rain;
+With a long shadow sounding
+The deep, far plain:
+Where rocks are broken playthings
+By petulant gods hurled,
+And Heaven sits a-straddle
+On the roof-ridge of the World.
+--Under the crags of Teiriwch
+Is a round pile of stones:
+Large stones, small stones,
+--White as old bones;
+Some from high places,
+Or from the lake’s shore;
+And every man that passes
+Adds one more:
+The years it has been growing
+Verge on a hundred score.
+For in the cave of Teiriwch
+That scarce holds a sheep,
+Where plovers and rock-conies
+And wild things sleep,
+A woman lived for ninety years
+On bilberries and moss
+And lizards, and small creeping things,
+And carved herself a cross:
+But wild hill robbers
+Found the ancient saint
+And dragged her to the sunlight,
+Making no complaint:
+Too old was she for weeping,
+Too shrivelled, and too dry:
+She crouched and mumle-mumled
+And mumled to the sky.
+No breath had she for wailing,
+Her cheeks were paper-thin:
+She was, for all her holiness
+As ugly as sin.
+They cramped her in a barrel
+--All but her bobbing head.
+--And rolled her down from Teiriwch
+Until she was dead:
+They took her out, and buried her
+--Just broken bits of bone
+And rags and skin: and over her
+Set one small stone:
+But if you pass her sepulchre
+And add not one thereto
+The ghost of that old murdered Saint
+Will roll in front of you
+The whole night through.
+The clouds sail past in argosies
+And cold drips the rain:
+The whole world is far and high
+Above the tilted plain.
+The silent mist floats eerily,
+And I am here alone:
+_Dare I pass the place by,
+And cast not a stone?_
+"If kith and kin disowned you,
+And all your friends were dead?"
+--I’d buy a spotted handkerchief
+To flaunt upon my head:
+I’d resurrect my maddest clothes,
+And gaily would I laugh,
+And climb the proud hills scornfully
+With swinging cherry staff.
+"But when you’d crossed the sky-line,
+And knew you were alone?"
+--I’d cast away the hollow sham,
+I’d kick the ground, and groan,
+And tear my coloured handkerchief
+And snap my staff; and then
+I’d curse the God that built me up
+To break me down again.
 (_QUEEN’S_)
-
-
 HERE’S A DAFFODIL
-
-    HERE’S a daffodil
-    Nodding to the hill,
-    Tipsy in the sunlight
-    Drinking his fill.
-
-    Here’s a violet
-    Pearled in dew as yet,
-    Smiling in the wood shade,
-    Sweet coquette!
-
-NURSERY RHYMES
-
-
-I
-
-      QUEEN Anne is dead
-              ’Tis often said,
-      For my part I agree.
-    But she lived full ten score years ago
-              And so
-      She ought to be.
-
-
-II
-
-      There was a scholar
-          Of Oxford Town.
-    He read till his wits were blunt.
-          He put his gown
-          On upside down,
-          And his cap
-          On back to front.
-
-
-
-
-_G. H. JOHNSTONE_
-
-(_MERTON_)
-
-
-SUMMER
-
-    FULL of unearthly peace lies river-water,
-    Glaucous and here and there with irised circles:
-    Now subdued melody rises from the wreaths
-    Of whirling flies, their mazy conflict driving
-    To melancholy lamp-images in the pool:
-    An unseen fish greyly breeds lubric rounds
-    Up-reaching to the thrill of populous air:
-    O hour supreme for poised and halting thought!
-    Down colonnade on colonnade of rose
-    The immense Symbols move augustly on;
-    Mystery, her stony eyes revealed a little,
-    Not cumbered longer by the veils of noise:
-    Evening, a lithe and virginal dream-figure,
-    Wavering between a green cloak and a blue,
-    And, robed at length, turning with exquisite
-    And old despair towards the gate of Dawn:
-    And Fate, bemused awhile and half withdrawn,
-    Charmed to short rest between grim Day and Night.
-
-
-"IPSE EGO ..."
-
-    MARSILIO sighed: and drew a rough discord
-    From his guitar, and sang so to us listeners:
-    "I too have mounted every step of ice
-    And dragged my bleeding ankles, hope-enthralled,
-    To Heaven’s blessed door; when instantly
-    From side-nooks rising tripped the outer angels,
-    In thin, light-hammered armour, giggling boys,
-    But muscular, and with concerted charge
-    Seized my poor feet, and flung me laughing, laughing,
-    Laughing, down, down among the insect men
-    Who look up never, antwise busy--crawling:
-    Alas! the burden of their feathery laughter,
-    More bitter than my fall, has pried a passage
-    Into my luckless head, and 'Ha-ha, ha-ha!'
-    Maddens its walls and frets them ruinously:
-    Beware my flitting pestilence: I’ll not gage
-    That certain easier outlets may not bring
-    The noise out and about and thick among you:
-    O bitter, bitter days for those it visits!"
-    And murmuring "bitter" with a fading sadness
-    Marsilio went: the assembly all were silent.
-
-
-
-
-_C. H. B. KITCHIN_
-
-(_EXETER_)
-
-
-OPENING SCENE FROM "AMPHITRYON"
-
-ALCMENA. THREE ASTROLOGERS
-
-  ALCMENA
-
-    I have commanded you as often of old
-    To ply the doctor’s trade with my disease,
-    To cure me or to kill; for in whose veins
-    Courses the age-long poison of despair,
-    Seeks for himself no gentle surgery,
-    Nor wishes for the touch of tender hands
-    Upon his body.
-
-  FIRST ASTROLOGER
-
-                   Something of your need
-    Has been revealed us. Yet should there remain
-    No secret hid from the physician’s eye.
-
-  ALCMENA
-
-    It has been said that from the lips of queens
-    Should come no word more bitter than sweet honey.
-    If you adjudge me queen, let this too pass
-    That I must act unqueenly. In my soul
-    Drips wine more bitter than the taste of gall.
-
-  FIRST ASTROLOGER
-
-    When roses bloom most fully, death is near.
-
-  ALCMENA
-
-    You too know this?
-
-  SECOND ASTROLOGER
-
-                      We know that life glides slowly
-    But death is quicker than a lightning stroke.
-
-  ALCMENA
-
-    Is it of me that you have gained this wisdom?
-
-  THIRD ASTROLOGER
-
-    The grand revolving spheres of heaven teach
-    The mind that hears their music. We have learned
-    To listen through the clamour of all noons
-    With evening in the heart.
-
-  ALCMENA
-
-                He does not live
-    Who hears no noon-day clamour about his ears.
-
-  FIRST ASTROLOGER
-
-    And you, Queen, that have lived and now confront
-    Death or his shadow deep within your soul,
-    Have you in life such wisdom garnered up
-    As may disarm the heart’s rebellion?
-    Wherefore then are we summoned?
-
-  SECOND ASTROLOGER
-
-                  The garden of life
-    Is barren for you, bearing little fruit,
-    And yields no store for hungry days ahead.
-
-  THIRD ASTROLOGER
-
-    To me you seem as one that has in thought
-    A hidden sin, and seeks an easy priest
-    Who shall with smooth and flowing words of grace
-    Persuade it from the heart.
-
-  ALCMENA
-
-    Nay, I am sinless.
-
-  FIRST ASTROLOGER
-
-    You are still young to be thus weary of life.
-
-  ALCMENA
-
-    There comes to every man a sudden time
-    When he undoes the bolts that bar his heart
-    Displaying hidden shame and scars concealed.
-    Such season is the present. Hear me now;
-    For I am sick and pale with lingering
-    Over a mystery that has no clue
-    Created idly by an idle brain.
-    Astrologers, thrice mighty in yourselves,
-    Say whence crept into me this discontent,
-    This fretfulness of mine. Say whence arose
-    My malady, so cunning in its ways,
-    That I tormented have no skill to guide
-    My doctors to the secret. Day by day
-    I feel the heavy burden of the flesh
-    Grow heavier. Your words rang true indeed.
-    Though I am young, I am grown weary of life.
-    The tedious cycle of each passing day
-    Like streams of dripping tears from blinded eyes
-    Falls in the cup of my calamity;
-    While thoughts, such as you guess, are often here,
-    Bringing a sweet temptation.
-                                          I have tried
-    All means of remedy. This perfumed air,
-    This gold and ivory, these purple robes
-    Have caused no change. The mute insistent hours
-    Wait for me still, interminably slow.
-    And, as in mental pain a man will crave
-    For any fierce sensation of the flesh
-    To rid his agony, so I have craved
-    The frenzied lashing of tempestuous rain,
-    The heat of flame, the sharpened fang of frost.
-    I have gone forth at midnight with no robe,
-    And walked bare-footed over stony ground
-    While wind and rain have done their worst on me.
-
-    I have kissed flame and held these hands in fire;
-    These hands have taken the scourge, that is for slaves,
-    To beat my body. Hear then all my curse.
-    Neither the blade of sharp-projecting flint
-    Nor wind nor rain nor burning tongue of flame
-    Nor knotted scourge can leave a mark on me.
-    These lips are no less red since they were kissed
-    By glowing coal; these hands are yet untorn.
-    Such is my fate, with flesh insensible
-    To suffer from a mind which has no love
-    And no distraction. Have it as you will,
-    I am a shipwreck far on lonely seas
-    With neither oars aboard, nor land in sight,
-    Nor mast, nor mast for fluttering rags of sail.
-
-  FIRST ASTROLOGER
-
-    When you have seen the solemn moon in tears
-    With long green tresses dipped in a purple sea,
-    And noted in each tear a breaking heart,
-    A lump of salty crystal, then your dreams
-    Will give you counsel which we cannot give.
-
-  SECOND ASTROLOGER
-
-    We are empowered to tell you what has been
-    And what shall be, but this created image
-    Of your own thought eludes our groping hand.
-
-  THIRD ASTROLOGER
-
-    Soon he shall come to you!
-                      That stung your heart?
-
-  ALCMENA
-
-    O wailing winds, scatter these words away
-    As chaff unfruitful to unfruitful soil.
-
-  FIRST ASTROLOGER
-
-    As glints the jewel in the toad’s brown head----
-
-  SECOND ASTROLOGER
-
-    As lurks a bitter sting in honeyed words----
-
-  THIRD ASTROLOGER
-
-    As a foul plague lies hid beneath the skin----
-
-  ALCMENA
-
-    You wrong me.
-
-  THIRD ASTROLOGER
-
-             Nay, your heart has uttered it.
-    When the strong arms of young Amphitryon----
-
-  FIRST ASTROLOGER
-
-    I hear a voice.
-
-  ALCMENA
-
-    O God! the dream returns.
-
-  THIRD ASTROLOGER
-
-    The dream was not, then, of Amphitryon?
-
-  ALCMENA
-
-    May the royal hand of Zeus deliver me.
-
-    [ZEUS _enters in the form of Amphitryon_.
-
-  ZEUS
-
-    Your task is ended. Go, astrologers,
-    Taking your admonition to such ears
-    As are in need of it. Go silently.
-
-    [_The_ ASTROLOGERS _go out_.
-
-  ZEUS
-
-    Still you pursue their empty sorceries?
-
-  ALCMENA
-
-    Will you now weary me again? You drive
-    My friends away like dogs. I follow them.
-
-  ZEUS
-
-    A sullen greeting to the traveller.
-
-  ALCMENA
-
-    Have I not told you often how it is
-    With me and you? Or must you ask again
-    And hear me through unreasoned reasonings
-    To the last drop of bitterness? And yet----
-
-  ZEUS
-
-    Why gaze so strangely on me?
-
-  ALCMENA
-
-                  I had thought
-    Your journey would be longer.
-
-  ZEUS
-
-    No, alas!
-
-  ALCMENA
-
-    What brings you here to probe the core of my heart
-    With your unspoken question?
-
-  ZEUS
-
-          We have need
-    No longer of these lamps. Quench them. The dawn
-    Arises in the East.
-
-  ALCMENA
-
-             Since when am I
-    Become your slave?
-
-  ZEUS
-
-    Since you obeyed my word.
-
-  ALCMENA
-
-    I was no friend to such obedience
-    In the dead days that were my life’s design.
-
-  ZEUS
-
-    You tremble. Speak your fear.
-
-  ALCMENA
-
-           Heart’s utterance
-    Were mockery, if spoken by the tongue.
-
-  ZEUS
-
-    Yet, be assured, nothing is hid from me.
-
-  ALCMENA
-
-    Unmoving figure of Amphitryon
-    I knew and hated, when you crossed the threshold,
-    Hope seemed to step beside you.
-
-  ZEUS
-
-    Hope is mine.
-
-  ALCMENA
-
-    Then say, where have you found the keys of life,
-    That you unlock its portals suddenly?
-
-  ZEUS
-
-    At my command all doors are set ajar.
-
-  ALCMENA
-
-    The miserable forebodings of the night
-    Have fallen from me like the gossamer
-    Which spiders weave until a master-hand
-    Sweeps clean their tracery. Mark you a change
-    In me, as I in you?
-
-  ZEUS
-
-        I am unchanging,
-    But, till this moment, me you have not known.
-
-  ALCMENA
-
-    Or known myself save as a falling leaf,
-    The toy of winds, uncherished and unloved,
-    Gliding to earth and slow decay in earth
-    Of what was green and young.
-
-  ZEUS
-
-         When you were younger
-    And guarded still the pitiable illusion
-    That life is good and destiny exalted,
-    Did you not dream perhaps of sacrifice
-    In which yourself as immolated victim
-    Should satisfy delirious desire,
-    Wedded at last in death with strength,--which marriage
-    Humanly shaped has never learned to yield?
-
-  ALCMENA
-
-    Your voice has in it the power of new command
-    To pierce my secret.
-
-  ZEUS
-
-    Naught is hid from me.
-
-  ALCMENA
-
-    My soul is weak with longing for your counsel.
-
-  ZEUS
-
-    When Semele, with lightning-darted flame
-    Engirdled, woke with knowledge she must die,
-    Having aspired to touch the majesty
-    Of the omnipotent, in no wise dismayed
-    Was she consumed with that unquenchable fire
-    Which burns all veils that overspread the flesh.
-
-  ALCMENA
-
-    Whence came the thought of Semele to you?
-    And why this chain of words now coiled on me
-    As a predestined victim?
-
-  ZEUS
-
-                                  I myself
-    Blaze with the fire of Semele. This hand
-    Shall rend the veil once more. Myself am hope,
-    Sole arbiter of germinating life,
-    The driver of the lusty winds of morning,
-    The cloud-compeller, dancer of the dance
-    Wherein the sea is festive and the hills
-    Nod musical assent, the charioteer
-    That drags the world behind his flashing wheels,
-    Bringer of life and change that is called death
-    And vibrant longing, setter of an end
-    To fear and doubt, a darting two-edged sword
-    That heals the wounds created of itself,
-    The crystal-veined one, in whose blood there flows
-    The flame of life--in such wise apprehend
-    Me standing here, and in such wise remark
-    The honour I have done you.
-
-  ALCMENA
-
-                                Open-eyed
-    At last, I see a spirit stands beside me.
-    For this cause I grew pale and bent my head
-    In sweet confusion. Bringer of release,
-    Even if it should be my worship falls
-    Before a devil from hell, behold I kneel
-    To kiss the fragrance of your garment’s hem.
-
-
-
-
-_V. DE S. PINTO_
-
-(_CHRIST CHURCH_)
-
-
-ART
-
-    FATE from an unimaginable throne
-    Scatters a million roses on the world;
-    They fall like shooting stars across the sky
-    Glittering:
-                Under a dark clump of trees
-    Man, a gaunt creature, squats upon the ground
-    Ape-like, and grins to see those brilliant flowers
-    Raining through the dark foliage:
-                                      He tries
-    Sometimes to clutch at them, but in his hands
-    They melt like snow.
-                         Then in despair he turns
-    Back to his wigwam, stirs the embers, pats
-    His blear-eyed dog, and smokes a pipe, and soon,
-    Wrapped in his blankets, drowses off to sleep.
-
-    But all his dreams are full of flying flowers.
-
-
-
-
-_ALAN PORTER_
-
+HERE’S a daffodil
+Nodding to the hill,
+Tipsy in the sunlight
+Drinking his fill.
+Here’s a violet
+Pearled in dew as yet,
+Smiling in the wood shade,
+Sweet coquette!
+QUEEN Anne is dead
+’Tis often said,
+For my part I agree.
+But she lived full ten score years ago
+And so
+She ought to be.
+There was a scholar
+Of Oxford Town.
+He read till his wits were blunt.
+He put his gown
+On upside down,
+And his cap
+On back to front.
+FULL of unearthly peace lies river-water,
+Glaucous and here and there with irised circles:
+Now subdued melody rises from the wreaths
+Of whirling flies, their mazy conflict driving
+To melancholy lamp-images in the pool:
+An unseen fish greyly breeds lubric rounds
+Up-reaching to the thrill of populous air:
+O hour supreme for poised and halting thought!
+Down colonnade on colonnade of rose
+The immense Symbols move augustly on;
+Mystery, her stony eyes revealed a little,
+Not cumbered longer by the veils of noise:
+Evening, a lithe and virginal dream-figure,
+Wavering between a green cloak and a blue,
+And, robed at length, turning with exquisite
+And old despair towards the gate of Dawn:
+And Fate, bemused awhile and half withdrawn,
+Charmed to short rest between grim Day and Night.
+MARSILIO sighed: and drew a rough discord
+From his guitar, and sang so to us listeners:
+"I too have mounted every step of ice
+And dragged my bleeding ankles, hope-enthralled,
+To Heaven’s blessed door; when instantly
+From side-nooks rising tripped the outer angels,
+In thin, light-hammered armour, giggling boys,
+But muscular, and with concerted charge
+Seized my poor feet, and flung me laughing, laughing,
+Laughing, down, down among the insect men
+Who look up never, antwise busy--crawling:
+Alas! the burden of their feathery laughter,
+More bitter than my fall, has pried a passage
+Into my luckless head, and 'Ha-ha, ha-ha!'
+Maddens its walls and frets them ruinously:
+Beware my flitting pestilence: I’ll not gage
+That certain easier outlets may not bring
+The noise out and about and thick among you:
+O bitter, bitter days for those it visits!"
+And murmuring "bitter" with a fading sadness
+Marsilio went: the assembly all were silent.
+I have commanded you as often of old
+To ply the doctor’s trade with my disease,
+To cure me or to kill; for in whose veins
+Courses the age-long poison of despair,
+Seeks for himself no gentle surgery,
+Nor wishes for the touch of tender hands
+Upon his body.
+Something of your need
+Has been revealed us. Yet should there remain
+No secret hid from the physician’s eye.
+It has been said that from the lips of queens
+Should come no word more bitter than sweet honey.
+If you adjudge me queen, let this too pass
+That I must act unqueenly. In my soul
+Drips wine more bitter than the taste of gall.
+When roses bloom most fully, death is near.
+You too know this?
+We know that life glides slowly
+But death is quicker than a lightning stroke.
+Is it of me that you have gained this wisdom?
+The grand revolving spheres of heaven teach
+The mind that hears their music. We have learned
+To listen through the clamour of all noons
+With evening in the heart.
+He does not live
+Who hears no noon-day clamour about his ears.
+And you, Queen, that have lived and now confront
+Death or his shadow deep within your soul,
+Have you in life such wisdom garnered up
+As may disarm the heart’s rebellion?
+Wherefore then are we summoned?
+The garden of life
+Is barren for you, bearing little fruit,
+And yields no store for hungry days ahead.
+To me you seem as one that has in thought
+A hidden sin, and seeks an easy priest
+Who shall with smooth and flowing words of grace
+Persuade it from the heart.
+Nay, I am sinless.
+You are still young to be thus weary of life.
+There comes to every man a sudden time
+When he undoes the bolts that bar his heart
+Displaying hidden shame and scars concealed.
+Such season is the present. Hear me now;
+For I am sick and pale with lingering
+Over a mystery that has no clue
+Created idly by an idle brain.
+Astrologers, thrice mighty in yourselves,
+Say whence crept into me this discontent,
+This fretfulness of mine. Say whence arose
+My malady, so cunning in its ways,
+That I tormented have no skill to guide
+My doctors to the secret. Day by day
+I feel the heavy burden of the flesh
+Grow heavier. Your words rang true indeed.
+Though I am young, I am grown weary of life.
+The tedious cycle of each passing day
+Like streams of dripping tears from blinded eyes
+Falls in the cup of my calamity;
+While thoughts, such as you guess, are often here,
+Bringing a sweet temptation.
+I have tried
+All means of remedy. This perfumed air,
+This gold and ivory, these purple robes
+Have caused no change. The mute insistent hours
+Wait for me still, interminably slow.
+And, as in mental pain a man will crave
+For any fierce sensation of the flesh
+To rid his agony, so I have craved
+The frenzied lashing of tempestuous rain,
+The heat of flame, the sharpened fang of frost.
+I have gone forth at midnight with no robe,
+And walked bare-footed over stony ground
+While wind and rain have done their worst on me.
+I have kissed flame and held these hands in fire;
+These hands have taken the scourge, that is for slaves,
+To beat my body. Hear then all my curse.
+Neither the blade of sharp-projecting flint
+Nor wind nor rain nor burning tongue of flame
+Nor knotted scourge can leave a mark on me.
+These lips are no less red since they were kissed
+By glowing coal; these hands are yet untorn.
+Such is my fate, with flesh insensible
+To suffer from a mind which has no love
+And no distraction. Have it as you will,
+I am a shipwreck far on lonely seas
+With neither oars aboard, nor land in sight,
+Nor mast, nor mast for fluttering rags of sail.
+When you have seen the solemn moon in tears
+With long green tresses dipped in a purple sea,
+And noted in each tear a breaking heart,
+A lump of salty crystal, then your dreams
+Will give you counsel which we cannot give.
+We are empowered to tell you what has been
+And what shall be, but this created image
+Of your own thought eludes our groping hand.
+Soon he shall come to you!
+That stung your heart?
+O wailing winds, scatter these words away
+As chaff unfruitful to unfruitful soil.
+As glints the jewel in the toad’s brown head----
+As lurks a bitter sting in honeyed words----
+As a foul plague lies hid beneath the skin----
+You wrong me.
+Nay, your heart has uttered it.
+When the strong arms of young Amphitryon----
+I hear a voice.
+O God! the dream returns.
+The dream was not, then, of Amphitryon?
+May the royal hand of Zeus deliver me.
+Your task is ended. Go, astrologers,
+Taking your admonition to such ears
+As are in need of it. Go silently.
+Still you pursue their empty sorceries?
+Will you now weary me again? You drive
+My friends away like dogs. I follow them.
+A sullen greeting to the traveller.
+Have I not told you often how it is
+With me and you? Or must you ask again
+And hear me through unreasoned reasonings
+To the last drop of bitterness? And yet----
+Why gaze so strangely on me?
+I had thought
+Your journey would be longer.
+No, alas!
+What brings you here to probe the core of my heart
+With your unspoken question?
+We have need
+No longer of these lamps. Quench them. The dawn
+Arises in the East.
+Since when am I
+Become your slave?
+Since you obeyed my word.
+I was no friend to such obedience
+In the dead days that were my life’s design.
+You tremble. Speak your fear.
+Heart’s utterance
+Were mockery, if spoken by the tongue.
+Yet, be assured, nothing is hid from me.
+Unmoving figure of Amphitryon
+I knew and hated, when you crossed the threshold,
+Hope seemed to step beside you.
+Hope is mine.
+Then say, where have you found the keys of life,
+That you unlock its portals suddenly?
+At my command all doors are set ajar.
+The miserable forebodings of the night
+Have fallen from me like the gossamer
+Which spiders weave until a master-hand
+Sweeps clean their tracery. Mark you a change
+In me, as I in you?
+I am unchanging,
+But, till this moment, me you have not known.
+Or known myself save as a falling leaf,
+The toy of winds, uncherished and unloved,
+Gliding to earth and slow decay in earth
+Of what was green and young.
+When you were younger
+And guarded still the pitiable illusion
+That life is good and destiny exalted,
+Did you not dream perhaps of sacrifice
+In which yourself as immolated victim
+Should satisfy delirious desire,
+Wedded at last in death with strength,--which marriage
+Humanly shaped has never learned to yield?
+Your voice has in it the power of new command
+To pierce my secret.
+Naught is hid from me.
+My soul is weak with longing for your counsel.
+When Semele, with lightning-darted flame
+Engirdled, woke with knowledge she must die,
+Having aspired to touch the majesty
+Of the omnipotent, in no wise dismayed
+Was she consumed with that unquenchable fire
+Which burns all veils that overspread the flesh.
+Whence came the thought of Semele to you?
+And why this chain of words now coiled on me
+As a predestined victim?
+I myself
+Blaze with the fire of Semele. This hand
+Shall rend the veil once more. Myself am hope,
+Sole arbiter of germinating life,
+The driver of the lusty winds of morning,
+The cloud-compeller, dancer of the dance
+Wherein the sea is festive and the hills
+Nod musical assent, the charioteer
+That drags the world behind his flashing wheels,
+Bringer of life and change that is called death
+And vibrant longing, setter of an end
+To fear and doubt, a darting two-edged sword
+That heals the wounds created of itself,
+The crystal-veined one, in whose blood there flows
+The flame of life--in such wise apprehend
+Me standing here, and in such wise remark
+The honour I have done you.
+Open-eyed
+At last, I see a spirit stands beside me.
+For this cause I grew pale and bent my head
+In sweet confusion. Bringer of release,
+Even if it should be my worship falls
+Before a devil from hell, behold I kneel
+To kiss the fragrance of your garment’s hem.
+FATE from an unimaginable throne
+Scatters a million roses on the world;
+They fall like shooting stars across the sky
+Glittering:
+Under a dark clump of trees
+Man, a gaunt creature, squats upon the ground
+Ape-like, and grins to see those brilliant flowers
+Raining through the dark foliage:
+He tries
+Sometimes to clutch at them, but in his hands
+They melt like snow.
+Then in despair he turns
+Back to his wigwam, stirs the embers, pats
+His blear-eyed dog, and smokes a pipe, and soon,
+Wrapped in his blankets, drowses off to sleep.
+But all his dreams are full of flying flowers.
 (_QUEEN’S_)
-
-
-LIFE AND LUXURY
-
-    I held imagination’s candle high
-    To thread the pitchy cavern, life. A whisper
-    Dazed all the dark with sweetness oversweet,
-    A lithe body languished around my neck.
-    "Do out this unavailing light;" she pleaded.
-    "Soother is darkness. How may candle strive
-    With topless, bleak, obdurate blanks of space?
-    It can but cold the darkness else were warm.
-    Leave, leave to search so bitter-toilfully
-    Unthroughgone silence, leave and follow me;
-    For I will lead where many riches lie,
-    Where rippling silks and snow-soft cushions, rare
-    Cool wines, and delicates unearthly sweet,
-    And all the comfort flesh of man craves more.
-    We two shall dallying uncurl the long
-    And fragrant hours." She reached a slender arm
-    Slowly along mine to the light. I flung her
-    Off, down. My candle showed her cheeks raddled,
-    Her bindweed pressure made me sick and mad;
-    I flung her back to the gloom. Her further hand
-    Clanked; hidden gyves fell ringing to the rock.
-    Peering behind her barely I could discern
-    Outstretching bodies clamped along the floor,
-    Unmoving most and silent, some uneasy,
-    Stirring and moaning. Smothery clutches came
-    Of slothful scents and fingered at my throat;
-    But, brushing by them, unaccompanied
-    I held aloft my rushlight in the cave
-    And searched for beauty through the cleaner air.
-    Thus far in parable. Laugh loud, O world,
-    Laugh loud and hollow. There are those would spurn
-    Your joys unjoyous and your acid fruits.
-    They would not tread the corpsy paths of commerce
-    Nor juggle with men’s bones; they would not chaffer
-    Their souls for strumpet pleasure. Cast them out,
-    Deny what little they would ask of life,
-    Assail, starve, torture, murder them, and laugh.
-    Shall it be war between us? Better war
-    Than faint submission--better death. And yet
-    I would not, no, nor shall not die. How weaponed
-    Shall I go passionate against your host?
-    How, cautelous, elude your calm blockade?
-
-    Of older days heart-free the poet roved
-    Along the furrowed lanes, and watched the robin
-    Squat in a puddle, whir his stumpy wings,
-    And tweet amid the tempest he aroused;
-    A hare would hirple on ahead (keep back,
-    Let her get out of sight; quick, cross yourself),
-    Or taper weasel slink past over the road;
-    And, seeing native blossoms, breathing air
-    From English hills, what recked the wanderer
-    That barons threw no penny to his song?
-    Should he be hungered, he would seek some rill
-    And, scrambling down the hazel scarp, would walk
-    Wet-ankled up the stream until he found
-    A larger pool of cold, colourless water,
-    Full two-foot deep, scooped out of solid stone
-    By a chuckling trickle spated after rains.
-    There he would rest upon the bank, while slowly
-    His fingers crept along the crannied rock.
-    Poor starveling belly!--No, that lower fissure,
-    Straight, lipless grin like an unholy god’s,
-    Reach out for that. The water stings to his armpit,
-    He hangs above the pool from head to waist,
-    His legs push tautly back for body’s poise,
-    And careful, careful creep the sensitive fingers.
-
-    --Sudden touch of cold, wet silk.
-    Now flesh be one with brain! He lightly strokes
-    The slippery smoothness upward to the gills
-    And throws a twiring trout upon the grass.
-    Or where the rattle of the water slacks
-    To low leaf-whisper, there he gropes beneath
-    Root-knots that hug black, unctuous mould from toppling
-    To slutch the daylit stream. His wary nerves
-    Tell blunt teeth biting at his thumb. Stormswift
-    He snatches a heavy hand over his head.
-    A floundering eel flops wildly to the floor,
-    And glides for the water. Quick the hungry poet
-    Spins round, whips out his knife, and shears the neck
-    How firm soever gripped, the limber body
-    Long after wriggles headless out of hand.
-    But if he roam across foot-tangling heath
-    And bracken, where no burble glads the root
-    Of juicy grasses? If along his way
-    Never a kingcup lifted bowls of light,
-    Nor burly watermint with bludgeon scent,
-    Beat down the fair, mild, slumbering meadowsweet?
-    If no nearby forgetmenot looks up
-    With frank and modest eye, no yellow flag
-    Plays Harold crowned and girt by fearless pikes?
-    No more he fails of ample fare; nor famine
-    Drains out his blood and piecemeal drags his flesh
-    From outward-leaping bones, till wrathful death,
-    Grudging to lose a pebble from his cairn,
-    Bears off the pitiful orts. For, stepping soft,
-    He finds a rabbit gazing at the world
-    With eyes in which not many moons have gleamed;
-    And, raising a bawl of more expended breath
-    Than fritter your burghers in a year of gabbling,
-    He runs and hurls himself headlong on to it.
-    Stunned at the cry, the rabbit waits and dithers;
-    His muscles melt beneath him; "Pluck up strength,"
-    He calls to his legs; "oh, stiffen, stiffen!" and still
-    He waits and dithers. Now the trembling scale
-    Of timeless pain crashes suddenly down,
-    And life’s a puffed-out flame.
-
-                        Thus the poet
-    Of bygone England (as an alchemist
-    After ill magics and long labours wrought
-    Seals in the flask his magisterium,
-    Lest volatile it waste among the winds,
-    And all men breathe a never-ageing youth)
-    Found way to pend within his body life
-    And what of pain or interwoven joy
-    Life brings to poets. Friend, I do not gulp
-    And weep with maudlin, sentimental tears,
-    Lacking a late lamented golden age.
-    The more of life was ever misery’s,
-    And Socrates won hemlock. Yet before
-    Was man so constant enemy to man?
-    Did earth grow bleak at all these purposeless,
-    Rotting and blotting, roaking, smoking chimneys?
-    Look, men are dying, women dying, children dying.
-    They sell their souls for bread, and poison-filths
-    Whiten their flesh, bow their bodies. Crippled,
-    Consumption-spotted, feeble-minded, sullen,
-    They seek, bewildered, out of black despair,
-    The star of life; so, dying a Christian death,
-    Lie seven a grave unheedful. "Bad as that?
-    Put down five hundred on the Lord Mayor’s list.
-    After the cost of organizing’s paid
-    There’ll still be something left. Besides, it looks well,
-    And charity brings the firm new customers.
-    Not that I hold with all this nonsense really.
-    When I was young I’d nothing more than they,
-    But I climbed, and trampled other people down.
-    Why shouldn’t they?" O murderers, look, look, look.
-    No man but tramples, tramples on his neighbour,
-    And these the lowest wrench and writhe and kick
-    And crush the desperate lives of whom they can.
-    I will not tread the corpsy path of commerce
-    Nor juggle with men’s bones. The world shall wend
-    Those murderous ways. Not I, no, never I.
-    You shall not gaol me round with city walls;
-    I will not waste among your houses; roads
-    That indiscriminate feel a thousand footings
-    Shall not for mine augment their insolence.
-    But, as of old the poet, poet now
-    Shall hold a near communion with earth,
-    Free from all traffic or truck with worldlihood:
-    As poet one time lived of natural bounty,
-    So now shall I. Yet differs even this.
-    Me no man wronging still the world shall hound
-    With interdict of food. Gamekeepers, bailiffs,
-    And all the manlings vail and bob to lords
-    Shall sturdy stand on decent English Law
-    And threat my famine with a worser fate,
-    The seasonless monotonies of walls
-    That straitlier cabin than the closest town.
-    So let them threat. War stands between us. I
-    Take peril comrade, knowing a hazel scarp
-    That breaks down ragged to a scampering brook;
-    Knowing a hill whose deep-slit, slanting sides
-    Brave out the wind and shoulder the rough clouds through.
-
-
-A FAR COUNTRY
-
-    THIS wood is older born than other woods:
-    The trees are God’s imagining of trees,
-    Anemones
-    So pale as these
-    Have never laughed like children in far solitudes,
-    Shaking and breaking worldforweary moods
-    To pure and childish glees.
-
-    The dripple from the mossed and plashing beck
-    Has carven glassy walls of pallid stone,
-    Where ferns have thrown
-    Fine silks unsewn,
-    Faint clouds unskied, that, one enchanted moment, check
-    And chalice waterdrops. They, silver grown,
-    With moons the darkness fleck.
-
-
-
-
-_HILDA REID_
-
-(_SOMERVILLE_)
-
-
-THE MAGNANIMITY OF BEASTS
-
-    MAN--you who think you really know
-    The beast you gaze on in the show,
-    Nor see with what consummate art
-    Each animal enacts its part--
-    How different do they all appear
-    The moment that you are not there!
-    Then, fawns with liquid eyes a-flame
-    Pursue the bear, their nightly game;
-    Wolves shiver as the rabbit roars
-    And stretches his terrific claws;
-    While trembling tigers dare not sleep
-    For passionate, relentless sheep,
-    And frantic eagles through the skies
-    Are chased by angry butterflies.
-    --But beasts would suffer all confusions
-        Before they shattered man’s illusions.
-
-
-
-
-_EDGELL RICKWORD_
-
-(_PEMBROKE_)
-
-
-INTIMACY
-
-    SINCE I have seen you do those intimate things
-    That other men but dream of; lull asleep
-    The sinister dark forest of your hair,
-    And tie the bows that stir on your calm breast
-    Faintly as leaves that shudder in their sleep.
-    Since I have seen your stocking swallow up,
-    A swift black wind, the pale flame of your foot,
-    And deemed your slender limbs so meshed in silk
-    Sweet mermaid sisters drowned in their dark hair;
-    I have not troubled overmuch with food,
-    And wine has seemed like water from a well;
-    Pavements are built of fire, grass of thin flames.
-    All other girls grow dull as painted flowers
-    Or flutter harmlessly like coloured flies
-    Whose wings are tangled in the net of leaves
-    Spread by frail trees that grow behind the eyes.
-
-
-GRAVE JOYS
-
-TO PEGGY
-
-    WHEN our sweet bodies moulder under-ground,
-      Shut off from these bright waters and clear skies,
-    When we hear nothing but the sullen sound
-      Of dead flesh dropping slowly from the bone
-    And muffled fall of tongue and ears and eyes;
-      Perhaps, as each disintegrates alone,
-    Frail broken vials once brimmed with curious sense,
-      Our souls will pitch old Grossness from his throne,
-    And on the beat of unsubstantial wings
-      Soar to new ecstasies still more intense.
-    There the thin voice of horny, black-legged things
-      Shall thrill me as girls' laughter thrills me here,
-    And the cold drops a passing storm-cloud flings
-      Be my strong wine, and crawling roots and clods
-    My trees and hills, and slugs swift fallow deer.
-      There I shall dote upon a sexless flower
-    By dream-ghosts planted in my dripping brain,
-      And suck from those cold petals subtler power
-    Than from your colder, whiter flesh could fall,
-      Most vile of girls and lovelier than all.
-    But in your tomb the deathless She will reign
-      And draw new lovers out of rotting sods
-      That your lithe body may for ever squirm
-      Beneath the strange embraces of the worm.
-
-
-ADVICE TO A GIRL FROM THE WARS
-
-    WEEP for me but one day,
-      Dry then your eyes;
-    Think, is a heap of clay
-      Worth a maid’s sighs?
-
-    Sigh nine days if you can
-      For my waste blood;
-    Think then, you love a man
-      Whose face is mud;
-
-    Whose flesh and hair thrill not
-      At your faint touch;
-    Dear! limbs and brain will rot,
-      Dream not of such.
-
-
-YEGOR
-
+I held imagination’s candle high
+To thread the pitchy cavern, life. A whisper
+Dazed all the dark with sweetness oversweet,
+A lithe body languished around my neck.
+"Do out this unavailing light;" she pleaded.
+"Soother is darkness. How may candle strive
+With topless, bleak, obdurate blanks of space?
+It can but cold the darkness else were warm.
+Leave, leave to search so bitter-toilfully
+Unthroughgone silence, leave and follow me;
+For I will lead where many riches lie,
+Where rippling silks and snow-soft cushions, rare
+Cool wines, and delicates unearthly sweet,
+And all the comfort flesh of man craves more.
+We two shall dallying uncurl the long
+And fragrant hours." She reached a slender arm
+Slowly along mine to the light. I flung her
+Off, down. My candle showed her cheeks raddled,
+Her bindweed pressure made me sick and mad;
+I flung her back to the gloom. Her further hand
+Clanked; hidden gyves fell ringing to the rock.
+Peering behind her barely I could discern
+Outstretching bodies clamped along the floor,
+Unmoving most and silent, some uneasy,
+Stirring and moaning. Smothery clutches came
+Of slothful scents and fingered at my throat;
+But, brushing by them, unaccompanied
+I held aloft my rushlight in the cave
+And searched for beauty through the cleaner air.
+Thus far in parable. Laugh loud, O world,
+Laugh loud and hollow. There are those would spurn
+Your joys unjoyous and your acid fruits.
+They would not tread the corpsy paths of commerce
+Nor juggle with men’s bones; they would not chaffer
+Their souls for strumpet pleasure. Cast them out,
+Deny what little they would ask of life,
+Assail, starve, torture, murder them, and laugh.
+Shall it be war between us? Better war
+Than faint submission--better death. And yet
+I would not, no, nor shall not die. How weaponed
+Shall I go passionate against your host?
+How, cautelous, elude your calm blockade?
+Of older days heart-free the poet roved
+Along the furrowed lanes, and watched the robin
+Squat in a puddle, whir his stumpy wings,
+And tweet amid the tempest he aroused;
+A hare would hirple on ahead (keep back,
+Let her get out of sight; quick, cross yourself),
+Or taper weasel slink past over the road;
+And, seeing native blossoms, breathing air
+From English hills, what recked the wanderer
+That barons threw no penny to his song?
+Should he be hungered, he would seek some rill
+And, scrambling down the hazel scarp, would walk
+Wet-ankled up the stream until he found
+A larger pool of cold, colourless water,
+Full two-foot deep, scooped out of solid stone
+By a chuckling trickle spated after rains.
+There he would rest upon the bank, while slowly
+His fingers crept along the crannied rock.
+Poor starveling belly!--No, that lower fissure,
+Straight, lipless grin like an unholy god’s,
+Reach out for that. The water stings to his armpit,
+He hangs above the pool from head to waist,
+His legs push tautly back for body’s poise,
+And careful, careful creep the sensitive fingers.
+--Sudden touch of cold, wet silk.
+Now flesh be one with brain! He lightly strokes
+The slippery smoothness upward to the gills
+And throws a twiring trout upon the grass.
+Or where the rattle of the water slacks
+To low leaf-whisper, there he gropes beneath
+Root-knots that hug black, unctuous mould from toppling
+To slutch the daylit stream. His wary nerves
+Tell blunt teeth biting at his thumb. Stormswift
+He snatches a heavy hand over his head.
+A floundering eel flops wildly to the floor,
+And glides for the water. Quick the hungry poet
+Spins round, whips out his knife, and shears the neck
+How firm soever gripped, the limber body
+Long after wriggles headless out of hand.
+But if he roam across foot-tangling heath
+And bracken, where no burble glads the root
+Of juicy grasses? If along his way
+Never a kingcup lifted bowls of light,
+Nor burly watermint with bludgeon scent,
+Beat down the fair, mild, slumbering meadowsweet?
+If no nearby forgetmenot looks up
+With frank and modest eye, no yellow flag
+Plays Harold crowned and girt by fearless pikes?
+No more he fails of ample fare; nor famine
+Drains out his blood and piecemeal drags his flesh
+From outward-leaping bones, till wrathful death,
+Grudging to lose a pebble from his cairn,
+Bears off the pitiful orts. For, stepping soft,
+He finds a rabbit gazing at the world
+With eyes in which not many moons have gleamed;
+And, raising a bawl of more expended breath
+Than fritter your burghers in a year of gabbling,
+He runs and hurls himself headlong on to it.
+Stunned at the cry, the rabbit waits and dithers;
+His muscles melt beneath him; "Pluck up strength,"
+He calls to his legs; "oh, stiffen, stiffen!" and still
+He waits and dithers. Now the trembling scale
+Of timeless pain crashes suddenly down,
+And life’s a puffed-out flame.
+Thus the poet
+Of bygone England (as an alchemist
+After ill magics and long labours wrought
+Seals in the flask his magisterium,
+Lest volatile it waste among the winds,
+And all men breathe a never-ageing youth)
+Found way to pend within his body life
+And what of pain or interwoven joy
+Life brings to poets. Friend, I do not gulp
+And weep with maudlin, sentimental tears,
+Lacking a late lamented golden age.
+The more of life was ever misery’s,
+And Socrates won hemlock. Yet before
+Was man so constant enemy to man?
+Did earth grow bleak at all these purposeless,
+Rotting and blotting, roaking, smoking chimneys?
+Look, men are dying, women dying, children dying.
+They sell their souls for bread, and poison-filths
+Whiten their flesh, bow their bodies. Crippled,
+Consumption-spotted, feeble-minded, sullen,
+They seek, bewildered, out of black despair,
+The star of life; so, dying a Christian death,
+Lie seven a grave unheedful. "Bad as that?
+Put down five hundred on the Lord Mayor’s list.
+After the cost of organizing’s paid
+There’ll still be something left. Besides, it looks well,
+And charity brings the firm new customers.
+Not that I hold with all this nonsense really.
+When I was young I’d nothing more than they,
+But I climbed, and trampled other people down.
+Why shouldn’t they?" O murderers, look, look, look.
+No man but tramples, tramples on his neighbour,
+And these the lowest wrench and writhe and kick
+And crush the desperate lives of whom they can.
+I will not tread the corpsy path of commerce
+Nor juggle with men’s bones. The world shall wend
+Those murderous ways. Not I, no, never I.
+You shall not gaol me round with city walls;
+I will not waste among your houses; roads
+That indiscriminate feel a thousand footings
+Shall not for mine augment their insolence.
+But, as of old the poet, poet now
+Shall hold a near communion with earth,
+Free from all traffic or truck with worldlihood:
+As poet one time lived of natural bounty,
+So now shall I. Yet differs even this.
+Me no man wronging still the world shall hound
+With interdict of food. Gamekeepers, bailiffs,
+And all the manlings vail and bob to lords
+Shall sturdy stand on decent English Law
+And threat my famine with a worser fate,
+The seasonless monotonies of walls
+That straitlier cabin than the closest town.
+So let them threat. War stands between us. I
+Take peril comrade, knowing a hazel scarp
+That breaks down ragged to a scampering brook;
+Knowing a hill whose deep-slit, slanting sides
+Brave out the wind and shoulder the rough clouds through.
+THIS wood is older born than other woods:
+The trees are God’s imagining of trees,
+Anemones
+So pale as these
+Have never laughed like children in far solitudes,
+Shaking and breaking worldforweary moods
+To pure and childish glees.
+The dripple from the mossed and plashing beck
+Has carven glassy walls of pallid stone,
+Where ferns have thrown
+Fine silks unsewn,
+Faint clouds unskied, that, one enchanted moment, check
+And chalice waterdrops. They, silver grown,
+With moons the darkness fleck.
+MAN--you who think you really know
+The beast you gaze on in the show,
+Nor see with what consummate art
+Each animal enacts its part--
+How different do they all appear
+The moment that you are not there!
+Then, fawns with liquid eyes a-flame
+Pursue the bear, their nightly game;
+Wolves shiver as the rabbit roars
+And stretches his terrific claws;
+While trembling tigers dare not sleep
+For passionate, relentless sheep,
+And frantic eagles through the skies
+Are chased by angry butterflies.
+--But beasts would suffer all confusions
+Before they shattered man’s illusions.
+SINCE I have seen you do those intimate things
+That other men but dream of; lull asleep
+The sinister dark forest of your hair,
+And tie the bows that stir on your calm breast
+Faintly as leaves that shudder in their sleep.
+Since I have seen your stocking swallow up,
+A swift black wind, the pale flame of your foot,
+And deemed your slender limbs so meshed in silk
+Sweet mermaid sisters drowned in their dark hair;
+I have not troubled overmuch with food,
+And wine has seemed like water from a well;
+Pavements are built of fire, grass of thin flames.
+All other girls grow dull as painted flowers
+Or flutter harmlessly like coloured flies
+Whose wings are tangled in the net of leaves
+Spread by frail trees that grow behind the eyes.
+WHEN our sweet bodies moulder under-ground,
+Shut off from these bright waters and clear skies,
+When we hear nothing but the sullen sound
+Of dead flesh dropping slowly from the bone
+And muffled fall of tongue and ears and eyes;
+Perhaps, as each disintegrates alone,
+Frail broken vials once brimmed with curious sense,
+Our souls will pitch old Grossness from his throne,
+And on the beat of unsubstantial wings
+Soar to new ecstasies still more intense.
+There the thin voice of horny, black-legged things
+Shall thrill me as girls' laughter thrills me here,
+And the cold drops a passing storm-cloud flings
+Be my strong wine, and crawling roots and clods
+My trees and hills, and slugs swift fallow deer.
+There I shall dote upon a sexless flower
+By dream-ghosts planted in my dripping brain,
+And suck from those cold petals subtler power
+Than from your colder, whiter flesh could fall,
+Most vile of girls and lovelier than all.
+But in your tomb the deathless She will reign
+And draw new lovers out of rotting sods
+That your lithe body may for ever squirm
+Beneath the strange embraces of the worm.
+WEEP for me but one day,
+Dry then your eyes;
+Think, is a heap of clay
+Worth a maid’s sighs?
+Sigh nine days if you can
+For my waste blood;
+Think then, you love a man
+Whose face is mud;
+Whose flesh and hair thrill not
+At your faint touch;
+Dear! limbs and brain will rot,
+Dream not of such.
 "What shall I write?" said Yegor.--TCHEKOV.
-
-    "What shall I write?" said Yegor;
-      "Of the bright-plumed bird that sings
-    Hovering on the fringes of the forest,
-      Where leafy dreams are grown,
-    And thoughts go with silent flutterings,
-      Like moths by a dark wind blown?"
-
-    "Oh, write of those quiet women,
-      Beautiful, slim and pale,
-    Whose bodies glimmer under cool green waters,
-      Whose hands like lilies float
-    Tangled in the heavy purple veil
-      Of hair on their breast and throat."
-
-    "Or write of swans and princes
-      Carved out of marble clouds,
-    Of the flowers that wither upon distant mountains,
-      Grey-pencilled in the brain;
-    Of fiercely hurrying night-born crowds
-      By the first swift sun-ray slain."
-
-    "Nay, I will sing," said Yegor,
-      "Of stranger things than these,
-    Of a girl I met in the fresh of morning,
-      A laughing, slender flame;
-    Of the slow stream’s song and the chant of bees,
-      In a land without a name."
-
-
-STRANGE ELEMENTS
-
-    WHEN my girl swims with me I think
-    She is a Shark with hungry teeth,
-    Because her throat that dazzles me
-    Is white as sharks are underneath.
-
-    And when she drags me down with her
-    Under the wave, she clings so tight,
-    She seems a deadly Water-snake
-    Who smothers me in that dim light.
-
-    Yet when we lie on the hot sand,
-    I find she cannot bite or hiss,
-    But she swears I’m a Tiger fierce
-    Who kills her slowly with a kiss.
-
-
-
-
-_W. FORCE STEAD_
-
+"What shall I write?" said Yegor;
+"Of the bright-plumed bird that sings
+Hovering on the fringes of the forest,
+Where leafy dreams are grown,
+And thoughts go with silent flutterings,
+Like moths by a dark wind blown?"
+"Oh, write of those quiet women,
+Beautiful, slim and pale,
+Whose bodies glimmer under cool green waters,
+Whose hands like lilies float
+Tangled in the heavy purple veil
+Of hair on their breast and throat."
+"Or write of swans and princes
+Carved out of marble clouds,
+Of the flowers that wither upon distant mountains,
+Grey-pencilled in the brain;
+Of fiercely hurrying night-born crowds
+By the first swift sun-ray slain."
+"Nay, I will sing," said Yegor,
+"Of stranger things than these,
+Of a girl I met in the fresh of morning,
+A laughing, slender flame;
+Of the slow stream’s song and the chant of bees,
+In a land without a name."
+WHEN my girl swims with me I think
+She is a Shark with hungry teeth,
+Because her throat that dazzles me
+Is white as sharks are underneath.
+And when she drags me down with her
+Under the wave, she clings so tight,
+She seems a deadly Water-snake
+Who smothers me in that dim light.
+Yet when we lie on the hot sand,
+I find she cannot bite or hiss,
+But she swears I’m a Tiger fierce
+Who kills her slowly with a kiss.
 (_QUEEN’S_)
-
-
-THE BURDEN OF BABYLON[A]
-
-    "It is in the soul that things happen."
-
- [A] The lyrics from "The Burden of Babylon" appeared in OXFORD POETRY,
- 1919. The present editors have decided to reprint them with their
- context.
-
-     SCENE: _An upper chamber in the Palace of the King of Babylon. Dusk
-     on a hot summer’s evening. The voice of one singing far off beyond
-     the palace-gardens is heard vaguely from time to time. The King is
-     sitting by an open window._
-
-
-  THE KING OF BABYLON
-
-    SINCE I am Babylon, I am the world.
-    The windy heavens and the rainy skies
-    Attend the earth in humble servitude.
-    And I am Babylon, I am the world:
-    The heavens and their powers attend on me.
-
-  THE VOICE OF ONE CRYING IN THE NIGHT
-
-    _Babylon, the glory of the Kingdoms,_
-      _And the Chaldee’s excellency,_
-    _Is become as Sodom and Gomorrah,_
-      _Whom God overthrew by the Sea._
-
-  THE KING
-
-    Who is that fellow crying by the river?
-    I think I heard him lift his voice in praise
-    Of Babylon: some minstrelle seeking hire:
-    I need him not to tell me who I am,
-    For I am Baladan of Babylon.
-    The splendours of my sceptre, throne, and crown,
-    And all the awe that fills my royal halls,
-    The pomp that heralds me, the shout that follows,
-    Are flying shadows and reflections only
-    From the wide dazzlings of myself, the King.
-    This I conceive: and yet, we kings have labour
-    To apprehend ourselves imperially,
-    And see the blaze and lightnings of our person;
-    The thought of their own sovereignty amazes
-    The princelings even, and the lesser kings:
-    But I am Baladan of Babylon.
-
-  THE VOICE IN THE NIGHT
-
-    _Never again inhabited,_
-      _Babylon, O Babylon_
-    _Even the wandering Arabian_
-      _From thy weary waste is gone._
-    _Neither shall the shepherd tend his fold there,_
-      _Nor any green herb be grown:_
-    _It cometh in the night-time suddenly,_
-      _And Babylon is overthrown._
-
-  THE KING
-
-    PALE from the east, the stars arise, and climb,
-    And then grow bright, beholding Babylon;
-    They would delay, but may not; so they pass,
-    And fade and fall, bereft of Babylon.
-    Quick from the Midian line the sun comes up,
-    For he expects to see my palaces;
-    And the moon lingers, even on the wane....
-    Mine ancient dynasty, as yon great river,
-    Euphrates, with his fountains in far hills,
-    Arose in the blue morning of the years;
-    And as yon river flows on into time,
-    Unalterable in majesty, my line
-    Survives in domination down the years.
-    I know, but am concerned not, that some peoples,
-    At the pale limits of the world, abide
-    As yet beyond the circle of my sway,
-    The miserable sons of meagre soil
-    That needs much tillage ere the yield be good.
-    I only wait until they ripen more,
-    And fatten toward my final harvesting:
-    When I am ready, I will reap them in.
-    For it is written in the stars, and read
-    Of all my wise men and astrologers,
-    That I, and my great line of Babylon,
-    Shall rule the world, and only find a bound
-    Where the horizon’s bounds are set, an end
-    When the world ends; so shall all other lands,
-    All languages, all peoples, and all tongues,
-    Become a fable told of olden times,
-    Deemed of our sons a thing incredulous.
-
-  THE VOICE IN THE NIGHT
-
-    _Woeful are thy desolate palaces,_
-      _Where doleful creatures lie,_
-    _And wild beasts out of the islands_
-      _In thy fallen chambers cry._
-    _Where now are the viol and the tabret?--_
-      _But owls hoot in moonlight,_
-    _And over the ruins of Babylon_
-      _The satyrs dance by night._
-
-  THE KING
-
-    THAT voice, that seems to hum my kingdom’s glory
-    Fails in the vast immensity of night,
-    As fails all earthly praise of Him who hears
-    The ceaseless acclamation of the stars.
-    What needs there more?--the apple of the world,
-    Grown ripe and juicy, rolls into my lap,
-    And all the gods of Babylon, well pleased
-    With blood of bulls and fume of fragrant things,
-    Even while I take mine ease, attend on me:
-    The figs do mellow, the olive, and the vine,
-    And in the plains climb the big sycamores;
-    My camels and my laden dromedaries
-    Move in from eastward bearing odorous gums,
-    And the Zidonians hew me cedar beams,
-    Even tall cedars out of Lebanon;
-    Euphrates floats his treasured freightage down,
-    And all great Babylon is filled with spoil.
-    Wherefore, upon the summit of the world,
-    The utmost apex of this thronèd realm,
-    I stand, as stands the driving charioteer,
-    And steer my course right onward toward the stars.
-    Mean-fated men my horses trample under,
-    And my wine-bins have drained the blood of mothers,
-    And smoothly my wheels run upon the necks
-    Of babes and sucklings,--while I hold my way,
-    Serene, supreme, secure in destiny,
-    Because the gods perceive mine excellence,
-    And entertain for mine imperial Person
-    Peculiar favours.... I am Babylon:
-    Exceeding precious in the High One’s eyes.
-
-  THE VOICE IN THE NIGHT
-
-    _Babylon is fallen, fallen,_
-      _And never shall be known again!_
-    _Drunken with the blood of my belovèd,_
-      _And trampling on the sons of men._
-    _But God is awake and aware of thee,_
-      _And sharply shines His sword,_
-    _Where over the earth spring suddenly_
-      _The hidden hosts of the Lord;_
-    _Armies of right and of righteousness,_
-      _Huge hosts, unseen, unknown:_
-    _And thy pomp, and thy revellings, and glory,_
-      _Where the wind goes, they are gone._
-
-
-
-
-_L. A. G. STRONG_
-
-(_WADHAM_)
-
-
-FROST
-
-    Unnatural foliage pales the trees,
-    Frost in compassion of their death
-    Has kissed them, and his icy breath
-    Proclaims and silvers their election.
-    Death, wert thou beautiful as these,
-    We scarce would pray for resurrection.
-
-
-VERA VENVSTAS
-
-  CORPORIS
-
-        Proud Eastern Queene,
-        Borne forth in splendour to thy buriall.
-        What need of gems
-    To deck thee? Bear the Tyrian gauds aside.
-    Thy own dead loveliness outshines the pride
-        Of diadems.
-
-  ANIMÆ
-
-        O splendid hearte,
-    Scorned and afflicted, still thou needest not
-        Comfort of me.
-    What matter though the body be uncouthe
-    Wherein thou art? Fear not. He seeth truth
-        Who gave it thee.
-
-[To be chaunted as in a solemn Dumpe by such as fear God.]
-
-
-A BABY
-
-    TWO days with puckered face of pain
-    The accidental baby cried,
-    And on the morning of the third
-    Unclenched her tiny hands, and died.
-
-
-FROM THE GREEK
-
-    BILL Jupp lies ’ere, aged sixty year:
-      From Tavistock ’e came.
-    Single ’e bided, and ’e wished
-      ’Is father’d done the same.
-
-
-A DEVON RHYME
-
-    GNARLY and bent and deaf ’s a post
-    Pore ol' Ezekiel Purvis
-    Goeth creepin' slowly up the ’ill
-    To the Commoonion Survis.
-
-    Tap-tappy-tappy up the haisle
-    Goeth stick and brassy ferule;
-    And Parson ’ath to stoopy down
-    And ’olley in ees yerole.
-
-
-THE BIRD MAN
-
-TO ERIC DICKINSON
-
-    I DREAD the parrots of the summer sun,
-    The harsh and blazing screams of July noon,
-    A riot of jays and peacocks and macaws.
-    There is some presage of big ardours due
-    Even in the pale flamingoes of the dawn;
-    While golden pheasants and hoopoes of the West
-    Burn fierce and proudly still, when he has set.
-
-    Better the winter wagtails of pied skies,
-    Cold ospreys of the north, cormorants of squall,
-    Brown wrens of rain, white silent owls of snow,
-    And bitterns of great clouds that in October
-    Sweep from the west at evening. Lovelier still
-    The night’s black swans, the daws of starless night
-    (Daw-like to hide what’s shiny), plovers and gulls
-    Of winds that cry on autumn afternoons....
-
-    These every one I love: but above these
-    Rarest of all my birds, I dearly love
-    The blue and silver herons of the moon.
-
-
-CHRISTOPHER MARLYE
-
-    CHRISTOPHER MARLYE damned his God
-    In many a blasphemous mighty line,
-    --Being given to words and wenches and wine.
-
-    He wrote his Faustus, and laughed to see
-    How everyone feared his devils but he.
-
-    Christopher Marlye passed the gate,
-    Eager to stalk on the floor of Heaven,
-    Outface his God, and affront the Seven:
-
-    But Peter genially let him in,
-    Making no mention of all his sin.
-
-    And he got no credit for all he had done,
-    Though he grabbed a hold on the coat of God,
-    And bellowed his infamies one by one,
-    Blasphemy, lechery, thought, and deed ...
-
-    But nobody paid him the slightest heed.
-
-    And the devils and torments he thought to brave
-    He left behind, on this side of the grave.
-
-    Heigh-ho! for Christopher Marlye.
-
-
-                      PRINTED IN GREAT BRITAIN BY
-              BILLING AND SONS, LTD., GUILDFORD AND ESHER
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Oxford Poetry, by Vera Mary Brittain
-
-*** END OF THIS PROJECT GUTENBERG EBOOK OXFORD POETRY ***
-
-***** This file should be named 50376-0.txt or 50376-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/0/3/7/50376/
-
-Produced by MWS, Chuck Greif and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive/Canadian Libraries)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+"It is in the soul that things happen."
+context.
+SCENE: _An upper chamber in the Palace of the King of Babylon. Dusk
+on a hot summer’s evening. The voice of one singing far off beyond
+the palace-gardens is heard vaguely from time to time. The King is
+sitting by an open window._
+SINCE I am Babylon, I am the world.
+The windy heavens and the rainy skies
+Attend the earth in humble servitude.
+And I am Babylon, I am the world:
+The heavens and their powers attend on me.
+_Babylon, the glory of the Kingdoms,_
+_And the Chaldee’s excellency,_
+_Is become as Sodom and Gomorrah,_
+_Whom God overthrew by the Sea._
+Who is that fellow crying by the river?
+I think I heard him lift his voice in praise
+Of Babylon: some minstrelle seeking hire:
+I need him not to tell me who I am,
+For I am Baladan of Babylon.
+The splendours of my sceptre, throne, and crown,
+And all the awe that fills my royal halls,
+The pomp that heralds me, the shout that follows,
+Are flying shadows and reflections only
+From the wide dazzlings of myself, the King.
+This I conceive: and yet, we kings have labour
+To apprehend ourselves imperially,
+And see the blaze and lightnings of our person;
+The thought of their own sovereignty amazes
+The princelings even, and the lesser kings:
+But I am Baladan of Babylon.
+_Never again inhabited,_
+_Babylon, O Babylon_
+_Even the wandering Arabian_
+_From thy weary waste is gone._
+_Neither shall the shepherd tend his fold there,_
+_Nor any green herb be grown:_
+_It cometh in the night-time suddenly,_
+_And Babylon is overthrown._
+PALE from the east, the stars arise, and climb,
+And then grow bright, beholding Babylon;
+They would delay, but may not; so they pass,
+And fade and fall, bereft of Babylon.
+Quick from the Midian line the sun comes up,
+For he expects to see my palaces;
+And the moon lingers, even on the wane....
+Mine ancient dynasty, as yon great river,
+Euphrates, with his fountains in far hills,
+Arose in the blue morning of the years;
+And as yon river flows on into time,
+Unalterable in majesty, my line
+Survives in domination down the years.
+I know, but am concerned not, that some peoples,
+At the pale limits of the world, abide
+As yet beyond the circle of my sway,
+The miserable sons of meagre soil
+That needs much tillage ere the yield be good.
+I only wait until they ripen more,
+And fatten toward my final harvesting:
+When I am ready, I will reap them in.
+For it is written in the stars, and read
+Of all my wise men and astrologers,
+That I, and my great line of Babylon,
+Shall rule the world, and only find a bound
+Where the horizon’s bounds are set, an end
+When the world ends; so shall all other lands,
+All languages, all peoples, and all tongues,
+Become a fable told of olden times,
+Deemed of our sons a thing incredulous.
+_Woeful are thy desolate palaces,_
+_Where doleful creatures lie,_
+_And wild beasts out of the islands_
+_In thy fallen chambers cry._
+_Where now are the viol and the tabret?--_
+_But owls hoot in moonlight,_
+_And over the ruins of Babylon_
+_The satyrs dance by night._
+THAT voice, that seems to hum my kingdom’s glory
+Fails in the vast immensity of night,
+As fails all earthly praise of Him who hears
+The ceaseless acclamation of the stars.
+What needs there more?--the apple of the world,
+Grown ripe and juicy, rolls into my lap,
+And all the gods of Babylon, well pleased
+With blood of bulls and fume of fragrant things,
+Even while I take mine ease, attend on me:
+The figs do mellow, the olive, and the vine,
+And in the plains climb the big sycamores;
+My camels and my laden dromedaries
+Move in from eastward bearing odorous gums,
+And the Zidonians hew me cedar beams,
+Even tall cedars out of Lebanon;
+Euphrates floats his treasured freightage down,
+And all great Babylon is filled with spoil.
+Wherefore, upon the summit of the world,
+The utmost apex of this thronèd realm,
+I stand, as stands the driving charioteer,
+And steer my course right onward toward the stars.
+Mean-fated men my horses trample under,
+And my wine-bins have drained the blood of mothers,
+And smoothly my wheels run upon the necks
+Of babes and sucklings,--while I hold my way,
+Serene, supreme, secure in destiny,
+Because the gods perceive mine excellence,
+And entertain for mine imperial Person
+Peculiar favours.... I am Babylon:
+Exceeding precious in the High One’s eyes.
+_Babylon is fallen, fallen,_
+_And never shall be known again!_
+_Drunken with the blood of my belovèd,_
+_And trampling on the sons of men._
+_But God is awake and aware of thee,_
+_And sharply shines His sword,_
+_Where over the earth spring suddenly_
+_The hidden hosts of the Lord;_
+_Armies of right and of righteousness,_
+_Huge hosts, unseen, unknown:_
+_And thy pomp, and thy revellings, and glory,_
+_Where the wind goes, they are gone._
+Unnatural foliage pales the trees,
+Frost in compassion of their death
+Has kissed them, and his icy breath
+Proclaims and silvers their election.
+Death, wert thou beautiful as these,
+We scarce would pray for resurrection.
+Proud Eastern Queene,
+Borne forth in splendour to thy buriall.
+What need of gems
+To deck thee? Bear the Tyrian gauds aside.
+Thy own dead loveliness outshines the pride
+Of diadems.
+O splendid hearte,
+Scorned and afflicted, still thou needest not
+Comfort of me.
+What matter though the body be uncouthe
+Wherein thou art? Fear not. He seeth truth
+Who gave it thee.
+TWO days with puckered face of pain
+The accidental baby cried,
+And on the morning of the third
+Unclenched her tiny hands, and died.
+BILL Jupp lies ’ere, aged sixty year:
+From Tavistock ’e came.
+Single ’e bided, and ’e wished
+’Is father’d done the same.
+GNARLY and bent and deaf ’s a post
+Pore ol' Ezekiel Purvis
+Goeth creepin' slowly up the ’ill
+To the Commoonion Survis.
+Tap-tappy-tappy up the haisle
+Goeth stick and brassy ferule;
+And Parson ’ath to stoopy down
+And ’olley in ees yerole.
+I DREAD the parrots of the summer sun,
+The harsh and blazing screams of July noon,
+A riot of jays and peacocks and macaws.
+There is some presage of big ardours due
+Even in the pale flamingoes of the dawn;
+While golden pheasants and hoopoes of the West
+Burn fierce and proudly still, when he has set.
+Better the winter wagtails of pied skies,
+Cold ospreys of the north, cormorants of squall,
+Brown wrens of rain, white silent owls of snow,
+And bitterns of great clouds that in October
+Sweep from the west at evening. Lovelier still
+The night’s black swans, the daws of starless night
+(Daw-like to hide what’s shiny), plovers and gulls
+Of winds that cry on autumn afternoons....
+These every one I love: but above these

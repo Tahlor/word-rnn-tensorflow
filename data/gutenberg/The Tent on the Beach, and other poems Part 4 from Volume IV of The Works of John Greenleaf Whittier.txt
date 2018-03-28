@@ -1,103 +1,15 @@
-roject Gutenberg EBook, Tent on the Beach and Others
-Part 4, From Volume IV., The Works of Whittier: Personal Poems
-#29 in our series by John Greenleaf Whittier
-
-Copyright laws are changing all over the world. Be sure to check the
-copyright laws for your country before downloading or redistributing
-this or any other Project Gutenberg eBook.
-
-This header should be the first thing seen when viewing this Project
-Gutenberg file.  Please do not remove it.  Do not change or edit the
-header without written permission.
-
-Please read the "legal small print," and other information about the
-eBook and Project Gutenberg at the bottom of this file.  Included is
-important information about your specific rights and restrictions in
-how the file may be used.  You can also find out about how to make a
-donation to Project Gutenberg, and how to get involved.
-
-
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-
-**EBooks Readable By Both Humans and By Computers, Since 1971**
-
-*****These EBooks Were Prepared By Thousands of Volunteers*****
-
-
-
-Title: The Tent on the Beach and Others
-       Part 4, From Volume IV., The Works of Whittier: Personal Poems
-
-
-Author: John Greenleaf Whittier
-
-Release Date: December 2005  [EBook #9584]
-[Yes, we are more than one year ahead of schedule]
-[This file was first posted on October 18, 2003]
-
-
-Edition: 10
-
-Language: English
-
-Character set encoding: ASCII
-
-
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK, TENT ON THE BEACH, PART 4 ***
-
-
-
-
 This eBook was produced by David Widger
-
-
-
-
-
-                          THE TENT ON THE BEACH
-
-                                   BY
-
-                         JOHN GREENLEAF WHITTIER
-
-
-CONTENTS:
-
-THE TENT ON THE BEACH.
-     PRELUDE
-     THE TENT ON THE BEACH
-     THE WRECK OF RIVERMOUTH
-     THE GRAVE BY THE LAKE
-     THE BROTHER OF MERCY
-     THE CHANGELING
-     THE MAIDS OF ATTITASH
-     KALLUNDBORG CHURCH
-     THE CABLE HYMN
-     THE DEAD SHIP OF HARPSWELL
-     THE PALATINE
-     ABRAHAM DAVENPORT
-     THE WORSHIP OF NATURE
-
-
-
-
-
-                          THE TENT ON THE BEACH
-
-     It can scarcely be necessary to name as the two companions whom I
-     reckoned with myself in this poetical picnic, Fields the lettered
-     magnate, and Taylor the free cosmopolite. The long line of sandy
-     beach which defines almost the whole of the New Hampshire sea-coast
-     is especially marked near its southern extremity, by the
-     salt-meadows of Hampton. The Hampton River winds through these
-     meadows, and the reader may, if he choose, imagine my tent pitched
-     near its mouth, where also was the scene of the _Wreck of
-     Rivermouth_. The green bluff to the northward is Great Boar's Head;
-     southward is the Merrimac, with Newburyport lifting its steeples
-     above brown roofs and green trees on banks.
-
+It can scarcely be necessary to name as the two companions whom I
+reckoned with myself in this poetical picnic, Fields the lettered
+magnate, and Taylor the free cosmopolite. The long line of sandy
+beach which defines almost the whole of the New Hampshire sea-coast
+is especially marked near its southern extremity, by the
+salt-meadows of Hampton. The Hampton River winds through these
+meadows, and the reader may, if he choose, imagine my tent pitched
+near its mouth, where also was the scene of the _Wreck of
+Rivermouth_. The green bluff to the northward is Great Boar's Head;
+southward is the Merrimac, with Newburyport lifting its steeples
+above brown roofs and green trees on banks.
 I would not sin, in this half-playful strain,--
 Too light perhaps for serious years, though born
 Of the enforced leisure of slow pain,--
@@ -115,8 +27,6 @@ Of voyagers from that vaster mystery
 Of which it is an emblem;--and the dear
 Memory of one who might have tuned my song
 To sweeter music by her delicate ear.
-
-
 When heats as of a tropic clime
 Burned all our inland valleys through,
 Three friends, the guests of summer time,
@@ -125,7 +35,6 @@ Behind them, marshes, seamed and crossed
 With narrow creeks, and flower-embossed,
 Stretched to the dark oak wood, whose leafy arms
 Screened from the stormy East the pleasant inland farms.
-
 At full of tide their bolder shore
 Of sun-bleached sand the waters beat;
 At ebb, a smooth and glistening floor
@@ -134,7 +43,6 @@ Northward a 'green bluff broke the chain
 Of sand-hills; southward stretched a plain
 Of salt grass, with a river winding down,
 Sail-whitened, and beyond the steeples of the town,
-
 Whence sometimes, when the wind was light
 And dull the thunder of the beach,
 They heard the bells of morn and night
@@ -143,7 +51,6 @@ Above low scarp and turf-grown wall
 They saw the fort-flag rise and fall;
 And, the first star to signal twilight's hour,
 The lamp-fire glimmer down from the tall light-house tower.
-
 They rested there, escaped awhile
 From cares that wear the life away,
 To eat the lotus of the Nile
@@ -152,7 +59,6 @@ To fling their loads of custom down,
 Like drift-weed, on the sand-slopes brown,
 And in the sea waves drown the restless pack
 Of duties, claims, and needs that barked upon their track.
-
 One, with his beard scarce silvered, bore
 A ready credence in his looks,
 A lettered magnate, lording o'er
@@ -161,7 +67,6 @@ In him brain-currents, near and far,
 Converged as in a Leyden jar;
 The old, dead authors thronged him round about,
 And Elzevir's gray ghosts from leathern graves looked out.
-
 He knew each living pundit well,
 Could weigh the gifts of him or her,
 And well the market value tell
@@ -170,7 +75,6 @@ But if he lost, the scenes behind,
 Somewhat of reverence vague and blind,
 Finding the actors human at the best,
 No readier lips than his the good he saw confessed.
-
 His boyhood fancies not outgrown,
 He loved himself the singer's art;
 Tenderly, gently, by his own
@@ -179,7 +83,6 @@ No Rhadamanthine brow of doom
 Bowed the dazed pedant from his room;
 And bards, whose name is legion, if denied,
 Bore off alike intact their verses and their pride.
-
 Pleasant it was to roam about
 The lettered world as he had, done,
 And see the lords of song without
@@ -188,7 +91,6 @@ With Wordsworth paddle Rydal mere,
 Taste rugged Elliott's home-brewed beer,
 And with the ears of Rogers, at fourscore,
 Hear Garrick's buskined tread and Walpole's wit once more.
-
 And one there was, a dreamer born,
 Who, with a mission to fulfil,
 Had left the Muses' haunts to turn
@@ -197,7 +99,6 @@ Making his rustic reed of song
 A weapon in the war with wrong,
 Yoking his fancy to the breaking-plough
 That beam-deep turned the soil for truth to spring and grow.
-
 Too quiet seemed the man to ride
 The winged Hippogriff Reform;
 Was his a voice from side to side
@@ -206,7 +107,6 @@ A silent, shy, peace-loving man,
 He seemed no fiery partisan
 To hold his way against the public frown,
 The ban of Church and State, the fierce mob's hounding down.
-
 For while he wrought with strenuous will
 The work his hands had found to do,
 He heard the fitful music still
@@ -215,7 +115,6 @@ The din about him could not drown
 What the strange voices whispered down;
 Along his task-field weird processions swept,
 The visionary pomp of stately phantoms stepped:
-
 The common air was thick with dreams,--
 He told them to the toiling crowd;
 Such music as the woods and streams
@@ -224,7 +123,6 @@ In still, shut bays, on windy capes,
 He heard the call of beckoning shapes,
 And, as the gray old shadows prompted him,
 To homely moulds of rhyme he shaped their legends grim.
-
 He rested now his weary hands,
 And lightly moralized and laughed,
 As, tracing on the shifting sands
@@ -233,7 +131,6 @@ He saw the careless waves o'errun
 His words, as time before had done,
 Each day's tide-water washing clean away,
 Like letters from the sand, the work of yesterday.
-
 And one, whose Arab face was tanned
 By tropic sun and boreal frost,
 So travelled there was scarce a land
@@ -242,7 +139,6 @@ In idling mood had from him hurled
 The poor squeezed orange of the world,
 And in the tent-shade, as beneath a palm,
 Smoked, cross-legged like a Turk, in Oriental calm.
-
 The very waves that washed the sand
 Below him, he had seen before
 Whitening the Scandinavian strand
@@ -251,7 +147,6 @@ From ice-rimmed isles, from summer seas
 Palm-fringed, they bore him messages;
 He heard the plaintive Nubian songs again,
 And mule-bells tinkling down the mountain-paths of Spain.
-
 His memory round the ransacked earth
 On Puck's long girdle slid at ease;
 And, instant, to the valley's girth
@@ -260,7 +155,6 @@ Faith flowered in minster stones, Art's guess
 At truth and beauty, found access;
 Yet loved the while, that free cosmopolite,
 Old friends, old ways, and kept his boyhood's dreams in sight.
-
 Untouched as yet by wealth and pride,
 That virgin innocence of beach
 No shingly monster, hundred-eyed,
@@ -269,7 +163,6 @@ Unhoused, save where, at intervals,
 The white tents showed their canvas walls,
 Where brief sojourners, in the cool, soft air,
 Forgot their inland heats, hard toil, and year-long care.
-
 Sometimes along the wheel-deep sand
 A one-horse wagon slowly crawled,
 Deep laden with a youthful band,
@@ -278,7 +171,6 @@ Brother perchance, and sisters twain,
 And one whose blue eyes told, more plain
 Than the free language of her rosy lip,
 Of the still dearer claim of love's relationship.
-
 With cheeks of russet-orchard tint,
 The light laugh of their native rills,
 The perfume of their garden's mint,
@@ -287,7 +179,6 @@ They bore, in unrestrained delight,
 The motto of the Garter's knight,
 Careless as if from every gazing thing
 Hid by their innocence, as Gyges by his ring.
-
 The clanging sea-fowl came and went,
 The hunter's gun in the marshes rang;
 At nightfall from a neighboring tent
@@ -296,7 +187,6 @@ Loose-haired, barefooted, hand-in-hand,
 Young girls went tripping down the sand;
 And youths and maidens, sitting in the moon,
 Dreamed o'er the old fond dream from which we wake too soon.
-
 At times their fishing-lines they plied,
 With an old Triton at the oar,
 Salt as the sea-wind, tough and dried
@@ -305,7 +195,6 @@ Strange tales he told of wreck and storm,--
 Had seen the sea-snake's awful form,
 And heard the ghosts on Haley's Isle complain,
 Speak him off shore, and beg a passage to old Spain!
-
 And there, on breezy morns, they saw
 The fishing-schooners outward run,
 Their low-bent sails in tack and flaw
@@ -314,7 +203,6 @@ Sometimes, in calms of closing day,
 They watched the spectral mirage play,
 Saw low, far islands looming tall and nigh,
 And ships, with upturned keels, sail like a sea the sky.
-
 Sometimes a cloud, with thunder black,
 Stooped low upon the darkening main,
 Piercing the waves along its track
@@ -323,7 +211,6 @@ And when west-wind and sunshine warm
 Chased out to sea its wrecks of storm,
 They saw the prismy hues in thin spray showers
 Where the green buds of waves burst into white froth flowers.
-
 And when along the line of shore
 The mists crept upward chill and damp,
 Stretched, careless, on their sandy floor
@@ -332,7 +219,6 @@ They talked of all things old and new,
 Read, slept, and dreamed as idlers do;
 And in the unquestioned freedom of the tent,
 Body and o'er-taxed mind to healthful ease unbent.
-
 Once, when the sunset splendors died,
 And, trampling up the sloping sand,
 In lines outreaching far and wide,
@@ -341,7 +227,6 @@ Dim seen across the gathering shade,
 A vast and ghostly cavalcade,
 They sat around their lighted kerosene,
 Hearing the deep bass roar their every pause between.
-
 Then, urged thereto, the Editor
 Within his full portfolio dipped,
 Feigning excuse while seaching for
@@ -350,24 +235,19 @@ His pale face flushed from eye to beard,
 With nervous cough his throat he cleared,
 And, in a voice so tremulous it betrayed
 The anxious fondness of an author's heart, he read:
-
-       .     .     .     .     .
-
-THE WRECK OF RIVERMOUTH
-
-     The Goody Cole who figures in this poem and The Changeling as
-     Eunice Cole, who for a quarter of a century or more was feared,
-     persecuted, and hated as the witch of Hampton. She lived alone in a
-     hovel a little distant from the spot where the Hampton Academy now
-     stands, and there she died, unattended. When her death was
-     discovered, she was hastily covered up in the earth near by, and a
-     stake driven through her body, to exorcise the evil spirit. Rev.
-     Stephen Bachiler or Batchelder was one of the ablest of the early
-     New England preachers. His marriage late in life to a woman
-     regarded by his church as disreputable induced him to return to
-     England, where he enjoyed the esteem and favor of Oliver Cromwell
-     during the Protectorate.
-
+.     .     .     .     .
+The Goody Cole who figures in this poem and The Changeling as
+Eunice Cole, who for a quarter of a century or more was feared,
+persecuted, and hated as the witch of Hampton. She lived alone in a
+hovel a little distant from the spot where the Hampton Academy now
+stands, and there she died, unattended. When her death was
+discovered, she was hastily covered up in the earth near by, and a
+stake driven through her body, to exorcise the evil spirit. Rev.
+Stephen Bachiler or Batchelder was one of the ablest of the early
+New England preachers. His marriage late in life to a woman
+regarded by his church as disreputable induced him to return to
+England, where he enjoyed the esteem and favor of Oliver Cromwell
+during the Protectorate.
 Rivermouth Rocks are fair to see,
 By dawn or sunset shone across,
 When the ebb of the sea has left them free,
@@ -376,7 +256,6 @@ For there the river comes winding down,
 From salt sea-meadows and uplands brown,
 And waves on the outer rocks afoam
 Shout to its waters, "Welcome home!"
-
 And fair are the sunny isles in view
 East of the grisly Head of the Boar,
 And Agamenticus lifts its blue
@@ -385,7 +264,6 @@ And southerly, when the tide is down,
 'Twixt white sea-waves and sand-hills brown,
 The beach-birds dance and the gray gulls wheel
 Over a floor of burnished steel.
-
 Once, in the old Colonial days,
 Two hundred years ago and more,
 A boat sailed down through the winding ways
@@ -394,7 +272,6 @@ Full of a goodly company
 Sailing out on the summer sea,
 Veering to catch the land-breeze light,
 With the Boar to left and the Rocks to right.
-
 In Hampton meadows, where mowers laid
 Their scythes to the swaths of salted grass,
 "Ah, well-a-day! our hay must be made!"
@@ -403,7 +280,6 @@ Loud laughed his fellows to see him stand
 Whetting his scythe with a listless hand,
 Hearing a voice in a far-off song,
 Watching a white hand beckoning long.
-
 "Fie on the witch!" cried a merry girl,
 As they rounded the point where Goody Cole
 Sat by her door with her wheel atwirl,
@@ -412,7 +288,6 @@ A bent and blear-eyed poor old soul.
 But I hear the little waves laugh and say,
 'The broth will be cold that waits at home;
 For it 's one to go, but another to come!'"
-
 "She's cursed," said the skipper; "speak her fair:
 I'm scary always to see her shake
 Her wicked head, with its wild gray hair,
@@ -421,7 +296,6 @@ But merrily still, with laugh and shout,
 From Hampton River the boat sailed out,
 Till the huts and the flakes on Star seemed nigh,
 And they lost the scent of the pines of Rye.
-
 They dropped their lines in the lazy tide,
 Drawing up haddock and mottled cod;
 They saw not the Shadow that walked beside,
@@ -430,7 +304,6 @@ But thicker and thicker a hot mist grew,
 Shot by the lightnings through and through;
 And muffled growls, like the growl of a beast,
 Ran along the sky from west to east.
-
 Then the skipper looked from the darkening sea
 Up to the dimmed and wading sun;
 But he spake like a brave man cheerily,
@@ -439,7 +312,6 @@ Veering and tacking, they backward wore;
 And just as a breath-from the woods ashore
 Blew out to whisper of danger past,
 The wrath of the storm came down at last!
-
 The skipper hauled at the heavy sail
 "God be our help!" he only cried,
 As the roaring gale, like the stroke of a flail,
@@ -448,7 +320,6 @@ The Shoalsmen looked, but saw alone
 Dark films of rain-cloud slantwise blown,
 Wild rocks lit up by the lightning's glare,
 The strife and torment of sea and air.
-
 Goody Cole looked out from her door
 The Isles of Shoals were drowned and gone,
 Scarcely she saw the Head of the Boar
@@ -457,7 +328,6 @@ She clasped her hands with a grip of pain,
 The tear on her cheek was not of rain
 "They are lost," she muttered, "boat and crew!
 Lord, forgive me! my words were true!"
-
 Suddenly seaward swept the squall;
 The low sun smote through cloudy rack;
 The Shoals stood clear in the light, and all
@@ -466,7 +336,6 @@ But far and wide as eye could reach,
 No life was seen upon wave or beach;
 The boat that went out at morning never
 Sailed back again into Hampton River.
-
 O mower, lean on thy bended snath,
 Look from the meadows green and low
 The wind of the sea is a waft of death,
@@ -475,7 +344,6 @@ By silent river, by moaning sea,
 Long and vain shall thy watching be
 Never again shall the sweet voice call,
 Never the white hand rise and fall!
-
 O Rivermouth Rocks, how sad a sight
 Ye saw in the light of breaking day
 Dead faces looking up cold and white
@@ -484,7 +352,6 @@ The mad old witch-wife wailed and wept,
 And cursed the tide as it backward crept
 "Crawl back, crawl back, blue water-snake
 Leave your dead for the hearts that break!"
-
 Solemn it was in that old day
 In Hampton town and its log-built church,
 Where side by side the coffins lay
@@ -493,7 +360,6 @@ In the singing-seats young eyes were dim,
 The voices faltered that raised the hymn,
 And Father Dalton, grave and stern,
 Sobbed through his prayer and wept in turn.
-
 But his ancient colleague did not pray;
 Under the weight of his fourscore years
 He stood apart with the iron-gray
@@ -502,7 +368,6 @@ And a fair-faced woman of doubtful fame,
 Linking her own with his honored name,
 Subtle as sin, at his side withstood
 The felt reproach of her neighborhood.
-
 Apart with them, like them forbid,
 Old Goody Cole looked drearily round,
 As, two by two, with their faces hid,
@@ -511,7 +376,6 @@ She let the staff from her clasped hands fall
 "Lord, forgive us! we're sinners all!"
 And the voice of the old man answered her
 "Amen!" said Father Bachiler.
-
 So, as I sat upon Appledore
 In the calm of a closing summer day,
 And the broken lines of Hampton shore
@@ -520,7 +384,6 @@ The Rivermouth Rocks their story told;
 And waves aglow with sunset gold,
 Rising and breaking in steady chime,
 Beat the rhythm and kept the time.
-
 And the sunset paled, and warmed once more
 With a softer, tenderer after-glow;
 In the east was moon-rise, with boats off-shore
@@ -529,9 +392,7 @@ The beacon glimmered from Portsmouth bar,
 The White Isle kindled its great red star;
 And life and death in my old-time lay
 Mingled in peace like the night and day!
-
-       .     .     .     .     .
-
+.     .     .     .     .
 "Well!" said the Man of Books, "your story
 Is really not ill told in verse.
 As the Celt said of purgatory,
@@ -540,202 +401,167 @@ The Reader smiled; and once again
 With steadier voice took up his strain,
 While the fair singer from the neighboring tent
 Drew near, and at his side a graceful listener bent.
-1864.
-
-
-THE GRAVE BY THE LAKE
-
-     At the mouth of the Melvin River, which empties into Moulton-Bay in
-     Lake Winnipesaukee, is a great mound. The Ossipee Indians had their
-     home in the neighborhood of the bay, which is plentifully stocked
-     with fish, and many relics of their occupation have been found.
-
-
+At the mouth of the Melvin River, which empties into Moulton-Bay in
+Lake Winnipesaukee, is a great mound. The Ossipee Indians had their
+home in the neighborhood of the bay, which is plentifully stocked
+with fish, and many relics of their occupation have been found.
 Where the Great Lake's sunny smiles
 Dimple round its hundred isles,
 And the mountain's granite ledge
 Cleaves the water like a wedge,
 Ringed about with smooth, gray stones,
 Rest the giant's mighty bones.
-
 Close beside, in shade and gleam,
 Laughs and ripples Melvin stream;
 Melvin water, mountain-born,
 All fair flowers its banks adorn;
 All the woodland's voices meet,
 Mingling with its murmurs sweet.
-
 Over lowlands forest-grown,
 Over waters island-strown,
 Over silver-sanded beach,
 Leaf-locked bay and misty reach,
 Melvin stream and burial-heap,
 Watch and ward the mountains keep.
-
 Who that Titan cromlech fills?
 Forest-kaiser, lord o' the hills?
 Knight who on the birchen tree
 Carved his savage heraldry?
 Priest o' the pine-wood temples dim,
 Prophet, sage, or wizard grim?
-
 Rugged type of primal man,
 Grim utilitarian,
 Loving woods for hunt and prowl,
 Lake and hill for fish and fowl,
 As the brown bear blind and dull
 To the grand and beautiful:
-
 Not for him the lesson drawn
 From the mountains smit with dawn,
 Star-rise, moon-rise, flowers of May,
 Sunset's purple bloom of day,--
 Took his life no hue from thence,
 Poor amid such affluence?
-
 Haply unto hill and tree
 All too near akin was he
 Unto him who stands afar
 Nature's marvels greatest are;
 Who the mountain purple seeks
 Must not climb the higher peaks.
-
 Yet who knows in winter tramp,
 Or the midnight of the camp,
 What revealings faint and far,
 Stealing down from moon and star,
 Kindled in that human clod
 Thought of destiny and God?
-
 Stateliest forest patriarch,
 Grand in robes of skin and bark,
 What sepulchral mysteries,
 What weird funeral-rites, were his?
 What sharp wail, what drear lament,
 Back scared wolf and eagle sent?
-
 Now, whate'er he may have been,
 Low he lies as other men;
 On his mound the partridge drums,
 There the noisy blue-jay comes;
 Rank nor name nor pomp has he
 In the grave's democracy.
-
 Part thy blue lips, Northern lake!
 Moss-grown rocks, your silence break!
 Tell the tale, thou ancient tree!
 Thou, too, slide-worn Ossipee!
 Speak, and tell us how and when
 Lived and died this king of men!
-
 Wordless moans the ancient pine;
 Lake and mountain give no sign;
 Vain to trace this ring of stones;
 Vain the search of crumbling bones
 Deepest of all mysteries,
 And the saddest, silence is.
-
 Nameless, noteless, clay with clay
 Mingles slowly day by day;
 But somewhere, for good or ill,
 That dark soul is living still;
 Somewhere yet that atom's force
 Moves the light-poised universe.
-
 Strange that on his burial-sod
 Harebells bloom, and golden-rod,
 While the soul's dark horoscope
 Holds no starry sign of hope!
 Is the Unseen with sight at odds?
 Nature's pity more than God's?
-
 Thus I mused by Melvin's side,
 While the summer eventide
 Made the woods and inland sea
 And the mountains mystery;
 And the hush of earth and air
 Seemed the pause before a prayer,--
-
 Prayer for him, for all who rest,
 Mother Earth, upon thy breast,--
 Lapped on Christian turf, or hid
 In rock-cave or pyramid
 All who sleep, as all who live,
 Well may need the prayer, "Forgive!"
-
 Desert-smothered caravan,
 Knee-deep dust that once was man,
 Battle-trenches ghastly piled,
 Ocean-floors with white bones tiled,
 Crowded tomb and mounded sod,
 Dumbly crave that prayer to God.
-
 Oh, the generations old
 Over whom no church-bells tolled,
 Christless, lifting up blind eyes
 To the silence of the skies!
 For the innumerable dead
 Is my soul disquieted.
-
 Where be now these silent hosts?
 Where the camping-ground of ghosts?
 Where the spectral conscripts led
 To the white tents of the dead?
 What strange shore or chartless sea
 Holds the awful mystery?
-
 Then the warm sky stooped to make
 Double sunset in the lake;
 While above I saw with it,
 Range on range, the mountains lit;
 And the calm and splendor stole
 Like an answer to my soul.
-
 Hear'st thou, O of little faith,
 What to thee the mountain saith,
 What is whispered by the trees?
 Cast on God thy care for these;
 Trust Him, if thy sight be dim
 Doubt for them is doubt of Him.
-
 "Blind must be their close-shut eyes
 Where like night the sunshine lies,
 Fiery-linked the self-forged chain
 Binding ever sin to pain,
 Strong their prison-house of will,
 But without He waiteth still.
-
 "Not with hatred's undertow
 Doth the Love Eternal flow;
 Every chain that spirits wear
 Crumbles in the breath of prayer;
 And the penitent's desire
 Opens every gate of fire.
-
 "Still Thy love, O Christ arisen,
 Yearns to reach these souls in prison!
 Through all depths of sin and loss
 Drops the plummet of Thy cross!
 Never yet abyss was found
 Deeper than that cross could sound!"
-
 Therefore well may Nature keep
 Equal faith with all who sleep,
 Set her watch of hills around
 Christian grave and heathen mound,
 And to cairn and kirkyard send
 Summer's flowery dividend.
-
 Keep, O pleasant Melvin stream,
 Thy sweet laugh in shade and gleam
 On the Indian's grassy tomb
 Swing, O flowers, your bells of bloom!
 Deep below, as high above,
 Sweeps the circle of God's love.
-1865
-
-       .     .     .     .     .
-
+.     .     .     .     .
 He paused and questioned with his eye
 The hearers' verdict on his song.
 A low voice asked: Is 't well to pry
@@ -744,7 +570,6 @@ Only to God?--The life to be
 Is still the unguessed mystery
 Unsealed, unpierced the cloudy walls remain,
 We beat with dream and wish the soundless doors in vain.
-
 "But faith beyond our sight may go."
 He said: "The gracious Fatherhood
 Can only know above, below,
@@ -753,7 +578,6 @@ From our free heritage of will,
 The bitter springs of pain and ill
 Flow only in all worlds. The perfect day
 Of God is shadowless, and love is love alway."
-
 "I know," she said, "the letter kills;
 That on our arid fields of strife
 And heat of clashing texts distils
@@ -762,7 +586,6 @@ But, searching still the written Word,
 I fain would find, Thus saith the Lord,
 A voucher for the hope I also feel
 That sin can give no wound beyond love's power to heal."
-
 "Pray," said the Man of Books, "give o'er
 A theme too vast for time and place.
 Go on, Sir Poet, ride once more
@@ -771,7 +594,6 @@ But let him keep, with step discreet,
 The solid earth beneath his feet.
 In the great mystery which around us lies,
 The wisest is a fool, the fool Heaven-helped is wise."
-
 The Traveller said: "If songs have creeds,
 Their choice of them let singers make;
 But Art no other sanction needs
@@ -780,7 +602,6 @@ It grinds not in the mill of use,
 Nor asks for leave, nor begs excuse;
 It makes the flexile laws it deigns to own,
 And gives its atmosphere its color and its tone.
-
 "Confess, old friend, your austere school
 Has left your fancy little chance;
 You square to reason's rigid rule
@@ -789,7 +610,6 @@ With conscience keen from exercise,
 And chronic fear of compromise,
 You check the free play of your rhymes, to clap
 A moral underneath, and spring it like a trap."
-
 The sweet voice answered: "Better so
 Than bolder flights that know no check;
 Better to use the bit, than throw
@@ -798,7 +618,6 @@ The liberal range of Art should be
 The breadth of Christian liberty,
 Restrained alone by challenge and alarm
 Where its charmed footsteps tread the border land of harm.
-
 "Beyond the poet's sweet dream lives
 The eternal epic of the man.
 He wisest is who only gives,
@@ -807,7 +626,6 @@ Who, drifting in the winds of praise,
 The inward monitor obeys;
 And, with the boldness that confesses fear,
 Takes in the crowded sail, and lets his conscience steer.
-
 "Thanks for the fitting word he speaks,
 Nor less for doubtful word unspoken;
 For the false model that he breaks,
@@ -816,7 +634,6 @@ For what is missed and what remains,
 For losses which are truest gains,
 For reverence conscious of the Eternal eye,
 And truth too fair to need the garnish of a lie."
-
 Laughing, the Critic bowed. "I yield
 The point without another word;
 Who ever yet a case appealed
@@ -825,7 +642,6 @@ And you, my good friend, owe to me
 Your warmest thanks for such a plea,
 As true withal as sweet. For my offence
 Of cavil, let her words be ample recompense."
-
 Across the sea one lighthouse star,
 With crimson ray that came and went,
 Revolving on its tower afar,
@@ -834,7 +650,6 @@ While outward, over sand-slopes wet,
 The lamp flashed down its yellow jet
 On the long wash of waves, with red and green
 Tangles of weltering weed through the white foam-wreaths seen.
-
 "Sing while we may,--another day
 May bring enough of sorrow;'--thus
 Our Traveller in his own sweet lay,
@@ -843,19 +658,15 @@ The lady said. "So let it be;
 Sing us a song," exclaimed all three.
 She smiled: "I can but marvel at your choice
 To hear our poet's words through my poor borrowed voice."
-
-       .     .     .     .     .
-
+.     .     .     .     .
 Her window opens to the bay,
 On glistening light or misty gray,
 And there at dawn and set of day
 In prayer she kneels.
-
 "Dear Lord!" she saith, "to many a borne
 From wind and wave the wanderers come;
 I only see the tossing foam
 Of stranger keels.
-
 "Blown out and in by summer gales,
 The stately ships, with crowded sails,
 And sailors leaning o'er their rails,
@@ -864,7 +675,6 @@ They come, they go, but nevermore,
 Spice-laden from the Indian shore,
 I see his swift-winged Isidore
 The waves divide.
-
 "O Thou! with whom the night is day
 And one the near and far away,
 Look out on yon gray waste, and say
@@ -873,7 +683,6 @@ Alive, perchance, on some lone beach
 Or thirsty isle beyond the reach
 Of man, he hears the mocking speech
 Of wind and sea.
-
 "O dread and cruel deep, reveal
 The secret which thy waves conceal,
 And, ye wild sea-birds, hither wheel
@@ -882,7 +691,6 @@ Let winds that tossed his raven hair
 A message from my lost one bear,--
 Some thought of me, a last fond prayer
 Or dying wail!
-
 "Come, with your dreariest truth shut out
 The fears that haunt me round about;
 O God! I cannot bear this doubt
@@ -891,7 +699,6 @@ The worst is better than the dread;
 Give me but leave to mourn my dead
 Asleep in trust and hope, instead
 Of life in death!"
-
 It might have been the evening breeze
 That whispered in the garden trees,
 It might have been the sound of seas
@@ -900,10 +707,7 @@ But, with her heart, if not her ear,
 The old loved voice she seemed to hear
 "I wait to meet thee: be of cheer,
 For all is well!"
-1865
-
-       .     .     .     .     .
-
+.     .     .     .     .
 The sweet voice into silence went,
 A silence which was almost pain
 As through it rolled the long lament,
@@ -912,17 +716,12 @@ Glancing his written pages o'er,
 The Reader tried his part once more;
 Leaving the land of hackmatack and pine
 For Tuscan valleys glad with olive and with vine.
-
-
-THE BROTHER OF MERCY.
-
 Piero Luca, known of all the town
 As the gray porter by the Pitti wall
 Where the noon shadows of the gardens fall,
 Sick and in dolor, waited to lay down
 His last sad burden, and beside his mat
 The barefoot monk of La Certosa sat.
-
 Unseen, in square and blossoming garden drifted,
 Soft sunset lights through green Val d'Arno sifted;
 Unheard, below the living shuttles shifted
@@ -990,7 +789,6 @@ The world of pain were better, if therein
 One's heart might still be human, and desires
 Of natural pity drop upon its fires
 Some cooling tears."
-
 Thereat the pale monk crossed
 His brow, and, muttering, "Madman! thou art lost!"
 Took up his pyx and fled; and, left alone,
@@ -1004,162 +802,124 @@ For heaven is love, as God himself is love;
 Thy work below shall be thy work above."
 And when he looked, lo! in the stern monk's place
 He saw the shining of an angel's face!
-1864.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 The Traveller broke the pause. "I've seen
 The Brothers down the long street steal,
 Black, silent, masked, the crowd between,
 And felt to doff my hat and kneel
 With heart, if not with knee, in prayer,
 For blessings on their pious care."
-
 Reader wiped his glasses: "Friends of mine,
 I'll try our home-brewed next, instead of foreign wine."
-
-
-
-THE CHANGELING.
-
 For the fairest maid in Hampton
 They needed not to search,
 Who saw young Anna Favor
 Come walking into church,
-
 Or bringing from the meadows,
 At set of harvest-day,
 The frolic of the blackbirds,
 The sweetness of the hay.
-
 Now the weariest of all mothers,
 The saddest two-years bride,
 She scowls in the face of her husband,
 And spurns her child aside.
-
 "Rake out the red coals, goodman,--
 For there the child shall lie,
 Till the black witch comes to fetch her
 And both up chimney fly.
-
 "It's never my own little daughter,
 It's never my own," she said;
 "The witches have stolen my Anna,
 And left me an imp instead.
-
 "Oh, fair and sweet was my baby,
 Blue eyes, and hair of gold;
 But this is ugly and wrinkled,
 Cross, and cunning, and old.
-
 "I hate the touch of her fingers,
 I hate the feel of her skin;
 It's not the milk from my bosom,
 But my blood, that she sucks in.
-
 "My face grows sharp with the torment;
 Look! my arms are skin and bone!
 Rake open the red coals, goodman,
 And the witch shall have her own.
-
 "She 'll come when she hears it crying,
 In the shape of an owl or bat,
 And she'll bring us our darling Anna
 In place of her screeching brat."
-
 Then the goodman, Ezra Dalton,
 Laid his hand upon her head
 "Thy sorrow is great, O woman!
 I sorrow with thee," he said.
-
 "The paths to trouble are many,
 And never but one sure way
 Leads out to the light beyond it
 My poor wife, let us pray."
-
 Then he said to the great All-Father,
 "Thy daughter is weak and blind;
 Let her sight come back, and clothe her
 Once more in her right mind.
-
 "Lead her out of this evil shadow,
 Out of these fancies wild;
 Let the holy love of the mother
 Turn again to her child.
-
 "Make her lips like the lips of Mary
 Kissing her blessed Son;
 Let her hands, like the hands of Jesus,
 Rest on her little one.
-
 "Comfort the soul of thy handmaid,
 Open her prison-door,
 And thine shall be all the glory
 And praise forevermore."
-
 Then into the face of its mother
 The baby looked up and smiled;
 And the cloud of her soul was lifted,
 And she knew her little child.
-
 A beam of the slant west sunshine
 Made the wan face almost fair,
 Lit the blue eyes' patient wonder,
 And the rings of pale gold hair.
-
 She kissed it on lip and forehead,
 She kissed it on cheek and chin,
 And she bared her snow-white bosom
 To the lips so pale and thin.
-
 Oh, fair on her bridal morning
 Was the maid who blushed and smiled,
 But fairer to Ezra Dalton
 Looked the mother of his child.
-
 With more than a lover's fondness
 He stooped to her worn young face,
 And the nursing child and the mother
 He folded in one embrace.
-
 "Blessed be God!" he murmured.
 "Blessed be God!" she said;
 "For I see, who once was blinded,--
 I live, who once was dead.
-
 "Now mount and ride, my goodman,
 As thou lovest thy own soul
 Woe's me, if my wicked fancies
 Be the death of Goody Cole!"
-
 His horse he saddled and bridled,
 And into the night rode he,
 Now through the great black woodland,
 Now by the white-beached sea.
-
 He rode through the silent clearings,
 He came to the ferry wide,
 And thrice he called to the boatman
 Asleep on the other side.
-
 He set his horse to the river,
 He swam to Newbury town,
 And he called up Justice Sewall
 In his nightcap and his gown.
-
 And the grave and worshipful justice
 (Upon whose soul be peace!)
 Set his name to the jailer's warrant
 For Goodwife Cole's release.
-
 Then through the night the hoof-beats
 Went sounding like a flail;
 And Goody Cole at cockcrow
 Came forth from Ipswich jail.
-1865
-
-       .     .     .     .     .
-
+.     .     .     .     .
 "Here is a rhyme: I hardly dare
 To venture on its theme worn out;
 What seems so sweet by Doon and Ayr
@@ -1168,167 +928,129 @@ And pipes by lips Arcadian blown
 Are only tin horns at our own.
 Yet still the muse of pastoral walks with us,
 While Hosea Biglow sings, our new Theocritus."
-
-
-
-THE MAIDS OF ATTITASH.
-
-     Attitash, an Indian word signifying "huckleberry," is the name of a
-     large and beautiful lake in the northern part of Amesbury.
-
+Attitash, an Indian word signifying "huckleberry," is the name of a
+large and beautiful lake in the northern part of Amesbury.
 In sky and wave the white clouds swam,
 And the blue hills of Nottingham
 Through gaps of leafy green
 Across the lake were seen,
-
 When, in the shadow of the ash
 That dreams its dream in Attitash,
 In the warm summer weather,
 Two maidens sat together.
-
 They sat and watched in idle mood
 The gleam and shade of lake and wood;
 The beach the keen light smote,
 The white sail of a boat;
-
 Swan flocks of lilies shoreward lying,
 In sweetness, not in music, dying;
 Hardback, and virgin's-bower,
 And white-spiked clethra-flower.
-
 With careless ears they heard the plash
 And breezy wash of Attitash,
 The wood-bird's plaintive cry,
 The locust's sharp reply.
-
 And teased the while, with playful band,
 The shaggy dog of Newfoundland,
 Whose uncouth frolic spilled
 Their baskets berry-filled.
-
 Then one, the beauty of whose eyes
 Was evermore a great surprise,
 Tossed back her queenly head,
 And, lightly laughing, said:
-
 "No bridegroom's hand be mine to hold
 That is not lined with yellow gold;
 I tread no cottage-floor;
 I own no lover poor.
-
 "My love must come on silken wings,
 With bridal lights of diamond rings,
 Not foul with kitchen smirch,
 With tallow-dip for torch."
-
 The other, on whose modest head
 Was lesser dower of beauty shed,
 With look for home-hearths meet,
 And voice exceeding sweet,
-
 Answered, "We will not rivals be;
 Take thou the gold, leave love to me;
 Mine be the cottage small,
 And thine the rich man's hall.
-
 "I know, indeed, that wealth is good;
 But lowly roof and simple food,
 With love that hath no doubt,
 Are more than gold without."
-
 Hard by a farmer hale and young
 His cradle in the rye-field swung,
 Tracking the yellow plain
 With windrows of ripe grain.
-
 And still, whene'er he paused to whet
 His scythe, the sidelong glance he met
 Of large dark eyes, where strove
 False pride and secret love.
-
 Be strong, young mower of the-grain;
 That love shall overmatch disdain,
 Its instincts soon or late
 The heart shall vindicate.
-
 In blouse of gray, with fishing-rod,
 Half screened by leaves, a stranger trod
 The margin of the pond,
 Watching the group beyond.
-
 The supreme hours unnoted come;
 Unfelt the turning tides of doom;
 And so the maids laughed on,
 Nor dreamed what Fate had done,--
-
 Nor knew the step was Destiny's
 That rustled in the birchen trees,
 As, with their lives forecast,
 Fisher and mower passed.
-
 Erelong by lake and rivulet side
 The summer roses paled and died,
 And Autumn's fingers shed
 The maple's leaves of red.
-
 Through the long gold-hazed afternoon,
 Alone, but for the diving loon,
 The partridge in the brake,
 The black duck on the lake,
-
 Beneath the shadow of the ash
 Sat man and maid by Attitash;
 And earth and air made room
 For human hearts to bloom.
-
 Soft spread the carpets of the sod,
 And scarlet-oak and golden-rod
 With blushes and with smiles
 Lit up the forest aisles.
-
 The mellow light the lake aslant,
 The pebbled margin's ripple-chant
 Attempered and low-toned,
 The tender mystery owned.
-
 And through the dream the lovers dreamed
 Sweet sounds stole in and soft lights streamed;
 The sunshine seemed to bless,
 The air was a caress.
-
 Not she who lightly laughed is there,
 With scornful toss of midnight hair,
 Her dark, disdainful eyes,
 And proud lip worldly-wise.
-
 Her haughty vow is still unsaid,
 But all she dreamed and coveted
 Wears, half to her surprise,
 The youthful farmer's guise!
-
 With more than all her old-time pride
 She walks the rye-field at his side,
 Careless of cot or hall,
 Since love transfigures all.
-
 Rich beyond dreams, the vantage-ground
 Of life is gained; her hands have found
 The talisman of old
 That changes all to gold.
-
 While she who could for love dispense
 With all its glittering accidents,
 And trust her heart alone,
 Finds love and gold her own.
-
 What wealth can buy or art can build
 Awaits her; but her cup is filled
 Even now unto the brim;
 Her world is love and him!
-1866.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 The while he heard, the Book-man drew
 A length of make-believing face,
 With smothered mischief laughing through
@@ -1337,7 +1059,6 @@ And, with his Gentle Shepherd, keep
 On Yankee hills immortal sheep,
 While love-lorn swains and maids the seas beyond
 Hold dreamy tryst around your huckleberry-pond."
-
 The Traveller laughed: "Sir Galahad
 Singing of love the Trouvere's lay!
 How should he know the blindfold lad
@@ -1346,7 +1067,6 @@ He better sees who stands outside
 Than they who in procession ride,"
 The Reader answered: "selectmen and squire
 Miss, while they make, the show that wayside folks admire.
-
 "Here is a wild tale of the North,
 Our travelled friend will own as one
 Fit for a Norland Christmas hearth
@@ -1355,129 +1075,100 @@ They tell it in the valleys green
 Of the fair island he has seen,
 Low lying off the pleasant Swedish shore,
 Washed by the Baltic Sea, and watched by Elsinore."
-
-
-KALLUNDBORG CHURCH
-
-               "Tie stille, barn min
-               Imorgen kommer Fin,
-               Fa'er din,
+"Tie stille, barn min
+Imorgen kommer Fin,
+Fa'er din,
 Og gi'er dig Esbern Snares nine og hjerte at lege med!"
-                                        Zealand Rhyme.
-
+Zealand Rhyme.
 "Build at Kallundborg by the sea
 A church as stately as church may be,
 And there shalt thou wed my daughter fair,"
 Said the Lord of Nesvek to Esbern Snare.
-
 And the Baron laughed. But Esbern said,
 "Though I lose my soul, I will Helva wed!"
 And off he strode, in his pride of will,
 To the Troll who dwelt in Ulshoi hill.
-
 "Build, O Troll, a church for me
 At Kallundborg by the mighty sea;
 Build it stately, and build it fair,
 Build it quickly," said Esbern Snare.
-
 But the sly Dwarf said, "No work is wrought
 By Trolls of the Hills, O man, for naught.
 What wilt thou give for thy church so fair?"
 "Set thy own price," quoth Esbern Snare.
-
 "When Kallundborg church is builded well,
 Than must the name of its builder tell,
 Or thy heart and thy eyes must be my boon."
 "Build," said Esbern, "and build it soon."
-
 By night and by day the Troll wrought on;
 He hewed the timbers, he piled the stone;
 But day by day, as the walls rose fair,
 Darker and sadder grew Esbern Snare.
-
 He listened by night, he watched by day,
 He sought and thought, but he dared not pray;
 In vain he called on the Elle-maids shy,
 And the Neck and the Nis gave no reply.
-
 Of his evil bargain far and wide
 A rumor ran through the country-side;
 And Helva of Nesvek, young and fair,
 Prayed for the soul of Esbern Snare.
-
 And now the church was wellnigh done;
 One pillar it lacked, and one alone;
 And the grim Troll muttered, "Fool thou art
 To-morrow gives me thy eyes and heart!"
-
 By Kallundborg in black despair,
 Through wood and meadow, walked Esbern Snare,
 Till, worn and weary, the strong man sank
 Under the birches on Ulshoi bank.
-
 At, his last day's work he heard the Troll
 Hammer and delve in the quarry's hole;
 Before him the church stood large and fair
 "I have builded my tomb," said Esbern Snare.
-
 And he closed his eyes the sight to hide,
 When he heard a light step at his side
 "O Esbern Snare!" a sweet voice said,
 "Would I might die now in thy stead!"
-
 With a grasp by love and by fear made strong,
 He held her fast, and he held her long;
 With the beating heart of a bird afeard,
 She hid her face in his flame-red beard.
-
 "O love!" he cried, "let me look to-day
 In thine eyes ere mine are plucked away;
 Let me hold thee close, let me feel thy heart
 Ere mine by the Troll is torn apart!
-
 "I sinned, O Helva, for love of thee!
 Pray that the Lord Christ pardon me!"
 But fast as she prayed, and faster still,
 Hammered the Troll in Ulshoi hill.
-
 He knew, as he wrought, that a loving heart
 Was somehow baffling his evil art;
 For more than spell of Elf or Troll
 Is a maiden's prayer for her lover's soul.
-
 And Esbern listened, and caught the sound
 Of a Troll-wife singing underground
 "To-morrow comes Fine, father thine
 Lie still and hush thee, baby mine!
-
 "Lie still, my darling! next sunrise
 Thou'lt play with Esbern Snare's heart and eyes!"
 "Ho! ho!" quoth Esbern, "is that your game?
 Thanks to the Troll-wife, I know his name!"
-
 The Troll he heard him, and hurried on
 To Kallundborg church with the lacking stone.
 "Too late, Gaffer Fine!" cried Esbern Snare;
 And Troll and pillar vanished in air!
-
 That night the harvesters heard the sound
 Of a woman sobbing underground,
 And the voice of the Hill-Troll loud with blame
 Of the careless singer who told his name.
-
 Of the Troll of the Church they sing the rune
 By the Northern Sea in the harvest moon;
 And the fishers of Zealand hear him still
 Scolding his wife in Ulshoi hill.
-
 And seaward over its groves of birch
 Still looks the tower of Kallundborg church,
 Where, first at its altar, a wedded pair,
 Stood Helva of Nesvek and Esbern Snare!
-1865.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 "What," asked the Traveller, "would our sires,
 The old Norse story-tellers, say
 Of sun-graved pictures, ocean wires,
@@ -1486,7 +1177,6 @@ And this, O lady, by your leave,
 Recalls your song of yester eve:
 Pray, let us have that Cable-hymn once more."
 "Hear, hear!" the Book-man cried, "the lady has the floor.
-
 "These noisy waves below perhaps
 To such a strain will lend their ear,
 With softer voice and lighter lapse
@@ -1495,78 +1185,59 @@ And what they once refused to do
 For old King Knut accord to you.
 Nay, even the fishes shall your listeners be,
 As once, the legend runs, they heard St. Anthony."
-
-
-THE CABLE HYMN.
-
 O lonely bay of Trinity,
 O dreary shores, give ear!
 Lean down unto the white-lipped sea
 The voice of God to hear!
-
 From world to world His couriers fly,
 Thought-winged and shod with fire;
 The angel of His stormy sky
 Rides down the sunken wire.
-
 What saith the herald of the Lord?
 "The world's long strife is done;
 Close wedded by that mystic cord,
 Its continents are one.
-
 "And one in heart, as one in blood,
 Shall all her peoples be;
 The hands of human brotherhood
 Are clasped beneath the sea.
-
 "Through Orient seas, o'er Afric's plain
 And Asian mountains borne,
 The vigor of the Northern brain
 Shall nerve the world outworn.
-
 "From clime to clime, from shore to shore,
 Shall thrill the magic thread;
 The new Prometheus steals once more
 The fire that wakes the dead."
-
 Throb on, strong pulse of thunder! beat
 From answering beach to beach;
 Fuse nations in thy kindly heat,
 And melt the chains of each!
-
 Wild terror of the sky above,
 Glide tamed and dumb below!
 Bear gently, Ocean's carrier-dove,
 Thy errands to and fro.
-
 Weave on, swift shuttle of the Lord,
 Beneath the deep so far,
 The bridal robe of earth's accord,
 The funeral shroud of war!
-
 For lo! the fall of Ocean's wall
 Space mocked and time outrun;
 And round the world the thought of all
 Is as the thought of one!
-
 The poles unite, the zones agree,
 The tongues of striving cease;
 As on the Sea of Galilee
 The Christ is whispering, Peace!
-1858.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 "Glad prophecy! to this at last,"
 The Reader said, "shall all things come.
 Forgotten be the bugle's blast,
 And battle-music of the drum.
-
 "A little while the world may run
 Its old mad way, with needle-gun
 And iron-clad, but truth, at last, shall reign
 The cradle-song of Christ was never sung in vain!"
-
 Shifting his scattered papers, "Here,"
 He said, as died the faint applause,
 "Is something that I found last year
@@ -1575,10 +1246,6 @@ I had it from a fair-haired girl
 Who, oddly, bore the name of Pearl,
 (As if by some droll freak of circumstance,)
 Classic, or wellnigh so, in Harriet Stowe's romance."
-
-
-THE DEAD SHIP OF HARPSWELL.
-
 What flecks the outer gray beyond
 The sundown's golden trail?
 The white flash of a sea-bird's wing,
@@ -1587,7 +1254,6 @@ Let young eyes watch from Neck and Point,
 And sea-worn elders pray,--
 The ghost of what was once a ship
 Is sailing up the bay.
-
 From gray sea-fog, from icy drift,
 From peril and from pain,
 The home-bound fisher greets thy lights,
@@ -1596,7 +1262,6 @@ But many a keel shall seaward turn,
 And many a sail outstand,
 When, tall and white, the Dead Ship looms
 Against the dusk of land.
-
 She rounds the headland's bristling pines;
 She threads the isle-set bay;
 No spur of breeze can speed her on,
@@ -1605,7 +1270,6 @@ Old men still walk the Isle of Orr
 Who tell her date and name,
 Old shipwrights sit in Freeport yards
 Who hewed her oaken frame.
-
 What weary doom of baffled quest,
 Thou sad sea-ghost, is thine?
 What makes thee in the haunts of home
@@ -1614,7 +1278,6 @@ No foot is on thy silent deck,
 Upon thy helm no hand;
 No ripple hath the soundless wind
 That smites thee from the land!
-
 For never comes the ship to port,
 Howe'er the breeze may be;
 Just when she nears the waiting shore
@@ -1623,7 +1286,6 @@ No tack of sail, nor turn of helm,
 Nor sheer of veering side;
 Stern-fore she drives to sea and night,
 Against the wind and tide.
-
 In vain o'er Harpswell Neck the star
 Of evening guides her in;
 In vain for her the lamps are lit
@@ -1632,7 +1294,6 @@ In vain the harbor-boat shall hail,
 In vain the pilot call;
 No hand shall reef her spectral sail,
 Or let her anchor fall.
-
 Shake, brown old wives, with dreary joy,
 Your gray-head hints of ill;
 And, over sick-beds whispering low,
@@ -1641,7 +1302,6 @@ Some home amid yon birchen trees
 Shall drape its door with woe;
 And slowly where the Dead Ship sails,
 The burial boat shall row!
-
 From Wolf Neck and from Flying Point,
 From island and from main,
 From sheltered cove and tided creek,
@@ -1650,7 +1310,6 @@ The dead-boat with the bearers four,
 The mourners at her stern,--
 And one shall go the silent way
 Who shall no more return!
-
 And men shall sigh, and women weep,
 Whose dear ones pale and pine,
 And sadly over sunset seas
@@ -1659,10 +1318,7 @@ They know not that its sails are filled
 By pity's tender breath,
 Nor see the Angel at the helm
 Who steers the Ship of Death!
-1866.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 "Chill as a down-east breeze should be,"
 The Book-man said. "A ghostly touch
 The legend has. I'm glad to see
@@ -1672,146 +1328,109 @@ Which one midsummer day I caught
 In Narragansett Bay, for lack of fish."
 "We wait," the Traveller said;
 "serve hot or cold your dish."
-
-
-THE PALATINE.
-
-     Block Island in Long Island Sound, called by the Indians Manisees,
-     the isle of the little god, was the scene of a tragic incident a
-     hundred years or more ago, when _The Palatine_, an emigrant ship
-     bound for Philadelphia, driven off its course, came upon the coast
-     at this point. A mutiny on board, followed by an inhuman desertion
-     on the part of the crew, had brought the unhappy passengers to the
-     verge of starvation and madness. Tradition says that wreckers on
-     shore, after rescuing all but one of the survivors, set fire to the
-     vessel, which was driven out to sea before a gale which had sprung
-     up. Every twelvemonth, according to the same tradition, the
-     spectacle of a ship on fire is visible to the inhabitants of the
-     island.
-
+Block Island in Long Island Sound, called by the Indians Manisees,
+the isle of the little god, was the scene of a tragic incident a
+hundred years or more ago, when _The Palatine_, an emigrant ship
+bound for Philadelphia, driven off its course, came upon the coast
+at this point. A mutiny on board, followed by an inhuman desertion
+on the part of the crew, had brought the unhappy passengers to the
+verge of starvation and madness. Tradition says that wreckers on
+shore, after rescuing all but one of the survivors, set fire to the
+vessel, which was driven out to sea before a gale which had sprung
+up. Every twelvemonth, according to the same tradition, the
+spectacle of a ship on fire is visible to the inhabitants of the
+island.
 Leagues north, as fly the gull and auk,
 Point Judith watches with eye of hawk;
 Leagues south, thy beacon flames, Montauk!
-
 Lonely and wind-shorn, wood-forsaken,
 With never a tree for Spring to waken,
 For tryst of lovers or farewells taken,
-
 Circled by waters that never freeze,
 Beaten by billow and swept by breeze,
 Lieth the island of Manisees,
-
 Set at the mouth of the Sound to hold
 The coast lights up on its turret old,
 Yellow with moss and sea-fog mould.
-
 Dreary the land when gust and sleet
 At its doors and windows howl and beat,
 And Winter laughs at its fires of peat!
-
 But in summer time, when pool and pond,
 Held in the laps of valleys fond,
 Are blue as the glimpses of sea beyond;
-
 When the hills are sweet with the brier-rose,
 And, hid in the warm, soft dells, unclose
 Flowers the mainland rarely knows;
-
 When boats to their morning fishing go,
 And, held to the wind and slanting low,
 Whitening and darkening the small sails show,--
-
 Then is that lonely island fair;
 And the pale health-seeker findeth there
 The wine of life in its pleasant air.
-
 No greener valleys the sun invite,
 On smoother beaches no sea-birds light,
 No blue waves shatter to foam more white!
-
 There, circling ever their narrow range,
 Quaint tradition and legend strange
 Live on unchallenged, and know no change.
-
 Old wives spinning their webs of tow,
 Or rocking weirdly to and fro
 In and out of the peat's dull glow,
-
 And old men mending their nets of twine,
 Talk together of dream and sign,
 Talk of the lost ship Palatine,--
-
 The ship that, a hundred years before,
 Freighted deep with its goodly store,
 In the gales of the equinox went ashore.
-
 The eager islanders one by one
 Counted the shots of her signal gun,
 And heard the crash when she drove right on!
-
 Into the teeth of death she sped
 (May God forgive the hands that fed
 The false lights over the rocky Head!)
-
 O men and brothers! what sights were there!
 White upturned faces, hands stretched in prayer!
 Where waves had pity, could ye not spare?
-
 Down swooped the wreckers, like birds of prey
 Tearing the heart of the ship away,
 And the dead had never a word to say.
-
 And then, with ghastly shimmer and shine
 Over the rocks and the seething brine,
 They burned the wreck of the Palatine.
-
 In their cruel hearts, as they homeward sped,
 "The sea and the rocks are dumb," they said
 "There 'll be no reckoning with the dead."
-
 But the year went round, and when once more
 Along their foam-white curves of shore
 They heard the line-storm rave and roar,
-
 Behold! again, with shimmer and shine,
 Over the rocks and the seething brine,
 The flaming wreck of the Palatine!
-
 So, haply in fitter words than these,
 Mending their nets on their patient knees
 They tell the legend of Manisees.
-
 Nor looks nor tones a doubt betray;
 "It is known to us all," they quietly say;
 "We too have seen it in our day."
-
 Is there, then, no death for a word once spoken?
 Was never a deed but left its token
 Written on tables never broken?
-
 Do the elements subtle reflections give?
 Do pictures of all the ages live
 On Nature's infinite negative,
-
 Which, half in sport, in malice half,
 She shows at times, with shudder or laugh,
 Phantom and shadow in photograph?
-
 For still, on many a moonless night,
 From Kingston Head and from Montauk light
 The spectre kindles and burns in sight.
-
 Now low and dim, now clear and higher,
 Leaps up the terrible Ghost of Fire,
 Then, slowly sinking, the flames expire.
-
 And the wise Sound skippers, though skies be fine,
 Reef their sails when they see the sign
 Of the blazing wreck of the Palatine!
-1867.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 "A fitter tale to scream than sing,"
 The Book-man said. "Well, fancy, then,"
 The Reader answered, "on the wing
@@ -1820,7 +1439,6 @@ But in the ear of wave and breeze!"
 The Traveller mused: "Your Manisees
 Is fairy-land: off Narragansett shore
 Who ever saw the isle or heard its name before?
-
 "'T is some strange land of Flyaway,
 Whose dreamy shore the ship beguiles,
 St. Brandan's in its sea-mist gray,
@@ -1829,7 +1447,6 @@ Or sunset loom of Fortunate Isles!"
 Is the good island known as Block,"
 The Reader said. "For beauty and for ease
 I chose its Indian name, soft-flowing Manisees!
-
 "But let it pass; here is a bit
 Of unrhymed story, with a hint
 Of the old preaching mood in it,
@@ -1838,16 +1455,11 @@ Our friend objects to, which has grown,
 I fear, a habit of my own.
 'Twas written when the Asian plague drew near,
 And the land held its breath and paled with sudden fear."
-
-
-ABRAHAM DAVENPORT
-
-     The famous Dark Day of New England, May 19, 1780, was a physical
-     puzzle for many years to our ancestors, but its occurrence brought
-     something more than philosophical speculation into the winds of
-     those who passed through it. The incident of Colonel Abraham
-     Davenport's sturdy protest is a matter of history.
-
+The famous Dark Day of New England, May 19, 1780, was a physical
+puzzle for many years to our ancestors, but its occurrence brought
+something more than philosophical speculation into the winds of
+those who passed through it. The incident of Colonel Abraham
+Davenport's sturdy protest is a matter of history.
 In the old days (a custom laid aside
 With breeches and cocked hats) the people sent
 Their wisest men to make the public laws.
@@ -1857,14 +1469,12 @@ Waved over by the woods of Rippowams,
 And hallowed by pure lives and tranquil deaths,
 Stamford sent up to the councils of the State
 Wisdom and grace in Abraham Davenport.
-
 'T was on a May-day of the far old year
 Seventeen hundred eighty, that there fell
 Over the bloom and sweet life of the Spring,
 Over the fresh earth and the heaven of noon,
 A horror of great darkness, like the night
 In day of which the Norland sagas tell,--
-
 The Twilight of the Gods. The low-hung sky
 Was black with ominous clouds, save where its rim
 Was fringed with a dull glow, like that which climbs
@@ -1879,7 +1489,6 @@ The black sky, that the dreadful face of Christ
 Might look from the rent clouds, not as he looked
 A loving guest at Bethany, but stern
 As Justice and inexorable Law.
-
 Meanwhile in the old State House, dim as ghosts,
 Sat the lawgivers of Connecticut,
 Trembling beneath their legislative robes.
@@ -1899,7 +1508,6 @@ But ready when the Lord of the harvest calls;
 And therefore, with all reverence, I would say,
 Let God do His work, we will see to ours.
 Bring in the candles." And they brought them in.
-
 Then by the flaring lights the Speaker read,
 Albeit with husky voice and shaking hands,
 An act to amend an act to regulate
@@ -1912,16 +1520,12 @@ His awe-struck colleagues listening all the while,
 Between the pauses of his argument,
 To hear the thunder of the wrath of God
 Break from the hollow trumpet of the cloud.
-
 And there he stands in memory to this day,
 Erect, self-poised, a rugged face, half seen
 Against the background of unnatural dark,
 A witness to the ages as they pass,
 That simple duty hath no place for fear.
-1866.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 He ceased: just then the ocean seemed
 To lift a half-faced moon in sight;
 And, shore-ward, o'er the waters gleamed,
@@ -1930,7 +1534,6 @@ Such as of old, with solemn awe,
 The fishers by Gennesaret saw,
 When dry-shod o'er it walked the Son of God,
 Tracking the waves with light where'er his sandals trod.
-
 Silently for a space each eye
 Upon that sudden glory turned
 Cool from the land the breeze blew by,
@@ -1939,7 +1542,6 @@ Its waves to foam; on either hand
 Stretched, far as sight, the hills of sand;
 With bays of marsh, and capes of bush and tree,
 The wood's black shore-line loomed beyond the meadowy sea.
-
 The lady rose to leave. "One song,
 Or hymn," they urged, "before we part."
 And she, with lips to which belong
@@ -1948,62 +1550,47 @@ Gave to the winds of night a strain
 Which they who heard would hear again;
 And to her voice the solemn ocean lent,
 Touching its harp of sand, a deep accompaniment.
-
-
-THE WORSHIP OF NATURE.
-
 The harp at Nature's advent strung
 Has never ceased to play;
 The song the stars of morning sung
 Has never died away.
-
 And prayer is made, and praise is given,
 By all things near and far;
 The ocean looketh up to heaven,
 And mirrors every star.
-
 Its waves are kneeling on the strand,
 As kneels the human knee,
 Their white locks bowing to the sand,
 The priesthood of the sea'
-
 They pour their glittering treasures forth,
 Their gifts of pearl they bring,
 And all the listening hills of earth
 Take up the song they sing.
-
 The green earth sends her incense up
 From many a mountain shrine;
 From folded leaf and dewy cup
 She pours her sacred wine.
-
 The mists above the morning rills
 Rise white as wings of prayer;
 The altar-curtains of the hills
 Are sunset's purple air.
-
 The winds with hymns of praise are loud,
 Or low with sobs of pain,--
 The thunder-organ of the cloud,
 The dropping tears of rain.
-
 With drooping head and branches crossed
 The twilight forest grieves,
 Or speaks with tongues of Pentecost
 From all its sunlit leaves.
-
 The blue sky is the temple's arch,
 Its transept earth and air,
 The music of its starry march
 The chorus of a prayer.
-
 So Nature keeps the reverent frame
 With which her years began,
 And all her signs and voices shame
 The prayerless heart of man.
-
-       .     .     .     .     .
-
+.     .     .     .     .
 The singer ceased. The moon's white rays
 Fell on the rapt, still face of her.
 "_Allah il Allah_! He hath praise
@@ -2012,7 +1599,6 @@ From all things," said the Traveller.
 And mountain hymns of sunset lights,
 My heart has felt rebuke, as in his tent
 The Moslem's prayer has shamed my Christian knee unbent."
-
 He paused, and lo! far, faint, and slow
 The bells in Newbury's steeples tolled
 The twelve dead hours; the lamp burned low;
@@ -2021,62 +1607,36 @@ One sadly said, "At break of day
 We strike our tent and go our way."
 But one made answer cheerily, "Never fear,
 We'll pitch this tent of ours in type another year."
-
-
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK, PERSONAL POEMS, PART 4 ***
 By John Greenleaf Whittier
-
 ****** This file should be named 9584.txt or 9584.zip ******
-
 This eBook was produced by David Widger
-
-Project Gutenberg eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the US
 unless a copyright notice is included.  Thus, we usually do not
 keep eBooks in compliance with any particular paper edition.
-
 We are now trying to release all our eBooks one year in advance
 of the official release dates, leaving time for better editing.
 Please be encouraged to tell us about any error or corrections,
 even years after the official publication date.
-
 Please note neither this listing nor its contents are final til
 midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg eBooks is at
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.
-
 Most people start at our Web sites at:
 http://gutenberg.net or
 http://promo.net/pg
-
 These Web sites include award-winning information about Project
 Gutenberg, including how to donate, how to help produce our new
 eBooks, and how to subscribe to our email newsletter (free!).
-
-
 Those of you who want to download any eBook before announcement
 can get to them as follows, and just download by date.  This is
 also a good way to get them instantly upon announcement, as the
 indexes our cataloguers produce obviously take a while after an
-announcement goes out in the Project Gutenberg Newsletter.
-
 http://www.ibiblio.org/gutenberg/etext03 or
 ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
-
 Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
-
 Just search by the first five letters of the filename you want,
 as it appears in our Newsletters.
-
-
-Information about Project Gutenberg (one page)
-
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
 to get any eBook selected, entered, proofread, edited, copyright
@@ -2088,34 +1648,11 @@ files per month:  1240 more eBooks in 2001 for a total of 4000+
 We are already on our way to trying for 2000 more eBooks in 2002
 If they reach just 1-2% of the world's population then the total
 will reach over half a trillion eBooks given away by year's end.
-
-The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
 This is ten thousand titles each to one hundred million readers,
 which is only about 4% of the present number of computer users.
-
 Here is the briefest record of our progress (* means estimated):
-
 eBooks Year Month
-
-    1  1971 July
-   10  1991 January
-  100  1994 January
- 1000  1997 August
- 1500  1998 October
- 2000  1999 December
- 2500  2000 December
- 3000  2001 November
- 4000  2001 October/November
- 6000  2002 December*
- 9000  2003 November*
-10000  2004 January*
-
-
-The Project Gutenberg Literary Archive Foundation has been created
-to secure a future for Project Gutenberg into the next millennium.
-
 We need your donations more than ever!
-
 As of February, 2002, contributions are being solicited from people
 and organizations in: Alabama, Alaska, Arkansas, Connecticut,
 Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
@@ -2125,73 +1662,42 @@ Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
 Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
 Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
 Virginia, Wisconsin, and Wyoming.
-
 We have filed in all 50 states now, but these are the only ones
 that have responded.
-
 As the requirements for other states are met, additions to this list
 will be made and fund raising will begin in the additional states.
 Please feel free to ask to check the status of your state.
-
 In answer to various questions we have received on this:
-
 We are constantly working on finishing the paperwork to legally
 request donations in all 50 states.  If your state is not listed and
 you would like to know if we have added it since the list you have,
 just ask.
-
 While we cannot solicit donations from people in states where we are
 not yet registered, we know of no prohibition against accepting
 donations from donors in these states who approach us with an offer to
 donate.
-
 International donations are accepted, but we don't know ANYTHING about
 how to make them tax-deductible, or even if they CAN be made
 deductible, and don't have the staff to handle it even if there are
 ways.
-
 Donations by check or money order may be sent to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Ave.
 Oxford, MS 38655-4109
-
 Contact us if you want to arrange for a wire transfer or payment
 method other than by check or money order.
-
-The Project Gutenberg Literary Archive Foundation has been approved by
 the US Internal Revenue Service as a 501(c)(3) organization with EIN
-[Employee Identification Number] 64-622154.  Donations are
 tax-deductible to the maximum extent permitted by law.  As fund-raising
 requirements for other states are met, additions to this list will be
 made and fund-raising will begin in the additional states.
-
 We need your donations more than ever!
-
 You can get up to date donation information online at:
-
 http://www.gutenberg.net/donation.html
-
-
 ***
-
-If you can't reach Project Gutenberg,
 you can always email directly to:
-
 Michael S. Hart <hart@pobox.com>
-
 Prof. Hart will answer or forward your message.
-
 We would prefer to send you information by email.
-
-
 **The Legal Small Print**
-
-
 (Three Pages)
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
 Why is this "Small Print!" statement here? You know: lawyers.
 They tell us you might sue us if there is something wrong with
 your copy of this eBook, even if you got it for free from
@@ -2199,30 +1705,19 @@ someone other than us, and even if what's wrong is not our
 fault. So, among other things, this "Small Print!" statement
 disclaims most of our liability to you. It also tells you how
 you may distribute copies of this eBook if you want to.
-
-*BEFORE!* YOU USE OR READ THIS EBOOK
-By using or reading any part of this PROJECT GUTENBERG-tm
 eBook, you indicate that you understand, agree to and accept
 this "Small Print!" statement. If you do not, you can receive
 a refund of the money (if any) you paid for this eBook by
 sending a request within 30 days of receiving it to the person
 you got it from. If you received this eBook on a physical
 medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM EBOOKS
-This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
 is a "public domain" work distributed by Professor Michael S. Hart
-through the Project Gutenberg Association (the "Project").
 Among other things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
 without paying copyright royalties. Special rules, set forth
 below, apply if you wish to copy and distribute this eBook
-under the "PROJECT GUTENBERG" trademark.
-
-Please do not use the "PROJECT GUTENBERG" trademark to market
 any commercial products without permission.
-
 To create these eBooks, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works. Despite these efforts, the Project's eBooks and any
@@ -2232,18 +1727,9 @@ corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other eBook medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
 But for the "Right of Replacement or Refund" described below,
-[1] Michael Hart and the Foundation (and any other party you may
-receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
 all liability to you for damages, costs and expenses, including
 legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
 If you discover a Defect in this eBook within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -2253,94 +1739,54 @@ such person may choose to alternatively give you a replacement
 copy. If you received it electronically, such person may
 choose to alternatively give you a second opportunity to
 receive it electronically.
-
-THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
 Some states do not allow disclaimers of implied warranties or
 the exclusion or limitation of consequential damages, so the
 above disclaimers and exclusions may not apply to you, and you
 may have other legal rights.
-
-INDEMNITY
 You will indemnify and hold Michael Hart, the Foundation,
 and its trustees and agents, and any volunteers associated
-with the production and distribution of Project Gutenberg-tm
 texts harmless, from all liability, cost and expense, including
 legal fees, that arise directly or indirectly from any of the
 following that you do or cause:  [1] distribution of this eBook,
-[2] alteration, modification, or addition to the eBook,
 or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
 You may distribute copies of this eBook electronically, or by
 disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
 or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     eBook or this "small print!" statement.  You may however,
-     if you wish, distribute this eBook in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word
-     processing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The eBook, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The eBook may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the eBook (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          eBook in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the eBook refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Foundation of 20% of the
-     gross profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Literary Archive Foundation"
-     the 60 days following each date you prepare (or were
-     legally required to prepare) your annual (or equivalent
-     periodic) tax return.  Please contact us beforehand to
-     let us know your plans and to work out the details.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-Project Gutenberg is dedicated to increasing the number of
+requires that you do not remove, alter or modify the
+eBook or this "small print!" statement.  You may however,
+if you wish, distribute this eBook in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word
+processing or hypertext software, but only so long as
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the eBook (as is
+the case, for instance, with most word processors);
+no additional cost, fee or expense, a copy of the
+eBook in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+"Small Print!" statement.
+gross profits you derive calculated using the method you
+already use to calculate your applicable taxes.  If you
+don't derive profits, no royalty is due.  Royalties are
+the 60 days following each date you prepare (or were
+legally required to prepare) your annual (or equivalent
+periodic) tax return.  Please contact us beforehand to
+let us know your plans and to work out the details.
 public domain and licensed works that can be freely distributed
 in machine readable form.
-
 The Project gratefully accepts contributions of money, time,
 public domain materials, or royalty free copyright licenses.
 Money should be paid to the:
-"Project Gutenberg Literary Archive Foundation."
-
 If you are interested in contributing scanning equipment or
 software or other items, please contact Michael Hart at:
 hart@pobox.com
-
-[Portions of this eBook's header and trailer may be reprinted only
 when distributed free of all fees.  Copyright (C) 2001, 2002 by
-Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
-used in any sales of Project Gutenberg eBooks or other materials be
 they hardware or software or any other related product without
 express permission.]
-
-*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

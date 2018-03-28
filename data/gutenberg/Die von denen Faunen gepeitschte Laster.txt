@@ -1,92 +1,57 @@
-The Project Gutenberg Etext of Die von denen Faunen gepeitschte
+denen Faunen gepeitschte
 Laster by Sidonia Hedwig Zäunemann.
-
 This Etext is in German.
-
 Copyright laws are changing all over the world, be sure to check
 the laws for your country before redistributing these files!!!
-
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-
 This should be the first thing seen when anyone opens the book.
 Do not change or edit it without written permission.  The words
 are carefully chosen to provide users with the information they
 need about what they can legally do with the texts.
-
 **Welcome To The World of Free Plain Vanilla Electronic Texts**
-
 **Etexts Readable By Both Humans and By Computers, Since 1971**
-
 *These Etexts Prepared By Hundreds of Volunteers and Donations*
-
-Information on contacting Project Gutenberg to get Etexts, and
 further information is included below.  We need your donations.
-
 Presently, contributions are only being solicited from people in:
 Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
 Iowa, Indiana, and Vermont. As the requirements for other states
 are met, additions to this list will be made and fund raising will
 begin in the additional states. These donations should be made to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Ave.
 Oxford, MS 38655
-
 Title:  Die von denen Faunen gepeitschte Laster
-
 Author:  Sidonia Hedwig Zäunemann
-
 Release Date:  December, 2001  [Etext #2947]
-
 Edition:  10
-
-The Project Gutenberg Etext of "Die von denen Faunen gepeitschte Laster"
 by Sidonia Hedwig Zäunemann
 ******This file should be named 2947-8.text or 2947-8.zip******
-
 This etext was prepared by Jutta Tragnitz, <JuttaTragnitz@email.msn.com>.
-
-Project Gutenberg Etexts are usually created from multiple editions,
 all of which are in the Public Domain in the United States, unless a
 copyright notice is included.  Therefore, we usually do NOT keep any
 of these books in compliance with any particular paper edition.
-
 We are now trying to release all our books one year in advance
 of the official release dates, leaving time for better editing.
 Please be encouraged to send us error messages even years after
 the official publication date.
-
 Please note:  neither this list nor its contents are final till
 midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.
-
 Most people start at our sites at:
 http://gutenberg.net/pg
 http://promo.net/pg
-
 Those of you who want to download our Etexts before announcment
 can surf to them as follows, and just download by date; this is
 also a good way to get them instantly upon announcement, as the
 indexes our cataloguers produce obviously take a while after an
-announcement goes out in the Project Gutenberg Newsletter.
-
 http://metalab.unc.edu/pub/docs/books/gutenberg/etext01
 or
 ftp://metalab.unc.edu/pub/docs/books/gutenberg/etext01
-
 Or /etext00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
-
 Just search by the first five letters of the filename you want,
 as it appears in our Newsletters.
-
-Information about Project Gutenberg (one page)
-
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
 to get any etext selected, entered, proofread, edited, copyright
@@ -97,62 +62,35 @@ million dollars per hour this year as we release fifty new Etext
 files per month, or 500 more Etexts in 2000 for a total of 3000+
 If they reach just 1-2% of the world's population then the total
 should reach over 300 billion Etexts given away by year's end.
-
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
 Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
 This is ten thousand titles each to one hundred million readers,
 which is only about 4% of the present number of computer users.
-
 At our revised rates of production, we will reach only one-third
 of that goal by the end of 2001, or about 3,333 Etexts unless we
 manage to get some real funding.
-
-Something is needed to create a future for Project Gutenberg for
 the next 100 years.
-
 We need your donations more than ever!
-
 Presently, contributions are only being solicited from people in:
 Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
 Iowa, Indiana, and Vermont. As the requirements for other states
 are met, additions to this list will be made and fund raising will
 begin in the additional states.
-
-All donations should be made to the Project Gutenberg Literary
 Archive Foundation and will be tax deductible to the extent
 permitted by law.
-
 Mail to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Avenue
 Oxford, MS 38655  [USA]
-
-We are working with the Project Gutenberg Literary Archive
 Foundation to build more stable support and ensure the
-future of Project Gutenberg.
-
 We need your donations more than ever!
-
 You can get up to date donation information at:
-
 http://www.gutenberg.net/donation.html
-
 ***
-
 You can always email directly to:
-
 Michael S. Hart <hart@pobox.com>
-
 hart@pobox.com forwards to hart@prairienet.org and archive.org
 if your mail bounces from archive.org, I will still see it, if
 it bounces from prairienet.org, better resend later on. . . .
-
 We would prefer to send you this information by email.
-
 Example command-line FTP session:
-
 ftp metalab.unc.edu
 login: anonymous
 password: your@login
@@ -161,14 +99,9 @@ cd etext90 through etext99 or etext00 through etext01, etc.
 dir [to see files]
 get or mget [to get files. . .set bin for zip files]
 GET GUTINDEX.??  [to get a year's listing of books, e.g.,
-GUTINDEX.99]
 GET GUTINDEX.ALL [to get a listing of ALL books]
-
 **The Legal Small Print**
-
 (Three Pages)
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
 your copy of this etext, even if you got it for free from
@@ -176,28 +109,19 @@ someone other than us, and even if what's wrong is not our
 fault.  So, among other things, this "Small Print!" statement
 disclaims most of our liability to you.  It also tells you how
 you can distribute copies of this etext if you want to.
-
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
 etext, you indicate that you understand, agree to and accept
 this "Small Print!" statement.  If you do not, you can receive
 a refund of the money (if any) you paid for this etext by
 sending a request within 30 days of receiving it to the person
 you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm
 etexts,
 is a "public domain" work distributed by Professor Michael S. Hart
-through the Project Gutenberg Association (the "Project").
 Among other things, this means that no one owns a United States
 copyright on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
 without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
-
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
@@ -207,18 +131,9 @@ corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
 But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
 liability to you for damages, costs and expenses, including
 legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -228,122 +143,68 @@ such person may choose to alternatively give you a replacement
 copy.  If you received it electronically, such person may
 choose to alternatively give you a second opportunity to
 receive it electronically.
-
-THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
 Some states do not allow disclaimers of implied warranties or
 the exclusion or limitation of consequential damages, so the
 above disclaimers and exclusions may not apply to you, and you
 may have other legal rights.
-
-INDEMNITY
 You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
 or addition to the etext, or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
 or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     etext or this "small print!" statement.  You may however,
-     if you wish, distribute this etext in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word pro-
-     cessing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The etext, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The etext may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the etext (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          etext in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Project of 20% of the
-     gross profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Literary Archive Foundation"
-     the 60 days following each date you prepare (or were
-     legally required to prepare) your annual (or equivalent
-     periodic) tax return.  Please contact us beforehand to
-     let us know your plans and to work out the details.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+requires that you do not remove, alter or modify the
+etext or this "small print!" statement.  You may however,
+if you wish, distribute this etext in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word pro-
+cessing or hypertext software, but only so long as
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the etext (as is
+the case, for instance, with most word processors);
+no additional cost, fee or expense, a copy of the
+etext in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+"Small Print!" statement.
+gross profits you derive calculated using the method you
+already use to calculate your applicable taxes.  If you
+don't derive profits, no royalty is due.  Royalties are
+the 60 days following each date you prepare (or were
+legally required to prepare) your annual (or equivalent
+periodic) tax return.  Please contact us beforehand to
+let us know your plans and to work out the details.
 The Project gratefully accepts contributions of money, time,
 public domain etexts, and royalty free copyright licenses.
 If you are interested in contributing scanning equipment or
 software or other items, please contact Michael Hart at:
 hart@pobox.com
-
 *END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.07.00*END*
-
-
-
-
-
 This etext was prepared by Jutta Tragnitz, <JuttaTragnitz@email.msn.com>.
-
-
-
-
-
 Die von denen Faunen gepeitschte Laster
-
 Aufgeführt von Sidonia Hedwig Zäunemannin,
 Kayserlich gekrönter Poetin.
-1739
-
 Gott / der vernünftigen und tugendhaften Welt,
 widmet diese Blätter die Verfasserin.
-
-
-
-
 Vorrede.
-
-
 Geehrter Leser!
-
-
 Meine Muse, welche von dem siebenstuffigten Rohr verschiedener
 Wald=Götter aus ihrem fast jährigen Schlaf unverhoft erweckt worden,
 leget dir anjetzo eine ziemlich starcke Satyre vor, und giebt dir
 zugleich das Recht, darüber zu critisiren und zu richten.
-
 Eine Satyre! wirst du sagen: Dieses ist ja ein solches Stück, das
 nicht allein viel Geschicklichkeit erfordert; sondern, was noch mehr
 ist, nach aller angewandten Mühe und Fleiß, Haß und Verdruß zum Lohn
 bekömmt.  Du wirst meinen, ich hätte lieber ein Lob=Gedichte abfassen,
 zärtlich, galant and vortreflich schmeichlen, als einen kühnen Satyr
 nachspielen sollen.
-
 Du hast recht, mein Leser! daß zu einer vernünftigen Satyre viel
 Kunst erfordert wird.  Dieses hat mich auch bisher von solchen
 Arbeiten abgeschreckt.  Allein wer nichts wagt und versucht, der
@@ -354,7 +215,6 @@ Gemählde öffentlich der Welt vor die Augen, und erwarte hierüber das
 Urtheil vernünftiger und ächter Kenner der Poesie, um mich, wo ich
 hier und da, oder allenthalben gefehlt, künftig zu bessern, und
 geschickter zu machen.
-
 Es ist auch wahr, daß ein Lob=Gedicht sehr liebreich aufgenommen wird;
 dahingegen eine Satyre, wenn sie auch noch so schön gerathen ist,
 dennoch nichts als unfreundliche Gesichter nach sich zieht, und
@@ -363,7 +223,6 @@ Gesichtern ihre Flecken und Runzeln zeiget, und deßwegen wohl nicht
 selten hinweg geworffen wird; obgleich die Schuld nicht an ihm liegt,
 daß sich die heßliche Gestalt nicht besser in ihm vorstellt, als sie
 würcklich von Natur gebildet ist.
-
 Allein, ich habe bishero gelobt, ich habe gerühmt was zu rühmen war.
 Nun muß ich auch in Strafen eine Probe machen, und über diejenigen
 Stücke einen Haß bezeigen, an welchen zu allen Zeiten die tugendhafte
@@ -373,13 +232,11 @@ schreibe, die die Häßlichkeit der Laster zum Objekt hat; als wenn ich
 ein falsches Lob Gedichte abfaßte, von welchem man sagen könte, ich
 hätte über dessen Verfassung nothwendig erröthen, und die Wahrheit
 manchen Schwerd=Stich durch ihre Seele geben müssen.
-
 Und was wilst du denn von mir mehr haben?  Mein Leser! ich lege dir
 ja in dieser einfachen Arbeit, ein gedoppeltes Stück, nemlich eine
 Satyre, da ich die Laster strafe; und ein Lob=Gedichte, da ich die
 guten Sitten den Lastern entgegen setze, und die Tugenden, nebst
 ihren Besitzern lobe und erhebe, vor die Augen!
-
 Ich tadle die Unarten der Menschen: Dencke also nicht Mein Leser! daß
 ich von Personen schreiben und dieselben durchziehen, viel weniger
 mich an meinen Feinden oder Spöttern rächen, und sie auf den
@@ -395,7 +252,6 @@ sinnreiche und beisende Art vorzustellen, und zu bestrafen bemüht ist.
 In wie weit ich dieses letztere getroffen, das werde ich zu meiner
 künftigen Verbesserung von Kennern hören, und mit dem größten Danck
 annehmen.
-
 Ich habe demnach zum Object meiner Satyre nichts anderes als die im
 Schwang gehende Laster, und die unartigen Handlungen derer meisten
 Menschen genommen.  Es sey ferne! daß ich von allen und jeden reden,
@@ -407,7 +263,6 @@ Mißbrauch.  Ich hätte auch wie bekannt, von noch weit mehrern Lastern
 und Mißbräuchen schreiben können; allein die Zeit, und die Betrübniß
 über den tödtlichen Hintrit meiner seel.  Frau Mutter hat mich davon
 abgehalten.
-
 Die meisten Menschen, und sonderlich das Frauenzimmer, haben den
 üblen Gebrauch, daß die sich bey müsigen Stunden über anderer
 Menschen von beyderley Geschlecht, öfters gar geringen Schwachheiten,
@@ -419,7 +274,6 @@ zürnen darf, so wohl über die Mannes=Personen, als über das
 Frauenzimmer; doch nicht auf eine pöbelhafte, niederträchtige und
 kindische Art; sondern so viel mir möglich, auf eine ernsthafte Weise,
 in nachstehenden Zeilen moquiren.
-
 Betrachtest du also, Mein Leser! diese Schrift, und du bist
 tugendhaft, so wirst du mit meinen Gedancken übereinstimmen, und
 deßwegen keinen Haß und Zorn auf mich werfen.  Bist du aber mit ein
@@ -428,20 +282,12 @@ wilst du über den Spiegel, der dir deine Flecken zeigt, und über den
 Meister, der ihn geschliffen hat, böse werden.  Schäme dich deiner
 dir selbst gemachten Flecken, und werde über deine muthwillige
 Unarten böse.
-
 Du kanst dich an mir nicht besser davor rächen, als wenn du deine
 Thorheiten ablegest und dich besserst, und mir hernach, wie
 diejenigen, die warhaft tugendhaft sind, gewogen wirst und bleibst,
 als warum ich dich und alle Menschen freundlich ersuche.
-
-
-
-
-
 Die von denen Faunen gepeitschte Laster
 von Sidonia Hedwig Zäunemann
-
-
 Auf einmahl reget sich der fast erstickte Trieb;
 Das, was ich sonst gescheut, gewinn ich jetzo lieb;
 Das, was ich bloß aus Furcht, es möchte nicht gelingen,
@@ -464,7 +310,6 @@ Spielt nur so gut ihr könnt, auf Pfeiffen oder Flöthen.
 Ihr dürft, weil ihr schon roth, euch nicht dabey erröhten.
 Auf! macht mir eine Lust! und auch dem Musen=Fürst;
 Und singt der Welt zu Trutz, die schon die Zähne knirst.
-
 Au! Weh! was seh ich dort? Mein Wahn hat nicht gelogen,
 Ein grau Gewitter kömmt mit Blitz und Knall gezogen.
 Die Luft verfinstert sich, die Sonne büßt den Schein,
@@ -485,7 +330,6 @@ Sinds Fische, die sich hier in dieser Fluth bewegen?
 Es ist ja, wie mich dünkt kein schlecht, gemeiner Regen.
 Solls Ungeziefer seyn, das Feld und Wald vergift,
 Und Schaden und Verderb auf Berg und Wiesen stift?
-
 So ists: jedoch weit mehr: es ist ein Menschen=Regen.
 Komm Pluto! komm und sieh! o welch ein schöner Seegen!
 Empfande Jupiter Angst, Schmerzen, Quaal und Noth,
@@ -504,7 +348,6 @@ Dieß Volk bedeckt die Welt; der Bart womit es prangt,
 Zeigt gnug, wie viel es schon an Kraft und Stärk erlangt.
 Ja Kräfte in der Faust; nicht aber im Gehirne,
 Mit Runzeln wächst zugleich die Boßheit in der Stirne.
-
 Steig alter Midas! steig! aus deiner schwarzen Gruft,
 Hör! wie dein edles Volk so sehnlich nach dir ruft,
 Vernimm wie treu es dich auch nach dem Tode liebet,
@@ -549,7 +392,6 @@ Ein jeder ehrt und liebt die Regeln der Natur;
 Ein jeder folget ja der Tugend Licht und Spuhr,
 Und zeigt die Laster=Bahn, und sucht der Welt zu nützen.
 Allein der Dichter kan fast niemahls ruhig sitzen.
-
 Zu dieser tollen Art und frecher Seltenheit,
 Giebt der belebte Reim wohl nicht Gelegenheit;
 Nein, sondern die Vernunft ist noch nicht ausgeheitert,
@@ -566,7 +408,6 @@ Was Wunder? daß dieß Volk Satyren haßt und scheut,
 Und deiner Sitten=Lehr mit Fluch und Grimme dräut.
 O! daß doch Knall und Blitz dieß Volck herab gesendet,
 Das Klugheit und Vernunft in Dichter=Schriften schändet!
-
 Wo ist die alte Zeit, in der die Dichtungs=Kunst,
 Von grossen Königen, mit hoher Huld und Gunst
 Und Preiß belohnet ward? Die Tage sind verschwunden,
@@ -615,7 +456,6 @@ Homerus Helden=Lied weicht jetzt dem schnöden Reim
 In dem Secundens Kiel der Liebe Honigseim
 Natürlich abgemahlt.  Banisens Flucht und Lieben
 Ergötzt jetzt mehr als das, was Seneca geschrieben.
-
 So giengs vor Zeiten nicht. Witz und Geschickligkeit
 War damahls wie man weiß, der Dame schönstes Kleid
 Und gröster Ehren=Schmuck; Tholusa läßt uns lesen,
@@ -624,7 +464,6 @@ Der Aquitaner Volk war, wie gesagt, auf Ehr
 Und Ruhm und Glanz bedacht; und suchte nichts so sehr,
 Als sich durch Tapferkeit und Weißheit aufzuschwingen,
 Und in die Ewigkeit vor andern einzudringen.
-
 Die Alleredelsten und Grösten an Vernunft,
 Verbanden sich daher und schlossen eine Zunft,
 Worbey der Vorsatz war, die Thaten ihrer Helden
@@ -655,7 +494,6 @@ Wie man das höchste Gut der Seelen=Ruh erlanget,
 Und durch den Ehren=Kranz am Sternen=Himmel pranget;
 Wie man, wenn andre hier im Welt=Getöse sind,
 Dort in der Einsamkeit die gröste Anmuth findt.
-
 Wer kan uns wohl anjetzt viel kluge Damen nennen,
 Die von der Poesie ein Urtheil fällen können?
 Ach leyder! ist bekant, daß man jetzt wenig findt,
@@ -672,7 +510,6 @@ Ja steht auch dieß nicht an, das Müthgen abzukühlen,
 So läßt man nur im Bret und auf der Dame spielen.
 O! solten wir den Preiß jetzt von den Damen sehn,
 Wie würd es doch so kahl um Sieg und Vorzug stehn?
-
 Zwar kan ein Dichter noch zuweilen dieß geniessen,
 Daß Augen voller Gnad auf seine Blätter schiessen;
 Allein er nehme sich mit seinen Kiel in acht,
@@ -697,7 +534,6 @@ Doch nur allein vors Blat; sonst hat er nichts zu hoffen.
 Zwey Menschen steht ein Weg zu gleichen Schicksaal offen;
 Doch suchen sie umsonst: Ein Dichter und Chymist,
 Weil einer so ein Narr als wie der andre ist.
-
 Die Dichtkunst bleibt nicht nur ein Stief=Kind stets vom Glücke,
 Ihr Lohn sind noch darzu der Mißgunst Feuer=Blicke,
 Absonderlich wenn sich das Frauen=Volk bemüht,
@@ -738,7 +574,6 @@ Im Krieg, wo Cypripor der Venus Feldherr worden.
 Ihr sagt: Die Wissenschaft wär nur dem Männer=Orden
 Vom Schöpfer zugedacht: Ihr müstet nur allein
 Beherrscher über Buch, und Kunst und Federn seyn.
-
 Was vor ein toller Wurm hat euren Kopf durchfressen,
 Daß ihr euch nur allein dieß Recht sucht beyzumessen?
 Der Schöpfer hat uns ja mit gleichen Geist bedacht,
@@ -755,7 +590,6 @@ Jemehr soll unser Geist das Chor der Musen lieben,
 Jemehr wird untersucht, je mehr wird aufgeschrieben.
 Wir sind dem Palm=Baum gleich, der sich gen Himmel schwingt,
 Jemehr man Druck und Last auf seine Zweige bringt.
-
 Ein kluges Weibes=Bild das auf was hohes sinnet,
 Buch, Kiel und Rohr ergreift,und Phöbum lieb gewinnet;
 Der Warheit Grund erforscht; den Geist in Schriften übt,
@@ -766,7 +600,6 @@ Wer dieß nicht leiden kan, der lege nur bey Zeit,
 Die Lust zur Wissenschaft, Buch, Kiel und Rohr beyseit.
 Der Haß wird gleich erweckt so bald die Flöthen klingen,
 Und wir nach Musen Art mit unsern Lippen singen.
-
 Wie oftmals hab ich nicht aus Unmuth und Verdruß,
 Weil man so viel Geplärr und Narrheit hören muß,
 Manch schönes Tage=Werck in tausend Stück zerrissen,
@@ -791,9 +624,7 @@ Der Vorsatz ist gefaßt, die Flöthe ist gestimmt;
 Was frag ich nach dem Neid, der sich schon windt und krümt.
 Ich singe von der Welt und von verderbten Sitten:
 Mein Satyr hat sich schon ein neues Rohr geschnitten.
-
 *  *  *
-
 Da noch die Erde stund; die Sonn im Cirkel lief;
 Da man den tapfersten zum Regiment berief;
 Da Helden aus der Schlacht durch ihre Kunst im Siegen,
@@ -835,7 +666,6 @@ Verschwendung war so sehr als wie der Geitz verhaßt;
 Da pflegte man sich noch in reine Keuschheits=Seiden,
 Und nicht in Wollusts=Schmuck und Hoffart einzukleiden.
 Ein jeder hatte sich nach seinem Stand geschmückt.
-
 Da aber nach der Zeit der Thier=Kreiß sich verrückt,
 Und ein Copernicus den Erd=Ball umgedrehet,
 Daß nun derselbe lauft, die Sonne stille stehet;
@@ -843,9 +673,7 @@ So hält die Tugend auch im Lauf gar öfters ein,
 Es scheint der Menschen Thun ganz umgekehrt zu seyn.
 Jetzt zeigt die Demuth nicht die schönen alten Proben.
 Die Sitten sind verderbt, wer will die Zeiten loben?
-
 * * *
-
 Der Seelen Wandelung wird niemand Glauben geben.
 Warum? Wir wissen jetzt von einem andern Leben.
 Inzwischen sieht man doch daß Ahabs schnöder Geist,
@@ -898,12 +726,10 @@ Das Evangelium mag hin und her gebiethen,
 So sucht doch Jesabel und Ahab fort zu wüthen.
 Da wird der arme Mann mit List, Gewalt und Macht
 Um Haus und Feld und Vieh, und was er hat, gebracht.
-
 Heist dieß das Richter=Amt an GOttes statt verwalten?
 Heist diß den Unterthan bey Freyheit zu erhalten?
 Es sollen Väter seyn, durch die sich jeder nehrt;
 Ja Räuber, deren Wuth der Armen Schweiß verzehrt.
-
 Wenn edle Geister sich durch Pulver oder Schriften,
 Durch Großmuth, Fleiß und Witz ein ewig Denkmaal stiften:
 So wünscht ihr auch ein Maal damit man von euch spricht.
@@ -916,9 +742,7 @@ O Ruf! der euch ein Maal, ein Brandmaal ins Gewissen
 Und Schandfleck ins Gesicht geritzet und gebissen.
 So tobt, so raßt die Welt, so stirbet die Vernunft;
 So lebt die Laster=Brut; so blüht der Thoren Zunft.
-
 * * *
-
 Ach! die Gerechtigkeit steht in verhaßten Orden,
 Und ist jetzt leider! fast zur Exulantin worden.
 Die Boßheit und der Geitz, der Laster schnaubend Heer
@@ -927,7 +751,6 @@ So sind die Ohren taub. Mit ihren frommen Minen,
 Muß sie der tollen Welt zum Hohn=Gelächter dienen.
 Wie jämmerlich siehts doch um ihr geheiligt Haus,
 Um ihren Richterstuhl und Schwerd und Wage aus.
-
 Den Brief, den der Prophet am Himmel sahe fliegen,
 Nach welchem Diebstahl, Mord, und Meineid und Betrügen
 Vor from gesprochen ward, der ist anjetzt das Geld,
@@ -984,14 +807,12 @@ Da heists: Ihr habt kein Recht: Wer Geld giebt der gewinnet.
 Des Frommen Angesicht, das voller Thränen rinnet,
 Wird jetzt nicht mehr geacht; der Witwen Klag=Geschrey,
 Der Waysen heisses Flehn steht man durchs Recht nicht bey.
-
 Verfluchte Gottesfurcht! verdammtes Christen=Leben!
 Heist dieß dem Recht sein Recht nach GOttes Vorschrift geben?
 O! sollen dieses wohl der Armen Väter seyn?
 O! möchte nicht das Recht zu GOtt um Rache schreyn?
 Bey Heyden wird man kaum dergleichen That und Sünden,
 So wenig Gottesfurcht, als unter Christen finden.
-
 O groser Samuel! bleib ja in deiner Gruft,
 Steh nicht von Todten auf; komm nicht in deutsche Luft.
 Man würde sonst dein Amt und richterlich verwalten
@@ -1004,14 +825,12 @@ Wem ich das Recht gebeugt, der zeuge wider mich!
 O! diese Reden sind anjetzt zu lächerlich:
 Der Hochmuth wächst und steigt, der Geitz hat zugenommen.
 Wie würde man denn sonst zu solchen Reichthum kommen?
-
 O! gieng der Heyland jetzt von neuen auf die Welt,
 Und spräch: Wer unter euch nichts von Geschenken hält,
 Und davon freyer ist als dort die Pharisäer
 Von Sünd und Ehebruch, der komm und trete näher,
 Ihr andern weicht von mir! wie viele würden fliehn,
 Und sich beschämt und stumm mit Furcht zurücke ziehn.
-
 Solt Alexander jetzt wie ehemals geschehen,
 In ganz verstellter Tracht auf manches Richthaus gehen, (b)
 Er träffe warlich nicht dergleichen Männer an,
@@ -1034,9 +853,7 @@ Wo sieht man, daß der Herr jetzt im Gerichte wohnt?
 Daß man die Frevler straft, die Unschuld aber schohnt,
 Und den Regenten=Stab mit Tugend unterstützet,
 Mit rechtlich kluger Hand die Acten=Feder schnitzet?
-
 * * *
-
 Wie glücklich ist ein Mensch der stets das Ohr verstopft,
 Wenn gleich die Tugend kömmt und thränend klagt und klopft.
 Wie wohl, wie wohl ist dem, der stille sitzt und schweiget,
@@ -1045,14 +862,12 @@ Ein zugeschloßenes Ohr, ein zugehüllt Gesicht,
 Und einen Mund der nichts als Ja zu allen spricht,
 Ein Auge voller List erfordern unsre Zeiten,
 Wer so nicht leben kan der wird nicht viel bedeuten.
-
 Doch nein! mein Eifer brennt, er ist gerecht und gut.
 Wer nur die Laster schilt, wer nur die tolle Brut
 Bey ihren Nahmen nennt, und vor den Spiegel stellet,
 Der kämpft wie ein Soldat der tolle Feinde fället,
 Und kriegt ein gleiches Lob, von der noch guten Welt,
 Die nach der Tugend greift, und noch auf Wohlstand hält.
-
 Was vor ein heiser Schmertz hat meine Brust befallen!
 Der Adern rothe Saft fängt kochend an zu wallen;
 Mein Herz bebt wie ein Blat, mein Geist entsezt sich ganz,
@@ -1069,7 +884,6 @@ Jezt scheint der Tugend=Licht sich gleichsam zu verdunkeln:
 Sie kan, O Finsterniß! nicht mehr wie ehmahls funkeln.
 Carthago schimpft sich noch.  Denn sie vergab ums Geld
 Amt, Ehre, Stand und Dienst; was thut denn unsre Welt?
-
 Wie thörigt würde doch dein Rath o Jethro! klingen,
 Wenn du wie ehemals den Vortrag woltest bringen:
 Sezt diese, diese nur in Amt und Dienste ein
@@ -1078,7 +892,6 @@ Ja, die den schnöden Geiz von Grund der Seele hassen:
 Man würde dir gewiß ein Liedgen singen lassen,
 Das dir sehr schlecht gefiel. Es hieß: der Mann ist toll,
 Er weiß noch nicht einmahl wie man recht leben soll.
-
 Die Zeit ist nicht mehr hier, die ehedem gewesen,
 Denn was wir hier und da in alten Büchern lesen,
 Das geht bey uns nicht an. Die Zeiten sind jezt neu,
@@ -1089,7 +902,6 @@ Der steiget schnell empor, und wird ein Licht der Stadt,
 So wenig er auch sonst an Witz und Tugend hat.
 So wenig er erlernt, wie man den Richt=Stuhl zieren,
 Und was man wissen muß, ein Amt gerecht zu führen.
-
 So geht es, leider! her. Allein was folgt darauf?
 Dem Miethling ist nunmehr die Themis selbst zu kauf;
 Sein drangewandtes Geld läßt ihn nicht ruhig schlafen,
@@ -1098,7 +910,6 @@ Mit Vortheil wieder zieht. Da sinnt er auf Betrug,
 Setzt viele Sporteln an, und andre Kosten gnug.
 Da wird der Neben=Christ, der Unterthan gedrücket,
 So gut sichs nach der Zeit und seinem Anschlag schicket.
-
 Wem aber nicht das Glück die Börse schwer gemacht,
 Der wird durch Kupplerey zu Amt und Stand gebracht,
 Er schleicht sich voller List und Schmeicheley nach Hofe,
@@ -1115,7 +926,6 @@ Man hat den alten Brauch nunmehro abgethan,
 Da bloß der Mann durch sich zum Manne werden kan.
 Durch Weiber müssen jetzt die Männer Männer werden:
 Durch Weiber werden jetzt auch Hirten über Heerden.
-
 Ich tadle dieses nicht, daß sich ein Mann bemüht,
 Und bey dem Ehverband auf seine Wohlfahrt sieht,
 Ein kluger muß ein Schmidt von seinem Glücke heisen.
@@ -1138,7 +948,6 @@ Wenn Saul des Davids Glück und Treu und Dienst betrachtet,
 Und Michal ihm zur Braut zu geben würdig achtet,
 Diß kommt vom Sternen=Pol und von der Allmacht her.
 So fördert keusche Lieb Glück, Wohlstand, Ruhm und Ehr.
-
 Wenn aber sich ein Mann nach Frauen=Lippen sehnet,
 Die schon ein geiler Mund beflecket und verwehnet;
 Wenn er die Delila so hoch als Sara schätzt,
@@ -1147,14 +956,12 @@ Um nur der Fürsten Gunst und Liebe zu erlangen,
 Und als ein Herr und Mann in Amt und Dienst zu prangen
 Der muß schier fällt mir gleich das alte Sprichwort ein;
 Ein rechter braver Kerl, ja wohl noch sonst was seyn.
-
 Doch warum ärgert euch, die Heyrath frecher Dirnen?
 Was, soll ich über euch ihr Venus=Nympfen zürnen?
 Nahm doch Hosea dort, der ein Prophete war,
 Zu seiner Frau ein Weib aus frecher Huren=Schaar.
 Wer kan es wohl mit Recht den Dürftigen verdencken,
 Wenn sie aus Geld=Begier ihr Herz der Dina schenken?
-
 Wer hat bey Fürsten Glück? wer baut sein Ehren=Haus
 Bey Göttern dieser Welt? vieleicht wer frey heraus
 Und nach der Redlichkeit die rechte Art beschreibet,
@@ -1185,7 +992,6 @@ Und Dienste Gaben legt, die vormahls nicht gewesen,
 Von welchen sonst kein Wort im Freyheits=Brief zu lesen;
 Wie man die Bürgerschaft mit Zoll, Accieß beschwert,
 Und ihnen mit Manier den Beutel folgends leert.
-
 Doch seht! ihr brüstet euch und gebt mir zu verstehen,
 Es fordre grosen Witz mit Prinzen umzugehen,
 Man müsse jederzeit aus Ehrfurcht, Lieb und Treu
@@ -1194,7 +1000,6 @@ Gar recht: Bedenkt auch nur fein allzeit das Gewissen;
 Ihr dürft es leicht versehn, so trit man euch mit Füssen;
 Vom Feuer und vom Licht bleibt schlaue Klugheit fern,
 Denn wer zu nahe kömmt derselbe brennt sich gern.
-
 Ihr Thoren! die ihr euch so gern in Fuchs=Peltz kleidet
 Wie kömmt es, daß ihr nicht die glatten Worte meidet?
 Ist wohl ein Fuchs so dumm, daß er sich dahin hält,
@@ -1213,7 +1018,6 @@ Je schnell, je höher man bey grosen Herren steigt,
 Je näher ist das Glück zu seinem Fall geneigt.
 Wie öfters sinken nicht die grösten Favoriten!
 Erst herrschten sie im Schloß; jetzt darben sie in Hütten.
-
 Ihr Thoren! die ihr euch nach Herren Gnade dringt,
 Und sie durch mancherley Betrug und List erzwingt,
 Wenn gleich der Bürger seufzt, und euch im Herzen hasset,
@@ -1232,21 +1036,17 @@ Und nur verspottet wird; wer Herren Gnade trauet,
 Der hat sein Haus und Glück auf leichten Sand gebauet;
 Der schwebt wie auf dem Meer, da bald ein Sturm entsteht,
 Wodurch Glück, Hofnung, Trost und Leben untergeht.
-
 Ein andrer Weg ist noch (wenn sonst nichts mehr zu hoffen,
 Und Treu und Tugend weg) zum Amt und Ehre offen.
 Verläugne deinen GOtt und die Religion,
 So trägest du ein Amt und manch Geschenk davon.
-
 Ist das die schöne Bahn zur Ehren=Burg zu steigen?
 Wie will ein solcher sich gerecht und Treu bezeigen?
 Folgt nicht hieraus der Schluß: Wer GOtt nicht Glauben hält,
 Und ihn verschwört und teuscht, der wird gewiß der Welt,
 Dem Nächsten und dem Land wohl schwerlich treu verbleiben,
 Und sein vertrautes Amt gewissenhaftig treiben.
-
 * * *
-
 Wie glücklich warst du doch berühmtes Griechenland!
 In deinem größten Glanz; ich meine, da dein Stand
 In Flor und Freyheit war; da man die Arbeit liebte;
@@ -1257,7 +1057,6 @@ Du warest ohne Geld und Stand berühmt und weise,
 Die Tugend ward belohnt; nach klug vergoßnem Schweise
 Ward jeden nach Verdienst der Ehren=Kranz gebracht,
 Und also durch sich selbst die Bahn des Glücks gemacht.
-
 Wo sind die Zeiten hin, da die Gymnosophisten
 Die Jugend eher nicht mit Kost und Lob begrüsten,
 Als biß ein jeder sprach: Dieß hab ich heut gethan;
@@ -1314,7 +1113,6 @@ Ja, ist die Noth auch gleich aufs äuserste vorhanden,
 Und scheints, als würde jetzt der Doctorand zu schanden,
 Weil er nichts reden kan, so legt ein Freund sich drein,
 Und sucht in dieser Angst sein Advocat zu seyn.
-
 O du Beredsamkeit! Was fliehst du von den meisten,
 Und wilst zur Zeit der Noth gar keinen Beystand leisten.
 Jedoch was klag ich doch den Götter=Bothen an?
@@ -1330,15 +1128,12 @@ Geschickte Antwort thun, so viel er Kundschaft hat.
 So wird ein Candidat doch so viel Maul besitzen,
 Als ihn zur Zeit der Noth zur Ehre könte nützen.
 Die schlechte Wissenschaft und nicht der Mund ist Schuld;
-
 Die Liebe hat indeß mit Stümpern auch Gedult.
 O Deutschland! glaube nicht bey Schenckung deiner Ehren,
 Als ob in Welschland nur Doctores fruchtbar wären;
 Du kriegst jetzt gleichen Ruhm. Nicht wahr? du sagest ja,
 Dein groser Inbegrif hält manches Padua.
-
 * * *
-
 Welch ein Trommeten=Thon erschallet biß an Himmel!
 Wer macht ein solch Getöß und mächtiges Getümmel
 Wie dorten Jacobs Fürst vor Jericho gethan?
@@ -1354,7 +1149,6 @@ Ich geb euch Geist und Kraft, Verstand und Stärke mit.
 Ihr spührt in meinem Dienst nichts von Gefährlichkeiten,
 Die andre Leute sonst bey ihrem Thun begleiten.
 Nehmt nur die Lehren an die euch mein Mund erklärt:
-
 Ihr Kinder! wenn vieleicht ein Herr von euch begehrt,
 Dieß oder jens zu thun; die Arbeit zu vollenden,
 Dieß Stück zu übergehn, und dieß zu übersenden.
@@ -1366,7 +1160,6 @@ Und wenn euch ja ein Wort von den Propheten droht,
 So unterdrückt den Trieb, und werdet ja nicht roth;
 Nehmt falsche Großmuth an, verlachet alle Schande,
 So seyd ihr mit der Zeit die Herrlichsten im Lande.
-
 Kein tapfrer General, der in dem Felde wacht,
 Hat je mit solchem Glück die Herzen aufgebracht,
 Als jetzt der Heucheley ihr Vorsatz ist gelungen.
@@ -1379,7 +1172,6 @@ Wird ihr beliebtes Reich mit aller Macht erbaut;
 Ja Häupter, die man sonst vor Säulen angeschaut,
 Um vor den Riß zu stehn, sind meistentheils bemühet,
 In ihrem Dienst zu seyn, damit ihr Glücke blühet.
-
 Hebt eure Augen auf, dort sitzt so mancher Mann,
 Der Zung und Lippen hat, und doch nicht reden kan.
 Ich glaub die Allmachts=Hand hat solche statt der Götzen
@@ -1394,7 +1186,6 @@ Und wo ein Redlicher im Volke zu erblicken
 Den schwärzt man schändlich an, und sucht ihn zu ersticken.
 Die Glaubens=Väter sind bey der Verläumdung kühn,
 Wenn sie durch Lästerung um Fuchs=Schwanz sich bemühn.
-
 Greift dort des Gegners Mund auf Lehrstuhl und Catheder
 Kirch, Wort und Lehre an, und thut was sonst ein jeder
 Nach Amt und Glaubens=Pflicht zu halten schuldig ist,
@@ -1413,7 +1204,6 @@ Sind in dem Eifer kalt, und in der Liebe lau.
 Wo wiederleget man der Gegner Wort genau?
 Wo suchet man den Schimpf der Kirche abzulehnen?
 Und denen, die da schwach, den vesten Weg zu bähnen?
-
 Wer vor der Kirche Ruhm und Ehr und Ansehn ficht,
 Braucht gar nicht, daß er frech und lästerhaftig spricht;
 Mit sanfter Freundlichkeit, bescheiden und gelassen
@@ -1424,7 +1214,6 @@ So aber schweiget man gleich wie zum Lästern stille,
 Die Fehler groser Herrn erblickt man durch die Brille;
 Den Reichen siehet man auch durch die Finger hin;
 Denn Heuchlen bringet Gunst, Geschenke und Gewinn.
-
 Wie hat die Heucheley den Geist so gar verblendet?
 Wacht das Gewissen auf, so wird gleich eingewendet:
 Red ich nach meiner Pflicht, so nimmt die Ehre ab.
@@ -1435,17 +1224,14 @@ Sagt, nennt mir einen nur, den man aus einer Stadt
 Um GOttes Lehr und Ehr hinweg getrieben hat.
 (O! liessen wir doch GOtt in allen Stücken walten!)
 Ob ihm die Vorsicht nicht ein Zoar aufbehalten?
-
 Wer ist der, wenn man ihn an seinem Ruhm verletzt,
 Sich nicht darwieder legt? GOtt wird zurück gesetzt.
 Vor seine Lehr und Ehr will man nicht muthig kämpfen,
 Noch Feind und Lästerer mit Wort und Eifer dämpfen.
-
 Wo werd ich hingerückt? Auf einmal stellt sich mir
 Bey hellem lichten Tag ein Saal der Helden für,
 Mit Helden, die beherzt, so stark sie nur vermochten,
 Vor GOttes Wort und Ehr und seinen Ruhm gefochten.
-
 Ein jedes Helden=Bild ist künstlich abgemahlt;
 Im Tode sieht mans noch wie scharf ihr Auge strahlt;
 Das kurze Sinn-Gedicht läßt uns ihr heilig Wesen
@@ -1478,12 +1264,10 @@ Bey Paulo leß ich dieß: Ich floh die Heucheley,
 Was Felix wissen muß, das sagt ich ohne Scheu.
 Ich habe Hohn und Spott, Verfolgung und Verjagen
 Um JEsu Wort und Lehr mit Freudigkeit getragen.
-
 Hiermit verschwand der Saal mit allen Bilderwerk,
 Und ließ mir diese Schrift zum letzten Augenmerk:
 Der Helden Ehren=Bild wird in der Schrift gefunden,
 Auf Erden ist ihr Geist und Bild, schon längst verschwunden.
-
 Schweigt, schweigt ihr Physici, ich glaub euch nun nicht mehr,
 Daß nur der Basilisk in wüsten Höhlen wär,
 Man könte nirgends sonst die sehr verschmizte Schlangen,
@@ -1496,7 +1280,6 @@ Der Schooß Germaniens, das deutsche Herz und Blut,
 Ist jezt ihr Aufenthalt, alwo sie sicher ruht.
 Sie hat sich an der Brust der Menschen umgeschlungen,
 Daß auch ihr starker Gift durch Fleisch und Blut gedrungen.
-
 Mir schaudert jezt die Haut, daß ich sie nennen soll,
 Wie ist doch unsre Zeit von den Verläumdern voll?
 Wo ist dein alter Ruhm o Deutschland! hingekommen?
@@ -1525,7 +1308,6 @@ Weicht alte Tugenden, und geht in Trauer=Flor,
 Mit kläglichem Gesang zu dieser Zeit hervor.
 Vieleicht wird unsre Zeit dadurch einmahl gerühret,
 Daß sie nach eurem Schmuck auch ein Verlangen spühret.
-
 Doch nein! es ist umsonst! Die Welt verlacht euch nur;
 Sie nimmt die Birke schon und peitscht euch aus der Flur.
 Hinweg! hinweg! mit euch! schreyt die Verläumdung immer.
@@ -1560,7 +1342,6 @@ Ja die Gerechtigkeit muß sich fast auf der Gassen
 Von dem Verläumdungs=Zahn zur Schmach verlästern lassen.
 Des Bürgers Redlichkeit; des Weisen Tugend=Bahn,
 Glück, Ehre, Keuschheit, Fleiß haucht, spritzt und speyt man an.
-
 Käm Moses jezt aufs neu von Sinai gestiegen,
 Und späch: Du solst den Freund und Nächsten nicht belügen;
 Ja, käm der Heyland selbst aus seinem Himmelreich,
@@ -1569,7 +1350,6 @@ Und was ihr selbst nicht wolt von euch gesaget haben,
 Das bleibe auch in euch und eurer Brust vergraben.
 Man schwiege wohl darzu mit kalten Lippen still;
 Ja mancher dächte gar: ich thu doch, was ich will.
-
 O Boßheit! solte nicht des Höchsten Zorn entbrennen?
 Was die Vernunft befiehlt kan jederman erkennen,
 Daß man als wie sich selbst den Nächsten lieben soll.
@@ -1578,7 +1358,6 @@ Und tugendhaft erscheint; daß er des Nächsten Glücke,
 Ruhm, Wohlfahrt, Weisheit, Stand und freundliches Geschicke
 Mit frohen Augen sieht, und sich darbey ergetzt,
 Weil ihn der Vorsicht Hand zum Seegen hat gesetzt?
-
 Ein wahr und rühmlich Glied in Mensch=und Bürger=Orden
 Vergnügt sich, wenn sein Freund und Nachbar groß geworden,
 Wenn seine Wissenschaft und Fleiß den Ruhm erlangt;
@@ -1591,16 +1370,13 @@ Es ist ihm herzlich leid, wenn schwache Nächsten gleiten;
 Er schweigt, und trachtet nicht die Fehler auszubreiten.
 Er weiß, daß keiner nicht von aller Schwachheit frey,
 Und er so gut als der und jener sündlich sey.
-
 * * *
-
 Der Mensch das dummste Thier, schreibt Neukirchs kluger Finger.
 Der Mensch das dummste Vieh? Wie? Wird sein Stand geringer?
 Was? Wär sein Adel fort, und seine Menschheit weg?
 Ist Klugheit und Vernunft nicht seiner Handlung Zweck?
 So solt es freylich seyn; man solte sich bestreben,
 Den Regeln der Vernunft gehörig nachzuleben.
-
 O! möchte doch sein Thun vernünftig, klug und rein,
 Und seinem Nahmen gleich und niemahls viehisch seyn.
 Man solte jederzeit mit Werk und That beweisen,
@@ -1609,7 +1385,6 @@ Allein, wo folgt der Mensch, die schönste Creatur,
 Der Allmacht Meisterstück, der Vorschrift der Natur
 Und ihrem Triebe nach? vergißt er nicht sein Wesen,
 Worzu ihn Anfangs doch der Schöpfer auserlesen?
-
 Ein ungeschickter Artzt hält sonst die Augen zu,
 Wenn er den Kirchhof sieht, wo er zur langen Ruh
 So manchen hingeschaft. Ein andrer Mensch erweget
@@ -1624,7 +1399,6 @@ Dieß alles sieht der Mensch, und will nicht weiter gehen,
 Er bleibt als wie das Vieh auf seiner Regung stehen;
 Er schämt sich leider! nicht, daß er dem Thiere gleicht,
 Und ihm an Rach und Zorn nicht im geringsten weicht.
-
 Wo ist der klügste Mensch wohl auf der Welt vollkommen?
 Wo ist ein Frommer wohl der nie was unternommen;
 Das ohne Tadel sey? Wo trift man einen an,
@@ -1639,7 +1413,6 @@ Ein Wort, das von dem E und A  den Anfang nimmt,
 Das sich ein Gassen=Kind zu seiner Wehr bestimmt,
 Das muß Gelegenheit zu Zorn und Rache geben,
 Da schwört man Stein und Bein der Kerl darf nicht mehr leben.
-
 Ha! spricht ein Edelmann, das schickt sich nicht vor mich!
 Ich bin ein Cavallier! es röch zu bürgerlich
 Wenn ich jetzt schweigen solt. Ich bin beleidget worden!
@@ -1647,7 +1420,6 @@ Fort Adel räche dich! fort! du must ihn ermorden!
 Jezt wezt er seinen Stahl auf seines Gegners Arm;
 Jezt geht er auf ihn loß, und dringt ihn durch den Darm.
 Seht! wie er so geschickt den Degen weiß zu führen.
-
 Besteht der Adelstand vieleicht in duelliren?
 Wo steht es ausgemacht, daß der ein Ritter heist,
 Der sich fein viel und oft auf Blut und Leben schmeist?
@@ -1673,7 +1445,6 @@ Hier ist die Rosen=Bahn wo man mit Ehren ficht.
 Mit Feinden kämpft aufs Blut; mit Brüdern aber nicht.
 Der Türken wilder Schwarm haßt selbt dieß Unternehmen; (f)
 Und Christen wollen sich bey solcher That nicht schämen.
-
 Sind Hohe=Schulen wohl gestiftet und gesetzt,
 Daß man daselbst so wild den scharfen Degen wetzt?
 Solt dieses menschlich seyn, wenn uns ein Trunckner seegnet,
@@ -1682,7 +1453,6 @@ Vernunft, Verstand und Witz und Großmuth unterdrückt,
 Und mit ergrimmten Geist, Stab, Hand und Degen zückt,
 Und seine Boßheit kühlt? Was schillt man die Barbaren,
 Da Christen unter sich weit ärger noch verfahren.
-
 Wo wahr wohl die Vernunft der Alten so verblendt,
 Daß sie, von Zorn ergrimmt den Nächsten so geschändt,
 Als wie die Höllen=Brut von Rach und Grimm jezt raset?
@@ -1695,7 +1465,6 @@ Damit die Raserey die That vollenden kan?
 Aus Rache, Zorn und Grimm greift man den Nächsten an,
 Man schnizt so gar den Kiel, will sonsten nichts gelingen,
 Und ihn, wenns möglich wär, um Ehr und Gut zu bringen.
-
 Wo ist die alte Zeit mit ihrer Tugend hin?
 Wo hat ein Bürger jezt so einen stillen Sinn
 Wie Israels Monarch und erster König hegte?
@@ -1716,7 +1485,6 @@ Soll das ein König sein, der andre retten will,
 Und hält den Simei und seinen Steinen still?
 Ist das ein Kriegesmann der kühne Feinde schläget,
 Der selber Schimpf und Spott von einem Knecht verträget?
-
 O Cäsar! der du dich so Großmuths voll bezeigt,
 Wenn sich dein Widerpart vor deiner Hand gebeugt.
 Die Großmuth hat bey dir die Rache überwunden.
@@ -1725,7 +1493,6 @@ Jezt heists: Was Großmuth? Was? so sprach das Alterthum.
 Jezt heist es: Rache her! die Ehre muß auch Ruhm
 Durch ein beherztes Schwerd, und nicht durch Feigheit suchen.
 Es muß gerochen seyn; da geht es an ein Fluchen.
-
 Ich weiß zwar wohl, daß wir sehr schwach an Kräften sind,
 Und daß man nicht so leicht ein stoisch Herze find,
 Das Schmipf, Gewalt und Schmach und Spott gelassen hören,
@@ -1738,7 +1505,6 @@ Daß man die Menschlichkeit deswegen gänzlich fliehn,
 Und auf den Nächsten gleich den Degen müsse ziehn.
 Und denen Bestien in hitzigen Geberden,
 Ja was noch schlimmer ist, im Wesen ähnlich werden.
-
 Lebt nicht die Themis noch, die deine Klagen hört?
 Durch die dir Hülf und Recht ohn Ansehn wiederfährt?
 Was meinst du? kan dich nicht der Themis Arm beschützen?
@@ -1751,7 +1517,6 @@ Auch David hielt sich still da Simei so scharf
 Um sein gesalbtes Haupt die Laster-Steine warf.
 Verfluch, verwünsche nicht; du kanst den Fluch erlangen,
 Denn eines jeden Werk wird seinen Lohn empfangen.
-
 Kans ja nicht anders seyn, so wehr dich mit Verstand.
 Laß allzeit der Vernunft in dir die Oberhand.
 Glaub nicht so leicht, verzeih, und deut nicht alles böse;
@@ -1768,9 +1533,7 @@ Gelingt dirs aber nicht; mehrt seine Boßheit sich;
 So bleibe dennoch fest und unveränderlich,
 Die Großmuth macht zuletzt der Feinde Säbel müde,
 So wirst du dann vergnügt und lebst in stetem Friede.
-
 * * *
-
 Der Höchste sey gelobt! sang Davids froher Mund:
 Mein tapfrer Jonathan schliest mit mir einen Bund,
 Der über alles Glück und Frauen=Liebe gehet,
@@ -1786,7 +1549,6 @@ Feind, Schwerd, und was uns droht, mit frischen Muth verlachen.
 Mein Freund! mein Bruder=Herz! mein Leben! meine Brust!
 Du meiner Augen=Trost! du meines Herzens Lust!
 So redet Pythias, so läßt sich David hören.
-
 Doch noch ein ander Paar will sich daran nicht kehren;
 O! ho! wir leben auch spricht Joab. Ists nicht wahr?
 Sind Ich und Judas nicht ein braves Brüder=Paar?
@@ -1796,7 +1558,6 @@ Wo ein vertrautes Paar, wo zwey Bekannte seyn,
 Da schleichen wir uns bald in die Gesellschaft ein,
 Und wissen sie nach Wunsch auf ewig zu zertrennen,
 Daß sie sich fernerhin dem Namen nach kaum kennen.
-
 Was vor ein Trauer=Thon betäubt jezt Sinn und Ohr?
 Man zieht, ich bin erstaunt, ein Leichen=Bret hervor:
 Die Falschheit hat o Schmerz! die Redlichkeit erschlagen;
@@ -1807,7 +1568,6 @@ Die alte Redlichkeit ist nun vom Thron vertrieben;
 Der Falschheit ist allein der Scepter übrig blieben.
 Schlaf liebe Redlichkeit biß einer neuen Welt,
 Biß einer andern Zeit dein Bild aufs neu gefällt.
-
 Da Deutschlands Pflug und Schaar noch vor die Enkel sorgte,
 Die Complimenten nicht von fremden Völkern borgte,
 Da man noch guten Tag, und guten Morgen sprach,
@@ -1820,7 +1580,6 @@ Daß, wer sich einmahl Freund und lieber Bruder hiese,
 Auch seine Redlichkeit biß in den Tod bewiese.
 Die Falschheit war so fremd als hätte man gesagt:
 Das Volk von Liliput hat sich nach Wien gewagt.
-
 Jezt, da man fast den Fuß von vielen Ränken lähmet,
 Und sich, wer weiß warum? des alten Grusses schämet,
 Ist auch die Redlichkeit und Treu und Freundschaft aus.
@@ -1836,7 +1595,6 @@ Ich will ein Pythias, ein andrer David seyn.
 Er schmeichelt, küßt und klopft, streicht Achseln, Händ und
 Wangen,
 Und spricht: Dein Umgang ist mein einziges Verlangen.
-
 Die Worte klingen schön, und sind wie Honigseim;
 Doch diese dienen ihm zum Pech und Vogelleim,
 Damit er seinen Freund und dessen Seele fänget,
@@ -1845,7 +1603,6 @@ Durch sein so zärtlich Thun, durch seinen süssen Mund
 Erforscht er seinen Freund und dessen Herzens=Grund,
 Sein Wesen und Geschäft, und was er weiß und denket;
 Wohin er seinen Geist und seinen Willen lenket;
-
 Dann schmeist er seinen Balk und seine Larve hin,
 Und zeigt sein treuloß Herz und seinen falschen Sinn,
 Verräth, verfolgt den Freund, und offenbahret alles
@@ -1856,7 +1613,6 @@ Des Jacobs glatter Mund und Esaus rauhe Hände
 Die locken Anfangs schön und täuschen uns am Ende.
 Die Falschheit nennet sich ein Diener, Sclav und Knecht,
 Doch herrscht sie als Tyrann der Glück und Ehre schwächt.
-
 Es ist kein Freundschafts=Band beständig und vollkommen,
 Es gleicht dem vollen Licht, das stündlich abgenommen.
 Wer merkt und lernet doch der falschen Welt Betrug?
@@ -1871,9 +1627,7 @@ Und fern von Falschheit seyn, so machts recht deutsches Blut,
 Man meyn es redlich treu und auch von Herzen gut.
 Ein redlich; aber nicht ein zu verträulich Wesen,
 Soll man sich jederzeit zum Augenmerk
-
 * * *
-
 Die falsche Spahrsamkeit empfand den Heyraths=Trieb;
 Gewann daher den Geitz zu ihrem Bräutgam lieb.
 Dieß Paar vermählte sich mit höchst vergnügten Minen;
@@ -1884,21 +1638,18 @@ So war doch vieles Volk, das solchen Ruf vernommen,
 Von groß und kleinen Stand zu dieser Hochzeit kommen,
 Um aus des Braut=Paars Mund die nützlich klugen Lehren,
 Zum kräftgen Unterricht mit Sorgfalt anzuhören.
-
 Man rief nach Hochzeit=Brauch: lebt, wachst und mehret euch,
 Und euer Same blüh in jedem Königreich!
 Die Wünsche trafen ein.  Geitz, Wucher und Betrügen,
 Und Unbarmherzigkeit sah man als Kinder wiegen.
 Sie bläuten ihnen ein: Folgt uns, und dem Gebot,
 Seyd fromm und dient mit Ernst der Christen ihrem GOtt.
-
 Gold ist der Christen Gott! Ich meynt, der wär dort oben;
 Ich dacht, wir müsten den als unsern Schöpfer loben,
 Der uns Brod, Wein und Vieh und Kleid und Nahrung giebt,
 Der uns erhält und schützt, und uns so gnädig liebt.
 Wie? soll der HErr der Welt, dem keine Engel gleichen,
 Dem todten Klumpen Erz und Arons Kalbe weichen?
-
 Es bleibet doch gewiß: Gold ist der Christen Gott!
 Man weiß wie sich sein Volk mit Macht zusammen rott,
 Und ihm in Süd und Nord und Osten Tempel bauet,
@@ -1947,7 +1698,6 @@ Man stellte sich wohl nicht den schlauen Juden gleich,
 Und machte sich wohl nicht durch grossen Wucher reich.
 Man würde nicht durch Zins und teuflische Intressen
 Dem Armen, der nichts hat, das Fleisch vom Leibe fressen.
-
 So aber da das Herz den Diamante gleicht,
 Das kein Gebeth noch Flehn, noch Klaggeschrey erweicht;
 Da man so ärgerlich nach einem Goldstück ringet,
@@ -1958,7 +1708,6 @@ Da man mit diebscher Hand und mörderlichen Klauen
 Des andern Güther raubt, um sich ein Haus zu bauen:
 So sieht man offenbar, und findet in der That,
 Daß man das todte Gold zum Gott gemachet hat.
-
 Was red ich? hat das Geld die ganze Welt bezwungen?
 Giebts denn nicht Christen noch, die mit beredten Zungen,
 Von Eifer angeflammt, den Leuten insgemein,
@@ -1979,7 +1728,6 @@ Denkt nicht das Volk darbey, wenns solche Redner höret:
 Was dort der klügste Mund bey dem Matthäo lehret.
 O! dieses wird anjezt so gut als dort erfüllt,
 Hierinnen zeiget sich der meisten Ebenbild.
-
 Die Predigt ist vorbey, der Vortrag ist geschehen,
 Man gehet stolz nach Haus und sieht zwey Arme stehen,
 Die um ein wenig Brod und kleine Gabe flehn,
@@ -1995,7 +1743,6 @@ Gehört vor Dürftige. Doch heists, man gebe viel,
 Und sey doch selber arm, es wolte nirgends reichen.
 Es reichte schon, wenn man dem Meister wolte gleichen,
 Der von der Mäsigkeit und nichts von Bauchdienst hielt.
-
 Man spricht: im Alterthum ward doch dahin gezielt,
 Daß Levi und sein Volk den Opfer=Tisch genosse;
 Worbey das Fett vom Oel in seine Hände flosse,
@@ -2004,7 +1751,6 @@ O! wär doch diese Zeit mit den Gebräuchen noch!
 Da man zwar, immer nahm, und war doch frey von allem.
 Jezt geht es anders zu; es muß uns wohlgefallen,
 Seht! man befielt uns gar, wir sollen Gastfrey seyn.
-
 Schweigt! wer thut einen Dienst? er sey auch noch so klein.
 Ist einer noch so arm, wo wird ihm was geschenket?
 Ja wenn der Dürftige an sein Gewissen denket,
@@ -2016,12 +1762,10 @@ Jedoch es mag jezt seyn, ich bin nicht so genau;
 Geht, dient mir sonst einmahl, und scheuret meiner Frau;
 Bringt mir, so bald ihr könt drey Körbe Mist in Garten,
 Bringt Eyer, Rettige; doch von den grösten Arten.
-
 O! würde nun das Geld nicht also hoch geacht,
 Und nicht, wie vor gesagt; zu einem Gott gemacht,
 Man würde dieß zu thun sich ohne Zweifel schämen,
 Und wahrlich mit der Hand mehr geben, als sonst nehmen.
-
 O! würde nicht das Gold als wie ein Gott verehrt,
 Der Glaube würde wohl so leicht nicht umgekehrt,
 Man würde nicht so viel von ungeheuren Schwören,
@@ -2046,7 +1790,6 @@ Ja würde nicht das Gold zu einem Gott gemacht,
 Es würde wohl kein Kranz dem alten Greiß gebracht,
 Der von Gebrechlichkeit gebückt am Stabe wanket,
 Der wie ein alter Bär im Hause brummt und zanket.
-
 Hat man des Mammons Freund und dieses Götzen Knecht
 Den Nächsten durch Betrug und Wucher gnug geschwächt;
 Durch Falschheit und Proceß den Redlichen betrogen;
@@ -2181,14 +1924,12 @@ Ja, wenn das Auge schon benebst der Zunge bricht;
 So fährt er starrend auf, und rufet: Hört ihr nicht:
 Wo ist das Silber=Pfand? Wer rasselt dort am Kasten?
 Was ist das vor ein Schelm? Wer sucht ihn anzutasten?
-
 Auf einmahl giebt er sich den grösten Herzens=Stoß,
 Er reißt ein Spanisch Stück von seinen Götzen loß
 Und wirfts dem Priester hin, daß er ihn hoch erhebe,
 Und in dem Leich=Sermon ein herrlich Zeugniß gebe.
 Drauf stirbt er: Und dann heists: Das war ein frommer Mann,
 Der uns zum Musterbild der Tugend dienen kan!
-
 Ein treuer Gottesdienst wird reichlich gnug belohnet,
 Von dem der Vater heist und dort im Himmel wohnet.
 Sein Diener wird von ihm mit einem Sinn begabt,
@@ -2207,7 +1948,6 @@ Sein Sterben fällt ihm auch nicht ängstlich oder schwer,
 Ihm parentirt der Ruf, das ganze Tugend=Heer,
 Und spricht: Ein GOttes Knecht ist leider! jezt gestorben,
 Der sich ein Ehrenmaal und stetes Lob erworben.
-
 Was hat denn aber wohl vor seinem Götzen=Dienst
 Der arme Mammons=Knecht vor Nutzen und Gewinst?
 Was kan ihm dann sein Gott das Gold vor Freude geben?
@@ -2236,7 +1976,6 @@ Es klopfet schon der Tod an deine Kammer=Thür;
 Man fordert diese Nacht noch deine Seel von dir.
 Du Narr! wem wird dein Gut das du bißher auf Erden
 Mit Angst gesamlet hast, nunmehr zu Theile werden?
-
 Ist dieß, ihr Thoren! nun benebst der Höllen Glut
 Der Lohn vor euren Dienst? bedenkt doch, was ihr thut!
 Glaubt, daß die Erben euch im Todte noch verlachen,
@@ -2245,15 +1984,12 @@ Daß euch, wie ihr verdient, die kluge Welt verspott:
 Seht! dieser Mammons=Knecht verehrte einen Gott,
 Allein er half ihm nichts, er blieb ihm nicht gewogen,
 Am Ende hat er ihn um Leib und Seel betrogen.
-
 * * *
-
 Was schließt sich vor ein Grab und finstrer Bogen auf?
 Ich seh ein Geister=Heer! ja! ja! es steigt herauf.
 Ich kenne sie bereits, mein Schluß wird schwerlich fehlen,
 Es sind, ich irre nicht, der tapfren Parther Seelen.
 Hier schreyt ein Mann mich an, dort ruft ein andrer Geist:
-
 Ihr Deutschen! die ihr klug, gelehrt und Christen heist,
 Ihr, denen dieß Gesetz GOtt selber vorgeschrieben:
 Daß ihr euch jederzeit im Fleiß und Arbeit üben,
@@ -2305,7 +2041,6 @@ Ein jedes Jungfer=Bild und angesehnes Weib
 Ergrif Geschäft und Müh zum besten Zeitvertreib.
 Sie liefen nicht herum und klatschten auf den Gassen.
 Kurz, alles war bemüht dem Müsiggang zu hassen.
-
 Wie aber treffen wir denn eure Sitten an?
 Es dachte unser Volk ihr giengt uns weit voran,
 Dieweil ihr weiß und klug und Christlich sucht zu heisen,
@@ -2314,7 +2049,6 @@ So aber finden wir daß alle groß und klein,
 Kind, Vater, Frau und Mann der Trägheit Freunde seyn.
 Wir thun was löblich ist; wo thut ihr wohl dergleichen.
 Drum eckelt uns vor euch; ihr müst uns billig weichen.
-
 Man sagt im Sprichwort sonst: Der Morgenröthe Licht
 Das voller Glanz und Strahl in Fürsten Schlösser bricht,
 Wird nicht von Prinzen leicht in ihrer Pracht gesehen;
@@ -2347,7 +2081,6 @@ Da wünscht er, tobt und flucht: Wie wird man nicht geplagt!
 Ja wohl, so fährt er fort, hat David recht gesagt,
 Daß Arbeit, Müh und Last bey unserm Leben wäre:
 Daß Haupt=Schmuck, Rock und Kleid auch seine Last vermehre.
-
 Das grose Licht der Welt theilt sonst die Stunden ein,
 Und ordnet wenn es Tag, und wenn es Nacht soll seyn;
 Allein der Müßiggang setzt andre Zeit und Gränzen,
@@ -2358,7 +2091,6 @@ So pflegen allererst die Augen aufzuwachen,
 Da will man erst ein Stück von Schrift und Acten machen,
 Und denkt nicht, daß man sich das schönste Licht verblendt,
 Wenn man ein Fremdes braucht, und Geld darzu verschwendt.
-
 Ihr Lehrer von Athen! ihr alt berühmte Weisen!
 Wie glücklich seyd ihr nicht vor aller Welt zu preisen,
 Weil eurer Schüler Geist um Pallas Rauch=Altar
@@ -2367,7 +2099,6 @@ Kein ferner Weg, kein Schweiß, kein stark und mühsam Schwitzen,
 Kein ungebundner Fleiß, kein weises Stillesitzen,
 Noch Lesen ward gespart; man rang nach Kunst und Ruhm,
 Und schmückte durch den Fleiß der Musen Heiligthum.
-
 Wo ist der stille Fleiß der Alten hingekommen?
 Weint Musen! denn er wird jezt nicht wie vor vernommen.
 Kommt Musen! klagt und seufzt, denn euer Helicon
@@ -2381,7 +2112,6 @@ Den Degen sucht man jezt mehr als den Kiel zu wetzen.
 Ein blöckendes Geschrey geht Musen=Liedern für.
 Der Lais freche Stirn wird aller Musen Zier,
 Ja selbst Eusebien und Themis vorgezogen.
-
 Ja, spricht ein Edelmann: Wer Bürger=Milch gesogen,
 Der mag ein Bücher=Wurm und kahler Schulfuchs seyn,
 Und an dem todten Mund der Pallas sich erfreun.
@@ -2399,7 +2129,6 @@ Gescherzt, getanzt, gelacht, gesungen und gespielt,
 Auf einer Lais Mund die Hitze abgekühlt,
 Getrunken und gefezt, das heist galant gewandelt,
 So hat mein Oheim sonst und Ahn=Herr auch gehandelt.
-
 O! schlüge mir mein Wunsch und Sehnen jezt nicht fehl,
 Schlöß sich zu dieser Zeit das herrlichste Serail
 Des größten Königs auf, wie viele kluge Frauen
@@ -2420,7 +2149,6 @@ Wie? sollen wir das Brod das unser Mund verzehrt
 Verdienen, daß die Hand sich also selber nehrt?
 Wer unsern Leib genießt, der mag uns auch versorgen,
 Und solt er selbt das Geld zu unsrer Tafel borgen.
-
 Wo ist zu dieser Zeit ein Weib, das groß und reich,
 An Wirthschaft und an Fleiß der schönen Sara gleich?
 Wo ist ein edles Kind in unsern deutschen Auen
@@ -2429,7 +2157,6 @@ Tabeens nette Hand, ihr künstlich kluger Fleiß,
 Erhielt wohl schwerlich jetzt den Thränen=reichen Preiß,
 Den noch ihr Toden=Bret und Leichen=Tuch genosse,
 Indem ein Zähren=Bach aus vielen Augen flosse;
-
 Es ist nicht mehr die Zeit da man nur wenig schlief,
 Und bald nach allen sah, nach allen selber lief,
 Den Kindern und Gesind des Fleises Beyspiel wiese,
@@ -2442,12 +2169,10 @@ Des Fensters ofnes Glaß, so mancher Pflaster=Trit,
 Thee, Wein, Caffee und Spiel nimt Zeit und Tugend mit.
 O! wie wird nicht die Zeit so liederlich verschwendet,
 Wenn sich der Plauder=Mund zur Nachbarinnen wendet?
-
 So schön Lucretia, so groß, so reich sie war,
 So wieß sie doch der Welt und zeigte offenbar:
 Daß Wirtschaft, Fleiß und Müh kein reiches Weib beflecke,
 Vielmehr Huld, Ehre, Gunst bey jederman erwecke.
-
 Ich höre schon wie mich das Frauenzimmer schimpft;
 Und über meinen Reim die Nase höhnisch rümpft.
 Ich höre albereits, wie sie so sinnreich schwatzen,
@@ -2476,7 +2201,6 @@ Getragen und geführt; wenn sie den Flachs geklopft,
 Die Kuchen selbst geknett, die Brunnen selbst verstopft,
 Die Sichel angefaßt, wenn man die Garben bande?
 Ziert das ein Frauenbild von reich und gutem Stande?
-
 Jezt aber lebet man manierlich und galant,
 Den Männern nicht zum Schimpf, nein, sondern mit Verstand.
 Wer wird die Schlüssel stets an Arm und Händen führen?
@@ -2507,7 +2231,6 @@ Sie wäre nicht durch Stahl und Eisen abgefahren.
 Nein! nein! wir wollen uns vor der Gefahr bewahren.
 Wir spielen lieber mit und folgen ihr nicht nach;
 So überfällt uns nicht dergleichen Ungemach.
-
 August der Römer Schmuck, August die Zier der Prinzen,
 August der mächtigste an Staaten und Provinzen
 Erkannte doch darbey, wie falsch das Schicksal wär;
@@ -2538,7 +2261,6 @@ So sprach auch Kayser Carl (g) zu seinen Töchtern oft:
 Flieht stets den Müssiggang, wie bald und unverhoft
 Kan mich des Schicksaals Macht vom Thron ins Elend jagen.
 Drum schickt euch auf den Fall bey annoch guten Tagen.
-
 Wo ist zu dieser Zeit ein Bürger=Weib und Kind
 Wie dieser Fürsten=Zweig geartet und gesinnt?
 Wer denkt an seinen Fall, und an des Glückes Schläge,
@@ -2547,7 +2269,6 @@ Wer kömmt der Armuths=Last durch klugen Fleiß zuvor?
 Wer haßt den Müssiggang, und hebt die Hand empor,
 Daß sie sich in der Zeit zu jeder Arbeit lenke,
 Damit es ihr nicht einst in schlimmen Tagen kränke?
-
 O! hätte manches Weib, das sonst auf Küssen saß,
 Und ihres Leibes=Läng auf Schwanen=Federn maß,
 Sich vor der Zeit bequemt den Müssiggang zu meiden,
@@ -2558,7 +2279,6 @@ Man würde sie vielleicht anjetzo nicht verlachen,
 Und sprechen: seht! sie lernt die Sachen anders machen.
 Sonst grif sie nicht vor sich den kleinsten Finger an;
 Jezt aber dienet sie mit Arbeit jederman.
-
 Ich tadle nicht wenn sich ein Frauenbild bestrebet,
 Daß sie nach ihrem Stand in ihrer Arbeit lebet,
 Daß sie nicht öffentlich die Hand zur Arbeit reckt
@@ -2567,15 +2287,14 @@ Daß sie die Hände nicht wie eine Magd gebrauchet;
 Und wo's nicht nötig ist, die Hand in Lauge tauchet;
 Daß sie zur Reinlichkeit ein Stündgen an sich wendt;
 Nur dieß ist mir verhaßt, wenn man den Tag verschwendt.
-             (Sinnen
+(Sinnen
 Wenn man den {Händen nicht zur Arbeit Flügel giebet,
-             {Füssen
+{Füssen
 Und nur der Schnecken-Brauch und ihre Mode liebet;
 Wenn man die Arbeit so, als wie die Schlangen scheut.
 Wenn man stets seufzend klagt: wie lang wird mir die Zeit!
 Ich weiß vor Einsamkeit, ich weiß vor langer Weile,
 Fast nicht, wohin ich jezt mich zu vergnügen eile.
-
 Ein klug und fleisig Weib klagt vielmehr allemahl:
 Wie ist mir doch die Zeit so schnell, so kurz, so schmahl;
 Wenn ich vier Hände doch und so viel Füsse hätte!
@@ -2583,7 +2302,6 @@ Die Hände eifern fast und streiten um die Wette.
 Ihr seltner Gassen=Trit hält ihr die Kleidung schön;
 Und lehrt sie auf das Haus und ihre Kinder sehn,
 Damit sie in der Zucht und Furcht erhalten werden.
-
 Wie glücklich ist der Mensch der auf dem Kreiß der Erden
 Der Klugheit Regel folgt, die ihm die Lehre giebt;
 Der ist beglückt und reich, der Fleiß und Arbeit liebt.
@@ -2593,9 +2311,7 @@ Durch ihn erhielt ich bloß der Fürst= und Menschen Gunst.
 Ich fand durch ihn den Weg zu mancher raren Kunst.
 Es kennen mich durch ihn die klügst= und grösten Häuser.
 Der Fleiß band mir den Kranz und diese Lorber=Reiser.
-
 * * *
-
 Die Ehre ist ein Trieb der angebohren ist;
 Die Ehre ist ein Ziel wornach ein Weiser schießt;
 Ein Kluger ist bemüht, mit Ernst darnach zu ringen,
@@ -2626,14 +2342,12 @@ Er trachtet mit Vernunft die Feder so zu schnitzen,
 Damit er würdig sey die Ehre zu besitzen.
 Nach solchem Stolz und Ruhm, nach solcher Ehren=Bahn,
 Strebt ein bescheidner Geist und klug und weiser Mann.
-
 Die Welt aft allen nach, sie prahlt mit falschen Steinen,
 Schleift Gläser; die gar oft als Diamanten scheinen.
 Der falschen Perlen Glanz vertrit der wahren Ort,
 Das rein und ächte Gold muß oftmals heimlich fort,
 Und glänzendes Metall an dessen Stelle kommen.
 Doch der Betrug wird bald von Kennern wahrgenommen.
-
 Die wahre Ehre strahlt in ihrem eignen Licht,
 Da es der närrschen Welt an ächtem Glanz gebricht.
 Wer kan wohl ganz gewiß, mit Überzeugung schwören,
@@ -2668,7 +2382,6 @@ Ein Fräulein welche fast in Evens Kleide gehet,
 Und in der Ordens=Zunft der Minoritten stehet,
 Die sag ich, schimpfen noch die Würdigsten im Land,
 Und reden voller Hohn vom wackern Bürger=Stand.
-
 Ist schon das Ritter=Gut durch ihre Pracht verschwunden,
 So hat der dumme Stolz doch noch sein Schloß gefunden.
 Wer nicht stets Gnädge Frau, und Ihro Gnaden spricht,
@@ -2685,7 +2398,6 @@ Nur wie ein Finger groß, nur von gar wenig Loth.
 Wo nicht, so soll es dir an Brod und Kofend schaden.)
 So lassen sie doch nicht bey ihrem Pilgrims=Stab
 Von solchen Narren=Stolz und Thoren Hochmuth ab.
-
 Dieß reizt die Bürger an, die Ehre zu betrachten,
 Da sie doch ihren werth, durch solchen Trieb verachten.
 Ein Bürger, der das Mark aus Land und Bürgern sog,
@@ -2702,19 +2414,16 @@ Ein Bürger, welcher sich nach Hunger=Titteln dringet,
 Durch seinen neuen Staat das alte Gut verschlinget;
 Und durch dieß Ehren=Thor in Noth und Schande fällt;
 Heist dieß der Ehre wohl vernünftig nachgestellt?
-
 Ein Mann der einen Grad der Ehre kaum erblicket
 Verlangt, daß jeder sich aufs tieffste vor ihm bücket,
 Vermeint daß seine Ehr durch einen holden Trit,
 Durch Freund= und Höflichkeit nur Schimpf und Anstoß litt.
-
 Verliehrt die Ehre sich durch Freundlichkeit und Güte?
 O nein! man sieht vielmehr, daß ein beliebt Gemüthe,
 Ein allzeit höflicher und Sittenvoller Geist,
 Fast aller Menschen Gunst und Liebe zu sich reist,
 Ein jedes rühmet ihn, und spricht zu seinen Ehren.
 Dieß, und kein stolzer Muth kan wahre Ehre mehren.
-
 Ich weiß, es lacht mit mir die ganze kluge Welt,
 Wenn ein gebrüster Mann auf diesen Wahn verfällt
 Sein Titel sey etwas, den er doch darum führet,
@@ -2743,19 +2452,16 @@ Davon ein jeder doch so schön und artig klingt,
 Daß einem bald vor Scherz der Bauch in Stücken springt.
 Sie können schon das Amt des Vomitivs verwalten,
 Ich muß, mir eckelt selbst, den Mund schon veste halten.
-
 Dieß Volk ruft frech und stolz: Ich seh auf Ruhm und Ehr;
 Wo wüste sonst die Welt wie ich zu nennen wär;
 Ich fordre meinen Rang; denn wer nicht auf sich siehet,
 Und sich um Glanz und Ruhm und Ansehn nicht bemühet,
 Und nicht was auf sich hält, der wird auch nicht geacht,
 Ihm wird kein Compliment nach seinem Wunsch gemacht.
-
 Wie sieht man nicht die Welt vor falscher Ehrsucht rasen?
 Drum klagt man, daß das Feld und Wald so leer von Haasen
 Zu unsern Zeiten ist, dieweil man in der Stadt
 Dergleichen artig Vieh mit zweyen Füssen hat.
-
 Die Ehre, vor der Welt bekannt und klug zu heisen;
 Der Ruhm, ein Zeitungs=Blat den Knaben aufzuweisen,
 Das ihren Nahmen meldt, lockt viele Thoren an,
@@ -2778,7 +2484,6 @@ Obs recht, daß man das I an statt des Y setzt?
 Ob man die Reinigkeit der Sprache nicht verletzt?
 Wenn man, wie oft geschieht, das Wort Gemüthe schreibet,
 So, daß das liebe H darbey zurücke bleibet.
-
 Wenn dieß der Feder=Held, wenn dieß der Criticus
 (Der Nahme macht schon Angst wenn ich ihn nennen muß.)
 Hat aufs Papir geschmiert, und in die Welt gesendet,
@@ -2801,7 +2506,6 @@ Er jauchzet, wenn er sieht, daß seine schöne Sachen,
 Die man zu Käsen braucht, die Leute lachend machen,
 Und wenn ein trunkner Mund, der nach der Pfeife stinkt,
 Bey einem Glaß voll Bier, sein Stückgen ließt und singt.
-
 Wie manches Zuchthaus ist vor liederliche Vetteln,
 Die nur aus Müssiggang ihr Brod zusammen betteln,
 Verordnet und gebaut. Allein ist keins zu sehn?
@@ -2816,7 +2520,6 @@ Es muß der Unterschied in jeden Sachen seyn,
 Dieß trift auch ebenfals bey diesen Leuten ein;
 Pan liebt der Stümper Schaar; Apollo ist gerechter,
 Der straft sie, und wormit? mit ewigem Gelächter.
-
 Wer ist wohl der sich nicht vor den Franzosen scheut?
 Doch unser Jungfervolk setzt diese Furcht beyseit,
 Und glaubt aus hohem Geist und voller Ehrbegierde
@@ -2837,19 +2540,15 @@ Wär der in Spanien sonst übliche Tribut
 Bey uns jetzt im Gebrauch, das wär fürwahr nicht gut.
 Man könte warlich nicht die Zahl der Jungfern stellen:
 Warum? Wir haben nichts als lauter Mademoisellen.
-
- * * *
-
+* * *
 Corintho ist verbrannt; Corintho ist verstöhrt;
 Sie ist in Schutt und Stein in Asch und Staub verkehrt.
 Der Reichthum, Stolz und Pracht, ihr herrliches Vergnügen,
 Sieht unter diesem Schutt so mancher Pilgrim liegen.
 Ihr Grabmaal stellet uns noch ihren Abschied vor:
-
 Mein Wandrer! wer du bist, mein Ansehn und mein Flor,
 Mein schön und herrliches, und höchst vergnügtes Leben,
 Hat mir den Untergang und Aschen=Gruft gegeben.
-
 Corintho wär verwüst! wendt Lucifer bald ein.
 Nein! nein! ihr Ebenbild wird noch zu finden seyn.
 Ein Phönix stirbt zwar wohl, jedoch sein Aschen=Hügel
@@ -2876,14 +2575,12 @@ Die sich von alle dem und andern Sachen nehren;
 Die zu dem Niedrigsten in Stadt und Land gehören;
 Die sinds, die meine Stadt Corintho auferbaut,
 Und die mein Angesicht, als Reiches Säulen schaut.
-
 Wie Nero dort auf Pracht und Wollust viel gewendet,
 Und wie Cleopatra den grösten Schatz verschwendet;
 Wie sich die Jesabel gezieret und geschmückt;
 Dieß wird bey Adlichen und Bürgers=Volk erblickt.
 Die wollen jezt an Pracht und zärtlichen Geberden,
 An stolz und fetten Tisch den Größten ähnlich werden.
-
 Da Jacobs Saamen noch des Stiftes Hütte sah,
 Da unter Knall und Glut der Allmacht Wort geschah,
 Da war die Demuth noch das Augenmerk der Grosen,
@@ -2908,7 +2605,6 @@ Und was das Leben sonst betrübt verkürzen kan.
 Sonst lebte manches Weib, sonst lebte mancher Mann
 Ins höchste Alterthum. Jezt muß er früh bey Jahren,
 Durch Mißbrauch seines Guts ins Reich der Todten fahren;
-
 Wohin mein Genius? du führst mich durch die Luft
 Nach Rom, wo dein August in seiner Marmor=Gruft
 In Lorber=Reisern schläft. Er regt sich! seine Glieder
@@ -2935,7 +2631,6 @@ Will der kein zartes Kleid an seinem Leibe tragen?
 Sich nicht in schönem Stoff, in Sammt und Purpur schlagen?
 Drum wohl mir, daß ich jezt in meiner Kammer ruh.
 Ich laß die Welt und schließ die Augen wieder zu.
-
 So hoch als unsre Zeit an schön galanten Lügen,
 An Wissenschaft und Kunst und Treflichkeit gestiegen,
 So viel Geheimniß man ergründet und entdeckt,
@@ -2963,7 +2658,6 @@ Und eine bunte Wand als einen Götzen ehrt?
 Sucht wohl die Tugend uns zu diesem anzulocken,
 Daß man den Glieder=Bau wie stolze Kinder=Docken
 Auf lächerliche Art und Vielfach prächtig kleidt?
-
 Da Adam und sein Weib die grose Herrlichkeit
 Im Paradieß verlohr, da trugen sie, ach leyder!
 Zum Zeugniß ihres Falls, ein Fell an statt der Kleider.
@@ -2981,7 +2675,6 @@ Daß man den Überfluß so gar auch nicht vermeidet,
 Sich wo nicht wöchentlich, doch vierteljährig kleidet;
 Sich selbst zum Räuber wird; sich diebisch selbst bestiehlt,
 Biß daß man endlich Schimpf, Noth und Verachtung fühlt.
-
 Wie thörig ist es nicht, wenn stolze Geister denken,
 Als könnt ein kostbar Kleid mehr Furcht und Ehre schenken,
 Wirst du ums Kleide wohl vor andern mehr geliebt?
@@ -2994,7 +2687,6 @@ Dein Stand, und nicht dein Kleid wird dir den Vorsitz geben.
 Das Kleid kan nicht den Mann, wenn er nichts gilt, erheben;
 Der Mann giebt nur allein dem Kleide Glanz und Zierd,
 Wenn er die Tugenden in Wort und Wercken führt.
-
 Trät Ahasvers Gemahl jezt unter unsre Frauen,
 Was würde nicht ihr Aug vor Pracht und Hoffart schauen!
 Ich weiß es spräch ihr Mund: Ich trug mein Königs-Kleid
@@ -3017,7 +2709,6 @@ Was sonst ein vornehm Weib im ganzen Kleid verthat,
 Das ist anjezo kaum der Kopf= und Spitzen=Staat.
 So prächtig war sonst nicht ein adlich Haupt geschmücket,
 Als man anjezt den Fuß der Bürgerin erblicket.
-
 Im Stand nimmt man nicht nur die Ordnung nicht in acht;
 Er wird im Alter auch gewiß sehr schlecht betracht;
 Ein Weib, das fast so alt, als wie die graue Sare;
@@ -3034,7 +2725,6 @@ Sie dörften warlich nicht beym Felsenburgern stehn,
 Wo die Matronen nur modest und erbar gehn,
 Hingegen aber das, was jung und munter heiset,
 Sich eines hellen Zeugs und bunten Kleids befleiset.
-
 Wär Davids Fürsten=Kind, die Thamar jetzt allhier
 Und sie verlöhre sich: O mein! wo würden wir
 Sie unter unserm Volk und Frauenzimmer finden?
@@ -3047,18 +2737,15 @@ Daß mancher, der es sieht die närrsche Meinung hegt,
 Es sey ein Fürsten=Kind das solchen Aufputz trägt.
 Man kan jezt adliche und bürgerliche Frauen
 Im Pracht und Kostbarkeit als Prinzeßinnen schauen.
-
 O Schade! daß doch nicht die kluge Vorsichts=Hand
 Euch gleichen herrlichen und hocherhabnen Stand,
 Der Hoffart gnug zu thun, in dieser Welt bestimmet,
 Weil doch ein solches Feuer in euren Herzen glimmet.
 Was vor ein herber Schmerz und bittre Seelen=Pein,
 Muß dieses eurem Stolz und blinder Hoffart seyn?
-
 Jedoch nur unverzagt! wer weiß wie sichs verkehret,
 Ob euch die Ehre nicht auch einmal wiederfähret,
 Die jenem Bauersmann auf Tag und Nacht geschehn.
-
 Man sagt es könte sich die Erde täglich drehn;
 So oft auch dieß geschieht, so hat der Moden Sitten
 Doch diesen Erden=Klump im Wechsel überschritten.
@@ -3066,7 +2753,6 @@ Wie oft verkehrt man nicht die Mod= und Kleider=Tracht?
 O! würde sie nur nicht auch närrischer gemacht!
 Die Haare werden nicht mehr zierlich aufgekräuset,
 Man meint, es läßt galant, wenn man sie hangend weiset.
-
 Ihr Schönen! seht euch vor, weil, wie die Rede geht,
 Ein merklicher Proceß im Schöppenstuhl entsteht.
 Es heist, das Schäfervolk wär klagend eingekommen,
@@ -3077,7 +2763,6 @@ Die Schäfer dringen drauf, sie wollen was gestohlen
 Von euren Häuptern selbst mit Nachdruck wiederhohlen.
 Drum so vertraget euch mit einem gütgen Sinn,
 Und gebt das Budel=Fell den Schäfern wieder hin.
-
 Was vor Veränderung ist doch mit Stirn und Wangen
 Der Schönen biß daher so öfters vorgegangen?
 Ja unser Frauenvolk gönnt nicht dem Firmament,
@@ -3094,7 +2779,6 @@ Indem ihr heller Glanz die Finsterniß benimmt.
 So nimmt und schneidet man dergleichen Welt=Planeten
 Von schwarzen Taffend aus, und fragt wohl: läßts nicht schön,
 Wenn Sonne, Mond und Stern im Angesichte stehn?
-
 Vielleicht befürchten sich jeztunder unsre Schönen,
 Das Mannsvolk möchte sich nach Perser=Art gewöhnen.
 (Denn dieser schickt vorher zu der erkohrnen Braut
@@ -3105,7 +2789,6 @@ Drum zeigt das Frauenvolk vollkommen aufgedeckt,
 Daß keine Amazon' in ihrer Schnürbrust steckt:
 Und folglich man auch nicht die schöne Weiber=Gabe
 Nach Persischem Gebrauch erst zu erforschen habe.
-
 Man thut in diesem Stück den Schönen auch zuviel,
 Als ob denselbigen die Sorgfalt nicht gefiel.
 Man hört und siehet ja wie sie vom frühen Morgen
@@ -3118,7 +2801,6 @@ Wer kan denn vor das Spiel! man thut, was dieß gebeut!
 Wer kan denn vor den Scherz und vor Geschwindigkeit!
 Um nun das schöne Lob der Reinlichkeit zu hören,
 So sucht man alles dieß mit Schönheit zu vermehren.
-
 Ich weiß warhaftig nicht woher es weyland kam,
 Daß eine Frau das Band von Bachi Throne nahm,
 Um einen neuen Thron, worauf sie könte sitzen,
@@ -3143,7 +2825,7 @@ Die Gassen kamen drauf darwieder klagend ein,
 Sie würden fernerhin nicht breit und räumlich seyn,
 Sie wandten klüglich für: Die Weite würde ihnen,
 Den Jungfern nehmlich selbst, noch mehr zum Schaden dienen:
-                                {Stuffen
+{Stuffen
 Weil ein zu weiter Rock an alle {Ecken   stößt,
 So reißt die Seide auf daß sich der Faden lößt,
 Und also desto ehr das Kleid zu Grunde gehet.
@@ -3155,33 +2837,28 @@ So nimt man denn zwey Stück, woraus man eines schneidet.
 Da heist es: Männgen! thu zum neuen Kleider=Kauf
 Nur ohne Widerspruch den Beutel willig auf.
 Heist das nun nicht den Mann und Vater zu bestehlen?
-
 Allein kein gutes Wort noch sonst ein ernsthaft Schmehlen
 Galt bey dem Frauenvolk. Man sprach: es bleibt darbey,
 Daß nur ein groser Rock in Zukunft Mode sey,
 Und wo die Männer uns nicht neue Kleider schaffen,
 So wollen wir so lang nicht bey denselben schlaffen,
 Biß sich ihr Eigensinn nach unserm Willen bricht.
-
 Wie artig fällt es nicht in aller Angesicht,
 Wenn eine Knochen=Lust, wenn eine Härings=Seele,
 Ein Weib aus Liliput solch ungeheure Höhle
 Zu ihrem Sitze wehlt? Es sieht so zierlich aus,
 Als ragt aus einem Faß ein Weiden=Hölzgen raus.
-
 Und weil das Mannesvolk vom Staub die Schuh beschmutzet,
 So werden sie dadurch beständig abgeputzet.
 So zeigt das Frauenvolk durch diese Dienste an,
 Wie sie zum voraus schon den Männern unterthan.
 Es kan das Mannesvolk sich würklich glücklich achten,
-    (Weiber
+(Weiber
 Daß {Jungfern auf der Straß die Schu zu putzen trachten.
-
 Wie öfters werden uns die Augen nicht berückt,
 Wenn man bald hier und da ein Frauenbild erblickt,
 Das Achsel, Leib und Haupt und Hals mit Bändern zieret,
 Und wie ein Kutsch=Pferd prangt, das Hochzeit=Gäste führet.
-
 Ihr Jungfern! die ihr euch nur wie es euch gelüst,
 In eurer Kleider=Tracht nach Pfauen=Weise brüst,
 Und euch aufs herrlichste und allerbeste kleidet,
@@ -3191,7 +2868,6 @@ Vielleicht ist das der Grund, warum ihr euch so blöht,
 Daß ihr dem Mannesvolk wolt in die Augen fallen,
 Ob etwa ihre Brust vor Liebe möchte wallen,
 Daß man euch in das Buch der Bräute schreiben soll?
-
 Die Reizung ist zu frech! die Lockung ist zu toll!
 Das Mannsvolk ist zu klug, das läßt sich wohl durch Schmücken,
 Durch Frechheit, Stolz und Pracht so leichte nicht berücken.
@@ -3205,7 +2881,6 @@ Mit heimlichem Verdruß und Schaden nur verwenden,
 Und wohl noch gar darzu sein bestes Gut verpfänden.
 Sie glauben, welche sich dem Putz und Staat ergiebt,
 Daß die auch Müssiggang und Fenster-Rahmen liebt.
-
 Dieß ist der Jungfern Schmuck, der sie gefällig machet,
 Wenn sie nicht frech und stolz und spöttisch spricht und lachet,
 Nicht tadelsüchtig ist, und allen Umgang flieht,
@@ -3224,7 +2899,6 @@ Verschwendet und verzehrt, gar keine Mase hält,
 Und sich so prächtiglich der Welt vor Augen stellt?
 Wodurch ihr euren Stand und euch in Schaden bringet,
 So, daß ihr öfters drauf das Miserere singet.
-
 Die Braut ist freylich wohl des Bräutgams Augen=Trost;
 Doch wisse, da dein Freund zuerst um dich geloßt;
 Da er dich kennen lernt, und dich oft angesehen,
@@ -3241,15 +2915,12 @@ Da sich dein Bräutgam nun an deinem netten Kleid,
 An deinem klugen Fleiß, und nicht am Pracht erfreut,
 Weswegen wilst du dann bald die, bald jene Gaben,
 Zu deiner Pracht und Zier von deinem Manne haben?
-
 Was fehlt auch deiner Pracht, wenn dich dein Gatte ehrt,
 Und liebt, und deine Ruh durch keine Kränkung stöhrt?
 Ist dieß nicht über Schmuck und Kleider=Stolz zu lieben?
-
 Bleibt denn der Ehstand auch ohn Trübsaal und Betrüben?
 Nein! darum wendet nicht so viel auf Pracht und Staat,
 So giebt der Überfluß euch in dem Mangel Rath.
-
 Ich weiß, man muß die Zeit bedächtig unterscheiden,
 Weil man sich jezo nicht wie ehmals pflegt zu kleiden;
 Kein aufgeschliztes Wamst und Pluderhosen trägt,
@@ -3276,7 +2947,6 @@ Ich lobe, daß man sich durch seinen klugen Fleiß
 In Kleidung mancher Art schön auszuschmücken weiß:
 So wird der Hände Kunst bewundrend wahrgenommen,
 Und kan zum Musterstück auf Kindes=Kinder kommen.
-
 Nur dieß ist mir verhaßt, nur dieß ist ärgerlich
 Daß es bey dem nicht bleibt, daß mans so prächtiglich
 An Seide, Silber, Gold stickt, neht und zubereitet,
@@ -3305,7 +2975,6 @@ Wenn man den Überfluß in allen Sachen liebt,
 Und nur fast täglich Geld vor Staat und Hoffart giebt.
 Dieß ists, was die Natur, Vernunft und Tugend hasset,
 Wovor ein Kluger stets den grösten Eckel fasset.
-
 Ist jemand in der Welt an Glück und Ehre groß,
 Der gebe sein Gemüth zur Thorheit nicht so bloß,
 Und tracht an Kleid und Schmuck und prächtigen Geberden,
@@ -3318,7 +2987,6 @@ Ein jedes trage sich nicht über seinen Stand;
 Es werde nicht zuviel auf Kleider=Pracht gewand,
 Damit fein zierlich, schön, nett, sauber, artig, reine;
 Nicht aber voller Pracht ein Frauenbild erscheine.
-
 Wie sehr veränderlich ist nicht Fortunens Blick?
 Zieht sie nicht oftermahls ihr freundlich Aug zurück,
 Und zeigt der stolzen Brut, daß ihre schöne Gabe
@@ -3331,13 +2999,11 @@ Wie bald wird eure Pracht des Strohm= und Feuers=Raub?
 So liegt der Abgott dann in Asche, Glut und Staub.
 Der Pracht und Überfluß, der Stolz die Hoffarts=Fahne
 Bricht allezeit dem Fall und Untergang die Bahne.
-
 Ein weiser Paulus spricht in seinem heilgen Brief
 Der an Timotheum den theuren Lehrer lief,
 Die Weiber sollen sich geschickt und zierlich kleiden;
 Gold, Perlen, stolz Gewand und Pracht und Hoffart meiden.
 Dieweil der Weiber Schmuck in Schaam und Zucht besteht.
-
 Ein Weib das auf der Bahn der wahren Tugend geht,
 Erwehlt sich dieß zur Pracht, daß sie getreulich liebet,
 Den Gatten nicht mit Fleiß durch irgend was betrübet;
@@ -3365,7 +3031,6 @@ Den Kindern war sie stets ein wahres Mutter=Herz;
 Und wem sie dienen kunt, ein Balsam vor den Schmerz,
 Der Tugend Musterbild, der Haußgenossen Freude,
 Der Laster steter Feind, der Menschen Augen=Weide.
-
 Die Hoffart fällt mir jezt verwegen in das Wort,
 Und spricht voll Unvernunft: ich sehe hier und dort
 Ein Haus und Wohngemach von Hausrath und von Tüchern,
@@ -3375,7 +3040,6 @@ Das Kleid und weise Zeug das sie, die Frau, und er
 Der Mann am Leibe hat, das ist schon abgetragen.
 Wie lange soll man sich mit solchen Kleidern plagen?
 Also verräth der Mund die lasterhafte Seel.
-
 Jedoch ich höre auch das Volk von Israel;
 Wie es gar anders spricht: Was vor ein schöner Seegen
 Erhielten wir vom HErrn auf unsern langen Wegen?
@@ -3403,9 +3067,7 @@ Und daß kein böser Wunsch auf meinem Hause ruht,
 Der mein ererbtes Theil verzehret und verthut.
 Lacht, höhnet immerhin ihr stolzen Mode=Narren;
 Ich wehle diesen Ruhm, und laß euch gern die Sparren.
-
 * * *
-
 Steh auf Herodotus! und gieb die Ursach an,
 Warum in Persien des gröst= und reichsten Mann,
 Sein Schädel und sein Haupt sich also mürbe zeiget,
@@ -3416,7 +3078,6 @@ Und Wollust im Getränk, in Speisen und in Essen,
 Und hat die Zärtlichkeit bey seinem Thee vergessen.
 Er flieht den leckerhaft und delicaten Schmauß,
 Und härtet seinen Leib durch Wind und Hitze aus.
-
 Die Welt dünkt sich so klug, und scheut die Kranckheits=Bürde,
 Damit der Glieder=Bau nicht hart gedrücket würde;
 Sie fürchtet Fieber, Brand, Geschwulst und Beul und Pest,
@@ -3435,7 +3096,6 @@ Sie Säfte würden nicht verzehret und verbrennt;
 Stein, Gicht und Podagra, und was man schmerzhaft nennt,
 Den Kopf=Weh, Mattigkeit und des Geblütes wallen
 Wird keinen Mässigen so leichtlich überfallen.
-
 Wie ruhig und vergnügt lebt ein vernünftger Mann,
 Der seinen Lecker=Mund und Magen zwingen kan.
 Betracht des Bauers=Mann und stolzer Herren Kinder,
@@ -3452,7 +3112,6 @@ Wie glücklich ward nicht da das Volk am Tieber=Strohm,
 Da Bürgermeister noch die ganze Welt und Rom
 Geschickt regiereten. Da man Gesetze gabe, (h)
 Daß Rom die Mässigkeit zum Augenmerke habe.
-
 Wie glücklich ward ihr doch ihr Alten jener Zeit!
 Die ihr euch an der Zier der Mäßigkeit erfreut.
 Wie ward ihr so beherzt, gesund und stark und wacker,
@@ -3484,7 +3143,6 @@ So blieben sie gesund und stark an Fleisch und Beinen
 So lebten sie vergnügt, und gaben zu verstehn,
 Wie gerne sie den Flor der Kindes=Kinder sehn,
 Daher sie solchen auch die Gelder nicht verpraßten.
-
 Jezt aber, da die Welt mit Segel, Wind und Masten,
 Aus dem vor kurzem erst entdeckten Theil der Welt,
 Das was auch Africa und Ceilon in sich hält,
@@ -3504,7 +3162,6 @@ und roh und sauer sind, so lüstert man nach diesen.
 Da heists: Wenns andre schon auf ihrem Tisch geniessen,
 So eckelt mir davor. Was theuer ist, schmeckt gut;
 Was viele Thaler kost, das labet Zung und Blut.
-
 Die alte Redlichkeit in Speisen und in Essen,
 Bringt jetzt die Leckerey und Wollust ins vergessen.
 Wie manche Härings=Milch (wer lacht jezt nicht mit mir)
@@ -3540,7 +3197,6 @@ Und öfters Magen=Schmerz und Drücken nach sich zieht,
 Das soll, man höre doch, ich könnt es nicht errathen,
 Viel delicater noch als guter Kälber=Braten,
 Als Tauben, Hecht und Hahn, und Rinder=Zungen seyn.
-
 Wie enge schrenkt sich doch jetzt Witz und Klugheit ein.
 Was wird die Leckerey noch weiter unterfangen?
 Habt acht, ich warne euch ihr schnell und krummen Schlangen,
@@ -3556,7 +3212,6 @@ Man sucht euch wohl alsdann mit vieler Müh zu Rom,
 So wie den Regen=Schmerl im schnellen Tieber=Strohm.
 Ja Maden, welche auch aus alten Käsen sprudeln,
 Die werden endlich noch zu Moschcowitschen Nudeln.
-
 Zur Nahrung und zur Noth pflegt man den Leib jezt nicht,
 Zum Überfluß sind jezt die Zungen abgericht.
 Der Tisch kan oft die Last der Schüsseln nicht ertragen;
@@ -3569,7 +3224,6 @@ Der Leib hat bey dem Tisch des Tags nur einmal Ruh;
 Man bringt den ganzen Tag mit Trink und Essen zu.
 Wodurch man die Vernunft und Tugenden begräbet,
 Und mehr vor seinen Bauch als vor den Nächsten lebet.
-
 Ich widerspreche nicht, daß hier ein Graf und Fürst
 Nach theurem Trauben=Blut, und raren Weine dürst;
 Daß er mit fremder Kost die Tafel reich bedecket,
@@ -3588,7 +3242,6 @@ Und weiß, wie jedes pflegt geschickt gemacht zu werden.
 Dieß aber widerspricht der Klugheit auf der Erden,
 Wenn er sich dran gewöhnt, und seinen Mund nicht zwingt,
 Dieß ers aus Leckerey und Übermuth verschlingt.
-
 Dieß kan die Tugend nicht, noch die Vernunft vertragen,
 Daß Männer, welche sich durch Trug ans Bret geschlagen,
 Die Fürsten ungetreu und Landes=Plager sind;
@@ -3607,7 +3260,6 @@ Daß man die Tafel stets mit solchen Sachen füllt,
 Womit sich nur der Mund und Wollusts=Zunge stillt.
 Daß sich ein Bürgermann gleich wie ein Groser speiset,
 Dieß ist, was die Vernunft und Tugend Thorheit heiset.
-
 Wie seufzt die Liebe doch! o! zög ein reiches Weib,
 Auch wohl ein stolzer Mann ein einzig Kleid vom Leib,
 Ja einen Aufsatz nur, und deckte arme Seelen,
@@ -3620,7 +3272,6 @@ Und gäbs dem Lazarus, der dort nach Brode schmacht,
 Wie seelig hätt er nicht die Wohlthat angebracht.
 Wie herzlich würden sich die armen Brüder freuen;
 Was würde nicht vor Heyl auf seinen Boden schneyen.
-
 Ihr Eltern, die ihr stets nach Lecker=Speisen strebt,
 Und alle Tag in Freud= und Zungen=Lüsten lebt,
 Ists möglich, daß ihr ganz den Liebes=Trieb verfluchet,
@@ -3633,9 +3284,7 @@ Der sonst vor Glück und Lob, wenn ihr dereinsten sterbt,
 Der Unterdrückten Fluch, Schuld, Noth und Armuth erbt.
 Ihr Eltern gehet hin, und lernet von den Raben,
 Was sie vor Lieb' und Sorg vor ihre Jungen haben.
-
 * * *
-
 Da Gottes Allmachts=Hand, die Sonne, Tag und Zeit
 Und diese Welt erschuf, und sie mit Seltenheit,
 Mit Zierde, Glanz und Pracht und aller Schönheit baute,
@@ -3652,7 +3301,6 @@ So herrlich und so hoch sah GOtt den Menschen an;
 Er sprach: Mach dir die Welt und Erde Unterthan;
 Herrsch über alles das, was auf der Erde lebet,
 Was sich in Wassern regt, und unterm Himmel schwebet.
-
 Allein! wo schließt der Mensch des Geistes Augen auf?
 Wenn hebt er wohl sein Licht zur Sternenburg hinauf,
 Und denkt an seinen Glanz, Macht, Adel, Würd und Ehre?
@@ -3669,7 +3317,6 @@ Ey seht! der stolze Mensch legt Sclaven=Fesseln an,
 Und wird dem Erd=Gewächs so schimpflich unterthan.
 Der Mensch, die kleine Welt, O! solt er sich nicht schämen!
 Läßt sich von einer Frucht der Welt gefangen nehmen.
-
 Der Seelen Wandelung, die so viel Streitens macht,
 Da Zeno ihren Grund und Lehre vorgebracht,
 Beweiset sich an dem, der sich zum Bacho wendet,
@@ -3689,7 +3336,6 @@ Es muß auch in der That die Seel vom Leibe fliehen.
 Allein die Lust zum Trank besitzet noch mehr Macht,
 Durch diese wird so gar die Seele umgebracht.
 Sie tödten selbt den Geist, Verstand und alle Sinnen.
-
 Darius wach jezt auf! und höre das Beginnen
 Der Knaben, die zur Wach bey deinem Throne stehn;
 Wie jeder seinen Witz durch einen Spruch läßt sehn.
@@ -3699,7 +3345,6 @@ Und deine Mächtigsten um deinen Purpur=Thron,
 Wie da der Klugheit Kind, wie da der Weisheit Sohn,
 Vom Wein und seiner Kraft so schöne Reden führet,
 Daß man den klugen Geist aus seinen Worten spühret.
-
 Er hebt verwundernd an: Wie mächtig ist der Wein!
 Denn er verführet die, so ihm ergeben seyn.
 Fürst, Freye, Weise, Knecht, die Armen und die Reichen
@@ -3716,7 +3361,6 @@ Hat denn der Trunk den Geist in völliger Gewalt,
 So gilt kein Freundschafts=Band. Es heist: Du Hundsfott halt!
 Und zucke das Gewehr! Ist denn der Rausch vergangen,
 So weiß man nicht, was man im Trunke angefangen.
-
 Der Saal verliehrt sich mir; ich seh an dessen statt
 Das Thier, das Bileam vordem geritten hat.
 Es scheint, als kriegt es gar jezt seine Sprache wieder,
@@ -3735,7 +3379,6 @@ O! nein! ihr sauft und schwelgt, und hört nicht auf zu fressen,
 Biß die Vernunft versenkt, und alle Schaam vergessen,
 Und ausgerottet ist, biß daß die Tugend stirbt,
 Und jeder unter euch der Höllen=Lohn erwirbt.
-
 Ich habe ehedem in einem Buch gelesen,
 Daß Circens Zauberstock, so kräftig sey gewesen,
 Daß er Ulysses Volk in Thiers=Gestalt verkehrt.
@@ -3743,7 +3386,6 @@ Da mich nun jezt ein Schwein in meiner Rede stöhrt,
 So glaub ich, dieß gehört mit unter solchen Orden,
 Die durch den Zauberstock zu Thieren sind geworden.
 Ihr Menschen! hört doch zu, wie es so artig spricht:
-
 Willkommen Brüdergen! kennt ihr die Schwester nicht?
 Willkommen Brüdergen! nun ist mein Leid verschwunden,
 Weil ich euch allesamt so glücklich wieder funden.
@@ -3753,7 +3395,6 @@ Besudelt euren Leib, die Erde, Kleid und Kragen,
 Und laßt euch wenns geschehn, aufs Streu im Stalle tragen;
 Alsdann wird euer Nest gleich wie das Meine seyn,
 Da werft euch mit mir um, und schlaft so wie ich ein.
-
 O Mensch! verlangst du denn wie diese Sau zu stinken?
 Wer klug ist, pfleget sich mit nichten voll zu trinken!
 Er trinket vor den Durst zur Labung und zur Stärk;
@@ -3768,7 +3409,6 @@ Und ihn verächtlich hält; daß sein Gesundheits=Kahn
 Auf dem Schlaraffen=Meer bald Schifbruch nehmen kan:
 Deshalben will er nicht mit unterm Narren Haufen
 Nach Lethens todten Pfuhl zu seiner Schande laufen.
-
 Wir haltens insgesamt vor eine Landes=Noth,
 Wenn uns ein feindlich Heer mit Schwerdt und Pulver droht,
 Und unsre Friedenstadt bemüht ist zu belagern,
@@ -3790,7 +3430,6 @@ Durch die Vernunft gesetzt. Da springet Thor und Thür,
 Geist, Kräfte, Ehre, Glück, das alles missen wir.
 Die Thorheit kan darauf die Siegs=Trompete blasen,
 Sie ruft: Die Tugend fiel alhier auf diesen Rasen.
-
 Ich bin kein Prediger der vor die Seele schreibt,
 Wo sie in solchem Fall, wenn sie verschwindet, bleibt.
 Kan sie nach Salem wohl Elias Wagen tragen;
@@ -3807,14 +3446,12 @@ Ein Kluger wundert sich, wie solches möglich ist,
 Daß sich ein Gläser=Freund so liederlich vergißt,
 Vernunft, Verstand und Witz und Wohlstand nicht bedencket,
 Und diß zum Opferdienst dem stummen Bacho schencket.
-
 Die Menschheit äusert sich durch Sprache und Verstand,
 Wo wird diß beydes wohl am Trunckenbolt erkannt?
 Verstand und Geist ist hin, er weiß nicht was er sinnet,
 Noch was er unternimmt und in der That beginnet.
 Die Sprache wird gehemmt; es will kein reines Wort,
 Noch Gruß, noch Redensart von Zung und Lippen fort.
-
 Die Regel ist uns ja in Hirn und Brust geschrieben,
 Wir sollen unser Wohl und uns vornemlich lieben.
 Wir sollen allemahl der nächste Freund uns seyn.
@@ -3845,16 +3482,11 @@ Er merkt nicht, wenn man gleich sein laut Geschwätze höhnt,
 Und jauchzet wenn man ihn mit Haasen=Pappeln krönt.
 Zwey Stieber hält er oft vor zärtliche Caressen,
 Die eine schöne Hand ihm gütig zugemessen.
-
 Ein Trunkner glaubt === jedoch ich werff die Feder hin,
 Weil ich nicht in Pariß noch Hollands Fluren bin,
 Wo man die Laster darf bey ihren Namen nennen.
 Ich putze nicht das Licht, ich möcht mich sonst verbrennen.
-
-
-
 (a) Magnus.
-
 (b) Da der grose Alexander bey seinen Feldzügen unbekanter Weise auf
 ein Rathhaus zu forschen gieng, hörte er, daß zu dem Richter ein Mann
 sagte: Ich habe einen Keller wollen graben, und da habe ich einen
@@ -3879,20 +3511,16 @@ es auch möglich, daß Leute gefunden werden die anders thun?  Und auf
 des Alexanders Ja! setzt er noch dieses zu: Ob an solchen Oertern, wo
 sie nicht also richteten, die Götter auch Regen fallen liesen, und ob
 die Sonne alda auch ihre Strahlen gäbe?
-
 (c) Cambyses ließ einem Richter der sich bestechen lassen, und daher
 ein ungerechtes Urtheil abgefasset hatte, die Haut vom Leibe ziehen,
 dieselbe mit Nägeln an den Richterstuhl zum ewigen Spectacul fest
 anschlagen und damit bedecken,auch den Sohn an dessen Stelle zum
 Richter setzen.
-
 (d) Gleichwie Galeacius Herzog von Meyland gethan, welcher einen
 Advocaten, der die Processe boßhafter Weise so lange triebe und
 aufhielte, ließ an Galgen hengen und dann in Stücke zerreisen.
-
 (e) Römischer Kayser, welcher davor hielte, daß es bey Austheilung
 der Geschenke, und Belohnung treuer Dienste nur aufs Glück ankäme.
-
 (f) Velibegus und Arsambegus zwei Türkische Obristen hatten ein Duel
 miteinander, da der letztere den erstbenannten rückwärts
 hinterlistiger Weise verwundete/worauf die Sache nach Constantinopel
@@ -3910,9 +3538,7 @@ dergleichen Exempel jemahl unter uns gehabt?  Hast du nicht denken
 sollen, wer unter euch beyden gefallen und umkommen wäre, der wäre
 mit Schaden unsers Kaysers gefallen und umkommen.  Worauf er auch in
 das Gefängniß geworfen worden.
-
 (g) Magnus
-
 (h) Fabius, Römischer Bürgermeister gab ein Gesetz, daß keiner auf
 einem Banquet mehr verzehren dürfte als dreysig Sestertios, so viel
 als ohngefehr zwölf Thaler.  Messinius verordnete: daß kein Fremder
@@ -3925,11 +3551,5 @@ zugeschlossener Thür essen durfte, damit die Censores sehen könten,
 ob jemand im Essen Überfluß brauchte.  Aristimius schrieb vor, daß
 man zwar des Mittags jemand möchte zu Gaste haben, aber nicht länger
 als biß gegen den Abend behalten.
-
-
-
-
-
 Ende dieses Projekt Gutenberg Etextes "Die von denen Faunen gepeitschte
 Laster" von Sidonia Hedwig Zäunemann.
-

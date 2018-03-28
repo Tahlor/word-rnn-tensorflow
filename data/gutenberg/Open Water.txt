@@ -1,155 +1,78 @@
-e Project Gutenberg EBook of Open Water, by Arthur Stringer
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Open Water
-
-Author: Arthur Stringer
-
-Release Date: October 12, 2011 [EBook #37557]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK OPEN WATER ***
-
-
-
-
 Produced by Al Haines
-
-
-
-
-
-
-
-
-
-
-OPEN WATER
-
-
-BY
-
-ARTHUR STRINGER
-
-AUTHOR OF "THE WOMAN IN THE RAIN," "IRISH POEMS," ETC.
-
-
-
-
-NEW YORK--JOHN LANE COMPANY
-
-LONDON--JOHN LANE--THE BODLEY HEAD
-
-TORONTO--BELL & COCKBURN
-
-MCMXIV
-
-
-
-
 Copyright, 1914, by
-
-JOHN LANE COMPANY
-
-
-
 Press of J. J. Little & Ives Co.
-
 New York, U. S. A.
-
-
-
-
-CONTENTS
-
-
-  A Foreword
-  Milkweed
-  Home Thoughts
-  Life
-  Some Day, Oh Seeker of Dreams
-  Black Hours
-  Before Renewal
-  Hill-Top Hours
-  Letters from Home
-  Chains
-  The Drums
-  Anaesthesia
-  A Summer Night
-  Sappho's Tomb
-  The Wild Swans Pass
-  At Notre Dame
-  The Pilot
-  Doors
-  Spring Floods
-  The Turn of the Year
-  If I Love You
-  What Shall I Care?
-  Hunter and Hunted
-  Apple Blossoms
-  The House of Life
-  Ultimata
-  The Life on the Table
-  You Bid Me to Sleep
-  The Last of Summer
-  At Charing Cross
-  Prescience
-  The Steel Workers
-  The Children
-  The Nocturne
-  The Wild Geese
-  The Day
-  The Revolt
-  Atavism
-  March Twilight
-  The Echo
-  Autumn
-  Faces
-  There Is Strength in the Soil
-  Life-Drunk
-  My Heart Stood Empty
-  One Night in the Northwest
-  Dreamers
-  The Question
-  The Gift of Hate
-  The Dream
-  One Room in My Heart
-  The Meaning
-  The Veil
-  The Man of Dreams
-  April on the Rialto
-  The Surrender
-  The Passing
-  Protestations
-  I Sat in the Sunlight
-
-
-
-
-A FOREWORD
-
+A Foreword
+Milkweed
+Home Thoughts
+Life
+Some Day, Oh Seeker of Dreams
+Black Hours
+Before Renewal
+Hill-Top Hours
+Letters from Home
+Chains
+The Drums
+Anaesthesia
+A Summer Night
+Sappho's Tomb
+The Wild Swans Pass
+At Notre Dame
+The Pilot
+Doors
+Spring Floods
+The Turn of the Year
+If I Love You
+What Shall I Care?
+Hunter and Hunted
+Apple Blossoms
+The House of Life
+Ultimata
+The Life on the Table
+You Bid Me to Sleep
+The Last of Summer
+At Charing Cross
+Prescience
+The Steel Workers
+The Children
+The Nocturne
+The Wild Geese
+The Day
+The Revolt
+Atavism
+March Twilight
+The Echo
+Autumn
+Faces
+There Is Strength in the Soil
+Life-Drunk
+My Heart Stood Empty
+One Night in the Northwest
+Dreamers
+The Question
+The Gift of Hate
+The Dream
+One Room in My Heart
+The Meaning
+The Veil
+The Man of Dreams
+April on the Rialto
+The Surrender
+The Passing
+Protestations
+I Sat in the Sunlight
 To even the casual reader of poetry who may chance to turn to the
 following pages it will be evident that the lyrics contained therein
 have been written without what is commonly known as end-rhyme.  It may
 also be claimed by this reader that the lyrics before him are without
 rhythm.  As such, it may at first seem that they mark an effort in
 revolt against two of the primary assets of modern versification.
-
 All art, of course, has its ancestry.  While it is the duty of poetry
 both to remember and to honour its inherited grandeurs, the paradoxical
 fact remains that even this most convention-ridden medium of emotional
 expression is a sort of warfare between the embattled soul of the
 artist, seeking articulation, and the immuring traditions with which
 time and the prosodian have surrounded him.
-
 In painting and in music, as in sculpture and the drama, there has been
 a movement of late to achieve what may be called formal emancipation, a
 struggle to break away from the restraints and the technical
@@ -158,7 +81,6 @@ one case this movement may be called Futurism, and in another it may be
 termed Romanticism, but the tendency is the same.  The spirit of man is
 seen in rebellion against a form that has become too intricate or too
 fixed to allow him freedom of utterance.
-
 Poetry alone, during the last century, seems to have remained stable,
 in the matter of structure.  Few new forms have been invented, and with
 one or two rare exceptions success has been achieved through
@@ -178,7 +100,6 @@ his assault on those favouring moments or inspirational moods which
 lurk in the deeper valleys and by-ways of sensibility, he must begin it
 as a marked man, pathetically resplendent in that rigid steel which is
 an anachronism and no longer an armour.
-
 Rhyme, from the first, has been imposed upon him.  His only escape from
 rhyme has been the larger utterance of blank verse.  Yet the iambic
 pentameter of his native tongue, perfected in the sweeping sonority of
@@ -195,7 +116,6 @@ venture a brief glance back over the history of what Milton himself
 denominated as "the jingling sounds of like endings" and Goldsmith
 characterized as "a vile monotony" and even Howells has spoken of as
 "the artificial trammels of verse."
-
 It has been claimed that those early poets of Palestine who affected
 the custom of beginning a number of lines or stanzas with the same
 letter of the alphabet unconsciously prepared the way for that
@@ -208,7 +128,6 @@ the musical instrument, and when poetry became a written as well as a
 spoken language the consonantal drone of rhyming end-words took the
 place of the discarded instrument which had served to mark a secondary
 and wider rhythm in the progress of impassioned recitative.
-
 It must be admitted, however, even in the face of this ingenious
 pleading, that rhyme is a much more modern invention than it seems.
 That it is not rudimentary in the race is evidenced by the fact that
@@ -223,7 +142,6 @@ becomes in any way general in English song.  Layman, in translating
 Wace's _Le Brut d'Angleterre_, found the original work written in
 rhymed lines, and in following that early model produced what is
 probably the first rhymed poem written in England.
-
 With the introduction of end-rhymes came the discovery that a
 decoration so formal could convert verse into something approaching the
 architectural.  It gave design to the lyric.  With this new
@@ -261,7 +179,6 @@ the fact that the fewer the obstacles between feeling and expression
 the richer the literary product must be, and forgetting, too, that
 poetry represents the extreme vanguard of consciousness both
 adventuring and pioneering along the path of future progress.
-
 For the poet to turn his back on rhythm, as at times he has been able
 to do with rhyme, is an impossibility.  For the rhythmising instinct is
 innate and persistent in man, standing for a law which permeates every
@@ -292,7 +209,6 @@ manner of singing has lost its vital swing it is well for man to forget
 these formal prettinesses and equally well to remember that poetry is
 not an intellectual exercise but the immortal soul of perplexed
 mortality seeking expression.
-
 To abandon fixed rhythm, or meter, for the floating rhythm of the chant
 may not be an immediate solution of the problem.  To follow the Psalms
 of David, for example, will not suddenly conjure a new school of verse
@@ -312,1613 +228,1151 @@ the fact that the primary function of poetry is both to intellectualize
 sensation and to elucidate emotional experience.  If man must worship
 beauty only as he has known it in the past, man must be satisfied with
 worshipping that which has lived and now is dead.
-
-A. S.
-
-
-
-
-  OPEN WATER
-
-
-
-
-  MILKWEED
-
-  I
-
-  The blue, blue sea,
-  And the drone of waves,
-  And the wheeling swallows,
-  And the sun on the opal sails,
-  And the misty and salt-bleached headlands,
-  And the milkweed thick at my feet,
-  And the milkweed held in the hand of a child
-  Who dreams on the misty cliff-edge,
-  Watching the fading sails
-  And the noonday blue
-  Of the lonely sea!
-
-
-  II
-
-  Was it all years ago,
-  Or was it but yesterday?
-  I only know that the scent
-  Of the milkweed brings it back,
-  Back with a strangle of tears:
-  The child and the misty headlands,
-  The drone of the dark blue sea,
-  And the opal sails
-  In the sun!
-
-
-
-
-  HOME THOUGHTS
-
-  I am tired of the dust
-  And the fever and noise
-  And the meaningless faces of men;
-  And I want to go home!
-  Oh, day after day I get thinking of home
-  Where the black firs fringe the skyline,
-  And the birds wheel down the silence,
-  And the hemlocks whisper peace,
-  And the hill-winds cool the blood,
-  And the dusk is crowned with glory,
-  And the lone horizon softens,
-  And the world's at home with God!
-  Oh, I want to go there!
-  _I want to go home!_
-
-
-
-
-  LIFE
-
-  A rind of light hangs low
-  On the rim of the world;
-  A sound of feet disturbs
-  The quiet of the cell
-  Where a rope and a beam looms high
-  At the end of the yard.
-
-  But in the dusk
-  Of that walled yard waits a woman;
-  And as the thing from its cell,
-  Still guarded and chained and bound,
-  Crosses that little space,
-  Silent, for ten brief steps,
-  A woman hangs on his neck.
-
-  _And that walk from a cell to a sleep
-  Is known as Life,
-  And those ten dark steps
-  Of tangled rapture and tears
-  Men still call Love._
-
-
-
-
-  SOME DAY, O SEEKER OF DREAMS
-
-  Some day, O Seeker of Dreams, they will seek even us!
-  Some day they will wake, Fellow Singer, and hunger and want
-  For the Ways to the Lonelier Height!
-  So let us, Shy Weaver of Beauty, take heart,
-  For out of their dust they will call to us yet!
-  Let us wait, and sing, and be wise,
-  As the sea has waited and sung,
-  As the hills through the night have been wise!
-  For we are the Bringers of Light, and the Voices of Love,
-  Aye, we are the Soothers of Pain, the Appeasers of Death,
-  The Dusk and the Star and the Gleam and the Loneliest Peak!
-  And when they have found and seen, and know not whither they trend,
-  They will come to us, crying aloud like a child in the night;
-  And when they have learned of our lips,
-  Still back to our feet they will grope
-  For that ultimate essence and core of all song,
-  To usher them empty and naked, then, out to the unanswering stars,
-  Where Silence and Dreaming and Music are one!
-
-
-
-
-  BLACK HOURS
-
-  I have drunk deep
-  Of the well of bitterness.
-  Black hours have harried me,
-  Blind fate has bludgeoned my bent head,
-  And on my brow the iron crown
-  Of sorrow has been crushed.
-  And being mortal, I have cried aloud
-  At anguish ineluctable.
-  But over each black hour has hung
-  Forlorn this star of knowledge:
-  The path of pain too great to be endured
-  Leads always unto peace;
-  And when the granite road of anguish mounts
-  Up and still up to its one ultimate
-  And dizzy height of torture,
-  Softly it dips and meets
-  The valley of endless rest!
-
-
-
-
-  BEFORE RENEWAL
-
-  Summer is dead.
-  And love is gone.
-  And life is glad of this.
-  For sad were both, with having given much;
-  And bowed were both, with great desires fulfilled;
-  And both were grown too sadly wise
-  Ever to live again.
-  Too aged with hours o'er-passionate,
-  Too deeply sung by throats
-  That took no thought of weariness,
-  Moving too madly toward the crest of things,
-  Giving too freely of the fountaining sap,
-  Crowding too gladly into grass and leaves,
-  Breathing too blindly into flower and song!
-  Again the lyric hope may thrill the world,
-  Again the sap may sweeten into leaves,
-  Again will grey-eyed April come
-  With all her choiring throats;
-  But not to-day--
-  For the course is run.
-  And the cruse is full,
-  And the loin ungirt,
-  And the hour ordained!
-  And now there is need of rest;
-  And need of renewal there is;
-  And need of silence,
-  And need of sleep.
-  Too clear the light
-  Now lies on hill and valley;
-  And little is left to say,
-  And nothing is left to give.
-  Summer is dead;
-  And love is gone!
-
-
-
-
-  HILL-TOP HOURS
-
-  I am through with regret.
-  No more shall I kennel with pain.
-  I have called to this whimpering soul,
-  This soul that is sodden with tears
-  And sour with the reek of the years!
-  And now we shall glory in light!
-  Like a tatter of sail in the wind,
-  Like a tangle of net on the sand,
-  Like a hound stretched out in the heat,
-  My soul shall lie in the sun,
-  And be drowsy with peace,
-  And not think of the past!
-
-
-
-
-  LETTERS FROM HOME
-
-  Letters from Home, you said.
-  Unopened they lay on the shack-sill
-  As you stared with me at the prairie
-  And the foothills bathed with light.
-  Letters from Home, you whispered,
-  And the homeland casements shone
-  Through the homeland dusk again,
-  And the sound of the birds came back,
-  And the soft green sorrowing hills,
-  And the sigh of remembered names,
-  The wine of remembered youth,--
-  Oh, these came back,
-  Back with those idle words
-  Of "Letters from Home"!
-
-  Over such desolate leagues,
-  Over such sundering seas,
-  Out of the lost dead years,
-  After the days of waiting,
-  After the ache had died,
-  After the brine of failure,
-  After the outland peace
-  Of the trail that never turns back,
-  Now that the night-wind whispers
-  How Home shall never again be home,
-  And now that the arms of the Far-away
-  Have drawn us close to its breast,
-  Out of the dead that is proved not dead,
-  To waken the sorrow that should have died,
-  To tighten the throat that never shall sing,
-  To sadden the trails that we still must ride,
-  Too late they come to us here--
-  Our Letters from Home!
-
-
-
-
-  CHAINS
-
-  I watched the men at work on the stubborn rock,
-  But mostly the one man poised on a drill
-  Above the steam that hissed and billowed about him
-  White in the frosty air,
-  Where the lordly house would stand.
-
-  Majestic, muscular, high like a god,
-  He stood,
-  And controlled and stopped
-  And started his thundering drill,
-  Offhand and careless and lordly as Thor,
-  Begrimed and solemn and crowned with sweat,
-  Where the great steel chains swung over the buckets of rock.
-
-  Then out of a nearby house came a youth,
-  All gloved and encased in fur and touched with content,
-  Thin-shouldered and frail and finished,
-  Leading a house-dog out on a silver chain.
-  He peered at the figure that fought with the drill
-  Above the billowing steam and tumult of sound,
-  Peered up for a moment impassive,
-  With almost pitying eyes,
-  And then went pensively down the Avenue's calm,
-  In the clear white light of the noonday sun,
-  Not holding, but held by his silvery chain!
-
-
-
-
-  THE DRUMS
-
-  A village wrapped in slumber,
-  Silent between the hills,
-  Empty of moon-lit marketplace,
-  Empty of moving life--
-  Such is my quiet heart.
-  Shadowy-walled it rests,
-  Sleeping its heavy sleep;
-  But sudden across the dark
-  Tingles a sound of drums!
-  The drums, the drums, the distant drums,
-  The throb of the drums strikes up,
-  The beat of the drums awakes!
-  Then loud through the little streets,
-  And strange to the startled roofs,
-  The drums, the drums approach and pound,
-  And throb and clamour and thrill and pass,
-  And between the echoing house-walls
-  All swart and grim they go,
-  The battalions of regret,
-  After the drums, the valiant drums
-  That die away in the night!
-
-
-
-
-  ANAESTHESIA
-
-  I caught the smell of ether
-  From the glass-roofed room
-  Where the hospital stood.
-  Suddenly all about me
-  I felt a mist of anguish
-  And the old, old hour of dread
-  When Death had shambled by.
-
-  Yellow with time it is,
-  This letter on which I look;
-  But up from it comes a perfume
-  That stabs me still to the heart;
-  And suddenly, at the odour,
-  Through a ghost-like mist I know
-  Rapture and love and wild regret
-  When Life, and You, went by.
-
-
-
-
-  A SUMMER NIGHT
-
-  Mournful the summer moon
-  Rose from the quiet sea.
-  Golden and sad and full of regret
-  As though it would ask of earth
-  Where all her lovers had vanished
-  And whither had gone the rose-red lips
-  That had sighed to her light of old.
-  Then I caught a pulse of music,
-  Brokenly, out at the pier-end,
-  And I heard the voices of girls
-  Going home in the dark,
-  Laughing along the sea-wall
-  Over a lover's word!
-
-
-
-
-  SAPPHO'S TOMB
-
-  I
-
-  In an old and ashen island,
-  Beside a city grey with death,
-  They are seeking Sappho's tomb!
-
-
-  II
-
-  Beneath a vineyard ruinous
-  And a broken-columned temple
-  They are delving where she sleeps!
-  There between a lonely valley
-  Filled with noonday silences
-  And the headlands of soft violet
-  Where the sapphire seas still whisper,
-  Whisper with her sigh;
-  Through a country sad with wonder
-  Men are seeking vanished Sappho,
-  Men are searching for the tomb
-  Of muted Song!
-
-
-  III
-
-  They will find a Something there,
-  In a cavern where no sound is,
-  In a room of milky marble
-  Walled with black amphibolite
-  Over-scored with faded words
-  And stained with time!
-
-
-  IV
-
-  Sleeping in a low-roofed chamber,
-  With her phials of perfume round her,
-  In a terra-cotta coffin
-  With her image on the cover,
-  Childish echo of her beauty
-  Etched in black and gold barbaric--
-  Lift it slowly, slowly, seekers,
-  Or your search will end in dust!
-
-
-  V
-
-  With a tiny nude Astarte,
-  Bright with gilt and gravely watching
-  Over grass-green malachite,
-  Over rubies pale, and topaz,
-  And the crumbled dust of pearls!
-
-
-  VI
-
-  With her tarnished silver mirror,
-  With her rings of beaten gold,
-  With her robes of faded purple,
-  And the stylus that so often
-  Traced the azure on her eyelids,--
-  Eyelids delicate and weary,
-  Drooping, over-wise!
-  And at her head will be a plectron
-  Made of ivory, worn with time,
-  And a flute and gilded lyre
-  Will be found beside her feet,
-  And two little yellow sandals,
-  And crude serpents chased in silver
-  On her ankle rings--
-  And a cloud of drifting dust
-  All her shining hair!
-
-
-  VII
-
-  In that lost and lonely tomb
-  They may find her;
-  Find the arms that ached with rapture,
-  Softly folded on a breast
-  That for evermore is silent;
-  Find the eyes no longer wistful,
-  Find the lips no longer singing,
-  And the heart, so hot and wayward
-  When that ashen land was young,
-  Cold through all the mists of time,
-  Cold beneath the Lesbian marble
-  In the low-roofed room
-  That drips with tears!
-
-
-
-
-  THE WILD SWANS PASS
-
-  In the dead of the night
-  You turned in your troubled sleep
-  As you heard the wild swans pass;
-  And then you slept again.
-
-  You slept--
-  While a new world swam beneath
-  That army of eager wings,
-  While plainland and slough and lake
-  Lay wide to those outstretched throats,
-  While the far lone Lights allured
-  That phalanx of passionate breasts.
-
-  And I who had loved you more
-  Than a homing bird loves flight,--
-  I watched with an ache for freedom,
-  I rose with a need for life,
-  Knowing that love had passed
-  Into its unknown North!
-
-
-
-
-  AT NOTRE DAME
-
-  I
-
-  O odour of incense, pride of purple and gold,
-  Burst of music and praise, and passion of flute and pipe!
-  O voices of silver o'er-sweet, and soothing antiphonal chant!
-  O Harmony, ancient, ecstatic, a-throb to the echoing roof,
-  With tremulous roll of awakened reverberant tubes, and thunder of sound!
-  And illusion of mystical song and outclangour of jubilant bell,
-  And glimmer of gold and taper, and throbbing, insistent pipe--
-  If song and emotion and music were all--
-  Were it only all!
-
-
-  II
-
-  For see, dark heart of mine,
-  How the singers have ceased and gone!
-  See, how all of the music is lost and the lights are low,
-  And how, as our idle arms, these twin ineloquent towers
-  Grope up through the old inaccessible Night to His stars!
-  How in vain we have stormed on the bastions of Silence with sound!
-  How in vain with our music and song and emotion assailed the Unknown,
-  How beat with the wings of our worship on Earth's imprisoning bars!
-  For the pinions of Music have wearied, the proud loud tubes have tired,
-  Yet still grim and taciturn stand His immutable stars,
-  And, lost in the gloom, to His frontiers old I turn
-  Where glimmer those sentinel fires,
-  Beyond which, Dark Heart, we two
-  Some night must steal us forth,
-  Quite naked, and alone!
-
-
-
-
-  THE PILOT
-
-  I lounge on the deck of the river-steamer,
-  Homeward bound with its load,
-  Churning from headland to headland,
-  Through moonlight and silence and dusk.
-  And the decks are alive with laughter and music and singing,
-  And I see the forms of the sleepers
-  And the shadowy lovers that lean so close to the rail,
-  And the romping children behind,
-  And the dancers amidships.
-  But high above us there in the gloom,
-  Where the merriment breaks like a wave at his feet,
-  Unseen of lover and dancer and me,
-  Is the Pilot, impassive and stern,
-  With his grim eyes watching the course.
-
-
-
-
-  DOORS
-
-  Listen!
-  Footsteps
-  Are they,
-  That falter through the gloom,
-  That echo through the lonely chambers
-  Of our house of life?
-
-  Listen!
-  Did a door close?
-  Did a whisper waken?
-  Did a ghostly something
-  Sigh across the dusk?
-
-  From the mournful silence
-  Something, something went!
-  Far down some shadowy passage
-  Faintly closed a door--
-  And O how empty lies
-  Our house of life!
-
-
-
-
-  SPRING FLOODS
-
-  You stood alone
-  In the dusky window,
-  Watching the racing river.
-  Touched with a vague unrest,
-  And if tired of loving too much
-  More troubled at heart to find
-  That the flame of love could wither
-  And the wonder of love could pass,
-  You kneeled at the window-ledge
-  And stared through the black-topped maples
-  Where an April robin fluted,--
-  Stared idly out
-  At the flood-time sweep of the river,
-  Silver and paling gold
-  In the ghostly April twilight.
-
-  Shadowy there in the dusk
-  You watched with shadowy eyes
-  The racing, sad, unreasoning
-  Hurrying torrent of silver
-  Seeking its far-off sea.
-  Faintly I heard you sigh,
-  And faintly I heard the robin's flute,
-  And faintly from rooms remote
-  Came a broken murmur of voices.
-  And life, for a breath, stood bathed
-  In a wonder crowned with pain,
-  And immortal the moment hung;
-  And I know that the thought of you
-  There at the shadowy window,
-  And the matted black of the maples,
-  And the sunset call of a bird,
-  And the sad wide reaches of silver,
-  Will house in my haunted heart
-  Till the end of Time!
-
-
-
-
-  THE TURN OF THE YEAR
-
-  The pines shake and the winds wake,
-  And the dark waves crowd the sky-line!
-  The birds wheel out on a troubled sky;
-  The widening road runs white and long,
-  And the page is turned,
-  And the world is tired!
-
-  So I want no more of twilight sloth,
-  And I want no more of resting,
-  And of all the earth I ask no more
-  Than the green sea, the great sea,
-  The long road, the white road,
-  And a change of life to-day!
-
-
-
-
-  IF I LOVE YOU
-
-  If I love you, woman of rose
-  And warmth and wondering eyes,
-  If it so fall out
-  That you are the woman I choose,
-  Oh, what is there left to say,
-  And what should it matter to me,
-  Or what can it mean to you?
-  For under the two white breasts
-  And the womb that makes you woman
-  The call of the ages whispers
-  And the countless ghosts awaken,
-  And stronger than sighs and weeping
-  The urge that makes us one,
-  And older than hate or loving or shame
-  This want that builds the world!
-
-
-
-
-  WHAT SHALL I CARE?
-
-  What shall I care for the ways
-  Of these idle and thin-flanked women in silk
-  And the lisping men-shadows that trail at their heels?
-  What are they worth in my world
-  Or the world that I want,
-  These flabby-armed, indolent, delicate women
-  And these half-women daring to call themselves men
-  Yet afraid to get down to the earth
-  And afraid of the wind,
-  Afraid of the truth,
-  And so sadly afraid of themselves?
-  How can they help me in trouble and death?
-  How can they keep me from hating my kind?
-  Oh, I want to get out of their coffining rooms,
-  I want to walk free with a man,
-  A man who has lived and dared
-  And swung through the cycle of life!
-  God give me a man for a friend
-  To the End,
-  Give me a man with his heel on the neck of Hate,
-  With his fist in the face of Death,
-  A man not fretted with womanish things,
-  Unafraid of the light,
-  Of the worm in the lip of a corpse,
-  Unafraid of the call from the cell of his heart,--
-  God give me a man for friend!
-
-
-
-
-  HUNTER AND HUNTED
-
-  I
-
-  When the sun is high,
-  And the hills are happy with light,
-  Then virile and strong I am!
-  Then ruddy with life I fare,
-  The fighter who feels no dread,
-  The roamer who knows no bounds,
-  The hunter who makes the world his prey,
-  And shouting and swept with pride,
-  Still mounts to the lonelier height!
-
-
-  II
-
-  In the cool of the day,
-  When the huddling shadows swarm,
-  And the ominous eyes look out
-  And night slinks over the swales
-  And the silence is chill with death,
-  Then I am the croucher beside the coals,
-  The lurker within the shadowy cave,
-  Who listens and mutters a charm
-  And trembles and waits,
-  A hunted thing grown
-  Afraid of the hunt,
-  A silence enisled in silence,
-  A wonder enwrapped in awe!
-
-
-
-
-  APPLE BLOSSOMS
-
-  I saw a woman stand
-  Under the seas of bloom,
-  Under the waves of colour and light,
-  The showery snow and rose of the odorous trees
-  That made a glory of earth.
-  She stood where the petals fell,
-  And her hands were on her breast,
-  And her lips were touched with wonder,
-  And her eyes were full of pain--
-  For pure she was, and young,
-  And it was Spring!
-
-
-
-
-  THE HOUSE OF LIFE
-
-  Quietly I closed the door.
-  Then I said to my soul:
-  "I shall never come back,
-  Back to this haunted room
-  Where Sorrow and I have slept."
-  I turned from that hated door
-  And passed through the House of Life,
-  Through its ghostly rooms and glad
-  And its corridors dim with age.
-  Then lightly I crossed a threshold
-  Where the casements showed the sun
-  And I entered an unknown room,--
-  And my heart went cold,
-  For about me stood that Chamber of Pain
-  I had thought to see no more!
-
-
-
-
-  ULTIMATA
-
-  I am desolate,
-  Desolate because of a woman.
-  When at midnight walking alone
-  I look up at the slow-wheeling stars,
-  I see only the eyes of this woman.
-  In bird-haunted valleys and by-ways secluded,
-  Where once I sought peace,
-  I find now only unrest
-  And this one unaltering want.
-  When the dawn-wind stirs in the pine-tops
-  I hear only her voice's whisper.
-  When by day I gaze into the azure above me
-  I see only the face of this woman.
-  In the sunlight I cannot find comfort,
-  Nor can I find peace in the shadows.
-  Neither can I take joy in the hill-wind,
-  Nor find solace on kindlier breasts;
-  For deep in the eyes of all women I watch
-  I see only her eyes stare back.
-  Nor can I shut the thought of her out of my heart
-  And the ache for her out of my hours.
-  Ruthlessly now she invades even my dreams
-  And wounds me in sleep;
-  And my body cries out for her,
-  Early and late and forever cries out for her,
-  And her alone,--
-  _And I want this woman!_
-
-  I am sick at heart because of this woman;
-  I am lost to shame because of my want;
-  And mine own people have come to mean naught to me;
-  And with many about me still am I utterly alone,
-  And quite solitary now I take my way
-  Where men are intent on puny things
-  And phantasmal legions pace!
-  And a wearisome thing is life,
-  And forever the shadow of this one woman
-  Is falling across my path.
-  The turn in the road is a promise of her.
-  The twilight is thronged with her ghosts;
-  The grasses speak only of her,
-  The leaves whisper her name forever;
-  The odorous fields are full of her.
-  Her lips, I keep telling myself,
-  Are a cup from which I must drink;
-  Her breast is the one last pillow
-  Whereon I may ever find peace!
-  Yet she has not come to me,
-  And being denied her, everything stands denied,
-  And all men who have waited in vain for love
-  Cry out through my desolate heart;
-  And the want of the hungering world
-  Runs like fire through my veins
-  And bursts from my throat in the cry
-  _That I want this woman!_
-
-  I am possessed of a great sickness
-  And likewise possessed of a great strength,
-  And the ultimate hour has come.
-  I will arise and go unto this woman,
-  And with bent head and my arms about her knees
-  I shall say unto her: "Beloved beyond all words,
-  Others have sought your side,
-  And many have craved your kiss,
-  But none, O body of flesh and bone,
-  Has known a hunger like mine!
-  And though evil befall, or good,
-  This hunger is given to me,
-  And is now made known to you,--
-  For I must die,
-  Or you must die,
-  Or Desire must die
-  This night!"
-
-
-
-
-  THE LIFE ON THE TABLE
-
-  In the white-walled room
-  Where the white bed waits
-  Stand banks of meaningless flowers;
-  In the rain-swept street
-  Are a ghost-like row of cabs;
-  And along the corridor-dusk
-  Phantasmal feet repass.
-  Through the warm, still air
-  The odour of ether hangs;
-  And on this slenderest thread
-  Of one thin pulse
-  Hangs and swings
-  The hope of life--
-  The life of her
-  I love!
-
-
-
-
-  YOU BID ME TO SLEEP
-
-  You bid me to sleep,--
-  But why, O Daughter of Beauty,
-  Was beauty thus born in the world?
-  Since out of these shadowy eyes
-  The wonder shall pass!
-  And out of this surging and passionate breast
-  The dream shall depart!
-  And out of these delicate rivers of warmth
-  The fire shall wither and fail!
-  And youth like a bird from your body shall fly!
-  And Time like a fang on your flesh shall feed!
-  And this perilous bosom that pulses with love
-  Shall go down to the dust from which it arose,--
-  Yet Daughter of Beauty, close,
-  Close to its sumptuous warmth
-  You hold my sorrowing head,
-  And smile with shadowy eyes,
-  And bid me to sleep again!
-
-
-
-
-  THE LAST OF SUMMER
-
-  The opal afternoon
-  Is cool, and very still.
-  A wash of tawny air,
-  Sea-green that melts to gold,
-  Bathes all the skyline, hill by hill.
-  Out of the black-topped pinelands
-  A black crow calls,
-  And the year seems old!
-  A woman from a doorway sings,
-  And from the valley-slope a sheep-dog barks,
-  And through the umber woods the echo falls.
-  Then silence on the still world lies,
-  And faint and far the birds fly south,
-  And behind the dark pines drops the sun,
-  And a small wind wakes and sighs,
-  And Summer, see, is done!
-
-
-
-
-  AT CHARING-CROSS
-
-  Alone amid the Rockies I have stood;
-  Alone across the prairie's midnight calm
-  Full often I have fared
-  And faced the hushed infinity of night;
-  Alone I have hung poised
-  Between a quietly heaving sea
-  And quieter sky,
-  Aching with isolation absolute;
-  And in Death's Valley I have walked alone
-  And sought in vain for some appeasing sign
-  Of life or movement,
-  While over-desolate my heart called out
-  For some befriending face
-  Or some assuaging voice!
-  But never on my soul has weighed
-  Such loneliness as this,
-  As here amid the seething London tides
-  I look upon these ghosts that come and go,
-  These swarming restless souls innumerable,
-  Who through their million-footed dirge of unconcern
-  Must know and nurse the thought of kindred ghosts
-  As lonely as themselves,
-  Or else go mad with it!
-
-
-
-
-  PRESCIENCE
-
-  I
-
-  "The sting of it all," you said, as you stooped low over your roses,
-  "The worst of it is, when I think of Death,
-  That Spring by Spring the Earth shall still be beautiful,
-  And Summer by Summer be lovely again,
-  --And I shall be gone!"
-
-
-  II
-
-  "I would not care, perhaps," you said, watching your roses,
-  "If only 'twere dust and ruin and emptiness left behind!
-  But the thought that Earth and April
-  Year by casual year
-  Shall waken around the old ways, soft and beautiful,
-  Year by year when I am away,
-  --This, this breaks my heart!"
-
-
-
-
-  THE STEEL WORKERS
-
-  I watched the workers in steel,
-  The Pit-like glow of the furnace,
-  The rivers of molten metal,
-  The tremulous rumble of cranes,
-  The throb of the Thor-like hammers
-  On sullen and resonant anvils!
-  I saw the half-clad workers
-  Twisting earth's iron to their use,
-  Shaping the steel to their thoughts;
-  And, in some way, out of the fury
-  And the fires of mortal passion,
-  It seemed to me,
-  In some way, out of the torture
-  And tumult of inchoate Time,
-  The hammer of sin is shaping
-  The soul of man!
-
-
-
-
-  THE CHILDREN
-
-  The city is old in sin,
-  And children are not for cities,
-  And, wan-eyed woman, you want them not,
-  You say with a broken laugh.
-  Yet out of each wayward softness of voice,
-  And each fulness of breast,
-  And each flute-throated echo of song,
-  Each flutter of lace and quest of beautiful things,
-  Each coil of entangling hair built into its crown,
-  Each whisper and touch in the silence of night,
-  Each red unreasoning mouth that is lifted to mouth,
-  Each whiteness of brow that is furrowed no more with thought,
-  Each careless soft curve of lips that can never explain,
-  Arises the old and the inappeasable cry!
-  Every girl who leans from a tenement sill
-  And flutters a hand to a youth,
-  Every woman who waits for a man in the dusk,
-  Every harlotous arm flung up to a drunken heel
-  That would trample truth down in the dust,
-  Reaches unknowingly out for its own,
-  And blind to its heritage waits
-  For its child!
-
-
-
-
-  THE NOCTURNE
-
-  Remote, in some dim room,
-  On this dark April morning soft with rain,
-  I hear her pensive touch
-  Fall aimless on the keys,
-  And stop, and play again.
-
-  And as the music wakens
-  And the shadowy house is still,
-  How all my troubled soul cries out
-  For things I know not of!
-  Ah, keen the quick chords fall,
-  And weighted with regret,
-  Fade through the quiet rooms;
-  And warm as April rain
-  The strange tears fall,
-  And life in some way seems
-  Too deep to bear!
-
-
-
-
-  THE WILD GEESE
-
-  Over my home-sick head,
-  High in the paling light
-  And touched with the sunset's glow,
-  Soaring and strong and free,
-  The unswerving phalanx sweeps,
-  The honking wild geese go,--
-  Go with a flurry of wings
-  Home to their norland lakes
-  And the sedge-fringed tarns of peace
-  And the pinelands soft with Spring!
-
-  I cannot go as the geese go,
-  But into the steadfast North,
-  The North that is dark and tender,
-  My home-sick spirit wings,--
-  Wings with a flurry of longing thoughts
-  And nests in the tarns of youth.
-
-
-
-
-  THE DAY
-
-  I
-
-  Dewy, dewy lawn-slopes,
-  Is this the day she comes?
-  O wild-flower face of Morning,
-  Must you never wake?
-  Silvery, silvery sea-line,
-  Does she come to-day?
-  O murmurous, murmurous birch-leaves,
-  Beneath your whispering shadow
-  She will surely pass;
-  And thrush beneath the black-thorn
-  And white-throat in the pine-top,
-  Sing as you have never sung,
-  For she will surely come!
-
-
-  II
-
-  The lone green of the lawn-slope,
-  The grey light on the sky-line,
-  The mournful stir of birch-leaves,
-  The thin note of the brown thrush,
-  And the call of troubled white-throats
-  Across the afternoon!--
-  Ah, Summer now is over,
-  And for us the season closed,
-  For she who came an hour ago
-  Has gone again--
-  Has gone!
-
-
-
-
-  THE REVOLT
-
-  God knows that I've tinkled and jingled and strummed,
-  That I've piped it and jigged it until I'm fair sick of the game,
-  That I've given them slag and wasted the silver of song,
-  That I've thrown them the tailings and they've taken them up content!
-  But now I want to slough off the bitterness born of it all,
-  I want to throw off the shackles and chains of time,
-  I want to sit down with my soul and talk straight out,
-  I want to make peace with myself,
-  And say what I have to say,
-  While still there is time!
-
-  Yea, I will arise and go forth, I have said,
-  To the uplands of truth, to be free as the wind,
-  Rough and unruly and open and turbulent-throated!
-  Yea, I will go forth and fling from my soul
-  The shackles and chains of song!
-
-  But, lo, on my wrists are the scars,
-  And here on my ankles the chain-galls,
-  And the cell-pallor, see, on my face!
-  And my throat seems thick with the cell-dust,
-  And for guidance I grope to the walls,
-  And after my moment of light
-
-  I want to go back to the Dark,
-  Since the Open still makes me afraid,
-  And silence seems best in the sun,
-  And song in the dusk!
-
-
-
-
-  ATAVISM
-
-  I feel all primal and savage to-day.
-  I could eat and drink deep and love strong
-  I could fight and exult and boast and be glad!
-  I could tear out the life of a wild thing and laugh at it!
-  I could crush into panting submission the breast of a woman
-  A-stray from her tribe and her smoke-stained tent-door!
-  I could glory in folly and fire and ruin,
-  And race naked-limbed with the wind,
-  And slink on the heels of my foes
-  And dabble their blood on my brows--
-  For to-day I am sick of it all,
-  This silent and orderly empty life,
-  And I feel all savage again!
-
-
-
-
-  MARCH TWILIGHT
-
-  Black with a batter of mud
-  Stippled with silvery pools
-  Stands the pavement at the street-end;
-  And the gutter snow is gone
-  From cobble and runnelling curb;
-  And no longer the ramping wind
-  Is rattling the rusty signs;
-  And moted and soft and misty
-  Hangs the sunlight over the cross-streets,
-  And the home-bound crowds of the city
-  Walk in a flood of gold.
-
-  And suddenly out of the dusk
-  There comes the ancient question:
-  Can it be that I have lived
-  In earlier worlds unknown?
-  Or is it that somewhere deep
-  In this husk that men call Me
-  Are kennelled a motley kin
-  I never shall know or name,--
-  Are housed still querulous ghosts
-  That sigh and awaken and move,
-  And sleep once more?
-
-
-
-
-  THE ECHO
-
-  I
-
-  I am only a note in the chorus,
-  A leaf in the fluttering June,
-  A wave on the deep.
-  These things that I struggle to utter
-  Have all been uttered before.
-  In many another heart
-  The selfsame song was born,
-  The ancient ache endured,
-  The timeless wonder faced,
-  The unanswered question nursed,
-  The resurgent hunger felt,
-  And the eternal failure known!
-
-
-  II
-
-  But glad is the lip of its whisper;
-  The wave, of its life;
-  The leaf, of its lisp;
-  And glad for its hour is my soul
-  For its echo of godlier music,
-  Its fragment of song!
-
-
-
-
-  AUTUMN
-
-  The thin gold of the sun lies slanting on the hill;
-  In the sorrowful greys and muffled violets of the old orchard
-  A group of girls are quietly gathering apples.
-  Through the mingled gloom and green they scarcely speak at all,
-  And their broken voices rise and fall unutterably sad.
-  There are no birds,
-  And the goldenrod is gone.
-  And a child calls out, far away, across the autumn twilight;
-  And the sad grey of the dusk grows slowly deeper,
-  And all the world seems old!
-
-
-
-
-  FACES
-
-  I tire of these empty masks,
-  These faces of city women
-  That seem so vapid and well-controlled.
-  I get tired of their guarded ways
-  And their eyes that are always empty
-  Of either passion or hate
-  Or promise or love,
-  And that seem to be old
-  And are never young!
-  I think of the homelier faces
-  That I have seen,
-  The vital and open faces
-  In the by-ways of the world:
-  A Polish girl who met
-  Her lover one wintry morning
-  Outside the gaol at Ossining;
-  A lean young Slav violinist
-  And the steerage women about him,
-  Held by the sound of his music;
-  A young and deep-bosomed Teuton
-  Suckling her shawl-wrapped child
-  On a grey stone bridge in Detmold;
-  A group of girls from Ireland,
-  Crowding the steps of a colonist-car
-  And singing half-sadly together
-  As their train rocked on and on
-  Over the sun-bathed prairie;
-  A mournful Calabrian mother
-  Standing and staring out
-  Past the mists of Ischia
-  After a fading steamer;
-  A Nautch girl held by a sailor
-  Who'd taken a knife from her fingers
-  But not the fire from her eyes;
-  And a silent Sicilian mother
-  Standing alone in the Marina
-  Awaiting her boy who had been
-  Long years away!--
-  These I remember!
-  And of these
-  I never tire!
-
-
-
-
-  THERE IS STRENGTH IN THE SOIL
-
-  There is strength in the soil;
-  In the earth there is laughter and youth.
-  There is solace and hope in the upturned loam.
-  And lo, I shall plant my soul in it here like a seed!
-  And forth it shall come to me as a flower of song;
-  For I know it is good to get back to the earth
-  That is orderly, placid, all-patient!
-  It is good to know how quiet
-  And noncommittal it breathes,
-  This ample and opulent bosom
-  That must some day nurse us all!
-
-
-
-
-  LIFE-DRUNK
-
-  On opal Aprilian mornings like this
-  I seem dizzy and drunk with life.
-  I waken and wander and laugh in the sun;
-  With some mystical knowledge enormous
-  I lift up my face to the light.
-  Drunk with a gladness stupendous I seem;
-  With some wine of Immensity god-like I reel;
-  And my arm could fling Time from His throne;
-  I could pelt the awed taciturn arch
-  Of Morning with music and mirth;
-  And I feel, should I find but a voice for my thought,
-  That the infinite orbits of all God's loneliest stars
-  That are weaving vast traceries out on the fringes of Night
-  Could never stand more than a hem on the robe of my Song!
-
-
-
-
-  MY HEART STOOD EMPTY
-
-  My heart stood empty and bare,
-  So I hung it with thoughts of a woman.
-  The remembered ways of this woman
-  Hung sweet in my heart.
-  So I followed where thought should lead,
-  And it led to her feet.
-  But the mouth of this woman was pain,
-  And the love of this woman, regret;
-  And now only the thought
-  Of all those remembered thoughts
-  Of remembered ways,
-  Is shut in my heart!
-
-
-
-
-  ONE NIGHT IN THE NORTHWEST
-
-  When they flagged our train because of a broken rail,
-  I stepped down out of the crowded car,
-  With its clamour and dust and heat and babel of broken talk.
-  I stepped out into the cool, the velvet cool, of the night,
-  And felt the balm of the prairie-wind on my face,
-  And somewhere I heard the running of water,
-  I felt the breathing of grass,
-  And I knew, as I saw the great white stars,
-  That the world was made for good!
-
-
-
-
-  DREAMERS
-
-  There's a poet tombed in you,
-  Man of blood and iron!
-  There's a dreamer dead and buried
-  Deep beneath your cynic frown,
-  Deep beneath your toil!
-
-  And deep beneath my music,
-  There's a strong man stirs in me;
-  There's a ghost of blood and granite
-  Coffined in this madness
-  Carpentered of Song!
-
-  You live your day and drain it;
-  I weave my dream and lose it;
-  But the red blood lost in me awakens still at times,
-  At all your city's sky-line,
-  At all your roaring market-place,
-  At all its hum of power--
-  And the poet dead within you stirs
-  Still at the plaintive note or two
-  Of a dreamer's plaintive song!
-
-
-
-
-  THE QUESTION
-
-  I
-
-  Glad with the wine of life,
-  Reeling I go my way,
-  Drunk with the ache of living
-  And mouthing my drunken song!
-  Then comes the lucid moment
-  And the shadow across the lintel;
-  And I hear the ghostly whisper,
-  And I glimpse with startled eyes
-  The Door beyond the doorway,
-  And I see the small dark house
-  Where I must sleep.
-
-
-  II
-
-  Then song turns sour on my lips,
-  And the warmth goes out of my blood,
-  And I turn me back to the beaker,
-  And re-draining my cup of dream,
-  I drown the whispering voices,
-  I banish the ghostly question
-  As to which in the end is true:
-  The wine and the open road?
-  Or the waiting Door?
-
-
-
-
-  THE GIFT OF HATE
-
-  Empty it seems, at times, their cry about Love,
-  Their claim that love is the only thing that survives.
-  For I who am born of my centuries strewn with hate,
-  Who was spewed into life from a timeless tangle of sin,
-  I can hate as strong and as long as I love!
-
-  There are hours and issues I hate;
-  There are creeds and deeds and doubts I hate;
-  There are men I hate to the uttermost;
-  And although in their graves they listen and weep,
-  Earth's mothers and wistful women who cried for peace,
-  I hate this King of Evil who has crowned my heart with Hate!
-
-
-
-
-  THE DREAM
-
-  I lay by your side last night.
-  By you, in my dreams,
-  I felt the damp of the grave.
-  I was dead with you--
-  And my bones still ache with Death.
-  For my hand went out and I touched your lips,
-  And I found them fallen away,
-  Wasted and lost!
-  Those lips once warm with life
-  Were eaten and gone!
-  And my soul screamed out in the dark
-  At the intimate blackness of Death.
-  And then I arose from the dead
-  And returned to the day;
-  And my bones and my heart still ache with it all,
-  And I hunger to hear the relieving babble of life,
-  The crowd in the hurrying street,
-  The tumult and laughter and talk,
-  To make me forget!
-
-
-
-
-  ONE ROOM IN MY HEART
-
-  One room in my heart shall be closed, I said;
-  One chamber at least in my soul shall be secret and locked!
-  I shall hold it my holy of holies, and no one shall know it!
-  But you, calm woman predestined, with casual hands,
-  You came with this trivial key,
-  And ward by obdurate ward the surrendering lock fell back,
-  And disdainfully now you wander and brood and wait
-  In this room that I thought was my own!
-
-
-
-
-  THE MEANING
-
-  It isn't the Sea that I love,
-  But the ships
-  That must dare and endure and defy and survive it!
-  It isn't the flesh that I love,
-  But the spirit
-  That guides and derides and controls and outlives it!
-  It isn't this earth that I love,
-  But the mortals
-  Who give to it meaning and colour and passion and life!
-  For what is the Sea without ships?
-  And what is the flesh without soul?
-  And what is a world without love?
-
-
-
-
-  THE VEIL
-
-  You have said that I sold
-  My life for a song;
-  Laid bare my heart
-  That men might listen
-  And go their ways--
-  My inchoate heart
-  That I dare not plumb,
-  That goes unbridled
-  To the depths of Hell,
-  That sings in the sun
-  To the brink of Heaven!
-  I have tossed you the spindrift
-  Born of its fretting
-  On its shallowest coast,
-  But over the depths of it
-  Bastioned in wonder
-  And silent with fear
-  God sits with me!
-
-
-
-
-  THE MAN OF DREAMS
-
-  All my lean life
-  I garnered nothing but a dream or two,
-  These others gathered harvests
-  And grew fat with grain.
-  But no man lives by bread,
-  And bread alone.
-  So, forgetful of their scorn,
-  When starved, they cried for life,
-  I gave them my last dreams,
-  I bared for them my heart,
-  That they might eat!
-
-
-
-
-  APRIL ON THE RIALTO
-
-  A canyon of granite and steel,
-  A river of grim unrest,
-  And over the fever and street-dust
-  Arches the azure of dream.
-  And fretting along the tumult,
-  Threading the iron curbs,
-  Tawdry in tinsel and feather
-  Drift the daughters of pleasure,
-  The sad-eyed traders in song,
-  The makers of joy,
-  The Columbines of the city
-  Seeking their ends!
-  But under the beaded eye-lash,
-  Under the lip with its rouge,
-  Under the mask of white
-  Splashed with geranium-red,
-  As God's own arch of azure
-  Leans softly over the street,
-  Surely, this day, runs warmer
-  The blood through a wasted breast!
-
-
-
-
-  THE SURRENDER
-
-  Must I round my life to a song,
-  As the waves wear smooth the shore-stone?
-  Shall the mortal beat and throb
-  Of this heart of mine
-  Be only to crumble a dream,
-  And fashion the pebbles of fancy,
-  That the tides of time may cover,
-  Or a child may find?
-
-  Little in truth it matters;
-  But this at the most I know:
-  Infinite is the ocean
-  That thunders upon man's soul,
-  And the sooner the soul falls broken,
-  The smoother will be its song!
-
-
-
-
-  THE PASSING
-
-  Ere the thread is loosed,
-  And the sands run low,
-  And the last hope fails,
-  Wherever we fare,
-  O Fond and True,
-  May it fall that we come in the end,
-  Come back to the crimson valleys,
-  Back to the Indian Summer,
-  Back to the northern pine-lands,
-  And the grey lakes draped with silence,
-  And the sunlight thin and poignant,
-  And the leaf that flutters earthward,
-  And the skyline green and lonely,
-  And the ramparts of the dead world
-  Ruddy with wintry rose!
-  May we fare, O Fond and True,
-  Through our soft-houred Indian Summer,
-  Through the paling twilight weather,
-  And facing the lone green uplands,
-  And greeting the sun-warmed hills,
-  Step into the pineland shadows
-  And enter the sunset valley
-  And go as the glory goes
-  Out of the dreaming autumn,
-  Out of the drifting leaf
-  And the dying light!
-
-
-
-
-  PROTESTATIONS
-
-  If I tire of you, beautiful woman,
-  I know that the fault is mine;
-  Yet not all mine the failure
-  And not all mine the loss!
-  In loveliness still you walk;
-  But I have walked with sorrow!
-  I have threaded narrows,
-  And I have passed through perils
-  That you know nothing of!
-  And I in my grief have gazed
-  In eyes that were not yours;
-  And my emptier hours have known
-  The sigh of kindlier bosoms,
-  The kiss of kindlier mouths!
-  Yet the end of all is written,
-  And nothing, O rose-leaf woman,
-  You ever may dream or do
-  Henceforth can bring me anguish
-  Or crown my days with joy!
-
-      _Three tears, O stately woman,
-      You said could float your soul,
-      So little a thing it seemed!
-      Yet all that's left of life
-      I'd give to know your love,
-      I'd give to show my love,
-      And feel your kiss again!_
-
-
-
-
-  I SAT IN THE SUNLIGHT
-
-  I sat in the sunlight thinking of life;
-  I sat there, dreaming of Death.
-  And a moth alit on the sun-dial's face,
-  And the birds sang sleepily,
-  And the leaves stirred,
-  And the sun lay warm on the hills,
-  And the afternoon grew old.
-
-  So, some day I knew the birds would sing,
-  And the leaves would stir,
-  And the afternoon grow old--
-  And I would not be there.
-  And the warmth went out of the day,
-  And a wind blew out of the West where I sat,
-  And the birds were still!
-
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Open Water, by Arthur Stringer
-
+The blue, blue sea,
+And the drone of waves,
+And the wheeling swallows,
+And the sun on the opal sails,
+And the misty and salt-bleached headlands,
+And the milkweed thick at my feet,
+And the milkweed held in the hand of a child
+Who dreams on the misty cliff-edge,
+Watching the fading sails
+And the noonday blue
+Of the lonely sea!
+Was it all years ago,
+Or was it but yesterday?
+I only know that the scent
+Of the milkweed brings it back,
+Back with a strangle of tears:
+The child and the misty headlands,
+The drone of the dark blue sea,
+And the opal sails
+In the sun!
+I am tired of the dust
+And the fever and noise
+And the meaningless faces of men;
+And I want to go home!
+Oh, day after day I get thinking of home
+Where the black firs fringe the skyline,
+And the birds wheel down the silence,
+And the hemlocks whisper peace,
+And the hill-winds cool the blood,
+And the dusk is crowned with glory,
+And the lone horizon softens,
+And the world's at home with God!
+Oh, I want to go there!
+_I want to go home!_
+A rind of light hangs low
+On the rim of the world;
+A sound of feet disturbs
+The quiet of the cell
+Where a rope and a beam looms high
+At the end of the yard.
+But in the dusk
+Of that walled yard waits a woman;
+And as the thing from its cell,
+Still guarded and chained and bound,
+Crosses that little space,
+Silent, for ten brief steps,
+A woman hangs on his neck.
+_And that walk from a cell to a sleep
+Is known as Life,
+And those ten dark steps
+Of tangled rapture and tears
+Men still call Love._
+Some day, O Seeker of Dreams, they will seek even us!
+Some day they will wake, Fellow Singer, and hunger and want
+For the Ways to the Lonelier Height!
+So let us, Shy Weaver of Beauty, take heart,
+For out of their dust they will call to us yet!
+Let us wait, and sing, and be wise,
+As the sea has waited and sung,
+As the hills through the night have been wise!
+For we are the Bringers of Light, and the Voices of Love,
+Aye, we are the Soothers of Pain, the Appeasers of Death,
+The Dusk and the Star and the Gleam and the Loneliest Peak!
+And when they have found and seen, and know not whither they trend,
+They will come to us, crying aloud like a child in the night;
+And when they have learned of our lips,
+Still back to our feet they will grope
+For that ultimate essence and core of all song,
+To usher them empty and naked, then, out to the unanswering stars,
+Where Silence and Dreaming and Music are one!
+I have drunk deep
+Of the well of bitterness.
+Black hours have harried me,
+Blind fate has bludgeoned my bent head,
+And on my brow the iron crown
+Of sorrow has been crushed.
+And being mortal, I have cried aloud
+At anguish ineluctable.
+But over each black hour has hung
+Forlorn this star of knowledge:
+The path of pain too great to be endured
+Leads always unto peace;
+And when the granite road of anguish mounts
+Up and still up to its one ultimate
+And dizzy height of torture,
+Softly it dips and meets
+The valley of endless rest!
+Summer is dead.
+And love is gone.
+And life is glad of this.
+For sad were both, with having given much;
+And bowed were both, with great desires fulfilled;
+And both were grown too sadly wise
+Ever to live again.
+Too aged with hours o'er-passionate,
+Too deeply sung by throats
+That took no thought of weariness,
+Moving too madly toward the crest of things,
+Giving too freely of the fountaining sap,
+Crowding too gladly into grass and leaves,
+Breathing too blindly into flower and song!
+Again the lyric hope may thrill the world,
+Again the sap may sweeten into leaves,
+Again will grey-eyed April come
+With all her choiring throats;
+But not to-day--
+For the course is run.
+And the cruse is full,
+And the loin ungirt,
+And the hour ordained!
+And now there is need of rest;
+And need of renewal there is;
+And need of silence,
+And need of sleep.
+Too clear the light
+Now lies on hill and valley;
+And little is left to say,
+And nothing is left to give.
+Summer is dead;
+And love is gone!
+I am through with regret.
+No more shall I kennel with pain.
+I have called to this whimpering soul,
+This soul that is sodden with tears
+And sour with the reek of the years!
+And now we shall glory in light!
+Like a tatter of sail in the wind,
+Like a tangle of net on the sand,
+Like a hound stretched out in the heat,
+My soul shall lie in the sun,
+And be drowsy with peace,
+And not think of the past!
+Letters from Home, you said.
+Unopened they lay on the shack-sill
+As you stared with me at the prairie
+And the foothills bathed with light.
+Letters from Home, you whispered,
+And the homeland casements shone
+Through the homeland dusk again,
+And the sound of the birds came back,
+And the soft green sorrowing hills,
+And the sigh of remembered names,
+The wine of remembered youth,--
+Oh, these came back,
+Back with those idle words
+Of "Letters from Home"!
+Over such desolate leagues,
+Over such sundering seas,
+Out of the lost dead years,
+After the days of waiting,
+After the ache had died,
+After the brine of failure,
+After the outland peace
+Of the trail that never turns back,
+Now that the night-wind whispers
+How Home shall never again be home,
+And now that the arms of the Far-away
+Have drawn us close to its breast,
+Out of the dead that is proved not dead,
+To waken the sorrow that should have died,
+To tighten the throat that never shall sing,
+To sadden the trails that we still must ride,
+Too late they come to us here--
+Our Letters from Home!
+I watched the men at work on the stubborn rock,
+But mostly the one man poised on a drill
+Above the steam that hissed and billowed about him
+White in the frosty air,
+Where the lordly house would stand.
+Majestic, muscular, high like a god,
+He stood,
+And controlled and stopped
+And started his thundering drill,
+Offhand and careless and lordly as Thor,
+Begrimed and solemn and crowned with sweat,
+Where the great steel chains swung over the buckets of rock.
+Then out of a nearby house came a youth,
+All gloved and encased in fur and touched with content,
+Thin-shouldered and frail and finished,
+Leading a house-dog out on a silver chain.
+He peered at the figure that fought with the drill
+Above the billowing steam and tumult of sound,
+Peered up for a moment impassive,
+With almost pitying eyes,
+And then went pensively down the Avenue's calm,
+In the clear white light of the noonday sun,
+Not holding, but held by his silvery chain!
+A village wrapped in slumber,
+Silent between the hills,
+Empty of moon-lit marketplace,
+Empty of moving life--
+Such is my quiet heart.
+Shadowy-walled it rests,
+Sleeping its heavy sleep;
+But sudden across the dark
+Tingles a sound of drums!
+The drums, the drums, the distant drums,
+The throb of the drums strikes up,
+The beat of the drums awakes!
+Then loud through the little streets,
+And strange to the startled roofs,
+The drums, the drums approach and pound,
+And throb and clamour and thrill and pass,
+And between the echoing house-walls
+All swart and grim they go,
+The battalions of regret,
+After the drums, the valiant drums
+That die away in the night!
+I caught the smell of ether
+From the glass-roofed room
+Where the hospital stood.
+Suddenly all about me
+I felt a mist of anguish
+And the old, old hour of dread
+When Death had shambled by.
+Yellow with time it is,
+This letter on which I look;
+But up from it comes a perfume
+That stabs me still to the heart;
+And suddenly, at the odour,
+Through a ghost-like mist I know
+Rapture and love and wild regret
+When Life, and You, went by.
+Mournful the summer moon
+Rose from the quiet sea.
+Golden and sad and full of regret
+As though it would ask of earth
+Where all her lovers had vanished
+And whither had gone the rose-red lips
+That had sighed to her light of old.
+Then I caught a pulse of music,
+Brokenly, out at the pier-end,
+And I heard the voices of girls
+Going home in the dark,
+Laughing along the sea-wall
+Over a lover's word!
+In an old and ashen island,
+Beside a city grey with death,
+They are seeking Sappho's tomb!
+Beneath a vineyard ruinous
+And a broken-columned temple
+They are delving where she sleeps!
+There between a lonely valley
+Filled with noonday silences
+And the headlands of soft violet
+Where the sapphire seas still whisper,
+Whisper with her sigh;
+Through a country sad with wonder
+Men are seeking vanished Sappho,
+Men are searching for the tomb
+Of muted Song!
+They will find a Something there,
+In a cavern where no sound is,
+In a room of milky marble
+Walled with black amphibolite
+Over-scored with faded words
+And stained with time!
+Sleeping in a low-roofed chamber,
+With her phials of perfume round her,
+In a terra-cotta coffin
+With her image on the cover,
+Childish echo of her beauty
+Etched in black and gold barbaric--
+Lift it slowly, slowly, seekers,
+Or your search will end in dust!
+With a tiny nude Astarte,
+Bright with gilt and gravely watching
+Over grass-green malachite,
+Over rubies pale, and topaz,
+And the crumbled dust of pearls!
+With her tarnished silver mirror,
+With her rings of beaten gold,
+With her robes of faded purple,
+And the stylus that so often
+Traced the azure on her eyelids,--
+Eyelids delicate and weary,
+Drooping, over-wise!
+And at her head will be a plectron
+Made of ivory, worn with time,
+And a flute and gilded lyre
+Will be found beside her feet,
+And two little yellow sandals,
+And crude serpents chased in silver
+On her ankle rings--
+And a cloud of drifting dust
+All her shining hair!
+In that lost and lonely tomb
+They may find her;
+Find the arms that ached with rapture,
+Softly folded on a breast
+That for evermore is silent;
+Find the eyes no longer wistful,
+Find the lips no longer singing,
+And the heart, so hot and wayward
+When that ashen land was young,
+Cold through all the mists of time,
+Cold beneath the Lesbian marble
+In the low-roofed room
+That drips with tears!
+In the dead of the night
+You turned in your troubled sleep
+As you heard the wild swans pass;
+And then you slept again.
+You slept--
+While a new world swam beneath
+That army of eager wings,
+While plainland and slough and lake
+Lay wide to those outstretched throats,
+While the far lone Lights allured
+That phalanx of passionate breasts.
+And I who had loved you more
+Than a homing bird loves flight,--
+I watched with an ache for freedom,
+I rose with a need for life,
+Knowing that love had passed
+Into its unknown North!
+O odour of incense, pride of purple and gold,
+Burst of music and praise, and passion of flute and pipe!
+O voices of silver o'er-sweet, and soothing antiphonal chant!
+O Harmony, ancient, ecstatic, a-throb to the echoing roof,
+With tremulous roll of awakened reverberant tubes, and thunder of sound!
+And illusion of mystical song and outclangour of jubilant bell,
+And glimmer of gold and taper, and throbbing, insistent pipe--
+If song and emotion and music were all--
+Were it only all!
+For see, dark heart of mine,
+How the singers have ceased and gone!
+See, how all of the music is lost and the lights are low,
+And how, as our idle arms, these twin ineloquent towers
+Grope up through the old inaccessible Night to His stars!
+How in vain we have stormed on the bastions of Silence with sound!
+How in vain with our music and song and emotion assailed the Unknown,
+How beat with the wings of our worship on Earth's imprisoning bars!
+For the pinions of Music have wearied, the proud loud tubes have tired,
+Yet still grim and taciturn stand His immutable stars,
+And, lost in the gloom, to His frontiers old I turn
+Where glimmer those sentinel fires,
+Beyond which, Dark Heart, we two
+Some night must steal us forth,
+Quite naked, and alone!
+I lounge on the deck of the river-steamer,
+Homeward bound with its load,
+Churning from headland to headland,
+Through moonlight and silence and dusk.
+And the decks are alive with laughter and music and singing,
+And I see the forms of the sleepers
+And the shadowy lovers that lean so close to the rail,
+And the romping children behind,
+And the dancers amidships.
+But high above us there in the gloom,
+Where the merriment breaks like a wave at his feet,
+Unseen of lover and dancer and me,
+Is the Pilot, impassive and stern,
+With his grim eyes watching the course.
+Listen!
+Footsteps
+Are they,
+That falter through the gloom,
+That echo through the lonely chambers
+Of our house of life?
+Listen!
+Did a door close?
+Did a whisper waken?
+Did a ghostly something
+Sigh across the dusk?
+From the mournful silence
+Something, something went!
+Far down some shadowy passage
+Faintly closed a door--
+And O how empty lies
+Our house of life!
+You stood alone
+In the dusky window,
+Watching the racing river.
+Touched with a vague unrest,
+And if tired of loving too much
+More troubled at heart to find
+That the flame of love could wither
+And the wonder of love could pass,
+You kneeled at the window-ledge
+And stared through the black-topped maples
+Where an April robin fluted,--
+Stared idly out
+At the flood-time sweep of the river,
+Silver and paling gold
+In the ghostly April twilight.
+Shadowy there in the dusk
+You watched with shadowy eyes
+The racing, sad, unreasoning
+Hurrying torrent of silver
+Seeking its far-off sea.
+Faintly I heard you sigh,
+And faintly I heard the robin's flute,
+And faintly from rooms remote
+Came a broken murmur of voices.
+And life, for a breath, stood bathed
+In a wonder crowned with pain,
+And immortal the moment hung;
+And I know that the thought of you
+There at the shadowy window,
+And the matted black of the maples,
+And the sunset call of a bird,
+And the sad wide reaches of silver,
+Will house in my haunted heart
+Till the end of Time!
+The pines shake and the winds wake,
+And the dark waves crowd the sky-line!
+The birds wheel out on a troubled sky;
+The widening road runs white and long,
+And the page is turned,
+And the world is tired!
+So I want no more of twilight sloth,
+And I want no more of resting,
+And of all the earth I ask no more
+Than the green sea, the great sea,
+The long road, the white road,
+And a change of life to-day!
+If I love you, woman of rose
+And warmth and wondering eyes,
+If it so fall out
+That you are the woman I choose,
+Oh, what is there left to say,
+And what should it matter to me,
+Or what can it mean to you?
+For under the two white breasts
+And the womb that makes you woman
+The call of the ages whispers
+And the countless ghosts awaken,
+And stronger than sighs and weeping
+The urge that makes us one,
+And older than hate or loving or shame
+This want that builds the world!
+What shall I care for the ways
+Of these idle and thin-flanked women in silk
+And the lisping men-shadows that trail at their heels?
+What are they worth in my world
+Or the world that I want,
+These flabby-armed, indolent, delicate women
+And these half-women daring to call themselves men
+Yet afraid to get down to the earth
+And afraid of the wind,
+Afraid of the truth,
+And so sadly afraid of themselves?
+How can they help me in trouble and death?
+How can they keep me from hating my kind?
+Oh, I want to get out of their coffining rooms,
+I want to walk free with a man,
+A man who has lived and dared
+And swung through the cycle of life!
+God give me a man for a friend
+To the End,
+Give me a man with his heel on the neck of Hate,
+With his fist in the face of Death,
+A man not fretted with womanish things,
+Unafraid of the light,
+Of the worm in the lip of a corpse,
+Unafraid of the call from the cell of his heart,--
+God give me a man for friend!
+When the sun is high,
+And the hills are happy with light,
+Then virile and strong I am!
+Then ruddy with life I fare,
+The fighter who feels no dread,
+The roamer who knows no bounds,
+The hunter who makes the world his prey,
+And shouting and swept with pride,
+Still mounts to the lonelier height!
+In the cool of the day,
+When the huddling shadows swarm,
+And the ominous eyes look out
+And night slinks over the swales
+And the silence is chill with death,
+Then I am the croucher beside the coals,
+The lurker within the shadowy cave,
+Who listens and mutters a charm
+And trembles and waits,
+A hunted thing grown
+Afraid of the hunt,
+A silence enisled in silence,
+A wonder enwrapped in awe!
+I saw a woman stand
+Under the seas of bloom,
+Under the waves of colour and light,
+The showery snow and rose of the odorous trees
+That made a glory of earth.
+She stood where the petals fell,
+And her hands were on her breast,
+And her lips were touched with wonder,
+And her eyes were full of pain--
+For pure she was, and young,
+And it was Spring!
+Quietly I closed the door.
+Then I said to my soul:
+"I shall never come back,
+Back to this haunted room
+Where Sorrow and I have slept."
+I turned from that hated door
+And passed through the House of Life,
+Through its ghostly rooms and glad
+And its corridors dim with age.
+Then lightly I crossed a threshold
+Where the casements showed the sun
+And I entered an unknown room,--
+And my heart went cold,
+For about me stood that Chamber of Pain
+I had thought to see no more!
+I am desolate,
+Desolate because of a woman.
+When at midnight walking alone
+I look up at the slow-wheeling stars,
+I see only the eyes of this woman.
+In bird-haunted valleys and by-ways secluded,
+Where once I sought peace,
+I find now only unrest
+And this one unaltering want.
+When the dawn-wind stirs in the pine-tops
+I hear only her voice's whisper.
+When by day I gaze into the azure above me
+I see only the face of this woman.
+In the sunlight I cannot find comfort,
+Nor can I find peace in the shadows.
+Neither can I take joy in the hill-wind,
+Nor find solace on kindlier breasts;
+For deep in the eyes of all women I watch
+I see only her eyes stare back.
+Nor can I shut the thought of her out of my heart
+And the ache for her out of my hours.
+Ruthlessly now she invades even my dreams
+And wounds me in sleep;
+And my body cries out for her,
+Early and late and forever cries out for her,
+And her alone,--
+_And I want this woman!_
+I am sick at heart because of this woman;
+I am lost to shame because of my want;
+And mine own people have come to mean naught to me;
+And with many about me still am I utterly alone,
+And quite solitary now I take my way
+Where men are intent on puny things
+And phantasmal legions pace!
+And a wearisome thing is life,
+And forever the shadow of this one woman
+Is falling across my path.
+The turn in the road is a promise of her.
+The twilight is thronged with her ghosts;
+The grasses speak only of her,
+The leaves whisper her name forever;
+The odorous fields are full of her.
+Her lips, I keep telling myself,
+Are a cup from which I must drink;
+Her breast is the one last pillow
+Whereon I may ever find peace!
+Yet she has not come to me,
+And being denied her, everything stands denied,
+And all men who have waited in vain for love
+Cry out through my desolate heart;
+And the want of the hungering world
+Runs like fire through my veins
+And bursts from my throat in the cry
+_That I want this woman!_
+I am possessed of a great sickness
+And likewise possessed of a great strength,
+And the ultimate hour has come.
+I will arise and go unto this woman,
+And with bent head and my arms about her knees
+I shall say unto her: "Beloved beyond all words,
+Others have sought your side,
+And many have craved your kiss,
+But none, O body of flesh and bone,
+Has known a hunger like mine!
+And though evil befall, or good,
+This hunger is given to me,
+And is now made known to you,--
+For I must die,
+Or you must die,
+Or Desire must die
+This night!"
+In the white-walled room
+Where the white bed waits
+Stand banks of meaningless flowers;
+In the rain-swept street
+Are a ghost-like row of cabs;
+And along the corridor-dusk
+Phantasmal feet repass.
+Through the warm, still air
+The odour of ether hangs;
+And on this slenderest thread
+Of one thin pulse
+Hangs and swings
+The hope of life--
+The life of her
+I love!
+You bid me to sleep,--
+But why, O Daughter of Beauty,
+Was beauty thus born in the world?
+Since out of these shadowy eyes
+The wonder shall pass!
+And out of this surging and passionate breast
+The dream shall depart!
+And out of these delicate rivers of warmth
+The fire shall wither and fail!
+And youth like a bird from your body shall fly!
+And Time like a fang on your flesh shall feed!
+And this perilous bosom that pulses with love
+Shall go down to the dust from which it arose,--
+Yet Daughter of Beauty, close,
+Close to its sumptuous warmth
+You hold my sorrowing head,
+And smile with shadowy eyes,
+And bid me to sleep again!
+The opal afternoon
+Is cool, and very still.
+A wash of tawny air,
+Sea-green that melts to gold,
+Bathes all the skyline, hill by hill.
+Out of the black-topped pinelands
+A black crow calls,
+And the year seems old!
+A woman from a doorway sings,
+And from the valley-slope a sheep-dog barks,
+And through the umber woods the echo falls.
+Then silence on the still world lies,
+And faint and far the birds fly south,
+And behind the dark pines drops the sun,
+And a small wind wakes and sighs,
+And Summer, see, is done!
+Alone amid the Rockies I have stood;
+Alone across the prairie's midnight calm
+Full often I have fared
+And faced the hushed infinity of night;
+Alone I have hung poised
+Between a quietly heaving sea
+And quieter sky,
+Aching with isolation absolute;
+And in Death's Valley I have walked alone
+And sought in vain for some appeasing sign
+Of life or movement,
+While over-desolate my heart called out
+For some befriending face
+Or some assuaging voice!
+But never on my soul has weighed
+Such loneliness as this,
+As here amid the seething London tides
+I look upon these ghosts that come and go,
+These swarming restless souls innumerable,
+Who through their million-footed dirge of unconcern
+Must know and nurse the thought of kindred ghosts
+As lonely as themselves,
+Or else go mad with it!
+"The sting of it all," you said, as you stooped low over your roses,
+"The worst of it is, when I think of Death,
+That Spring by Spring the Earth shall still be beautiful,
+And Summer by Summer be lovely again,
+--And I shall be gone!"
+"I would not care, perhaps," you said, watching your roses,
+"If only 'twere dust and ruin and emptiness left behind!
+But the thought that Earth and April
+Year by casual year
+Shall waken around the old ways, soft and beautiful,
+Year by year when I am away,
+--This, this breaks my heart!"
+I watched the workers in steel,
+The Pit-like glow of the furnace,
+The rivers of molten metal,
+The tremulous rumble of cranes,
+The throb of the Thor-like hammers
+On sullen and resonant anvils!
+I saw the half-clad workers
+Twisting earth's iron to their use,
+Shaping the steel to their thoughts;
+And, in some way, out of the fury
+And the fires of mortal passion,
+It seemed to me,
+In some way, out of the torture
+And tumult of inchoate Time,
+The hammer of sin is shaping
+The soul of man!
+The city is old in sin,
+And children are not for cities,
+And, wan-eyed woman, you want them not,
+You say with a broken laugh.
+Yet out of each wayward softness of voice,
+And each fulness of breast,
+And each flute-throated echo of song,
+Each flutter of lace and quest of beautiful things,
+Each coil of entangling hair built into its crown,
+Each whisper and touch in the silence of night,
+Each red unreasoning mouth that is lifted to mouth,
+Each whiteness of brow that is furrowed no more with thought,
+Each careless soft curve of lips that can never explain,
+Arises the old and the inappeasable cry!
+Every girl who leans from a tenement sill
+And flutters a hand to a youth,
+Every woman who waits for a man in the dusk,
+Every harlotous arm flung up to a drunken heel
+That would trample truth down in the dust,
+Reaches unknowingly out for its own,
+And blind to its heritage waits
+For its child!
+Remote, in some dim room,
+On this dark April morning soft with rain,
+I hear her pensive touch
+Fall aimless on the keys,
+And stop, and play again.
+And as the music wakens
+And the shadowy house is still,
+How all my troubled soul cries out
+For things I know not of!
+Ah, keen the quick chords fall,
+And weighted with regret,
+Fade through the quiet rooms;
+And warm as April rain
+The strange tears fall,
+And life in some way seems
+Too deep to bear!
+Over my home-sick head,
+High in the paling light
+And touched with the sunset's glow,
+Soaring and strong and free,
+The unswerving phalanx sweeps,
+The honking wild geese go,--
+Go with a flurry of wings
+Home to their norland lakes
+And the sedge-fringed tarns of peace
+And the pinelands soft with Spring!
+I cannot go as the geese go,
+But into the steadfast North,
+The North that is dark and tender,
+My home-sick spirit wings,--
+Wings with a flurry of longing thoughts
+And nests in the tarns of youth.
+Dewy, dewy lawn-slopes,
+Is this the day she comes?
+O wild-flower face of Morning,
+Must you never wake?
+Silvery, silvery sea-line,
+Does she come to-day?
+O murmurous, murmurous birch-leaves,
+Beneath your whispering shadow
+She will surely pass;
+And thrush beneath the black-thorn
+And white-throat in the pine-top,
+Sing as you have never sung,
+For she will surely come!
+The lone green of the lawn-slope,
+The grey light on the sky-line,
+The mournful stir of birch-leaves,
+The thin note of the brown thrush,
+And the call of troubled white-throats
+Across the afternoon!--
+Ah, Summer now is over,
+And for us the season closed,
+For she who came an hour ago
+Has gone again--
+Has gone!
+God knows that I've tinkled and jingled and strummed,
+That I've piped it and jigged it until I'm fair sick of the game,
+That I've given them slag and wasted the silver of song,
+That I've thrown them the tailings and they've taken them up content!
+But now I want to slough off the bitterness born of it all,
+I want to throw off the shackles and chains of time,
+I want to sit down with my soul and talk straight out,
+I want to make peace with myself,
+And say what I have to say,
+While still there is time!
+Yea, I will arise and go forth, I have said,
+To the uplands of truth, to be free as the wind,
+Rough and unruly and open and turbulent-throated!
+Yea, I will go forth and fling from my soul
+The shackles and chains of song!
+But, lo, on my wrists are the scars,
+And here on my ankles the chain-galls,
+And the cell-pallor, see, on my face!
+And my throat seems thick with the cell-dust,
+And for guidance I grope to the walls,
+And after my moment of light
+I want to go back to the Dark,
+Since the Open still makes me afraid,
+And silence seems best in the sun,
+And song in the dusk!
+I feel all primal and savage to-day.
+I could eat and drink deep and love strong
+I could fight and exult and boast and be glad!
+I could tear out the life of a wild thing and laugh at it!
+I could crush into panting submission the breast of a woman
+A-stray from her tribe and her smoke-stained tent-door!
+I could glory in folly and fire and ruin,
+And race naked-limbed with the wind,
+And slink on the heels of my foes
+And dabble their blood on my brows--
+For to-day I am sick of it all,
+This silent and orderly empty life,
+And I feel all savage again!
+Black with a batter of mud
+Stippled with silvery pools
+Stands the pavement at the street-end;
+And the gutter snow is gone
+From cobble and runnelling curb;
+And no longer the ramping wind
+Is rattling the rusty signs;
+And moted and soft and misty
+Hangs the sunlight over the cross-streets,
+And the home-bound crowds of the city
+Walk in a flood of gold.
+And suddenly out of the dusk
+There comes the ancient question:
+Can it be that I have lived
+In earlier worlds unknown?
+Or is it that somewhere deep
+In this husk that men call Me
+Are kennelled a motley kin
+I never shall know or name,--
+Are housed still querulous ghosts
+That sigh and awaken and move,
+And sleep once more?
+I am only a note in the chorus,
+A leaf in the fluttering June,
+A wave on the deep.
+These things that I struggle to utter
+Have all been uttered before.
+In many another heart
+The selfsame song was born,
+The ancient ache endured,
+The timeless wonder faced,
+The unanswered question nursed,
+The resurgent hunger felt,
+And the eternal failure known!
+But glad is the lip of its whisper;
+The wave, of its life;
+The leaf, of its lisp;
+And glad for its hour is my soul
+For its echo of godlier music,
+Its fragment of song!
+The thin gold of the sun lies slanting on the hill;
+In the sorrowful greys and muffled violets of the old orchard
+A group of girls are quietly gathering apples.
+Through the mingled gloom and green they scarcely speak at all,
+And their broken voices rise and fall unutterably sad.
+There are no birds,
+And the goldenrod is gone.
+And a child calls out, far away, across the autumn twilight;
+And the sad grey of the dusk grows slowly deeper,
+And all the world seems old!
+I tire of these empty masks,
+These faces of city women
+That seem so vapid and well-controlled.
+I get tired of their guarded ways
+And their eyes that are always empty
+Of either passion or hate
+Or promise or love,
+And that seem to be old
+And are never young!
+I think of the homelier faces
+That I have seen,
+The vital and open faces
+In the by-ways of the world:
+A Polish girl who met
+Her lover one wintry morning
+Outside the gaol at Ossining;
+A lean young Slav violinist
+And the steerage women about him,
+Held by the sound of his music;
+A young and deep-bosomed Teuton
+Suckling her shawl-wrapped child
+On a grey stone bridge in Detmold;
+A group of girls from Ireland,
+Crowding the steps of a colonist-car
+And singing half-sadly together
+As their train rocked on and on
+Over the sun-bathed prairie;
+A mournful Calabrian mother
+Standing and staring out
+Past the mists of Ischia
+After a fading steamer;
+A Nautch girl held by a sailor
+Who'd taken a knife from her fingers
+But not the fire from her eyes;
+And a silent Sicilian mother
+Standing alone in the Marina
+Awaiting her boy who had been
+Long years away!--
+These I remember!
+And of these
+I never tire!
+There is strength in the soil;
+In the earth there is laughter and youth.
+There is solace and hope in the upturned loam.
+And lo, I shall plant my soul in it here like a seed!
+And forth it shall come to me as a flower of song;
+For I know it is good to get back to the earth
+That is orderly, placid, all-patient!
+It is good to know how quiet
+And noncommittal it breathes,
+This ample and opulent bosom
+That must some day nurse us all!
+On opal Aprilian mornings like this
+I seem dizzy and drunk with life.
+I waken and wander and laugh in the sun;
+With some mystical knowledge enormous
+I lift up my face to the light.
+Drunk with a gladness stupendous I seem;
+With some wine of Immensity god-like I reel;
+And my arm could fling Time from His throne;
+I could pelt the awed taciturn arch
+Of Morning with music and mirth;
+And I feel, should I find but a voice for my thought,
+That the infinite orbits of all God's loneliest stars
+That are weaving vast traceries out on the fringes of Night
+Could never stand more than a hem on the robe of my Song!
+My heart stood empty and bare,
+So I hung it with thoughts of a woman.
+The remembered ways of this woman
+Hung sweet in my heart.
+So I followed where thought should lead,
+And it led to her feet.
+But the mouth of this woman was pain,
+And the love of this woman, regret;
+And now only the thought
+Of all those remembered thoughts
+Of remembered ways,
+Is shut in my heart!
+When they flagged our train because of a broken rail,
+I stepped down out of the crowded car,
+With its clamour and dust and heat and babel of broken talk.
+I stepped out into the cool, the velvet cool, of the night,
+And felt the balm of the prairie-wind on my face,
+And somewhere I heard the running of water,
+I felt the breathing of grass,
+And I knew, as I saw the great white stars,
+That the world was made for good!
+There's a poet tombed in you,
+Man of blood and iron!
+There's a dreamer dead and buried
+Deep beneath your cynic frown,
+Deep beneath your toil!
+And deep beneath my music,
+There's a strong man stirs in me;
+There's a ghost of blood and granite
+Coffined in this madness
+Carpentered of Song!
+You live your day and drain it;
+I weave my dream and lose it;
+But the red blood lost in me awakens still at times,
+At all your city's sky-line,
+At all your roaring market-place,
+At all its hum of power--
+And the poet dead within you stirs
+Still at the plaintive note or two
+Of a dreamer's plaintive song!
+Glad with the wine of life,
+Reeling I go my way,
+Drunk with the ache of living
+And mouthing my drunken song!
+Then comes the lucid moment
+And the shadow across the lintel;
+And I hear the ghostly whisper,
+And I glimpse with startled eyes
+The Door beyond the doorway,
+And I see the small dark house
+Where I must sleep.
+Then song turns sour on my lips,
+And the warmth goes out of my blood,
+And I turn me back to the beaker,
+And re-draining my cup of dream,
+I drown the whispering voices,
+I banish the ghostly question
+As to which in the end is true:
+The wine and the open road?
+Or the waiting Door?
+Empty it seems, at times, their cry about Love,
+Their claim that love is the only thing that survives.
+For I who am born of my centuries strewn with hate,
+Who was spewed into life from a timeless tangle of sin,
+I can hate as strong and as long as I love!
+There are hours and issues I hate;
+There are creeds and deeds and doubts I hate;
+There are men I hate to the uttermost;
+And although in their graves they listen and weep,
+Earth's mothers and wistful women who cried for peace,
+I hate this King of Evil who has crowned my heart with Hate!
+I lay by your side last night.
+By you, in my dreams,
+I felt the damp of the grave.
+I was dead with you--
+And my bones still ache with Death.
+For my hand went out and I touched your lips,
+And I found them fallen away,
+Wasted and lost!
+Those lips once warm with life
+Were eaten and gone!
+And my soul screamed out in the dark
+At the intimate blackness of Death.
+And then I arose from the dead
+And returned to the day;
+And my bones and my heart still ache with it all,
+And I hunger to hear the relieving babble of life,
+The crowd in the hurrying street,
+The tumult and laughter and talk,
+To make me forget!
+One room in my heart shall be closed, I said;
+One chamber at least in my soul shall be secret and locked!
+I shall hold it my holy of holies, and no one shall know it!
+But you, calm woman predestined, with casual hands,
+You came with this trivial key,
+And ward by obdurate ward the surrendering lock fell back,
+And disdainfully now you wander and brood and wait
+In this room that I thought was my own!
+It isn't the Sea that I love,
+But the ships
+That must dare and endure and defy and survive it!
+It isn't the flesh that I love,
+But the spirit
+That guides and derides and controls and outlives it!
+It isn't this earth that I love,
+But the mortals
+Who give to it meaning and colour and passion and life!
+For what is the Sea without ships?
+And what is the flesh without soul?
+And what is a world without love?
+You have said that I sold
+My life for a song;
+Laid bare my heart
+That men might listen
+And go their ways--
+My inchoate heart
+That I dare not plumb,
+That goes unbridled
+To the depths of Hell,
+That sings in the sun
+To the brink of Heaven!
+I have tossed you the spindrift
+Born of its fretting
+On its shallowest coast,
+But over the depths of it
+Bastioned in wonder
+And silent with fear
+God sits with me!
+All my lean life
+I garnered nothing but a dream or two,
+These others gathered harvests
+And grew fat with grain.
+But no man lives by bread,
+And bread alone.
+So, forgetful of their scorn,
+When starved, they cried for life,
+I gave them my last dreams,
+I bared for them my heart,
+That they might eat!
+A canyon of granite and steel,
+A river of grim unrest,
+And over the fever and street-dust
+Arches the azure of dream.
+And fretting along the tumult,
+Threading the iron curbs,
+Tawdry in tinsel and feather
+Drift the daughters of pleasure,
+The sad-eyed traders in song,
+The makers of joy,
+The Columbines of the city
+Seeking their ends!
+But under the beaded eye-lash,
+Under the lip with its rouge,
+Under the mask of white
+Splashed with geranium-red,
+As God's own arch of azure
+Leans softly over the street,
+Surely, this day, runs warmer
+The blood through a wasted breast!
+Must I round my life to a song,
+As the waves wear smooth the shore-stone?
+Shall the mortal beat and throb
+Of this heart of mine
+Be only to crumble a dream,
+And fashion the pebbles of fancy,
+That the tides of time may cover,
+Or a child may find?
+Little in truth it matters;
+But this at the most I know:
+Infinite is the ocean
+That thunders upon man's soul,
+And the sooner the soul falls broken,
+The smoother will be its song!
+Ere the thread is loosed,
+And the sands run low,
+And the last hope fails,
+Wherever we fare,
+O Fond and True,
+May it fall that we come in the end,
+Come back to the crimson valleys,
+Back to the Indian Summer,
+Back to the northern pine-lands,
+And the grey lakes draped with silence,
+And the sunlight thin and poignant,
+And the leaf that flutters earthward,
+And the skyline green and lonely,
+And the ramparts of the dead world
+Ruddy with wintry rose!
+May we fare, O Fond and True,
+Through our soft-houred Indian Summer,
+Through the paling twilight weather,
+And facing the lone green uplands,
+And greeting the sun-warmed hills,
+Step into the pineland shadows
+And enter the sunset valley
+And go as the glory goes
+Out of the dreaming autumn,
+Out of the drifting leaf
+And the dying light!
+If I tire of you, beautiful woman,
+I know that the fault is mine;
+Yet not all mine the failure
+And not all mine the loss!
+In loveliness still you walk;
+But I have walked with sorrow!
+I have threaded narrows,
+And I have passed through perils
+That you know nothing of!
+And I in my grief have gazed
+In eyes that were not yours;
+And my emptier hours have known
+The sigh of kindlier bosoms,
+The kiss of kindlier mouths!
+Yet the end of all is written,
+And nothing, O rose-leaf woman,
+You ever may dream or do
+Henceforth can bring me anguish
+Or crown my days with joy!
+_Three tears, O stately woman,
+You said could float your soul,
+So little a thing it seemed!
+Yet all that's left of life
+I'd give to know your love,
+I'd give to show my love,
+And feel your kiss again!_
+I sat in the sunlight thinking of life;
+I sat there, dreaming of Death.
+And a moth alit on the sun-dial's face,
+And the birds sang sleepily,
+And the leaves stirred,
+And the sun lay warm on the hills,
+And the afternoon grew old.
+So, some day I knew the birds would sing,
+And the leaves would stir,
+And the afternoon grow old--
+And I would not be there.
+And the warmth went out of the day,
+And a wind blew out of the West where I sat,
+And the birds were still!

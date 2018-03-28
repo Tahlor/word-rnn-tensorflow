@@ -1,197 +1,9 @@
-�The Project Gutenberg EBook of Stories from Virgil, by Alfred J. Church
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: Stories from Virgil
-
-Author: Alfred J. Church
-
-Release Date: August 30, 2012 [EBook #40622]
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK STORIES FROM VIRGIL ***
-
-
-
-
 Produced by Chris Curnow, Sam W. and the Online Distributed
 Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
-
-
-
-                STORIES FROM VIRGIL
-
-                      BY THE
-            REV. ALFRED J. CHURCH, M.A.
-
-  _Head Master of King Edward's School, Retford_;
-          AUTHOR OF "STORIES FROM HOMER."
-
-
-          WITH TWENTY-FOUR ILLUSTRATIONS
-              FROM PINELLI'S DESIGNS
-
-
-                 _FIFTH THOUSAND._
-
-
-     SEELEY, JACKSON, & HALLIDAY, FLEET STREET
-                LONDON. MDCCCLXXIX.
-
-             (_All Rights Reserved._)
-
-
-        UNWIN BROTHERS, THE GRESHAM PRESS,
-               CHILWORTH AND LONDON.
-
-
-
-
-  [Illustration: THE FLIGHT FROM TROY.]
-
-
-
-
-CONTENTS.
-
-
-     CHAP.                                                   PAGE
-        I. THE HORSE OF WOOD                                    1
-
-       II. THE SACK OF TROY                                    10
-
-      III. ÆNEAS AND ANCHISES                                  20
-
-       IV. POLYDORUS--DELOS--CRETE--THE HARPIES                29
-
-        V. KING HELENUS--THE CYCLOPS                           39
-
-       VI. THE SHIPWRECK                                       52
-
-      VII. CARTHAGE                                            58
-
-     VIII. DIDO                                                68
-
-       IX. THE LOVE AND DEATH OF DIDO                          78
-
-        X. THE FUNERAL GAMES OF ANCHISES                       96
-
-       XI. THE FUNERAL GAMES (CONTINUED)                      107
-
-      XII. THE BURNING OF THE SHIPS--THE VOYAGE TO ITALY      115
-
-     XIII. THE SIBYL                                          124
-
-      XIV. THE DWELLINGS OF THE DEAD                          132
-
-       XV. KING LATINUS                                       149
-
-      XVI. THE WRATH OF JUNO                                  159
-
-     XVII. THE GATHERING OF THE CHIEFS                        167
-
-    XVIII. KING EVANDER                                       173
-
-      XIX. THE ARMS OF ÆNEAS                                  181
-
-       XX. NISUS AND EURYALUS                                 190
-
-      XXI. THE BATTLE AT THE CAMP                             202
-
-     XXII. THE BATTLE ON THE SHORE                            210
-
-    XXIII. THE COUNCIL                                        226
-
-     XXIV. THE BATTLE AT THE CITY                             235
-
-      XXV. THE BROKEN TREATY                                  245
-
-     XXVI. THE DEATH OF TURNUS                                253
-
-
-
-
-LIST OF ILLUSTRATIONS.
-
-
-    THE FLIGHT FROM TROY                           _Frontispiece_
-
-    LAOCOÖN                                                     8
-
-    ÆNEAS AND HELEN                                            20
-
-    ÆNEAS AND THE SHADE OF CREÜSA                              26
-
-    THE HARPIES                                                36
-
-    JUNO AND ÆOLUS                                             54
-
-    NEPTUNE STILLING THE WAVES                                 56
-
-    DIDO AND THE FALSE ASCANIUS                                76
-
-    DIDO ON THE FUNERAL PILE                                   94
-
-    ENTELLUS KILLING THE BULL                                 110
-
-    CHARON AND THE GHOSTS                                     134
-
-    CERBERUS                                                  136
-
-    ÆNEAS AND THE SHADE OF DIDO                               138
-
-    THE FURY AT THE FEAST                                     142
-
-    TURNUS OVER THE BODIES OF ALMO AND GALÆSUS                168
-
-    ÆNEAS AND TIBER                                           174
-
-    HERCULES AND CACUS                                        178
-
-    VULCAN AND THE CYCLOPÉS                                   186
-
-    IRIS APPEARING TO TURNUS                                  190
-
-    NISUS AND EURYALUS                                        198
-
-    THE MOTHER OF EURYALUS RECEIVING THE NEWS OF HIS DEATH    200
-
-    ÆNEAS AND THE BODY OF LAUSUS                              222
-
-    CAMILLA AND THE SON OF AUNUS                              240
-
-    THE DEATH OF CAMILLA                                      242
-
-
-
-
-  TO THE HONOURED MEMORY
-
-            OF
-
-      JOHN CONINGTON
-
-  THIS BOOK IS DEDICATED.
-
-
-
-
-PREFACE.
-
-
+_Head Master of King Edward's School, Retford_;
+(_All Rights Reserved._)
+THE FLIGHT FROM TROY                           _Frontispiece_
+ÆNEAS AND THE SHADE OF CREÜSA                              26
 The favour with which the public received "Stories from Homer" has
 encouraged me to deal in the same way with the Æneid. I have found it
 a difficult task, and I must ask the indulgence of my readers, who
@@ -206,7 +18,6 @@ be that which they have been accustomed most to admire in the
 poet,--his brilliant rhetoric, his philosophy, his imagination, and
 his pathos. My chief aim has been to represent to English readers the
 narrative, the interest of which is, perhaps, scarcely appreciated.
-
 The illustrations (with the exception of the second, which is taken
 from a photograph of the antique) have been adapted from a series of
 designs, published early in this century, by Pinelli, a Roman artist
@@ -216,23 +27,7 @@ I may be allowed to express my great obligations to the pains and
 skill (to which indeed this volume is otherwise much indebted) which
 have been used in making these designs available for the present
 purpose.
-
-    RETFORD,
-      _September 25, 1878._
-
-
-
-
-STORIES FROM VIRGIL.
-
-
-
-
-CHAPTER I.
-
-THE HORSE OF WOOD.
-
-
+_September 25, 1878._
 For ten years King Agamemnon and the men of Greece laid siege to Troy.
 But though sentence had gone forth against the city, yet the day of
 its fall tarried, because certain of the gods loved it well and
@@ -249,7 +44,6 @@ helping, even as he was about to take the city), and others also, and
 with them Epeius himself. But the rest of the people made as if they
 had departed to their homes; only they went not further than Tenedos,
 which was an island near to the coast.
-
 Great joy was there in Troy when it was noised abroad that the men of
 Greece had departed. The gates were opened, and the people went forth
 to see the plain and the camp. And one said to another, as they went,
@@ -270,10 +64,8 @@ gifts? Surely, there are armed men in this mighty Horse; or haply they
 have made it that they may look down upon our walls. Touch it not, for
 as for these men of Greece, I fear them, even though they bring gifts
 in their hands."
-
 And as he spake he cast his great spear at the Horse, so that it
 sounded again. But the Gods would not that Troy should be saved.
-
 Meanwhile there came certain shepherds, dragging with them one whose
 hands were bound behind his back. He had come forth to them, they
 said, of his own accord, when they were in the field. And first the
@@ -281,7 +73,6 @@ young men gathered about him mocking him, but when he cried aloud,
 "What place is left for me, for the Greeks suffer me not to live, and
 the men of Troy cry for vengeance upon me?" they rather pitied him,
 and bade him speak, and say whence he came and what he had to tell.
-
 Then the man spake, turning to King Priam: "I will speak the truth,
 whatever befall me. My name is Sinon, and I deny not that I am a
 Greek. Haply thou hast heard the name of Palamedes, whom the Greeks
@@ -296,9 +87,7 @@ rested till at the last, Calchas the soothsayer helping him--but what
 profit it that I should tell these things? For doubtless ye hold one
 Greek to be even as another. Wherefore slay me, and doubtless ye will
 do a pleasure to Ulysses and the sons of Atreus."
-
 Then they bade him tell on, and he said,--
-
 "Often would the Greeks have fled to their homes, being weary of the
 war, but still the stormy sea hindered them. And when this Horse that
 ye see had been built, most of all did the dreadful thunder roll from
@@ -321,12 +110,10 @@ should have set sail, if haply that might be. But never shall I see
 country, or father, or children again. For doubtless on these will
 they take vengeance for my flight. Only do thou, O king, have pity on
 me, who have suffered many things, and yet have harmed no man."
-
 And King Priam had pity on him, and bade them loose his bonds, saying,
 "Whoever thou art, forget now thy country. Henceforth thou art one of
 us. But tell me true: why made they this huge Horse? Who contrived it?
 What seek they by it? to please the Gods or to further their siege?"
-
 Then said Sinon, and as he spake he stretched his hands to the sky, "I
 call you to witness, ye everlasting fires of heaven, that with good
 right I now break my oath of fealty and reveal the secrets of my
@@ -348,7 +135,6 @@ image at all, they shall surely perish; but if they bring it into
 their city, then shall Asia lay siege hereafter to the city of Pelops,
 and our children shall suffer the doom which we would fain have
 brought on Troy.'"
-
 These words wrought much on the men of Troy, and as they pondered on
 them, lo! the Gods sent another marvel to deceive them. For while
 Laocoön, the priest of Neptune, was slaying a bull at the altar of
@@ -385,17 +171,6 @@ that was ever the doom upon her, not to be believed speaking truth. So
 the men of Troy drew the Horse into the city. And that night they kept
 a feast to all the Gods with great joy, not knowing that the last day
 of the great city had come.
-
-  [Illustration: LAOCOÖN.]
-
-
-
-
-CHAPTER II.
-
-THE SACK OF TROY.
-
-
 But when night was now fully come, and the men of Troy lay asleep, lo!
 from the ship of King Agamemnon there rose up a flame for a signal to
 the Greeks; and these straightway manned their ships, and made across
@@ -403,7 +178,6 @@ the sea from Tenedos, there being a great calm, and the moon also
 giving them light. Sinon likewise opened a secret door that was in the
 great Horse, and the chiefs issued forth therefrom, and opened the
 gates of the city, slaying those that kept watch.
-
 Meanwhile there came a vision to Æneas, who now, Hector being dead,
 was the chief hope and stay of the men of Troy. It was Hector's self
 that he seemed to see, but not such as he had seen him coming back
@@ -413,14 +187,12 @@ covered with dust and blood, his feet swollen and pierced through with
 thongs. To him said Æneas, not knowing what he said, "Why hast thou
 tarried so long? Much have we suffered waiting for thee! And what
 grief hath marked thy face? and whence these wounds?"
-
 But to this the spirit answered nothing, but said, groaning the while,
 "Fly, son of Venus, fly, and save thee from these flames. The enemy is
 in the walls, and Troy hath utterly perished. If any hand could have
 saved our city, this hand had done so. Thou art now the hope of Troy.
 Take then her Gods, and flee with them for company, seeking the city
 that thou shalt one day build across the sea."
-
 And now the alarm of battle came nearer and nearer, and Æneas, waking
 from sleep, climbed upon the roof, and looked on the city. As a
 shepherd stands, and sees a fierce flame sweeping before the south
@@ -447,7 +219,6 @@ counts his life to be lost may yet save it." Then, even as ravening
 wolves hasten through the mist seeking for prey, so they went through
 the city, doing dreadful deeds. And for a while the men of Greece fled
 before them.
-
 First of all there met them Androgeos with a great company following
 him, who, thinking them to be friends, said, "Haste, comrades, why are
 ye so late? We are spoiling this city of Troy, and ye are but newly
@@ -479,7 +250,6 @@ the Bœotian, and Rhipeus also, the most righteous of all the sons of
 Troy. But the Gods dealt not with him after his righteousness. Hypanis
 also was slain and Dymas, and Panthus escaped not for all that more
 than other men he feared the Gods and was also the priest of Apollo.
-
 Then was Æneas severed from the rest, having with him two only,
 Iphitus and Pelias, Iphitus being an old man and Pelias sorely wounded
 by Ulysses. And these, hearing a great shouting, hastened to the
@@ -499,7 +269,6 @@ bars of iron, and thrust it over, so that it fell upon the enemy,
 slaying many of them. But not the less did others press forward,
 casting the while stones and javelins and all that came to their
 hands.
-
 Meanwhile others sought to break down the gates of the palace,
 Pyrrhus, son of Achilles, being foremost among them, clad in shining
 armour of bronze. Like to a serpent was he, which sleeps indeed during
@@ -519,7 +288,6 @@ Pyrrhus pressed on, fierce and strong as ever was his father Achilles,
 nor could aught stand against him, either the doors or they that
 guarded them. Then, as a river bursts its banks and overflows the
 plain, so did the sons of Greece rush into the palace.
-
 But old Priam, when he saw the enemy in his hall, girded on him his
 armour, which now by reason of old age he had long laid aside, and
 took a spear in his hand, and would have gone against the adversary,
@@ -533,7 +301,6 @@ bewitched thee, that thou girdest thyself with armour? It is not the
 sword that shall help us this day; no, not though my own Hector were
 here, but rather the Gods and their altars. Come hither to us, for
 here thou wilt be safe, or at the least wilt die with us."
-
 So she made the old man sit down in the midst. But lo! there came
 flying through the palace, Polites, his son, wounded to death by the
 spear of Pyrrhus, and Pyrrhus close behind him. And he, even as he
@@ -545,7 +312,6 @@ to slay the son before his father's eyes. Great Achilles, whom thou
 falsely callest thy sire, did not thus to Priam, though he was an
 enemy, but reverenced right and truth, and gave the body of Hector for
 burial, and sent me back to my city."
-
 And as he spake the old man cast a spear, but aimless and without
 force, and that pierced not even the boss of the shield. Then said the
 son of Achilles, "Go thou and tell my father of his unworthy son and
@@ -558,15 +324,6 @@ peoples and countries in the land of Asia, was slain that night,
 having first seen Troy burning about him, and his citadel laid even
 with the ground. So was his carcass cast out upon the earth, headless,
 and without a name.
-
-
-
-
-CHAPTER III.
-
-ÆNEAS AND ANCHISES.
-
-
 All these things, indeed, Æneas beheld, but could not bear help, being
 one against many. But when the deed was done, and the old man lay
 dead, he bethought him of his father Anchises, and his wife Creüsa,
@@ -599,9 +356,6 @@ Gorgon shield; and how Father Jupiter himself stirs up the enemy
 against Troy. Fly, therefore, my son. I will not leave thee till thou
 shalt reach thy father's house." And as she spake she vanished in the
 darkness.
-
-  [Illustration: ÆNEAS AND HELEN.]
-
 Then did Æneas see dreadful forms and Gods who were the enemies of
 Troy, and before his eyes the whole city seemed to sink down into the
 fire. Even as a mountain oak upon the hills on which the woodmen ply
@@ -610,7 +364,6 @@ last, as blow comes after blow, with a mighty groan it falls crashing
 down from the height, even so the city seemed to fall. Then did Æneas
 pass on his way, the goddess leading him, and the flames gave place to
 him, and the javelins harmed him not.
-
 But when he was come to his house he bethought him first of the old
 man his father; but when he would have carried him to the hills,
 Anchises would not, being loath to live in some strange country when
@@ -622,7 +375,6 @@ lived. Bid me, then, farewell as though I were dead. Death will I find
 for myself. And truly I have long lingered here a useless stock and
 hated of the Gods since Jupiter smote me with the blast of his
 thunder."
-
 Nor could the old man be moved from his purpose, though his son and
 his son's wife, and even the child Ascanius, besought him with many
 tears that he should not make yet heavier the doom that was upon them.
@@ -638,13 +390,11 @@ Venus, that thou broughtest me safe through fire and sword, to see
 the enemy in my home, and my father and my wife and my son lying
 slaughtered together? Comrades, give me my arms, and take me back to
 the battle. At the least I will die avenged."
-
 But as he girded on his arms and would have departed from the house,
 his wife Creüsa caught his feet upon the threshold, staying him, and
 held out the little Ascanius, saying, "If thou goest to thy death,
 take wife and child with thee; but if thou hopest aught from arms,
 guard first the house where thou hast father and wife and child."
-
 And lo! as she spake there befell a mighty marvel, for before the face
 of father and mother there was seen to shine a light on the head of
 the boy Ascanius, and to play upon his waving hair and glitter on his
@@ -659,7 +409,6 @@ Then the old man lifted himself up and did obeisance to the star, and
 said, "I delay no more: whithersoever ye lead I will follow. Gods of
 my country, save my house and my grandson. This omen is of you. And
 now, my son, I refuse not to go."
-
 Then said Æneas, and as he spake the fire came nearer, and the light
 was clearer to see, and the heat more fierce, "Climb, dear father, on
 my shoulders; I will bear thee, nor grow weary with the weight. We
@@ -671,9 +420,6 @@ ancient cypress-tree hard by. There will we gather by divers ways. And
 do thou, my father, take the holy images in thy hands, for as for me,
 who have but newly come from battle, I may not touch them till I have
 washed me in the running stream."
-
-  [Illustration: ÆNEAS AND THE SHADE OF CREÜSA.]
-
 And as he spake he put a cloak of lion's skin upon his shoulders, and
 the old man sat thereon. Ascanius also laid hold of his hand, and
 Creüsa followed behind. So he went in much dread and trembling. For
@@ -715,7 +461,6 @@ fate befits not a daughter of Dardanus and daughter-in-law of Venus.
 The mighty Mother of the Gods keepeth me in this land to serve her.
 And now, farewell, and love the young Ascanius, even thy son and
 mine."
-
 So spake the spirit, and, when Æneas wept and would have spoken,
 vanished out of his sight. Thrice he would have cast his arms about
 her neck, and thrice the image mocked him, being thin as air and
@@ -726,22 +471,12 @@ to follow him whithersoever he went. And now the morning star rose
 over Mount Ida, and Æneas, seeing that the Greeks held the city, and
 that there was no longer any hope of succour, went his way to the
 mountains, taking with him his father.
-
-
-
-
-CHAPTER IV.
-
-POLYDORUS--DELOS--CRETE--THE HARPIES.
-
-
 Now for what remained of that year (for it was the time of summer when
 Troy was taken), Æneas, and they that were gathered to him, builded
 themselves ships for the voyage, dwelling the while under Mount Ida;
 and when the summer was well-nigh come again the work was finished,
 and the old man Anchises commanded that they should tarry no longer.
 Whereupon they sailed, taking also their Gods with them.
-
 There was a certain land of Thrace, which the god Mars loved beyond
 all other lands, whereof in time past the fierce Lycurgus, who would
 have slain Bacchus, was king. Here, therefore, for the men of the land
@@ -766,7 +501,6 @@ to thee, nor strange is this blood which thou seest. Fly, for the land
 is cruel, and the shore greedy of gain. I am Polydorus. Here was I
 pierced through with spears, which have grown into these wands that
 thou seest."
-
 But Æneas when he heard the voice was sore dismayed, and he remembered
 him how King Priam, thinking that it might fare ill with him and the
 great city of Troy, had sent his son, Polydorus, by stealth, and much
@@ -781,7 +515,6 @@ garlands of sad-coloured wool and cypress, and the women of Troy stood
 about it with their hair loosened, as is the use of them that mourn.
 They offered also bowls of warm milk and blood, and laid the spirit in
 the tomb, bidding him farewell three times with a loud voice.
-
 After this, when the time for voyaging was come, and the south wind
 blew softly, they launched the ships and set sail. And first they came
 to the island of Delos, which, having been used to wander over the
@@ -795,7 +528,6 @@ may dwell, and a name upon the earth, and a city that shall abide,
 even a second Troy for them that have escaped from the hands of
 Achilles and the Greeks. And do thou answer us, and incline our hearts
 that we may know."
-
 But when Æneas had ended these words, straightway the place was
 shaken, even the gates of the temple and the bay-trees that were hard
 by. And when they were all fallen to the ground there came a voice,
@@ -812,7 +544,6 @@ beginning of our nation. Thence came Teucer, our first father, to the
 land of Troy. Let us go, then, whither the Gods would send us, first
 doing sacrifice to the Winds; and, indeed, if but Jupiter help us,
 'tis but a three days' journey for our ships."
-
 So they offered sacrifice, a bull to Neptune and a bull to the
 beautiful Apollo, and a black sheep to the Storm and a white sheep to
 the West Wind. There came also a rumour that Idomeneus the Cretan had
@@ -829,7 +560,6 @@ were parched with drought, and the staff of bread was broken. Then the
 old Anchises bade them go yet again to the oracle at Delos, and
 inquire of the god what end there should be of these troubles, whence
 they should seek for help, and whither they should go.
-
 But as Æneas slept there appeared to him the household Gods, which he
 had carried out of the burning of Troy, very clear to see in the light
 of the moon, which shone through the window of his chamber. And they
@@ -845,7 +575,6 @@ proper home, and thence came Dardanus our father. Do thou, therefore,
 tell these things to the old man Anchises. Seek ye for the land of
 Hesperia, which men also call Italy; but as for Crete, Jupiter willeth
 not that ye should dwell there."
-
 And for a while Æneas lay in great fear, with a cold sweat upon him,
 so clear was the vision of those whom he saw, nor in anywise like unto
 a dream. Then he rose up from his bed, and after prayer and sacrifice
@@ -856,9 +585,6 @@ Hesperia and of the land of Italy. But, indeed, no man thought in
 those days that the men of Troy should voyage to Hesperia, nor did any
 take account of the words of Cassandra. But now let us heed the oracle
 of Apollo, and depart."
-
-  [Illustration: THE HARPIES.]
-
 So the men of Troy made their ships ready and departed. And after a
 while, when they could no more see the land, there fell a great storm
 upon them, with a strong wind and great rolling waves, and much
@@ -892,19 +618,9 @@ which indeed the almighty Father told to Phœbus, and Phœbus told to
 me. Ye journey to Italy, and to Italy shall ye come. Only ye shall
 not build a city, and wall it about with walls, till dreadful hunger
 shall cause you to eat the very tables whereon ye sup."
-
 So saying, she departed. But when great fear was fallen upon all,
 Anchises lifted up his hands to heaven and prayed to the Gods that
 they would keep that evil from them.
-
-
-
-
-CHAPTER V.
-
-KING HELENUS--THE CYCLOPS.
-
-
 Then they set sail, and, the south wind blowing, passed by Zacynthus
 and Dulichium, and also Ithaca, which they cursed as they passed,
 because it was the land of the hateful Ulysses, and so came to Actium,
@@ -914,8 +630,6 @@ through so many cities of their enemies. And there they wintered, and
 Æneas fixed on the doors of the temple of Apollo a shield of bronze
 which he had won in battle from the valiant Abas, writing thereon
 these words, "ÆNEAS DEDICATES THESE ARMS WON FROM THE VICTORIOUS
-GREEKS."
-
 But when the spring was come they set sail, and, leaving behind them
 the land of Phæacia, came to Buthrotum that is in Epirus. There indeed
 they heard a marvellous thing, even that Helenus, the son of Priam,
@@ -932,7 +646,6 @@ tell me, where is my Hector?" So she cried and wept aloud. And Æneas
 answered her: "Yes, lady, this is flesh and blood, and not a spirit,
 that thou seest. But as for thee, what fortune has befallen thee? Art
 thou still wedded to Pyrrhus?"
-
 And she, casting down her eyes, made answer, "O daughter of Priam,
 happy beyond thy sisters in that thou wast slain at the tomb of
 Achilles, nor wast taken to be a prey of the conqueror! But as for me
@@ -948,14 +661,12 @@ some sending of the Gods? And is Ascanius yet alive--the boy whom I
 remember? Does he yet think of his mother that is dead? And is he
 stout and of a good courage, as befits the son of Æneas and sister's
 son to Hector?"
-
 And while she spake there came Helenus from the city with a great
 company, and bade welcome to his friends with much joy. And Æneas saw
 how that all things were ordered and named even as they had been at
 Troy, only the things at Troy had been great, and these were very
 small. And afterwards King Helenus made a feast to them in his house,
 and they drank together and were merry.
-
 But after certain days were passed, Æneas, seeing that the wind
 favoured them, spake to Helenus, knowing him also to be a prophet of
 the Gods: "Tell me now, seeing that thou art wise in all manner of
@@ -964,7 +675,6 @@ things have seemed to favour us, and we go not on this journey against
 the will of the Gods, yet did the Harpy Celæno prophesy evil things,
 that we should endure great extremity of hunger. Say, then, of what
 things I should most beware, and how I shall best prosper."
-
 Then Helenus, after due sacrifice, led Æneas to the temple of Phœbus.
 And when they were come thither, and the god had breathed into the
 seer, even into Helenus, the spirit of prophecy, he spake, saying,
@@ -1007,7 +717,6 @@ thy delay. For she shall tell thee all that shall befall thee in
 Italy--what wars thou shalt wage, and what perils thou must endure,
 and what avoid. So much, and no more, is it lawful for me to utter. Do
 thou depart, and magnify our country of Troy even to the heaven."
-
 And when the seer had ended these sayings he commanded his people
 that they should carry to the ships gifts: gold, and carvings of
 ivory, and much silver, and caldrons that had been wrought at Dodona;
@@ -1027,7 +736,6 @@ Italy, still flying as we advance, to seek. Rather ye have the
 likeness of Troy before your eyes. And be sure that if ever I come to
 this land of Italy which I seek, there shall be friendship between you
 and me, and between your children and my children, for ever."
-
 Then they set sail, and at eventide drew their ships to the land and
 slept on the beach. But at midnight Palinurus, the pilot, rising from
 his bed, took note of the winds and of the stars, even of Arcturus,
@@ -1061,7 +769,6 @@ to the left, all the other ships following him. And many times the
 waves lifted them to the heaven, and many times caused them to go
 down to the deep. But at the last, at setting of the sun, they came to
 the land of the Cyclops.
-
 There, indeed, they lay in a harbour, well sheltered from all winds
 that blow, but all the night Ætna thundered dreadfully, sending forth
 a cloud with smoke of pitch, and ashes fiery hot, and also balls of
@@ -1072,7 +779,6 @@ flame; also that when, being weary, he turneth from one side to the
 other, the whole land of the Three Capes is shaken. All that night
 they lay in much fear, nor knew what the cause of this uproar might
 be, for indeed the sky was cloudy, nor could the moon be seen.
-
 And when it was morning, lo! there came forth from the woods a
 stranger, very miserable to behold, in filthy garments fastened with
 thorns, and with beard unshaven, who stretched out to them his hands
@@ -1085,7 +791,6 @@ take me away from this land, whithersoever ye will. And indeed I ask
 not whither. That I am a Greek, I confess, and also that I bare arms
 against Troy. Wherefore drown me, if ye will, in the sea. For gladly
 will I die, if die I must, by the hands of men."
-
 And he clung to their knees. Then Æneas bade him tell who he was, and
 how he came to be in this plight. And the man made answer, "I am a man
 of Ithaca, and a comrade of the unhappy Ulysses. My name is
@@ -1107,7 +812,6 @@ now for three months have I dwelt in these woods, eating berries and
 cornels and herbs of the field. And when I saw your ships I hastened
 to meet them. Do ye with me, therefore, as ye will, so that I flee
 from this accursed race."
-
 And even while he spake the men of Troy saw the shepherd Polyphemus
 among his flocks, and that he made as if he would come to the shore.
 Horrible to behold was he, huge and shapeless and blind. And when he
@@ -1128,15 +832,6 @@ sea from the land of Pelops, and so mingleth with Arethusa; and
 afterwards they passed the promontory of Pachynus, Camarina also, and
 Gela, and other cities likewise, till they came to Lilybæum, and so at
 last to Drepanum. There the old man Anchises died, and was buried.
-
-
-
-
-CHAPTER VI.
-
-THE SHIPWRECK.
-
-
 Not many days after Æneas and his companions set sail. But scarce were
 they out of sight of the land of Sicily when Juno espied them. Very
 wroth was she that they should be now drawing near to the end of their
@@ -1149,7 +844,6 @@ whirlwind, and dashed him upon the rocks, piercing him through. Only
 I, though I be both sister and wife to Jupiter, avail nothing against
 this people. And who that heareth this in after time shall pay me due
 honour and sacrifice?"
-
 Then she went, thinking these things in her heart, to the land of
 Æolia, where King Æolus keepeth the winds under bolt and bar. Mightily
 do they roar within the mountain, but their king restraineth them and
@@ -1161,11 +855,9 @@ now thy storms against them, and drown their ships in the sea. And
 hearken what I will do for thee. Twelve maidens I have that wait on me
 continually, who are passing fair, and the fairest of all, even
 Deiopëia, I will give thee to wife."
-
 To whom answered King Æolus, "It is for thee, O Queen, to order what
 thou wilt, it being of thy gift that I hold this sovereignty and eat
 at the table of the Gods."
-
 So saying he drave in with his spear the folding-doors of the prison
 of the winds, and these straightway in a great host rushed forth, even
 all the winds together, and rolled great waves upon the shore. And
@@ -1173,14 +865,12 @@ straightway there arose a great shouting of men and straining of
 cables; nor could the sky nor the light of the day be seen any more,
 but a darkness as of night came down upon the sea, and there were
 thunders and lightnings over the whole heavens.
-
 Then did Æneas grow cold with fear, and stretching out his hands to
 heaven he cried, "Happy they who fell under the walls of Troy, before
 their fathers' eyes! Would to the Gods that thou hadst slain me,
 Diomed, bravest of the Greeks, even as Hector fell by the spear of
 Achilles, or tall Sarpedon, or all the brave warriors whose dead
 bodies Simoïs rolled down to the sea!"
-
 But as he spake a blast of wind struck his sails from before, and his
 ship was turned broadside to the waves. Three others also were tossed
 upon the rocks which men call the "Altars," and three into the
@@ -1190,9 +880,6 @@ sea and sunk. And when Æneas looked, lo! there were some swimming in
 the waves, and broken planks also, and arms and treasures of Troy.
 Others also were shattered by the waves, as those of Ilioneus and
 Achates, and of Abas and the old man Alethes.
-
-  [Illustration: JUNO AND ÆOLUS.]
-
 But King Neptune was aware of the tumult where he sat at the bottom of
 the sea, and raising his head above the waves, looked forth and saw
 how the ships were scattered abroad and the men of Troy were in sore
@@ -1202,7 +889,6 @@ heaven and earth without leave of me? Now will I--but I must first bid
 the waves be still, only be sure that ye shall not thus escape
 hereafter. Begone, and tell your king that the dominion over the sea
 belongeth unto me, and bid him keep him to his rocks."
-
 Then he bade the waves be still; also he scattered the clouds and
 brought back the sun. And Cymothea and Triton, gods of the sea, drew
 the ships from the rocks, Neptune also lifting them with his trident.
@@ -1213,7 +899,6 @@ sedition in the city, and the people are wroth, and men throw stones
 and firebrands, till lo! of a sudden there cometh forth a reverend
 sire, a good man and true, and all men are silent and hearken to him;
 and the uproar is stayed. So was the sea stilled, beholding its king.
-
 Then Æneas and his companions, being sore wearied with the storm, made
 for the nearest shore, even Africa, where they found a haven running
 far into the land, into which the waves come not till their force be
@@ -1239,22 +924,10 @@ Haply ye shall one day have pleasure in thinking of these things. For
 be sure that the Gods have prepared a dwelling-place for us in Italy,
 where we shall build a new Troy, in great peace and happiness.
 Wherefore endure unto the day of prosperity."
-
-  [Illustration: NEPTUNE STILLING THE WAVES.]
-
 Then they made ready the feast, and roasted of the meat upon spits,
 and boiled other in water. Also they drank of the wine and were
 comforted. And after supper they talked much of them that were absent,
 doubting whether they were alive or dead.
-
-
-
-
-CHAPTER VII.
-
-CARTHAGE.
-
-
 All these things did Jupiter behold; and even as he beheld them there
 came to him Venus, having a sad countenance and her shining eyes dim
 with tears, and spake: "O great Father, that rulest all things, what
@@ -1268,7 +941,6 @@ man of Troy, that he should escape from the Greeks, and coming to the
 Liburnian land, where Timavus flows with much noise into the sea,
 build a city and find rest for himself. But we, who are thy children,
 are kept far from the land which thou hast sworn to give us."
-
 Then her father kissed her once and again, and answered smiling,
 "Fear not, my daughter, the fate of thy children changeth not. Thou
 shalt see this city for which thou lookest, and shalt receive thy son,
@@ -1285,12 +957,10 @@ and call it Rome, after his own name. To which city have I given
 empire without bound or end. And Juno also shall repent her of her
 wrath, and join counsel with me, cherishing the men of Rome, so that
 they shall bear rule even over Argos and Mycenæ."
-
 And when he had said this, he sent down his messenger, even Mercury,
 to turn the heart of Dido and her people, where they dwelt in the city
 of Carthage, which they had builded, so that they should deal kindly
 with the strangers.
-
 Now it came to pass on the next day that Æneas, having first hidden
 his ships in a bay that was well covered with trees, went forth to spy
 out the new land whither he was come, and Achates only went with him.
@@ -1303,7 +973,6 @@ false huntress spake, "If perchance ye have seen one of my sisters
 wandering hereabouts, make known to me the place. She is girded with a
 quiver, and is clothed with the skin of a spotted lynx, or, may be,
 she hunts a wild boar with horn and hound."
-
 To whom Æneas, "I have not seen nor heard sister of thine, O
 virgin--for what shall I call thee? for, of a surety, neither is thy
 look as of a mortal woman, nor yet thy voice. A goddess certainly
@@ -1311,7 +980,6 @@ thou art, sister of Phœbus, or, haply, one of the nymphs. But
 whosoever thou art, look favourably upon us and help us. Tell us in
 what land we be, for the winds have driven us hither, and we know not
 aught of place or people."
-
 And Venus said, "Nay, stranger, I am not such as ye think. We virgins
 of Tyre are wont to carry a quiver and to wear a buskin of purple. For
 indeed it is a Tyrian city that is hard by, though the land be Lybia.
@@ -1339,7 +1007,6 @@ leader. Then came they to this place, where thou seest the walls and
 citadel of Carthage, and bought so much land as they could cover with
 a bull's hide. And now do ye answer me this, Whence come ye, and
 whither do ye go?"
-
 Then answered Æneas, "Should I tell the whole story of our wanderings,
 and thou have leisure to hear, evening would come ere I could make an
 end. We are men of Troy, who, having journeyed over many seas, have
@@ -1349,7 +1016,6 @@ from Jupiter himself. With twenty ships did I set sail, going in the
 way whereon the Gods sent me. And of these scarce seven are left. And
 now, seeing that Europe and Asia endure me not, I wander over the
 desert places of Africa."
-
 But Venus suffered him not to speak more, but said, "Whoever thou art,
 stranger, that art come to this Tyrian city, thou art surely beloved
 by the Gods. And now go, show thyself to the queen. And as for thy
@@ -1360,16 +1026,13 @@ putting them to confusion, but now again they move in due order, and
 some are settling on the earth and some preparing to settle. Even so
 doth it fare with thy ships, for either are they already in the haven
 or enter thereinto with sails full set."
-
 And as she spake she turned away, and there shone a rosy light from
 her neck, also there came from her hair a sweet savour as of ambrosia,
 and her garments grew unto her feet; and Æneas perceived that she was
 his mother, and cried aloud,--
-
 "O my mother, why dost thou mock me so often with false shows, nor
 sufferest me to join my hand unto thy hand, and to speak with thee
 face to face?"
-
 And he went towards the walls of the city. But Venus covered him and
 his companions with a mist, that no man might see them, or hinder
 them, or inquire of their business, and then departed to Paphos, where
@@ -1389,7 +1052,6 @@ laboured the men of Tyre. And when Æneas beheld them he cried, "Happy
 ye, who even now have a city to dwell in!" And being yet hidden with
 the mist, he went in at the gate and mingled with the men, being seen
 of none.
-
 Now in the midst of the city was a wood, very thick with trees, and
 here the men of Carthage, first coming to the land from their voyage,
 had digged out of the ground that which Juno had said should be a sign
@@ -1406,7 +1068,6 @@ is not filled with our sorrows? Seest thou Priam? Yet withal there is
 a reward for virtue here also, and tears and pity for the troubles of
 men. Fear not, therefore. Surely the fame of these things shall profit
 us."
-
 Then he looked, satisfying his soul with the paintings on the walls.
 For there was the city of Troy. In this part of the field the Greeks
 fled and the youth of Troy pursued them, and in that the men of Troy
@@ -1429,15 +1090,6 @@ Grecian chiefs; black Memnon also he knew, and the hosts of the East;
 and Penthesilea leading the army of the Amazons with shields shaped as
 the moon. Fierce she was to see, with one breast bared for battle, and
 a golden girdle beneath it, a damsel daring to fight with men.
-
-
-
-
-CHAPTER VIII.
-
-DIDO.
-
-
 But while Æneas marvelled to see these things lo! there came, with a
 great throng of youths behind her, Dido, most beautiful of women, fair
 as Diana, when, on the banks of Eurotas or on the hills of Cynthus,
@@ -1449,7 +1101,6 @@ being busy in the work of her kingdom. Then she sat herself down on a
 lofty throne in the gate of the temple, with many armed men about her.
 And she did justice between man and man; also she divided the work of
 the city, sharing it equally or parting it by lot.
-
 Then of a sudden Æneas heard a great clamour, and saw a company of
 men come quickly to the place, among whom were Antheus and Sergestus
 and Cloanthus, and others of the men of Troy that had been parted from
@@ -1457,7 +1108,6 @@ him in the storm. Right glad was he to behold them, yet was not
 without fear; and though he would fain have come forth and caught them
 by the hand, yet did he tarry, waiting to hear how the men had fared,
 where they had left their ships, and wherefore they were come.
-
 Then Ilioneus, leave being now given that he should speak, thus began:
 "O Queen, whom Jupiter permits to build a new city in these lands, we
 men of Troy, whom the winds have carried over many seas, pray thee
@@ -1483,7 +1133,6 @@ that, finding again our king and our companions, we may gain the land
 of Italy. But if he be dead, and Ascanius his son lost also, then
 there is a dwelling ready for us in the land of Sicily, with Acestes,
 who is our friend."
-
 Then Dido, her eyes bent on the ground, thus spake, "Fear not, men of
 Troy. If we have seemed to deal harshly with you, pardon us, seeing
 that, being newly settled in this land, we must keep watch and ward
@@ -1497,13 +1146,11 @@ this city which I am building. I will make no difference between man
 of Troy and man of Tyre. Would that your king also were here! Surely I
 will send those that shall seek him in all parts of Libya, lest haply
 he should be gone astray in any forest or strange city of the land."
-
 And when Æneas and Achates heard these things they were glad, and
 would have come forth from the cloud, and Achates said, "What thinkest
 thou? Lo, thy comrades are safe, saving him whom we saw with our own
 eyes drowned in the waves; and all other things are according as thy
 mother said."
-
 And even as he spake the cloud parted from about them, and Æneas stood
 forth, very bright to behold, with face and breast as of a god, for
 his mother had given to him hair beautiful to see, and cast about him
@@ -1519,7 +1166,6 @@ to the seas, and the shadows fall on the hollows of the hills, so long
 will thy name and thy glory survive, whatever be the land to which the
 Gods shall bring me." Then gave he his right hand to Ilioneus, and his
 left hand to Sergestus, and greeted them with great joy.
-
 And Dido, hearing these things, was silent for a while, but at the
 last she spake: "What ill fortune brings thee into perils so great?
 what power drave thee to these savage shores? Well do I mind me how
@@ -1533,14 +1179,12 @@ saying that he was himself sprung of the old Teucrian stock. Come ye,
 therefore, to my palace. I too have wandered far, even as you, and so
 have come to this land, and having suffered much have learnt to
 succour them that suffer."
-
 So saying she led Æneas into her palace; also she sent to his
 companions in the ships great store of provisions, even twenty oxen
 and a hundred bristly swine and a hundred ewe sheep with their lambs.
 But in the palace a great feast was set forth, couches covered with
 broidered purple, and silver vessels without end, and cups of gold,
 whereon were embossed the mighty deeds of the men of old time.
-
 And in the mean time Æneas sent Achates in haste to the ships, that
 he might fetch Ascanius to the feast. Also he bade that the boy should
 bring with him gifts of such things as they had saved from the ruins
@@ -1550,7 +1194,6 @@ her home; but Leda, her mother, had given them to Helen; a sceptre
 likewise which Ilione, first-born of the daughters of Priam, had
 carried, and a necklace of pearls and a double crown of jewels and
 gold.
-
 But Venus was troubled in heart, fearing evil to her son should the
 men of Tyre be treacherous, after their wont, and Juno remember her
 wrath. Wherefore, taking counsel with herself, she called to the
@@ -1567,7 +1210,6 @@ and hide in Cythera or Idalium, and do thou for one night take upon
 thee his likeness. And when Queen Dido at the feast shall hold thee in
 her lap, and kiss and embrace thee, do thou breathe by stealth thy
 fire into her heart."
-
 Then did Love as his mother bade him, and put off his wings, and took
 upon him the shape of Ascanius, but on the boy Venus caused there to
 fall a deep sleep, and carried him to the woods of Idalium, and lapped
@@ -1587,9 +1229,6 @@ neck, addressed himself to Queen Dido, and she ever followed him with
 her eyes, and sometimes would hold him on her lap. And still he worked
 upon her that she should forget the dead Sichæus and conceive a new
 love in her heart.
-
-  [Illustration: DIDO AND THE FALSE ASCANIUS.]
-
 But when they first paused from the feast, lo! men set great bowls
 upon the table and filled them to the brim with wine. Then did the
 queen call for a great vessel of gold, with many jewels upon it, from
@@ -1615,15 +1254,6 @@ made answer, "Nay, O Queen, but thou biddest me renew a sorrow
 unspeakable. Yet, if thou art minded to hear these things, hearken."
 And he told her all that had befallen him, even to the day when his
 father Anchises died.
-
-
-
-
-CHAPTER IX.
-
-THE LOVE AND DEATH OF DIDO.
-
-
 Much was Queen Dido moved by the story, and much did she marvel at him
 that told it, and scarce could sleep for thinking of him. And the next
 day she spake to Anna, her sister, "O my sister, I have been troubled
@@ -1638,7 +1268,6 @@ brother's hand, hath moved my heart. But may the earth swallow me up,
 or the almighty Father strike me with lightning, ere I stoop to such
 baseness. The husband of my youth hath carried with him my love, and
 he shall keep it in his grave."
-
 So she spake, with many tears. And her sister made answer, "Why wilt
 thou waste thy youth in sorrow, without child or husband? Thinkest
 thou that there is care or remembrance of such things in the grave? No
@@ -1653,7 +1282,6 @@ be the glory of Carthage if the strength of Troy be joined unto her!
 Only do thou pray to the Gods and offer sacrifices; and, for the
 present, seeing that the time of sailing is now past, make excuse that
 these strangers tarry with thee awhile."
-
 Thus did Anna comfort her sister and encourage her. And first the two
 offered sacrifice to the Gods, chiefly to Juno, who careth for the
 bond of marriage. Also, examining the entrails of slain beasts, they
@@ -1667,21 +1295,18 @@ him. Ascanius, too, she would embrace for love of his father, if so
 she might cheat her own heart. But the work of the city was stayed
 meanwhile; nor did the towers rise in their places, nor the youth
 practise themselves in arms.
-
 Then Juno, seeing how it fared with the queen, spake to Venus, "Are ye
 satisfied with your victory, thou and thy son, that ye have vanquished
 the two of you one woman? Well I knew that thou fearedst lest this
 Carthage should harm thy favourite. But why should there be war
 between us? Thou hast what thou seekedst. Let us make alliance. Let
 Dido obey a Phrygian husband, and bring the men of Tyre as her dowry."
-
 But Venus knew that she spake with ill intent, to the end that the men
 of Troy should not reign in the land of Italy. Nevertheless she
 dissembled with her tongue, and spake, "Who would not rather have
 peace with thee than war? Only I doubt whether this thing shall be to
 the pleasure of Jupiter. This thou must learn, seeing that thou art
 his wife, and where thou leadest I will follow."
-
 So the two, taking counsel together, ordered things in this wise. The
 next day a great hunting was prepared. For as soon as ever the sun was
 risen upon the earth, the youth of the city assembled, with nets and
@@ -1699,13 +1324,11 @@ found great store of goats and stags, which they chased. And of all
 the company Ascanius was the foremost, thinking scorn of such hunting,
 and wishing that a wild boar or a lion out of the hills should come
 forth to be his prey.
-
 And now befell a great storm, with much thunder and hail, from which
 the hunters sought shelter. But Æneas and the queen, being left of all
 their company, came together to the same cave. And there they plighted
 their troth one to another. Nor did the queen after that make secret
 of her love, but called Æneas her husband.
-
 Straightway went Rumour and told these things through the cities of
 Libya. Now Rumour, men say, is the youngest daughter of Earth, a
 marvellous creature, moving very swiftly with feet and wings, and
@@ -1717,7 +1340,6 @@ that which is false even as she loveth that which is true. So now she
 went telling through Libya how Æneas of Troy was come, and Dido was
 wedded to him, and how they lived careless and at ease, and thinking
 not of the work to which they were called.
-
 And first of all she went to Prince Iarbas, who himself had sought
 Dido in marriage. And Iarbas was very wroth when he heard it, and,
 coming to the temple of Jupiter, spread his grief before the god, how
@@ -1725,7 +1347,6 @@ that he had given a place on his coasts to this Dido, and would have
 taken her to wife, but that she had married a stranger from Phrygia,
 another Paris, whose dress and adornments were of a woman rather than
 of a man.
-
 And Jupiter saw that this was so, and he said to Mercury, who was his
 messenger, "Go speak to Æneas these words: 'Thus saith the King of
 Gods and men. Is this what thy mother promised of thee, twice saving
@@ -1734,7 +1355,6 @@ and its mighty men of war, and spread thy dominion to the ends of the
 world? If thou thyself forgettest these things, dost thou grudge to
 thy son the citadels of Rome? What doest thou here? Why lookest thou
 not to Italy? Depart and tarry not.'"
-
 Then Mercury fitted the winged sandals to his feet, and took the wand
 with which he driveth the spirits of the dead, and came right soon to
 Mount Atlas, which standeth bearing the heaven on his head, and having
@@ -1747,7 +1367,6 @@ Carthage, forgetting thine own work? The almighty Father saith to
 thee, 'What meanest thou? Why tarriest thou here? If thou carest not
 for thyself, yet think of thy son, and that the Fates have given to
 him Italy and Rome.'"
-
 And Æneas saw him no more. And he stood stricken with fear and doubt.
 Fain would he obey the voice, and go as the Gods commanded. But how
 should he tell this purpose to the queen? But at the last it seemed
@@ -1756,7 +1375,6 @@ Sergestus, and Antheus, and bid them make ready the ships in silence,
 and gather together the people, but dissemble the cause, and he
 himself would watch a fitting time to speak and unfold the matter to
 the queen.
-
 Yet was not Dido deceived, for love is keen of sight. Rumour also told
 her that they made ready the ships for sailing. Then, flying through
 the city, even as one on whom has come the frenzy of Bacchus flies by
@@ -1770,7 +1388,6 @@ of Libya and of my own people; and if thou leavest me, for what should
 I live?--till my brother overthrow my city, or Iarbas carry me away
 captive? If but I had a little Æneas to play in my halls I should not
 seem so altogether desolate."
-
 But Æneas, fearing the words of Jupiter, stood with eyes that relented
 not. At the last he spake: "I deny not, O Queen, the benefits that
 thou hast done unto me, nor ever, while I live, shall I forget Dido. I
@@ -1781,7 +1398,6 @@ I should seek Italy. Thou hast thy Carthage: why dost thou grudge
 Italy to us? Nor may I tarry. Night after night have I seen my father
 Anchises warning me in dreams. Also even now the messenger of Jupiter
 came to me--with these ears I heard him--and bade me depart."
-
 Then, in great wrath, with eyes askance, did Dido break forth upon
 him: "Surely no goddess was thy mother, nor art thou come of the race
 of Dardanus. The rocks of Caucasus brought thee forth, and an
@@ -1796,11 +1412,9 @@ heaven, thou wilt pay the penalty for this wrong, being wrecked on
 some rock in their midst. Then wilt thou call on Dido in vain. Aye,
 and wherever thou shalt go I will haunt thee, and rejoice in the
 dwellings below to hear thy doom."
-
 Then she turned, and hasted to go into the house. But her spirit left
 her, so that her maidens bare her to her chamber and laid her on her
 bed.
-
 Then Æneas, though indeed he was much troubled in heart, and would
 fain have comforted the queen, was obedient to the heavenly word, and
 departed to his ships. And the men of Troy busied themselves in making
@@ -1809,7 +1423,6 @@ and store it in their dwellings against winter, moving in a black line
 across the field, and some carry the great grains, and some chide
 those that linger, even so did the Trojans swarm along the ways and
 labour at the work.
-
 But when Dido saw it she called to Anna, her sister, and said, "Seest
 thou how they hasten the work along the shore? Even now the sails are
 ready for the winds, and the sailors have wreathed the ships with
@@ -1819,7 +1432,6 @@ harmed not him nor his people; let him then grant me this only. Let
 him wait for a fairer time for his journey. I ask not that he give up
 his purpose; only that he grant me a short breathing space, till I may
 learn how to bear this sorrow."
-
 And Anna hearkened to her sister, and took the message to Æneas, yet
 profited nothing, for the Gods shut his ears that he should not hear.
 Even as an oak stands firm when the north wind would root it up from
@@ -1827,7 +1439,6 @@ the earth--its leaves are scattered all around, yet doth it remain
 firm, for its roots go down to the regions below, even as far as its
 branches reach to heaven--so stood Æneas firm, and, though he wept
 many tears, changed not his purpose.
-
 Then did Dido grow weary of her life. For when she did sacrifice the
 pure water would grow black and the wine be changed into blood. Also
 from the shrine of her husband, which was in the midst of her palace,
@@ -1847,7 +1458,6 @@ therefore--for this is what the priestess commands--build a pile in
 the open court, and put thereon the sword which he left hanging in our
 chamber, and the garments he wore, and the couch on which he lay, even
 all that was his, so that they may perish together."
-
 And when these things were done--for Anna knew not of her purpose--and
 also an image of Æneas was laid upon the pile, the priestess, with her
 hair unbound, called upon all the gods that dwell below, sprinkling
@@ -1856,7 +1466,6 @@ scattering evil herbs that had been cut at the full moon with a sickle
 of bronze. Dido also, with one foot bare and her garments loosened,
 threw meal upon the fire and called upon the Gods, if haply there be
 any, that look upon those that love and suffer wrong.
-
 In the mean time Æneas lay asleep in the hind part of his ship, when
 there appeared to him in a dream the god Mercury, even as he had seen
 him when he brought the commandment of Jupiter. And Mercury spake,
@@ -1865,13 +1474,11 @@ surround thee, nor hearest how the favourable west wind calls? The
 queen purposes evil against thee. If thou lingerest till the morning
 come thou wilt see the shore covered with them that wish thee harm.
 Fly, then, and tarry not; for a woman is ever of many minds."
-
 Then did Æneas in great fear start from his sleep, and call his
 companions, saying, "Wake, and sit on the benches, and loose the
 sails. 'Tis a god thus bids us fly." And even as he spake he cut the
 cable with his sword. And all hasted to follow him, and sped over the
 sea.
-
 And now it was morning, and Queen Dido, from her watch-tower, saw the
 ships upon the sea. Then she smote upon her breast and tore her hair,
 and cried, "Shall this stranger mock us thus? Hasten to follow him.
@@ -1891,13 +1498,11 @@ Tyre, hate his children and his people for ever. Let there be no love
 or peace between you. And may some avenger arise from my grave who
 shall persecute the race of Dardanus with fire and sword. So shall
 there be war for ever between him and me."
-
 Then she spake to old Barcé, who had been nurse to her husband
 Sichæus, "Bid my sister bathe herself in water, and bring with her
 beasts for sacrifice. And do thou also put a garland about thy head,
 for I am minded to finish this sacrifice which I have begun, and to
 burn the image of the man of Troy."
-
 And when the old woman made haste to do her bidding, Queen Dido ran to
 the court where the pile was made for the burning, and mounted on the
 pile, and drew the sword of Æneas from the scabbard. Then did she
@@ -1908,7 +1513,6 @@ ships of Troy never come to this land." Then she kissed the bed and
 cried, "Shall I die unavenged? Nevertheless let me die. The man of
 Troy shall see this fire from the sea whereon he journeys, and carry
 with him an augury of death."
-
 And when her maidens looked, lo! she had fallen upon the sword, and
 the blood was upon her hands. And a great cry went up through the
 palace, exceeding loud and bitter, even as if the enemy had taken
@@ -1920,16 +1524,12 @@ wouldst thou not suffer that I should die with thee? For surely, my
 sister, thou hast slain thyself, and me, and thy people, and thy city.
 But give me water, ye maidens, that I may wash her wounds, and if
 there be any breath left in her, we may yet stay it."
-
 Then she climbed on to the pile, and caught her sister in her arms,
 and sought to staunch the blood with her garments. Three times did
 Dido strive to raise her eyes; three times did her spirit leave her.
 Three times she would have raised herself upon her elbow; three times
 she fell back upon the bed, looking with wandering eyes for the light,
 and groaning that she yet beheld it.
-
-  [Illustration: DIDO ON THE FUNERAL PILE.]
-
 Then Juno, looking down from heaven, saw that her pain was long, and
 pitied her, and sent down Iris, her messenger, that she might loose
 the soul that struggled to be free. For, seeing that she died not by
@@ -1940,21 +1540,11 @@ dewy wings from heaven, with a thousand colours about her from the
 light of the sun, stood above her head and said, "I give thee to
 death, even as I am bidden, and loose thee from thy body." Then she
 shred the lock, and Queen Dido gave up the ghost.
-
-
-
-
-CHAPTER X.
-
-THE FUNERAL GAMES OF ANCHISES.
-
-
 Now were Æneas and the men of Troy far from land. And looking back
 they saw a great light, nor knew what it might be; only they feared
 some evil hap, knowing the rage that was in Dido's heart, and what a
 woman in her madness may do. And indeed the people of the queen were
 burning her body on the pile which she had made.
-
 But lo! the sky grew dark overhead, and there were signs as of a great
 storm. And Palinurus, the pilot, cried from the stern, where he stood
 with the rudder in his hand, "What mean these clouds? What doest thou,
@@ -1964,18 +1554,15 @@ saying, "Italy we may not hope to reach with this weather. No, not
 though Jupiter himself promise it to us. But, if I remember me
 aright, the havens of Sicily are at hand, wherefore let us turn our
 course thither."
-
 And Æneas answered, "It is well: for I see that the winds are contrary
 to us. And, of a truth, there is no land whither I would more gladly
 go, seeing that my father Anchises is buried there."
-
 Then they shifted their course, and let their ships run before the
 wind, and so came with much speed to the land of Sicily. Now Acestes,
 who was king of the land, was the son of a woman of Troy, and, seeing
 them from a hilltop, he came to meet them, having the skin of a lion
 on his shoulders and a javelin in his hand, and refreshed them with
 food and drink.
-
 The next day at dawn Æneas called the men of Troy together, and spake,
 saying, "It is a full year since we buried my father in this land, and
 this, if I err not, is the very day: which I will that we keep holy
@@ -1989,14 +1576,12 @@ ship two: wherefore make merry and rejoice. And if the ninth day from
 this be fair, I will that there be games of running in a race, and of
 throwing the javelin, and of shooting with the bow, and of boxing, and
 the like. And now make ready for the sacrifice."
-
 Then he put upon his head a wreath of his mother's myrtle. And old
 Acestes did the like, and the boy Ascanius, and the others. Then he
 came near to the tomb of his father, and poured out two cups of wine
 and two of new milk, and scattered flowers, and said, "Hail to thee,
 my father, whom the Gods suffered not to enter with me into the land
 of Italy."
-
 And even as he spake there came forth a great snake from the depth of
 the tomb. Seven coils he had, and on his body were spots of blue and
 gold, and as many colours as are the colours of the rainbow in the
@@ -2007,7 +1592,6 @@ offerings, two sheep, and two swine, and two black oxen, calling on
 the spirit of Anchises. And the men of Troy also brought gifts, and
 slew oxen for sacrifice, and feasted on the flesh, roasting it with
 fire.
-
 And now the ninth day was come, and the sky was fair. Great was the
 concourse of people, for the name of King Acestes was famous in the
 land. Also many came to see the men of Troy, and some to strive in the
@@ -2015,7 +1599,6 @@ games. First were the prizes put in the midst, three-footed tables for
 sacrifices, and crowns, and palms, and weapons, and purple garments,
 and talents of gold and silver; and then the trumpet sounded and
 called the people together.
-
 And first of all was the race of ships. Four were they that strove
 together, Mnestheus with the Sea-Horse, and Gyas with the Chimæra, and
 Sergestus with the Centaur, and Cloanthus with the Scylla. Now far out
@@ -2095,7 +1678,6 @@ himself up and threatens, but his hind part trails upon the ground. So
 came Sergestus back to the haven, and to him Æneas gave also his
 reward, seeing that he had brought back ship and crew, even a woman of
 Crete, Pholoé by name, very skilful in the work of the loom.
-
 After this Æneas chose him out a level space, with woods about it, and
 having sat down in the midst upon a throne, caused it to be proclaimed
 that all should come who would contend together in running. And many
@@ -2111,7 +1693,6 @@ give a horse with his furniture, and to the second a quiver after the
 fashion of the Amazons, with arrows of Thrace, and to fasten it a belt
 embossed with gold, and a jewel for a clasp thereon. And let the third
 take this helmet of Greece, and be content."
-
 Then, when they had ranged them in a line, and the sign was given,
 they ran. And for a while all were near together. Then Nisus outran
 the rest; and next to him was Salius, but with a great space between,
@@ -2137,15 +1718,6 @@ surely I had won the first reward but for the ill fortune which Salius
 also accuseth." And he showed his face and body foul with mire. And
 the kindly prince laughed, and gave him a shield, the work of
 Didymaon.
-
-
-
-
-CHAPTER XI.
-
-THE FUNERAL GAMES (CONTINUED).
-
-
 Then did Æneas offer rewards for boxers: for the conqueror an ox with
 gilded horns; for the vanquished a sword and helmet. Straightway rose
 up the huge Dares, who only had dared to stand in the lists against
@@ -2161,12 +1733,10 @@ who sat near him upon the grass: "Sufferest thou such gifts to be
 taken without contest? What of Eryx, thy master? What of thy fame,
 which hath gone through all the land of Sicily, and the spoils that
 hang in thy house?"
-
 Then said Entellus, "Think not, Acestes, that I am fearful, or
 careless of honour. But I am old: my strength is gone from me. Were I
 young, as that boaster yonder, I had not waited for gifts that I
 should go forth to the battle."
-
 Then cast he into the midst two gauntlets which Eryx, the great boxer,
 had been wont to wear. And all men marvelled to see them, so huge were
 they, and heavy with bull's hide and lead and iron. And Dares stood
@@ -2178,7 +1748,6 @@ who was my mother's son, was wont to wear: thou seest them stained yet
 with blood and brains, and I also was wont to wear them in the days of
 my youth. But if Dares liketh them not, be it so; I put them away, and
 he shall do the like with his."
-
 Then he threw his garment from his shoulders, showing his mighty arms
 and sinews. And Æneas gave the two equal gauntlets, and they stood
 with heads thrown back, and began the battle. Dares indeed was swifter
@@ -2214,9 +1783,6 @@ against the ox and smote it with his gauntlet between the horns. And
 it fell dead upon the earth. And Entellus cried aloud, "O Eryx, I
 offer thee this life for the life of Dares, being indeed the better
 for the worse. And I lay aside these gauntlets and this art."
-
-  [Illustration: ENTELLUS KILLING THE BULL.]
-
 Next Æneas called for those who would shoot with the bow, setting up a
 mast from the ship of Sergestus, and fastening thereto a dove by a
 cord, at which mast were all to shoot. Then came the men together and
@@ -2245,7 +1811,6 @@ men. Old Anchises had it, and to him Cisseus, who was the father of
 Queen Hecuba, gave it." Also he put a crown of bay upon his head. Nor
 did the good Eurytion murmur, though he had slain the bird; the others
 also had their gifts and were content.
-
 Not even now was the assembly dismissed, there remaining yet another
 sight to behold. For Ascanius and the youths that were his companions
 came riding on horses, and each had a wreath about his head. Each
@@ -2258,7 +1823,6 @@ pasterns of white and forehead of white; and another Atys, whom
 Ascanius loved; and third, fairest of all to behold, Ascanius, on a
 horse of Sidon, which Queen Dido had given him; but to the rest
 Acestes had given horses of Sicily.
-
 And when these came forth there was much shouting and clapping of
 hands, and the men of Troy rejoiced to see the lads, so like were they
 to the famous men their fathers. Then, a signal being given, the
@@ -2271,15 +1835,6 @@ waves in the Carpathian Sea or African. This custom did Ascanius teach
 to his people when he built the city of Alba, and the men of Alba
 taught it to their children after them, and mighty Rome learnt it
 also, and kept it in the time to come.
-
-
-
-
-CHAPTER XII.
-
-THE BURNING OF THE SHIPS--THE VOYAGE TO ITALY.
-
-
 But while the men of Troy were busy with the games, Juno prepared
 mischief against them in her heart, and sent down Iris, her messenger,
 to accomplish it. Now the women sat apart on the shore, and lifted up
@@ -2299,14 +1854,12 @@ accursed ships that carry us hither and thither. I saw in a dream the
 seeress Cassandra, and she seemed to put a torch in my hand, and to
 say, 'Here seek ye for Troy: here is your home.' And lo! here are
 altars and fire."
-
 Then she caught a brand from an altar, and cast it far from her at the
 ships. Then cried out Pyrgo, who had been nurse to the sons of Priam,
 "O mothers of Troy, this is not Beroé whom ye see. Mark ye her shining
 eyes, and her voice, and her gait. But as for Beroé I left her long
 since, sick and sore vexed that she was absent this day from our
 solemnity."
-
 And for a while the women stood in doubt regarding the ships, loving
 indeed the land whereon they stood, yet knowing that the Fates called
 them to another. But when the goddess rose on her wings, and passed up
@@ -2329,11 +1882,9 @@ pious Æneas rent his garments and prayed to the Gods, saying, "O
 Jupiter, if thou dost not altogether hate us, save our ships from the
 fire, and suffer us not to perish utterly; but if thou art angry, and
 so it seem good to thee, slay me with thy thunderbolt."
-
 And even as he spake there came up a great storm from the south, with
 thunder and lightning and a great rain, and the fire was quenched, but
 of the ships four were burnt altogether.
-
 Now Æneas was sore troubled at these things, and doubted much whether
 he should still abide in the land of Sicily nor heed the Fates, or
 should yet follow after Italy. Then the old man, Nautes, the priest of
@@ -2347,7 +1898,6 @@ this thing that we purpose; also there are old men and women, wearied
 of the sea, and the weak and the fearful. Suffer, then, that he take
 these to himself to be his people, and build a city for them, and call
 it Acesta, after his own name."
-
 And while Æneas thought on these things he slept. And lo! in his
 dream there came to him his father, Anchises, and spake, saying, "I
 come, my son, at the bidding of Jupiter. Take thou heed to the counsel
@@ -2359,7 +1909,6 @@ Tartarus, with the evildoers, but in Elysium, with the companies of
 the blessed. And thither shall the Sibyl guide thee, and thou shalt
 learn all that shall befall thee and thy people after this. And now
 farewell, for the morning cometh, and I must depart."
-
 And the spirit of Anchises vanished out of his sight, even as smoke
 into the air, nor heeded him when he would have stayed it; and Æneas
 arose and did sacrifice to the household gods and to Vesta. Then he
@@ -2371,14 +1920,12 @@ the mean time Æneas marked the boundaries of the city with a
 ploughshare, and Acestes set it in order with laws and government.
 Also on the mountain of Eryx they built a temple to Venus, and they
 consecrated a grove and a priest at the tomb of Anchises.
-
 Then for nine days they feasted; and after, for it was fine weather,
 and the south wind blew softly, they made ready to sail. There was
 then a great weeping and embracing on the shore; and now were all fain
 to go, willing not to be parted from kindred and friends. But Æneas
 comforted them, and, having sacrificed three calves to Eryx and a lamb
 to the Storms, so departed.
-
 And Venus spake to Neptune, saying, "It troubleth me sore that Juno
 will not lay aside her wrath. For the city of Troy she overthrew, and,
 it being overthrown, she pursueth them that are left with hatred that
@@ -2397,13 +1944,11 @@ cloud, yea though I desired from my heart to overthrow the city of
 Troy, even the works of my own hands? Fear not, therefore: he shall
 come safe to the haven of Avernus. One only of his company must
 perish, even one life for many."
-
 Then did he pass over the sea in his chariot, and there was a great
 calm as he went, and the clouds flew from the sky, and the great
 beasts of the sea went with him; also the gods and goddesses of the
 sea, as Glaucus and Palæmon, and the company of the Tritons and
 Thetis and the virgin Panopeä.
-
 And the men of Troy loosed the sheets, and spread all the sails to the
 wind; and the foremost of the fleet was the ship of Æneas, Palinurus
 being the helmsman. And in the night Sleep came down from the sky, and
@@ -2416,22 +1961,12 @@ eyes from the stars. Then did Sleep wave over him a bough that had
 been dipped in the water of Lethe; and when he slept, as he must needs
 do, thrust him into the sea and a portion of the rudder with him; and
 he fell, calling vainly for help.
-
 And when the ships were close to the rocks of the Sirens, which in old
 time were white with bones of men, but now with spray and broken
 waves, Æneas perceived that the ship strayed from its course. For
 indeed, seeing that the helmsman had perished, the winds and the waves
 had their will of it. Then did he lay hold on the rudder himself, but
 it grieved him much that such mischance had befallen his friend.
-
-
-
-
-CHAPTER XIII.
-
-THE SIBYL.
-
-
 So Æneas came to the land of Italy, nigh unto Cumæ, which was the
 dwelling-place of the Sibyl. And the men turned the forepart of the
 ships to the sea, and made them fast with anchors. Then they leapt
@@ -2439,7 +1974,6 @@ forth upon the shore, and kindled a fire; and some cut wood in the
 forest, or fetched water from the stream. But Æneas went up to the
 great cave of the Sibyl, where, by the inspiration of Apollo, she
 foretelleth things to come.
-
 Now the temple was a marvellous place to look upon. For Dædalus, when
 he fled from Minos, King of Crete, flying through the air upon wings,
 came northwards to the land of Cumæ, and tarried there. Also he
@@ -2469,7 +2003,6 @@ be merciful to us. And thou, O Prophetess, give, if it may be, such
 answer as I would hear. So will I and my people honour thee for ever.
 And write it not, I pray thee, upon leaves, lest the winds carry them
 away, but speak with thy voice."
-
 And for awhile the prophetess strove against the spirit; but at the
 last it mastered her, and the doors flew open, and she spake, saying,
 "The perils of the sea thou hast escaped, but there await thee yet
@@ -2482,7 +2015,6 @@ cities. And the cause of all these woes shall be again a woman. Only
 yield not thou, but go ever more boldly when occasion shall serve.
 Little thinkest thou that thy first succour shall be from a city of
 the Greeks."
-
 And when she had ended these words, Æneas made answer: "O Lady, no
 toil or peril shall take me unawares; for I have thought over all
 things in my heart. But one thing I ask of thee. Here is the door of
@@ -2495,7 +2027,6 @@ Did not Orpheus bring back his wife from the dead, having his harp
 only? Also Pollux goeth many times this same path, redeeming his
 brother from death. And why should I tell of Theseus and Hercules? And
 I also am of the lineage of Jupiter."
-
 Then the Sibyl spake, saying, "Son of Anchises, it is easy to go down
 to hell. The door is open day and night. But to return, and struggle
 to the upper air, that is the labour. Few only have done it, and
@@ -2508,7 +2039,6 @@ another; and if it be the pleasure of the Gods that thou go, it will
 yield to thy hand. But know that one of thy companions lieth dead upon
 the shore. First must thou bury him, and after offer due sacrifice,
 even black sheep. So shalt thou approach the dwellings of the dead."
-
 Then Æneas departed from the cave, and Achates went with him, and much
 they wondered who it might be that was dead. And when they came to the
 shore, lo! Misenus lay there, than whom no man was more skilful to
@@ -2529,7 +2059,6 @@ mouth of Avernus, they sat both of them on the tree. And lo! the bough
 of gold glittered among the branches and rustled in the wind. Right
 gladly did Æneas break it off, and carry it to the dwelling of the
 Sibyl.
-
 In the mean time the men of Troy made a great burial for Misenus on
 the shore, building a pile of wood, and washing and anointing the
 body. Also they laid the body on a bier, and on it the garments which
@@ -2541,7 +2070,6 @@ bronze, and purified the people, sprinkling them with water with a
 bough of an olive-tree. Then Æneas made a great mound, and put thereon
 the trumpet of the man and his bow; and the mountain is called
 Misenus, after him, to this day.
-
 But when the burial was ended he did as the Sibyl had commanded. A
 great cavern there is, from which cometh so evil a stench that no bird
 may fly across. There they brought four black oxen, and the priestess
@@ -2555,15 +2083,6 @@ goddess was at hand. And the priestess cried, "Go ye who may not take
 part in this matter. And thou, Æneas, draw thy sword from its sheath
 and follow. Now hast thou need of all thy strength and courage." Then
 she plunged into the cave, and Æneas went with her.
-
-
-
-
-CHAPTER XIV.
-
-THE DWELLINGS OF THE DEAD.
-
-
 So they went together through the land of shadows, like unto men who
 walk through a wood in a doubtful light, when the moon indeed hath
 risen, but there are clouds over the sky. And first they came to
@@ -2578,7 +2097,6 @@ Centaurs, half man half horse, and Briareus with the hundred hands,
 and others also. These Æneas, when he saw them, sought to slay,
 rushing upon them with the sword, but his guide warned him that they
 were shadows only.
-
 After this they came to the river of hell, whereon plies the Boatman
 Charon. A long white beard hath he and unkempt; and his eyes are fixed
 in a fiery stare, and a scarf is knotted upon his shoulder, as is a
@@ -2594,7 +2112,6 @@ forbid, and drive from the shore. This when Æneas saw, he marvelled,
 and said, "O Lady, what meaneth this concourse at the river? What seek
 these souls? Why be some driven from the bank and some ferried
 across?"
-
 And the Sibyl made answer: "This river that thou seest is the Styx, by
 which the Gods in heaven swear, and fear to break their oath. Those
 whom thou seest to be driven from the bank are such as have lacked
@@ -2602,7 +2119,6 @@ burial, but those who are ferried across have been buried duly; for
 none pass this stream till their bodies have been laid in the grave,
 otherwise they wander for a hundred years, and so at last may cross
 over."
-
 Much did Æneas pity their ill fortune, and the more when he beheld
 Orontes and his Lycians, whom the sea had swallowed up alive before
 his eyes. Here likewise there met him his pilot Palinurus, to whom,
@@ -2610,9 +2126,6 @@ when he knew him, for indeed he scarce could see him in the darkness,
 he said, "What god took thee from us and drowned thee in the sea?
 Surely, in this one matter, Apollo hath deceived me, saying that thou
 shouldst escape the sea and come to the land of Italy."
-
-  [Illustration: CHARON AND THE GHOSTS.]
-
 Then answered Palinurus, "Not so, great Æneas. For indeed to the land
 of Italy I came. Three nights the south wind carried me over the sea,
 and on the fourth day I saw the land of Italy from the top of a wave.
@@ -2624,7 +2137,6 @@ Iülus, the hope of thy house, that thou deliver me from these woes.
 Go, therefore, I pray thee, to the haven of Velia, and cast earth upon
 me for burial; or give me now thy hand, and take me with thee across
 this river."
-
 Then said the priestess, "O Palinurus, what madness is this? Wilt thou
 without due burial cross the river, and look upon the awful faces of
 the Furies? Think not that the Fates can be changed by prayers. Yet
@@ -2632,7 +2144,6 @@ hear this, and be comforted. They that slew thee, being sore troubled
 by many plagues, shall make due expiation to thee, and build a tomb,
 and make offerings thereon year by year; and the place where they slew
 thee shall be called after thy name."
-
 Then he took comfort and departed. But when they came near to the
 river, the Boatman beheld them, and cried, "Stay thou, whoever thou
 art, that comest armed to this river, and tell me what thou seekest.
@@ -2642,28 +2153,22 @@ Hercules, and Theseus, and Pirithoüs, though they were children of the
 Gods. For Hercules chained the Watch-dog of hell, and dragged him
 trembling from his master's seat. And Theseus and his friend sought to
 carry away the Queen even from the chamber of her husband."
-
 Then the Sibyl made answer: "Be not troubled. We came not hither with
 evil thoughts. Let the Watch-dog of hell make the pale ghosts afraid;
 let your Queen abide in her husband's palace; we will not harm them.
 Æneas of Troy cometh down to hell that he may speak with his father.
 And if thou takest no account of such piety, yet thou wilt know this
 token."
-
 And she showed him the bough of gold. And when he saw it he laid aside
 his anger, rejoicing to behold, now after many years, the marvellous
 gift. Then he brought near his boat to the bank, and drave out the
 souls that were therein, and took on board Æneas and the priestess.
 Much did it groan with the weight, and the water poured apace
 through the seams thereof. Yet did they come safe across.
-
-  [Illustration: CERBERUS.]
-
 Then they saw Cerberus, the Watch-dog, in his cave. And to him the
 Sibyl gave a cake of honey and poppy-seed, causing sleep. And this he
 swallowed, opening wide his three ravenous mouths, and straightway
 stretched himself out asleep across the cave.
-
 After this they heard a great wailing of infants, even the voices of
 such as are taken away before they have had lot or part in life. And
 near to these were such as have died by false accusation; yet lack
@@ -2684,7 +2189,6 @@ hell--to leave thy land. But the Gods, at whose bidding I come hither
 this day, constrained me; nor did I think that thou wouldst take such
 sorrow from my departure. But stay; depart not; for never again may I
 speak to thee but this once only."
-
 So he spake, and would fain have appeased her wrath. But she cast her
 eyes to the ground, and her heart was hard against him, even as a
 rock. And she departed into a grove that was hard by, wherein was her
@@ -2698,9 +2202,6 @@ had come. But when the hosts of Agamemnon saw his shining arms through
 the darkness, they fled, as in old days they had fled to the ships;
 and some would have cried aloud, but could not, so thin are the voices
 of the dead.
-
-  [Illustration: ÆNEAS AND THE SHADE OF DIDO.]
-
 Among these he saw Deïphobus, son of Priam. Cruelly mangled was he,
 for his hands had been cut off, and his ears and his nostrils
 likewise. Scarce did Æneas know him, and he himself in shame would
@@ -2710,7 +2211,6 @@ on the last night of Troy thou didst fall dead on a heap of Greeks
 whom thou hadst slain. Wherefore I built thee a tomb by the sea, and
 thrice called aloud thy name. But thee I found not, that I might lay
 thee therein."
-
 Then Deïphobus made answer: "Thou hast left nothing undone, but hast
 paid me all due honour. But my ill fate and the accursed wickedness of
 the Spartan woman have destroyed me. How we spent that last night in
@@ -2723,7 +2223,6 @@ my trusty sword also from under my head; and after brought thereunto
 Menelaüs, so hoping to do away her sin against him; and Ulysses also,
 always ready with evil counsels. What need of more? May the Gods do so
 and more also to them. But tell me why hast thou come hither?"
-
 And it was now past noonday, and the two had spent in talk all the
 allotted time. Therefore the Sibyl spake: "Night cometh, Æneas, and we
 waste the day in tears. Lo! here are two roads. This on the right hand
@@ -2731,7 +2230,6 @@ leadeth to the palace of Pluto and to the Elysian plains; and that on
 the left to Tartarus, the abode of the wicked." And Deïphobus
 answered: "Be not wroth, great priestess; I depart to my own place. Do
 thou, my friend, go on and prosper."
-
 But as Æneas looked round he saw a great building, and a three-fold
 wall about it, and round the wall a river of fire. Great gates there
 were, and a tower of brass, and the fury Tisiphone sat as warder. Also
@@ -2760,9 +2258,6 @@ household (a great multitude are they), or stirred up civil strife.
 And of these some roll a great stone and cease not, and some are bound
 to wheels, and some sit for ever crying, 'Learn to do righteousness
 and to fear the Gods.'"
-
-  [Illustration: THE FURY AT THE FEAST.]
-
 And when the priestess had finished these words they hastened on their
 way. And, after a while, she said, "Lo! here is the palace which the
 Cyclopés built for Pluto and the Queen of hell. Here must we offer the
@@ -2787,18 +2282,14 @@ Musæus, who stood in the midst, surpassing them all in stature: "Tell
 me, happy souls, where shall we find Anchises." And Musæus answered,
 "We have no certain dwelling-place: but climb this hill, and ye can
 see the whole plain below, and doubtless him whom ye seek."
-
 Then they beheld Anchises where he sat in a green valley, regarding
 the spirits of those who should be born in after-time of his race. And
 when he beheld Æneas coming, he stretched out his hands and cried,
 "Comest thou, my son? Hast thou won thy way hither to me? Even so I
 thought that it would be, and lo! my hope hath not failed me."
-
 And Æneas made answer, "Yea, I have come a long way to see thee, even
 as thy spirit bade me. And now let me embrace thee with my arms."
-
 But when he would have embraced him it was as if he clasped the air.
-
 Then Æneas looked and beheld a river, and a great company of souls
 thereby, thick as the bees on a calm summer day in a garden of lilies.
 And when he would know the meaning of the concourse, Anchises said,
@@ -2821,7 +2312,6 @@ ghostly pain we all endure. Then we that are found worthy are sent
 unto Elysium and the plains of the blest. And when, after many days,
 the soul is wholly pure, it is called to the river of forgetfulness,
 that it may drink thereof, and so return to the world that is above."
-
 Then he led Æneas and the Sibyl to a hill, whence they could see the
 whole company, and regard their faces as they came; and he said,
 "Come, and I will show thee them that shall come after thee. That
@@ -2848,16 +2338,13 @@ more skilfully shall plead, or map the skies, or tell the rising of
 the stars. 'Tis thine, man of Rome, to subdue the world. This is thy
 work, to set the rule of peace over the vanquished, to spare the
 humble, and to subdue the proud."
-
 Then he spake again: "Regard him who is the first of all the company
 of conquerors. He is Marcellus; he shall save the state in the day of
 trouble, and put to flight Carthaginian and Gaul."
-
 Then said Æneas, for he chanced to see by his side a youth clad in
 shining armour, and very fair to look upon, but sad, and with downcast
 eyes, "Tell me, father, who is this? How noble is he! What a company
 is about him! but there is a shadow of darkness round his head."
-
 And Anchises made answer, "O my son, seek not to know the greatest
 sorrow that shall befall thy children after thee. This youth the
 Fates shall only show for a brief space to man. Rome would seem too
@@ -2869,25 +2356,14 @@ valour unsurpassed! O luckless boy, if thou canst haply break thy evil
 doom thou shalt be a Marcellus. Give handfuls of lilies. I will
 scatter the bright flowers and pay the idle honours to my grandson's
 shade."
-
 Thus did Anchises show his son things to be, and kindled his soul with
 desire of glory. Also he showed him what wars he must wage, and how he
 should endure, or, if it might be, avoid the evils to come.
-
 There are two gates of Sleep, of horn the one, by which true dreams go
 forth; of ivory the other, by which the false. Then did Anchises send
 forth his son and the Sibyl by the ivory gate. And Æneas returned to
 the ships, and making sail came to the cape which was afterwards
 called Caieta.
-
-
-
-
-CHAPTER XV.
-
-KING LATINUS.
-
-
 While they tarried at Cumæ, Caieta, who was the nurse of Æneas, died
 and was buried; and they called the cape after her name. And
 afterwards they set sail, and passed by the island wherein dwelt
@@ -2899,13 +2375,11 @@ whom the goddess with her enchantments hath changed into the shapes of
 beasts. But Neptune would not that the men of Troy, being fearers of
 the Gods, should suffer such things. Therefore did he send them
 favourable winds, so that they passed quickly by that land.
-
 Now when it was dawn, the wind being now lulled, they came to a great
 wood upon the shore, and in the midst of the wood the river Tiber,
 yellow with much abundance of sand, flowing into the sea. And on the
 shore and in the wood were many birds. Thither the men of Troy brought
 their ships safe to land.
-
 Of this country Latinus was king, who was the son of Faunus, who was
 the son of Picus, who was the son of Saturn. And King Latinus had not
 a son, but a daughter only, Lavinia by name, who was now of an age to
@@ -2939,7 +2413,6 @@ shall exalt our name from the one end of heaven to the other." Nor did
 the king hide these things, but noised them abroad, and the fame
 thereof was great in these days when Æneas and his company came to the
 land of Italy.
-
 Now it so chanced that Æneas and Iülus his son, and others of the
 princes, sat down to eat under a tree; and they had platters of dough
 whereon to eat their meat. And when they had ended, and were not
@@ -2955,7 +2428,6 @@ therefore, seeing that these things have an accomplishment, let us
 pour out libations to Jupiter, and make our prayers also to my father,
 Anchises, and make merry. And in the morning we will search out the
 country, and see who they be that dwell herein."
-
 Then he bound a garland of leaves about his head, and made his prayers
 to Mother Earth, and to the gods of the land, of whom indeed he knew
 not who they were, and to Father Jupiter, and to the other gods also.
@@ -2963,7 +2435,6 @@ And when he had ended his prayer, Jupiter thundered thrice from the
 sky. Then was it noised abroad among the men of Troy that now indeed
 were they come to the land where they should build them a city; and
 they ate and drank and made merry.
-
 The next day those who should search out the country went forth. And
 when it was told Æneas, saying that this river was the Tiber, and that
 the people who dwelt in the land were the Latins, valiant men of war,
@@ -2973,7 +2444,6 @@ hands, and should pray that there might be peace between the men of
 Troy and his people. And the men made haste to depart; and in the
 meanwhile Æneas marked out for himself a camp, and bade that they
 should make a rampart and a ditch.
-
 Now when they that were sent came nigh to the city, they saw the young
 men in the plain that was before it, riding upon horses and driving
 chariots. Others shot with the bow or cast javelins, and some
@@ -2981,7 +2451,6 @@ contended in running or boxing. And one rode on horseback and told the
 king, saying that certain men in strange raiment were come. Then the
 king commanded that they should be brought into the palace, and sat
 upon the throne of his fathers, and gave audience to them.
-
 Now the palace stood on the hill that was in the midst of the city,
 where King Picus had builded it, having woods about it very sacred.
 Here did the kings first receive the sceptre, that they should bear
@@ -2995,7 +2464,6 @@ helmets, and javelins, and the beaks of ships. And sitting on a throne
 was the image of King Picus, clad in royal apparel, bearing a shield
 on his left arm. But the king himself his wife Circé had changed into
 a bird.
-
 And King Latinus spake, saying, "Tell me, men of Troy, for I know you
 who you are, what seek ye? For what cause are ye come to the land of
 Italy? Have ye gone astray in your journey? or have the storms driven
@@ -3004,7 +2472,6 @@ Ye are welcome. And know that we be of the race of Saturn, who do
 righteously, not by constraint, but of our own will. From hence also,
 even from Corythus, which is a city of the Etrurians, went forth
 Dardanus, and abode in the land of Troy."
-
 Then Ilioneus made answer, saying, "Great King, we have not gone
 astray in our journey, nor have storms driven us out of the way. Of
 set purpose are we come to this land. For we were driven away by
@@ -3025,7 +2492,6 @@ behold, Æneas sends thee these gifts of the things which remain to us
 of the riches which we had aforetime. This sceptre King Priam held
 when he did justice among his people; here is a crown also, and
 garments which the women of Troy have worked with their hands."
-
 Then for awhile King Latinus kept silence, fixing his eyes upon the
 ground. Deeply did he ponder in his heart upon the marriage of his
 daughter, and upon the oracles of Faunus his father, whether indeed
@@ -3041,7 +2507,6 @@ message to your king. I have a daughter, whom the Gods suffer me not
 to marry to a husband of this land. For they say that there shall come
 a stranger who shall be my son-in-law, and that from his loins shall
 come forth those who shall raise our name even unto the stars."
-
 Then the king commanded that they should bring forth horses from the
 stalls. Now there stood in the stalls three hundred horses, very fleet
 of foot. And of these they brought forth one hundred, one for each
@@ -3050,15 +2515,6 @@ champed on bits of gold. And for Æneas himself he sent a chariot, and
 two horses breathing fire from their nostrils, which were of the breed
 of the horses of the Sun. So the men of Troy went back riding on
 horses, and took to Æneas the gifts and the message of peace.
-
-
-
-
-CHAPTER XVI.
-
-THE WRATH OF JUNO.
-
-
 Now Juno beheld how the men of Troy were come to the land of Italy,
 and were now building them houses to dwell in; and great wrath came
 into her heart, and she spake to herself, saying, "Of a truth this
@@ -3075,7 +2531,6 @@ the kingdom of Latium I may not keep him, and the Gods decree that he
 shall have Lavinia to wife. Yet may I hinder the matter. Surely at a
 great price shall they buy this alliance; and thy dowry, O virgin,
 shall be the blood of Italy and of Troy."
-
 Then Juno descended to the lower parts of the earth, and called to
 Alecto from the dwellings of her sisters the Furies--Alecto who loveth
 war and anger and treachery, and all evil deeds. Even Pluto hateth
@@ -3087,7 +2542,6 @@ Seeing therefore that thou canst set brother against brother, and
 bring enmity into houses and kingdoms, that they should fall, break
 this peace that they have made, and bring to pass some occasion of
 war."
-
 Then straightway Alecto betook herself to the dwelling of King
 Latinus. There found she Amata, the queen, in great trouble and wrath,
 for she loved not the men of Troy, and would have Turnus for her
@@ -3108,7 +2562,6 @@ be strangers who obey not thy rule, and that the Gods mean not other
 than this. And Turnus, if thou wilt inquire more deeply into his
 descent, is of the lineage of Inachus, and cometh in the beginning
 from the land of Mycenæ."
-
 But when she perceived that her husband heeded not these words, and
 when also the poison of the serpent had now altogether prevailed over
 her, she ran through the city like to one that is mad. Nay, she
@@ -3121,7 +2574,6 @@ pine, and were clad in the skins of wild beasts. And in the midst of
 them stood the queen, holding a great pine torch in her hand, and
 singing the marriage song of her daughter and Turnus; and her eyes
 were red as blood.
-
 Next after this the Fury, deeming that she had overthrown the counsels
 of Latinus, sped to the city of Turnus the Rutulian. Now the name of
 the city was called Ardea, and Danaë builded it in old time; Ardea is
@@ -3136,7 +2588,6 @@ Rise, therefore, and arm thy people. Consume these strangers and their
 ships with fire. And if King Latinus yet will not abide by his
 promise, let him know for himself what Turnus can do in the day of
 battle."
-
 But Turnus laughed her to scorn. "That the ships of the stranger have
 come to the Tiber, I know full well. But tell me not these tales.
 Queen Juno forgetteth me not, therefore I am not afraid; but thou,
@@ -3144,7 +2595,6 @@ mother, art old, and wanderest from the truth, and troublest thyself
 for nought, and art mocked with idle fear. Thy business it is to tend
 the temples of the Gods and their images, but as for war, leave that
 to men, seeing that it is their care."
-
 Greatly wroth was Alecto to hear such words. And even while he spake
 the young man shuddered and stared with his eyes, for the Fury hissed
 before him with a thousand snakes. And when he would have spoken more,
@@ -3152,7 +2602,6 @@ she thrust him back, and caught two snakes from her hair, and lashed
 him therewith, and cried aloud, "Old am I! and wander from the truth!
 and am mocked with idle fears! Nay, but I come from the dwelling of
 the Furies, and war and death are in my hand!"
-
 And she cast a torch at the youth, and fixed it smoking with baleful
 light in his heart. Then, in great fear, he woke, and a cold sweat
 burst forth upon him, and he cried aloud for his arms, and was
@@ -3160,7 +2609,6 @@ exceedingly mad for battle. Also he bade the youth arm themselves,
 saying that he would thrust the men of Troy out of Italy, aye, and
 fight, if need were, with the Latins also. And the people hearkened
 unto him, so fair was he, and of noble birth, and great renown in war.
-
 Then Alecto hied her to the place where Iülus was hunting the beasts
 of the forest. Now there was a stag, very stately, with exceeding
 great horns, which Tyrrheus and his children had brought up from a
@@ -3179,13 +2627,11 @@ in the woods). And one had a charred firebrand and another a knotted
 stick, each such weapon as came to his hand. And Tyrrheus, who chanced
 to be splitting a tall oak with wedges, led the way, having a great
 axe in his hand.
-
 Then did Alecto climb upon the roof, and, sounding with hellish voice
 through a clarion, sent abroad the shepherds' signal. And all the
 forest trembled at the sound, and Trivia's lake and Nar, with his
 white sulphurous wave, and the fountains of Velia; and trembling
 mothers pressed their children to their breasts.
-
 Then ran together all the country folk, and the youth of Troy hasted
 also to the help of Iülus. And now they fought not with clubs and
 charred stakes, but with swords and spears in battle array. Then Almo
@@ -3194,7 +2640,6 @@ many others round him, and among them the old man Galæsus, even as he
 offered himself to be a mediator between the two. Most righteous of
 men was he, and richest likewise, for he had five flocks of sheep and
 five herds of cattle, and tilled the earth with a hundred ploughs.
-
 But Alecto, when she had accomplished these things, hasted to Juno,
 and spake, saying, "I have done thy bidding; and now, if thou wilt, I
 will to the neighbouring cities, spreading among them rumours of
@@ -3202,15 +2647,6 @@ wars." But Juno answered, "It is enough; there hath been the shedding
 of blood. It were not well that the Father should see thee wandering
 in the upper air, wherefore depart, and if aught remain to be done, I
 will see to it."
-
-
-
-
-CHAPTER XVII.
-
-THE GATHERING OF THE CHIEFS.
-
-
 After this the shepherds hasted back to the city, and bare with them
 the dead, even the youth Almo and the old man Galæsus, and cried for
 vengeance to the Gods and to the king. And fiercest of all was Turnus,
@@ -3226,7 +2662,6 @@ against it. O foolish Latins, ye shall pay for this madness with your
 blood, and thou, Turnus, shalt suffer the worst punishment of all; and
 when thou shalt turn to the Gods they shall not hear thee. But as for
 me, my rest is at hand; I lose but the honours of my funeral."
-
 It was a custom in Latium, which Alba kept in after time, and mighty
 Rome yet keepeth to this day, that when she beginneth to make war, be
 it on the men of Thrace or the men of the East, Arab, or Indian, or
@@ -3240,9 +2675,6 @@ of his country, declare war against the men of Troy, and open the
 gates of slaughter; but he would not, flying and hiding himself in
 darkness. Then did great Juno herself come down and burst asunder the
 iron-bound gates of war.
-
-  [Illustration: TURNUS OVER THE BODIES OF ALMO AND GALÆSUS.]
-
 Then through the land of Italy men prepared themselves for battle,
 making bright shield and spear and sharpening the axe upon the
 whetstone. And in five cities did they set up anvils to make arms
@@ -3250,27 +2682,22 @@ thereon, head-pieces, and shields of wicker, and breast-plates of
 bronze, and greaves of silver. Nor did men regard any more the
 reaping-hook nor the plough, making new for battle the swords of their
 fathers.
-
 Now the greatest of the chiefs were these:
-
 First, Prince Mezentius, the Tuscan, who regarded not the Gods; and
 with him Lausus his son, than whom was none fairer in the host but
 Turnus only. A thousand men followed him from Agylla. Worthy was he of
 a better father.
-
 Next came, with horses that none might surpass, Aventinus, son of
 Hercules; and on his shield was the emblem of his father, the Hydra,
 with its hundred snakes. Long swords had his men and Sabine spears;
 and he himself had about his head and shoulders a great lion's skin,
 with terrible mane and great white teeth.
-
 And from Tibur came two youths of Argos, twin brothers, Catillus and
 Coras, swift and strong as two Centaurs from the hills. And Cæculus,
 who builded Præneste, was there, son of Vulcan, and a great company
 of country folk with him, whereof many bare not shield nor spear, but
 slings with bullets of lead, and javelins in either hand, and helmets
 of wolf's skin upon their heads.
-
 After him marched Messapus, tamer of horses, Neptune's son, whom no
 man might lay low with fire or sword; and the people followed, singing
 a war-song of their king, like to a great flock of swans, which flies
@@ -3285,7 +2712,6 @@ bronze; also Ufens, of Nersæ, with his robber bands; and Umbro, the
 Marsian priest, a mighty wizard and charmer of serpents, who also
 could heal their bite; but the wound of the Trojan spears he could not
 heal, nor did all his charms and mighty herbs avail him.
-
 With them also came Virbius, son of Hippolytus, from Egeria. For men
 say that Hippolytus, when the curse of his father had fallen upon him,
 and he had perished by the madness of his horses, was made alive by
@@ -3295,7 +2721,6 @@ his thunderbolt; but that Hippolytus Diana hid in the grove of Aricia,
 that he might spend the rest of his days obscure and without offence.
 And therefore do they yet hinder horses from coming near to the temple
 of Diana. Nevertheless the youth Virbius drave horses in his chariot.
-
 But chief among them all was Turnus, who moved in the midst, clad in
 armour, and overtopping them all by his head. And he had a helmet with
 three crests, and the Chimæra thereon for a sign; and on his shield
@@ -3303,7 +2728,6 @@ was Io, with her horns lifted to heaven, and Argus the herdsman, and
 Inachus pouring a river from his urn. A great multitude of footmen
 followed him, Rutulians and Sicanians, and they that dwelt about the
 Tiber, and about Anxur, and about the green woods of Feronia.
-
 Last of all came Camilla the Volscian, with a great company on
 horses, clad in armour of bronze. She loved neither distaff nor the
 basket of Minerva, but rather to fight and to outstrip the winds in
@@ -3314,21 +2738,11 @@ behold her, and the women stood gazing upon her as she went. For a
 robe of royal purple was about her shoulders, and a snood of gold
 about her hair; and she carried a Syrian quiver and a pike of
 myrtle-wood, as the shepherds are wont.
-
-
-
-
-CHAPTER XVIII.
-
-KING EVANDER.
-
-
 So the chiefs were gathered together, and much people with them,
 Mezentius, and Ufens, and Messapus being their leaders. They sent an
 embassy likewise to Diomed (for Diomed had built him a city in Italy,
 even Arpi), to tell him that Æneas and the men of Troy were setting up
 a kingdom in these parts, and to bid him take counsel for himself.
-
 But Æneas was much troubled at these things, and cast about in his
 mind where he should look for help. And while he meditated thereon he
 slept. And lo! in his dreams the god of the river, even Father Tiber,
@@ -3348,9 +2762,6 @@ Rise therefore, and offer sacrifice to Juno, appeasing her wrath. And
 to me thou shalt perform thy vows when thou shalt have prevailed. For
 know that I am Tiber the river, and that of all the rivers on earth
 none is dearer to the Gods."
-
-  [Illustration: ÆNEAS AND TIBER.]
-
 Then Æneas roused him from sleep, and made his supplications to the
 Nymphs and the river god, that they would be favourable to him. And
 when he looked, lo! upon the shore a white sow with thirty young,
@@ -3360,7 +2771,6 @@ so went on his way. And Tiber stayed his stream so that the men might
 not toil in rowing. Quickly they sped, and many trees were above their
 heads, and the image thereof in the water beneath. And at noonday they
 beheld a city with walls, and a citadel, and a few houses round about.
-
 Now it chanced that Evander and his people were holding a sacrifice
 that day to Hercules before the city. But when they saw through the
 trees the ships approaching, they were astonished, and rose all from
@@ -3368,16 +2778,13 @@ the feast. But Pallas, who was the son of the king, commanded that
 they should not interrupt the sacrifice, and, snatching a spear, he
 cried from the mound whereon the altar stood: "Strangers, why come ye?
 what seek ye? Do ye bring peace or war?"
-
 Then Æneas cried from the stern of his ship, holding out the while an
 olive branch: "We be men of Troy, enemies of the Latins, and we seek
 King Evander. Say, therefore, to him that Æneas, prince of Troy, is
 come, seeking alliance with him."
-
 Much did Pallas marvel to hear this name, and said, "Approach thou,
 whoever thou art, and hold converse with my father;" and he caught him
 by the hand.
-
 And when Æneas was set before King Evander he spake, saying, "I come
 to thee, O King, not unwilling or fearful, though indeed thou art a
 Greek and akin to the sons of Atreus. For between thee and me also
@@ -3389,7 +2796,6 @@ nothing. Know thou that the Daunian race, which warreth against thee,
 pursueth us also; against whom if they prevail, without doubt they
 shall rule over Italy, from the one sea even to the other. I would,
 therefore, that we make alliance together."
-
 And as he spake, Evander ceased not to regard him, and, when he had
 ended, spake, saying, "Welcome, great son of Troy. Gladly do I
 recognise the voice and face of Anchises. For I remember how Priam
@@ -3402,7 +2808,6 @@ son Pallas hath to this day. The alliance that thou seekest I grant.
 To-morrow shalt thou depart with such help as I can give. But now,
 since ye be come at such good time, join us in our sacrifice and
 feast."
-
 So they feasted together on the flesh of oxen, and drank wine, and
 were merry. And when they had made an end of eating and drinking, King
 Evander spake, saying, "This great feast, my friend, we hold not
@@ -3440,16 +2845,12 @@ arms and legs about him, and strangled him that he died. Of which
 deed, O my friends, we keep the remembrance year by year. Do ye,
 therefore, join in our feast, putting first wreaths of poplar about
 your heads, for the poplar is the tree of Hercules."
-
-  [Illustration: HERCULES AND CACUS.]
-
 So they feasted; and the priests, even the Salii, being in two
 companies, young and old, sang the great deeds of Hercules: how, being
 yet an infant, he strangled the snakes that Juno sent to slay him, and
 overthrew mighty cities, and endured many grievous labours, slaying
 the Centaurs and the lion of Nemea; and how he went down to hell, and
 dragged the dog Cerberus therefrom, and many other things likewise.
-
 And at even they went back to the city, and as they went Evander told
 Æneas many things concerning the country: how of old a savage race
 dwelt therein, living even as the beasts, whom Saturn, flying from his
@@ -3462,18 +2863,8 @@ And when they came to his palace he said, "Hercules entered this
 dwelling, though indeed it be small and lowly. Think not, then,
 overmuch of riches, and so make thyself worthy to ascend to heaven, as
 he also ascended."
-
 Then he led him within the palace, and bade him rest on a couch,
 whereon was spread the skin of an African bear.
-
-
-
-
-CHAPTER XIX.
-
-THE ARMS OF ÆNEAS.
-
-
 Very early the next morning the old man Evander rose up from his bed,
 and donned his tunic, and bound his Tuscan sandals on his feet, and
 girt his Tegean sword to his side, flinging a panther's hide over his
@@ -3501,19 +2892,16 @@ thy prime, and altogether a stranger in race. Wherefore take this
 office upon thyself. Pallas also shall go with thee, and learn from
 thee to bear himself as a warrior. Also I will send with thee two
 hundred chosen horsemen, and Pallas will give thee as many."
-
 And even before he had made an end of speaking, Venus gave them a
 sign, even thunder in a clear sky; and there was heard a voice as of
 a Tuscan trumpet, and when they looked to the heavens, lo! there was a
 flashing of arms.
-
 And Æneas knew the sign and the intepretation thereof, even that he
 should prosper in that to which he set his hand. Therefore he bade
 Evander be of good cheer. Then again they did sacrifice, and
 afterwards Æneas returned to his companions, of whom he chose some,
 and them the bravest, who should go with him to Agylla, and the rest
 he bade return to Iülus, to the camp.
-
 But when he was now ready to depart, Evander took him by the hand,
 saying, "O that Jupiter would give me back the years that are gone,
 when I slew, under Præneste, King Erulus, to whom at his birth his
@@ -3523,7 +2911,6 @@ had the wicked Mezentius slain so many of my people. And now, may the
 Gods hear my prayer: If it be their pleasure that Pallas should come
 back, may I live to see it; but if not, may I die even now while I
 hold thee in my arms, my son, my one and only joy."
-
 And his spirit left the old man, and they carried him into the palace.
 Then the horsemen rode out from the gates, with Pallas in the midst,
 adorned with mantle and blazoned arms, fair as the Morning Star, which
@@ -3531,7 +2918,6 @@ Venus loves beyond all others in the sky. The women stood watching
 them from the walls, while they shouted aloud and galloped across the
 plain. And after a while they came to a grove, near to which the
 Etruscans and Tarchon, their leader, had pitched their camp.
-
 Now in the mean time Venus had bestirred herself for her son, for
 while he slept in the palace of Evander she spake to her husband, even
 Vulcan, saying, "While the Greeks were fighting against Troy, I sought
@@ -3558,9 +2944,6 @@ cried, "Cease ye your toils. Ye must make arms for a hero." Then they
 all bent them to their toil. Then bronze, and gold, and iron flowed in
 streams; and some plied the bellows, and others dipped the hissing
 mass in water, and a third turned the ore in griping pincers.
-
-  [Illustration: VULCAN AND THE CYCLOPÉS.]
-
 A helmet they made with nodding crest, that blazed like fire, and a
 sword, and a cuirass of ruddy bronze, and greaves of gold molten many
 times, and a spear, and a shield whereon was wrought a marvellous
@@ -3610,7 +2993,6 @@ and the city was full of joy, and the matrons were gathered in the
 temples; and through the street there passed a long array of nations
 that he had conquered, from the east, and from the west, and from the
 north, and from the south. Such was the shield which Vulcan wrought.
-
 And Venus, when she saw her son that none was with him,--for he had
 wandered apart from his companions,--brought the arms and laid them
 down before him, saying, "See the arms that I promised I would give
@@ -3619,15 +3001,6 @@ these thou needst shun no enemy; no, not Turnus himself." Right glad
 was he to see them, and fitted them upon him, and swung the shield
 upon his shoulder, nor knew what mighty fates of his children he bare
 thereon.
-
-
-
-
-CHAPTER XX.
-
-NISUS AND EURYALUS.
-
-
 But Juno, ever seeking occasion against the men of Troy, sent Iris,
 the messenger of the Gods, to Turnus, as he sat in the grove of
 Pilumnus his father. Iris said, "That which none of the Gods had dared
@@ -3635,14 +3008,10 @@ to promise thee, lo! time itself hath brought. Æneas hath left his
 companions and his ship, seeking the city of Evander, yea, and the
 Tuscans also. Do thou, therefore, take the occasion and surprise the
 camp while he is yet absent."
-
 And she spread her wings and mounted to heaven by the arch of the
 rainbow, and Turnus cried, "I know thee, goddess, and follow thy
 sign." And having first washed his hands, he prayed and vowed his vows
 to the Gods.
-
-  [Illustration: IRIS APPEARING TO TURNUS.]
-
 So the army went forth to the battle. Messapus led the first line, and
 the sons of Tyrrheus the rear; and in the midst was Turnus. And the
 men of Troy saw a great cloud of dust upon the plain, and Caïcus
@@ -3666,7 +3035,6 @@ forth the men of Troy into the plain. And at the last he bethought him
 of the ships, which lay at the camp's side, and called for torches of
 pine, and the people followed him with a shout, and the smoke rose up
 to the heavens.
-
 Then did a marvellous thing befall. Now in the days when Æneas was
 building his ships upon Mount Ida, Cybelé, mother of the Gods, spake
 to Jupiter, saying "Grant, my son, that these ships, which Æneas
@@ -3680,7 +3048,6 @@ not, men of Troy; nor care to defend your ships;" and to the ships,
 "Go! henceforth ye are Nymphs of the sea." And lo! straightway the
 cables brake, and where the ships had been were the shapes of women,
 for each ship a woman.
-
 Much did the Latins wonder to behold the thing, and Tiber stayed his
 stream to see it. But Turnus trembled not, crying, "This marvel
 meaneth evil for the men of Troy. Their ships abide not our attack.
@@ -3701,12 +3068,10 @@ for ten years." Then he commanded that they should lay siege to the
 camp; and Messapus he set to watch the gate, and fourteen Rutulian
 chiefs, with each a hundred youths, kept guard on the walls. So all
 the night they watched, and feasted, and drank, and made merry.
-
 But the men of Troy laboured meanwhile, making strong the gates and
 the towers of the walls. And Mnestheus and Sergestus were instant with
 command and exhortation, for Æneas had appointed them to this thing
 should any need arise, he being absent.
-
 Now the keeper of the gate was Nisus, a valiant man of war, and with
 him Euryalus, the goodliest youth among the men of Troy; and great
 love was between them. And as they watched, Nisus said, "Whether it be
@@ -3715,19 +3080,16 @@ have a great desire to do somewhat this night. Seest thou how the
 enemy lie asleep and drunken? Can I not win some honour hence, and
 carry the tidings of these things to Æneas? For yonder by the hill
 lieth the way to the city of Evander."
-
 Then Euryalus made answer: "Nay, but thou goest not alone, Nisus, nor
 leavest me. My father Opheltes trained me not to such baseness, nor
 have I so borne myself in thy company. And truly I should count life
 well lost for such honour."
-
 Then said Nisus: "I thought not so ill of thee. So may Jupiter bring
 me back in safety and honour. Yet should some mischance befall I would
 that thou yet shouldst live, to buy my body back, or, if that may not
 be, to pay due honour to my spirit. Think, too, of thy mother, who,
 alone of all the mothers of Troy, hath, for love of thee, come to this
 land of Italy."
-
 But Euryalus said: "Thou makest idle excuses, for I am steadfastly
 purposed to go. Let us hasten, therefore." So they woke those who
 should take their places at the gate, and sought speech of the chiefs.
@@ -3748,17 +3110,14 @@ and the arms of Turnus, and twelve women-captives likewise, and twelve
 men with their arms, and the domain of King Latinus. And thou,
 Euryalus, who art nearer of age to me, shalt be next to myself in all
 things."
-
 Then Euryalus made answer: "One thing I ask thee more. I have a
 mother, of the lineage of Priam. To her I say not farewell, not being
 able to endure her tears. Do thou care for her, if she be bereaved of
 me." And Iülus said: "She shall be as my mother to me."
-
 Then he gave him his own sword, with its scabbard of ivory, and
 Mnestheus gave to Nisus a lion's skin, and Aletes a helmet. And all
 went with them to the gates, with many prayers and vows; also Iülus,
 being wise beyond his years, sent many messages to his father.
-
 Then they crossed the moat, and came upon the enemy as they slept,
 Nisus being before, and Euryalus keeping watch lest any should assail
 them from behind. And first Nisus slew Rhamnes as he slept: an augur
@@ -3777,15 +3136,11 @@ did they leave behind them; but Euryalus took a sword-belt with knobs
 of gold from Rhamnes--Cædicus gave it to Remulus of Tibur, and he to
 his grandson, from whom Rhamnes had won it in war--and put on his head
 the helmet of Messapus. So they departed from the camp.
-
 But it so chanced that three hundred horsemen, with Volscens their
 leader, were riding to the camp from the city. And as they came nigh,
 one of them espied, in the light of the moon, the helmet which
 Euryalus, being but a youth and unwary, had put on him. And Volscens
 cried, "Who are ye? Whither do ye go?"
-
-  [Illustration: NISUS AND EURYALUS.]
-
 But they answered nothing, making haste to fly. Then Volscens
 commanded that they should keep the wood on every side. Very thick it
 was with dark ilex-trees and brambles. And Euryalus, indeed, being
@@ -3812,12 +3167,10 @@ whose stalk is broken. Then rushed Nisus into the midst, thinking only
 how he might slay Volscens; nor could the enemy stay him, but that he
 thrust his sword into his mouth and slew him. And afterwards, being
 pierced with many wounds, he fell dead upon the body of his friend.
-
 But when the horsemen were come to the camp, they found the slaughter
 that had been done. And when the day dawned they set the battle in
 array against the men of Troy, and the heads of Nisus and Euryalus
 they fixed upon poles, and showed them.
-
 But when the report of these things came to the ears of the mother of
 Euryalus, she threw down her distaff, and hasted through the camp; and
 coming to the wall, she cried, "Is it thus I see thee, my son? Why was
@@ -3826,22 +3179,9 @@ thine eyes or wrap thee in the garments which I have made, solacing my
 cares with the labours of the loom. Slay me with your spears, ye
 Latins; or thou, great Jupiter, smite me with thy thunder, since I may
 not rid me otherwise of this hateful life."
-
-  [Illustration: THE MOTHER OF EURYALUS RECEIVING THE NEWS OF
-    HIS DEATH.]
-
 But when with her wailing she touched the hearts of the men so that
 they forgat their valour, Ilioneus and Iülus commanded Idæus and Actor
 that they should lay hands upon her and carry her to her dwelling.
-
-
-
-
-CHAPTER XXI.
-
-THE BATTLE AT THE CAMP.
-
-
 And now the trumpet gave the signal for battle. First the Volscians
 drew near to the wall. These held their shields over their heads,
 joining them in close array so that they were like unto the shell of a
@@ -3855,7 +3195,6 @@ fashion, but cast all manner of javelins and the like against the men
 of Troy. And Mezentius the Tuscan came on, shaking a lighted torch of
 pine in his hand, and Messapus tore down the rampart and called for a
 scaling-ladder, that he might mount up into the breach.
-
 Now there was a tower upon the wall, which the Italians sought to
 take, and the men of Troy to defend it cast stones and darts through
 the loopholes thereof. On to this Turnus cast a torch, setting fire to
@@ -3877,7 +3216,6 @@ side and on that. For Ilioneus smote Lucetius when he would have set
 fire to the gates, and Capys slew Privernus, and Mezentius, having
 cast away his spear, smote the son of Arcens with a bullet of lead
 from his sling.
-
 And now Iülus, having used his bow aforetime on beasts of the field
 only, now first drew it against a man, even against Numanus, who had
 to wife the sister of Turnus. For this Numanus, thinking himself to be
@@ -3891,7 +3229,6 @@ subdues us not, for when our hair is white yet do we cover it with the
 helmet. But ye with your mantles of purple and saffron, and sleeved
 tunics, and ribboned mitres, lovers of sleep and of the dance, ye
 men, nay rather ye women, of Phrygia, what do ye here?"
-
 But the young Iülus endured not to hear such boasting. He fixed an
 arrow in his bow and drew the string, which was of horsehair, and ere
 he let fly, he cried to Jupiter, "Help me now, great Father, so will I
@@ -3913,7 +3250,6 @@ more." So saying he vanished out of their sight. But the chiefs knew
 him who he was, yea, and heard the rattle of his quiver as he
 departed. And they suffered not Iülus to draw his bow again. But all
 the more the battle raged along the walls.
-
 Now there were two youths, sons of Alcanor of Mount Ida, tall as
 pine-trees; and their names were Pandarus and Bitias. These having
 charge of the gate opened it, and standing on the right hand and on
@@ -3921,7 +3257,6 @@ the left, even as towers, bade the enemy enter. And many of these,
 seeing the open gate, rushed forward, but fell slain upon the
 threshold. And now the men of Troy took heart, and pressed on beyond
 the walls.
-
 But when Turnus heard tidings of these things he made haste to the
 gate. And first he slew Antiphates, who was a son of Sarpedon, and
 others also, and Bitias himself with them. Not with a javelin did he
@@ -3951,7 +3286,6 @@ there had come an end that day to the war and to the whole nation of
 Troy. But he thought not of it, caring only to slay the enemy. Many
 did he smite, some on the back as they fled, and some in front; among
 them Amycus the hunter, and Clytius the singer, whom the Muses loved.
-
 But now the chiefs of Troy, Mnestheus and Sergestus, began to gather
 the people together, and to make head against Turnus. And Mnestheus
 cried, "Whither will ye flee? Have ye any walls beside? Shall one man
@@ -3968,7 +3302,6 @@ stricken off, and the shield was shattered with blows; and the sweat
 poured off from him, and scarce could he breathe, till at the last,
 having now come to the river, he plunged therein, and so returned to
 his companions.
-
 And still the battle grew fiercer and fiercer about the walls, and the
 ring of them that defended the camp grew thinner and thinner. There
 stood Asius, the son of Imbrasus, and Clarus and Themon, brothers of
@@ -3976,15 +3309,6 @@ Sarpedon the Lycian, and Acmon, the brother of Mnestheus, and others
 with them. And in the midst stood the young Iülus, with his comely
 head uncovered, like to a jewel that is set in gold or ivory, or that
 is compassed about with boxwood or terebinth.
-
-
-
-
-CHAPTER XXII.
-
-THE BATTLE ON THE SHORE.
-
-
 In the meanwhile Æneas had made alliance with Tarchon and the Tuscans.
 For when he had expounded all things to Tarchon their chief, telling
 him withal whence he had come, the people, believing that all things
@@ -3995,19 +3319,16 @@ the image of the goddess Ida. Pallas also sat beside him, and asked
 him, now concerning the stars by which men guide their ways at night,
 and now concerning the things which he had himself endured by land and
 sea.
-
 After him came Massicus, in the Tiger, with whom were a thousand men
 from Clusium and Cosæ; and Abas, with six hundred from Populonia; and
 from Ilva, rich in mines, three hundred more. Asilas also, the
 soothsayer, came leading a thousand men from Pisa; and Astyr, the
 fairest of men, with three hundred from Cære and from the corn-fields
 of Minio and from Pyrgi.
-
 Also the Ligurians came, with Cinyras, son of Cycnus, who had for his
 crest swan feathers; and his ship was called the Centaur. And Ocnus
 came from Mantua in the Mincius, and five hundred with him; and
 Aulestes in the Triton; and the number of the ships was thirty in all.
-
 And now the night had fallen, and as Æneas sat at the helm, for care
 suffered him not to sleep, lo! there appeared to him a troop of
 Nymphs, which once had been his ships. And one of these, by name
@@ -4020,7 +3341,6 @@ with the arms which Vulcan hath wrought for thee. To-morrow thou
 shalt lay many Latins low in death." And as she spake she pushed the
 ship with her hand, and it sped along through the waters and the rest
 also with it.
-
 And when the day was come, Æneas commanded that all should make them
 ready for battle. And now the camp was in his sight, as he stood on
 the stern and lifted in his left hand a flashing shield. Much did the
@@ -4031,7 +3351,6 @@ as if a flame poured forth, from his helmet and his shield, bright as
 is a comet when it shines in the night-time red as blood, or as the
 Dog Star in the hot summer-tide with baleful light bringing fevers to
 the race of men.
-
 Yet did not Turnus lose heart, but would occupy the shore, and hinder
 from landing those that came. Wherefore he cried, "Now have ye that
 which ye wished for. Lo! the enemy hides not himself behind a wall,
@@ -4039,7 +3358,6 @@ but meets us face to face. Remember wife and child and home and the
 great deeds of your fathers. Let us meet them on the shore ere yet
 their footing is firm." And he thought within himself who should watch
 the walls, and who should meet the enemy when he would gain the shore.
-
 But in the meanwhile Æneas landed his men on gangways from the ships.
 And some leapt on shore, having watched for the ebb of the waves, and
 some ran along the oars. Tarchon also, the Etrurian, having spied a
@@ -4047,7 +3365,6 @@ place where the sea broke not in waves, commanded his men that they
 should beach the ships. Which indeed they did without harm. Only the
 ship of Tarchon himself was caught upon a ridge and the men thrown
 therefrom. Yet these also, after a while, got safe to the shore.
-
 Then did Æneas do great deeds against the enemy. For first he slew
 Theron, who surpassed all men in stature, smiting through his coat of
 mail; and Cisseus and Gyas, who wielded clubs after the manner of
@@ -4064,7 +3381,6 @@ way. And many others fell on this side and on that, for they fought
 with equal fortune. On the very threshold of Italy they fought, and
 neither would the Italians give place nor yet the men of Troy, for
 foot was planted close to foot, and man stood fast by man.
-
 In another part of the battle Pallas fought with his Arcadians. And
 when he saw that they fled, not being wont to fight on foot (for by
 reason of the ground they had sent away their horses), he cried, "Now,
@@ -4095,7 +3411,6 @@ both to behold and of equal age, and for both it was ordained that
 they should not return to their native country. Yet they met not in
 battle, seeing that the doom of each was that he should fall by a
 greater hand.
-
 And now the nymph Juturna, who was sister to Turnus, bade her brother
 haste to the help of Lausus. And when he was come, he cried to the
 Latins, "Give place: I only will deal with Pallas. I only would that
@@ -4129,7 +3444,6 @@ slew their husbands in one night. But even then the time was very near
 when Turnus would wish that he had left that spoil untouched. And
 afterwards, with much groaning and weeping, the companions of Pallas
 laid him upon a shield and bare him back.
-
 And now tidings came to Æneas that it fared ill with his men, and that
 Pallas was slain. Across the field he sped, and all his heart was full
 of wrath against Turnus and pity for the old man Evander; and first he
@@ -4159,7 +3473,6 @@ thus before. Die! and desert not thy brother." And he thrust the sword
 into his breast. Thus did Æneas deal death through the host, even as
 he had been the giant Typhoeus with the hundred hands. And when Iülus
 and the men of Troy beheld him they broke forth from the camp.
-
 And now Juno bethought her how she might save Turnus, whom she loved.
 So she caused that there should pass before his eyes an image as of
 Æneas, which seemed to defy him to battle. And when Turnus would have
@@ -4174,7 +3487,6 @@ Drown me, ye winds and waves, or drive me where no man may see me
 more." Thrice he would have cast himself into the sea; thrice would he
 have slain himself with the sword; but Juno forbad, and brought him
 safe to the city of Daunus, his father.
-
 In the meanwhile King Mezentius joined the battle. Nor could the men
 of Troy, nor yet the Tuscans, stay him. Many valiant men he slew, as
 Mimas, whom his mother Theano bare the same night that Hecuba bare
@@ -4186,7 +3498,6 @@ cried, "Whoever thou art, thou goest not long unpunished: a like doom
 awaits thee; and in this land shalt thou find thy grave," Mezentius
 laughed, and made answer, "Die thou, but let the king of Gods and men
 see to me."
-
 But after awhile Æneas spied Mezentius as he fought, and made haste to
 meet him. Nor did the king give place, but cried, "Now may this right
 hand and the spear which I wield be my gods, and help me." And he cast
@@ -4217,9 +3528,6 @@ delight, and let thy father care as he will for thy body; and take
 this comfort in thy death, that thou fallest by the hand of the great
 Æneas." Then he lifted him from the earth, and bade his companions
 carry him away.
-
-  [Illustration: ÆNEAS AND THE BODY OF LAUSUS.]
-
 In the mean time his father tended his wounds, leaning on the trunk of
 a tree by the Tiber bank. His helmet hung from a branch, and his arms
 lay upon the ground, while his followers stood around. And ever he
@@ -4232,7 +3540,6 @@ Do I live by thy death? And indeed, my son, I did dishonour to thee by
 my misdeeds. Would that I had given my guilty life for thine! But
 indeed I die; nevertheless not yet, for I have first somewhat that I
 must do."
-
 Then he raised himself on his thigh, and commanded that they should
 bring his horse. His pride it was and comfort, and had borne him
 conqueror from many fights. Very sad was the beast, and he spake to
@@ -4240,7 +3547,6 @@ it, saying, "O Rhœbus, thou and I have lived long enough, if indeed
 aught on earth be long. To-day thou shalt bring back the head and the
 arms of Æneas, and so avenge my Lausus; or thou shalt die with me. For
 a Trojan master thou wilt not, I know, endure."
-
 Then he mounted the horse and took spears in both his hands, and so
 hasted to meet Æneas. Thrice he called him by name, and Æneas rejoiced
 to hear his voice, and cried, "Now may Jupiter and Apollo grant that
@@ -4262,15 +3568,6 @@ Yet grant me this one thing. Thou knowest how my people hateth me.
 Keep my body, I pray thee, from them, that they do it no wrong. And
 let my son be buried with me in my grave." And he gave his throat to
 the sword, and feared not.
-
-
-
-
-CHAPTER XXIII.
-
-THE COUNCIL.
-
-
 So the battle had an end. And the next day, early in the morning,
 Æneas paid his vows. For he took an oak-tree, and lopped the branches
 round about, and set it on a mound. And thereon he hung, for a trophy
@@ -4285,7 +3582,6 @@ first light to-morrow. And now let us bury the dead, doing such honour
 to them as we may, for indeed they have purchased a country for us
 with their own blood. But first will I send back Pallas to the city of
 Evander."
-
 Then he went to the tent where the dead body was laid, and old Acœtes
 kept watch thereby--Acœtes, who had been armour-bearer to Evander,
 and now had followed his son, but with evil fortune; and the women of
@@ -4300,7 +3596,6 @@ And now haply, old man, thou makest offerings and prayers for him who
 now hath no part nor lot in the Gods of heaven. Yet, at least, thou
 wilt see that he beareth an honourable wound. But what a son thou
 losest, O Italy! and what a friend, thou, Iülus!"
-
 Then he chose a thousand men who should go with the dead and share
 the father's grief. After this they made a bier of arbutus boughs and
 oak, and put also over it a canopy of branches, and laid the dead
@@ -4317,7 +3612,6 @@ else Turnus had taken; and then followed the whole company, the men of
 Troy, the Arcadians, and the Tuscans, with arms reversed. And Æneas
 said, "The same cares and sorrows of war call me elsewhere. Farewell,
 my Pallas, for ever!" And he departed to the camp.
-
 And now there came ambassadors from the city, having olive-branches
 about their heads, praying for a truce, that they might bury their
 dead. Then Æneas made answer, "Ye ask peace for the dead; fain would I
@@ -4326,7 +3620,6 @@ of the Fates. And if your king changeth from me and my friendship to
 Turnus, I am blameless. Yet methinks Turnus should rather have taken
 this danger upon himself. And even now, if he be willing to fight with
 me, man to man, so be it. But now bury ye your dead."
-
 Then they made a truce for twelve days. And the men of Troy and the
 Latins laboured together, hewing wood upon the hills, pine and cedar
 and mountain ash. And the men of Troy built great piles upon the shore
@@ -4334,7 +3627,6 @@ and burned the dead bodies of their companions thereon, and their arms
 with them. And the Latins did likewise. Also they that had been chosen
 to do this thing carried the body of Pallas to his city. And King
 Evander and the Arcadians made a great mourning for him.
-
 But when they had made an end of burning the dead there arose a great
 tumult in the city, for many had lost husband, or brother, or son.
 Wherefore they cried out that it was an evil war, and they cursed the
@@ -4363,7 +3655,6 @@ she wrought. 'Twas he and Hector who for ten years bore up against our
 arms: both valiant men and strong, and this man the dearer to the
 Gods. Make peace with him, if ye may; but beware that ye meet him not
 in war.'"
-
 And when they had made an end of speaking, there was a murmur in the
 council, some saying one thing, and some another. Then King Latinus
 said from his throne, "This is an ill time for counsel when the enemy
@@ -4379,7 +3670,6 @@ them twelve ships, or more, if they be able to fill them, and let them
 depart in peace. Now therefore let us send ambassadors, even a hundred
 men, and let them carry gifts, talents of gold, and ivory, and also a
 throne and a robe, which are the emblems of kingship."
-
 Then spake Drances. (Now Drances had great jealousy of Turnus.
 Bountiful was he, and eloquent, and skilful in counsel and debate, but
 feeble in fight.) "This matter about which thou askest us, O King, is
@@ -4394,7 +3684,6 @@ country. Lo! we all ask it of thee, even I, whom thou holdest to be
 thine enemy. But if thou wilt not, counting a royal wife to be more
 than thy country, call not on us to die for thee, but meet thy rival
 face to face."
-
 Then in great wrath Turnus made answer, "Thou hast always many words
 at command, O Drances, and, when the senators are called, art ever the
 first to come. But where is thy valour? Where are the trophies which
@@ -4416,7 +3705,6 @@ if they would have me fight man to man, I refuse not in such a cause.
 Let him be mighty as Achilles, and don the arms which Vulcan hath
 made. I refuse not the battle, for my life is for you and for your
 king."
-
 But while they disputed there came a messenger unto the palace
 bringing tidings of fear. For the men of Troy, he said, were marching
 in battle line from their camp. Then there arose a great uproar, some
@@ -4425,15 +3713,6 @@ birds that settle in some deep wood, or of swans by the mouth of Po.
 And Turnus cried, "Call your councils, my friends, speak of peace as
 you sit. But the enemy is at the gate." And he made haste and rushed
 forth from the senate-house.
-
-
-
-
-CHAPTER XXIV.
-
-THE BATTLE AT THE CITY.
-
-
 Then Turnus commanded that of the chiefs some should set the battle in
 array, and some should fortify the gates, and some should follow after
 himself. And men dug trenches before the gates, and gathered store of
@@ -4455,7 +3734,6 @@ city: in the mouth thereof will I lay an ambush; do thou, therefore,
 meet the Tuscan horsemen in battle, having with thee Messapus and the
 horsemen of Tibur." And when he had said this he departed and laid the
 ambush against Æneas.
-
 In the mean time Diana, where she sat in heaven, spake to Opis, who
 was one of the nymphs that waited on her: "Camilla goeth forth to
 battle, who is dearer to me than all virgins beside, and hath been so
@@ -4488,7 +3766,6 @@ where they begin even now this evil battle. And take from thy quiver
 an avenging arrow, and whosoever shall harm the virgin, be he man of
 Troy or Italian, shall pay the penalty. But her will I carry back to
 her native country, neither shall any man spoil her of her arms."
-
 In the meanwhile Æneas and his army were come near to the walls. And
 first the horsemen ran together against each other, holding their
 spears forth in front. In this battle Tyrrhenus the Tuscan met
@@ -4530,9 +3807,6 @@ the virgin cried, "Thinkest thou to escape me thus, thou fool? Never
 shalt thou see thy father, the crafty Aunus, again." And she made
 haste and outran the horse, and catching the reins in her hands, stood
 before him and slew him.
-
-  [Illustration: CAMILLA AND THE SON OF AUNUS.]
-
 Then did Tarchon the Tuscan rebuke his horsemen, calling each by
 his name, and saying, "What fear, what baseness, is this, ye Tuscans?
 Shall a woman drive you before her? Ready enough are ye for the dance,
@@ -4544,7 +3818,6 @@ so did Tarchon carry him off, and spy out a place where he might smite
 him, and Venulus strove amain to keep the sword from his throat. And
 all the men of Troy and the Tuscans charged again when they saw their
 chief do so valiantly.
-
 But all the while Arruns watched the virgin Camilla, that he might
 take her unawares. Now there was a certain Chloreus, priest of Cybelé,
 who rode through the battle, very splendid to behold. For his horse
@@ -4571,9 +3844,6 @@ dearest to her of all her companions, "Acca, my sister, my strength
 faileth me. Bid Turnus that he join the battle, and keep the men of
 Troy from the city." And she loosed hold of the reins, and fell to the
 earth; and the battle grew fiercer as she lay.
-
-  [Illustration: THE DEATH OF CAMILLA.]
-
 But when the nymph Opis saw that she was dead, she groaned, and cried,
 "O Virgin, thou hast paid the penalty of thy deed, in that thou
 defiedst the men of Troy. Neither hath it profited thee to be the
@@ -4587,7 +3857,6 @@ thy doom, in that thou hast slain the virgin Camilla." And she drew
 the bow till the ends thereof came close together, and her left hand
 was on the arrowhead and her right hand on the string. And even as
 Arruns heard the clang of the bow the arrow smote him that he died.
-
 But when Camilla was dead her companions fled, and the Rutulians
 also, and the chiefs were scattered and the battalions left desolate.
 And there rose a great cloud of dust that rolled ever nearer the city;
@@ -4598,7 +3867,6 @@ the gates and drave back with arms such as would have entered. And
 then was slaughter and confusion without end. And even the women upon
 the walls cast javelins with their hands, and thrust with stakes of
 wood that had been charred with fire, even as with spears.
-
 But now there came ill tidings to Turnus as he lay in ambush in the
 wood, even that Camilla was dead, and that the enemy had the mastery.
 Wherefore he rose up from his place, and came out upon the plain; and
@@ -4606,15 +3874,6 @@ even as he rose up, Æneas had won his way through the wood and
 overpassed the ridge. Then did they both haste towards the walls. And
 Æneas saw Turnus, and knew him, and Turnus also saw Æneas; but the
 darkness hindered them that they should not fight together that day.
-
-
-
-
-CHAPTER XXV.
-
-THE BROKEN TREATY.
-
-
 Prince Turnus, seeing that the Latins had fled in the battle, and that
 men looked to him that he should perform that which he had promised,
 even to meet Æneas face to face, was filled with rage. Even as a lion
@@ -4625,7 +3884,6 @@ me, my father, shall these cowards of Troy go back from that which
 they have covenanted. I will meet this man face to face, and slay him
 while ye look on; or, if the Gods will that he vanquish me so, he
 shall rule over you, and have Lavinia to wife."
-
 But King Latinus made answer: "Yet think awhile, my son. Thou hast the
 kingdom of thy father Daunus; and there are other noble virgins in
 Latium whom thou mayest have to wife. Wilt thou not then be content?
@@ -4637,16 +3895,13 @@ Twice have we fled in the battle, and now the city only is left to us.
 If I must yield me to these men, let me yield whilst thou art yet
 alive. For what doth it profit me that thou shouldst die? Nay, but all
 men would cry shame on me if I gave thee to death!"
-
 Now for a space Turnus spake not for wrath. Then he said, "Be not
 troubled for me, my father. For I, too, can smite with the spear; and
 as for this Æneas, his mother will not be at hand to snatch him in a
 cloud from my sight."
-
 Then Amata cried to him, saying, "Fight not, I beseech thee, with
 these men of Troy, my son; for surely what thou sufferest I also shall
 suffer. Nor will I live to see Æneas my son-in-law."
-
 And Lavinia heard the voice of her mother, and wept. As a man stains
 ivory with crimson, or as roses are seen mixed with lilies, even so
 the virgin's face burned with crimson. And Turnus, regarding her,
@@ -4655,7 +3910,6 @@ idle words, my mother, for to this battle I must go. And do thou,
 Idmon the herald, say to the Phrygian king, 'To-morrow, when the sun
 shall rise, let the people have peace, but we two will fight together.
 And let him that prevaileth have Lavinia to wife.'"
-
 Then first he went to the stalls of his horses. The wife of the North
 Wind gave them to Pilumnus. Whiter than snow were they, and swifter
 than the wind. Then he put the coat of mail about his shoulders, and
@@ -4665,14 +3919,12 @@ the river of Styx. His spear also he took where it stood against a
 pillar, saying, "Serve me well, my spear, that hast never failed me
 before, that I may lay low this womanish robber of Phrygia, and soil
 with dust his curled and perfumed hair."
-
 The next day the men of Italy and the men of Troy measured out a
 space for the battle. And in the midst they builded an altar of turf.
 And the two armies sat on the one side and on the other, having fixed
 their spears in the earth and laid down their shields. Also the women
 and the old men stood on the towers and roofs of the city, that they
 might see the fight.
-
 But Queen Juno spake to Juturna, the sister of Turnus, saying, "Seest
 thou how these two are now about to fight, face to face? And indeed
 Turnus goeth to his death. As for me, I endure not to look upon this
@@ -4680,7 +3932,6 @@ covenant or this battle. But if thou canst do aught for thy brother,
 lo! the time is at hand." And when the Nymph wept and beat her breast,
 Juno said, "This is no time for tears. Save thy brother, if thou
 canst, from death; or cause that they break this covenant."
-
 After this came the kings, that they might make the covenant together.
 And King Latinus rode in a chariot with four horses, and he had on his
 head a crown with twelve rays of gold, for he was of the race of the
@@ -4694,14 +3945,12 @@ Latins should serve the men of Troy. Let the nations be equal one with
 the other. The gods that I bring we will worship together, but King
 Latinus shall reign as before. A new city shall the men of Troy build
 for me, and Lavinia shall call it after her own name."
-
 Then King Latinus sware, calling on the Gods that are above and the
 Gods that are below, saying, "This covenant shall stand for ever,
 whatsoever may befall. As sure as this sceptre which I bear--once it
 was a tree, but a cunning workman closed it in bronze, to be the glory
 of Latium's kings--shall never again bear twig or leaf, so surely
 shall this covenant be kept."
-
 But the thing pleased not the Latins; for before, indeed, they judged
 that the battle would not be equal between the two; and now were they
 the more assured, seeing them when they came together, and that Turnus
@@ -4714,7 +3963,6 @@ battle for you all? For count these men: surely they are scarce one
 against two. And if he be vanquished, what shame for you! As for him,
 indeed, though he die, yet shall his glory reach to the heavens; but
 ye shall suffer disgrace, serving these strangers for ever."
-
 And when she saw that the people were moved, she gave also a sign from
 heaven. For lo! an eagle that drave a crowd of sea-fowl before him,
 swooped down to the water, and caught a great swan; and even while the
@@ -4725,7 +3973,6 @@ them ready for battle. And the augur Tolumnius cried, "This is the
 token that I have looked for. For this eagle is the stranger, and ye
 are the birds, which before, indeed, have fled, but shall now make him
 to flee."
-
 And he ran forward and cast his spear, smiting a man of Arcadia below
 the belt, upon the groin. One of nine brothers was he, sons of a
 Tuscan mother, but their father was a Greek; and they, when they saw
@@ -4743,7 +3990,6 @@ him to the ground, so slew him. And when Podalirius pursued Alsus the
 shepherd, and now held his sword over him ready to strike, the other
 turned, and with a battle-axe cleft the man's head from forehead to
 chin.
-
 But all the while the righteous Æneas, having his head bare, and
 holding neither spear nor sword, cried to the people, "What seek ye?
 what madness is this? The covenant is established, and I only have the
@@ -4751,15 +3997,6 @@ right to do battle." But even while he spake an arrow smote him,
 wounding him. But who let it fly no man knoweth; for who, of a truth,
 would boast that he had wounded Æneas? And he departed from the
 battle.
-
-
-
-
-CHAPTER XXVI.
-
-THE DEATH OF TURNUS.
-
-
 Now when Turnus saw that Æneas had departed from the battle he called
 for his chariot. And when he had mounted thereon he drave it through
 the host of the enemy, slaying many valiant heroes, as Sthenelus and
@@ -4778,7 +4015,6 @@ wounded him. And when the man set his shield before him, and made at
 Turnus with his sword, the wheels dashed him to the ground, and Turnus
 struck him between the helmet and the breast-plate, and smote off his
 head.
-
 But in the meanwhile Mnestheus and Achates and Iülus led Æneas to the
 camp, leaning on his spear. Very wrath was he, and strove to draw
 forth the arrow. And when he could not, he commanded that they should
@@ -4798,7 +4034,6 @@ purple flower. The wild goats know it well if so be that they have
 been wounded by arrows. This, then, Venus, having hidden her face,
 brought and dipped into the water, and sprinkled there with ambrosia
 and sweet-smelling panacea.
-
 And Iapis, unawares, applied the water that had been healed; and lo!
 the pain was stayed and the blood was staunched, and the arrow came
 forth, though no man drew it, and Æneas's strength came back to him as
@@ -4825,7 +4060,6 @@ saw it coming, and put his shield over him, resting on his knee. Yet
 did the spear smite him on the helmet-top and shear off the crest.
 Then indeed was his wrath kindled, and he rushed into the army of the
 enemy, slaying many as he went.
-
 Then was there a great slaughter made on this side and on that. But
 after a while Venus put it into the heart of Æneas that he should lead
 his army against the city. Therefore he called together the chiefs,
@@ -4834,7 +4068,6 @@ now to my words, and delay not to fulfil them, for of a truth Jupiter
 is on our side. I am purposed this day to lay this city of Latinus
 even with the ground, if they still refuse to obey. For why should I
 wait for Turnus till it please him to meet me in battle?"
-
 Then did the whole array make for the walls of the city. And some
 carried firebrands, and some scaling-ladders, and some slew the
 warders at the gates, and cast javelins at them who stood on the
@@ -4843,7 +4076,6 @@ have opened the gates that the men of Troy might enter, and others
 made haste to defend the walls. Hither and thither did they run with
 much tumult, even as bees in a hive in a rock which a shepherd hath
 filled with smoke, having first shut all the doors thereof.
-
 Then also did other ill fortune befall the Latins, for when Queen
 Amata saw from the roof of the palace that the enemy were come near to
 the walls, and saw not anywhere the army of the Latins, she supposed
@@ -4853,7 +4085,6 @@ garment wherewith she was clad, and hanged herself from a beam of the
 roof. Then did lamentation go through the city, for the women wailed
 and tore their hair, and King Latinus rent his clothes and threw dust
 upon his head.
-
 But the cry that went up from the city came to the ears of Turnus
 where he fought in the furthest part of the plain. And he caught the
 reins and said, "What meaneth this sound of trouble and wailing that I
@@ -4867,7 +4098,6 @@ Ufens the Æquian? And shall I suffer this city to be destroyed? Shall
 this land see Turnus flee before his enemies? Be ye kind to me, O Gods
 of the dead, seeing that the Gods of heaven hate me. I come down to
 you a righteous spirit, and not unworthy of my fathers."
-
 And even as he spake came Saces, riding on a horse that was covered
 with foam, and on his face was the wound of an arrow. And he cried, "O
 Turnus, our last hopes are in thee. For Æneas is about to destroy the
@@ -4876,14 +4106,12 @@ sore tried with doubt, and the Queen hath laid hands upon herself and
 is dead. And now only Messapus and Atinas maintain the battle, and the
 fight grows fierce around them, while thou drivest thy chariot about
 these empty fields."
-
 Then for a while Turnus stood speechless, and shame and grief and
 madness were in his soul; and he looked to the city, and lo! the fire
 went up even to the top of the tower which he himself had builded upon
 the walls to be a defence against the enemy. And when he saw it, he
 cried, "It is enough, my sister; I go whither the Gods call me. I will
 meet with Æneas face to face, and endure my doom."
-
 And as he spake he leapt down from his chariot, and ran across the
 plain till he came near to the city, even where the blood was deepest
 upon the earth and the arrows were thickest in the air. And he
@@ -4894,7 +4122,6 @@ heard the name of Turnus, left attacking the city, and came to meet
 him, mighty as Athos, or Eryx, or Father Apenninus, that raiseth his
 snowy head to the heavens. And the men of Troy and the Latins and King
 Latinus marvelled to see them meet, so mighty they were.
-
 First they cast their spears at each other, and then ran together, and
 their shields struck one against the other with a crash that went up
 to the sky. And Jupiter held the balance in heaven, weighing their
@@ -4927,7 +4154,6 @@ forth. But while he strove, Juturna, taking again the form of
 Metiscus, ran and gave to Turnus his sword. And Venus, perceiving it,
 wrenched forth the spear from the stump. So the two stood again face
 to face.
-
 Then spake Jupiter to Juno, where she sat in a cloud watching the
 battle, "How long wilt thou fight against fate? What purpose hast thou
 now in thy heart? Was it well that Juturna--for what could she avail
@@ -4935,7 +4161,6 @@ without thy help?--should give back to Turnus his sword? Thou hast
 driven the men of Troy over land and sea, and kindled a dreadful war,
 and mingled the song of marriage with mourning. Further thou mayest
 not go."
-
 And Juno humbly made answer, "This is thy will, great Father; else had
 I not sat here, but stood in the battle smiting the men of Troy. And
 indeed I spake to Juturna that she should help her brother; but aught
@@ -4943,14 +4168,12 @@ else I know not. And now I yield. Yet grant me this. Suffer not that
 the Latins should be called after the name of Troy, nor change their
 speech nor their garb. Let Rome rule the world, but let Troy perish
 for ever."
-
 Then spake with a smile the Maker of all things, "Truly thou art a
 daughter of Saturn, so fierce is the wrath of thy soul! And now what
 thou prayest I give. The Italians shall not change name, nor speech,
 nor garb. The men of Troy shall mingle with them, and I will give them
 a new worship, and call them all Latins. Nor shall any race pay thee
 more honour than they."
-
 Then Jupiter sent a Fury from the pit. And she took the form of a
 bird, even of an owl that sitteth by night on the roof of a desolate
 house, and flew before the face of Turnus and flapped her wings
@@ -4959,7 +4182,6 @@ his hair stood up and his tongue clave to the roof of his mouth. And
 when Juturna knew the sound of the false bird what it was, she cried
 aloud for fear, and left her brother and fled, hiding herself in the
 river of Tiber.
-
 But Æneas came on, shaking his spear that was like unto a tree, and
 said, "Why delayest thou, O Turnus? Why drawest thou back? Fly now if
 thou canst through the air, or hide thyself in the earth." And Turnus
@@ -4988,7 +4210,6 @@ thy father Anchises, and give me back to my own people, if it be but
 my body that thou givest. Yet hast thou conquered, and the Latins have
 seen me beg my life of thee, and Lavinia is thine. Therefore, I pray
 thee, stay now thy wrath."
-
 Then for awhile Æneas stood doubting; aye, and might have spared the
 man, when lo! he spied upon his shoulders the belt of Pallas, whom he
 had slain. And his wrath was greatly kindled, and he cried with a
@@ -4997,171 +4218,103 @@ friends escape me? 'Tis Pallas slays thee with this wound, and takes
 vengeance on thy accursed blood." And as he spake he drave the steel
 into his breast. And with a groan the wrathful spirit passed into
 darkness.
-
-
-THE END.
-
-
-UNWIN BROTHERS, THE GRESHAM PRESS, CHILWORTH AND LONDON.
-
-
-
-
-  _Seventh Thousand, Crown 8vo, price 5s. cloth._
-
-  STORIES FROM HOMER.
-
-  BY THE
-  REV. ALFRED J. CHURCH, M.A.,
-
-  _Head Master of King Edward's School, Retford_;
-  Author of "Stories from Virgil."
-
-  THE ILIAD.
-
-       I. The Quarrel of the Chiefs.
-      II. The Broken Covenant.
-     III. The Battle in the Plain.
-      IV. Hector and Andromaché.
-       V. The Duel of Hector and Ajax.
-      VI. The Adventure of Ulysses and Diomed.
-     VII. The Wounding of the Chiefs.
-    VIII. The Battle at the Wall.
-      IX. The Battle at the Ships.
-       X. The Battle at the Ships (_continued_).
-      XI. The Deeds and Death of Patroclus.
-     XII. The Rousing of Achilles.
-    XIII. The Battle at the River.
-     XIV. The Death of Hector.
-      XV. The Ransoming of Hector.
-
-  THE ODYSSEY.
-
-       I. The Cyclops.
-      II. The Island of Æolus--the Læstrygons--Circé.
-     III. The Regions of the Dead--Scylla--the Oxen of the
-            Sun--Calypso.
-      IV. Telemachus and Penelopé.
-       V. Nestor and Menelaüs.
-      VI. Ulysses on his Raft.
-     VII. Nausicaa and Alcinoüs.
-    VIII. Ulysses and the Swineherd.
-      IX. The Return of Telemachus.
-       X. Ulysses in his Home.
-      XI. The Trial of the Bow.
-     XII. The Slaying of the Suitors.
-
-  WITH TWENTY-FOUR TINTED ILLUSTRATIONS, FROM FLAXMAN'S DESIGNS.
-
-    "A book which ought to become an English classic. It is full
-    of the pure Homeric flavour, and we think we may predict that
-    it will retain its place in our literature."--_Spectator._
-
-    "All Mr. Church's stories are told with rare grace and
-    fidelity."--_Times._
-
-    "We can give Mr. Church no higher praise than that he has
-    succeeded in his undertaking. We doubt whether the first and
-    greatest of story-tellers has ever before been so
-    appropriately rendered for children."--_Academy._
-
-    "Mr. Church has long since proved himself a ripe and good
-    scholar, though he had not given evidence of the special
-    Homeric insight which this charming volume
-    displays."--_Saturday Review._
-
-  SEELEY, JACKSON, AND HALLIDAY,
-  Fleet Street, London.
-
-
-  SERIES OF CHEAP SCHOOL BOOKS.
-
-  _Conducted by the Rev. A. J. CHURCH, M.A.,
-  Head Master of Retford Grammar School._
-
-    The _Saturday Review_ says:--"We cannot too warmly hail this
-    series. If all the schoolmasters in England were to adopt it
-    they would have fewer occasions to complain of boys not
-    having read their notes, and fewer grumblings on the part of
-    patresfamilias at the heavy items of the book bill."
-
-    Each volume of Selections contains sufficient matter for the
-    work of a Term, with Notes by a Competent Editor.
-
-  LATIN.
-
-    First Latin Dictionary. E. S. Morgan, M.A. 2s. 6d.
-    First Latin Grammar. Rev. T. White, LL.D. 1s.
-    Latin Exercise Book. Part I. Rev. A. J. Church, M.A. 8d.
-    Latin Exercise Book. Part II. Rev. A. J. Church, M.A. 8d.
-    Latin Delectus. C. Oakley, M.A. 8d.
-    Easy Latin Reading Book. Rev. H. M. Stephenson, M.A. 8d.
-    Ovid--Elegiac Verse. Rev. A. J. Church, M.A. 8d.
-    Ovid--Metamorphoses. Rev. North Pinder, M.A. 8d.
-    Horace--Select Odes. Rev. W. J. Brodribb, M.A. 8d.
-    Virgil--Æneid, Book VI. Rev. A. J. Church, M.A. 8d.
-    Cæsar--British Expeditions. Rev. F. B. Butler, M.A. 8d.
-    Cicero--Select Passages. Rev. W. J. Brodribb, M.A. 10d.
-    Livy--Select Passages. Rev. E. H. Merriott, M.A. 8d.
-    Phædrus--Select Fables. E. Walford, M.A. 8d.
-    Cornelius Nepos--Select Lives. E. Walford, M.A. 8d.
-    Latin Prose through English Idiom. Rev. E. A. Abbott, D.D. 2s. 6d.
-
-  ENGLISH.
-
-    Milton--Minor Poems. Rev. H. S. Huckin, D.D. 8d.
-    Milton--Samson. Rev. A. J. Church, M.A. 1s.
-    Cowper--Task. Two Books. J. Hales, M.A. 8d.
-    Goldsmith--Poems. Rev. A. R. Vardy, M.A. 8d.
-    English Verse for Repetition. Rev. W. B. Stanford, M.A. 1s.
-    Selections for Practice in Spelling. R. Lomas. 1s.
-
-  MATHEMATICS.
-
-    Algebra, to Quadratic Equations. R. Proude Smith, M.A. 1s.
-    Euclid. L. B. Seeley, M.A. 1s.
-
-  FRENCH.
-
-    French Verse. H. Tarver. 1s. 6d.
-    First French Grammar. H. Tarver. 1s. 6d.
-
-  GREEK.
-
-    Xenophon--Anabasis, Book IV. Rev. North Pinder, M.A. 1s.
-
-  SEELEY, JACKSON, & HALLIDAY 54, Fleet St., London.
-
-
-
-
+_Seventh Thousand, Crown 8vo, price 5s. cloth._
+_Head Master of King Edward's School, Retford_;
+Author of "Stories from Virgil."
+I. The Quarrel of the Chiefs.
+II. The Broken Covenant.
+III. The Battle in the Plain.
+IV. Hector and Andromaché.
+V. The Duel of Hector and Ajax.
+VI. The Adventure of Ulysses and Diomed.
+VII. The Wounding of the Chiefs.
+VIII. The Battle at the Wall.
+IX. The Battle at the Ships.
+X. The Battle at the Ships (_continued_).
+XI. The Deeds and Death of Patroclus.
+XII. The Rousing of Achilles.
+XIII. The Battle at the River.
+XIV. The Death of Hector.
+XV. The Ransoming of Hector.
+I. The Cyclops.
+II. The Island of Æolus--the Læstrygons--Circé.
+III. The Regions of the Dead--Scylla--the Oxen of the
+Sun--Calypso.
+IV. Telemachus and Penelopé.
+V. Nestor and Menelaüs.
+VI. Ulysses on his Raft.
+VII. Nausicaa and Alcinoüs.
+VIII. Ulysses and the Swineherd.
+IX. The Return of Telemachus.
+X. Ulysses in his Home.
+XI. The Trial of the Bow.
+XII. The Slaying of the Suitors.
+"A book which ought to become an English classic. It is full
+of the pure Homeric flavour, and we think we may predict that
+it will retain its place in our literature."--_Spectator._
+"All Mr. Church's stories are told with rare grace and
+fidelity."--_Times._
+"We can give Mr. Church no higher praise than that he has
+succeeded in his undertaking. We doubt whether the first and
+greatest of story-tellers has ever before been so
+appropriately rendered for children."--_Academy._
+"Mr. Church has long since proved himself a ripe and good
+scholar, though he had not given evidence of the special
+Homeric insight which this charming volume
+displays."--_Saturday Review._
+Fleet Street, London.
+_Conducted by the Rev. A. J. CHURCH, M.A.,
+Head Master of Retford Grammar School._
+The _Saturday Review_ says:--"We cannot too warmly hail this
+series. If all the schoolmasters in England were to adopt it
+they would have fewer occasions to complain of boys not
+having read their notes, and fewer grumblings on the part of
+patresfamilias at the heavy items of the book bill."
+Each volume of Selections contains sufficient matter for the
+work of a Term, with Notes by a Competent Editor.
+First Latin Dictionary. E. S. Morgan, M.A. 2s. 6d.
+First Latin Grammar. Rev. T. White, LL.D. 1s.
+Latin Exercise Book. Part I. Rev. A. J. Church, M.A. 8d.
+Latin Exercise Book. Part II. Rev. A. J. Church, M.A. 8d.
+Latin Delectus. C. Oakley, M.A. 8d.
+Easy Latin Reading Book. Rev. H. M. Stephenson, M.A. 8d.
+Ovid--Elegiac Verse. Rev. A. J. Church, M.A. 8d.
+Ovid--Metamorphoses. Rev. North Pinder, M.A. 8d.
+Horace--Select Odes. Rev. W. J. Brodribb, M.A. 8d.
+Virgil--Æneid, Book VI. Rev. A. J. Church, M.A. 8d.
+Cæsar--British Expeditions. Rev. F. B. Butler, M.A. 8d.
+Cicero--Select Passages. Rev. W. J. Brodribb, M.A. 10d.
+Livy--Select Passages. Rev. E. H. Merriott, M.A. 8d.
+Phædrus--Select Fables. E. Walford, M.A. 8d.
+Cornelius Nepos--Select Lives. E. Walford, M.A. 8d.
+Latin Prose through English Idiom. Rev. E. A. Abbott, D.D. 2s. 6d.
+Milton--Minor Poems. Rev. H. S. Huckin, D.D. 8d.
+Milton--Samson. Rev. A. J. Church, M.A. 1s.
+Cowper--Task. Two Books. J. Hales, M.A. 8d.
+Goldsmith--Poems. Rev. A. R. Vardy, M.A. 8d.
+English Verse for Repetition. Rev. W. B. Stanford, M.A. 1s.
+Selections for Practice in Spelling. R. Lomas. 1s.
+Algebra, to Quadratic Equations. R. Proude Smith, M.A. 1s.
+Euclid. L. B. Seeley, M.A. 1s.
+French Verse. H. Tarver. 1s. 6d.
+First French Grammar. H. Tarver. 1s. 6d.
+Xenophon--Anabasis, Book IV. Rev. North Pinder, M.A. 1s.
+SEELEY, JACKSON, & HALLIDAY 54, Fleet St., London.
 Transcriber's Note
-
 Archaic and variable spelling is preserved as printed. This includes
 variation in spelling of proper nouns where both forms appear valid,
 e.g. Lybia and Libya; Halesus and Halæsus; Alethes and Aletes.
-
 Minor punctuation errors and inconsistencies in hyphenation and accent
 usage have been repaired.
-
 Page 60 contains a line beginning, "To whom Æneas, "I have not seen
 nor heard ..."." There may be a word omitted following 'Æneas',
 perhaps 'spake' or 'said' or similar. This occurs in all editions the
 transcriber was able to access, and, as it is impossible to be certain
 whether it was deliberate or an error, it is preserved as printed.
-
 Page 87 contains the line, "Was he moved at all my tears?" The
 transcriber has amended 'my' to 'by' for sense--"Was he moved at all
 by tears?"
-
 Page 119 contains the text, "for thou hast a mighty people and a fierce
 in Latium with whom to do battle." There may be a word missing following
 'fierce'--perhaps 'one'--but as it is impossible to be certain, the text
 is preserved as printed.
-
-
-
-
-
-End of the Project Gutenberg EBook of Stories from Virgil, by Alfred J. Church
-

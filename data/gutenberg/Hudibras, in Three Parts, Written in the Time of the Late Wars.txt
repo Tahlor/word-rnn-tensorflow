@@ -1,98 +1,25 @@
-he Project Gutenberg EBook of Hudibras, by Samuel Butler
-
-Copyright laws are changing all over the world. Be sure to check the
-copyright laws for your country before downloading or redistributing
-this or any other Project Gutenberg eBook.
-
-This header should be the first thing seen when viewing this Project
-Gutenberg file.  Please do not remove it.  Do not change or edit the
-header without written permission.
-
-Please read the "legal small print," and other information about the
-eBook and Project Gutenberg at the bottom of this file.  Included is
-important information about your specific rights and restrictions in
-how the file may be used.  You can also find out about how to make a
-donation to Project Gutenberg, and how to get involved.
-
-
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-
-**eBooks Readable By Both Humans and By Computers, Since 1971**
-
-*****These eBooks Were Prepared By Thousands of Volunteers!*****
-
-
-Title: Hudibras
-
-Author: Samuel Butler
-
-Release Date: January, 2004  [EBook #4937]
-[Yes, we are more than one year ahead of schedule]
-[This file was first posted on March 31, 2002]
-[Most recently updated on April 7, 2002]
-
-Edition: 10
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THE PROJECT GUTENBERG EBOOK, HUDIBRAS ***
-
-
-
-
-HUDIBRAS BY SAMUEL BUTLER
-
-
 Transcriber's Notes:
-
 Credits: This e-text was scanned, proofed and edited with a
 glossary and translations from the Latin by Donal O' Danachair.
 (kodak_seaside@hotmail.com). The text is that of an edition
 published in London, 1805. This e-text is hereby placed in the
 public domain.
-
 Spelling and punctuation: These are the same as in the book as
 far as possible. The AE and OE digraphs have been transcribed
 as two letters. Greek words have been transliterated.
-
 Notes: The notes are identified by letters in the text, thus: <a>.
 In a few cases the note has no text reference: these are indicated <>.
-
 Layout: the line numbers all end in col. 65. View this e-text in a
 monospaced font such as Courier and they will all line up in the
 right margin.
-
 Latin: All translations are by the transcriber. In the notes, they
 immediately follow the Latin text in [square brackets].
 Translations of Latin phrases in the poem are in the glossary.
 Disclaimer: these translations are probably very inaccurate - I
 am no great Latin scholar.
-
-
-
-                            HUDIBRAS
-                               IN
-                           THREE PARTS
-
-                           WRITTEN IN
-
-                    THE TIME OF THE LATE WARS
-                     ---------------------
-                     BY SAMUEL BUTLER, ESQ.
-                     ---------------------
-                              WITH
-                           ANNOTATIONS
-                              AND
-                            AN INDEX
-                             ------
-
-
-
-TO THE READER.
-
-
+---------------------
+---------------------
+------
 Poeta nascitur non fit, [poets are born, not made] is a sentence
 of as great truth as antiquity; it being most certain, that all the
 acquired learning imaginable is insufficient to compleat a poet,
@@ -101,10 +28,8 @@ an art.   And we may, without offence, observe, that many very
 learned men, who have been ambitious to be thought poets,
 have only rendered themselves obnoxious to that satyrical
 inspiration our Author wittily invokes:
-
 Which made them, though it were in spight
 Of nature and their stars, to write.
-
 On the one side some who have had very little human learning,
 but were endued with a large share of natural wit and parts,
 have become the most celebrated (Shakespear, D'Avenant, &c.)
@@ -114,24 +39,17 @@ of other arts and sciences, we are then blessed with those lasting
 monuments of wit and learning, which may justly claim a kind
 of eternity upon earth. And our author, had his modesty
 permitted him, might, with Horace, have said,
-
 Exegi monumentum aere perennius:
-[I have raised a memorial more lasting than bronze]
-
 Or, with Ovid,
-
 Jamque opus exegi, quod nec Jovis ira, nec ignis,
 Nec poterit ferrum, nec edax abolere vetustas.
-[For I have raised a work which neither the rage of Jupiter,
 Nor fire, nor iron, nor consuming age can destroy.]
-
 The Author of this celebrated Poem was of this his last
 composition: for although he had not the happiness of an
 academical education, as some affirm, if may be perceived,
 throughout his whole Poem, that he had read much, and was
 very well accomplished in the most useful parts of human
 learning.
-
 Rapin (in his reflections) speaking of the necessary qualities
 belonging to a poet, tells us, he must have a genius
 extraordinary; great natural gifts; a wit just, fruitful, piercing,
@@ -141,11 +59,9 @@ depends not only on art or study, but is purely the gift of
 heaven, which must be sustained by a lively sense and vivacity;
 judgment to consider wisely of things, and vivacity for the
 beautiful expression of them, &c.
-
 Now, how justly this character is due to our Author, we leave to
 the impartial reader, and those of nicer judgment, who had the
 happiness to be more intimately acquainted with him.
-
 The reputation of this incomparable Poem is so thoroughly
 established in the world, that it would be superfluous, if not
 impertinent, to endeavour any panegyric upon it. King Charles
@@ -156,12 +72,6 @@ conversation. However, since most men have a curiosity to have
 some account of such anonymous authors, whose compositions
 have been eminent for wit or learning, we have, for their
 information, subjoined a short Life of the Author.
-
-
-
-THE AUTHOR'S LIFE.
-
-
 Samuel Butler, the Author of this excellent Poem, was born in
 the Parish of Strensham, in the county of Worcester, and
 baptized there the 13th of Feb. 1612. His father, who was of the
@@ -187,13 +97,11 @@ family; which I mention not for the excellency of them, but to
 satisfy the reader of his early inclinations to that noble art; for
 which also he was afterwards entirely beloved by Mr. Samuel
 Cooper, one of the most eminent painters of his time.
-
 He was after this recommended to that great encourager of
 learning, Elizabeth Countess of Kent, where he had not only the
 opportunity to consult all manner of learned books, but to
 converse also with that living library of learning, the great Mr
 Selden.
-
 Our Author lived some time also with Sir Samuel Luke, who
 was of an ancient family in Bedfordshire but, to his dishonour,
 an eminent commander under the usurper Oliver Cromwell: and
@@ -207,16 +115,12 @@ he wrote it about that time, because he had then the opportunity
 to converse with those living characters of rebellion, nonsense,
 and hypocrisy, which he so livelily and pathetically exposes
 throughout the whole work.
-
 After the restoration of King Charles II. those who were at the
 helm, minding money more than merit, our Author found that
 verse in Juvenal to be exactly verified in himself:
-
 Haud facile emergunt, quorum virtutibus obstat
 Res angusta domi:
-[They do not easily rise whose virtues are held back by the
 straitened circumstances of their home]
-
 And being endued with that innate modesty, which rarely finds
 promotion in princes' courts. He became Secretary to Richard
 Earl of Carbury, Lord President of the Principality of Wales,
@@ -243,9 +147,7 @@ his wit, and easiness of his conversation, had rendered him most
 acceptable to all men; yet he prudently avoided a multiplicity of
 acquaintance, and wisely chose such only whom his discerning
 judgment could distinguish (as Mr. Cowley expresseth it)
-
 From the great vulgar or the small.
-
 And having thus lived to a good old age, admired by all, though
 personally known to few, he departed this life in the year 1680,
 and was buried at the charge of his good friend Mr. Longuevil,
@@ -256,22 +158,10 @@ which parts the yard from the common highway. And since he
 has no monument yet set up for him, give me leave to borrow
 his epitaph from that of Michael Drayton, the poet, as the author
 of Mr. Cowley's has partly done before me:
-
 And though no monument can claim
 To be the treasurer of thy name;
 This work, which ne'er will die, shall be
 An everlasting monument to thee.
-
-
-
-PART I
-
-
-CANTO I
-
-
-THE ARGUMENT
-
 -------------------------------------------------
 Sir Hudibras his passing worth,
 The manner how he sallied forth;
@@ -280,8 +170,6 @@ His horse's virtues, and his own.
 Th' adventure of the bear and fiddle
 Is sung, but breaks off in the middle.
 -------------------------------------------------
-
-
 When civil dudgeon <a> first grew high,
 And men fell out they knew not why?
 When hard words, jealousies, and fears,
@@ -346,7 +234,6 @@ He had such plenty, as suffic'd
 To make some <d> think him circumcis'd;
 And truly so,  he was, perhaps,
 Not as a proselyte, but for claps.
-
 He was in LOGIC a great critic,                                65
 Profoundly skill'd in <e> analytic;
 He could distinguish, and divide
@@ -471,7 +358,6 @@ All this, without a gloss, or comment,                        185
 He could unriddle in a moment,
 In proper terms, such as men smatter
 When they throw out, and miss the matter.
-
 For his Religion, it was fit
 To match his learning and his wit;                            190
 'Twas Presbyterian true blue;
@@ -520,7 +406,6 @@ To whom our knight, by fast instinct
 Of wit and temper, was so linkt,
 As if hypocrisy and nonsense                                  235
 Had got th' advowson of his conscience.
-
 Thus was he gifted and accouter'd;
 We mean on th' inside, not the outward;
 That next of all we shall discuss:
@@ -571,7 +456,6 @@ Cut supplemental noses, which
 Wou'd last as long as parent breech;
 But when the date of NOCK was out,                            285
 Off drop'd the sympathetic snout.
-
 His back, or rather burthen, show'd,
 As if it stoop'd with its own load:
 For as AENEAS <z>bore his sire
@@ -590,12 +474,10 @@ With other vittle, which anon
 We farther shall dilate upon,
 When of his hose we come to treat,
 The cupboard where he kept his meat.
-
 His doublet was of sturdy buff,                               305
 And tho' not sword, yet cudgel-proof;
 Whereby 'twas fitter for his use,
 Who fear'd no blows, but such as bruise.
-
 His breeches were of rugged woollen,
 And had been at the siege of Bullen;                          310
 To old King HARRY so well known,
@@ -638,7 +520,6 @@ But let that pass at present, lest
 We should forget where we digrest,
 As learned authors use, to whom
 We leave it, and to th' purpose come,                         350
-
 His puissant sword unto his side,
 Near his undaunted heart, was ty'd;
 With basket-hilt, that wou'd hold broth,
@@ -663,7 +544,6 @@ It had appear'd with courage bolder
 Than Serjeant BUM invading shoulder.
 Oft had it ta'en possession,
 And pris'ners too, or made them run.
-
 This sword a dagger had t' his page,                          375
 That was but little for his age;
 And therefore waited on him so,
@@ -680,7 +560,6 @@ It had been 'prentice to a brewer,
 Where this and more it did endure;
 But left the trade, <c> as many more
 Have lately done on the same score.                           390
-
 In th' holsters, at his saddle-bow,
 Two aged pistols he did stow,
 Among the surplus of such meat
@@ -693,7 +572,6 @@ They were upon hard duty still,
 And ev'ry night stood centinel,                               400
 To guard the magazine i' th' hose
 From two-legg'd and from four-legg'd foes.
-
 Thus clad and fortify'd, Sir Knight
 From peaceful home set forth to fight.
 But first with nimble, active force                           405
@@ -710,7 +588,6 @@ That he had almost tumbled over                               415
 With his own weight, but did recover,
 By laying hold on tail and main,
 Which oft he us'd instead of rein.
-
 But now we talk of mounting steed,
 Before we further do proceed,                                 420
 It doth behoves us to say something
@@ -749,7 +626,6 @@ For HUDIBRAS wore but one spur;
 As wisely knowing, cou'd he stir
 To active trot one side of's horse,                           455
 The other wou'd not hang an arse.
-
 A squire he had, whose name was RALPH,
 That in th' adventure went his half:
 Though writers, for more stately tone,
@@ -818,12 +694,10 @@ So PHOEBUS, or some friendly muse,
 Into small poets song infuse,
 Which they at second-hand rehearse,
 Thro' reed or bag-pipe, verse for verse.
-
 Thus RALPH became infallible                                  525
 As <g> three or four-legg'd oracle,
 The ancient cup, or modern chair;
 Spoke truth point-blank, tho' unaware.
-
 For MYSTICK LEARNING, wond'rous able
 In <h> magick Talisman and Cabal,                             530
 Whose primitive tradition reaches
@@ -918,7 +792,6 @@ No more than can the Astrologians.
 There they say right, and like true Trojans.
 This RALPHO knew, and therefore took                          620
 The other course, of which we spoke.
-
 Thus was the accomplish'd Squire endu'd
 With gifts and knowledge, per'lous shrew'd.
 Never did trusty Squire with Knight,
@@ -941,7 +814,6 @@ We think 'tis no great matter which
 They're all alike; yet we shall pitch
 On one that fits our purpose most
 Whom therefore thus do we accost:
-
 Thou that with ale, or viler liquors,                         645
 Did'st inspire WITHERS, PRYN <o>, and VICKARS,
 And force them, tho' it was in spite
@@ -962,7 +834,6 @@ Tho' out of languages in which
 They understand no part of speech;
 Assist me but this once, I 'mplore,
 And I shall trouble thee no more.
-
 In western clime there is a town,                             665
 To those that dwell therein well known;
 Therefore there needs no more be said here,
@@ -1012,7 +883,6 @@ To keep the peace 'twixt dog and bear;                        710
 As he believ'd he was bound to do
 In conscience, and commission too;
 And therefore thus bespoke the Squire.
-
 We that <p> are wisely mounted higher
 Than constables in curule wit,
 When on tribunal bench we sit,
@@ -1100,7 +970,6 @@ Did sew them in the skins of bears,
 And then set dogs about their ears:
 From thence, no doubt, th' invention came
 Of this lewd antichristian game.                              800
-
 To this, quoth RALPHO, Verily
 The point seems very plain to me.
 It is an antichristian game,
@@ -1121,7 +990,6 @@ With their inventions, whatsoe'er
 The thing be, whether dog or bear,
 It is idolatrous and pagan,
 No less than worshipping of DAGON.                            820
-
 Quoth HUDIBRAS, I smell a rat;
 RALPHO, thou dost prevaricate:
 For though the thesis which thou lay'st
@@ -1136,7 +1004,6 @@ Tussis pro crepitu, an art
 Under a cough to slur a f--t
 Thou wou'dst sophistically imply,
 Both are unlawful, I deny.
-
 And I (quoth RALPHO) do not doubt                             835
 But bear-baiting may be made out,
 In gospel-times, as lawful as is
@@ -1149,7 +1016,6 @@ And not know which is which, unless
 You measure by their wickedness:
 For 'tis not hard t'imagine whether                           845
 O' th' two is worst; tho' I name neither.
-
 Quoth HUDIBRAS, Thou offer'st much,
 But art not able to keep touch.
 Mira de lente, as 'tis i' th' adage,
@@ -1220,7 +1086,6 @@ Honour is like a <w> widow, won
 With brisk attempt and putting on;
 With ent'ring manfully, and urging;                           915
 Not slow approaches, like a virgin.
-
 'Tis said, as yerst the Phrygian Knight,
 So ours with rusty steel did smite
 His Trojan horse, and just as much
@@ -1233,39 +1098,23 @@ So have I seen, with armed heel,                              925
 A wight bestride a Common-weal;
 While still the more he kick'd and spurr'd,
 The less the sullen jade has stirr'd.
-
-
-
 Notes to Part  I, Canto I.
-
-
-1. When civil a dudgeon, &c.] Dudgeon. Who made the
 alterations in the last Edition of this poem I know not, but they
 are certainly sometimes for the worse; and I cannot believe the
 Author would have changed a word so proper in that place as
 dudgeon for that of fury, as it is in the last Edition. To take in
 dudgeon, is inwardly to resent some injury or affront; a sort of
 grumbling in the gizzard, and what is previous to actual fury.
-
-24 b That could as well, &c.] Bind over to the Sessions as being
 a Justice of the Peace in his County, as well as Colonel of a
 Regiment of Foot in the Parliament's army, and a committee-Man.
-
-38 c As MONTAIGNE, &c.] Montaigne, in his Essays,
 supposes his cat thought him a fool, for losing his time in
 playing with her.
-
-62 d To make some, &c.] Here again is an alteration without
 any amendment; for the following lines,
-
 And truly, so he was, perhaps,
 Not as a Proselyte, but for Claps,
-
 Are thus changed,
-
 And truly so, perhaps, he was;
 'Tis many a pious Christian's case.
-
 The Heathens had an odd opinion, and have a strange reason
 why Moses imposed the law of circumcision on the Jews,
 which, how untrue soever, I will give the learned reader an
@@ -1297,14 +1146,8 @@ Glareanus judged it an implement of the devil. So the Fifth
 Satire has it: It is certain that every miracle can be fitted into the
 philosophical systems which the Epicureans most carefully
 discuss.]
-
-66 e Profoundly skill'd, &c.] Analytick is a part of logic, that
 teaches to decline and construe reason, as grammar does words.
-
-93 f A Babylonish, &c.] A confusion of languages, such as
 some of our modern Virtuosi used to express themselves in.
-
-103 g Or CERBERUS himself, &c.] Cerberus; a name which
 poets give a dog with three heads, which they feigned door-
 keeper of Hell, that caressed the unfortunate souls sent thither,
 and devoured them that would get out again; yet Hercules tied
@@ -1314,16 +1157,10 @@ receive, and, as it were, devour all things. Hercules got the
 better of him, which shews that heroic actions are always
 victorious over time, because they are present in the memory of
 posterity.
-
-115 h That had the, &c.] Demosthenes, who is said to have had
 a defect in his pronunciation, which he cured by using to speak
 with little stones in his mouth.
-
-120 i Than TYCHO BRAHE, &c.] Tycho Brahe was an
 eminent Danish mathematician. Quer. in Collier's Dictionary, or
 elsewhere.
-
-131 k Whatever Sceptick, &c.] Sceptick. Pyrrho was the chief
 of the Sceptick Philosophers, and was at first, as Apollodorus
 saith, a painter, then became the hearer of Driso, and at last the
 disciple of Anaxagoras, whom he followed into India, to see the
@@ -1345,16 +1182,12 @@ writ ten books against the mathematicians or astrologers, and
 three of the Phyrrhonian opinion. The word is derived from the
 Greek SKEPTESZAI, quod est, considerare, speculare. [To
 consider or speculate]
-
-143 l He cou'd reduce, &c.] The old philosophers thought to
 extract notions out of natural things, as chymists do spirits and
 essences; and, when they had refined them into the nicest
 subtilties, gave them as insignificant names as those operators
 do their extractions: But (as Seneca says) the subtiler things are
 they are but the nearer to nothing. So are all their definitions of
 things by acts the nearer to nonsense.
-
-147 m Where Truth, &c.] Some authors have mistaken truth for
 a real thing, when it is nothing but a right method of putting
 those notions or images of things (in the understanding of man)
 into the same and order that their originals hold in nature, and
@@ -1362,22 +1195,16 @@ therefore Aristotle says Unumquodque sicut habet secundum
 esse, ita se habet secundum veritatem. Met. L. ii. [As every
 thing has a secondary essence, therefore it has a secondary
 truth]
-
-148 n Like words congeal'd, &c.] Some report in Nova Zembla,
 and Greenland, mens' words are wont to be frozen in the air,
 and at the thaw may heard.
-
-151 In School-Divinity as able,
-    As o he that Hight, Irrefragable, &c.]
+As o he that Hight, Irrefragable, &c.]
 Here again is another alteration of three or lines, as I think, for
 the worse.
 Some specific epithets were added to the title of some famous
 doctors, as Angelicus, Irrefragabilis, Subtilis, [Angelic,
 Unopposable, Discriminating] &c. Vide Vossi Etymolog.
 Baillet Jugemens de Scavans, & Possevin's Apparatus
-
-153 p A Second THOMAS or at once,
-    To name them all, another DUNCE.
+To name them all, another DUNCE.
 Thomas Aquinas, a Dominican friar, was born in 1224, and
 studied at Cologne and Paris. He new modelled the school-
 divinity, and was therefore called the Angelic Doctor, and Eagle
@@ -1387,7 +1214,6 @@ so that they offered him bishopricks, which he refused with as
 much ardor as others seek after them. He died in the fiftieth year
 of his age, and was canonized by Pope John XII. We have his
 works in eighteen volumes, several times printed.
-
 Johannes Dunscotus was a very learned man, who lived about
 the end of the thirteenth and beginning of the fourteenth
 century. The English and Scotch strive which of them shall have
@@ -1396,12 +1222,9 @@ Northumberland: the Scots alledge he was born at Duns, in the
 Mers, the neighbouring county to Northumberland, and hence
 was called Dunscotus. Moreri, Buchanan, and other Scotch
 historians, are of this opinion, and for proof cite his epitaph:
-
 Scotia me genuit, Anglia suscepit,
 Gallia edocuit, Germania tenet.
-[Scotland bore me, England reared me,
 France instructed me, Germany kept me.]
-
 He died at Cologne, Novem. 8. 1308. In the Supplement to Dr.
 Cave's Historia Literaria, he is said to be extraordinary learned
 in physicks, metaphysicks, mathematicks, and astronomy; that
@@ -1415,8 +1238,6 @@ Thomas Aquinas's doctrine; and, for being a very acute
 logician, was called Doctor Subtilis; [Discriminating (or,
 literally, Slender) Teacher] which was the reason also, that an
 old punster always called him the Lathy Doctor.
-
-158 q As tough as, &c.] Sorbon was the first and most
 considerable college of the university of Paris, founded in time
 reign of St. Lewis, by Robert Sorbon, which name is sometimes
 given to the whole University of Paris, which was founded,
@@ -1429,38 +1250,24 @@ who are called the Society of Sorbon. Those which are received
 among them before they have received their doctor's degree are
 only said to be of the Hospitality of Sorbon. Claud. Hemeraus
 de Acad. Paris. Spondan in Annal.
-
-173 r he knew, &c.] There is nothing more ridiculous than the
 various opinions of authors about the seat of Paradise. Sir.
 Walter Raleigh has taken a great deal of pains to collect them,
 in the beginning of his History of the World; where those, who
 are unsatisfied, may be fully informed.
-
-180 s By a High-Dutch, &c.] Goropius Becanus endeavours to
 prove that High-Dutch was the language that Adam and Eve
 spoke in Paradise.
-
-181 t If either of &c.] Adam and Eve being made, and not
 conceived and formed in the womb had no navels as some
 learned men have supposed, because they had no need of them.
-
-182 u Who first made, &c.] Musick is said to be invented by
 Pythagoras, who first found out the proportion of notes from
 the sounds of hammers upon an anvil
-
-232 w Like MAHOMET's &c.) Mahomet had a tame dove, that
 used to pick seeds out of his ear that it might be thought to
 whisper and inspire him. His ass was so intimate with him, that
 the Mahometans believed it carried him to heaven, and stays
 there with him to bring him back again.
-
-257 x It was Monastick, and did grow
-      In holy Orders by strict Vow.
+In holy Orders by strict Vow.
 He made a vow never to cut his beard until the Parliament had
 subdued the King; of which order of phanatick votaries there
 were many in those times.
-
-281 y So learned TALIACOTIUS &c.] Taliacotius was an
 Italian surgeon, that found out a way to repair lost and decayed
 noses. This Taliacotius was chief surgeon to the Great Duke of
 Tuscany, and wrote a treatise, De Curtis Membris, [Of Cut-off
@@ -1470,8 +1277,6 @@ restoring of lost members, but gives you cuts of the very
 instruments and ligatures he made use of therein; from hence
 our Author (cum poetica licentia [with poetic licence]) has
 taken his simile.
-
-289 z For as AENEAS, &c.] AEneas was the son of Anchises
 and Venus; a Trojan, who, after long travels, came to Italy, and
 after the death of his father-in-law, Latinus, was made king of
 Latium, and reigned three years. His story is too long to insert
@@ -1480,109 +1285,75 @@ laid in ashes, he took his aged father Anchises upon his back,
 and rescued him from his enemies. But being too solicitous for
 his son and household gods, he lost his wife Creusa; which Mr.
 Dryden, in his excellent translation, thus expresseth.
-
 Haste my dear father (tis no time to wait,)
 And load my shoulders with a willing freight.
 Whate'er befals, your life shall be my care;
 One death, or one deliv'rance, we will share.
 My hand shall lead our little son; and you,
 My faithful consort, shall our steps pursue.
-
-337 a -- For ARTHUR, &c.] Who this Arthur was and whether
 any ever reigned in Britain, has been doubted heretofore, and is
 by some to this very day. However, the history of him, which
 makes him one of the nine worthies of the world, is a subject,
 sufficient for the Poet to be pleasant upon.
-
-359 b -- Toledo trusty, &c.] The capital city of New Castile,
 Spain, with an archbishopric and primacy. It was very famous,
 amongst other things, for tempering the best metal for swords,
 as Damascus was and perhaps may be still.
-
-389 c But left the trade, as many more
-      Have lately done, &c.
+Have lately done, &c.
 Oliver Cromwell and Colonel Pride had been both brewers.
-
-433 d That CAESAR's Horse, who, as Fame goes,
-      Had corns upon his Feet and Toes.
+Had corns upon his Feet and Toes.
 Julius Caesar had a horse with feet like a man's. Utebatur equo
 insigni; pedibus prope humanis, modum digitorum ungulis
 fissis. [He rode a horse with this distinction; it had feet like a
 man's, having the hooves split like toes] Suet. in Jul. Cap. 61.
-
-467 c The mighty Tyrian Queen, that gain'd
-      With subtle Shreds a Tract of Land.
+With subtle Shreds a Tract of Land.
 Dido, Queen of Carthage, who bought as much land as she
 could compass with an ox's hide, which she cut into small
 thongs, and cheated the owner of so much ground as served her
 to build Carthage upon.
-
-476 f As the bold, &c.] AEneas, whom Virgil reports to use a
 golden bough for a pass to hell; and taylors call that place Hell
 where they put all they steal.
-
-526 g As three, &c.] Read the great Geographical Dictionary,
 under that word.
-
-520 h In Magick, &c.] Talisman is a device to destroy any sort
 of vermin, by casting their images in metal, in a precise minute,
 when the stars are perfectly inclined to do them all the mischief
 they can. This has been experienced by some modern Virtuosi
 upon rats, mice, and fleas, and found (as they affirm) to produce
 the effect with admirable success.
-
 Raymund Lully interprets cabal, out of the Arabic, to signify
 Scientia superabundans; which his commentator, Cornelius
 Agrippa, by over-magnifying, has rendered a very superfluous
 foppery.
-
-532 i As far as, &c.] The author of Magia Adamica endeavours
 to prove the learning of the ancient Magi to be derived from that
 knowledge which God himself taught Adam in Paradise before
 the fall.
-
-535 And much of Terra Incognita,
-    The intelligible World cou'd say.
+The intelligible World cou'd say.
 The intelligible world is a kind of Terra Del Fuego, or
 Psittacorum Regio[Land of Parrots], &c. discovered only by the
 philosophers; of which they talk, like parrots, what they do not
 understand.
-
-538 k learned &c.] No nation in the world is more addicted to
 this occult philosophy than the Wild-Irish are, as appears by the
 whole practice of their lives; of which see Camden in his
 description of Ireland.
-
-539 l Or Sir AGRIPPA, &c.] They who would know more of
 Sir Cornelius Agrippa, here meant, may consult the Great
 Dictionary.
-
-541 m He ANTHROPOSOPHUS and FLOUD,
-      And JACOB BEHMEN understood.
+And JACOB BEHMEN understood.
 Anthroposophus is only a compound Greek word, which
 signifies a man that is wise in the knowledge of men, as is used
 by some anonymous author to conceal his true name.
 Dr. Floud was a sort of an English Rosy-crucian, whose works
 are extant, and as intelligible as those of Jacob Behmen.
-
-545 n In ROSY-CRUCIAN Lore as learned
-      As he that Vere Adeptus earned.
+As he that Vere Adeptus earned.
 The fraternity of the Rosy-crucians is very like the sect of the
 ancient Gnostici, who called them selves so from the excellent
 learning they pretended to, although they were really the most
 ridiculous sots of mankind.
 Vere Adeptus is one that has commenced in their phanatick
 extravagance.
-
-646 o Thou that with Ale or viler Liquors,
-      Didst inspire WITHERS, PRYN, and VICARS.
+Didst inspire WITHERS, PRYN, and VICARS.
 This Vicars was a man of as great interest and authority in the
 late Reformation as Pryn or Withers, and as able a poet. He
 translated Virgil's AEneids into as horrible Travesty, in earnest,
 as the French Scaroon did in burlesque, and was only outdone
 in his way by the politic author of Oceana.
-
-714 p We that are, &c.] This speech is set down as it was
 delivered by the Knight, in his own words: But since it is below
 the gravity of heroical poetry to admit of humour, but all men
 are obliged to speak wisely alike, and too much of so
@@ -1590,19 +1361,13 @@ extravagant a folly would become tedious and impertinent, the
 rest of his harangues have only his sense expressed in other
 words, unless in some few places, where his own words could
 not be so well avoided.
-
-753 q In bloody, &c.] Cynarctomachy signifies no thing in the
 world but a fight between dogs and bears; though both the
 learned and ignorant agree that in such words very great
 knowledge is contained: And our Knight, as one, or both, of
 these, was of the same opinion.
-
-758 r Or Force, &c.] Averruncate: Another of the same kind,
 which, though it appear ever so learned and profound, means
 nothing else but the weeding of corn.
-
-777 s The Indians fought for the Truth
-      Of th' Elephant and Monkey's Tooth.
+Of th' Elephant and Monkey's Tooth.
 The History of the White Elephant and the Monkey's-Tooth,
 which the Indians adored, is written by Mons. le Blanc. This
 monkey's tooth was taken by the Portuguese from those that
@@ -1612,12 +1377,8 @@ But as soon as the fire was kindled, all the people present were
 not able to endure the horrible stink that came from it, as if the
 fire had been made of the same ingredients with which seamen
 use to compose that kind of granados which they call stinkards.
-
-786 t The Rage, &c.] Boute-feus is a French word, and therefore
 it were uncivil to suppose any English person (especially of
 quality) ignorant of it, or so ill-bred as to need an exposition.
-
-903 u 'Tis sung, &c.] Mamaluke is the name of the militia of the
 Sultans of Egypt. It signified a servant or soldier. They were
 commonly captives taken from amongst the Christians, and
 instructed in military discipline, and did not marry. Their power
@@ -1629,15 +1390,11 @@ near Aleppo, 1516, and so put an end to the empire of
 Mamalukes, which had lasted 267 years.
 No question but the rhime to Mamaluke was meant Sir Samuel
 Luke, of whom in the Preface.
-
-913 w Honour is like, &c.] Our English proverbs are not
 impertinent to this purpose:
-
 He that woos a Maid, must seldom come in her sight:
 But he that woos a Widow, must woo her Day and Night.
 He that woos a Maid, must feign, lye, and flatter:
 But he that woos a Widow, must down with his Breeches, and at her.
-
 This proverb being somewhat immodest, Mr Ray says he would
 not have inserted it in his collection, but that he met with it in a
 little book, intitled, the Quakers' Spiritual Court Proclaimed;
@@ -1647,17 +1404,6 @@ eminent Quaker in London, who would have had him to have
 married a rich widow, in whose house he lodged. In case he
 could get her, this Nathaniel Smith had promised Hilkiah a
 chamber gratis. The whole narrative is worth the reading.
-
-
-
-PART I.
-
-
-CANTO II.
-
-
-THE ARGUMENT.
-
 -------------------------------------------------
 The catalogue and character
 Of th' enemies best men of war;
@@ -1668,8 +1414,6 @@ And takes the Fiddler prisoner,
 Conveys him to enchanted castle;
 There shuts him fast in wooden bastile.
 -------------------------------------------------
-
-
 THERE was an ancient sage philosopher,
 That had read ALEXANDER Ross over,
 And swore the world, as he cou'd prove,
@@ -1714,7 +1458,6 @@ And never coin a formal lie on't,
 To make the Knight o'ercome the giant.
 This b'ing profest, we've hopes enough,
 And now go on where we left off.
-
 They rode; but authors having not                              45
 Determin'd whether pace or trot,
 (That is to say, whether <x> tollutation,
@@ -1817,7 +1560,6 @@ For when a shin in fight is cropp'd,
 The knee with one of timber's propp'd,
 Esteem'd more honourable than the other,                      145
 And takes place, though the younger brother.
-
 Next march'd brave ORSIN, famous for
 Wise conduct, and success in war:
 A skilful leader, stout, severe,
@@ -1912,7 +1654,6 @@ Will convey mischief from the dung
 Unto the part that did the wrong,
 So this did healing; and as sure
 As that did mischief this would cure.                         240
-
 Thus virtuous ORSIN was endu'd
 With learning, conduct, fortitude,
 Incomparable: and as the prince
@@ -1921,7 +1662,6 @@ A skilful leech is better far                                 245
 Than half an hundred men of war,
 So he appear'd; and by his skill,
 No less than dint of sword, cou'd kill
-
 The gallant BRUIN march'd next him,
 With visage formidably grim,                                  250
 And rugged as a Saracen,
@@ -1972,7 +1712,6 @@ But TALGOL, mortal foe to cows,                               295
 Never got aught of him but blows;
 Blows, hard and heavy, such as he
 Had lent, repaid with usury.
-
 Yet TALGOL was of courage stout,
 And vanquish'd oft'ner than he fought:                        300
 Inur'd to labour, sweat and toil,
@@ -2005,7 +1744,6 @@ The former rides in triumph for it;
 The latter in a two-wheel'd chariot
 For daring to profane a thing
 So sacred with vile bungling.                                 330
-
 Next these the brave MAGNANO came;
 MAGNANO, great in martial fame.
 Yet when with ORSIN he wag'd fight,
@@ -2018,7 +1756,6 @@ But brass was feeble to resist
 The fury of his armed fist:                                   340
 Nor cou'd the hardest ir'n hold out
 Against his blows, but they wou'd through't.
-
 In MAGIC he was deeply read
 As he that made the brazen head;
 Profoundly skill'd in the black art;                          345
@@ -2029,7 +1766,6 @@ He cou'd transform himself in colour
 As like the devil as a collier;                               350
 As like as hypocrites in show
 Are to true saints, or crow to crow.
-
 Of WARLIKE ENGINES he was author,
 Devis'd for quick dispatch of slaughter:
 The cannon, blunderbuss, and saker,                           355
@@ -2042,7 +1778,6 @@ A lance he bore with iron pike;
 Th' one half wou'd thrust, the other strike;
 And when their forces he had join'd,
 He scorn'd to turn his parts behind.
-
 He TRULLA lov'd; TRULLA, more bright                          365
 Than burnish'd armour of her Knight:
 A bold virago, stout and tall,
@@ -2057,7 +1792,6 @@ At beating quarters up, or forage,                            375
 Behav'd herself with matchless courage;
 And laid about in fight more busily
 Than the <e> Amazonian dame Penthesile.
-
 And though some criticks here cry shame,
 And say our authors are to blame,                             380
 That (spite of all philosophers,
@@ -2069,12 +1803,12 @@ To swear <f> by HERCULES'S name)
 Make feeble ladies, in their works,
 To fight like termagants and Turks;
 To lay their native arms aside,
- Their modesty, and ride astride;                             390
- To run a-tilt at men, and wield
- Their naked tools in open field;
- As stout <g> ARMIDA, bold TRALESTRIS,
- And she that wou'd have been the mistress
- Of <h> GUNDIBERT; but he had grace,                          395
+Their modesty, and ride astride;                             390
+To run a-tilt at men, and wield
+Their naked tools in open field;
+As stout <g> ARMIDA, bold TRALESTRIS,
+And she that wou'd have been the mistress
+Of <h> GUNDIBERT; but he had grace,                          395
 And rather took a country lass;
 They say, 'tis false, without all sense,
 But of pernicious consequence
@@ -2088,7 +1822,6 @@ Shall be depos'd by those who've seen't,                      405
 Or, what's as good, produc'd in print:
 And if they will not take our word,
 We'll prove it true upon record.
-
 The upright CERDON next advanc't,
 Of all his race the valiant'st:                               410
 CERDON the Great, renown'd in song,
@@ -2121,7 +1854,6 @@ He us'd to lay about and stickle,
 Like ram or bull, at conventicle:
 For disputants, like rams and bulls,                          440
 Do fight with arms that spring from skulls.
-
 Last COLON came, bold man of war,
 Destin'd to blows by fatal star;
 Right expert in command of horse;
@@ -2156,7 +1888,6 @@ And prov'd not only horse, but cows,
 Nay, pigs, were of the elder house:
 For beasts, when man was but a piece
 Of earth himself, did th' earth possess.                      475
-
 These worthies were the chief that led
 The combatants, each in the head
 Of his command, with arms and rage,
@@ -2365,7 +2096,6 @@ For then I'll take another course,                            680
 And soon reduce you all by force.
 This said, he clapp'd his hand on sword,
 To shew he meant to keep his word.
-
 But TALGOL, who had long supprest
 Inflamed wrath in glowing, breast,                            685
 Which now began to rage and burn as
@@ -2424,7 +2154,6 @@ At this the Knight grew high in wroth,
 And lifting hands and eyes up both,
 Three times he smote on stomach stout,                        740
 From whence at length these words broke out:
-
 Was I for this entitled SIR,
 And girt with trusty sword and spur,
 For fame and honor to wage battle,
@@ -2459,7 +2188,6 @@ With words far bitterer than wormwood,
 That would in Job or Grizel stir mood.
 Dogs with their tongues their wounds do heal;
 But men with hands, as thou shalt feel.                       775
-
 This said, with hasty rage he snatch'd
 His gun-shot, that in holsters watch'd;
 And bending cock, he levell'd full
@@ -2510,7 +2238,6 @@ But TALGOL wisely avoided it
 By cunning sleight; for had it hit,
 The upper part of him the blow
 Had slit as sure as that below.                               825
-
 Meanwhile th' incomparable COLON,
 To aid his friend, began to fall on.
 Him RALPH encounter'd, and straight grew
@@ -2597,7 +2324,6 @@ From whom he fled with as much haste
 And dread as he the rabble chas'd.
 In haste he fled, and so did they;                            910
 Each and his fear a several way.
-
 CROWDERO only kept the field;
 Not stirring from the place he held;
 Though beaten down and wounded sore,
@@ -2618,7 +2344,6 @@ Vowing to be reveng'd for breach
 Of crowd and skin upon the wretch,
 Sole author of all detriment                                  930
 He and his fiddle underwent.
-
 But RALPHO (who had now begun
 T' adventure resurrection
 From heavy squelch, and had got up
@@ -2791,7 +2516,6 @@ This we among ourselves may speak;                           1100
 But to the wicked, or the weak,
 We must be cautious to declare
 Perfection-truths, such as these are.
-
 This said, the high outrageous mettle
 Of Knight began to cool and settle.                          1105
 He lik'd the Squire's advice, and soon
@@ -2802,7 +2526,6 @@ And to its former place and use,                             1110
 The wooden member to reduce
 But force it take an oath before,
 Ne'er to bear arms against him more.
-
 RALPHO dispatch'd with speedy haste,
 And having ty'd CROWDERO fast,                               1115
 He gave Sir Knight the end of cord,
@@ -2869,32 +2592,19 @@ While his comrade, that did no hurt,
 Is clapp'd up fast in prison for't.
 So Justice, while she winks at crimes,
 Stumbles on innocence sometimes.
-
-
-
-NOTES TO PART I. CANTO II.
-
-
-47 x That is to say, whether Tollulation,
-     As they do term't, or Succussation.
+As they do term't, or Succussation.
 Tollulation and succussation are only Latin words for ambling
 and trotting; though I believe both were natural amongst the old
 Romans; since I never read they made use of the trammel, or
 any other art, to pace their horses.
-
-60 y As Indian Britons, &c.] The American Indians call a great
 bird they have, with a white head, a penguin, which signifies the
 same thing in the British tongue: from whence (with other
 words of the same kind) some authors have endeavoured to
 prove, that the Americans are originally derived from the
 Britons.
-
-65 z The dire, &c.] Pharsalia is a city of Thessaly, famous for
 the battle won by Julius Caesar against Pompey the Great, in
 the neighbouring plains, in the 607th year of Rome, of which
 read Lucan's Pharsalia.
-
-129 a Chiron, the &c.] Chiron, a Centaur, son to Saturn and
 Phillyris, living in the mountains, where, being much given to
 hunting, he became very knowing in the virtues of plants and
 one of the most famous physicians of his time. He imparted his
@@ -2902,20 +2612,12 @@ skill to AEsculapius and was afterwards Apollo's governor,
 until being wounded by Hercules, and desiring to die, Jupiter
 placed him in heaven, where he forms the sign of Sagittarius or
 the Archer.
-
-133 b In Staffordshire, where virtuous Worth
-      Does raise the Minstrelsy, not Birth, &c.
+Does raise the Minstrelsy, not Birth, &c.
 The whole history of this ancient ceremony you may read at
 large in Dr. Plot's History of Staffordshire, under the town
 Tutbury.
-
-155 c Grave as, &c.] For the history of Pegu, read Mandelsa
 and Olearius's Travels.
-
-172 In military, &c.] Paris Garden, in Southwark, took its name
 from the possessor.
-
-231 Though by, &c.] Promethean fire. Prometheus was the son
 of Iapetus, and brother of Atlas, concerning whom the poets
 have feigned, that having first formed men of the earth and
 water, he stole fire from heaven to put life into them; and that
@@ -2927,7 +2629,6 @@ the stars upon that mountain; and, that, among other things, he
 found the art of making fire, either by the means of a flint, or by
 contracting the sun-beams in a glass. Bochart will have Magog,
 in the Scripture, to be the Prometheus of the Pagans.
-
 He here and before sarcastically derides those who were great
 admirers of the sympathetic powder and weapon salve, which
 were in great repute in those days, and much promoted by the
@@ -2935,47 +2636,33 @@ great Sir Kenelm Digby, who wrote a treatise ex professo [of his
 own knowledge] on that subject, and, I believe, thought what he
 wrote to be true, which since has been almost exploded out of
 the world.
-
-267 And 'mong, &c.] Cossacks are a people that live near
 Poland. This name was given them for their extraordinary
 nimbleness; for cosa, or kosa, in the Polish tongue, signifies a
 goat. He that would know more of them, may read Le Laboreur
 and Thuldenus.
-
-275 And tho', &c.] This custom of the Huns is described by
 Ammianus Marcellinus, Hunni semicruda cujusvis Pecoris
 carne vescuntur, quasi inter femora sua & equorum terga
 subsertam, calefacient brevi. P. 686. [The Huns stoutheartedly
 eat half-raw meat, which is warned briefly by being hedl
 between their thighs and their hoeses' backs.]
-
-283 - --  He spous'd in India,
-    Of noble House, a Lady gay.
+Of noble House, a Lady gay.
 The Story in Le Blanc, of a bear that married a king's daughter,
 is no more strange than many others, in most travellers, that
 pass with allowance; for if they should write nothing but what is
 possible, or probable, they might appear to have lost their
 labour, and observed nothing but what they might have done as
 well at home.
-
-343 In MAGIC he was deeply read,
-    As he that made the Brazen-Head;
-    Profoundly skill'd in the Black Art;
-    As ENGLISH MERLIN for his Heart.
+As he that made the Brazen-Head;
+Profoundly skill'd in the Black Art;
+As ENGLISH MERLIN for his Heart.
 Roger Bacon and Merlin. See Collier's Dictionary.
-
-368 d As JOAN, &c.] Two notorious women; the last was
 known here by the name of Moll Cutpurse.
-
-378 e Than the Amazonian, &c.] Penthesile, Queen of the
 Amazons, succeeded Orythia. She carried succours to the
 Trojans, and after having given noble proofs of her bravery, was
 killed by Achilles. Pliny saith, it was she that invented the
 battle-ax. If any one desire to know more of the Amazons, let
 him read Mr. Sanson.
-
-385 f They wou'd not suffer the stout'st Dame
-      To swear by HERCULES's Name.
+To swear by HERCULES's Name.
 The old Romans had particular oaths for men and women to
 swear by, and therefore Macrobius says, Viri per Castorum non
 jurabant antiquitus, nec Mulieres per Herculem; AEdepol
@@ -2983,11 +2670,7 @@ autem juramentum erat tum mulieribus, quam viris commune,
 &c. [Men did not swear by Castor in ancient times, nor women
 by Hercules; however women swore by AEdepol as much as
 men did.]
-
-393 g As stout, &c.] Two formidable women at arms, in
 romances, that were cudgelled into love by their gallants.
-
-395 h Of GUNDIBERT &c.] Gundibert is a feigned name,
 made use of by Sir William d' Avenant in his famous epic poem,
 so called; wherein you may find also that of his mistress. This
 poem was designed by the author to be an imitation of the
@@ -3009,20 +2692,14 @@ Poem of Gundibert vindicated from the Wit Combat of four
 Esquires, Clinias, Damoetas, Sancho, and Jack-Pudding;
 printed in 8vo. Lond. 1665, Vide Langbain's Account of
 Dramatic Poets.
-
-496 i What OEstrum, &c.] OEstrum is not only a Greek word
 for madness, but signifies also a gad-bee or horse-fly, that
 torments cattle in the summer, and makes them run about as if
 they were mad.
-
-525 k Wore in their Hats, &c.] Some few days after the King
 had accus'd the five Members of Treason in the House of
 Commons, great Crowds of the rabble came down to
 Westminster-Hall, with printed copies of the Protestation tied in
 their hats like favours.
-
-526 l When 'twas resolv'd by either House
-      Six Members Quarrel to espouse.
+Six Members Quarrel to espouse.
 The six Members were the Lord Kimbolton, Mr. Pym, Mr.
 Hollis, Mr. Hampden, Sir Arthur Haslerig, and Mr. Stroud,
 whom the King ordered to be apprehended, and their papers
@@ -3031,21 +2708,15 @@ the late tumults; but the House voted against the arrest of their
 persons or papers; whereupon the King having preferred articles
 against those Members, he went with his guard to the House to
 demand them; but they, having notice,  withdrew.
-
-578 m Make that, &c.] Abusive or insulting had been better; but
 our Knight believed the learned language more convenient to
 understand in than his own Mother-tongue.
-
-650 n And is indeed the self same Case
-      With theirs that swore t' Et caeteras.
+With theirs that swore t' Et caeteras.
 The Convocation, in one of the short Parliaments, that ushered
 in the long one, (as dwarfs are wont to do knights-errant,) made
 an oath to be taken by the clergy for observing canonical
 obedience; in which they enjoined their brethren, out of the
 abundance of their consciences, to swear to articles with, &c.
-
-652 o Or the French League, in which men vow'd
-      To fight to the last Drop of Blood.
+To fight to the last Drop of Blood.
 The Holy League in France, designed and made for the
 extirpation of the Protestant Religion, was the original out of
 which the Solemn League and Covenant here was (with the
@@ -3057,17 +2728,6 @@ had both sworn to defend: And as our Covenanters swore every
 man to run one before another in the way of Reformation, so did
 the French, in the Holy League, to fight to the last drop of
 blood.
-
-
-
-PART I.
-
-
-CANTO III.
-
-
-THE ARGUMENT.
-
 -------------------------------------------------
 The scatter'd rout return and rally,
 Surround the place; the Knight does sally,
@@ -3076,8 +2736,6 @@ Th' inchanted fort by storm; release
 Crowdero, and put the Squire in's place;
 I should have first said Hudibras.
 -------------------------------------------------
-
-
 Ah me! what perils do environ
 The man that meddles with cold iron!
 What plaguy mischiefs and mishaps
@@ -3102,7 +2760,6 @@ Found in few minutes, to his cost,
 He did but count without his host;
 And that a turn-stile is more certain
 Than, in events of war, dame Fortune.
-
 For now the late faint-hearted rout,                           25
 O'erthrown, and scatter'd round about,
 Chas'd by the horror of their fear
@@ -3175,7 +2832,6 @@ Till down he fell; yet falling fought,
 And, being down, still laid about;
 As WIDDRINGTON, in doleful dumps,                              95
 Is said to light upon his stumps.
-
 But all, alas! had been in vain,
 And he inevitably slain,
 If TRULLA and CERDON, in the nick,
@@ -3250,7 +2906,6 @@ Upon a bough, to ease the pain
 His tugg'd ears suffer'd, with a strain,
 They both drew up, to march in quest
 Of his great leader and the rest.                             170
-
 For ORSIN (who was more renown'd
 For stout maintaining of his ground
 In standing fight, than for pursuit,
@@ -3317,7 +2972,6 @@ He went in quest of HUDIBRAS,
 To find him out where-e'er he was;
 And, if he were above ground, vow'd                           235
 He'd ferret him, lurk where be wou'd.
-
 But scarce had he a furlong on
 This resolute adventure gone,
 When he encounter'd with that crew
@@ -3352,7 +3006,6 @@ Where-e'er th' in hugger-mugger lurk)
 I'll make them rue their handy-work;
 And wish that they had rather dar'd
 To pull the Devil by the beard.                               270
-
 Quoth CERD0N, Noble ORSIN, th' hast
 Great reason to do as thou say'st,
 And so has ev'ry body here,
@@ -3371,7 +3024,6 @@ And, having brought him bravely off,                          285
 Have left him where he's safe enough:
 There let him rest; for if we stay,
 The slaves may hap to get away.
-
 This said, they all engag'd to join
 Their forces in the same design;                              290
 And forthwith put themselves in search
@@ -3464,7 +3116,6 @@ And that his valour, and the honour
 H' had newly gain'd, might work upon her.
 These reasons made his mouth to water
 With am'rous longings to be at her.                           380
-
 Quoth he, unto himself, Who knows,
 But this brave conquest o'er my foes
 May reach her heart, and make that stoop,
@@ -3503,7 +3154,6 @@ By speedy marches, were advanc'd                              415
 Up to the fort, where he ensconc'd;
 And all th' avenues had possest
 About the place, from east to west.
-
 That done, a while they made a halt,
 To view the ground, and where t' assault:                     420
 Then call'd a council, which was best,
@@ -3526,7 +3176,6 @@ For to his shame it might be said,
 They took him napping in his bed;
 To them we leave it to expound,
 That deal in sciences profound.                               440
-
 His courser scarce he had bestrid,
 And RALPHO that on which he rid,
 When setting ope the postern gate,
@@ -3563,7 +3212,6 @@ And they'll opine they feel the pain
 And blows they felt to-day again.
 Then let us boldly charge them home,                          475
 And make no doubt to overcome.
-
 This said, his courage to inflame,
 He call'd upon his mistress' name.
 His pistol next he cock'd a-new,
@@ -3574,7 +3222,6 @@ As expert warriors use: then ply'd
 With iron heel his courser's side,
 Conveying sympathetic speed                                   485
 From heel of Knight to heel of Steed.
-
 Mean while the foe, with equal rage
 And speed, advancing to engage,
 Both parties now were drawn so close,
@@ -3653,7 +3300,6 @@ RALPHO press'd up to HUDIBRAS,
 And CERDON where MAGNANO was;
 Each striving to confirm his party
 With stout encouragements, and hearty.
-
 Quoth RALIHO, Courage, valiant Sir,                           565
 And let revenge and honour stir
 Your spirits up: once we fall on,
@@ -3670,7 +3316,6 @@ But if you let them recollect
 Their spirits, now dismay'd and checkt,
 You'll have a harder game to play
 Than yet y' have had to get the day.                          580
-
 Thus spoke the stout Squire; but was heard
 By HUDIBRAS with small regard.
 His thoughts were fuller of the bang
@@ -3701,7 +3346,6 @@ In all the trade of war, no feat
 Is nobler than a brave retreat:
 For those that run away, and fly,
 Take place at least of th' enemy.                             610
-
 This said, the Squire, with active speed
 Dismounted from his bonny steed,
 To seize the arms, which, by mischance,
@@ -3730,7 +3374,6 @@ Cry'd out, 'Tis now no time to dally,                         635
 The enemy begin to rally:
 Let us, that are unhurt and whole,
 Fall on, and happy man be's dole.
-
 This said, like to a thunderbolt,
 He flew with fury to th' assault,                             640
 Striving the enemy to attack
@@ -3816,7 +3459,6 @@ With ruthless bangs were stiff and sore.                      720
 Right fain he would have got upon
 His feet again, to get him gone;
 When HUDIBRAS to aid him came:
-
 Quoth he (and call'd him by his name,)
 Courage! the day at length is ours;                           725
 And we once more, as conquerors,
@@ -3838,7 +3480,6 @@ Then, lest they rally, and once more
 Put us to fight the bus'ness o'er,
 Get up, and mount thy steed: Dispatch,
 And let us both their motions watch.
-
 Quoth RALPH, I should not, if I were                          745
 In case for action, now be here:
 Nor have I turn'd my back, or hang'd
@@ -3851,7 +3492,6 @@ My limbs of strength. Unless you stoop,
 And reach your hand to pull me up,
 I shall lie here, and be a prey                               755
 To those who now are run away.
-
 That thou shalt not, (quoth HUDIBRAS;)
 We read, the ancients held it was
 More honourable far, servare
@@ -3918,7 +3558,6 @@ But lest it should again be said,
 When I have once more won thy head,                           820
 I took thee napping, unprepar'd,
 Arm, and betake thee to thy guard.
-
 This said, she to her tackle fell,
 And on the Knight let fall a peal
 Of blows so fierce, and press'd so home,                      825
@@ -3965,7 +3604,6 @@ Now thou hast got me for a Tartar,                            865
 To make me 'gainst my will take quarter;
 Why dost not put me to the sword,
 But cowardly fly from thy word?
-
 Quoth HUDIBRAS, The day's thine own:
 Thou and thy Stars have cast me down:                         870
 My laurels are transplanted now,
@@ -3982,7 +3620,6 @@ Against a vanquish'd foe: their swords
 Were sharp and trenchant, not their words;
 And did in fight but cut work out
 To employ their courtesies about.
-
 Quoth she, Although thou hast deserv'd                        885
 Base slubberdegullion, to be serv'd
 As thou did'st vow to deal with me,
@@ -3995,7 +3632,6 @@ Are mine by military law,
 Of which I will not hate one straw:
 The rest, thy life and limbs, once more,                      895
 Though doubly forfeit, I restore,
-
 Quoth HUDIBRAS, It is too late
 For me to treat or stipulate
 What thou command'st, I must obey:
@@ -4004,7 +3640,6 @@ Of thine own party, I let go,
 And gave them life and freedom too:
 Both dogs and bear, upon their parole,
 Whom I took pris'ners in this quarrel.
-
 Quoth TRULLA, Whether thou or they                            905
 Let one another run away,
 Concerns not me; but was't not thou
@@ -4015,7 +3650,6 @@ Where still he lies, and with regret
 His gen'rous bowels rage and fret.
 But now thy carcass shall redeem,
 And serve to be exchang'd for him.
-
 This said, the Knight did straight submit,                    915
 And laid his weapons at her feet.
 Next he disrob'd his gaberdine,
@@ -4030,7 +3664,6 @@ The length of breeches, and the gathers,                      925
 Port-cannons, perriwigs, and feathers;
 Just so the proud insulting lass
 Array'd and dighted HUDIBRAS.
-
 Mean while the other champions, yerst
 In hurry of the fight disperst,                               930
 Arriv'd, when TRULLA won the day,
@@ -4053,7 +3686,6 @@ Where, to the hard and ruthless stones,
 His great heart made perpetual moans:
 Him she resolv'd that HUDIBRAS
 Should ransom, and supply his place.                          950
-
 This stopt their fury, and the basting
 Which toward HUDIBRAS was hasting.
 They thought it was but just and right,
@@ -4116,7 +3748,6 @@ But HUDIBRAS who scorn'd to stoop
 To Fortune, or be said to droop,                             1010
 Chear'd up himself with ends of verse,
 And sayings of philosophers.
-
 Quoth he, Th' one half of man, his mind,
 Is, sui juris, unconfin'd,
 And cannot be laid by the heels,                             1015
@@ -4161,7 +3792,6 @@ Than when, adorn'd with all his light,
 He shines in serene sky most bright:
 So valour, in a low estate,                                  1055
 Is most admir'd and wonder'd at.
-
 Quoth RALPH, How great I do not know
 We may by being beaten grow;
 But none, that see how here we sit,
@@ -4178,7 +3808,6 @@ And might with honour have come off
 Would put it to a second proof?                              1070
 A politic exploit, right fit
 For Presbyterian zeal and wit.
-
 Quoth HUDIBRAS, That cuckow's tone,
 RALPHO, thou always harp'st upon.
 When thou at any thing would'st rail,                        1075
@@ -4195,14 +3824,12 @@ That thou coud'st prove bear-baiting equal                   1085
 With synods orthodox and legal?
 Do if thou canst; for I deny't,
 And dare thee to 't with all thy light.
-
 Quoth RALPHO, Truly that is no
 Hard matter for a man to do,                                 1090
 That has but any guts in 's brains,
 And cou'd believe it worth his pains;
 But since you dare and urge me to it,
 You'll find I've light enough to do it.
-
 Synods are mystical bear-gardens,                            1095
 Where elders, deputies, church-wardens,
 And other members of the court,
@@ -4329,7 +3956,6 @@ According to th' Apostle's mind,
 With many heads did ride upon;
 Which heads denote the sinful tribe
 Of Deacon, Priest, Lay-Elder, Scribe.                        1220
-
 Lay-Elder, SIMEON to LEVI,
 Whose little finger is as heavy
 As loins of patriarchs, prince-prelate,
@@ -4360,7 +3986,6 @@ From whence they start up Chosen Vessels,
 Made by contact, as men get meazles.
 <x> So Cardinals, they say, do grope
 At th' other end the new-made Pope.                          1250
-
 Hold, hold, quoth HUDIBRAS; soft fire,
 They say, does make sweet malt. Good Squire,
 Festina lente, not too fast;
@@ -4375,7 +4000,6 @@ I'll force you, by right ratiocination,
 To leave your <y> vitilitigation,
 And make you keep to th' question close,
 And argue dialecticos.
-
 The question then, to state it first,                        1265
 Is, Which is better, or which worst,
 Synods or Bears? Bears I avow
@@ -4402,7 +4026,6 @@ To censure, curse, absolve, and ordain,
 Can be no Synod: but bear-garden
 Has no such pow'r; ergo, 'tis none:
 And so thy sophistry's o'erthrown.                           1290
-
 But yet we are beside the question
 Which thou didst raise the first contest on;
 For that was, Whether Bears are better
@@ -4449,7 +4072,6 @@ When, b'ing in hot dispute about
 This controversy, we fell out
 And what thou know'st I answer'd then,                       1335
 Will serve to answer thee agen.
-
 Quoth RALPHO, Nothing but th' abuse
 Of human learning you produce;
 Learning, that cobweb of the brain,
@@ -4480,7 +4102,6 @@ So when men argue, the great'st part
 O' th' contests falls on terms of art,
 Until the fustian stuff be spent,                            1365
 And then they fall to th' argument.
-
 Quoth HUDIBRAS Friend RALPH, thou hast
 Out-run the constable at last:
 For thou art fallen on a new
@@ -4497,26 +4118,15 @@ Some other time, in place more proper
 Than this we're in; therefore let's stop here,               1380
 And rest our weary'd bones a-while,
 Already tir'd with other toil.
-
-
-
-NOTES TO PART I. CANTO III.
-
-
-134 p First TRULLA stav'd, &c.] Staving and Tailing are terms
 of art used in the Bear-Garden, and signify there only the
 parting of dogs and bears: Though they are used metaphorically
 in several other professions, for moderating; as law, divinity,
 hectoring, &c.
-
-153 q Or like the late corrected leathern
-      Ears of the Circumcised Brethren.
+Ears of the Circumcised Brethren.
 Pryn, Bastwick, and Burton, who laid down their ears as proxies
 for their profession of the godly party, not long after maintained
 their right and title to the pillory to be as good and lawful as
 theirs who first of all took possession of it in their names.
-
-328 r That old, &c.] Pygmalion, king of Tyre, was the son of
 Margenus, or Mechres, whom he succeeded, and lived 56 years,
 wherof he reigned 47. Dido, his sister, was to have governed
 with him, but it was pretended the subjects thought it not
@@ -4524,12 +4134,9 @@ convenient. She married Sichaeus, who was the king's uncle,
 and very rich; wherefore he put him to death; and Dido soon
 after departed the kingdom. Poets say, Pygmalion was punished
 for the hatred he bore to women with the love he had to a statue.
-
-925 s And as the FRENCH we conquer'd once,
-      Now give us Laws for PANTALOONS, &c.
+Now give us Laws for PANTALOONS, &c.
 Pantaloons and Port-Cannons were some of the fantastick
 fashions wherein we aped the French.
-
 At quisquis Insula satus Britannica
 Sic patria insolens fastidiet suam,
 Ut more simiae laboret fingere,
@@ -4537,27 +4144,19 @@ Et aemulari Gallicas ineptias,
 Et omni Gallo ego hunc opinor ebrium;
 Ergo ex Britanno, ut Gallus esse nititur,
 Sic Dii jubete, fiat ex Galle Capus.
-
-THOMAS MORE.
-
 Gallus is a river in Phrygia; rising out of the mountains of
 Celenae, and discharging itself into the river Sanger, the water
 of which is of that admirable quality, that, being moderately
 drank, it purges the brain, and cures madness; but largely drank,
 it makes men frantick. Pliny, Horatius.
-
-1123 t A learned divine in King James's time wrote a polemick
 work against the Pope, and gave it that unlucky nick-name of
 The Pope's Bull baited.
-
-1166 u Canonical Cravat, &c.] Smectymnuus was a club of five
 parlimentary holders-forth; the characters of whose names and
 talents were by themselves expressed in that senseless and
 insignificant word. They wore handkerchiefs about their necks
 for a mark of distinction (as the Officers of the Parliament
 Army then did) which afterwards degenerated into carnal
 cravats. About the beginning of the long Parliament, in the year
-1641, these five wrote a book against Episcopacy and the
 Common Prayer, to which they all subscribed their names;
 being Stephen Marshal, Edmund Calamy, Thomas Young,
 Matthew Newcomen, and William Spurstow, and from thence
@@ -4572,9 +4171,7 @@ much calmness and genteelness of expression, and as much
 learning and honesty, b. the Rev. Mr. Symonds, then a deprived
 clergyman, as theirs was stuffed with malice, spleen, and
 rascally invectives.
-
-1249 x So Cardinals they say do grope
-       At t'other end the new-made Pope.
+At t'other end the new-made Pope.
 This relates to the story of Pope Joan, who was called John
 VIII. Platina saith she was of English extraction, but born at
 Mentz; who, having disguised herself like a man, travelled with
@@ -4594,27 +4191,12 @@ for that purpose; but he supposes the reason of that to he, to put
 him in mind that he is a man, and obnoxious to the necessities
 of nature; whence he will have the seat to be called, Sedes
 Stercoraria.
-
-1262  y To leave your Vitiligation, &c.] Vitilitigation is a word
 the Knight was passionately in love with, and never failed to
 use it upon all occasions; and therefore to omit it, when it fell in
 the way, bad argued too great a neglect of his learning and
 parts; though it means no more than a perverse humour of
 wrangling.
-
-1373 z Mere Disparata, &c.] Disparata are things separate and
 unlike, from the Latin word Disparo.
-
-
-
-PART II
-
-
-CANTO I
-
-
-THE ARGUMENT.
-
 -------------------------------------------------
 The Knight by damnable Magician,
 Being cast illegally in prison,
@@ -4625,8 +4207,6 @@ And cunningly solicits his Suite,
 Which she defers; yet on Parole
 Redeems him from th' inchanted Hole.
 -------------------------------------------------
-
-
 But now, t'observe a romantic method,
 Let bloody steel a while be sheathed,
 And all those harsh and rugged sounds
@@ -4657,7 +4237,6 @@ But those that write in rhime, still make
 The one verse for the other's sake;
 For, one for sense, and one for rhime,
 I think's sufficient at one time.                              30
-
 But we forget in what sad plight
 We whilom left the captiv'd Knight
 And pensive Squire, both bruis'd in body,
@@ -4672,7 +4251,6 @@ That either it must quickly end
 Or turn about again, and mend;
 In which he found th' event, no less
 Than other times beside his guess.
-
 There is a tall long sided dame                                45
 (But wond'rous light,) ycleped Fame
 That, like a thin camelion, boards
@@ -4705,7 +4283,6 @@ We know not; only this can tell,
 The one sounds vilely, th' other well;
 And therefore vulgar authors name                              75
 Th' one Good, the other Evil, Fame.
-
 This tattling gossip knew too well
 What mischief HUDIBRAS befell.
 And straight the spiteful tidings bears
@@ -4744,7 +4321,6 @@ She came upon him in his wooden
 Magician's circle on the sudden,
 As spirits do t' a conjurer,
 When in their dreadful shapes th' appear.
-
 No sooner did the Knight perceive her,                        115
 But straight he fell into a fever,
 Inflam'd all over with disgrace,
@@ -4753,7 +4329,6 @@ Which made him hang his head, and scoul,
 And wink, and goggle like an owl.                             120
 He felt his brains begin to swim,
 When thus the dame accosted him:
-
 This place (quoth she) they say's enchanted,
 And with delinquent spirits haunted,
 That here are ty'd in chains, and scourg'd,                   125
@@ -4772,7 +4347,6 @@ For though it be disfigur'd somewhat,
 As if 't had lately been in combat,
 It did belong to a worthy Knight
 Howe'er this goblin has come by't.                            140
-
 When HUDIBRAS the Lady heard
 Discoursing thus upon his beard,
 And speak with such respect and honour,
@@ -4785,7 +4359,6 @@ The beard's th' identic beard you knew,
 The same numerically true:                                    150
 Nor is it worn by fiend or elf,
 But its proprietor himself.
-
 O, heavens! quoth she, can that be true?
 I do begin to fear 'tis you:
 Not by your individual whiskers,                              155
@@ -4794,7 +4367,6 @@ That never spoke to man or beast
 In notions vulgarly exprest.
 But what malignant star, alas
 Has brought you both to this sad pass?                        160
-
 Quoth he, The fortune of the war,
 Which I am less afflicted for,
 Than to be seen with beard and face,
@@ -4817,7 +4389,6 @@ And those uneasy bruises make
 My heart for company to ake,                                  180
 To see so worshipful a friend
 I' th' pillory set, at the wrong end.
-
 Quoth HUDIBRAS, This thing call'd pain
 Is (as the learned Stoicks maintain)
 Not bad simpliciter, nor good,                                185
@@ -4846,14 +4417,12 @@ Eat grots and labyrinths to dwell in
 His postick parts without his feeling:
 Then how is't possible a kick
 Should e'er reach that way to the quick?                      210
-
 Quoth she, I grant it is in vain.
 For one that's basted to feel pain,
 Because the pangs his bones endure
 Contribute nothing to the cure:
 Yet honor hurt, is wont to rage                               215
 With pain no med'cine can asswage.
-
 Quoth he, That honour's very squeamish
 That takes a basting for a blemish;
 For what's more hon'rable than scars,
@@ -4872,7 +4441,6 @@ And think one beating may for once
 Suffice, are cowards and pultroons:
 But if they dare engage t' a second,
 They're stout and gallant fellows reckon'd.
-
 Th' old Romans freedom did bestow,                            235
 Our princes worship, with a blow.
 King PYRRHUS cur'd his  splenetic
@@ -4905,7 +4473,6 @@ And cannons shoot the higher pitches,
 The lower we let down their breeches;
 I'll make this low dejected fate                              265
 Advance me to a greater height.
-
 Quoth she, Y' have almost made me in love
 With that which did my pity move.
 Great wits and valours, like great states,
@@ -4922,14 +4489,12 @@ For if I thought your nat'ral talent
 Of passive courage were so gallant,                           280
 As you strain hard to have it thought,
 I could grow amorous, and dote.
-
 When HUDIBRAS this language heard,
 He prick'd up's ears and strok'd his beard;
 Thought he, this is the lucky hour;                           285
 Wines work when vines are in the flow'r;
 This crisis then I'll set my rest on,
 And put her boldly to the question.
-
 Madam, what you wou'd seem to doubt,
 Shall be to all the world made out,                           290
 How I've been drubb'd, and with what spirit
@@ -4938,7 +4503,6 @@ And if you doubt it to be true,
 I'll stake myself down against you:
 And if I fail in love or troth,                               295
 Be you the winner, and take both.
-
 Quoth she, I've beard old cunning stagers
 Say, fools for arguments use wagers;
 And though I prais'd your valour, yet
@@ -4947,7 +4511,6 @@ Which, if you have, you must needs know
 What I have told you before now,
 And you b' experiment have prov'd,
 I cannot love where I'm belov'd.
-
 Quoth HUDIBRAS, 'tis a caprich                                305
 Beyond th' infliction of a witch;
 So cheats to play with those still aim
@@ -4982,12 +4545,10 @@ For, as you fly me, and pursue                                330
 Love more averse, so I do you;
 And am by your own doctrine taught
 To practise what you call a fau't.
-
 Quoth she, If what you say is true,
 You must fly me as I do you;                                  340
 But 'tis not what we do, but say,
 In love and preaching, that must sway.
-
 Quoth he, To bid me not to love,
 Is to forbid my pulse to move,
 My beard to grow, my ears to prick up,                        345
@@ -5024,7 +4585,6 @@ And though she were of rigid temper,                          375
 With melting flames accost and tempt her;
 Which after in enjoyment quenching,
 He hung a garland on his engine
-
 Quoth she, If Love have these effects,
 Why is it not forbid our sex?                                 380
 Why is't not damn'd and interdicted,
@@ -5033,7 +4593,6 @@ And sung, as out of tune, against,
 As Turk and Pope are by the Saints?
 I find I've greater reason for it,                            385
 Than I believ'd before t' abhor it.
-
 Quoth HUDIBRAS, These sad effects
 Spring from your Heathenish neglects
 Of Love's great pow'r, which he returns
@@ -5058,12 +4617,10 @@ Their haughty stomachs overcomes,
 And makes 'em stoop to dirty grooms;
 To slight the world, and to disparage
 Claps, issue, infamy, and marriage.                           410
-
 Quoth she, These judgments are severe,
 Yet such as I should rather bear,
 Than trust men with their oaths, or prove
 Their faith and secresy in love,
-
 Says he, There is as weighty reason                           415
 For secresy in love as treason.
 Love is a burglarer, a felon,
@@ -5088,7 +4645,6 @@ But if you doubt I should reveal                              435
 What you entrust me under seal.
 I'll prove myself as close and virtuous
 As your own secretary ALBERTUS.
-
 Quoth she, I grant you may be close
 In hiding what your aims propose.                             440
 Love-passions are like parables,
@@ -5097,7 +4653,6 @@ Though love be all the world's pretence,
 Money's the mythologick sense;
 The real substance of the shadow,                             445
 Which all address and courtship's made to.
-
 Thought he, I understand your play,
 And how to quit you your own way:
 He that will win his dame, must do
@@ -5132,7 +4687,6 @@ Let me your fortune but possess,
 And settle your person how you please:
 Or make it o'er in trust to th' Devil;
 You'll find me reasonable and civil.                          480
-
 Quoth she, I like this plainness better
 Than false mock-passion, speech, or letter,
 Or any feat of qualm or sowning,
@@ -5151,7 +4705,6 @@ Yet th' are the only ways to prove                            495
 Th' unfeign'd realities of love:
 For he that hangs, or beats out's brains,
 The Devil's in him if he feigns.
-
 Quoth HUDIBRAS, This way's too rough
 For mere experiment and proof:                                500
 It is no jesting, trivial matter,
@@ -5174,7 +4727,6 @@ And merchants, vent'ring through the main,
 Slight pirates, rocks, and horns, for gain.
 This is the way I advise you to:
 Trust me, and see what I will do.                             520
-
 Quoth she, I should be loth to run
 Myself all th' hazard, and you none;
 Which must be done, unless some deed
@@ -5185,7 +4737,6 @@ Or give that rev'rend head a maul,
 Or two, or three, against a wall,
 To shew you are a man of mettle,
 And I'll engage myself to settle.                             530
-
 Quoth he, My head's not made of brass,
 As Friar BACON'S noodle was;
 Nor (like the Indian's skull) so tough
@@ -5196,7 +4747,6 @@ You see what bangs it has endur'd,
 That would, before new feats, be cur'd.
 But if that's all you stand upon,
 Here, strike me luck, it shall be done.                       540
-
 Quoth she, The matter's not so far gone
 As you suppose: Two words t' a bargain:
 That may be done, and time enough,
@@ -5209,7 +4759,6 @@ But a just fear, lest you should prove
 False and perfidious in love:,                                550
 For if I thought you could be true,
 I could love twice as much as you.
-
 Quoth he, My faith as adamanatine,
 As chains of destiny, I'll maintain:
 True as APOLLO ever spoke,                                    555
@@ -5240,7 +4789,6 @@ Only our loves shall still survive,
 New worlds and natures to out-live:                           580
 And, like to heralds' moons, remain
 All crescents, without change or wane.
-
 Hold, hold, quoth she; no more of this,
 Sir Knight; you take your aim amiss:
 For you will find it a hard chapter                           585
@@ -5323,12 +4871,10 @@ Yet give me quarter, and advance
 To nobler aims your puissance:
 Level at beauty and at wit;
 The fairest mark is easiest hit.
-
 Quoth HUDIBRAS, I'm beforehand                                665
 In that already, with your command
 For where does beauty and high wit
 But in your constellation meet?
-
 Quoth she, What does a match imply,
 But likeness and equality?                                    670
 I know you cannot think me fit
@@ -5337,7 +4883,6 @@ Nor take one of so mean deserts,
 To be the partner of your parts;
 A grace which, if I cou'd believe,                            675
 I've not the conscience to receive.
-
 That conscience, quoth HUDIBRAS,
 Is mis-inform'd: I'll state the case
 A man may be a legal donor,
@@ -5348,7 +4893,6 @@ Then wit, and parts, and valour, may
 Be ali'nated, and made away,
 By those that are proprietors,                                685
 As I may give or sell my horse.
-
 Quoth she, I grant the case is true
 And proper 'twixt your horse and you;
 But whether I may take as well
@@ -5367,7 +4911,6 @@ You must be kept a year and day                               700
 Where, if y' are sought, you may be found
 And in the mean time I must pay
 For all your provender and hay.
-
 Quoth he, It stands me much upon                              705
 T' enervate this objection,
 And prove myself; by topic clear
@@ -5387,7 +4930,6 @@ Eunuchs wear such, or geldings either?                        720
 Next it appears I am no horse;
 That I can argue and discourse
 Have but two legs, and ne'er a tail.
-
 Quoth she, That nothing will avail
 For some philosophers of late here,                           725
 Write, men have four legs by nature,
@@ -5401,12 +4943,10 @@ As for your reasons drawn from tails,
 We cannot say they're true or false,
 Till you explain yourself, and show,                          735
 B' experiment, 'tis so or no.
-
 Quoth he, If you'll join issue on't,
 I'll give you satisfactory account;
 So you will promise, if you lose,
 To settle all, and be my spouse.                              740
-
 That never shall be done (quoth she)
 To one that wants a tail, by me
 For tails by nature sure were meant,
@@ -5425,7 +4965,6 @@ Which makes him have so strong a breath,                      755
 Each night he stinks a queen to death;
 Yet I shall rather lie in's arms
 Than yours, on any other terms.
-
 Quoth he, What nature can afford,
 I shall produce, upon my word;                                760
 And if she ever gave that boon
@@ -5440,7 +4979,6 @@ And, for the sufferings of your martyr,
 Give its poor entertainer quarter;                            770
 And, by discharge or main-prize, grant
 Deliv'ry from this base restraint.
-
 Quoth she, I grieve to see your leg
 Stuck in a hole here like a peg;
 And if I knew which way to do't                               775
@@ -5564,7 +5102,6 @@ Where whipping's judg'd, had honour for't?
 This swear you will perform, and then
 I'll set you from th' inchanted den,
 And the magician's circle clear.                              895
-
 Quoth he, I do profess and swear,
 And will perform what you enjoin,
 Or may I never see you mine.
@@ -5594,15 +5131,6 @@ With erring haste, but rather stay,
 And do't in th' open face of day;
 And in the mean time go in quest
 Of next retreat to take his rest.
-
-
-
-CANTO II
-
-
-THE ARGUMENT.
-
-
 -------------------------------------------------
 The Knight and Squire, in hot dispute,
 Within an ace of falling out,
@@ -5611,8 +5139,6 @@ Of strange alarm, and stranger sight;
 With which adventuring to stickle,
 They're sent away in nasty pickle.
 -------------------------------------------------
-
-
 'Tis strange how some mens' tempers suit
 (Like bawd and brandy) with dispute,
 That for their own opinions stand last
@@ -5641,7 +5167,6 @@ All which the Knight and Squire, in wrath,                     25
 Had like t' have suffered for their faith,
 Each striving to make good his own,
 As by the sequel shall be shown.
-
 The Sun had long since, in the lap
 Of THETIS, taken out his nap,                                  30
 And, like a lobster boil'd, the morn
@@ -5680,7 +5205,6 @@ In which to err a tittle may
 To errors infinite make way;
 And therefore I desire to know                                 65
 Thy judgment e'er we further go.
-
 Quoth Ralpho, Since you do enjoin't,
 I shall enlarge upon the point;
 And, for my own part, do not doubt
@@ -5781,7 +5305,6 @@ But yet still had the confidence
 To swear it was in his defence
 Did they not swear to live and die                            165
 With Essex, and straight laid him by?
-
 If that were all, for some have swore
 As false as they, if th' did no more,
 Did they not swear to maintain Law,
@@ -5874,7 +5397,6 @@ Yet all of us hold this for true,                             255
 No Faith is to the wicked due;
 For truth is precious and divine;
 Too rich a pearl for carnal swine,
-
 Quoth HUDIBRAS, All this is true;                             260
 Yet 'tis not fit that all men knew,
 Those mysteries and revelations,
@@ -6005,14 +5527,12 @@ Honour is like that glassy bubble                             385
 That finds philosophers such trouble,
 Whose least part crack't, the whole does fly,
 And wits are crack'd to find out why.
-
 Quoth RALPHO, Honour's but a word
 To swear by only in a Lord:                                   390
 In other men 'tis but a huff,
 To vapour with instead of proof;
 That, like a wen, looks big and swells,
 Is senseless, and just nothing else.
-
 Let it (quoth he) be what it will,                            395
 It has the world's opinion still.
 But as men are not wise that run
@@ -6021,14 +5541,12 @@ There may a medium be found out
 To clear to all the world the doubt;                          400
 And that is, if a man may do't,
 By proxy whipt, or substitute.
-
 Though nice and dark the point appear,
 (Quoth RALPH) it may hold up and clear.
 That sinners may supply the place                             405
 Of suff'ring Saints is a plain case.
 Justice gives sentence many times
 On one man for another's crimes.
-
 Our brethren of NEW ENGLAND use
 Choice malefactors to excuse,                                 410
 And hang the guiltless in their stead,
@@ -6061,7 +5579,6 @@ Then wherefore way not you be skipp'd,
 And in your room another whipp'd?
 For all Philosophers, but the Sceptick,
 Hold whipping may be sympathetick.                            440
-
 It is enough, quoth HUDIBRAS,
 Thou hast resolv'd and clear'd the case
 And canst, in conscience, not refuse
@@ -6072,7 +5589,6 @@ Then strip thee off thy carnal jerking,
 And give thy outward-fellow a ferking;
 For when thy vessel is new hoop'd,
 All leaks of sinning will be stopp'd.                         450
-
 Quoth RALPHO, You mistake the matter;
 For in all scruples of this nature,
 No man includes himself, nor turns
@@ -6093,15 +5609,12 @@ But in this case it is prophane,
 And sinful too, because in vain;
 For we must take our oaths upon it,
 You did the deed, when I have done it.                        470
-
 Quoth HUDIBRAS, That's answer'd soon
 Give us the whip, we'll lay it on.
-
 Quoth RALPHO, That we may swear true,
 'Twere properer that I whipp'd you
 For when with your consent 'tis done,                         475
 The act is really your own.
-
 Quoth HUDIBRAS, It is in vain
 (I see) to argue 'gainst the grain;
 Or, like the stars, incline men to
@@ -6126,7 +5639,6 @@ Nor shalt thou find him a Curmudgin,
 If thou dispatch it without grudging.
 If not, resolve, before we go,
 That you and I must pull a crow.                              500
-
 Y' had best (quoth RALPHO) as the ancients
 Say wisely, Have a care o' th' main chance,
 And look before you ere you leap;
@@ -6167,7 +5679,6 @@ Decry'd it as a holy cheat,
 Grown out of date, and obsolete;
 And all the Saints of the first grass
 As casting foals of Balaam's ass.                             540
-
 At this the Knight grew high in chafe,
 And staring furiously on RALPH,
 He trembled, and look'd pale with ire
@@ -6193,7 +5704,7 @@ Upon his basket-hilt laid hold,
 With equal readiness prcpar'd
 To draw, and stand upon his guard;
 When both were parted on the sudden,                          565
- With hideous clamour, and a loud one
+With hideous clamour, and a loud one
 As if all sorts of noise had been
 Contracted into one loud din;
 Or that some member to be chosen,
@@ -6212,7 +5723,6 @@ Yet neither of them would disparage,
 By utt'ring of his mind, his courage,
 Which made them stoutly keep their ground,
 With horror and disdain wind-bound.
-
 And now the cause of all their fear                           585
 By slow degrees approach'd so near,
 They might distinguish different noise
@@ -6293,7 +5803,6 @@ And HUDIBRAS, who us'd to ponder
 On such sights with judicious wonder,
 Could hold no longer to impart
 His animadversions, for his heart.
-
 Quoth he, In all my life, till now,                           665
 I ne'er saw so prophane a show.
 It is a Paganish invention, --
@@ -6324,7 +5833,6 @@ There's one with truncheon, like a ladle,
 That carries eggs too, fresh or addle;
 And still at random, as he goes,
 Among the rabble-rout bestows.
-
 Quoth Ralpho, You mistake the matter;                         695
 For all th' antiquity you smatter,
 Is but a riding, us'd of course
@@ -6343,7 +5851,6 @@ And by the right of war, like gills,
 Condemn'd to distaff, horns, and wheels:                      710
 For when men by their wives are cow'd,
 Their horns of course are understood
-
 Quoth HUDIBRAS thou still giv'st sentence
 Impertinently, and against sense.
 Tis not the least disparagement                               715
@@ -6384,7 +5891,6 @@ And by the Saints should be withstood,
 As Antichristian and lewd;                                    750
 And as such, should now contribute
 Our utmost struggling to prohibit.
-
 This said, they both advanc'd, and rode
 A dog-trot through the bawling crowd,
 T'attack the leader, and still prest,                         755
@@ -6481,7 +5987,6 @@ After th' had paus'd a while, supplying                       845
 Their spirits, spent with fight and flying,
 And HUDIBRAS recruited force
 Of lungs, for action or discourse,
-
 Quoth he, That man is sure to lose
 That fouls his hands with dirty foes:                         850
 For where no honour's to be gain'd,
@@ -6522,66 +6027,32 @@ Then let us straight, to cleanse our wounds,                  885
 Advance in quest of nearest ponds,
 And after (as we first design'd)
 Swear I've perform'd what she enjoin'd.
-
-
-NOTES TO PART II. CANTO II.
-
-
-15 <n> So th' ancient Stoicks, &c.] In Porticu (Stoicorum
 Schola Athenis) Discipulorum Seditionibus mille Quadrigenti
 triginta Cives interfecti sunt. -- Diog. Laert. In Vita Zenonis, p.
-383. [One thousand four hundred and thirty citizens were killed
 in the quarrels of the disciples in the porch (of the Stoic School
 of Athens).] Those old Virtuosos were better proficients in
 those exercises than modern, who seldom improve higher than
 cuffing and kicking.
-
-19 <o> Bonum is such a kind of animal as our modern virtuosi
 from Don Quixote will have windmills under sail to be.  The
 same authors are of opinion, that all ships are fishes while they
 are afloat; but when they are run on ground, & laid up, in the
 dock, become ships again.
-
-413 <p> in a town, &c.] The history of the Cobler had been
 attested by persons of good credit, who were upon the place
 when it was done.
-
-548 <q> Have been exchang'd, &c.] The knight was kept
 prisoner in Exeter, and, after several exchanges proposed, but
 none accepted of, was at last released for a barrel of ale, as he
 often used to declare.
-
-678 <r> Bore a slave with him in his chariot.
-    ------ Et sibi Consul
-    Me placeat, curru servus portatur eodem.
-[And it pleased the Consul to have me carried as a slave in his
+------ Et sibi Consul
+Me placeat, curru servus portatur eodem.
 chariot]
-
-683 <s> Hung out, &c.] Tunica Coccinia solebat pridie quam
 dimicandum esset, supra praetorium poni, quasi admonito, &
 indicium futurae pugnae. [The praetors wore scarlet tunics on
 the day before the battle, for a warning, and a portent of the
 future. ] Lipsius in Tacit. p. 56.
-
-
-687 <t> next links, &c.] That the Roman Emperors were wont
 to have torches borne before them (by day) appears by Herodian
 in Pertinace. Lipsius in Tacit. p. 16.
-
-879 <u> Vespasian being dawb'd, &c.] C. Caesar sucensens,
 propter curam verrendis viis non adhibitam, Luto jussit appleri
 congesto per milites in praetexte sinum. Sueton. in Vespas. C.5.
-
-
-
-PART II
-
-
-CANTO III.
-
-
-THE ARGUMENT
-
 -------------------------------------------------
 The Knight, with various Doubts possest,
 To win the Lady goes in quest
@@ -6592,15 +6063,12 @@ About the Science Astrologick,
 Till falling from Dispute to Fight,
 The Conj'rer's worsted by the Knight.
 -------------------------------------------------
-
-
 Doubtless the pleasure is as great
 Of being cheated as to cheat;
 As lookers-on feel most delight,
 That least perceive a jugler's slight;
 And still the less they understand,                             5
 The more th' admire his slight of hand.
-
 Some with a noise, and greasy light,
 Are snapt, as men catch larks by night;
 Ensnar'd and hamper'd by the soul,
@@ -6609,7 +6077,6 @@ Some with a med'cine, and receipt,
 Are  drawn to nibble at the bait;
 And tho' it be a two-foot trout,
 'Tis with a single hair pull'd out.
-
 Others believe no voice t' an organ                            15
 So sweet as lawyer's in his bar-gown,
 Until with subtle cobweb-cheats
@@ -6618,7 +6085,6 @@ In which, when once they are imbrangled,
 The more they stir, the more they're tangled;                  20
 And while their purses can dispute,
 There's no end of th' immortal suit.
-
 Others still gape t' anticipate
 The cabinet-designs of fate;
 Apply to wizards, to foresee                                   25
@@ -6655,7 +6121,6 @@ And that he durst not now for-shame                            55
 Appear in court to try his claim.
 This was the pen'worth of his thought,
 To pass time and uneasy trot.
-
 Quoth he, In all my past adventures
 I ne'er was set so on the tenters;                             60
 Or taken tardy with dilemma,
@@ -6702,7 +6167,6 @@ For though an oath obliges not
 Where any thing is to be got,
 (As thou last prov'd) yet 'tis profane,
 And sinful, when men swear in vain.
-
 Quoth RALPH, Not far from hence doth dwell                    105
 A cunning man, hight SIDROPHEL,
 That deals in destiny's dark counsels,
@@ -6723,12 +6187,10 @@ When butter does refuse to come,
 And love proves cross and humoursome:
 To him with questions, and with urine,
 They for discov'ry flock, or curing.
-
 Quoth HUDIBRAS, This SIDROPHEL                                125
 I've heard of, and should like it well,
 If thou canst prove the Saints have freedom
 To go to Sorc'rers when they need 'em.
-
 Says RALPHO, There's no doubt of that
 Whose principles I quoted late,                               130
 Prove that the Godly may alledge
@@ -6789,7 +6251,6 @@ The Scorpion take the Protestation,                           185
 And Bear engage for Reformation?
 Made all the Royal Stars recant,
 Compound and take the Covenant?
-
 Quoth HUDIBRAS, The case is clear,
 The Saints may 'mploy a Conjurer,                             190
 As thou hast prov'd it by their practice;
@@ -6800,14 +6261,12 @@ Then let us straight advance in quest                         195
 Of this profound Gymnosophist
 And as the Fates and he advise,
 Pursue or wave this enterprise,
-
 This said, he turn'd about his steed,
 And eftsoons on th' adventure rid;                            200
 Where leave we him and RALPH a while,
 And to the Conjurer turn our stile,
 To let our reader understand
 What's useful of him before-hand.
-
 He had been long t'wards mathematicks,                        205
 Optics, philosophy, and staticks,
 Magick, horoscopy, astrology,
@@ -6926,7 +6385,6 @@ And which are next of kin to those
 Engender'd in a chandler's nose;                              320
 Or those not seen, but understood,
 That live in vinegar and wood.
-
 A paultry wretch he had, half-starv'd,
 That him in place of Zany serv'd.
 Hight WHACHUM, bred to dash and draw,                         325
@@ -7003,7 +6461,6 @@ The gallow tree, when cutting purse                           395
 Breeds bus'ness for heroic verse,
 Which none does hear, but would have hung
 T' have been the theme of such a song.
-
 Those two together long had liv'd,
 In mansion prudently contriv'd;                               400
 Where neither tree nor house could bar
@@ -7052,7 +6509,6 @@ For if it be above the shade
 That by the earth's round bulk is made,
 'Tis probable it may from far                                 445
 Appear no bullet, but a star.
-
 This said, he to his engine flew,
 Plac'd near at hand, in open view,
 And rais'd it 'till it levell'd right
@@ -7069,7 +6525,6 @@ Pray heav'n divert the fatal omen,
 For 'tis a prodigy not common;                                460
 And can no less than the world's end,
 Or Nature's funeral, portend.
-
 With that he fell again to pry.
 Thro' perspective more wistfully,
 When by mischance the fatal string,                           465
@@ -7090,14 +6545,12 @@ Then since the time we have to live
 In this world's shorten'd, let us strive                      480
 To make our best advantage of it,
 And pay our losses with our profit.
-
 This feat fell out not long before
 The Knight, upon the forenam'd score,
 In quest of SIDROPHEL advancing,                              485
 Was now in prospect of the mansion
 Whom he discov'ring, turn'd his glass,
 And found far off, 'twas HUDIBRAS.
-
 WHACHUM, (quoth he), look yonder, some
 To try or use our art are come                                490
 The one's the learned Knight: seek out,
@@ -7152,7 +6605,6 @@ It is a scheme and face of Heaven,
 As the aspects are dispos'd this even,                        540
 I was contemplating upon
 When you arriv'd; but now I've done,
-
 Quoth HUDIBRAS, If I appear
 Unseasonable in coming here
 At such a tone, to interrupt,                                 545
@@ -7163,19 +6615,16 @@ By no means, Sir, quoth SIDROPHEL;
 The stars your coming did foretel:                            550
 I did expect you here, and knew,
 Before you spake, your bus'ness too.
-
 Quoth HUDIBRAS, Make that appear,
 And I shall credit whatsoe'er
 You tell me after on your word,                               555
 Howe'er unlikely, or absurd.
-
 You are in love, Sir, with a widow,
 Quoth he, that does not greatly heed you,
 And for three years has rid your wit
 And passion without drawing bit:                              560
 And now your bus'ness is to know,
 If you shall carry her or no.
-
 Quoth HUDIBRAS, You're in the right;
 But how the Devil you came by't
 I can't imagine; for the Stars,                               565
@@ -7188,7 +6637,6 @@ But if the Devil's of your counsel,
 Much may be done my noble Donzel;
 And 'tis on his account I come,
 To know from you my fatal doom.
-
 Quoth SIDROPHEL, If you Suppose,                              575
 Sir Knight, that I am one of those,
 I might suspect, and take the alarm,
@@ -7201,7 +6649,6 @@ Such as are lawful, and judge by
 Conclusions of Astrology:
 But for the Dev'l, know nothing by him;                       585
 But only this, that I defy him.
-
 Quoth he, Whatever others deem ye,
 I understand your metonymy:
 Your words of second-hand intention,
@@ -7242,7 +6689,7 @@ With their own influences will fetch 'em
 Down from their orbs, arrest, and catch 'em;
 Make 'em depose and answer to                                 625
 All questions e're they let them go.
- <h> BUMBASTUS kept a Devil's bird
+<h> BUMBASTUS kept a Devil's bird
 Shut in the pummel of his sword,
 That taught him all the cunning pranks
 Of past and future mountebanks.                               630
@@ -7256,7 +6703,6 @@ That was his tutor, and the cur
 Read to th' occult philosopher,
 And taught him subt'ly to maintain
 All other sciences are vain.                                  640
-
 To this, quoth SIDROPHELLO, Sir,
 AGRIPPA was no conjurer,
 Nor PARACELSUS, no, nor BEHMEN;
@@ -7275,7 +6721,6 @@ PYTHAGORAS, old ZOROASTER,                                    655
 And APOLLONIUS their master;
 To whom they do confess they owe
 All that they do, and all they know.
-
 Quoth HUDIBRAS, Alas! what is't t' us,
 Whether 'twas said by TRISMEGISTUS,                           660
 If it be nonsense, false, or mystick,
@@ -7292,7 +6737,6 @@ To be descended of a race
 Of ancient kings in a small space,
 That we should all opinions hold
 Authentic that we can make old.
-
 Quoth SIDROPHEL, It is no part                                675
 Of prudence to cry down an art,
 And what it may perform deny,
@@ -7351,7 +6795,6 @@ Discover'd sea and land, COLUMBUS
 And MAGELLAN cou'd never compass?                             730
 Made mountains with our tubes appear,
 And cattle grazing on 'em there?
-
 Quoth HUDIBRAS, You lie so ope,
 That I, without a telescope,
 Can mind your tricks out, and descry                          735
@@ -7364,7 +6807,6 @@ Believ'd the Heav'ns were made of stone,
 Because the Sun had voided one;
 And, rather than he would recant
 Th' opinion, suffer'd banishment.
-
 But what, alas! is it to us,                                  745
 Whether i' th' Moon men thus or thus
 Do eat their Porridge, cut their corns,
@@ -7411,7 +6853,6 @@ Or why wolves raise a hubbub at her,
 And dogs howl when she shines in water;
 And I shall freely give my vote,
 You may know something more remote.                           790
-
 At this deep SIDROPHEL look'd wise,
 And staring round with owl-like eyes,
 He put his face into a posture
@@ -7480,7 +6921,6 @@ Then much less can it be without                              855
 Divine Astrology made out;
 That puts the other down in worth,
 As far as Heav'n's above the earth.
-
 These reasons (quoth the Knight) I grant
 Are something more significant                                860
 Than any that the learned use
@@ -7599,7 +7039,6 @@ And vended here amongst the rabble,
 For staple goods and warrantable?
 <x> Like money by the Druids borrow'd,                        975
 In th' other world to be restor'd?
-
 Quoth SIDROPHEL, To let you know
 You wrong the art, and artists too,
 Since arguments are lost on those
@@ -7622,12 +7061,10 @@ And though you overcame the bear,                             995
 The dogs beat you at Brentford fair;
 Where sturdy butchers broke your noddle,
 And handled you like a fop-doodle.
-
 Quoth HUDIBRAS, I now perceive
 You are no conj'rer, by your leave;                          1000
 That <y> paultry story is untrue,
 And forg'd to cheat such gulls as you.
-
 Not true? quoth he; howe'er you vapour,
 I can what I affirm make appear.
 WHACHUM shall justify't t' your face,                        1005
@@ -7638,7 +7075,6 @@ He stole your cloak, and pick'd your pocket,
 Chows'd and caldes'd ye like a blockhead:                    1010
 And what you lost I can produce,
 If you deny it, here i' th' house.
-
 Quoth HUDIBRAS, I do believe
 That argument's demonstrative.
 RALPHO, bear witness; and go fetch us                        1015
@@ -7655,21 +7091,18 @@ Shalt make all taylors yards of one                          1025
 Unanimous opinion,
 A thing he long has vapour'd of,
 But now shall wake it out of proof.
-
 Quoth SIDROPHEL, I do not doubt
 To find friends that will bear me out,                       1030
 Nor have I hazarded my art,
 And neck, so long on the state's part,
 To be expos'd i' th' end to suffer
 By such a braggadocio huffer.
-
 Huffer! quoth HUDIBRAS: this sword                           1035
 Shall down thy false throat craw that word.
 RALPHO, make haste, and call an officer,
 To apprehend this Stygian sophister,
 Meanwhile I'll hold 'em at a bay,
 Lest he and WHACHUM run away.                                1040
-
 But SIDROPHEL who, from the aspect
 Of HUDIBRAS did now erect
 A figure worse portenting far
@@ -7700,7 +7133,6 @@ Just in the place where honour's lodg'd,
 As wise philosophers have judg'd;
 Because a kick in that place more
 Hurts honour than deep wounds before.                        1070
-
 Quoth HUDIBRAS, The stars determine
 You are my prisoners, base vermine!
 Could they not tell you so as well
@@ -7715,7 +7147,6 @@ I'll give you quarter; but your pillage,
 The conq'ring warrior's crop and tillage,
 Which with his sword he reaps and plows,
 That's mine, the law of arms allows.
-
 This said, in haste, in haste he fell                        1085
 To rummaging of SIDROPHEL.
 First, he expounded both his pockets,
@@ -7822,32 +7253,19 @@ Which once atchiev'd, he spurr'd his palfrey,
 To get from th' enemy, and RALPH, free
 Left dangers, fears, and foes behind,
 And beat, at least three lengths, the wind.                  1190
-
-
-
-NOTES TO PART II. CANTO III.
-
-
-140 A <w> Ledger, &c.] The Witch-finder in Suffolk, who, in
 the Presbyterian times, had a commission to discover witches,
 of whom (right or wrong) he caused 60 to be hanged within the
 compass of year; and, among the rest, the old minister, who
 been a painful preacher for many years.
-
-159 Did he not help the <x> Dutch, &c.] In the beginning of the
 Civil Wars of Flanders, the common people of Antwerp in a
 tumult broke open the cathedral church, to demolish images and
 shrines, and did so much mischief in a small time, that Strada
 writes, there were several Devils seen very busy among them,
 otherwise it had been impossible.
-
-161 <y> Sing catches, &c.] This Devil at Mascon delivered all
 his oracles, like his forefathers, in verse, which he sung to tunes.
 He made several lampoons upon the Hugonots, and foretold
 them many things which afterwards came to pass; as may be
 seen his Memoirs, written in French.
-
-163 <z> Appear'd in divers, &c.] The History of Dee and the
 Devil, published by Mer. Casaubon, Isaac Fil. Prebendary of
 Canterbury, has a large account of all those passages, in which
 the stile of the true and false angels appears to be penned by one
@@ -7855,18 +7273,12 @@ and the same person.  The Nun of Loudon, in France, and all
 her tricks, have been seen by many persons of quality of this
 nation yet living, who have made very good observations upon
 the French book written on that occasion.
-
-165 <a> Met with, &c] A Committee of the Long Parliament,
 sitting in the King's-house in Woodstock Park, were terrified
 with several apparitions, the particulars whereof were then the
 news of the whole nation.
-
-157 <b> At Sarum, &c.] Withers has a long story, in doggerel,
 of a soldier in the King's army, who being a prisoner at
 Salisbury, and drinking a health to the Devil upon his knees,
 was carried away by him through a single pane of glass.
-
-224 Since old <c> Hodge Bacon, &c.] Roger Bacon, commonly
 called Friar Bacon, lived in the reign of Edward I. and, for some
 little skill he had in the mathematicks, was by the rabble
 accounted a conjurer, and had the sottish story of the Brazen
@@ -7877,77 +7289,51 @@ by the Clergy to be a Conjurer; for which crime, being degraded
 by Innocent IV. and summoned to appear at Rome, appealed to
 the tribunal of Christ; which our lawyers say is illegal, if not a
 Praemunire, for offering to sue in a Foreign Court.
-
-513 Which <d> Socrates, &c.] Aristophanes, in his comedy of
 the Clouds, brings in Socrates and Chaerephon, measuring the
 leap of a flea from the one's beard to the other's.
-
-404 <e> Was rais'd by him, &c.] This Fisk was a famous
 astrologer, who flourished about the time of Subtile and Face,
 and was equally celebrated by Ben Jonson.
-
-436 <e> Unless it be, &c.] This experiment was tried by some
 foreign Virtuosos, who planted a piece of ordnance point-blank
 against the Zenith, and having fired it, the bullet never
 rebounded back again; which made them all conclude that it
 sticks in the mark: but Des Cartes was of opinion, that it does
 but hang in the air.
-
-477 <f> As lately 't was, &c.] This Sedgwick had many persons
 (and some of quality) that believed in him, and prepared to keep
 the day of judgment with him, but were disappointed; for which
 the false prophet was afterwards called by the name of Dooms-
 day Sedgwick.
-
-609 <g> Your modern Indian &c.] This compendious new way
 of magick is affirmed by Monsieur Le Blanc (in his travels) to
 be used in the East Indies.
-
-627 <h> Bumbastus kept, &c.] Paracelsus is said to have kept a
 small devil prisoner in the pummel of his sword, which was the
 reason, perhaps, why he was so valiant in his drink. Howsoever,
 it was to better purpose than Hannibal carried poison in his, to
 dispatch himself; for the sword alone would have done the feat
 much better, and more soldier-like; and it was below the honour
 of so great a commander, to go out of the world like a rat.
-
-635 <i> Agrippa kept &c.] Cornelius Agrippa had a dog which
 was suspected to be a spirit, for some tricks he was wont to do
 beyond the capacity of a dog, as it was thought; but the author
 of Magia Adamica has taken a great deal of pains to vindicate
 both the doctor and the dog from the aspersion, in which he has
 shewn a very great respect and kindness for them both.
-
-679 As <k> Averrhois, &c.] Averrhois Astronomium propter
 Excentricos contempsit. [Averroes despised the eccentriciticites
 of astronomy]. Phil. Melanchthon in Elem. Phil. P 781.
-
-691 <l> The Median Emperor dreamt his daughter, &c.]
 Astyages, King of Media, had this dream of his daughter
 Madane, and the interpretation of the Magi, wherefore he
 married her to a Persian of mean quality, by whom she had
 Cyrus, who conquered all Asia, and translated the empire from
 the Medes to the Persians. -- Herodot. L. i.
-
-697 <m> When Caesar, &c.] Fiunt aliquando prodigiosi, &
 longiores Solus Defectus, quales occisa Caesare Dictatore, &
 Antoniano Bello, totius Anni Pallore continuo. [Other miracles
 occurred, and the sun was dimmed for a longer time, for
 example,  at the death of the Dictator Caesar, and the Antonine
 war, its dimness continued for a whole year]  -- Phil.
-
-701 <n> Augustus having &c.] Divus Augustus laevum sibi
 prodidit calceum praepostere idutum, qua die seditione Militum
 prope afflictus est. [The Divine Augustus put on his left boot
 before the right one, that same day he was afflicted by a mutiny
 of the soldiers]  -- Idem L. 2.
-
-709 <o> The Roman Senate, &c.] Romani L. Crasso & Mario
 Coss. Bubone viso orbem lustrabant. [The Romans L Crasso
 and Mario Coss. ritually purified the country from (the evil
 influence caused by) seeing the owl.]
-
-737 For <p> Anaxagoras, &c.] Anaxagoras affirmabat Solem
 candens Ferrum esse, & Peloponneso majorem: Lunam
 Habitacula in se habere, & Colles, & Valles. Fertur dixisse
 Coelum omne ex Lapidibus esse compositum; Damnatus & in
@@ -7958,56 +7344,38 @@ and hills, and valleys. He was so carried away that he said that
 the whole sky was made of stone. He was condemned and
 driven into exile, for speaking impiously about the pure white
 light of the sun] -- Diog. Laert. in Anaxag. p. 11, 13.
-
-865 <q> Th' Egyptians say &c.] Egyptii decem millia Annorum
 & amplius recensent; & observatum est in hoc tanto Spatio, bis
 mutata esse Loca Ortuum & Occasuum Solis, ita ut Sol bis
 ortus sit ubi nunc occidit, & bis descenderit ubi nunc oritur.
-[The Egyptians have records for ten thousand years and more,
 and it has been observed that during this space of time, the
 rising and setting places of the sun have changed twice, so that
 twice the sun has risen where it now sets, and twice set where it
 now rises] -- Phil. Melanct. Lib. 1 Pag. 60.
-
-871 <r> Some hold the heavens, &c.] Causa quare Coelum non
 cadit (secundem Empedoclem) est velocitas sui motus. [ The
 reason the sky does not fall is (according to Empedocles) the
 speed it is moving at] -- Comment. in L. 2. Aristot. de Coelo.
-
-877 <s> Plato believ'd, &c.] Plato Solem & Lunam caeteris
 Planetis inferiores esse putavit. [Plato believed that the Sun and
 Moon were lower than the other planets]-- G. Gunnin in
 Cosmog. L. 1. p. 11.
-
-881 <t> The learned Scaliger, &c.] Copernicus in Libris
 Revolutionem, deinde Reinholdus, post etiam Stadius
 Mathematici nobiles perspicuis Demonstrationibus docuerunt,
 solis Apsida Terris esse propiorem, quam Ptolemaei aetate
 duodecem partibus, i. e. uno & triginta terrae semidiameteris.
-[Copernicus in his Book of Revolutions, and afterwards
 Reinholdus, very cleverly showed by mathematical means that
 the perihelion of the earth was (become) nearer in the twelve
 centuries since Ptolemy, that is, thirty-one times the radius of
 the earth.] -- Jo. Bod. Met. Hist. p. 455.
-
-895 <u> Cardan believ'd, &c.] Putat Cardanus, ab extrema
 Cauda Halices seu Majoris Ursae omne magnum Imperium
 pendere.[Cardanus believed that the fate of every great empire
 depended on the end of the tail of the Thumb or Great Bear] --
 Idem p. 325.
-
-913 <w> Than th' old Chaldean, &c.] Chaldaei jactant  se
 quadringinta septuaginta Annorum millia in periclitandis,
 experiundisque Puerorum Animis possuisse.[The Chaldeans
 alleged that they were forty or seventy thousand years in
 experiments to possess the souls of boys] -- Cicero
-
-975 <x> Like Money, &c.] Druidae pecuniam mutuo
 accipiebant in posteriore vita reddituri. [The Druids accepted
 money from one another to be repaid in the next life] --
 Patricius. Tom.2 p.9.
-
-1001 <y> That paltry story, &c.]  There was a notorious ideot
 (that is here described by the name and character of Whachum)
 who counterfeited a second part of Hudibras, as untowardly as
 Captain Po, who could not write himself, and yet made a shift
@@ -8015,8 +7383,6 @@ to stand on the pillory for forging other men's hands, as his
 fellow Whachum no doubt deserved; in whose abominable
 doggerel this story of Hudibras and a French mountebank at
 Brentford fair is as properly described.
-
-1024 That the <z> vibration &c.] The device of the vibration of
 a Pendulum was intended to settle a certain measure of ells and
 yards, &c. (that should have its foundation in nature) all the
 world over: For by swinging a weight at the end of a string, and
@@ -8030,21 +7396,12 @@ hour of satin, or taffeta, they would know perfectly what it
 meant; and all mankind learn a new way to measure things, no
 more by the yard, foot or inch, but by the hour, quarter, and
 minute.
-
-1113 <a> Before the Secular, &c.] As the Devil is the Spiritual
 Prince of Darkness, so is the Constable the Secular, who
 governs the night with as great authority as his colleague, but
 far more imperiously.
-
-
-
-AN HEROICAL EPISTLE OF HUDIBRAS TO SIDROPHEL
-
-
 -------------------------
 Ecce Iterum Crispinus.---
 -------------------------
-
 WELL! SIDROPHEL, though 'tis in vain
 To tamper with your crazy brain,
 Without trepanning of your skull
@@ -8175,17 +7532,6 @@ And, proof against her influence,
 Relapse to e'er so little sense,
 To turn stark fools, and subjects fit
 For sport of boys, and rabble-wit.                            130
-
-
-
-PART III.
-
-
-CANTO I.
-
-
-THE ARGUMENT.
-
 -------------------------------------------------
 The Knight and Squire resolve, at once,
 The one the other to renounce.
@@ -8196,8 +7542,6 @@ By Furies and Hobgoblins made;
 From which the Squire conveys the Knight,
 And steals him from himself, by Night.
 -------------------------------------------------
-
-
 'Tis true, no lover has that pow'r
 T' enforce a desperate amour,
 As he that has two strings t' his bow,
@@ -8234,7 +7578,6 @@ Who therefore took the wiser course,
 To make the most of his amours,
 Resolv'd to try all sorts of ways,                             35
 As follows in due time and place
-
 No sooner was the bloody fight,
 Between the Wizard, and the Knight,
 With all th' appurtenances, over,
@@ -8297,7 +7640,6 @@ And he acquires the noblest spouse                             95
 That widows greatest herds of cows:
 Then what may I expect to do,
 Wh' have quell'd so vast a buffalo?
-
 Mean while, the Squire was on his way
 The Knight's late orders to obey;                             100
 Who sent him for a strong detachment
@@ -8362,7 +7704,6 @@ With whom encount'ring, after longees
 Of humble and submissive congees,                             160
 And all due ceremonies paid,
 He strok'd his beard, and thus he said:
-
 Madam, I do, as is my duty,
 Honour the shadow of your shoe-tye;
 And now am come to bring your ear                             165
@@ -8373,24 +7714,20 @@ For which I humbly now demand
 Performance at your gentle hand                               170
 And that you'd please to do your part,
 As I have done mine, to my smart.
-
 With that he shrugg'd his sturdy back
 As if he felt his shoulders ake.
-
 But she, who well enough knew what                            175
 (Before he spoke) he would be at,
 Pretended not to apprehend
 The mystery of what he mean'd;.
 And therefore wish'd him to expound
 His dark expressions, less profound.                          180
-
 Madam, quoth he, I come to prove
 How much I've suffer'd for your love,
 Which (like your votary) to win,
 I have not spar'd my tatter'd skin
 And for those meritorious lashes,                             185
 To claim your favour and good graces.
-
 Quoth she, I do remember once
 I freed you from th' inchanted sconce;
 And that you promis'd, for that favour,
@@ -8403,14 +7740,12 @@ Which, whether you have done or no,                           195
 Concerns yourself, not me, to know.
 But if you have, I shall confess,
 Y' are honester than I could guess.
-
 Quoth he, if you suspect my troth,
 I cannot prove it but by oath;                                200
 And  if you make a question on't,
 I'll pawn my soul that I have done't;
 And he that makes his soul his surety,
 I think, does give the best security.
-
 Quoth she, Some say, the soul's secure                        205
 Against distress and forfeiture
 Is free from action, and exempt
@@ -8427,7 +7762,6 @@ And equally abhor to quit
 This world for both or both for it;
 And when they pawn and damn their souls,
 They are but pris'ners on paroles.                            220
-
 For that (quoth he) 'tis rational,
 Th' may be accountable in all:
 For when there is that intercourse
@@ -8442,12 +7776,10 @@ For oaths are th' only tests and seals
 Of right and wrong, and true and false,
 And there's no other way to try
 The doubts of law and justice by.
-
 (Quoth she) What is it you would swear                        235
 There's no believing till I hear
 For, till they're understood all tales
 (Like nonsense) are not true nor false.
-
 (Quoth he) When I resolv'd t' obey
 What you commanded th' other day,                             240
 And to perform my exercise,
@@ -8552,7 +7884,6 @@ When less delinquents have been scourg'd,
 And hemp on wooden anvil forg'd,                              340
 Which others for cravats have worn
 About their necks, and took a turn.
-
 I pity'd the sad punishment
 The wretched caitiff underwent,
 And left my drubbing of his bones,                            345
@@ -8565,7 +7896,6 @@ Their horses never give a blow,
 But when they make a leg, and bow.
 I therefore spar'd his flesh, and prest him
 About the witch with many a. question.
-
 Quoth he, For many years he drove                             355
 A kind of broking-trade in love;
 Employ'd in all th' intrigues, and trust
@@ -8690,7 +8020,6 @@ But that he stood upon his guard,                             475
 And all your vapouring out-dar'd;
 For which, between you both, the feat
 Has never been perform'd as yet.
-
 While thus the Lady talk'd, the Knight
 Turn'd th' outside of his eyes to white;                      480
 (As men of inward light are wont
@@ -8701,7 +8030,6 @@ Held up his affidavit-hand,                                   485
 As if h' had been to be arraign'd;
 Cast t'wards the door a look,
 In dread of SIDROPHEL, and spoke:
-
 Madam, if but one word be true
 Of all the Wizard has told you,                               490
 Or but one single circumstance
@@ -8710,7 +8038,6 @@ May dreadful earthquakes swallow down
 This vessel, that is all your own;
 Or may the heavens fall, and cover                            495
 These reliques of your constant lover.
-
 You have provided well, quoth she,
 (I thank you) for yourself and me,
 And shown your presbyterian wits
@@ -8737,7 +8064,6 @@ Provided that they pass th' opinion
 Of able juries of old women                                   520
 Who, us'd to judge all matter of facts
 For bellies, may do so for backs,
-
 Madam, (quoth he,) your love's a million;
 To do is less than to be willing,
 As I am, were it in my power,                                 525
@@ -8748,7 +8074,6 @@ You know I ought to have a care
 To keep my wounds from taking air:                            530
 For wounds in those that are all heart,
 Are dangerous in any part.
-
 I find (quoth she) my goods and chattels
 Are like to prove but mere drawn battels;
 For still the longer we contend,                              535
@@ -8973,7 +8298,6 @@ Sweet as a screech-owl's serenade,
 Or those enchanting murmurs made
 By th' husband <p> mandrake and the wife,                     755
 Both  bury'd (like themselves) alive.
-
 Quoth he, These reasons are but strains
 Of wanton, over-heated brains
 Which ralliers, in their wit, or drink,
@@ -9270,7 +8594,6 @@ Who at your flames would soon take fire,
 Relent, and melt to your desire,                             1050
 And like a candle in the socket,
 Dissolve her graces int' your pocket.
-
 By this time 'twas grown dark and late,
 When they heard a knocking at the gate,
 Laid on in haste with such a powder,                         1055
@@ -9313,7 +8636,6 @@ And lodge in ambush on the floor,
 Or fortify'd behind a door;
 That if the enemy shou'd enter,
 He might relieve her in th' adventure.
-
 Mean while they knock'd against the door                     1095
 As fierce as at the gate before,
 Which made the Renegado Knight
@@ -9366,7 +8688,6 @@ B' a gen'ral of the cavaliers
 Was dragg'd thro' a window by th' ears;
 So he was serv'd in his redoubt,                             1145
 And by the other end pull'd out.
-
 Soon as they had him at their mercy,
 They put him to the cudgel fiercely,
 As if they'd scorn'd to trade or barter,
@@ -9395,7 +8716,6 @@ Which thou hast now no way to lessen,
 But by an open, free confession;
 For if we catch thee failing once,
 'Twill fall the heavier on thy bones.
-
 What made thee venture to betray,                            1175
 And filch the lady's heart away?
 To Spirit her to matrimony? --
@@ -9406,7 +8726,6 @@ That, in return, wou'd pay th' expence,
 The wear and tear of conscience;
 Which I cou'd have patch'd up, and turn'd,
 For the hundredth part of what I earn'd.
-
 Didst thou not love her then? Speak true.                    1185
 No more (quoth he) than I love you. --
 How would'st th' have us'd her, and her money? --
@@ -9417,15 +8736,12 @@ Which I before-hand had agreed
 T' have put, on purpose in the deed;
 And bar her widow's making over
 T' a friend in trust, or private lover.
-
 What made thee pick and chuse her out,                       1195
 T' employ their sorceries about? --
 That which makes gamesters play with those
 Who have least wit, and most to lose.
-
 But didst thou scourge thy vessel thus,
 As thou hast damn'd thyself to us?                           1200
-
 I see you take me for an ass:
 'Tis true, I thought the trick wou'd pass
 Upon a woman well enough,
@@ -9434,10 +8750,8 @@ Whose humours are not to be won,                             1205
 But when they are impos'd upon.
 For love approves of all they do
 That stand for candidates, and woo.
-
 Why didst thou forge those shameful lies
 Of bears and witches in disguise?                            1210
-
 That is no more than authors give
 The rabble credit to believe:
 A trick of following their leaders,
@@ -9448,10 +8762,8 @@ Which, when 'tis natural and true,
 Will be believ'd b' a very few,
 Beside the danger of offence,
 The fatal enemy of sense.                                    1220
-
 Why did thou chuse that cursed sin,
 Hypocrisy, to set up in?
-
 Because it is in the thriving'st calling,
 The only Saints-bell that rings all in;
 In which all churches are concern'd,                         1225
@@ -9466,75 +8778,58 @@ Which few hold forth against, for fear
 Their hands should slip, and come too near;
 For no sin else among the Saints                             1235
 Is taught so tenderly against.
-
 What made thee break thy plighted vows? --
 That which makes others break a house,
 And hang, and scorn ye all, before
 Endure the plague of being poor.                             1240
-
 Quoth he, I see you have more tricks
 Than all your doating politicks,
 That are grown old, and out of fashion,
 Compar'd with your New Reformation;
 That we must come to school to you,                          1245
 To learn your more refin'd, and new.
-
 Quoth he, If you will give me leave
 To tell you what I now perceive,
 You'll find yourself an arrant chouse,
 If y' were but at a Meeting-House. --                        1250
 'Tis true, quoth he, we ne'er come there,
 Because, w' have let 'em out by th' year.
-
 Truly, quoth he, you can't imagine
 What wond'rous things they will engage in
 That as your fellow-fiends in Hell                           1255
 Were angels all before they fell,
 So are you like to be agen,
 Compar'd with th' angels of us men.
-
 Quoth he, I am resolv'd to be
 Thy scholar in this mystery;                                 1260
 And therefore first desire to know
 Some principles on which you go.
-
 What makes a knave a child of God,
 And one of us? -- A livelihood.
 What renders beating out of brains,                          1265
 And murder, godliness? -- Great gains.
-
 What's tender conscience? -- 'Tis a botch,
 That will not bear the gentlest touch;
 But breaking out, dispatches more
 Than th' epidemical'st plague-sore.                          1270
-
 What makes y' encroach upon our trade,
 And damn all others?  -- To be paid.
-
 What's orthodox, and true, believing
 Against a conscience? -- A good living.
-
 What makes rebelling against Kings                           1275
 A Good Old Cause? -- Administrings.
-
 What makes all doctrines plain and clear? --
 About two hundred pounds a year.
-
 And that which was prov'd true before,
 Prove false again? -- Two hundred more.                      1280
-
 What makes the breaking of all oaths
 A holy duty? -- Food and cloaths.
-
 What laws and freedom, persecution? --
 B'ing out of pow'r, and contribution.
-
 What makes a church a den of thieves? --                     1285
 A dean and chapter, and white sleeves.
-
 Ad what would serve, if those were gone,
 To make it orthodox? -- Our own.
-
 What makes morality a crime,
 The most notorious of the time;                              1290
 Morality, which both the Saints,
@@ -9549,7 +8844,6 @@ As virtue's impious, when 'tis rooted
 In nature only, and not imputed                              1300
 But why the wicked should do so,
 We neither know, or care to do.
-
 What's liberty of conscience,
 I' th' natural and genuine sense?
 'Tis to restore, with more security,                         1305
@@ -9558,19 +8852,16 @@ And christian liberty reduce
 To th' elder practice of the Jews.
 For a large conscience is all one,
 And signifies the same with none.                            1310
-
 It is enough (quoth he) for once,
 And has repriev'd thy forfeit bones:
 NICK MACHIAVEL had ne'er a trick,
 (Though he gave his name to our Old Nick,)
 But was below the least of these,                            1315
 That pass i' th' world for holiness.
-
 This said, the furies and the light
 In th' instant vanish'd out of sight,
 And left him in the dark alone,
 With stinks of brimstone and his own.                        1320
-
 The <z> Queen of Night, whose large command
 Rules all the sea, and half the land,
 And over moist and crazy brains,
@@ -9613,14 +8904,12 @@ And one of those h' had seen, and felt
 The drubs he had so freely dealt;                            1360
 When, after a short pause and groan,
 The doleful Spirit thus went on:
-
 This 'tis t' engage with dogs and bears
 Pell-mell together by the ears,
 And, after painful bangs and knocks,                         1365
 To lie in limbo in the stocks,
 And from the pinnacle of glory
 Fall headlong into purgatory.
-
 (Thought he, this devil's full of malice,
 That in my late disasters rallies:)                          1370
 Condemn'd to whipping, but declin'd it,
@@ -9631,14 +8920,12 @@ Engag'd with fiends in stubborn wars,                        1375
 And hot disputes with conjurers;
 And when th' hadst bravely won the day,
 Wast fain to steal thyself away.
-
 (I see, thought he, this shameless elf
 Wou'd fain steal me too from myself,                         1380
 That impudently dares to own
 What I have suffer'd for and done,)
 And now but vent'ring to betray,
 Hast met with vengeance the same way.
-
 Thought he, how does the Devil know                          1385
 What 'twas that I design'd to do?
 His office of intelligence,
@@ -9657,7 +8944,6 @@ With that he rouz'd his drooping heart,
 And hastily cry'd out, What art?                             1400
 A wretch (quoth he) whom want of grace
 Has brought to this unhappy place.
-
 I do believe thee, quoth the Knight;
 Thus far I'm sure th' art in the right;
 And know what 'tis that troubles thee,                       1405
@@ -9678,7 +8964,6 @@ Of which conceit you are so proud,
 At ev'ry jest you laugh aloud,                               1420
 As now you wou'd have done by me,
 But that I barr'd your raillery.
-
 Sir (quoth the voice) y'are no such <b> Sophi
 As you would have the world judge of ye.
 If you design to weigh our talents                           1425
@@ -9691,7 +8976,6 @@ And never left you in contest,
 With male or female, man or beast,
 But prov'd as true t' ye, and entire,
 In all adventures, as your Squire.
-
 Quoth he, That may be said as true                           1435
 By the idlest pug of all your crew:
 For none cou'd have betray'd us worse
@@ -9706,7 +8990,6 @@ I am afraid it is as true,                                   1445
 What th' ill-affected say of you:
 Y' have spous'd the Covenant and Cause,
 By holding up your cloven paws.
-
 Sir, quoth the voice, 'tis true, I grant,
 We made and took the Covenant;                               1450
 But that no more concerns the Cause
@@ -9715,14 +8998,12 @@ Which when they're prov'd in open court,
 Wear wooden <c> peccadillo's for't:
 And that's the reason Cov'nanters                            1455
 Hold up their hands like rogues at bars.
-
 I see, quoth HUDIBRAS, from whence
 These scandals of the Saints commence,
 That are but natural effects
 Of Satan's malice, and his sects,                            1460
 Those Spider-Saints, that hang by threads,
 Spun out o' th' intrails of their heads.
-
 Sir, quoth the voice, that may as true
 And properly be said of you,
 Whose talents may compare with either,                       1465
@@ -9785,12 +9066,10 @@ When to a legal <e> Utlegation
 You turn your excommunication,
 And for a groat unpaid, that's due,
 <f> Distrain on soul and body too.
-
 Thought he, 'tis no mean part of civil                       1525
 State prudence to cajole the Devil
 And not to handle him too rough,
 When h' has us in his cloven hoof.
-
 T' is true, quoth he, that intercourse
 Has pass'd between your friends and ours;                    1530
 That as you trust us, in our way,
@@ -9809,7 +9088,6 @@ And if it were but in our power,
 We should not scruple to do more,
 And not be half a soul behind                                1545
 Of all dissenters of mankind.
-
 Right, quoth the voice, and as I scorn
 To be ungrateful, in return
 Of all those kind good offices,
@@ -9820,7 +9098,6 @@ The cock crows, and the morn grows on,
 When 'tis decreed I must be gone;
 And if I leave you here till day,                            1555
 You'll find it hard to get away.
-
 With that the Spirit grop'd about,
 To find th' inchanted hero out,
 And try'd with haste to lift him up;
@@ -9871,47 +9148,26 @@ Where let us leave 'em for a time,
 And to their Churches turn our rhyme;
 To hold forth their declining state,                         1605
 Which now come near an even rate.
-
-
-
-NOTES TO PART III. CANTO 1.
-
-
-15 a And more, &c.] Caligula was one of the Emperors of
 Rome, son of Germanicus and Agrippina. He would needs pass
 for a god, and had the heads of the ancient statues of the gods
 taken off; and his own placed on in their stead; and used to
 stand between the statues of Castor and Pollux to be
 worshipped; and often bragged of lying with the Moon.
-
-43 b And us'd &c.] Philters were love potions, reported to be
 much in request in former ages; but our true Knight-Errant Hero
 made use of no other but what his noble atchievements by his
 sword produced.
-
-52 c To th' Ordeal, &c.] Ordeal trials were, when supposed
 criminals, to discover their innocence, went over several red-hot
 coulter irons. These were generally such whose chastity was
 suspected, as the vestal virgins, &c.
-
-93 d So Spanish Heroes, &c.] The young Spaniards signalize
 their valour before the Spanish ladies at bull feasts, which often
 prove very hazardous, and sometimes fatal to them. It is
 performed by attacking of a wild bull, kept on purpose, and let
 loose at the combatant; and he that kills most, carries the laurel,
 and dwells highest in the ladies' favour.
-
-137 e To pawn, &c.] His exterior ears were gone before, and so
 out of danger; but by inward ears is here meant his conscience.
-
-252 f Loud as, &c.] Stentrophon: A speaking trumpet, by which
 the voice may be heard at a great distance, very useful at sea.
-
-276 g As if th' had, &c.] This alludes to some abject letchers,
 who used to be disciplined with amorous lashes by their
 mistresses.
-
-323 h Bewitch Hermetick Men, &c.] Hermes Trismegistus, an
 Egyptian Philosopher, and said to have lived Anno Mundi 2076,
 in the reign of Ninus, after Moses. He was a wonderful
 philosopher and proved that there was but one God, the creator
@@ -9921,122 +9177,67 @@ though the pretended sectators of this great man, are nothing
 else but a wild and extravagant sort of enthusiasts, who make a
 hodge-podge of Religion and Philosophy, and produce nothing
 but what is the object of every considering person's contempt.
-
-326 i Potosi.] Potosi is a city of Peru, the mountains whereof
 afford great quantities of the finest silver in all the Indies.
-
-603 k More wretched, &c.] Villainage was an antient tenure, by
 which the tenants were obliged to perform the most abject and
 slavish services for their lords.
-
-639 l Like Indian Widows, &c.] The Indian women, richly
 attired, are carried in a splendid and pompous machine to the
 funeral pile where the bodies of their deceased husbands are to
 be consumed, and there voluntarily throw themselves into it,
 and expire; and such as refuse, their virtue is ever after
 suspected, and they live in the utmost contempt.
-
-647 m For as the Pythagorean, &c.] It was the opinion of
 Pythogoras and his followers, that, the soul transmigrated (as
 they termed it) into all the diverse species of animals; and so
 was differently disposed and affected, according to their
 different natures and constitutions.
-
-707 n For tho' Chineses, &c.] The Chinese men of quality, when
 their wives are brought to bed, are nursed and tended with as
 much care as women here, and are supplied with the best
 strengthening and nourishing diet, in order to qualify them for
 future services.
-
-751 o Transform them into Rams, &c.] The Sirens according to
 the poets, were three sea-monsters, half women and half fish:
 their names were Parthenope, Lignea and Leucosia. Their usual
 residence was about the island of Sicily, where, by the charming
 melody of their voices, they used to detain those that heard
 them, and then transform them into some sort of brute animals.
-
-755  p By the Husband Mandrake, &c.] Naturalists report, that
 if a male and female Mandrake lie near each other, there will
 often be heard a sort of murmuring noise.
-
-797 q The World is but two Parts, &c.] The equinoctial divides
 the globe into North and South.
-
-819 r Unless among the Amazons, &c.] The Amazons were
 women of Scythia, of heroick and great atchievements. They
 suffered no men to live among them; but once every year used
 to have conversation with men, of the neighbouring countries,
 by which if they had a male child, they presently either killed or
 crippled it; but if a female, they brought it up to the use of arms,
 and burnt off one breast, leaving the other to suckle girls.
-
-865 s The Nymphs of chaste Diana's &c.] Diana's Nymphs, all
 of whom vowed perpetual virginity, and were much celebrated
 for the exact observation of their vow.
-
-866 t Lewkner's Lane.] Some years ago swarmed with
 notoriously lascivious and profligate strumpets.
-
-877 u The Reason of it is &c.] Demanding the clergy of her
 belly, which, for the reasons aforesaid, is pleaded in excuse by
 those who take the liberty to oblige themselves and friends.
-
-1086 w As IRONSIDE or HARDIKNUTE, &c.] Two famous
 and valiant princes of this country; the one a Saxon, the other a
 Dane.
-
-1131 x But those that trade in Geomancy, &c.] The Lapland
 Magi. The Laplanders are an idolatrous people, far North: and it
 is very credibly reported, by authors and persons that have
 travelled in their country, that they do perform things incredible
 by what is vulgarly called Magick.
-
-1158 y To burning with, &c.] An allusion to cauterizing in
 apoplexies, &c.
-
-1321 z The Queen of Night, &c.] The moon influences the
 tides, and predominates over all humid bodies; and persons
 distempered in mind are called Lunaticks.
-
-1344 a And growing to thy Horse, &c.] The Centaurs were a
 people of Thessaly, and supposed to be the first managers of
 horses; and the neighbouring inhabitants never having seen any
 such thing before, fabulously reported them monsters, half men
 and half horses.
-
-1423 b Sir (quoth the Voice) &c.] Sophi is at present the name
 of the kings of Persia, not superadded, as Pharaoh was to the
 kings of Egypt, but the name of the family itself, and religion of
 Hali; whose descendants by Fatimas, Mahomet's daughter, took
 the name of Sophi.
-
-1451 c Wear wooden Peccadillos &c.] Peccadillos were stiff
 pieces that went about the neck; and round about the shoulders,
 to pin the band, worn by persons nice in dressing; his wooden
 one is a pillory.
-
-1483 d Hence 'tis Possessions, &c.] Criminals, in their
 indictments, are charged with not having the fear of God before
 their eyes, but being led by the instigation of the Devil.
-
-1521 e When to a legal Utlegation, &c.] When they return the
 excommunication into the Chancery, there is issued out a writ
 against the person.
-
-1524 f Distrain on Soul, &c.] Excommunication, which
 deprives men from being Members of the visible church, and
 formally delivers them up to the Devil.
-
-
-
-PART III
-
-
-CANTO II.
-
-
-THE ARGUMENT.
-
 -------------------------------------------------
 The Saints engage in fierce Contests
 About their Carnal interests;
@@ -10047,8 +9248,6 @@ When Cromwel left them in a Storm
 Till, in th' Effigy of Rumps, the Rabble
 Burns all their Grandees of the Cabal.
 -------------------------------------------------
-
-
 THE learned write, an <g> insect breeze
 Is but a mungrel prince of bees,
 That falls before a storm on cows,
@@ -10135,7 +9334,6 @@ Till he who had no more to show
 I' th' case receiv'd the overthrow;
 Or both sides having had the worst,                            85
 They parted as they met at first.
-
 Poor PRESBYTER was now reduc'd,
 Secluded, and cashier'd, and chous'd
 Turn'd out, and excommunicate
@@ -10160,7 +9358,6 @@ Had store of money in her purse
 When he took her for bett'r or worse;
 But now was grown deform'd and poor,
 And fit to be turn'd out of door.                             110
-
 The INDEPENDENTS (whose first station
 Was in the rear of reformation,
 A mungrel kind of church-dragoons,
@@ -10179,7 +9376,6 @@ And in a while prevail'd so far,                              125
 To win of them the game of war,
 And be at liberty once more
 T' attack themselves, as th' had before.
-
 For now there was no foe in arms,
 T' unite their factions with alarms,                          130
 But all reduc'd and overcome,
@@ -10214,7 +9410,6 @@ Although there's nothing lost or won,
 The publick bus'ness is undone;                               160
 Which still the longer 'tis in doing,
 Becomes the surer way to ruin.
-
 This, when the ROYALISTS perceiv'd,
 (Who to their faith as firmly cleav'd,
 And own'd the right they had paid down                        165
@@ -10267,7 +9462,6 @@ Until, in spight of force and treason,
 They put their loyalty in possession;
 And by their constancy and faith,
 Destroy 'd the mighty men of Gath.
-
 Toss'd in a furious hurricane,                                215
 Did OLIVER give up his reign;
 And was believ'd, as well by Saints,
@@ -10284,14 +9478,12 @@ So ROMULUS <p> was seen before
 B' as orthodox a Senator;
 From whose divine illumination
 He stole the Pagan revelation.                                230
-
 Next him his <q> Son and Heir Apparent
 Succeeded, though a lame vicegerent;
 Who first laid by the Parliament,
 The only crutch on which he leant;
 And then sunk underneath the State,                           235
 That rode him above horseman's weight.
-
 And now the Saints began their reign,
 For which th' had yearn'd so long in vain,
 And felt such bowel-hankerings,
@@ -10322,7 +9514,6 @@ Yet many diff'rent intellects
 Are found t' have contrary effects;
 And many heads t' obstruct intrigues,                         265
 As slowest insects have most legs.
-
 Some were for setting up a King;
 But all the rest for no such thing,
 Unless KING JESUS. Others tamper'd
@@ -10389,7 +9580,6 @@ For thrashing mountains, and with spells
 For hallowing carriers' packs and bells:                      330
 Things that the legend never heard of,
 But made the wicked sore afear'd of.
-
 The quacks of Government (who sate
 At th' unregarded helm of State,
 And understood this wild confusion                            335
@@ -10408,7 +9598,6 @@ To feel the pulses of their fees,
 More wise than fumbling arteries:
 Prolong the snuff of life in pain,
 And from the grave recover -- Gain.                           350
-
 'Mong these there was a <s> politician
 With more heads than a beast in vision,
 And more intrigues in ev'ry one
@@ -10459,7 +9648,6 @@ And both together most profound
 At deeds of darkness under-ground;
 As th' earth is easiest undermin'd
 By vermin impotent and blind.                                 400
-
 By all these arts, and many more,
 H' had practis'd long and much before,
 Our state artificer foresaw
@@ -10554,7 +9742,6 @@ Than with his own impatience,
 To give himself first audience,
 After he had a while look'd wise,
 At last broke silence, and the ice.
-
 Quoth he, There's nothing makes me doubt                      495
 Our last out-goings brought about,
 More than to see the characters
@@ -10783,7 +9970,6 @@ At least until th' had a clear stage,
 And equal freedom to engage,                                  720
 Without the danger of surprize
 By both our common enemies?
-
 This none but we alone cou'd doubt,
 Who understand their workings out;
 And know them, both in soul and conscience,                   725
@@ -11060,7 +10246,6 @@ Prevail'd a while, but 'twas not long                         995
 Before from world to world they swung:
 As they had turn'd from side to side,
 And as the changelings liv'd, they dy'd.
-
 This said, th' impatient States-monger
 Could now contain himself no longer;                         1000
 Who had not spar'd to shew his piques
@@ -11073,7 +10258,6 @@ And powder'd th' inside of his skull,
 Instead of th' outward jobbernol,
 He shook it with a scornful look
 On th' adversary, and thus he spoke:                         1010
-
 In dressing a calves head, although
 The tongue and brains together go,
 Both keep so great a distance here,
@@ -11200,7 +10384,6 @@ Could catechize a money-box,
 And prove all powches orthodox;
 Until the Cause became a DAMON,                              1135
 And PYTHIAS the wicked Mammon.
-
 And yet, in spight of all your charms
 To conjure legion up in arms,
 And raise more devils in the rout
@@ -11253,7 +10436,6 @@ Brave undertakers to restore,                                1185
 That cou'd not keep yourselves in pow'r;
 T' advance the int'rests of the Crown,
 That wanted wit to keep your own.
-
 'Tis true, you have (for I'd be loth
 To wrong ye) done your parts in both,                        1190
 To keep him out, and bring him in,
@@ -11302,7 +10484,6 @@ And when the work was carrying on,
 Who cross'd it, but yourselves alone?
 As by a world of hints appears,                              1235
 All plain and extant as your ears.
-
 But first, o' th' first: The Isle of WIGHT
 Will rise up, if you should deny't;
 Where HENDERSON, and th' other masses,
@@ -11353,7 +10534,6 @@ And if he take you into trust,
 Will find you most exactly just:
 Such as will punctually repay                                1285
 With double interest, and betray.
-
 Not that I think those pantomimes,
 Who vary action with the times,
 Are less ingenious in their art,
@@ -11368,7 +10548,6 @@ While others, in old faiths and troths,
 Look odd as out-of-fashion'd cloths;
 And nastier in an old opinion,
 Than those who never shift their linnen.                     1300
-
 For true and faithful's sure to lose,
 Which way soever the game goes;
 And whether parties lose or win,
@@ -11377,7 +10556,6 @@ While pow'r usurp'd, like stol'n delight,                    1305
 Is more bewitching than the right;
 And when the times begin to alter,
 None rise so high as from the halter.
-
 And so may we, if w' have but sense
 To use the necessary means;                                  1310
 And not your usual stratagems
@@ -11484,7 +10662,6 @@ That, when the blessed time shall come
 Of quitting BABYLON and ROME,
 They may be ready to restore
 Their own Fifth Monarchy once more.
-
 Meanwhile be better arm'd to fence                           1415
 Against revolts of Providence.
 By watching narrowly, and snapping
@@ -11493,7 +10670,6 @@ For if success could make us Saints,
 Or ruin turn'd us miscreants:                                1420
 A scandal that wou'd fall too hard
 Upon a few, and. unprepar'd.
-
 These are the courses we must run,
 Spight of our hearts, or be undone;
 And not to stand on terms and freaks,                        1425
@@ -11534,7 +10710,6 @@ Hence 'tis, Hypocrisy as well
 Will serve t' improve a Church as ZEAL:                      1460
 As Persecution or Promotion,
 Do equally advance Devotion.
-
 Let business, like ill watches, go
 Sometime too fast, sometime too slow;
 For things in order are put out                              1465
@@ -11569,7 +10744,6 @@ Entrust it under solemn vows
 Of mum, and silence, and the rose,
 To be retail'd again in whispers,                            1495
 For th' easy credulous to disperse.
-
 Thus far the Statesman -- When a shout,
 Heard at a distance, put him out;
 And straight another, all aghast,
@@ -11578,7 +10752,6 @@ Who star'd about, as pale as death,
 And, for a while, as out of breath;
 Till having gather'd up his wits,
 He thus began his tale by fits.
-
 That <k> beastly rabble -- that came down                    1505
 From all the garrets -- in the town,
 And stalls, and shop-boards -- in vast swarms,
@@ -11597,7 +10770,6 @@ Each bonfire is a funeral pile,
 In which they roast, and scorch, and broil,                  1520
 And ev'ry representative
 Have vow'd to roast -- and broil alive:
-
 And 'tis a miracle, we are not
 Already sacrific' d incarnate.
 For while we wrangle here, and jar,                          1525
@@ -11632,7 +10804,6 @@ And march in order, two and two,
 As at thanksgivings th' us'd to do;
 Each in a tatter'd talisman,                                 1555
 Like vermin in effigie slain.
-
 But (what's more dreadful than the rest)
 Those Rumps are but the tail o' th' Beast,
 Set up by Popish engineers,
@@ -11653,7 +10824,6 @@ And blow us up in th' open streets,
 Disguis'd in Rumps, like Sambenites;
 More like to ruin, and confound,                             1575
 Than all the doctrines under ground.
-
 Nor have they chosen Rumps amiss
 For symbols of State-mysteries;
 Though some suppose 'twas but to shew
@@ -11674,7 +10844,6 @@ And when they're once impar'd in that,
 Are banish'd their well-order'd state;
 They thought all governments were best                       1595
 By Hieroglyphick Rumps exprest.
-
 For, as in bodies natural,
 The rump's the fundament of all;
 So, in a commonwealth, or realm,
@@ -11693,7 +10862,6 @@ So in this mungrel state of ours;
 The rabble are the supreme powers;
 That hors'd us on their backs, to show us
 A jadish trick at last, and throw us.
-
 The learned Rabbins of the Jews                              1615
 Write there's a bone, which they call leuz,
 I' th' rump of man, of such a virtue,
@@ -11710,7 +10878,6 @@ That, alter several rude ejections,
 And as prodigious resurrections,
 With new reversions of nine lives,
 Starts up, and like a cat revives?                           1630
-
 But now, alas! they're all expir'd,
 And th' House, as well as Members, fir'd;
 Consum'd in kennels by the rout,
@@ -11745,7 +10912,6 @@ And to be but undone, entail
 Their vessels on perpetual jail;
 And bless the Dev'l to let them farms
 Of forfeit souls on no worse terms.
-
 This said, a near and louder shout                           1665
 Put all th' assembly to the rout,
 Who now begun t' out-run their fear,
@@ -11772,20 +10938,11 @@ Reliev'd 'em with a fresh supply
 Of rallied force enough to fly,
 And beat a Tuscan running-horse,
 Whose jockey-rider is all spurs.                             1690
-
-
-
-NOTES TO PART III. CANTO II.
-
-
-1 g The Learned write, &c.] An insect breeze. Breezes often
 bring along with them great quantities of insects, which some
 are of opinion, are generated from viscous exhalations in the air;
 but our Author makes them proceed from a cow's dung, and
 afterwards become a plague to that whence it received its
 original.
-
-13 h For as the Persian, &c.] The Magi were priests and
 philosophers among the Persians, intrusted with the government
 both civil and ecclesiastick, much addicted to the observation of
 the stars. Zoroaster is reported to be their first author. They had
@@ -11793,43 +10950,27 @@ this custom amongst them, to preserve and continue their
 families by incestuous copulation with their own mothers. Some
 are of opinion, that the three wise men that came out of the East
 to worship our Saviour were some of these.
-
-51 i At Michael's Term, &c.] St. Michael, an archangel;
 mentioned in St. Jude's Epistle, Verse 9.
-
-78 k And laid about, &c.] William Prynne, of Lincoln's-Inn,
 Esq. born at Swanswick, who stiled himself Utter Barrister, a
 very warm person, and voluminous writer; and after the
 Restoration, keeper of the records in the Tower.
-
-146 l As Dutch Boors, &c.] It is reported of the Dutch women,
 that making so great use of stoves, and often putting them under
 their petticoats, they engender a kind of ugly monster, which is
 called a Sooterkin.
-
-151 m T' out-cant the Babylonian, &c.] At the building of the
 Tower of Babel, when God made the confusion of languages.
-
-215 Toss'd in a furious Hurricane, &c.] At Oliver's death was a
 most furious tempest, such as had not been known in the
 memory of man, or hardly ever recorded to have been in this
 nation. This Sterry reported something ridiculously fabulous
 concerning Oliver, not unlike what Proculus did of Romulus.
-
-224 o False Heaven, &c.] After the Restoration, Oliver's body
 was dug up, and his head set at the farther end of Westminster-
 hall, near which place there is an house of entertainment, which
 is commonly known by the name of Heaven.
-
-227 p So Romulus, &c.] A Roman Senator, whose name was
 Proculus, and much beloved by Romulus, made oath before the
 Senate, that this prince appeared to him after his death, and
 predicted the future grandeur of that city, promising to be
 protector of it; and expressly charged him, that he should be
 adored there under the name of Quirinus; and he had his temple
 on Mount Quirinale.
-
-231 q Next his Son, &c.] Oliver's eldest son Richard was, by
 him before his death, declared his successor; and, by order of
 privy-council, proclaimed Lord Protector, and received the
 compliments of congratulation and condolence, at the same
@@ -11840,8 +10981,6 @@ summoned a Parliament to meet at Westminster, which
 recognized him Lord Protector: yet, notwithstanding,
 Fleetwood, Desborough, and their partizans, managed affairs
 so, that he was obliged to resign.
-
-245 r To edify upon the Ruins, &c.] John of Leyden, whose
 name was Buckhold, was a butcher of the same place, but a
 crafty, eloquent, and seditious fellow and one of those called
 Anabaptists. He went and set up at Munster, where, with
@@ -11857,22 +10996,14 @@ associates being subdued and taken, he was executed at
 Munster, had his flesh pulled off by two executioners with red-
 hot pincers for the space of an hour, and then run through with a
 sword.
-
-351 s 'Mong these there was a Politician, &c.] This was the
 famous E. of S. who was endued with a particular faculty of
 undermining and subverting all sorts of government.
-
-409 t and better than by Napier's Bones, &c.] The famous Lord
 Napier, of Scotland, the first inventor of logarithms, contrived
 also a set of square pieces, with numbers on them, made
 generally of ivory, (which perform arithmetical and geometrical
 calculations,) and are commonly called Napier's Bones.
-
-421 u To match this Saint, &c.] The great colonel John
 Lilbourn, whose trial is so remarkable, and well known at this
 time.
-
-475 w The Trojan Mare, &c.] After the Grecians had spent ten
 years in the siege of Troy, without the least prospect of success,
 they bethought of a stratagem, and made a wooden horse
 capable of containing a considerable number of armed men: this
@@ -11881,12 +11012,8 @@ raise the siege; upon which the credulous Trojans made a
 breach in the walls of the city to bring in this fatal plunder; but
 when it was brought in, the inclosed heroes soon appeared, and
 surprizing the city, the rest entered in at the breach.
-
-520 x (I mean Margaret's Fast) &c.] That Parliament used to
 have publick fasts kept in St. Margaret's church, Westminster,
 as is done to this present time.
-
-605 y To hang like Mahomet, &c.] It is reported of Mahomet
 the great impostor, that having built a mosque, the roof whereof
 was of loadstone, and ordering his corpse, when he was dead, to
 be put into an iron coffin, and brought into that place, the
@@ -11896,85 +11023,41 @@ No less fabulous is what the legend says of Ignatius Loyola, that
 his zeal and devotion transported him so, that at his prayers he
 has been seen to be raised from the ground for some
 considerable time together.
-
-650 z As easy as Serpents, &c.] Naturalists report, that Snakes,
 Serpents, &c. cast their skins every year.
-
-655 a As Barnacles turn Soland Geese, &c.] It is said that in the
 Islands of the Orcades, in Scotland, there are trees which bear
 those barnacles, which dropping off into the water, receive life,
 and become those birds called soland geese.
-
-663 b So he that keeps the Gate of Hell, &c.] The poets feign
 the dog Cerberus, that is the porter of hell, to have three heads.
-
-685 c The GIBELLINES, &c.] Two great factions in Italy,
 distinguished by those names, miserably distracted and wasted
 it about the year 1130.
-
-841 d When three Saints Ears, &c.] Burton, Prynn, and
 Bastwick, three notorious ringleaders of the factious, just at the
 beginning of the late horrid rebellion.
-
-894 e But Fisher's Folly, &c.] Fisher's Folly, was where
 Devonshire-Square now stands, and was a great place of
 consultation in those days.
-
-907 f Cut out more Work, &c.] Plato's year, or the grand
 revolution of the intire machine of the world, was accounted
-4000 years.
-
-1200 g T' your great Croysado General, &c.] General Fairfax,
 who was soon laid aside after he had done some of their
 drudgery for them.
-
-1241 h To pass for deep and learned Scholars, &c.] Two
 ridiculous scribblers, that were often pestering the world with
 nonsense.
-
-1250 i Like Sir Pride, &c.] The one a brewer, the other a
 shoemaker, and both colonels in the rebels' army.
-
-1505 k The beastly Rabble that came down, &c.] This is an
 accurate description of the mob's burning rumps upon the
 admission of the secluded Members, on contempt of the Rump-
 Parliament.
-
-1534 l Be ready listed under DON] The hangman's name at that
 time was Don.
-
-1550 m They've roasted COOK already and PRIDE in.] Cook
 acted as solicitor-general against King Charles the First at his
 trial; and afterwards received his just reward for the same.
 Pride, a colonel in the Parliament's army.
-
-1564 n Their Founder was a blown up Soldier.] Ignatius Loyola,
 the founder of the society of the Jesuits, was a gentleman of
 Biscay, in Spain, and bred a soldier; was at Pampelune when it
 was besieged by the French in the year 1521, and was so very
 lame in both feet, by the damage he sustained there, that he was
 forced to keep his bed.
-
-1585 o And from their Coptick Priests, Kircherus.] Athanasius
 Kircher, a Jesuit, hath wrote largely on the AEgyptian mystical
 learning.
-
- 1587 p For, as the AEgyptians us'd by Bees, &c.] The
 AEgyptians represented their kings, (many of whose names
 were Ptolemy) under the hieroglyphick of a bee, dispensing
 honey to the good and virtuous, and having a sting for the
 wicked and dissolute.
-
-
-
-PART III
-
-
-CANTO III
-
-
-THE ARGUMENT.
-
 -------------------------------------------------
 The Knight and squire's prodigious Flight
 To quit th' inchanted Bow'r by Night.
@@ -11985,8 +11068,6 @@ Repairs to Counsel, to advise
 But first resolves to try by Letter,
 And one more fair Address, to get her.
 -------------------------------------------------
-
-
 WHO wou'd believe what strange bugbears
 Mankind creates itself of fears
 That spring like fern, that insect weed,
@@ -12019,7 +11100,6 @@ And when they're out of hopes of flying,
 Will run away from death by dying;                             30
 Or turn again to stand it out,
 And those they fled, like lions, rout.
-
 This HUDIBRAS had prov'd too true,
 Who, by the furies left perdue,
 And haunted with detachments, sent                             35
@@ -12030,7 +11110,6 @@ When nothing but himself, and fear,
 Was both the imp and conjurer;                                 40
 As, by the rules o' th' virtuosi,
 It follows in due form of poesie.
-
 Disguis'd in all the masks of night,
 We left our champion on his flight,
 At blind man's buff, to grope his way,                         45
@@ -12063,7 +11142,6 @@ And forc'd him from the foe t' escape,
 Had turn'd itself to RALPHO's shape;
 So like in person, garb, and pitch,
 'Twas hard t' interpret which was which.
-
 For RALPHO had no sooner told                                  75
 The Lady all he had t' unfold,
 But she convey'd him out of sight,
@@ -12106,10 +11184,8 @@ And, though a prisoner of war,
 Have brought you safe where you now are;
 Which you would gratefully repay                              115
 Your constant Presbyterian way.
-
 That's stranger (quoth the Knight) and stranger.
 Who gave thee notice of my danger?
-
 Quoth he, Th' infernal Conjurer
 Pursu'd and took me prisoner;                                 120
 And knowing you were hereabout,
@@ -12126,7 +11202,6 @@ A little worse than fiends in hell,
 And that She-Devil Jezebel,
 That laugh'd and tee-he'd with derision,
 To see them take your deposition.
-
 What then (quoth HUDIBRAS) was he                             135
 That play'd the Dev'l to examine me?
 A rallying weaver in the town,
@@ -12141,12 +11216,10 @@ More plainly than the <t> Rev'rend Writer,                    145
 That to our Churches veil'd his Mitre;
 All which they took in black and white,
 And cudgell'd me to under-write.
-
 What made thee, when they all were gone,
 And none but thou and I alone,                                150
 To act the Devil, and forbear
 To rid me of my hellish fear?
-
 Quoth he, I knew your constant rate
 And frame of sp'rit too obstinate
 To be by me prevail'd upon                                    155
@@ -12157,7 +11230,6 @@ The Devil, that is your constant crony,
 That only can prevail upon ye;                                160
 Else we might still have been disputing,
 And they with weighty drubs confuting.
-
 The Knight who now began to find
 Th' had left the enemy behind,
 And saw no farther harm remain,                               165
@@ -12202,7 +11274,6 @@ Lest, if they ventur'd to pursue,
 I might th' unequal fight renew;
 And, to preserve thy Outward Man,                             205
 Assum'd my place, and led the van.
-
 All this quoth RALPH, I did, 'tis true,
 Not to preserve my self, but you;
 You, who were damn'd to baser drubs
@@ -12303,7 +11374,6 @@ With which, although they run or burn
 They unavoidably return:
 Or else their <w> sultan populaces                            305
 Still strangle all their routed Bassas.
-
 Quoth HUDIBRAS, I understand
 What fights thou mean'st at sea and land,
 And who those were that run away,
@@ -12370,7 +11440,6 @@ But when he went to dine or sup
 More bravely eat his captives up;                             370
 And left all war, by his example,
 Reduc'd to vict'ling of a camp well.
-
 Quoth RALPH, By all that you have said,
 And twice as much that I cou'd add,
 'Tis plain you cannot now do worse,                           375
@@ -12429,7 +11498,6 @@ For whether you prevail, or lose
 All must be try'd there in the close;
 And therefore  'tis not wise to shun
 What you must trust to ere y' have done.                      430
-
 The law, that settles all you do,
 And marries where you did but woo;
 That makes the most perfidious lover
@@ -12438,7 +11506,6 @@ And if it judge upon your side,                               435
 Will soon extend her for your bride;
 And put her person, goods, or lands,
 Or which you like best int' your hands.
-
 For law's the wisdom of all ages,
 And manag'd by the ablest sages;                              440
 Who, though their bus'ness at the bar
@@ -12483,7 +11550,6 @@ Astrologers dispute their dreams,
 That in their sleeps they talk of schemes:                    480
 And heralds stickle, who got who
 So many hundred years ago.
-
 But lawyers are too wise a nation
 T' expose their trade to disputation;
 Or make the busy rabble judges                                485
@@ -12494,7 +11560,6 @@ Beside, no mountebanks, nor cheats,
 Dare undertake to do their feats,                             490
 When in all other sciences
 They swarm, like insects, and increase.
-
 For what bigot durst ever draw,
 By inward light, a deed in law?
 Or could hold forth, by revelation,                           495
@@ -12507,7 +11572,6 @@ They'll write a love-letter in chancery,
 Shall bring her upon oath to answer ye,
 And soon reduce her to b' your wife,
 Or make her weary of her life.
-
 The Knight, who us'd with tricks and shifts                   505
 To edify by RALPHO's Gifts,
 But in appearance cry'd him down,
@@ -12520,7 +11584,6 @@ And, after stubborn contradiction,
 To counterfeit his own conviction,
 And by transition fall upon                                   515
 The resolution as his own.
-
 Quoth he, This gambol thou advisest
 Is of all others the unwisest;
 For if I think by law to gain her,
@@ -12581,7 +11644,6 @@ Most apt for what I have to do,
 As counsellor and justice too.
 And truly so, no doubt, he was,                               575
 A lawyer fit for such a case.
-
 An <z> old dull sot, who told the clock
 For many years at Bridewell-dock,
 At Westminster, and Hicks's-Hall,
@@ -12626,7 +11688,6 @@ That cheat in lawful mysteries,
 And pay church duties and his fees;
 But was implacable, and awkward,
 To all that interlop'd and hawker'd.                          620
-
 To this brave man the Knight repairs
 For council in his law-affairs
 And found him mounted in his pew,
@@ -12639,7 +11700,6 @@ Which he as proudly entertain'd
 As th' other courteously strain'd;                            630
 And, to assure him 't was not that
 He look'd for, bid him put on's hat.
-
 Quoth he, There is one SIDROPHEL,
 Whom I have cudgell'd -- Very well.
 And now he brags t' have beaten me. --                        635
@@ -12682,7 +11742,6 @@ Mean while they robb'd me, and my horse,
 And stole my saddle. -- Worse and worse.
 And made me mount upon the bare ridge,
 T' avoid a wretcheder miscarriage.
-
 Sir, quoth the Lawyer, not to flatter ye,                     675
 You have as good and fair a battery
 As heart can wish, and need not shame
@@ -12715,7 +11774,6 @@ For in all courts of justice here
 A witness is not said to swear,
 But make oath; that is, in plain terms,                       705
 To forge whatever he affirms.
-
 (I thank you, quoth the Knight, for that,
 Because 'tis to my purpose pat -- )
 For Justice, though she's painted blind,
@@ -12744,11 +11802,9 @@ At inconsiderable values,
 To serve for jury-men or tallies,
 Although retain'd in th' hardest matters,
 Of trustees and administrators.
-
 For that, quoth he, let me alone;                             735
 W' have store of such, and all our own;
 Bred up and tutor'd by our teachers,
-
 The ablest of conscience-stretchers.
 That's well, quoth he; but I should guess,
 By weighing all advantages,                                   740
@@ -12784,7 +11840,6 @@ Their only necessary tools,
 Besides the Gospel and their souls;                           770
 And when y' are furnish'd with all purveys,
 I shall be ready at your service.
-
 I would not give, quoth HUDIBRAS,
 A straw to understand a case,
 Without the admirable skill                                   775
@@ -12801,64 +11856,34 @@ To bait a letter, as you bid;                                 785
 As not long after, thus he did
 For having pump'd up all his wit,
 And humm'd upon it, thus he writ.
-
-
-NOTES TO PART III CANTO III.
-
-
-8 q Than Hags with all their Imps and Teats.] Alluding to the
 vulgar opinion, that witches have their imps, or familiar spirits,
 that are employed in their diabolical practices, and suck private
 teats they have about them.
-
-15 r As Rosi-crucian Virtuosos, &c.] The Rosicrusians were a
 sect that appeared in Germany in the beginning of the XVIIth
 age. They are also called the Enlightened, Immortal, and
 Invisible. They are a very enthusiastical sort of men, and hold
 many wild and extravagant opinions.
-
-36 s From Marshal Legion's Regiment.] He used to preach, as if
 they might expect legions to drop down from heaven, for the
 propagation of the good Old Cause.
-
-145 t More plainly than the Reverend Writer, &c.] A most
 Reverend Prelate, A. B. of Y. who sided with the disaffected
 party.
-
-261 u If the Ancients crown'd their bravest Men, &c.] The
 Romans highly honoured, and nobly rewarded, those persons
 that were instrumental in the preservation of the lives of their
 citizens, either in battle or otherwise
-
-305 w Or else their Sultan Populaces, &c.] The Author
 compares the arbitrary actings of the ungovernable mob to the
 Sultan or Grand Signior, who very seldom fails to sacrifice any
 of his chief commanders, called Bassas, if they prove
 unsuccessful in battle.
-
-350 x As the ancient Mice attack'd the Frogs.) Homer wrote a
 poem of the War between the Mice and the Frogs.
-
-383 y And stout Rinaldo gain'd his Bride, &c.] A story in Tasso,
 an Italian Poet, of a hero that gained his mistress by conquering
 her party.
-
-577 z An old dull Sot, who told the Clock, &c.] Prideux, a
 justice of peace, a very pragmatical busy person in those times,
 and a mercenary and cruel magistrate, infamous for the
 following methods of getting of money among many others.
-
-589 a And many a trusty Pimp and Croney, &c.] There was a
 gaol for puny offenders.
-
-599 b Made Monsters fine, and Puppet-plays, &c.] He extorted
 money from those that kept shows.
-
-715 c From Stiles's Pocket into Nokes's, &c.] John a Nokes, and
 John a Stiles, are two fictitious names made use of in stating
 cases of law only.
-
-742 d On BONGEY for a Water Witch.] Bongey was a
 Franciscan, and lived towards the end of the thirteenth century,
 a doctor of divinity in Oxford; and a particular acquaintance of
 Friar Bacon's. In that ignorant age, every thing that seemed
@@ -12868,12 +11893,6 @@ Bongey also, publishing a treatise of Natural Magick, confirmed
 some well-meaning credulous people in this opinion; but it was
 altogether groundless; for Bongey was chosen provincial of his
 order, being a person of most excellent parts and piety.
-
-
-
-AN HEROICAL EPISTLE OF HUDIBRAS TO HIS LADY.
-
-
 I who was once as great as CAESAR,
 Am now reduc'd to NEBUCHADNEZZAR;
 And from as fam'd a conqueror
@@ -12888,7 +11907,6 @@ Lost to the world, and you, I'm sent
 To everlasting banishment;
 Where all the hopes I had t' have won
 Your heart, b'ing dash'd, will break my own.
-
 Yet if you were not so severe                                  15
 To pass your doom before you hear,
 You'd find, upon my just defence,
@@ -12913,7 +11931,6 @@ The other, for base gain and pay,                              35
 Forswear, and perjure by the day;
 And make th' exposing and retailing
 Their souls and consciences a calling.
-
 It is no scandal, nor aspersion,
 Upon a great and noble person,                                 40
 To say he nat'rally abhorr'd
@@ -13038,7 +12055,6 @@ And, after all, to be debarr'd
 So much as standing on his guard;                             160
 When horses, being spurr'd and prick'd,
 Have leave to kick for being kick'd?
-
 Or why should you, whose mother-wits
 Are furnish'd with all perquisites,
 That with your breeding-teeth begin,                          165
@@ -13069,7 +12085,6 @@ Prepost'rously t' entice, and gain
 Those to adore 'em they disdain;                              190
 And only draw 'em in, to clog
 With idle names a catalogue.
-
 A lover is, the more he's brave,
 T' his mistress but the more a slave;
 And whatsoever she commands,                                  195
@@ -13114,7 +12129,6 @@ And did not steer a nearer course,
 To fall a-board on his amours?
 And what at first was held a crime,                           235
 Has turn'd to honourable in time.
-
 To what a height did <i> infant ROME,
 By ravishing of women, come
 When men upon their spouses seiz'd,
@@ -13151,7 +12165,6 @@ Prov'd nobler wives than e'er was known,
 By suit or treaty to be won;                                  270
 And such as all posterity
 Cou'd never equal nor come nigh.
-
 For women first were made for men,
 Not men for them. -- It follows, then,
 That men have right to ev'ry one,                             275
@@ -13192,7 +12205,6 @@ And make ye suffer, as you ought,
 For that uncharitable fau't.                                  310
 But I forget myself, and rove
 Beyond th' instructions of my love.
-
 Forgive me (Fair) and only blame
 Th' extravagancy of my flame,
 Since 'tis too much at once to show                           315
@@ -13217,7 +12229,6 @@ For 'tis but just that I should pay
 Th' accruing penance for delay,
 Which shall be done, until it move                            335
 Your equal pity and your love.
-
 The Knight, perusing this Epistle,
 Believ'd h' had brought her to his whistle;
 And read it like a jocund lover,
@@ -13234,7 +12245,6 @@ Of all her sex most excellent,
 These to her gentle hands present.                            350
 Then gave it to his faithful Squire,
 With lessons how t' observe and eye her.
-
 She first consider'd which was better,
 To send it back, or burn the letter.
 But guessing that it might import,                            355
@@ -13243,33 +12253,19 @@ She open'd it, and read it out,
 With many a smile and leering flout:
 Resolv'd to answer it in kind,
 And thus perform'd what she design'd.                         360
-
-
-
 NOTES ON HUDIBRAS's EPISTLE TO HIS LADY.
-
-
-113 e Or who but Lovers can converse, &c.] Metaphysicians are
 of opinion, that angels and souls departed, being divested of all
 gross matter, understand each other's sentiments by intuition,
 and consequently maintain a sort of conversation without the
 organs of speech.
-
-121 f Or Heav'n itself a Sin resent, &c.] In regard children are
 capable of being inhabitants of Heaven, therefore it should not
 resent it as a crime to supply store of inhabitants for it.
-
-173 g You wound like Parthians while you fly, &c.] Parthians
 are the inhabitants of a province in Persia: They were excellent
 horsemen, and very exquisite at their bows; and it is reported of
 them, that they generally slew more on their retreat than they
 did in the engagement.
-
-188 h Than Philip Nye's Thanksgiving Beard ] One of the
 Assembly of Divines, very remarkable for the singularity of his
 beard.
-
-237 i To what a Height did Infant Rome, &c.] When Romulus
 had built Rome, he made it an asylum, or place of refuge, for all
 malefactors, and others obnoxious to the laws to retire to; by
 which means it soon came to be very populous; but when he
@@ -13278,17 +12274,9 @@ destitute of inhabitants, he invented several fine shows, and
 invited the young Sabine women, then neighbours to them; and
 when they had them secure, they ravished them; from whence
 proceeded so numerous an offspring.
-
-252 k Till Alimony or Death them parts.] Alimony is an
 allowance that the law gives the woman for her separate
 maintenance upon living from her husband. That and death are
 reckoned the only separations in a married state.
-
-
-
-THE LADY'S ANSWER TO THE KNIGHT.
-
-
 THAT you're a beast, and turn'd to grass,
 Is no strange news, nor ever was;
 At least to me, who once you know,
@@ -13343,7 +12331,6 @@ It is not hard to understand
 The myst'ry of this bold demand,
 That cannot at our persons aim,
 But something capable of claim.
-
 'Tis not those paultry counterfeit                             55
 French stones, which in our eyes you set,
 But our right diamonds, that inspire
@@ -13378,7 +12365,6 @@ What tender sigh, and trickling tear,                          85
 Longs for a thousand pounds a year;
 And languishing transports are fond
 Of statute, mortgage, bill, and bond.
-
 These are th' attracts which most men fall
 Inamour'd, at first sight, withal                              90
 To these th' address with serenades,
@@ -13403,7 +12389,6 @@ Which is of such thin subtlety,
 It steals and creeps in at the eye,                           110
 And, as it can't endure to stay,
 Steals out again as nice a way.
-
 But love, that its extraction owns
 From solid gold and precious stones
 Must, like its shining parents, prove                         115
@@ -13414,7 +12399,6 @@ For what are lips, and eyes, and teeth,
 Which beauty invades and conquers with,                       120
 But rubies, pearls, and diamonds,
 With which a philter-love commands?
-
 This is the way all parents prove,
 In managing their childrens' love;
 That force 'em t' intermarry and wed,                         125
@@ -13491,7 +12475,6 @@ For if you all were SOLOMONS,                                 195
 And wise and great as he was once,
 You'll find they're able to subdue
 (As they did him) and baffle you.
-
 And if you are impos'd upon
 'Tis by your own temptation done,                             200
 That with your ignorance invite;
@@ -13582,7 +12565,6 @@ Or <n> JOAN DE PUCEL'S braver name,                           285
 Our right to arms and conduct claim;
 Who, though a Spinster, yet was able
 To serve FRANCE for a Grand Constable.
-
 We make and execute all laws;
 Can judge the judges and the cause;                           290
 Prescribe all rules of right or wrong
@@ -13615,12 +12597,10 @@ That's haughty and imperious?
 He's but a journeyman to us.
 That as he gives us cause to do't,
 Can keep him in, or turn him out.                             320
-
 We are your guardians, that increase
 Or waste your fortunes how we please;
 And, as you humour us, can deal
 In all your matters, ill or well.
-
 'Tis we that can dispose alone,                               325
 Whether your heirs shall be your own,
 To whose integrity you must,
@@ -13663,7 +12643,6 @@ Expound the oracle of laws,
 And turn them which way we see cause
 Be our solicitors and agents,                                 365
 And stand for us in all engagements.
-
 And these are all the mighty pow'rs
 You vainly boast to cry down ours;
 And what in real value's wanting,
@@ -13676,31 +12655,21 @@ By your example, lose that right                              375
 In treaties which we gain'd in fight;
 And, terrify'd into an awe,
 Pass on ourselves a <o> Salique law:
-
 Or, as some nations use, give place,
 And truckle to your mighty race;                              380
 Let men usurp th' unjust dominion,
 As if they were the better women.
-
-
-
 NOTES ON THE LADY's ANSWER TO THE KNIGHT.
-
-133 l Whose Arrows learned Poets hold, &c.] The poets feign
 Cupid to have two sorts of arrows; the one tipped with gold, and
 the other with lead. The golden always inspire and inflame love
 in the persons he wounds with them: but, on the contrary, the
 leaden create the utmost aversion and hatred. With the first of
 these he shot Apollo, and with the other Daphne, according to
 Ovid.
-
-277 m While, like the mighty Prester John, &c.] Prester John,
 an absolute prince, emperor of Abyssinia or Ethiopia. One of
 them is reported to have had seventy kings for his vassals, and
 so superb and arrogant, that none durst look upon him without
 his permission.
-
-285 Or Joan de Pucel's braver Name.] Joan of Arc, called also
 the Pucelle, or Maid of Orleans. She was born at the town of
 Damremi, on the Meuse, daughter of James de Arc, and Isabella
 Romee; and was bred, up a shepherdess in the country. At the
@@ -13723,16 +12692,8 @@ defeated Talbot at the battle of Pattai, and recovered
 Champagne. At last she was unfortunately taken prisoner in a
 sally at Champagne in 1430, and tried for a witch or sorceress,
 condemned, and burnt in Rouen market-place in May 1430.
-
-378 o Pass on ourselves a Salique Law.] The Salique Law is a
 law in France, whereby it is enacted, that no female shall inherit
 that crown.
-
-
-
-GLOSSARY
-
-
 Advowtry: Adultery
 Animalia: Animals (L.)
 Arsie-versie: Upside-down
@@ -13912,60 +12873,34 @@ other official
 Whinyard: A short sword
 Ycleped: Named
 Yerst: Erst, formerly
-
-
-The End of the Project Gutenberg E-text of Hudibras by Samuel Butler.
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK, HUDIBRAS ***
-
 This file should be named 4937.txt or 4937.zip
-
-Project Gutenberg eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the US
 unless a copyright notice is included.  Thus, we usually do not
 keep eBooks in compliance with any particular paper edition.
-
 We are now trying to release all our eBooks one year in advance
 of the official release dates, leaving time for better editing.
 Please be encouraged to tell us about any error or corrections,
 even years after the official publication date.
-
 Please note neither this listing nor its contents are final til
 midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg eBooks is at
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.
-
 Most people start at our Web sites at:
 http://gutenberg.net or
 http://promo.net/pg
-
 These Web sites include award-winning information about Project
 Gutenberg, including how to donate, how to help produce our new
 eBooks, and how to subscribe to our email newsletter (free!).
-
-
 Those of you who want to download any eBook before announcement
 can get to them as follows, and just download by date.  This is
 also a good way to get them instantly upon announcement, as the
 indexes our cataloguers produce obviously take a while after an
-announcement goes out in the Project Gutenberg Newsletter.
-
 http://www.ibiblio.org/gutenberg/etext03 or
 ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
-
 Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
-
 Just search by the first five letters of the filename you want,
 as it appears in our Newsletters.
-
-
-Information about Project Gutenberg (one page)
-
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
 to get any eBook selected, entered, proofread, edited, copyright
@@ -13977,34 +12912,11 @@ files per month:  1240 more eBooks in 2001 for a total of 4000+
 We are already on our way to trying for 2000 more eBooks in 2002
 If they reach just 1-2% of the world's population then the total
 will reach over half a trillion eBooks given away by year's end.
-
-The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
 This is ten thousand titles each to one hundred million readers,
 which is only about 4% of the present number of computer users.
-
 Here is the briefest record of our progress (* means estimated):
-
 eBooks Year Month
-
-    1  1971 July
-   10  1991 January
-  100  1994 January
- 1000  1997 August
- 1500  1998 October
- 2000  1999 December
- 2500  2000 December
- 3000  2001 November
- 4000  2001 October/November
- 6000  2002 December*
- 9000  2003 November*
-10000  2004 January*
-
-
-The Project Gutenberg Literary Archive Foundation has been created
-to secure a future for Project Gutenberg into the next millennium.
-
 We need your donations more than ever!
-
 As of February, 2002, contributions are being solicited from people
 and organizations in: Alabama, Alaska, Arkansas, Connecticut,
 Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
@@ -14014,73 +12926,42 @@ Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
 Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
 Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
 Virginia, Wisconsin, and Wyoming.
-
 We have filed in all 50 states now, but these are the only ones
 that have responded.
-
 As the requirements for other states are met, additions to this list
 will be made and fund raising will begin in the additional states.
 Please feel free to ask to check the status of your state.
-
 In answer to various questions we have received on this:
-
 We are constantly working on finishing the paperwork to legally
 request donations in all 50 states.  If your state is not listed and
 you would like to know if we have added it since the list you have,
 just ask.
-
 While we cannot solicit donations from people in states where we are
 not yet registered, we know of no prohibition against accepting
 donations from donors in these states who approach us with an offer to
 donate.
-
 International donations are accepted, but we don't know ANYTHING about
 how to make them tax-deductible, or even if they CAN be made
 deductible, and don't have the staff to handle it even if there are
 ways.
-
 Donations by check or money order may be sent to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Ave.
 Oxford, MS 38655-4109
-
 Contact us if you want to arrange for a wire transfer or payment
 method other than by check or money order.
-
-The Project Gutenberg Literary Archive Foundation has been approved by
 the US Internal Revenue Service as a 501(c)(3) organization with EIN
-[Employee Identification Number] 64-622154.  Donations are
 tax-deductible to the maximum extent permitted by law.  As fund-raising
 requirements for other states are met, additions to this list will be
 made and fund-raising will begin in the additional states.
-
 We need your donations more than ever!
-
 You can get up to date donation information online at:
-
 http://www.gutenberg.net/donation.html
-
-
 ***
-
-If you can't reach Project Gutenberg,
 you can always email directly to:
-
 Michael S. Hart <hart@pobox.com>
-
 Prof. Hart will answer or forward your message.
-
 We would prefer to send you information by email.
-
-
 **The Legal Small Print**
-
-
 (Three Pages)
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
 Why is this "Small Print!" statement here? You know: lawyers.
 They tell us you might sue us if there is something wrong with
 your copy of this eBook, even if you got it for free from
@@ -14088,30 +12969,19 @@ someone other than us, and even if what's wrong is not our
 fault. So, among other things, this "Small Print!" statement
 disclaims most of our liability to you. It also tells you how
 you may distribute copies of this eBook if you want to.
-
-*BEFORE!* YOU USE OR READ THIS EBOOK
-By using or reading any part of this PROJECT GUTENBERG-tm
 eBook, you indicate that you understand, agree to and accept
 this "Small Print!" statement. If you do not, you can receive
 a refund of the money (if any) you paid for this eBook by
 sending a request within 30 days of receiving it to the person
 you got it from. If you received this eBook on a physical
 medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM EBOOKS
-This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
 is a "public domain" work distributed by Professor Michael S. Hart
-through the Project Gutenberg Association (the "Project").
 Among other things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
 without paying copyright royalties. Special rules, set forth
 below, apply if you wish to copy and distribute this eBook
-under the "PROJECT GUTENBERG" trademark.
-
-Please do not use the "PROJECT GUTENBERG" trademark to market
 any commercial products without permission.
-
 To create these eBooks, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works. Despite these efforts, the Project's eBooks and any
@@ -14121,18 +12991,9 @@ corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other eBook medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
 But for the "Right of Replacement or Refund" described below,
-[1] Michael Hart and the Foundation (and any other party you may
-receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
 all liability to you for damages, costs and expenses, including
 legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
 If you discover a Defect in this eBook within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -14142,95 +13003,54 @@ such person may choose to alternatively give you a replacement
 copy. If you received it electronically, such person may
 choose to alternatively give you a second opportunity to
 receive it electronically.
-
-THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
 Some states do not allow disclaimers of implied warranties or
 the exclusion or limitation of consequential damages, so the
 above disclaimers and exclusions may not apply to you, and you
 may have other legal rights.
-
-INDEMNITY
 You will indemnify and hold Michael Hart, the Foundation,
 and its trustees and agents, and any volunteers associated
-with the production and distribution of Project Gutenberg-tm
 texts harmless, from all liability, cost and expense, including
 legal fees, that arise directly or indirectly from any of the
 following that you do or cause:  [1] distribution of this eBook,
-[2] alteration, modification, or addition to the eBook,
 or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
 You may distribute copies of this eBook electronically, or by
 disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
 or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     eBook or this "small print!" statement.  You may however,
-     if you wish, distribute this eBook in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word
-     processing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The eBook, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The eBook may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the eBook (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          eBook in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the eBook refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Foundation of 20% of the
-     gross profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Literary Archive Foundation"
-     the 60 days following each date you prepare (or were
-     legally required to prepare) your annual (or equivalent
-     periodic) tax return.  Please contact us beforehand to
-     let us know your plans and to work out the details.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-Project Gutenberg is dedicated to increasing the number of
+requires that you do not remove, alter or modify the
+eBook or this "small print!" statement.  You may however,
+if you wish, distribute this eBook in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word
+processing or hypertext software, but only so long as
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the eBook (as is
+the case, for instance, with most word processors);
+no additional cost, fee or expense, a copy of the
+eBook in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+"Small Print!" statement.
+gross profits you derive calculated using the method you
+already use to calculate your applicable taxes.  If you
+don't derive profits, no royalty is due.  Royalties are
+the 60 days following each date you prepare (or were
+legally required to prepare) your annual (or equivalent
+periodic) tax return.  Please contact us beforehand to
+let us know your plans and to work out the details.
 public domain and licensed works that can be freely distributed
 in machine readable form.
-
 The Project gratefully accepts contributions of money, time,
 public domain materials, or royalty free copyright licenses.
 Money should be paid to the:
-"Project Gutenberg Literary Archive Foundation."
-
 If you are interested in contributing scanning equipment or
 software or other items, please contact Michael Hart at:
 hart@pobox.com
-
-[Portions of this eBook's header and trailer may be reprinted only
 when distributed free of all fees.  Copyright (C) 2001, 2002 by
-Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
-used in any sales of Project Gutenberg eBooks or other materials be
 they hardware or software or any other related product without
 express permission.]
-
 *END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
-

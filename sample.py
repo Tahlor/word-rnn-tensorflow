@@ -10,13 +10,15 @@ from six.moves import cPickle
 from utils import TextLoader
 from model import Model
 
-def main():
+# Prime - first word
+# Update model to prime with end words
+def main(save_dir='save', n=200, prime = ' ', count = 1):
     parser = argparse.ArgumentParser()
-    parser.add_argument('--save_dir', type=str, default='save',
+    parser.add_argument('--save_dir', type=str, default=save_dir,
                        help='model directory to load stored checkpointed models from')
-    parser.add_argument('-n', type=int, default=200,
+    parser.add_argument('-n', type=int, default=n,
                        help='number of words to sample')
-    parser.add_argument('--prime', type=str, default=' ',
+    parser.add_argument('--prime', type=str, default=prime,
                        help='prime text')
     parser.add_argument('--pick', type=int, default=1,
                        help='1 = weighted pick, 2 = beam search pick')
@@ -24,7 +26,7 @@ def main():
                        help='width of the beam search')
     parser.add_argument('--sample', type=int, default=1,
                        help='0 to use max at each timestep, 1 to sample at each timestep, 2 to sample on spaces')
-    parser.add_argument('--count', '-c', type=int, default=1,
+    parser.add_argument('--count', '-c', type=int, default=count,
                        help='number of samples to print')
     parser.add_argument('--quiet', '-q', default=False, action='store_true',
                        help='suppress printing the prime text (default false)')

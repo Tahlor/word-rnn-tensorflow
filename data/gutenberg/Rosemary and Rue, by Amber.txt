@@ -1,55 +1,11 @@
-The Project Gutenberg EBook of Rosemary and Rue, by Amber
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Rosemary and Rue
-
-Author: Amber
-
-Release Date: May 19, 2011 [EBook #36168]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK ROSEMARY AND RUE ***
-
-
-
-
 Produced by D Alexander, David E. Brown, and the Online
 Distributed Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
-
-
-
-  Rosemary and Rue
-
-  By Amber
-
-
-  Chicago and New York:
-  Rand McNally & Company,
-  Publishers
-
-
-  Copyright, 1896, by Rand, McNally & Co.
-
-
-
-
-PREFACE.
-
-
+Rosemary and Rue
+By Amber
+Chicago and New York:
+Rand McNally & Company,
+Publishers
+Copyright, 1896, by Rand, McNally & Co.
 "Amber" was not to be classed with any society or any creed. In all
 respects she was an individual. In good-humored contempt she held all
 form, and with deep sincerity she revered all simple things. She smiled
@@ -70,7 +26,6 @@ chained her fancy. But some of her unchained fancies, poetic conceits in
 the guise of prose, will live long after the clasp, holding the
 pretentious verses of a society laureate, shall have been eaten loose by
 the constant nibble of time.
-
 When a church was crowded with friends, come to bid "Amber" good-bye, a
 great thinker, a writer who knows the meaning of toil, said that she had
 succeeded by the force and the industry of her genius. And so she had.
@@ -79,51 +34,33 @@ own hard place and maintained it, struggling alone. Her words were for
 the poor and the sorrowful, and they could but give a blessing. But in
 the end, a blessing from the poor may be brighter than the silver of the
 rich.
-
-  Opie Read.
-
-
-
-
+Opie Read.
 Rosemary and Rue.
-
-
-
-
-I WONDER.
-
-  I wonder, if I died to-night,
-    And you should hear to-morrow,
-  You'd mourn to think this one dear friend
-    Had bid good-bye to sorrow.
-
-  I wonder, if you saw a bird,
-    The hunter's dart outflying,
-  You'd lure it back with loving word
-    To danger, pain, and dying.
-
-  I wonder, if you saw a rose,
-    Plucked quick in June's surrender,
-  You'd wish it back upon the bough,
-    To wither in November.
-
-  I wonder, if you watched the moon,
-    The tempest's rack outstripping,
-  You'd grieve to see its silver prow
-    In cloudless ether dipping.
-
-  I wonder, if you heard a thrush
-    Laugh out amid the clover,
-  You'd weep because its cage door oped--
-    Its captive days were over.
-
-  I wonder, if, some happy day,
-    When you have found your haven,
-  You'll mourn to find this one dear friend
-    Had been so long in heaven.
-
-       *       *       *       *       *
-
+I wonder, if I died to-night,
+And you should hear to-morrow,
+You'd mourn to think this one dear friend
+Had bid good-bye to sorrow.
+I wonder, if you saw a bird,
+The hunter's dart outflying,
+You'd lure it back with loving word
+To danger, pain, and dying.
+I wonder, if you saw a rose,
+Plucked quick in June's surrender,
+You'd wish it back upon the bough,
+To wither in November.
+I wonder, if you watched the moon,
+The tempest's rack outstripping,
+You'd grieve to see its silver prow
+In cloudless ether dipping.
+I wonder, if you heard a thrush
+Laugh out amid the clover,
+You'd weep because its cage door oped--
+Its captive days were over.
+I wonder, if, some happy day,
+When you have found your haven,
+You'll mourn to find this one dear friend
+Had been so long in heaven.
+*       *       *       *       *
 When I die bury me by the sea. Let my first hundred years in the spirit
 be spent on a sunny sand-bank watching the sapphire tides break over a
 bluff of lifted rocks. What is any earthly trouble but a dissolving
@@ -141,9 +78,7 @@ Behind us are miles of purple moss swept by ragged shreds of September
 fog, and musical, here and there, with bells of grazing herds; while
 before us, behind us, and all around us stretches the boundless,
 unfathomable and mysterious sea.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Did you ever hear of the island of Avilion? That enchanted place where
 "falls not hail, or rain, nor ever wind blows loudly," whose orchard
 lands and bowery hollows lie lapsed in summer seas? I found it one day
@@ -174,7 +109,6 @@ wave-washed keel to flowery bowsprit the eye never lights upon a
 defilement or a stain. It is the only place in all my wanderings where I
 never found a peanut shell nor a tin can thrown out to defile nature's
 beauty.
-
 There was not a single bad odor on my island during the whole ten days
 of my tarrying, and I am told by those who are old inhabitants that
 such a thing never was known to it. A soft wind is always blowing, but
@@ -201,7 +135,6 @@ the groves of Avilion with an undiscovered presence. I have spent hours
 looking for him, yet never found him. Sometimes I have been led to half
 believe the fellow exists only in the fancy of a spellbound idler like
 you and me.
-
 Just at sunset a little feathered violinist of the island whips out his
 fiddle and draws the bow so delicately across its vibrant strings, while
 the golden sun slips tranquilly beneath the tinted waters of Casco bay,
@@ -209,21 +142,17 @@ that the soul of the listener is fairly attenuated like a high C
 diminuendo with the spell of so much beauty. I don't know the name of
 the bird either, but he is going to sing for us all in heaven later on.
 Such performers do not end all here any more than Beethoven did.
-
 It was my custom during the time I spent at Little Chebeague to devote
 the entire day to strolling or lying at length upon the rocks--
-
-  Nothing but me 'twixt earth and sky;
-  An emerald and an amethyst stone,
-  Hung and hollowed for me alone.
-
+Nothing but me 'twixt earth and sky;
+An emerald and an amethyst stone,
+Hung and hollowed for me alone.
 I grew to love the solitude with all my heart, and the thought of
 returning to the mainland with its jargon and its bustle was like the
 thought of tophet to the poor little peri for whom the gate of paradise
 had swung. Sometimes I would board the small boat that two or three
 times a day threads in and out of the blue water-way and visit adjacent
 islands hardly less beautiful than my chosen home.
-
 There is Long Island, far more beautiful by reason of its East End,
 where as yet the tide of a full-fledged summer resort has not come.
 There is an old-fashioned country roadhouse, such as we knew before the
@@ -234,7 +163,6 @@ near distance, constant little ups and downs where the road slips into
 hollow to follow the call of a romping brook or climb a hill to watch
 for the sea. Wintergreen berries and russet patches everywhere, and the
 snow of blackberry bushes in bloom far as the eye can travel.
-
 "There is an old-time rail fence!" cried a visitor from the booming west
 one day; "my God, let me get out and touch it! I haven't seen anything
 but barbed wire since I left New England!" And he did get out of the
@@ -242,17 +170,14 @@ buckboard in which he was driving and chipped away a big brown fence
 sliver as a memento. These roads I am talking about lead nowhere in
 particular. They, as often as not, end in a fisherman's back dooryard,
 but they are sweet as a young girl's caprice while they last.
-
 One day we strolled across one of the islands and found a battlement of
 rocks on the seaside that it would have taken a solid month to explore.
 Oh, there was enough on the bar at ebb tide at Avilion to while away an
 age of idle time.
-
 Sometimes we took it into our heads to ride. Then the choice lay between
 Charlie the Christian--so named for his good behavior and gentle
 ways--and the one roadster the island produced, a nag in the rough, who
 held his head high and cavorted with the stride of a jamboreeing boy.
-
 The choice made, the hour must be watched to catch the low tide over to
 Big Chebeague, for there are no wagon roads in Avilion. Six hours of
 safety, as to the low water mark, is the limit of one day's riding, and
@@ -265,7 +190,6 @@ wintergreen and pick roses, with a loiter through a church-yard where
 many Hamiltons, both pre-Adamite and ante-historic, are sleeping the
 sleep of the just, you have the whole meaning of an afternoon outing on
 Big Chebeague.
-
 Every evening after supper there was a pilgrimage to the west side of
 the island, not to be dispensed with by descendants of those remnant
 tribes that once worshiped the sun. Ranging from north to south as far
@@ -288,9 +212,7 @@ Sometimes he returns in an afterglow, as the dead come back to us in
 dreams, the tenderer and the sweeter for their second coming. However
 the sun may set in Avilion, each setting is the most beautiful and best
 to be desired.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I heard someone bewailing the death of a friend the other day. The staff
 on which he had leaned, the bread which had ministered to his needs, the
 very light that had filled his eyes seemed caught away, and he mourned
@@ -321,9 +243,7 @@ can ever sound like a bugle-call across the dewy hills to rouse the
 sleeper from his couch. God pity all who linger by the heaped-up mound
 where love's forgotten dreams lie buried, and grant oblivion as the only
 surcease for their bitter sorrow.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The days and nights swing equally upon the golden balance of time. The
 year is whitening with its crop of frost-blossoms from which no
 harvest-home has ever yet been called. Like an unwritten page, the new
@@ -333,9 +253,7 @@ before us. May joy and peace and love, like the roots of the violets
 under the snow, quicken and blossom for all of us as the year advances,
 and may our progress be, like January's, right steadily onward unto
 June!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 As I write there is a sudden break in the hush of night, and faint and
 clear and sweet upon the listening ear falls the sound of "taps" from
 the camp in Fort Sheridan woods. I drop my pencil and listen to it, as I
@@ -349,9 +267,7 @@ grant, say I, that when the time for the final good-night has come for
 you and for me the call for "taps," blown from some celestial bugle the
 other side the mystic gate may fall as sweetly upon our ears and find us
 as ready to sink to slumber.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Did you ever hunt for eggs in a haymow? If you did you can remember just
 how, with bated breath, you crept through the fragrant glooms of the old
 barn and searched the dusty place for nests. You can recall, perhaps,
@@ -364,7 +280,6 @@ you gathered the basketful of milk-white eggs upon your arm and picked
 your way down the steep ladder which led to the main floor and "all out
 doors." Scarcely any excitement or exhilaration of later years can
 compare with the joy of hen's-nest hunting when you were young.
-
 Did you ever go berrying? With a tin pail swinging from your wrist and
 your oldest gown upon your back, have you climbed the hill, jumped the
 fences and sought the side-hill pasture where the blackberries grew
@@ -381,7 +296,6 @@ of overripe berries that dissolve at a touch. With these I fill my pail,
 and all too often, I blush to own it, my mouth also, until twilight
 sends me home saturated with sunshine, late clover blooms and berry
 juice.
-
 Ah, my dear, all this was fun while it lasted, but there is a more
 exciting quest than hunting eggs or finding berries, in which we all of
 us engage as the years of our mortal pilgrimage go hurrying by. It is
@@ -393,9 +307,7 @@ prosper us to find the eggs and the berries before we die. Perhaps the
 service of love we do others shall prove the bush that bears the
 sweetest and the ripest clusters, and the nestfull that shall develop
 the whitest store of all life's opportunities.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 A genuine mother could no more raise a bad boy into a bad man than a
 robin could raise a hawk. When I say "genuine mother" I mean something
 more than a mother who prays with her boy, and teaches him Bible texts,
@@ -411,43 +323,32 @@ ahead. She must never desert him to go off to superintend outside duties
 any more than the engineer deserts his post and goes into the baggage
 car to read up on engineering, when his train is pounding across the
 country at forty miles an hour.
-
-       *       *       *       *       *
-
-A LITTLE GOLDENHEAD.
-
-  Gay little Goldenhead lived within a town
-  Full of busy bobolinks, flitting up and down,
-  Pretty neighbor buttercups, cosy auntie clovers,
-  And shy groups of daisies, all whispering like lovers.
-
-  A town that was builded on the borders of a stream,
-  By the loving hands of nature when she woke from winter's dream;
-  Sunbeams for the workingmen taking turns with showers,
-  Rearing fairy houses of fairy grass and flowers.
-
-  Crowds of talking bumblebees, rushing up and down,
-  Wily little brokers of this busy little town,
-  Bearing bags of gold dust, always in a hurry,
-  Fussy bits of gentlemen, full of fret and flurry.
-
-  Gay little Goldenhead fair and fairer grew,
-  Fed on flecks of sunshine, and sips of balmy dew,
-  Swinging on her slender foot all the happy day,
-  Chattering with bobolinks, gossips of the May.
-
-  Underneath her lattice on starry summer eves,
-  By and by a lover came, with his harp of leaves;
-  Wooed and won the maiden, tender, sweet and shy,
-  For a little cloud home he was building in the sky.
-
-  And one breezy morning, on a steed of might,
-  He bore his little Goldenhead out of mortal sight;
-  But still her gentle spirit, a puff of airy down,
-  Wanders through the mazes of that busy little town.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+Gay little Goldenhead lived within a town
+Full of busy bobolinks, flitting up and down,
+Pretty neighbor buttercups, cosy auntie clovers,
+And shy groups of daisies, all whispering like lovers.
+A town that was builded on the borders of a stream,
+By the loving hands of nature when she woke from winter's dream;
+Sunbeams for the workingmen taking turns with showers,
+Rearing fairy houses of fairy grass and flowers.
+Crowds of talking bumblebees, rushing up and down,
+Wily little brokers of this busy little town,
+Bearing bags of gold dust, always in a hurry,
+Fussy bits of gentlemen, full of fret and flurry.
+Gay little Goldenhead fair and fairer grew,
+Fed on flecks of sunshine, and sips of balmy dew,
+Swinging on her slender foot all the happy day,
+Chattering with bobolinks, gossips of the May.
+Underneath her lattice on starry summer eves,
+By and by a lover came, with his harp of leaves;
+Wooed and won the maiden, tender, sweet and shy,
+For a little cloud home he was building in the sky.
+And one breezy morning, on a steed of might,
+He bore his little Goldenhead out of mortal sight;
+But still her gentle spirit, a puff of airy down,
+Wanders through the mazes of that busy little town.
+*       *       *       *       *
 Where shall we go to find the fit symbol of Easter? To the encyclopedia
 that we may post ourselves as to word derivations and root meanings? As
 well send a child to a botanist to find the meaning of a rose! To fitly
@@ -487,7 +388,6 @@ reviving garden and in the awakening woods. It means resurrection after
 death, blossom time after the bareness of woe, the cuckoo's cry after
 the silence of songless days, and the smile of a pitying All-Father
 after the orphan time of the soul's bereavement and seeming desertion.
-
 Another blessed thought to be gained in the contemplation of nature's
 sure awakening from the long lethargy of her winter's sleep is that,
 however fearful we may be that death's reign shall be eternal, as
@@ -500,7 +400,6 @@ of April stirs upon the horizon's misty verge and the promise of violets
 is in the lingering darkness of the air. Remember this: The same power
 that sends us November is planning an April to follow, and out of the
 snowfall evolves the whiteness of the annunciation lily.
-
 It has always seemed to me that, beautiful as Christ's birthday ought to
 be and full of tender significance as we may make the hallowed Christmas
 time, a deeper tenderness attaches to these Easter days. The Sinless One
@@ -523,7 +422,6 @@ a world so full of self-blinded and ignorant evil-doers. They do not
 always know what they do, these rude and riotous betrayers of Christ;
 and all the more need, then, for compassion, and that divine pity that,
 even from the cross, could invoke heaven's pardoning love.
-
 If you have a friend who has wronged you, forgive him to-day, for
 Christ's sweet sake. If you have a boy who has gone astray, reach out
 your arm and win him back, while yet the Easter violets glow upon the
@@ -532,7 +430,6 @@ your arms and ask God to forgive you both--you for your lack of
 sympathy, as well as her for her waywardness. So shall you understand
 the meaning of Easter, the resurrection time of love, the fulfillment of
 its promise from out the icy negation of the grave.
-
 A few thoughts about death before we turn to other symbolizations of the
 season. It is all a mistake, it seems to me, to make death a menace and
 a dread in the minds of the young. Does the farmer go forth with tears
@@ -558,37 +455,29 @@ boundless air? The heroism of love, the faithfulness of love, the
 grandeur, patience and magnificence of love shall only be revealed when
 the soul has left the shadows and spread its wing in the empyrean of
 heaven's blue.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There is a small boy who lives at our house with whom I wage an unending
 warfare on the subject of clean hands. The sun never goes down nor yet
 arises upon a harmonious adjustment of the mooted question. There are
 more tears shed, more dire threats made, more promises broken, more
 anguish endured on that one account than upon any other under the sun.
-
 The boy dwells under a ban as somber as the seven-fold curse of Rome.
 His sisters nag him, his grandmother prays for him, his mother pleads
 with him, his girl friends flout him, but in spite of all he continues
 to wear his hands in half tints. But the other evening he made an
 announcement that caused even the young person to remark: "Well, I'd
 rather see you with your soiled hands than see you such a dude as that!"
-
 "Gee!" said the boy, "but some of the kids that go to our school are
 queer ducks!"
-
 "Don't use so much slang," cried his mother; "why can't you call a boy a
 boy as well as a 'kid' and a 'duck'; and whatever do you mean by 'Gee'?"
-
 "They bring little cushions to school," continued the boy with only a
 swift hug in answer to his mother's question, "and they put 'em under
 their hands when they play marbles, so's they won't get their hands
 dirty. Gee whiz, but I'm glad I ain't such a fool!"
-
 And in spite of her desire to see him a bit more solicitous
 as to personal elegance his mother could but echo the boy's
 self-congratulatory remark.
-
 What on earth is going to become of us if this awful wave of effeminacy
 which has struck the race does not soon subside? Earmuffs and galoshes,
 heated street cars in April and double windows up to rose time have done
@@ -606,9 +495,7 @@ like a tramp. Even that is better, though, than being a "sissy." Give
 him time and the untidiest boy in the world will develop into a
 gentleman, but eternity itself could not evolve a man out of a boy who
 plays marbles with a cushion!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 As I was walking down Dearborn street the other day, close upon the
 gloaming, I chanced to meet two pretty girls, not the only two in this
 big city, perhaps, but two of the fairest. One had hair like the tassel
@@ -630,16 +517,13 @@ ends in tempest and the blackness of night. Beauty is a glorious
 heritage, indeed, but to see it worn by such types as you, my pretty
 dears, is like seeing a queen's crown on the head of a parrot, or a
 royal scepter in the grasp of a monkey.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Niagara Falls! What heart is so stolid, what appreciative spirit so
 calloused over with the hard crust of stoicism not to rise and shout
 before the wonder of its magnificence? When a man or woman gets so blase
 as to thrill no more over Niagara Falls, let them be salted down with
 last year's hams and hung on a hook in the quiet seclusion of a
 smokehouse.
-
 First we took our way over the bridge that leads to the beautifully kept
 Goat Island and, alighting from the carriage, stood for a time with the
 full splendor of the American fall in our faces. A fascination that
@@ -661,7 +545,6 @@ flaming sword from the omnipotent hand to smite him where he stood. To
 swear, or even to think an unholy thought in such a holy of holies,
 deserves the penalty of death as much as did the desecration of the
 temple in ancient times.
-
 Shifting our place from point to point, we found ourselves at last
 standing on the very verge of the Horseshoe falls, where, crowned with
 living green, it slips over the crumbling ledge and loses itself in a
@@ -684,9 +567,7 @@ color followed every flood of sunshine, as a pomegranate runs with juice
 at the touch of a knife, only to be succeeded by pale wafts of
 colorless, interminable spray, where a cloud caught the too eager sun
 within its soft eclipse.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 If the Lord left any snakes in Paradise after the settlement of the
 primal fuss they took the shape of the man who is a confirmed cynic and
 pessimist. The man who has no faith, no enthusiasm, no candor, no
@@ -703,37 +584,29 @@ or in a lily asleep in the moonlight, but a species of useless
 vegetable, the inferior of the cabbage and the onion. The world is
 overfull of such men, and if I had the right sort of broom I'd sweep
 them away as the new girl sweeps spiders.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Once I was sailing in a yacht close to the rock-bound coast of Maine.
-
 It was presumably a pleasure cruise, but if ever a poor wretch in
 purgatory had a harder time of it I am sorry for him.
-
 The fog was thick, the ground swell was enough to unsettle the seven
 hills of Rome, and something was wrong with the boat's machinery, so
 that for hours we lay in the trough of the sea, making no headway and
 fearful that each moment would be our last. Added to all this there came
 at short intervals a demoniac blast from a fog horn which rent the air
 with the clamor of a thousand tongues.
-
 "Look out!" it seemed to shriek over and over again. "Look out, poor
 fragile wisps of gossamer! The hour strikes for your destruction.
 Another wave, a little higher than the last, shall suck you down like a
 shred of foam into the blackness of the sea's dark vortex. Brace up and
 meet your doom. Look out! Look out! Look out!"
-
 I listened to that fog horn for hours, until the soul within me lay like
 a spent bird weary with futile beating of useless wings, and I came
 within a hair's breadth of madness. In fact, I think I had commenced to
 rave a bit when a brisk wind sprang up that blew the fog away, the crew
 succeeded in righting the craft and onward we flew out of sound of the
 terrible fog horn forever.
-
 There are many things in life that remind me of fog horns; there are
 many occasions that beat upon the soul with just such vociferous clamor.
-
 There are those old-fashioned Bible texts, shouting "hell fire" and
 "eternal damnation." What are they but fog horns warning us from off a
 mist-enveloped shore? We cannot shut our ears to them while we lie a
@@ -743,30 +616,24 @@ the unwelcome climax; but we know that underneath the shrouded stars and
 through the hush of midnight forever and forevermore sounds the crash of
 that brazen alarm. We may not heed it, but the fog horn is there, forget
 and disown it though we may.
-
 Then there are our birthdays after we grow old enough to understand
 their significance; what are they but fog horns that sound at intervals
 to denote that we are drawing near to the final doom of all mankind?
-
 "Sport on," they seem to say, "a little longer; weave your garlands and
 blow your pretty bubbles while you may, for to-morrow you shall surely
 die!"
-
 Each year the fog horn blows a louder blast, until finally the softened
 haze of creeping years, like a white fog in the sea air, muffles the
 sound, and we sink to rest at last, some of us with the wild clamor
 hushed to the measure of a good-night song.
-
 Then the holidays. Thanksgivings and Christmases with independence days,
 like wine-red roses dropped between, what are they but fog horns on the
 invisible shores of memory? How they mock us with the recollection of
 vanished joys, and warn us of barren years yet to be.
-
 Gone forever are the dear ones who made gala times and festival
 happenings bright, and still we linger like boats in the trough of a
 sullen sea, our motive power wrecked, our sails rent, and listen,
 listen, listen to the warning that sounds from far off the hazy shore.
-
 "Gone, forever gone," the fog horn cries; "gone down into the sea, the
 boats that kept you company when the bright-winged fleet put out from
 port! Lost forever, in storms it seems scarce worth the while to have
@@ -774,25 +641,19 @@ weathered, since here you toss, alone at last, like driftwood on the
 chilly tide, and listen forever to the mournful warning of my voice from
 off the sandbars, warning you that not even love can withstand the beat
 of time's relentless years."
-
 Our desks are full of miniature fog horns in the shape of unanswered
 letters.
-
 Our closets hang full of fog horns of varying fabrics. They warn us of
 the folly of trusting to bargain sales of shoddy goods; they warn us
 against extravagant tastes when times are hard; they warn us against the
 lazy mood that neglects the stitch in time that saveth nine.
-
 Every time we are ill the occasion is a fog horn.
-
 Either we have disregarded some law of health and are in the trough of
 the sea in consequence, or we are flying on to the breakers with ears
 dulled to the fog horn's din.
-
 We speak with cruel harshness to the old mother who loves us, or to the
 little child who trusts us. We are sorry for it afterward, and that
 sorrow is the fog horn that warns us to keep off the reef of temper.
-
 "To-day may be the last day for the mother you have pained or the child
 you have wronged," it seems to say; "the bed they lie down upon to-night
 may be the bed of death. See to it, then, that you make each day of
@@ -804,7 +665,6 @@ sunset and proclaim in a voice that should reach from world's center to
 world's rim, "To-morrow at set of sun this globe and all its race of
 sentient life shall be folded up like a scroll and effaced from heaven's
 chart!"
-
 What would we all begin to do then, I wonder? I think that everything
 would be forgotten but love. Envy and hatred, covetousness, jealousy,
 ambition, selfishness and cruelty would find no place in the hearts of
@@ -823,11 +683,9 @@ air is full of them! They sound in every waking moment, they mingle with
 our dreams, they greet our opening eyes, they accompany us when the
 tired lids fall in slumber. The shore is lined with them and their
 warning is as ceaseless as the beat of time's receding waves.
-
 But of what use is a fog horn to a vessel that gives no heed? Why uplift
 them on dangerous reefs if the ship's crew sleeps through their warning
 and the unconscious captain ignores their hoarse note of alarm?
-
 An unheeded fog horn might as well be silenced, and so, I sometimes
 think, if we allow our hearts to grow callous to the call that
 conscience makes, why not be thankful when the warning ceases and
@@ -837,33 +695,24 @@ without warning than to drift to destruction to the mocking cadence of
 an alarm I would not heed. To go down with the sound in my ears of an
 admonition that might have saved me had I but listened would be the
 hardest sort of dying.
-
-       *       *       *       *       *
-
-HER CRADLE.
-
-  There are tears on the gentian's eyelids,
-    As they lift them, fringed and fair.
-  Do they mourn for the vanished brightness
-    Of my baby's golden hair?
-
-  There's a cloud a-droop in the heavens
-    That shadows their sunny hue.
-  Does it dream of the lovelight tender
-    In my baby's eyes so blue?
-
-  The golden rod pines in the forest,
-    The aster pales by the brook.
-  Do they miss her fairy footfall
-    In each dim and flow'ry nook?
-
-  Now, all through this beautiful weather,
-    Wherever I walk, I weep;
-  For I think of the desolate cradle
-    Where my baby lies asleep.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+There are tears on the gentian's eyelids,
+As they lift them, fringed and fair.
+Do they mourn for the vanished brightness
+Of my baby's golden hair?
+There's a cloud a-droop in the heavens
+That shadows their sunny hue.
+Does it dream of the lovelight tender
+In my baby's eyes so blue?
+The golden rod pines in the forest,
+The aster pales by the brook.
+Do they miss her fairy footfall
+In each dim and flow'ry nook?
+Now, all through this beautiful weather,
+Wherever I walk, I weep;
+For I think of the desolate cradle
+Where my baby lies asleep.
+*       *       *       *       *
 The other night, as I was listening to "taps" in a neighboring military
 camp, a longing came over me for a silver bugle of my own, that I might
 blow a message to the drowsy world. We all listen to that fellow up at
@@ -886,7 +735,6 @@ hearts to so conduct ourselves that when the Death Angel blows "taps"
 for us, we shall leave a record behind us to be read through fond,
 regretful tears, and enshrined in golden characters upon the tablets of
 memory.
-
 Now, if I had a bugle instead of a pen, to work with, and if I could
 stand out under the stars on a hushed summer night and deliver my
 message through its silver throat, perhaps the world that reads me might
@@ -941,7 +789,6 @@ repining, then, a little more forbearance with one another's
 shortcomings, and a little more loyalty to the promise "for better or
 for worse," will ease up much of the burden of dissatisfied and
 disappointed wedlock.
-
 Another message that I should blow through that bugle, if I had it at my
 lips to-night, would be: "Be true!" And I should ring it out so long and
 loud, I think, that the moon would stop to listen, and the sleepy heads
@@ -963,20 +810,16 @@ man who has once been your true friend. Ingratitude is the blackest
 crime that preys upon the human soul. The forgetfulness of a favor, or
 the effacement of a bond sealed with an obligation, is capable only to
 weak and cowardly natures.
-
 If you have a conviction, and are conscientious in the belief that you
 are right, be true to your professions. If you are a rebel, be a rebel
 out and out, and don't be a goat to leap nimbly back and forth over the
 fence. Never apologize for either your faith or your profession, unless
 you have reason to be ashamed of it; and, if you are ashamed of it,
 renounce it and get one that will need no apology.
-
 There are lots of other messages I would like to stand on a hill and
 blow through a bugle, but the weather is too warm to admit of further
 effort just now; so we'll postpone the topic for another hearing.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I sat in a fashionable church the other day and listened to a sermon on
 "The Prodigal Son." How often I have heard the same old story told in
 the same old way. How familiar I have become with the kind father, the
@@ -985,10 +828,8 @@ time I heard the story I felt an almost uncontrollable impulse to rise
 up in meeting and ask the question, "How does the treatment accorded to
 the prodigal son match the treatment we mete out to the prodigal
 daughter?"
-
 How far out of our way do we go to accompany his sister on her homeward
 faring after a season spent among the swine and the husks?
-
 Do we put an 18-karat ring on her poor little soiled finger and place
 her at the head of our table, even if by good chance she gains an
 entrance to the home? Do we not more often meet her at the back door
@@ -996,18 +837,15 @@ when nobody is looking, rush her through the hallway and consign her to
 the little third story rear room, taking her meals to her ourselves, on
 the sly, that the neighbors may not find out the dreadful fact that she
 is at home again?
-
 "Keep yourself very close," we say to her, "and by no manner of means be
 seen at any of the windows, and you may stay here. You can wear some of
 your virtuous sister's cast-off clothing, and sleep on the lounge in the
 nursery, where the servants never think of going since the little folks
 have grown up, but you must be very penitent, and very humble, and very
 thankful to God for the mercy you so little deserve."
-
 I think somebody had better write a new parable and call it "The
 Prodigal Daughter." Perhaps a sermon might be preached from it to touch
 the unmoved heart.
-
 After all there are two sorts of prodigals--the prodigal who comes home
 because the cash gives out, and the prodigal who comes because his heart
 turns back to the old home with such longing as the thirsty feel for
@@ -1019,9 +857,7 @@ which nothing can destroy or hush away to silence, be that prodigal
 sinful man or erring woman, should find not only the home doors swung
 wide in welcome, but every doorway in the land wreathed with flowers to
 bid him enter.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 How few people know when to stop. If the preacher knew when to stop
 preaching, how much more satisfactory the result of his sermon might be.
 If the genial fellow knew just when to stop telling his good stories,
@@ -1039,9 +875,7 @@ much truer our epitaphs would be. The court fool who prayed, "Oh God, be
 merciful to me, a fool!" prayed deeper than he knew, and the man who
 prays, "Oh God, teach me to know when I have said enough," prays deeper
 still.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 You may talk about California all you will, but match, if you can, the
 beauty of spring as it comes to us in these northerly latitudes. There
 is the coy advance and retreat of a woman hard to win; there is the
@@ -1074,9 +908,7 @@ the sheath of the wood lily, like a ribbon half unrolled. Rejoice in the
 flash of the blue bird's wing as it startles the still air, and then say
 to me, if you dare, that you prefer any other climate to this one that
 belts the zone of these northern lakes.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Thank the Lord, all ye who can call yourselves healthy. The day has gone
 by for physically delicate women. This age demands Hebes and young
 Venuses with ample waists and veritable muscles. Specked fruit and
@@ -1093,9 +925,7 @@ sportsman, Death, is ever aiming at poor humanity, count yourself an
 ingrate if the song of thanksgiving is not always welling from your
 heart like the constant song of a bobolink singing for very joy above
 the clover.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 What would be thought of a ship that was launched from its docks with
 flourish of music and flowing wine, built to sail the roughest and
 deepest sea, yet manned for an unending cruise along shore? Never
@@ -1103,7 +933,6 @@ leaving harbor for dread of storm. Never swinging out of the land-girt
 bay because over the bar, the waters were deep and rough. You would say
 of such a ship that its captain was a coward and the company that built
 it were fools.
-
 And yet these souls of ours were fashioned for bottomless soundings.
 There is no created thing that draws as deep as the soul of man; our
 life lies straight across the ocean and not along shore, but we are
@@ -1121,19 +950,16 @@ upon a creature more helpless than he, whether it be a child or a dog, I
 involuntarily think of a double-decked whaler content to fish for
 minnows. Their uselessness in the world is more apparent than the
 uselessness of a Cunarder in a park pond.
-
 What did God give you muscle and girth and brain for, if not to launch
 you on the high seas? Up and away with you then into the deep soundings
 where you belong, oh, belittled soul! Find the work to do for which you
 were fitted and do it, or else run yourself on the first convenient snag
 and founder.
-
 Some great writer has said that we ought to begin life as at the source
 of a river, growing deeper every league to the sea, whereas, in fact,
 thousands enter the river at its mouth, and sail inland, finding less
 and less water every day, until in old age they lie shrunk and gasping
 upon dry ground.
-
 But there are more who do not sail at all than there are of those who
 make the mistake of sailing up stream. There are the women who devote
 their lives to the petty business of pleasing worthless men. What
@@ -1174,9 +1000,7 @@ or later the voyage must be made; let us make it, then, while the timber
 is stanch and the rudder true. With a resolute will at the wheel, and
 the great God himself to furnish the chart, our ship shall weather the
 wildest gale and find entrance at last to the harbor of peace.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 When you look at a picture and find it good or bad, as the case may be,
 whom do you praise or blame--the owner of the picture or the artist who
 painted it? When you hear a strain of music and are either lifted to
@@ -1192,9 +1016,7 @@ him? I declare, as I look about me from day to day and see the men and
 women who play so poor a part in life, it is not the poverty of their
 performance that astonishes me so much as the fact that it is as good
 as it is.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I did think I would keep out of the controversy on the low-neck dress
 question. But there is just one thing I want to say. Did you ever know a
 sweet young girl yet, one who was rightly trained and modestly brought
@@ -1217,208 +1039,149 @@ good. The high chancellor of Hades has put his seal on much that was
 originally invoiced for the Lord's own people. But there are some things
 so palpably shameless that to argue about them is like trying to prove
 by demonstration that a crow is white. It needs no argument.
-
-       *       *       *       *       *
-
-THE VETERANS.
-
-  Scarce had the bugle note sounded
-    For the call of their last defeat;
-  And still on the lowland meadow
-    Lie the prints of their quick retreat.
-
-  Above us the bright skies sparkle,
-    And around us the same winds blow
-  That rippled their golden banners
-    In that battle so long ago,
-
-  When the southwind challenged winter,
-    And the rose-ranks routed the snow,
-  And the hosts of tiny gold coats
-    Sprang up from their campfires below,
-
-  To charge on the insolent frost king,
-    And shatter his lance of ice,
-  While back to the desolate northland
-    They wheeled him about in a trice.
-
-  The battle is hardly ended,
-    The victory only begun,
-  Yet I saw the gray-bearded vet'rans,
-    To-day, sitting out in the sun.
-
-  They nod by wind-rippled rivers,
-    They shake in the shade of the oak,
-  And all the day long they murmur
-    And whisper, and gossip, and croak.
-
-  And often in wondering rapture,
-    They recount the charge they made,
-  When down from the windy hillsides,
-    And up through the dewy glade,
-
-  The sheen of their golden bonnets
-    Shone out from the green of the leaves,
-  Like the flight of a glancing swallow,
-    Or the flash of a wave on the seas.
-
-  They muse in sleepy contentment,
-    Or flutter in endless dispute.
-  For this was a brave cadet, sir,
-    And that one a crippled recruit.
-
-  Fight over again your battles,
-    O veterans, withered and gray;
-  For a band of northwind chasseurs
-    To-morrow shall blow you away.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+Scarce had the bugle note sounded
+For the call of their last defeat;
+And still on the lowland meadow
+Lie the prints of their quick retreat.
+Above us the bright skies sparkle,
+And around us the same winds blow
+That rippled their golden banners
+In that battle so long ago,
+When the southwind challenged winter,
+And the rose-ranks routed the snow,
+And the hosts of tiny gold coats
+Sprang up from their campfires below,
+To charge on the insolent frost king,
+And shatter his lance of ice,
+While back to the desolate northland
+They wheeled him about in a trice.
+The battle is hardly ended,
+The victory only begun,
+Yet I saw the gray-bearded vet'rans,
+To-day, sitting out in the sun.
+They nod by wind-rippled rivers,
+They shake in the shade of the oak,
+And all the day long they murmur
+And whisper, and gossip, and croak.
+And often in wondering rapture,
+They recount the charge they made,
+When down from the windy hillsides,
+And up through the dewy glade,
+The sheen of their golden bonnets
+Shone out from the green of the leaves,
+Like the flight of a glancing swallow,
+Or the flash of a wave on the seas.
+They muse in sleepy contentment,
+Or flutter in endless dispute.
+For this was a brave cadet, sir,
+And that one a crippled recruit.
+Fight over again your battles,
+O veterans, withered and gray;
+For a band of northwind chasseurs
+To-morrow shall blow you away.
+*       *       *       *       *
 Once upon a time it came to pass that a woman, being weary with much
 running to and fro, fell asleep and dreamed a dream.
-
 And in her dream she beheld a mighty host, more than man could number.
 And of that host, all were women, and spake with varying tongues.
-
 And they bent the body, and sitting on hard benches wailed mightily, so
 that the air was full of the sound of lamentation, like a garden that
 wooeth many bees.
-
 And the woman who dreamed, being tender of heart and disposed kindly
 toward the suffering ones, lifted up her voice saying:
-
 "Why bendest thou the body, oh, daughters of despair, and why art thine
 eyelids red with tears?
-
 "Yea, why rockest thou like boats that find no anchor, and like poplars
 which the north wind smiteth?"
-
 And one from among the host greater than man could number made answer,
 saying:
-
 "Wouldst know who we are, and why we spend our days like a weaver's
 shuttle that flitteth to and fro in a web of tears?
-
 "Behold we are the faithless and unregenerate handmaids who have served
 thee, and women like unto thee, bringing desolation unto thy larders,
 and gray hairs among the braids with which nature hath crowned thee.
-
 "Yea, verily, by reason of our misdemeanors lift we the voice of
 lamentation in a land that knoweth not comfort."
-
 Now, the woman who dreamed, being full of amazement, replied anon, and
 these were the words that fell from her lips:
-
 "Sayest thou so? And dwellest thou and thy sisters in Hades by reason of
 the evil thou hast wrought?"
-
 "Nay, not forever," replied she who had spoken. "We remain but for a
 season, that our remorse may cleanse our record before we go hence to
 sit with the blessed ones in glory.
-
 "Not from everlasting unto everlasting is the duration of the penalty we
 pay for what we have done unto thee, else were there no peace between
 the stars by reason of our torment and our tears."
-
 And the woman who dreamed beheld many whose fame yet lingered within the
 shadows of her home.
-
 There was Ann, the fumble-witted, who piled the backyard high with
 broken china, yet stayed not her hand when rebuked therefor.
-
 There was Sarah, the high-headed, who refused to clean the paint because
 she had dwelt long in the tents of such as hired the housecleaning done
 by other hands, that the labors of the handmaid might be few;
-
 Yea, verily, with such as believed that Sarah and her ilk might have
 time wherein to be merry rather than toil.
-
 There was Karen, the Swede, who wrapped the bread in her petticoat and
 refused to be convinced of the error of her ways.
-
 There was Jane, the Erinite, who broke the pump, and Caroline, the
 Teuton, who combed her locks with the comb of the woman who dreamed.
-
 There was Adaline, the hoosier, who failed to answer the summons of the
 stranger who knocked at the gates unless she were in full dress and
 carried a perfumed handkerchief.
-
 There was Louise, who smote the youngest born of the household because
 he prattled of her dealings with the frequent cousin who called often
 and sought to deplete the larder.
-
 There was the girl who desired her evenings out and never came home
 before cock crow.
-
 There was the girl who threw up her place in the family of the woman who
 dreamed because she was asked to hurry her ways.
-
 There was the girl who wore the hose of her mistress, and took it as an
 affront when asked to desist.
-
 There was the girl who swore when the chariot of the sometime guest drew
 nigh, and likewise the girl who refused to remain over night in a
 dwelling where she was summoned to serve by means of a call bell.
-
 There was the girl who found it too lonesome in the country and left the
 garments in the washtub that she might hie her to the great city, the
 social center of which she was the joy and the pride.
-
 There was the girl who was made mad by means of the request that she
 wash her hands before breakfast.
-
 There was the girl who entertained her callers in the drawing-room while
 the family was afar off, sojourning in the hills or by the waves of the
 sea;
-
 Yea, who thought it no evil to bring forth the flesh-pot and the
 brandied comfit, that the heart of the district policeman might leap
 thereat, as the young buck leapeth at sight of the water courses.
-
 There was also the girl who wasted, and the girl who stole; the girl who
 never tried, and the girl who never cared.
-
 And seeing the multitude the spirit of the woman who dreamed arose
 within her and she asked of a certain veiled one who seemed to be in
 charge:
-
 "Tell me, O shrouded one, is there never to be any diminution in the
 throng that cometh to take their abode in these halls of penitential
 regret?"
-
 And the spirit in charge made answer, saying:
-
 "No, nor never shall be while fools live and folly thrives.
-
 "It is by reason of the babbling of busy-bodies that havoc has overtaken
 the land of thy forefathers.
-
 "There is honor in faithful service, and an uncorruptible crown awaiteth
 the forehead of her who serveth well.
-
 "It is no disgrace to the comely daughters of men who toil and are put
 to that they bring in the wherewithal to fill the mouths of the children
 who call them father--
-
 "It is no disgrace, I say unto you, if such maidens take unto themselves
 the position of servants in the family of him who prospereth,
-
 "Remembering that one who lived long since and has slept these many
 years in the tomb of his fathers, spake truly when he uttered these
 words, albeit framed in rhyme:
-
-  "Honor and shame from no condition rise;
-  Act well your part, there all the honor lies."
-
+"Honor and shame from no condition rise;
+Act well your part, there all the honor lies."
 And it came to pass that the woman who dreamed took comfort to herself
 by reason of her dream.
-
 And she arose from slumber like a strong man who desireth to run a race.
-
 And buckling on more tightly the armor wherein she moved, yea, even with
 a free hand buttoning the boot and drawing the string, she cogitated
 unto herself, and these were the words of her cogitation:
-
 "Behold, I will learn a new wisdom that I may be unto my handmaids a
 friend rather than a taskmistress, that in so doing I may win unto my
 household the damsel who hath intelligence. And my treatment of her
@@ -1427,12 +1190,9 @@ decide to do even as she hath done and choose domestic service with a
 woman who is kind even to the showing of interest in her handmaid's
 affairs, rather than linger in bondage with the shop girl and her who
 rattles the tinkling keys of the typewriter machine.
-
 "So doing, my days shall increase mightily in the land, as also the days
 of her who cometh after me."
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Women are either the noblest creation of God or the meanest. A good
 woman is little less than an angel; a bad woman is considerably more
 than a devil. And by bad women I do not mean women who drink, or steal,
@@ -1443,35 +1203,27 @@ evil in a bad woman's nature, and with it she is more to be dreaded than
 many men with revolvers. There is absolutely no protection from a lie.
 The courts cannot protect from its venom, and to kill a defamer and a
 falsifier is not yet adjudged as legalized slaughter.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There is one awfully homely woman in Chicago. I met her the other day
 over in Blank's art gallery. Our acquaintance was brief but sensational.
 I looked at her, tucked her into my handbag and wept. She didn't seem to
 mind it, and when, a few hours later, in the seclusion of my chamber, I
 took her out of the bag and looked at her again, she was more hideous
 than before.
-
 "You horrible creature!" said I. "If you look like me, better that the
 uttermost depths of the sea had me."
-
 "But I do look like you," said she, and her voice was weak and low by
 reason of prolonged exposure to the sun and air, "and Mr. Blank says I
 will finish up very nicely."
-
 "Do you mean to tell me," I asked, "that my nose is as big as yours?"
-
 "Of course it is," said she; "pictures cannot lie. But comfort yourself
 with the assurance that a large nose is always an indication of
 intelligence."
-
 "Intelligence be blessed!" said I, for I was getting excited;
 "intelligence without beauty is like bread without butter, or a peacock
 without a tail! If I possess such a nose as yours, madam, I shall take
 to tract-distributing, galoshes and a cotton umbrella, and forget that I
 was ever human."
-
 "You talk wildly, as all the rest of them do," said my thin companion.
 "Listen, for my time on earth is short, I am rapidly fading away, and
 what I say must be said briefly. If you look about you you will see that
@@ -1480,18 +1232,15 @@ own beauty. The mirror, although a faithful friend, can never quite
 disabuse the mind of that belief, and when the honest camera holds up
 the actual presentation of one's self as an incontrovertible fact, the
 disappointment is keen and hard to bear."
-
 "All that may be true," said I, "but not all your assertions can ever
 make me believe that that dusky mass of hair, brushed back so wildly
 from those beetling brows, is like my own. You know that mine is soft
 and brown, and yours looks like the bristles of an enraged stove brush."
-
 "That's the way they all talk," responded the dissolving view, "but you
 do not stop to consider that under the artist's pencil the shadows will
 all be toned and softened. And let me say right here, that that
 'beetling brow' is a sign of rare intelligence, much more to be desired
 than the lower and more----"
-
 "Stop, right there!" I interrupted. "It is not necessary to have a brow
 like a plate-glass show-window, or like an overhanging cliff, or like a
 granite paving-stone, to denote intelligence! No, my friend, do not try
@@ -1507,9 +1256,7 @@ shade of an unhappy reality. Back to oblivion with you, and heaven grant
 I never look upon your like again!" So saying, I calmly held the poor
 but hideous creature in the flame of a gas-jet and smilingly cremated
 her.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 A fairer day than last Sunday was never cradled to rest behind the
 curtains of night. It began with a flute obligato of sunrise, orbed
 itself into a full orchestra wherein color took the part of first and
@@ -1531,9 +1278,7 @@ little cabin in the woods, where, in utter loneliness, I could forget
 how full the world is growing to be of folks and how prone they are to
 do each other harm and hinder rather than help each other on the stony
 way to heaven.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The other evening, while sitting in the gallery of the Auditorium and
 looking over the balcony edge at the crowd waiting for the curtain to
 rise, a strange thought came to my mind. How could hell be more quickly
@@ -1561,7 +1306,6 @@ cool, relentless touch unties the knot that holds the silken thing in
 place that has hidden our true selves from our beautiful seeming, we
 shall find no more fiery hell awaiting us than that we have carried so
 long in our hearts.
-
 I would not like to be regarded as a pessimist from the writing of such
 a paragraph as the above. Sometimes I seek to turn my thoughts upon the
 crowd and unmask the angel as well as the demon. But I find that the
@@ -1572,9 +1316,7 @@ reveals itself in songs, like a caged lark. It looks from out the window
 of the eyes in loving glances and tender smiles; it manifests itself in
 sweet and cheerful service, like the sunshine that can neither be hidden
 nor concealed.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Of all the pleasant things to look upon in this fair earth, I sometimes
 query which is the best, a little child, a fruit orchard in early June,
 or a young girl. I think the latter carries the day. Did you ever watch
@@ -1590,9 +1332,7 @@ they fill it with music as sleigh bells fill a winter night. God bless
 the girls, the bonnie, sweet and winsome girls, and may womanhood be for
 them but as the "swell of some sweet time," morning gliding into noon,
 May merging into June.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There are so many things in this world to be tired of! The poor little
 persecuted boy in pinafores, sent to school to get him out of the way,
 doomed to dangle his plump legs all day long from a hard bench, rubbing
@@ -1602,7 +1342,6 @@ watching the flies on the ceiling and the shadows on the wall than some
 folks get of life. Let me mention a few of the things I, for one, am
 horribly tired of, and see if before my bead is half strung you do not
 look up from the strand and cry, "Amber, I am with you!"
-
 My dear, I am tired to-day of civilization and all modern improvements.
 I am tired of the speaking tube within my chamber where the new girl and
 myself wage daily our battle of the new Babel. She speaks Volapuk, and I
@@ -1638,9 +1377,7 @@ business around at the postoffice, and for the dawn of that blessed day
 when I shall be permitted to dance upon the grave of the aged being who
 peddles stamps at the retail window. I am tired of hosts of things
 besides, but have no time to enumerate them all to-day.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I have tested the rainy weather dress reform. It was pouring when I
 started from my humble home in the morning, and in spite of the prayers
 of the Young Person and the sobs of the "Martyr," I arrayed myself in my
@@ -1656,9 +1393,7 @@ storm like a crab in its shell, or venture forth and become the byword
 of an overwrought populace, the scorn of old men and matrons? Next time
 I start out in a reform dress I will take along the robes of
 civilization in a grip-sack.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There is something that is getting to be awfully scarce in this world.
 Shall I tell you what it is? It is girls. That is what is missing out of
 the sentient, breathing, living world just now. We have lots of young
@@ -1701,9 +1436,7 @@ of summer showers. Speed the day when this sort of girls fill the world
 once more, overrunning the spaces where God puts them as climbing roses
 do when they break through the trellis to glimmer and glint above the
 common highway, a blessing and a boon to all who pass them by.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Is there any flower that grows that can compare with the pansy for color
 and richness? Others appeal more closely to the heart with fragrance
 that like a sweet and pure soul more than compensates for lack of
@@ -1719,63 +1452,47 @@ rather of a pansy bed in June in full and perfect bloom, a soft wind
 just bending bright heads crowned with crowns that never yet were
 pressed on aching brows, and fluttering mantles of more than royal
 splendor that never yet were wrapped above a corrupt and breaking heart.
-
-       *       *       *       *       *
-
-MY ROSE AND MY CHILD.
-
-  I held in my bosom a beautiful rose,
-    All gay with the splendor of June;
-  Its dew-laden petals like sheen of soft snows,
-    Its blush like the sunshine at noon.
-
-  But e'en as I held it, I knew it must fade;
-    Its bloom was as brief as the hour.
-  The dews of the evening like soft tears were laid
-    On the grave of my beauteous flower.
-
-  I held in my bosom a beautiful child,
-    The splendor of love in her eyes;
-  No snow on high hills was more undefiled
-    Than her soul in its innocent guise.
-
-  But I knew that my angel in heaven was missed;
-    I knew, like my rose, she must go;
-  So with heartbreak and anguish her sweet lips I kissed--
-    She sleeps with my rose in the snow.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+I held in my bosom a beautiful rose,
+All gay with the splendor of June;
+Its dew-laden petals like sheen of soft snows,
+Its blush like the sunshine at noon.
+But e'en as I held it, I knew it must fade;
+Its bloom was as brief as the hour.
+The dews of the evening like soft tears were laid
+On the grave of my beauteous flower.
+I held in my bosom a beautiful child,
+The splendor of love in her eyes;
+No snow on high hills was more undefiled
+Than her soul in its innocent guise.
+But I knew that my angel in heaven was missed;
+I knew, like my rose, she must go;
+So with heartbreak and anguish her sweet lips I kissed--
+She sleeps with my rose in the snow.
+*       *       *       *       *
 It was not so very long ago that I chanced to overhear a lively young
 woman make this remark about her mother:
-
 "Oh, mamma is nearly always taken for my sister. She never seems like
 anything more than one of my girl friends."
-
 Poor child, thought I, your state is only another phase of orphanhood,
 for the young life that has no counsel of motherhood is bereft indeed.
-
 No girlish comradeship, however juvenile and delightful it may be, can
 possibly take the place of protecting, counseling, mother-love. Not but
 what the sweetest relationship possible exists where the mother keeps
 her heart young and in sympathy with her daughter, but there is
 something else requisite to mother-love.
-
 The best mothers are those who have roomy laps where the big girls love
 to sit while they whisper the confidences they never could reveal to
 sister-mothers. They have all-enfolding arms, these right kind of
 mothers, wherein they gather the tired girl, yes, and the tired boys,
 too, and rock them to rest and peace, long after their "feet touch the
 floor."
-
 They used to tell me I must never sit on anybody's lap after my feet
 reached the carpet, but, thank God, that rule never applied to my
 mother.
-
 You are never afraid of disturbing mother's "beauty sleep" when you come
 in late at night if she is of the good reliable sort, as far removed
 from frisky girl companionship as the moon is from its reflection.
-
 No matter how tardy your home-faring may be she is always up with a
 lunch and a warm fire in winter or a glass of something cool and fresh
 in summer to soothe your overexcited nerves, a thing she cannot do if
@@ -1791,7 +1508,6 @@ take bitter medicine. She bathes your feet and dries them on nice warm
 towels. She keeps the younger children from guying you, because your
 nose is red; in short, she does a thousand nice things of which the
 sister-mother has no knack whatever.
-
 When great trouble falls to your share, when sharp betrayal pierces your
 heart, and trusted affection turns to ashes in your hold of what good is
 the juvenile mother with her girlish tremors and tears? You want
@@ -1806,7 +1522,6 @@ upon in time of perplexity. You want a mother in all the holy
 significance of the name. However sweet the tie of sisterhood, it cannot
 be so blessed as the bond of patient, long-suffering, sanctified
 motherhood.
-
 Seek to keep yourself in sympathy with your girls, then, mothers, but be
 content to occupy a generation removed from the path they tread. Don't
 make up in emulation of their beauty; don't seek to win away their beaus
@@ -1834,14 +1549,12 @@ confessing. Teach her that your love can never fail, that your heart is
 a rock and a fortress and a shield for her to seek in all life's
 bewilderment, far surer and more steadfast than any other love beneath
 the stars can ever yield.
-
 When I think of all it means to be a mother I tremble to think how far
 short of the standard the best of us fall. I would rather have it said
 of me when I die, "She was a good mother," than that men should get
 together and exploit my deeds as poet, reformer, artist or story-teller.
 I would rather feel the dewfall of a child's loving tear upon my face
 than wear a laureate's crown.
-
 Don't be critical, or censorious, or reserved with your daughters; don't
 hold them far off and cultivate respect and fear rather than love; don't
 be self-assertive and cause them to feel their dependence upon you in an
@@ -1864,7 +1577,6 @@ give the latter a chance to display her own taste and carry out her
 inclination. I don't believe in the mothers and fathers of grown-up
 daughters always insisting upon the occupancy of the front seats and the
 leadership of the orchestra.
-
 The mother who can preserve the respect of her children without chilling
 their love; who can be one with them, and yet apart, in the sense of
 guiding, aiding and consoling, who can hold their confidence while she
@@ -1872,9 +1584,7 @@ maintains the superiority of her wisdom, is the happy and successful
 mother. The title is a sacred one, made by the chrism of pain and
 suffering, sanctified by the humanity of Christ and set apart as one of
 the three of earth's tenderest utterances: "Mother, home and heaven."
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Now that the days draw nigh for the return of the birds to our northern
 woods and dales it is borne in upon me to hold a little "love feast"
 with the boys. You know what a love feast is, if there was ever a
@@ -1928,7 +1638,6 @@ him to cry on and two arms to hug him with. He needs a mother who can
 talk with him and answer his questions, who is not stern and severe, but
 responsive and get-at-able. With such a mother our boys will be gentle
 and our birds will be safe.
-
 Try to think, boys, what a world this would be without any robins, or
 larks, or thrushes; without any songs in the apple trees getting all
 tangled up with the sunshine and the blossoms; without any canaries to
@@ -1948,7 +1657,6 @@ If I was the Lord I would never forgive it. Men are not to blame
 sometimes when their blood gets too warm and they do impetuous things,
 but to deliberately descend to the ignominy of shooting a robin and
 calling it sport is to sink too low for justification.
-
 Whatever else you be, boys, be brave. If you must sail in and fight, if
 your superfluous zeal is too much for you, go out in the field and
 square off at a bull. There is some glory in whipping anything bigger
@@ -1956,12 +1664,9 @@ and stronger than yourself, but to show fight to a bird is a little too
 much like sneaking out and tripping up a cripple in the dark. I am going
 to write down a verse for you to write in your copy books this very day,
 and then good-night to you:
-
-  "The bravest are the tenderest;
-  The loving are the daring."
-
-       *       *       *       *       *
-
+"The bravest are the tenderest;
+The loving are the daring."
+*       *       *       *       *
 Isn't it heavenly to see the primrose around again? And the daffodils?
 And the hyacinths? Last night I went home with a rose in my button which
 cost me just five cents. At that rate, by careful abstaining from
@@ -1972,9 +1677,7 @@ indications are that they are prospecting for spring housekeeping. If
 the cat kills them I shall kill the cat. I shall close my eyes and do
 the deed in the name of mercy, for I detest cats, both two-legged and
 four-legged, and I love robins both feathered and human.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I wonder why it is that the average woman can walk and talk, breathe and
 laugh, suffer and cry, and finally die and be buried, and all the way
 through make such a botch of her life! Why is it that we fall in love,
@@ -2027,9 +1730,7 @@ you, old comrade, when you look back across the years and see again the
 sweet dead face of one you trifled with, or whom you deserted for this
 woman with heart and body of snow, a purse filled with gold and a brain
 filled with feathers.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There is entire hopelessness to many women in the blank monotony of life
 after youth is past. An emotional nature, mercurial and restless, full
 of aspirations and longings, as the trees this perfect month are full of
@@ -2065,7 +1766,6 @@ hours away. Would any sane being have reviled those sorry beings for a
 lack of spirit? Would not the gentle-hearted spectator have proffered a
 handful of fresh leaves rather, and turned away in pity that sympathy
 could do no more?
-
 For these unhappy sisters of mine, the discontented, yearning
 "Marthas," troubled with many cares, wherever my letter may find them
 between the great seas, I have a word of comfort in my heart to-day. In
@@ -2127,9 +1827,7 @@ the same formulas to be observed, the same distaste to be overcome
 throughout a lifetime of toil, yet no duty shirked, no obligation set
 aside, I wonder if Heaven holds a crown too bright for such faithful
 lives.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The time of the year for violets and also for tramps is drawing near.
 Did you ever stop and think just what it means to be a tramp? It means
 no work, no money, no home, no shelter, no friends. Nobody in all the
@@ -2160,43 +1858,32 @@ your mother are watching for you his mother is looking out for him.
 Perhaps--who knows?--the footfall of the ragged and despised tramp shall
 gain upon yours and find the gate of deliverance first, in spite of your
 money and your pride.
-
-       *       *       *       *       *
-
-THE BROOK.
-
-  Lifting its chalice of sun-kissed foam
-  Far up the heights where the wild winds roam,
-  Weaving a web of shadow and sheen
-  In lowland meadows of dewy green.
-
-  Murmuring over the mossy stones,
-  In cool green dells where the gold bee drones,
-  Sudden and swift the showery fall,
-  Startling the wood bird's madrigal.
-
-  Orbing itself in a crystal lake
-  Set round with thickets of tangled brake,
-  In waveless calm, an emerald stone,
-  In the lap of the dusky forest thrown.
-
-  Silver flakes of tremulous light
-  Showering down from the fields of night,
-  Where the great white stars like lilies glow--
-  Tossed on its tide as feathery snow.
-
-  Hastening onward through troubled ways,
-  Forgotten for aye its woodland days,
-  Sullen and silent its banks beside
-  The free brook wanders, a mighty tide.
-
-  Beyond where the forest's purple rim
-  Belts the horizon, hazy and dim,
-  Thundering down from the frowning steeps,
-  Into the arms of the sea it leaps.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+Lifting its chalice of sun-kissed foam
+Far up the heights where the wild winds roam,
+Weaving a web of shadow and sheen
+In lowland meadows of dewy green.
+Murmuring over the mossy stones,
+In cool green dells where the gold bee drones,
+Sudden and swift the showery fall,
+Startling the wood bird's madrigal.
+Orbing itself in a crystal lake
+Set round with thickets of tangled brake,
+In waveless calm, an emerald stone,
+In the lap of the dusky forest thrown.
+Silver flakes of tremulous light
+Showering down from the fields of night,
+Where the great white stars like lilies glow--
+Tossed on its tide as feathery snow.
+Hastening onward through troubled ways,
+Forgotten for aye its woodland days,
+Sullen and silent its banks beside
+The free brook wanders, a mighty tide.
+Beyond where the forest's purple rim
+Belts the horizon, hazy and dim,
+Thundering down from the frowning steeps,
+Into the arms of the sea it leaps.
+*       *       *       *       *
 Did it ever strike you, I wonder, this marvel of our individuality?
 Alone we are born, alone we live, alone we die, alone we pay the penalty
 or reap the reward of our evil or well doing. In the troubles that
@@ -2207,7 +1894,6 @@ may. We often hear a mother say: "My child is so headstrong; she will
 not take my advice; she will go her own way." Of course she will, and
 she will not, simply because individual tact is the law of all
 experience. It is not being headstrong, it is merely fulfilling destiny.
-
 In the fight we wage we do not fight by platoons or squads, under a
 common leader, a thousand at a charge. We enter the lists one by one and
 fight single handed. We choose our own colors and there is little of
@@ -2217,7 +1903,6 @@ crowds like men who are jostled out of life by earthquakes or flooded
 like rats by tidal waves, but we slowly succumb to the inevitable in
 solitudes where only the stars watch us and the spaces of a dim,
 unsounded sea catch the fret of our mortal moan.
-
 I have always thought that I should love to have the world come to an
 end, with a grand final bang, while I was yet living and sentient on the
 surface. I would like to be flashed out of being in the conglomerate of
@@ -2229,7 +1914,6 @@ would not lose its awful individuality even then. Marshal the whole
 world, and aim a single bullet at a hundred million souls, with power to
 still each pulse beat in the same rifle flash of time, yet each man
 would die alone.
-
 There is one final lesson to be gained through the doleful contemplation
 of the world's flood-tide of sorrow, and that is the lesson of how to
 bear our troubles so as to react as little as possible upon those with
@@ -2254,7 +1938,6 @@ experience of his sorrow. None knew when that sting came, or how it
 tarried; he bore it silently like a soldier and a man. The trifling
 world called him light of love and easily consoled, but I think he was a
 grand, unselfish hero, a benefactor rather than a destroyer of mankind.
-
 When we get so that we can hide our sorrow in a smile we attain that
 attitude that brings us closest to the divine. The man or the woman who
 goes up and down the ways of the world with a groan on his lips and a
@@ -2270,7 +1953,6 @@ they would go around as humans do and disseminate unpleasant topics, as
 idle winds start thistle pollen. Silence is golden when you can find
 nothing better to do than to clamor your own troubles; speech only is
 blessed when, like a bird, it evolves a song or wings a feathered hope.
-
 It seems hardly the thing to do, perhaps, to single out the unhappy
 folks in a present world so full of jollity and talk with them awhile
 to-day. This bright autumn weather is so crowded with sights and sounds
@@ -2280,7 +1962,6 @@ yet, for some reason or other, as I sit here at my desk to-day, the
 thought of the hearts that are heavy in the midst of all the world's
 fair pageant, and the eyes that cannot see the banners by reason of
 their tears, come to me with a strong and resistless force.
-
 Alas, for the goblin bee that stings, yet all too often may not "state
 its sting"! We walk with a crowd, and yet are conscious that our way is
 not theirs. It lies apart, we know not why, and evermore dips into
@@ -2295,9 +1976,7 @@ toy from its hand, to the woman whose eyes are sunken with sorrow
 because death has jostled the one whom she loved into his grave,
 everybody who passes, with but few exceptions, shows the scar of that
 stateless sting.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Look at my window-garden, yonder! The sunshine, stealing in from the
 south, has wooed a dozen pansies into bloom--"Johnny-jump-ups," they
 used to call them when I was a girl. How bright and cheery and chatty
@@ -2316,9 +1995,7 @@ hearts to others. A cluster of fading violets sets me thinking of frail
 invalids and the host of "shut-in" ones, whose delicate and dying beauty
 fills our eyes with unstayed tears and our hearts with the shadow of
 coming sorrow.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There are gates that swing within your life and mine from day to day,
 letting in rare opportunities that tarry but a moment and are gone, like
 travelers bound for points remote. There is the opportunity to resist
@@ -2331,9 +2008,7 @@ venting your temper and your "nerves" upon each other. Love's
 opportunity travels by lightning express and has no time to dawdle
 around the waiting-room. If you improve it at all it must be while the
 gate swings to let it through.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 My dear, let me implore you, whatever else you let go, hold on to your
 enthusiasm. Grow old if you must; grow white-headed and bent and
 care-furrowed, if such must needs be the process of years, but don't
@@ -2365,9 +2040,7 @@ achievement. Heart rather than head; nature rather than art; genuineness
 rather than pretense; romance rather than absolute realism; enthusiasm
 rather than petrifaction, will make a man rather than a gold fish, a
 juicy apple rather than a ball of metallic and glittering nothingness.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 We were gathered at the Norfolk Station awaiting the train that was to
 carry us over the marshes to Virginia Beach and the sea. The crowd that
 surrounded us was very different from a Chicago crowd. There was no
@@ -2387,9 +2060,7 @@ but merry tones and laughing as delicately and airily as thrushes sing.
 Oh, I lost my heart to you, my pretty southern maidens, and count the
 time well spent I devoted to the contemplation of your many graces away
 down in that little station by the torrid bay.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 If I was a liar and wanted to reform I shouldn't quit lying all at once.
 I would start out with a covenant to occasionally tell the truth. By and
 by this spasmodic truth-telling, like the grain blown by the wind among
@@ -2406,9 +2077,7 @@ resolving that we renounce the old and attain unto the new. He who
 travels but a few steps and keeps his face heavenward is on the way,
 and every small decision for the right, faithfully adhered to, is a
 notable step toward a consummated journey.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I am often struck with the selfishness displayed by people who are
 fortunate enough to be provided with umbrellas in time of sudden
 showers. They calmly behold hosts of unhappy beings battling their way
@@ -2417,7 +2086,6 @@ never think of saying, "Accept a share of my umbrella," or "Walk with me
 as far as our ways lie together." If I should hear such a speech I might
 drop senseless with surprise, but all the same I should hail it as the
 bugle note that heralded a new era of courteous kindness.
-
 We are not put into the world to be suspicious of one another. We were
 put here to make the world pleasanter for our tarrying, and to cultivate
 a fellowship with souls. If the guests at a mountain inn, sojourning
@@ -2428,7 +2096,6 @@ the span of mortal life in doing all they can to make one another
 uncomfortable? We have only a watch in the night to tarry together; let
 us try to make that hour a profitable one and a pleasant memory for
 others when we have journeyed on.
-
 I have often wondered how Christian people got round the gospel command,
 "Love thy neighbor as thyself." It doesn't say love him (or her) after a
 proper introduction, or if agreeable, or congenial, or of good family
@@ -2442,7 +2109,6 @@ neighbor plunged into an extremity, or handicapped by an annoyance of
 any kind. If we love our neighbor we are bound to help him, and neighbor
 in this sense means anyone who chances to be near us, whether black or
 white, raggedly disreputable or sanctimoniously frilled.
-
 There is more selfishness perpetrated in the world under guise of family
 ties than in almost any other way. The man who does good and unselfish
 deeds only for his own children and for the immediate circle housed
@@ -2453,7 +2119,6 @@ his children's backs, or how many luxuries he surrounds them with, the
 Lord will not hold him guiltless if he does nothing for the stranger who
 tugs by him in the stress of life's uncertain weather, or for the
 neighbor who sits disconsolate outside his gates.
-
 I wish that vagabond and his dog who were brought before a west side
 justice yesterday for vagrancy would travel up my way. I like that sort
 of thing that leads a man to be faithful to his dog. It goes without
@@ -2470,9 +2135,7 @@ moon or stars but a flea-bitten dog? Did you ever stop to think, my
 Christian friend, that that tramp is a neighbor whom you are to love?
 And if you are going to love him I will love his dog! No doubt the
 latter is the better man of the two.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Did you ever read of a battle siege in olden times? There were the
 full-armored warriors, resplendent in shining metal and plumed crests;
 there were the mighty battering rams, and the flash of battle axes, the
@@ -2498,9 +2161,7 @@ wheel, the mother whose daily life of unselfish toil and far-reaching
 influence is a prayer, do more to stir the divine heart, to keep the
 world's prow headed for heaven than half the solicitations or
 apologetic addresses made in our churches under the name of prayer.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 When you and I get rich, my dear, as some day we surely shall, what are
 we going to do with all our money? We will hunt up some of the
 improvident ones, those who could never make the two ends meet, those
@@ -2520,9 +2181,7 @@ estates at whose gate he stands and begs. The big hearts too often go
 with the empty purse, and the little, wizened, skin-flint souls, that it
 would take a thousand of to crowd the passage through the eye of a
 needle, gain all the golden favors of the god of plenty.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 After dinner I said to the little folks, "Behold, I will buy me a pair
 of stockings and hire a bathing suit, and the afternoon shall be devoted
 to frolic and thee." So we went to the small booth, where an exceedingly
@@ -2544,16 +2203,11 @@ was constantly getting drowned in the surf, and one of my expensive and
 expansive stockings was captured out at sea and brought back by a son of
 Belial, who seemed greatly affected by its size, but in spite of such
 small drawbacks we had a glorious time.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 "What is the matter, my darling?" asked John, the newly married, to the
 wife of his bosom.
-
 "Nothing whatever," replied Mrs. John.
-
 "But you look like a funeral," exclaimed he.
-
 "I am not aware that I look more than usually unamiable; I certainly
 never felt better," replied his wife, placidly folding down meanwhile
 the hem to a distracting little apron she is making. John seizes his
@@ -2563,17 +2217,13 @@ wife look so like an injured martyr. For the time being love is dead,
 joy wiped from the face of the earth, hope crucified and peace
 assassinated, all because of bottled thunder. A word would have
 explained all, a look has ruined everything.
-
 "Don't put on your fresh muslin this afternoon," suggests the prudent
 mother.
-
 "But why not?" replied the sprightly Jane; "it is the only endurable
 dress this warm weather."
-
 "Oh, very well, do as you like, of course," meekly replied the parent in
 a tone that suggests a serpent's fang, a hoary head and a broken heart
 all in one.
-
 Now, in my opinion it is not conducive to domestic harmony to have too
 much of this sort of repression. It is like living in an exhaust
 chamber. One would be certain to choke up and burst very soon.
@@ -2583,7 +2233,6 @@ mischief as a loosened tongue. Why I should go about like a disagreeable
 old martyr or like a sneering Saul of Tarsus, and call myself pleasant
 to live with, simply because I don't talk, is something not easily
 understood.
-
 I would far rather be a target for flying saucepans every time I popped
 my head into the kitchen than have a cook there who never says a word,
 but is sullen and ugly enough to carve me up like cold meat. I would
@@ -2601,9 +2250,7 @@ lighten, blow and hail if you want to, but don't be a non-committal
 dog-day. Bottled thunder is a bad thing to keep on the family shelves.
 It is likely to turn sour on your hands, and before you get through with
 it, you will wish you had died young.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Yonder goes a small and worthless yellow dog. He is young; you can tell
 that from the abnormal size of his paws, and a certain remnant of
 wistful trust in human kind, which displays itself in the furtive wag of
@@ -2626,9 +2273,7 @@ transfers the human passenger from the earthly to the celestial railroad
 and carries him through on the passport of an immortal soul; but no
 ticket at all is quite as good as a forged or fraudulent one, as some of
 us will find out, I am thinking, when we hand up our worthless checks!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Which would you rather be in the orchestra of human life, a flute or a
 trombone? To be sure, the latter is heard the farthest, but the quality
 of the flute tone reaches deeper down into the soul and awakens there
@@ -2645,43 +2290,32 @@ shows and burlesques. It isn't the shy and the timid who get the
 applause; the clown in tinsel and the end man in cork divide easy
 honors. And yet, thank God for flutes! Thank God the orchestra isn't
 entirely composed of trombones and bass drums.
-
-       *       *       *       *       *
-
-WHAT I MISS.
-
-  I can get used to my darling's dress
-    That hangs on the closet door;
-  And the little silent half-worn shoes
-    That patter no more on the floor.
-
-  I can get used to the hopeless blank
-    That greets my waking eyes,
-  As they meet the sight of the empty crib
-    Where no little nestling lies.
-
-  I can get used to the dreary hush,
-    In the home which my darling blest
-  With her prattling speech and her rippling laugh,
-    Ere we laid her away to rest.
-
-  But, ah! the touch of those little hands
-    That wandered o'er my face,
-  Like the wavering fall of rose-leaves soft,
-    In some sunlit garden place.
-
-  Those dimpled caressing baby hands!
-    I feel them again at night,
-  And in dreams I gather them back again
-    From their harp in the City of Light.
-
-  My hungry heart will claim them still;
-    I cannot let them depart.
-  So I gather them back again in dreams
-    To my desolate, breaking heart.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+I can get used to my darling's dress
+That hangs on the closet door;
+And the little silent half-worn shoes
+That patter no more on the floor.
+I can get used to the hopeless blank
+That greets my waking eyes,
+As they meet the sight of the empty crib
+Where no little nestling lies.
+I can get used to the dreary hush,
+In the home which my darling blest
+With her prattling speech and her rippling laugh,
+Ere we laid her away to rest.
+But, ah! the touch of those little hands
+That wandered o'er my face,
+Like the wavering fall of rose-leaves soft,
+In some sunlit garden place.
+Those dimpled caressing baby hands!
+I feel them again at night,
+And in dreams I gather them back again
+From their harp in the City of Light.
+My hungry heart will claim them still;
+I cannot let them depart.
+So I gather them back again in dreams
+To my desolate, breaking heart.
+*       *       *       *       *
 The other day my strolling took me into a second-hand furniture shop. I
 wanted to find an ice chest. "Have you any second-hand chests?" I asked
 of the hoary-headed son of Erin who tended the place and raked in the
@@ -2689,13 +2323,10 @@ shekels. He didn't answer a word, but silently arose and beckoned me to
 follow. Through ranks of withered tables and blighted chairs I picked my
 way until my guide dived down a gruesome stairway and then I stopped.
 Presently his head emerged like a grimy Jack-in-the-box.
-
 "Is it an ice chist yez want?" asked he. There was mold on his faded
 cheeks and a cobweb on his brow as he awaited my answer.
-
 "Must I go down there to find it?" I inquired. He replied in the
 affirmative.
-
 "Old man, I will go no further," said I, "but come back here and tell me
 the price of this lovely desk." So saying, I designated a delightful old
 claw-handled, brass-mounted, spider-legged piece of furniture, which
@@ -2712,28 +2343,19 @@ the grime of ages which I could not rub from off my nose, "is more than
 two hundred years old." He stopped for a moment to see if I would
 believe him, then went on: "Yis, ma'am, that same is nearer three
 hundred years old, all told."
-
 Here I gave him a look which stopped him at the threshold of the fourth
 century.
-
 "Yez may have it for $25," says he.
-
 "I'll give you five," says I.
-
 He turned away as one who found his mother tongue inadequate to express
 the deep-seated scorn of his soul. I followed.
-
 "Did yez say twenty?" he asked stopping abruptly and facing me with the
 blurred photograph of what was once an engaging smile.
-
 "I said five," I answered.
-
 "Well, take it thin," said he, "but it would be dirt chape at fifty.
 It's not a day less than four hun--"
-
 "Stop," said I, "if you add another century I'll only pay you two and a
 half for it."
-
 And so to-night it comes to pass that I am writing at my new old desk. I
 am half conscious, as my pencil glides along the paper, of a laughing
 face, half-hidden by showers of falling hair, that flickers like a
@@ -2743,7 +2365,6 @@ who thought and wrote at this same desk, one, two, three, four hundred
 years ago, seems whispering in my ear. I wonder what will be the effect
 if I read to that sweet, gentle woman of "ye olden time" a few bits from
 the morning paper.
-
 Madam, are you aware that a man kicked his wife to death yesterday
 because she failed to have his supper ready for him? Are you not to be
 congratulated that you are out of reach of this latter day development
@@ -2759,9 +2380,7 @@ worth of a dream? In your long time disembodied state have you yet
 reached a point, I wonder, when such news as this can no longer thrill a
 woman's heart? If so, madam, you are truly and undeniably dead, and your
 room is better than your company. I bid you a gentle good evening.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Among the many things I shall be glad to find out some day will be why,
 in spite of heroic effort to keep it straight, my hat always gets
 crooked and my hair becomes disordered on the march. I thoroughly detest
@@ -2801,9 +2420,7 @@ appearance, but I declare to you if it comes to a question of mental
 array and soul-correction as opposed to style and good form, I am
 willing to choose the former and be laughed at now and then by saucy
 girls."
-
-       *       *       *       *       *
-
+*       *       *       *       *
 That's right. Stand on shore and beat him back when he attempts to make
 a landing. If necessary, club him under water and congratulate yourself
 that you are so self-righteous and everlastingly holy that nobody can
@@ -2823,9 +2440,7 @@ will stand over against the doorway with a flaming sword and demand to
 see your credentials. No hope of that, though. Angels are not up to that
 sort of work; it is left to men, and sometimes--God pity us all!--to
 women.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 If you expect to escape criticism, girls, in this world, you will put
 yourselves very much in the plight of flower-roots that expect to grow
 without the discipline of the hoe. Before we can amount to anything
@@ -2856,7 +2471,6 @@ whom you associate casually in business, or with whom you ride daily to
 and from your office and your home, has no conception how snappy and
 snarly you can be when none but familiar ears are open to your surly
 complaints.
-
 The statement from your little brother or sister that you are a "cross
 old thing" would hardly be believed by those who meet you away from
 home. And yet the hoe in the little hands strikes at a weed that
@@ -2886,7 +2500,6 @@ it. Set about correcting the little faults, and the great ones leave to
 God. He will keep you, no doubt, from theft, and murder, and perjury,
 but you don't ask or seem to stand in need of His help in getting rid of
 temptations to be mean and selfish, and discourteous and lazy.
-
 What would you think of a gardener who went about with a spade seeking
 to exterminate nothing but Canada thistles, and let all the rest of the
 weeds go? It is not often that so big and determinate a thing as a
@@ -2904,7 +2517,6 @@ am untender to the children; or untruthful, because I instruct the
 servant to say I am "not at home" when I am, how am I going to dispose
 of those charges? Sure as you live, there are weeds in front of such hoe
 strokes, and with heaven's help we'll get rid of 'em.
-
 Cultivate your critics, then, provided they be honest and fair-dealing.
 Avoid only such as strike in the dark. The man who goes out to hoe weeds
 in the night time is not to be trusted, and the enemy who resorts to the
@@ -2916,21 +2528,16 @@ festival by and by, bearing garlands of roses, and wreaths of hearts'
 delight and balm, who have welcomed the strong stroke of the hoe at the
 root of every blossom to bear down the weeds and loosen the tough and
 sun-baked soil.
-
 As Charles Kingsley says:
-
-  "My fairest child, I have no song to give you;
-    No lark could pipe 'neath skies so dull and gray;
-  Yet, ere we part, one lesson I can leave you
-          For every day:
-
-  "Be good, sweet maid, and let who will be clever;
-    Do noble things, not dream them, all day long,
-  And so make life, death and that vast forever
-          One grand, sweet song."
-
-       *       *       *       *       *
-
+"My fairest child, I have no song to give you;
+No lark could pipe 'neath skies so dull and gray;
+Yet, ere we part, one lesson I can leave you
+For every day:
+"Be good, sweet maid, and let who will be clever;
+Do noble things, not dream them, all day long,
+And so make life, death and that vast forever
+One grand, sweet song."
+*       *       *       *       *
 See that half-grown man? He never will know as much again as he does now
 at the ripe age of twenty. When he gets to be fifty, when his hair is
 grizzled and his hopes are like the dead leaves that cling to November
@@ -2945,9 +2552,7 @@ are flung at purity, and the scoffs that are launched at established
 religions; all the jokes at the expense of noble womanhood and the
 witticisms that are lavished upon the old-fashioned virtues, spring from
 the gigantic brain of the youth of the period.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Often as I pass along the streets of this town I notice certain places
 which I do not burn down, nor tear down, nor otherwise demolish, merely
 because of inherent cowardice and inadequate strength. If I had a
@@ -2969,19 +2574,16 @@ which invites only men to enter within. Now and then a hideously ugly
 man, with a yellow beard, comes to the ticket window and looks out like
 a tarantula from its hole, but in the main the place seems absolutely
 unfrequented.
-
 Take your stand and watch for awhile, though, and you will see young men
 and small boys, old men and slouching reprobates of all conditions and
 colors going in and coming out by dozens. Why doesn't some good citizen
 enter a complaint of that place and break it up? We would pounce upon a
 smallpox case soon enough wherever it might lurk, but we are strangely
 indifferent where the menace is only to the soul.
-
 How can we expect to keep our boys pure and raise them to lives of
 usefulness when such iniquitous places are run wide open on public
 streets at noonday, granting admission to all masculinity between the
 ages of 7 and 70?
-
 A well-guarded youth is supposed to be at home in the night time and not
 to be frequenting shy neighborhoods at any hour. So that we might feel
 comparatively safe about the boy we send out into the world at an early
@@ -2992,7 +2594,6 @@ daylight, what safety have we? Whenever I look into the face of an
 eager, bright, curious, thoroughly alive boy I feel like shaking every
 other duty of life and going forth to do battle with the devil for that
 lad's soul.
-
 Why should evil have so much greater chance than good? For one reason I
 don't believe we make the good attractive enough. The devil has stolen
 the trademark of light for half his wares. Why not have more fun and
@@ -3003,7 +2604,6 @@ good cheer and jollity somewhere else than in forbidden places and among
 smooth and unscrupulous knaves? If we made our churches less austere and
 their gatherings more alluring to the young, these low and vicious
 resorts might close for lack of patronage.
-
 God bless the boys. I love them next best to girls, and sometimes even a
 little better, when they are especially frank and brave and true. I am
 not going to see them harmed without a protest, either, and I would be
@@ -3013,9 +2613,7 @@ every man or woman who makes money by pandering to the curiosity of a
 boy's nature, inciting to unworthy passion by means of lewd pictures
 and the like, should be consigned to instant perdition. The earth is too
 hallowed to receive their vile dust!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Dear girls, if you would be beautiful with the beauty that strikes root
 in heaven, first of all be natural. Be true to something within you
 higher than any conventional code or worldly wise mandate. If it is your
@@ -3028,9 +2626,7 @@ angels in heaven will ever be fooled by any artificial rose, let me tell
 you, however much dudes and society feather-heads may pretend to desire
 it. Grow for something better than this world; wear your sweetness in
 your heart rather than on your pocket handkerchief.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The great drawback to domestic felicity often lies in the fact that we
 get too familiar with one another. There should be a certain reserve in
 the most intimate relationships. Sisters and brothers have no right to
@@ -3066,12 +2662,9 @@ child's feelings with an injustice or a cruelty, or ridicule the
 sensitive feelings of a brother or a sister, not eternity itself shall
 be long enough to extract the sting from my memory when my dear ones are
 dead and love's opportunity is vanished forever.
-
 Study politeness, then, which is the bodyguard of love, and build up for
 yourself the structure of a happy home.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Has it been borne in upon you what radiant mornings and September nights
 the last two weeks have brought in? Have you stopped, Mr. Busyman, to
 note the wonder of the skies, never so glorious as of late? Did you see
@@ -3090,9 +2683,7 @@ blue as a heather bell, as wild as a wood-bird, as peaceful as a
 brooding dove? Where were you the other night when out of the sullen
 storm cloud the "light that never was on land or sea" enfolded us, and
 the world hung like an emerald in a topaz sky?
-
-       *       *       *       *       *
-
+*       *       *       *       *
 No law of morals should be less arbitrary for men than it is for women.
 An impure heart, a riotous appetite, a profane tongue, are no more
 excusable in a man than they are in a woman. If a man is supposed to
@@ -3125,9 +2716,7 @@ any distinction made between men and women? Think you a man is going to
 get off easier than a sorrowful and sinful woman merely because the
 world falsely taught him that the exigencies of his nature demanded
 greater latitude than hers?
-
-       *       *       *       *       *
-
+*       *       *       *       *
 You may retouch a faded picture, you may patch up an old piano, you may
 mend a shattered vase, but you cannot make a plucked rose grow again; it
 will wither and die in spite of every effort to restore it to the stem
@@ -3152,38 +2741,28 @@ thousand times more. Small-pox, at its worst, can only mar the body, but
 the friend who lends you bad books or tells you "smutty" stories
 proffers a contagion to your soul which all the fountains of all your
 tears can never cleanse away.
-
-       *       *       *       *       *
-
-THIS BABY OF OURS.
-
-  There's not a blossom of beautiful May,
-  Silver of daisy, or daffodil gay,
-  Nor the rosy bloom of apple tree flowers,
-  Fair as the face of this baby of ours.
-
-  You could never find, on a bright June day,
-  A bit of fair sky so cheery and gay;
-  Nor the haze on the hills in noonday hours,
-  Blue as the eyes of this baby of ours.
-
-  There's not a murmur of wakening bird--
-  The clearest, sweetest, that ever was heard
-  In the tender hush of the dawn's still hours--
-  Soft as the laugh of this baby of ours.
-
-  There's no gossamer silk of tasseled corn,
-  Nor the flimsiest thread of the shy wood fern--
-  Not even the cobwebs spread over the flowers--
-  Fine as the hair of this baby of ours.
-
-  There's no fairy shell by the sounding sea,
-  No wild rose that nods on the windy lea,
-  No blush of the sun through April's showers,
-  Pink as the palm of this baby of ours.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+There's not a blossom of beautiful May,
+Silver of daisy, or daffodil gay,
+Nor the rosy bloom of apple tree flowers,
+Fair as the face of this baby of ours.
+You could never find, on a bright June day,
+A bit of fair sky so cheery and gay;
+Nor the haze on the hills in noonday hours,
+Blue as the eyes of this baby of ours.
+There's not a murmur of wakening bird--
+The clearest, sweetest, that ever was heard
+In the tender hush of the dawn's still hours--
+Soft as the laugh of this baby of ours.
+There's no gossamer silk of tasseled corn,
+Nor the flimsiest thread of the shy wood fern--
+Not even the cobwebs spread over the flowers--
+Fine as the hair of this baby of ours.
+There's no fairy shell by the sounding sea,
+No wild rose that nods on the windy lea,
+No blush of the sun through April's showers,
+Pink as the palm of this baby of ours.
+*       *       *       *       *
 Don't you get awfully tired of people who are always croaking? A frog in
 a big, damp, malarial pond is expected to make all the fuss he can in
 protest of his surroundings. But a man! Destined for a crown, and born
@@ -3196,18 +2775,14 @@ white, new moons to wrap it round with mystery; with other souls within
 it to love and make happy, and the hand of God to uphold it on its
 rushing way among the countless worlds that crowd its path: what right
 has a man to find fault with such a world?
-
 When the woodtick shall gain a hearing, as he complains that the grand
 old century oak is unfit to shelter him, or the bluebird be hearkened to
 when he murmurs that the horizon is off color, and does not match his
 wings, then, I think, it will be time for man to find fault with the
 appointments of the magnificent sphere he inhabits.
-
 "It is a fine day!" remarks Miss Cherrylips.
-
 "Too cold," says the croaker; "beastly wind, not fit for a dog to
 breathe."
-
 Oh, yes, my dear, I heard him say it this very morning, and while I sat
 and listened to him I could but think to myself, "What would become of
 the croaker without the weather topic to fall back upon?" When all else
@@ -3217,7 +2792,6 @@ cold; there is too much rain, or there is a drought; the winters are
 changing and microbes are on the increase; the peach buds are blighted
 by a cold snap in spring, and the potatoes have failed or are about to
 fail, owing to a wet June.
-
 That is the way the croaker holds forth whenever he can get anybody to
 listen to him. I sometimes wonder what he would do if he really had
 great things to fret about; if one of his beautiful children were to
@@ -3226,7 +2800,6 @@ never takes the trouble to acquaint with the fact, were to weary of his
 endless faultfinding and steal away from it all into the quietude of the
 grave. I wonder if he would not then look back upon these days of
 "croaking" with amazement that he was ever so blind and stupid a fool.
-
 I knew a woman once who was very, very charming. She could sing "Allan
 Percy" in a way that would melt the heart within you. She could paint on
 china and decorate the panels of doors, and on the whole she was
@@ -3251,16 +2824,13 @@ she would sooner jump in the river than submit to the pestilential
 infliction. Then she was forever prophesying some dreadful fate for
 herself by reason of the muddy footprints that occasionally found their
 way onto the carpets.
-
 "I declare," she would say, "if you boys don't stop tracking dirt into
 the house I'll die before my time. If there is anything I hate it is a
 careless boy!"
-
 And the boys took her at her word and stopped tracking mud. But they
 were gradually lured to stay away from home, and the soil they took into
 their hearts was perhaps harder to efface than the footmarks they left
 upon the floor of mother's neatly kept hallways.
-
 She was always anticipating trouble that never came. She knew the girl
 was going to leave. She was simply too great a treasure to keep. She was
 absolutely certain that the milkman was watering his milk, and the baby
@@ -3269,7 +2839,6 @@ going to ruin himself on 'Change, and then what would become of them
 all? So she worried and fretted and fumed, until patience, like a hunted
 bird, spread its wings and flew away, and what might have been a happy
 home became a stranded wreck upon the rocks of contention.
-
 Oh, I tell you right now, girls, if you can only cultivate one
 accomplishment out of the many that wait to crown a perfect womanhood,
 cultivate a pleasant temper and cheerful disposition. The ability to
@@ -3277,9 +2846,7 @@ speak many languages, to paint, to dance, to sing, or even to wield a
 graceful pen is nothing compared to the ability to make a lovely home.
 Nobody ever yet succeeded in that noblest endeavor without abjuring
 needless faultfinding, croaking and fretting.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 As a general thing I don't believe in sermons served as restaurants
 serve beef--in slices. I believe in teaching truths, rather, as one
 whips cream, dropping in the moral as an almost imperceptible flavoring.
@@ -3303,9 +2870,7 @@ at three of the apple or the book we so rudely snatch from the little
 hands without a word of apology. Take the time to explain to the little
 fellow why you deprive him of some cherished possession and you will
 save the tender bit of a heart a vast amount of unnecessary aching.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I have many things to be thankful for this stormy winter night. One is
 that the coal bin is full and the lock on the outer door secure. Another
 is that the rooftree bends above an unbroken band, and that disease with
@@ -3373,9 +2938,7 @@ them if you like, but do it in a gentlemanly way (if such a paradox is
 possible), and don't take money for the job." The boy or the man who
 will take a life for sordid ends, or, in other words, who will seek to
 enrich himself on "blood money," is pretty low down in the human scale.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Laughter is a positive sweetness of life, but, like good coffee, it
 should be well cleared of deleterious substance before use. Ill-will and
 malice and the desire to wound are worse than chicory. Between a laugh
@@ -3389,9 +2952,7 @@ as the plumage of the bird sheds rain. But discourage all tendencies to
 seek your amusement at the expense of another's feelings or in aught
 that is impure. It was Goethe who said: "Tell me what a man laughs at
 and I will read you his character."
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I'll take my chances any day to find heaven on earth, if I can have the
 run of the woods up along our northern lake shore in early springtime. I
 want no companions either, unless, perhaps, it be a child or a dog, for
@@ -3431,9 +2992,7 @@ eternally upon the grindstone, start for the woods. Take a big basket
 with you and fill it full of lilies, and, ten to one, before you get
 home again the lilies will have taken root in your heart and your basket
 will be full of contentment.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Educate the children to the expectation of sorrow, not as a monster who
 is to devour them, but as an angel who is to meet them on the way and
 lead them gently home to heaven. Teach them to hold themselves in
@@ -3448,30 +3007,22 @@ left unacquainted with the sharp discipline of the gardener's shears? I
 tell you, all the way up from an apple to a man it takes lots of pruning
 and lopping off of superfluous branches to bring out the flavors and
 sweeten the fiber of the fruit.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I can imagine a lot of way-worn pilgrims drawing up to heaven's gate.
-
 "What will you have?" asks old St. Peter, standing idle and calm in the
 perpetual sunshine that lies beyond the swinging portal.
-
 "I will have my crown," says one. "I have earned it."
-
 "And I will have my harp," says another; "my fingers are eager to pick
 out the heavenly tunes."
-
 "And I will hie me at once to my heavenly mansion," says a third. "Long
 time I have plodded, foot-sore and weary, to gain the habitation of its
 enduring rest."
-
 But if you can imagine "Amber" piping forth her small request, I think
 you might hear her say: "Conduct me, oh, aged friend, to the nearest
 sand-bank, where I may lie face downward in the sunshine for fifty years
 to come, and hear the surf break on 'Sconsett's reef." That is what I
 have been doing for the past fortnight, and both soul and body have
 waxed strong in the process.
-
 What a tired passenger we carry around with us, sometimes, in this
 marvelous Pullman coach of ours, wherein the soul takes passage for its
 overland trip from the cradle to the grave. How restless it gets, and
@@ -3479,7 +3030,6 @@ how troublesome. How it turns from companionship, even that of books,
 and finds no panacea for its torment, until some kind fate side-tracks
 it and lets the noisy world rumble on with the clatter and clash of
 conflicting cares beating the hours to dust beneath their flying wheels.
-
 When I went away for my yearly outing I was so cross that there was no
 living within six miles of my own shadow. I hated everything on earth,
 and everything on earth hated me. But I have come back as sweetly as the
@@ -3503,9 +3053,7 @@ outing. Your pockets may be lighter when you get back, but so will your
 heart be, and the few sacrifices necessary in the way of less expensive
 clothes and cigars, or less frequent gloves and bonnets, will be well
 worth the making for the result gained.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I wish Columbus had never discovered us. I wish that he had never
 steered his old bark westward and found the "land of the free and the
 home of the brave." For with discovery came civilization, and I believe
@@ -3525,9 +3073,7 @@ decency. I want to forget forever the clang of the cable car and the
 rumble of its wheels. I want to return to the heathendom that worships
 gods instead of dollars and loves mankind simply because it knows
 nothing of faithlessness and fraud.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 "Plaze, sor," said a servant to the head of a certain suburban household
 the other morning, "the gintleman who sthole the chickens left his hat
 in the hincoop." Just so, Bridget. And the lady who attends to the
@@ -3565,9 +3111,7 @@ seven foot of the blue-blooded cook has condescended to stretch our
 silken hose? It behooves us to join the ranks of the "philanthropic
 fiends" and look to it that we improve our methods of treating the
 delicate gentry who tarry with us so briefly.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 By the way, I think I occasionally hear a feeble pipe from a man to the
 effect that the girls are responsible for all the tomfoolery in the
 world. Don't you know that you are the very ones who tend to make them
@@ -3594,31 +3138,24 @@ When you, my fine and dapper gentleman, begin to seek out the modestly
 appareled and the sedate girls, then shall folly and vain show fly over
 seas for want of encouragement and the grand transformation of sawdust
 dolls into women and pleasure-seekers into home-keepers take place.
-
-       *       *       *       *       *
-
-TWO DAYS.
-
-  I said to myself one golden day
-  When the world was bright and the world was gay,
-    "Though I live more lives than time has years
-    Either in this or the infinite spheres,
-  I will fear no blight and I'll bear no cross,
-  Against my gains I will write no loss,
-    But I and my soul, twin lilies together,
-    Shall whiten in endless summer weather!"
-
-  I said to myself one weary day
-  When the world was old and the world was gray,
-    "Has God forgotten His wandering earth?
-    Are its tears His scorning, its groans His mirth?
-  There's no blue above where the torn clouds fly,
-  There's no bloom below where the dead leaves lie;
-    Would I and my soul were at rest together
-    Wrapped from the chill of this wintry weather."
-
-       *       *       *       *       *
-
+*       *       *       *       *
+I said to myself one golden day
+When the world was bright and the world was gay,
+"Though I live more lives than time has years
+Either in this or the infinite spheres,
+I will fear no blight and I'll bear no cross,
+Against my gains I will write no loss,
+But I and my soul, twin lilies together,
+Shall whiten in endless summer weather!"
+I said to myself one weary day
+When the world was old and the world was gray,
+"Has God forgotten His wandering earth?
+Are its tears His scorning, its groans His mirth?
+There's no blue above where the torn clouds fly,
+There's no bloom below where the dead leaves lie;
+Would I and my soul were at rest together
+Wrapped from the chill of this wintry weather."
+*       *       *       *       *
 There are some people who live in this world as a cucumber grows in a
 garden. They cling to their own vine and serve no higher end than
 rotundity and relish. There are others who live in the world as a summer
@@ -3675,9 +3212,7 @@ politeness is ever the best policy. And, on the other hand, a woman
 shopper will be whimsical and captious and trying, forgetting that the
 girl who serves her has human blood in her veins, and often carries a
 troubled heart behind her smile or her frown.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 They have come! Without the sound of a bugle, the bright hosts have
 marched down and taken possession of the land. The southern slopes are
 all alive with their wind-shaken tents, and when the sun comes out warm
@@ -3693,9 +3228,7 @@ the wild-rose the cardinal-flower and the wood-lily, and after them the
 gentian and the golden rod, to mark the wane of the year. Oh, who would
 not live in a world whose dial-plate is made of flowers and whose
 circling seasons are told over with blossoming trees and gentian-buds?
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I saw a great many things on the way this morning as I was coming to
 town. Suppose, as the weather is too warm for preaching, I enumerate
 them and let you strike the balance at the close, to see which way the
@@ -3740,16 +3273,12 @@ girl transformed into a beauty by a service of love accorded a stranger.
 I saw a woman lean out of a Marshall Field 'bus to laugh at another who
 wore shabby clothes and walked with a drooping head. I saw lots of
 things besides, but how does the balance strike?
-
-       *       *       *       *       *
-
+*       *       *       *       *
 If we have been living on bad terms with a neighbor; if we have been
 maintaining a chilling silence and a forbidding reserve with anybody
 thrown often in our way, let us have done with such nonsense and live in
 the world as God meant we should.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Out of the exuberance of a merry heart the housekeeper has loosened the
 tacks in the parlor carpet, and the epoch of housecleaning begins. The
 head of the family, pro tem. dweller in the land of desolation and
@@ -3795,9 +3324,7 @@ spring housecleaning as the tourist takes the storms in the Alps or the
 sailor meets the tempest on the sea. It has not come to stay; the
 sun-lighted peaks of deliverance lie just ahead of us, and there is
 fine sailing for another year when the squall is weathered.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I am tired of the endless dress parade of the great alike--aren't you? I
 am tired of walking in file, as convicts walk together in
 stripes--aren't you? I glory in cranks who have enough individuality to
@@ -3814,9 +3341,7 @@ and an intelligence quite as distinct from the conventional masses as a
 blackbird is when it leaves the flock and silhouettes itself in solitary
 state against the deep blue sky from the top of a windy elm
 tree--wouldn't you?
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I want one good square fling on earth before I die. I want the chance to
 know what it is to have enough money to be able to buy silk elastic
 occasionally instead of cotton, and to have my teeth filled with gold
@@ -3880,9 +3405,7 @@ preserved intact the amenities of a gentleman, and he died early of
 heart trouble. The thing killed him physically before it destroyed him
 morally. If any politician reads this and wants to challenge the point I
 want to meet him and either convince him or be slain.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 If you are not glad to be alive such weather as this it is because you
 are a clod and not a sentient being. Why, I never open my door these
 radiant mornings and walk out into a world that is more golden than any
@@ -3900,9 +3423,7 @@ mellow flute and gave us a vesper song that made one think of heaven and
 bands of singing angels! And yet we are discontented and feel ourselves
 misused because we happen to be a little poverty-stricken now and then,
 and it is hard work to find the plums in our pudding!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The other morning, before the town clock struck 7, I was riding over
 country in a hack, driven by a courtly mannered colored boy and drawn by
 a couple of discouraged mules. I was going over to Hampton and
@@ -3934,9 +3455,7 @@ What heroisms, what subtle intents for good, what pretentious desires
 were frustrated and made worthless by the destiny which changed life's
 battlefield into a "soldiers' home" and the scene of action for the
 shaded seat under the willows of a long regret!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I wonder if Eve, looking over the battlements of heaven now and then,
 and seeing how tired we get down here and how discouraged and
 broken-hearted we often are, is ever sorry for the heritage she left us,
@@ -3966,53 +3485,40 @@ than a cigar finds its way. Give me a blacksmith any day rather than a
 dude. Work is hard and sometimes thankless, but, like tough venison
 served with jelly sauce, it is spiced with self-respect and smacks of
 honest independence.
-
-       *       *       *       *       *
-
-THE STORY OF A ROSE.
-
-  A white rose grew in a garden place,
-  On a slender stem, with a royal grace;
-  The nursling of June and her gentle showers,
-  Fairest and sweetest of all her flowers.
-
-  The south wind was out one day for a sail,
-  In a cloudy boat, so fleecy and frail,
-  And he chanced to spy, where musing she stood,
-  My dear little rose in her snowy hood.
-
-  Oh, softly he whispered and tenderly sighed,
-  "Starry Eyes, Starry Eyes, I wait for my bride."
-  But she laughed in his face, and told him to go;
-  She didn't see why he bothered her so.
-
-  A dewdrop fell in the starry hush,
-  Lured from heaven by her dreamy blush;
-  But the tender kiss of his balmy lip
-  She gave to a bee, next morning, to sip.
-
-  A bobolink left the bloom of a tree
-  To tell her tale of whimsical glee;
-  The moon dropped a pearl to wear in her breast;
-  Dawn wove her a cloak of silvery mist.
-
-  But her hard little heart was colder than ice,
-  She sent every suitor away in a trice;
-  Till the wind drew nigh, with a terrible roar,
-  And said: "Pretty Rose, your playtime is o'er."
-
-  He shook her with might, and he drenched her with rain,
-  Till the poor little rose swooned away with her pain;
-  And her shiny crown, with its moonbeam glow,
-  He tossed far and wide, like the feathery snow.
-
-  And all that is left of that splendid bloom,
-  The diadem gay, and the spicy perfume,
-  Is a handful of dust, that once was a rose--
-  The sport of the wind, as it fitfully blows.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+A white rose grew in a garden place,
+On a slender stem, with a royal grace;
+The nursling of June and her gentle showers,
+Fairest and sweetest of all her flowers.
+The south wind was out one day for a sail,
+In a cloudy boat, so fleecy and frail,
+And he chanced to spy, where musing she stood,
+My dear little rose in her snowy hood.
+Oh, softly he whispered and tenderly sighed,
+"Starry Eyes, Starry Eyes, I wait for my bride."
+But she laughed in his face, and told him to go;
+She didn't see why he bothered her so.
+A dewdrop fell in the starry hush,
+Lured from heaven by her dreamy blush;
+But the tender kiss of his balmy lip
+She gave to a bee, next morning, to sip.
+A bobolink left the bloom of a tree
+To tell her tale of whimsical glee;
+The moon dropped a pearl to wear in her breast;
+Dawn wove her a cloak of silvery mist.
+But her hard little heart was colder than ice,
+She sent every suitor away in a trice;
+Till the wind drew nigh, with a terrible roar,
+And said: "Pretty Rose, your playtime is o'er."
+He shook her with might, and he drenched her with rain,
+Till the poor little rose swooned away with her pain;
+And her shiny crown, with its moonbeam glow,
+He tossed far and wide, like the feathery snow.
+And all that is left of that splendid bloom,
+The diadem gay, and the spicy perfume,
+Is a handful of dust, that once was a rose--
+The sport of the wind, as it fitfully blows.
+*       *       *       *       *
 Once upon a time there lived a woman. She was not very young, nor was
 she very old. She was neither handsome, homely, a genius, nor a fool.
 She was just a commonplace, good-intentioned, fair type of the average
@@ -4048,7 +3554,6 @@ seeds. But who ever yet was assured of a firm foothold upon the pinnacle
 of self-righteousness that the old boy did not whip out an arrow and
 bring them low? It becomes my painful duty to chronicle the temptation
 and downfall of the upright woman.
-
 It was a tempestuous day of early autumn. It not only rained, it poured!
 It not only blew, but it tore, howled, twisted, cavorted! The woman had
 to go to town. At the eleventh hour the family umbrella was kidnaped by
@@ -4084,9 +3589,7 @@ emphasis that might have made a pirate wan with envy? Who shall cast the
 first stone at her until the day dawns that releases my sex from the
 thralldom of its bondage to those demons who walk abroad and plot her
 downfall in rainy weather?
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Wear this bead upon your heart, girls; have nothing whatever to do with
 so-called "fascinating" or "magnetic" men. Put no faith in mystery when
 it comes to a question of the man you think you love. Rapt glances and
@@ -4109,9 +3612,7 @@ show you the respect to offer you their hand in honest marriage--these
 fascinating "Rochesters" and wicked "St. Elmos," already married, or
 steeped to the lips in evil-doing--deprive you of your whiteness and
 your bloom.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Do you ever get discouraged and feel like saying: "Oh, it's no use! I
 want to amount to something! I have it in me to do great and grand
 things, but the circumstances of poverty are against me. I can be
@@ -4135,7 +3636,6 @@ carry than a maple tree has leaves! No matter how impossible it may be
 for you to live out what is in you, that something true and grand and
 beautiful is deathless and shall have its chance of development by and
 by.
-
 I shall never again meet the pretty maid with the larkspur eyes and the
 corn silk hair who traveled with us a part of the way, but wherever she
 goes, joy go with her! She was so modest and unspoiled and sweet, I
@@ -4146,9 +3646,7 @@ God bless the old-fashioned girl with her helpful ways, her arch face
 and her blithe and hearty laugh. May her type never vanish from the face
 of the earth, and may the mold after which her soul was fashioned never
 get mislaid and lost in the heavenly work-shop.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I think I shall be a little sorry when the commanding officer sends out
 the word to break camp and leave this dear old earth forever. For I love
 this world. I never walk out in the morning when all its radiant colors
@@ -4180,9 +3678,7 @@ world wants such people alive in it, not buried under its green sods.
 The heart that is not unmindful of a crushed flower will be a royal hand
 in the ministrations of life. May the day tarry long on its way that
 lays in the grave such helpful, tender hands that seek to do good.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The good book says, "Love thy neighbor as thyself," but it don't say,
 Tell thy neighbor all thy secrets. We can love one another without
 establishing an unsafe intimacy. In an age when so little remains set
@@ -4194,9 +3690,7 @@ one's heart of hearts hawked about like green peas in a street vender's
 basket by a spiteful and treacherous enemy. The safest course to pursue
 in a world so full of unfaith and desertions is to be friendly and sweet
 and helpful to all, but communicative and confiding to none.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Once when I was a child, with two long yellow braids down my back, and a
 very great capacity for happiness in my heart, I lived in a remote
 country with an aunt who didn't believe in any one having too good a
@@ -4231,9 +3725,7 @@ fine to be played with, rigged out in all its paraphernalia of empty
 headed flesh and blood women, with powder, puff and bustles, real
 jewelry and costly lingerie, the modern doll is a demoralizer, a
 torment.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Protracted broiling is, I think, on the whole, more wearing to the
 sensibilities than sudden conflagration. A lightning stroke is soon
 over, but who shall deliver us from the torments of dog-days? A bull of
@@ -4249,34 +3741,24 @@ veining the hot air with sudden fire, and calling out a thousand echoes
 to answer the thunder's call, is it not far better than lowering skies
 that look rain and won't yield it, dragging, sultry days of neither
 sunshine nor storm?
-
-       *       *       *       *       *
-
-
-LINES TO MY LOVE.
-
-  When the salt has left the ocean,
-    And the moon forgets the sea,
-  When with gay and festive motion
-    Ox shall waltz with bee,
-
-  When we wash our face in cinders,
-    And bake our meat on ice,
-  When tender mercy hinders
-    The cat from eating the mice,
-
-  When gray heads grace young shoulders
-    And icicles form in June,
-  When Quakers all turn soldiers,
-    And bull frogs sing in tune,
-
-  Then, and not till then, my treasure,
-    My darling, tender and true,
-  My heart shall claim the leisure
-    To think no more of you.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+When the salt has left the ocean,
+And the moon forgets the sea,
+When with gay and festive motion
+Ox shall waltz with bee,
+When we wash our face in cinders,
+And bake our meat on ice,
+When tender mercy hinders
+The cat from eating the mice,
+When gray heads grace young shoulders
+And icicles form in June,
+When Quakers all turn soldiers,
+And bull frogs sing in tune,
+Then, and not till then, my treasure,
+My darling, tender and true,
+My heart shall claim the leisure
+To think no more of you.
+*       *       *       *       *
 The other morning, lured by the splendor of a golden day, I started to
 walk to town, a distance of twenty-four miles. But after the tenth mile
 the truth was so forcibly and increasingly borne in upon me that "all
@@ -4287,7 +3769,6 @@ a sunrise was fair and full of promise because the noon was clouded and
 the evening declined into rain? Although my twenty-five-mile walk ended
 at the tenth in a rocking-chair, yet those ten miles were beautiful and
 full of glory.
-
 "It will certainly kill you!" wailed the martyr as I bade her good-bye.
 "Oh, will it kill her?" echoed the poor little Captain, and lifted up
 her voice in lamentation as I vanished from her sight and struck for the
@@ -4302,7 +3783,6 @@ that made the air as sweet as any bakeshop. The odor of fallen leaves
 and wood shrubs sinking into decay is not like any other fragrance so
 much as the scent of well-baked bread, browned and finished in summer's
 ruddy heat.
-
 The lake--but what can I say to fitly describe that translucent
 sapphire, over which a mist hung like a gossamer web above a blue-bell,
 or the haze of slumber upon a drowsy eye? As I stood upon the bluff,
@@ -4313,7 +3793,6 @@ only a stopping-place, a country through which we march to heaven, as
 Sherman marched overland to the sea, then thank God for so glorious a
 prelude to eternity; and what shall the after harmonies be when the
 broken sounds of idly-touched flutes and harps are so divine?
-
 After leaving Ravinia I proceeded to get lost in the woods. A very
 small boy and a very large dog were standing by a fence. "Does that dog
 bite?" I asked. "Yes'm," promptly replied the sweet and candid child. So
@@ -4344,11 +3823,9 @@ for your feet to halt in the march, ask to be buried in the woods, where
 your grave will be forgotten and the constant years with falling leaves
 and driving snows may have a good chance to obliterate the earthly
 record of your misspent years.
-
-  "Sooner or later the shadows shall creep
-  Over my rest in the woods so deep;
-  Sooner or later--"
-
+"Sooner or later the shadows shall creep
+Over my rest in the woods so deep;
+Sooner or later--"
 But enough of this, my dear. I did not intend to incorporate a whole
 cemetery, an obituary discourse, and "lines to the departed" in my
 "Glints." After leaving the little graveyard I allowed my instincts to
@@ -4391,7 +3868,6 @@ bonnet. She had a bundle on her arm, and was dragging by the hair of the
 head, as it were, an indescribable umbrella. My voice sank out of sight,
 like a stone in the sea, and my feet grew too heavy to lift. I stared in
 silence. "Is your name Maria Hopkins?" asked the woman.
-
 "Indeed it is," I replied, prepared to get down on my knees and swear to
 the truth of what I said, if need be. "I thought so," said my companion;
 "let us pray." But I didn't stop for prayers. Convinced that my time had
@@ -4406,9 +3882,7 @@ Hopkins anywhere in town, and if there was any resemblance between such
 a person and myself. I saw she thought I was delirious, and no
 explanation has ever dispelled that belief. Some day I shall complete
 the walk and write up the finish.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Said some one to me the other day: "Amber, you have lots of good friends
 among the girls." "Good," said I; "then I am all right." Anybody who
 gains the friendly approval of the right sort of girls has a passport
@@ -4458,9 +3932,7 @@ more than you can mistake the sunshine that follows the rain or the
 lark that springs from the hawthorn hedge. All things that are blooming
 and sweet attend her! The earth is better for her passing through it and
 heaven will be fairer for her habitation therein. God bless her!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Some day I am going gunning. In a reform dress suit, with the right to
 vote in my pocket, and a shotgun delicately poised upon my enfranchised
 shoulder, I shall start forth on my "safety" and proceed to lay low for
@@ -4476,9 +3948,7 @@ survived the buffetings of a harsh and somewhat disconcerting bout with
 fate it is the knowledge that I know how to spell. But even of this the
 fiend in question would deprive me. He has brought his fate upon himself
 and will excuse me if I remark that I thirst for his gore.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Dominated by that superfluous energy which has, so far, rendered my
 earthly career cyclonic, I called together a confiding band during the
 height of the recent snow carnival for the purpose of a sleigh ride. The
@@ -4506,21 +3976,17 @@ walk over this bad place?" said he. With such speed as our petrified
 members would allow we all got out, and the women sat on a wayside
 fence, while the men "heaved to" and dragged the chariot over about a
 mile and a quarter of bare ground.
-
 "Shall we make for the nearest line of street cars?" asked one of the
 party, whose well-known position as Sunday-school superintendent kept
 him in a state of abnormal calm. "What will become of the sleigh and the
 poor, tired horses?" asked that one of the party directly responsible
 for this mad jubilee.
-
 "Oh, you women can lead the horses while we men carry the old band wagon
 on our shoulders back to shelter." "It is no time for jokes," cried one,
 "I am going home," and we all followed suit, to vow later, in the
 shelter of our happy homes, that our future attempts at sleigh riding
 should be confined to wheels and the time of roses.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I think I would rather lose this serviceable old right hand of mine than
 have it write a word that could be construed into defense or
 encouragement of loud and blatant women. The over-dressed and slangy
@@ -4587,9 +4053,7 @@ made her of spirit, fire and dew." There is the swiftest and most
 splendid stroke of the artist's brush ever given to literature. And yet
 half the world would substitute "putty" for "spirit," "feathers" for
 "fire" and "dough" for "dew."
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The only way to rid the world of bubble-marriages--marriages that turn
 out emptiness with one drop of water as the residuum, and that drop a
 tear--is to educate our girls and boys to something higher than playing
@@ -4604,9 +4068,7 @@ they develop some instinct of womanliness, and they should no more be
 allowed to marry than a Choctaw chief should be allowed to take charge
 of a kindergarten. You nor I can hope to turn a bubble into substance
 after it is once blown.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Last week I moved. At least I tried to, but I haven't fully accomplished
 the feat yet. If it costs one woman a desk and an umbrella, the pangs of
 a seven-horse torment to move one block, what must it cost a family of
@@ -4645,9 +4107,7 @@ ear and my penknife between my teeth. I'll never be found a second time
 stringing my beads with a toothpick and relying for time upon a clock
 with the hour hand missing. When next I move may it be straight through
 to glory, where the lease is long and the landlord never sublets.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Let anybody in this world really undertake to thoroughly do his duty; to
 do it in the face of opposition, prejudice and the meddling
 interference of fools, and he becomes a target set upon a hill for the
@@ -4678,38 +4138,28 @@ more such heroes, oh, good and merciful dispenser of destinies, and
 sweep off the track a hundred thousand or so of the eye-servants,
 time-servers and money-graspers who keep the profitable places of the
 world's giving away from honest men and faithful women.
-
-       *       *       *       *       *
-
-A BOBOLINK'S SONG.
-
-  The earth was awake, and like a gay rover,
-    His knapsack of sunshine loose strapped on his back,
-  Through mists, and through dews, and through fine purple clover
-    Was faring his way down the summer's green track.
-
-  I sat all alone 'neath the shade of a willow,
-    And saw the old earth blithely jogging along,
-  While over the fields, like the foam on a billow,
-    The morning was breaking in blossom and song.
-
-  O, list! and, O, hear! like the wing of a swallow,
-    Updarting from fields that are golden with corn;
-  With the ring and the swing of a huntsman's "view hallo,"
-    Some fairy is winding his sweet elfin horn.
-
-  Now up like a flame, and now down like a shower;
-    Now here and now there in its sparkle and gloom;
-  It rings and it swings like a bell in a tower,
-    Wide casting its notes as a wind-flower its bloom.
-
-  'Tis a bobolink singing among the sweet clover;
-    A bobolink whimsical, happy and free,
-  And its voice like new wine makes earth, the old rover,
-    Half tipsy with jollity, clean daft with his glee.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+The earth was awake, and like a gay rover,
+His knapsack of sunshine loose strapped on his back,
+Through mists, and through dews, and through fine purple clover
+Was faring his way down the summer's green track.
+I sat all alone 'neath the shade of a willow,
+And saw the old earth blithely jogging along,
+While over the fields, like the foam on a billow,
+The morning was breaking in blossom and song.
+O, list! and, O, hear! like the wing of a swallow,
+Updarting from fields that are golden with corn;
+With the ring and the swing of a huntsman's "view hallo,"
+Some fairy is winding his sweet elfin horn.
+Now up like a flame, and now down like a shower;
+Now here and now there in its sparkle and gloom;
+It rings and it swings like a bell in a tower,
+Wide casting its notes as a wind-flower its bloom.
+'Tis a bobolink singing among the sweet clover;
+A bobolink whimsical, happy and free,
+And its voice like new wine makes earth, the old rover,
+Half tipsy with jollity, clean daft with his glee.
+*       *       *       *       *
 It fell to my lot the other day to witness a scene that I shall not soon
 forget. Death has myriad ways of coming to the sons and daughters of
 men, and it chanced that death had drawn near to a certain dear woman in
@@ -4762,9 +4212,7 @@ stole away and left these two old women, bowed with the weight of many
 years, sustaining and sustained by the trust that the portals of the
 tomb, within whose shadows they stood, were but the gates that usher the
 soul into the full affluence of life and love.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 It is almost impossible to get the average young person past the
 florist's window nowadays. She has a way of clasping her hands and
 pursing her lips over the roses that would make the average young man
@@ -4800,9 +4248,7 @@ one carries roses through a room their fragrance lingers. And what shall
 make you sweet, dear girls? Not fashionable gowns and dainty clothing;
 not beauty nor grace nor wealth so much as womanliness and unselfish
 thought for others.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The woman who can wear an arctic overshoe over a No. 5 shoe and make no
 moan ought to have been born a Joan of Arc or a Charlotte Corday. She is
 made of the "dust" that heroines have a corner on. At one time in my
@@ -4820,9 +4266,7 @@ rather than the empty flattery of a world that cares nothing for you. So
 shall you be as beautiful as houris, as healthy as Hebes, as long lived
 as Sarahs and as light-footed as the shadow that dances to a wind-blown
 Columbine.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 A graveyard never saddens me. It seems nothing more than one of the
 flies behind the scenes when the actors have gone on in front. What
 matters the room where we doff our toggery when we are once out of it?
@@ -4861,9 +4305,7 @@ sought the little boat that awaited us on the beautiful bay. Long after
 other details of that pleasant outing are forgotten the memory of that
 blue day among the quiet graves on the island of the great lake shall
 linger like a song within our hearts.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 "If I had two loaves of bread," said Mahomet, "I would sell one of them
 and buy white hyacinths, for they would feed my soul." I came across
 that delightful saying the other day, and I thought to myself: There is
@@ -4883,9 +4325,7 @@ shall your soul lift up its drooping head and grow less and less to
 resemble one of Pharaoh's lean kine. I adore a man or a woman who has
 enough sentiment to appreciate what dead and gone Mahomet said, and
 hereafter will make it a point to buy less bread and more hyacinths.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I wonder if, when we get to the other world, we shall not occasionally
 stroll into some sort of a celestial museum, where the relics of our
 foregone existence, its wasted days and misspent years, may stare back
@@ -4920,9 +4360,7 @@ shelves of that celestial museum would yield some odd surprises to the
 most of us, like the finding of a bauble we counted worthless and threw
 away glittering in the diadem of a crown, or the prize we bartered honor
 for turned to worthless glitter and tinsel paste!
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There is no use sitting here by this window any longer and trying to
 believe that life is worth living. If I looked for five minutes more at
 this November landscape I should shave my head and hie me to a Carmelite
@@ -4950,9 +4388,7 @@ care. We grow pale and wan and gray-headed as the days go by, and
 finally with flashing eyes and muttered oaths the Doctor yanks the tub
 and its colossal growth into the cellar, and we rest on our arms until
 the advent of another spring.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Well, the summer has gathered up her corn-silk draperies, put on her
 rose-trimmed hat, and tripped over the border land at last. From the
 bend in the road that shall hide her from our view forever she lingers a
@@ -4981,9 +4417,7 @@ considerably older some day than I am now, and although I have not
 fallen so far into the "sere and yellow" as to count myself among the
 old-fashioned and the queer, yet any one of those songs just mentioned
 will start the tears from my eyes as showers start from summer clouds.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Two little motherless children! Do you know the thought of a baby
 without a mother to cuddle it always brings the tears to my eyes?
 Traveling to distant New England with a father who, although kind,
@@ -5009,41 +4443,32 @@ need love as flowers need the southerly exposure and sunshine. When that
 boy of yours bumped his head, sir, it was your place to comfort him in
 something the way his dead mother might have done, rather than to have
 bade him 'sit up and be a man.'"
-
-       *       *       *       *       *
-
-SLEEP'S SERENADE.
-
-      In cadence far,
-      From star to star,
-  Sleep's mellow horns are faintly calling;
-      Through dreamland halls
-      Sweet madrigals,
-  In liquid numbers drowsy falling.
-
-      Noiseless and still,
-      O'er star-watched hill,
-  Beneath the white moon's tender glances,
-      A host of dreams,
-      By wind-blown streams,
-  March on with gleam of silver lances.
-
-      A captive thou;
-      Then, yield thee, now,
-  While mellow horns are nearer calling;
-      And ringing bells,
-      And poppy spells,
-  Thy senses all in sleep enthralling.
-
-      O, hark; O, hear,
-      My lady, dear,
-  O'er woods and hills and streamlets flying,
-      The winding note
-      Of horns remote,
-  In softest echo dying--dying.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+In cadence far,
+From star to star,
+Sleep's mellow horns are faintly calling;
+Through dreamland halls
+Sweet madrigals,
+In liquid numbers drowsy falling.
+Noiseless and still,
+O'er star-watched hill,
+Beneath the white moon's tender glances,
+A host of dreams,
+By wind-blown streams,
+March on with gleam of silver lances.
+A captive thou;
+Then, yield thee, now,
+While mellow horns are nearer calling;
+And ringing bells,
+And poppy spells,
+Thy senses all in sleep enthralling.
+O, hark; O, hear,
+My lady, dear,
+O'er woods and hills and streamlets flying,
+The winding note
+Of horns remote,
+In softest echo dying--dying.
+*       *       *       *       *
 I had a dream the other night which was like, and yet unlike, the vision
 of fair women of which a poet once wrote. I dreamed that I sat within a
 court-room. Before me passed the meanest men and women God ever
@@ -5081,9 +4506,7 @@ sheol at the prosperity of others, and who, because his own cup of life
 holds vinegar, is determined no other shall contain wine. I suddenly
 awoke without having bestowed the palm on any. Perhaps some of my
 readers may find it easy to do that for themselves.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Do you know which, of all the sights that confronted me yesterday in my
 rambles through the rainy weather, I pigeon-holed as the saddest? Not
 the little white casket, gleaming like the petal of a fallen flower,
@@ -5114,9 +4537,7 @@ greater loss. Be thankful that the grave has taken to its protecting
 shelter the boy you loved so dearly, and of whom you were so proud,
 rather than that he should have grown to be a drunkard before his
 twentieth birthday.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 We are each of us missing constant chances to bestow a kindness upon
 some needy soul for the reason that we dread being imposed upon by a
 case of causeless complaining. Is it worth while to keep our hearts
@@ -5127,19 +4548,16 @@ the open doorway. He began at once a sing-song tale of woe about a sick
 mother and a father out of work--or in his grave, it doesn't much
 matter. At the same time he held out a paper of cheap pins to tempt a
 nickel from your store.
-
 "I have no time to bother with such as you," you said, and turned your
 eyes back to your ledger. But still the boy droned on. You looked at him
 again and noticed that the small hand that held the pins was well kept
 and very, very thin. Then your eyes followed the diminutive form down to
 the feet; they, too, showed signs of somebody's care, although the shoes
 were shabby and the stockings thin.
-
 "He is not an ordinary little beggar," you said to yourself. And then
 your gaze traveled upward again until it met his long-lashed Irish eyes,
 so full of trouble and of entreaty that they looked like twin Killarney
 lakes getting ready for rain.
-
 "Poor little chap," you said, "of course I'll buy a paper of pins," and
 in so doing you stooped over and patted his head, perhaps, or called him
 "dear," so that he went away with the twin Killarney lakes all ready for
@@ -5149,14 +4567,11 @@ didn't want the pins, but the little desolate heart wanted the kind word
 bestowed along with your nickel, and perhaps its bestowal shall be an
 impulse toward the light to a soul that cross words and constant
 refusals had already given a downward trend.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There stands a very young girl at the door of a drug store. She
 hesitates a moment and enters. "May I sit here and wait for a friend?"
 she inquires of the dapper clerk. "Certainly," he answers, and places a
 chair for her near the window.
-
 That girl's father told her last night to have nothing more to do with
 young Solomon Levi. "He is a worthless fellow," said he, "and I have
 forbidden him the house." "Very well," said she, and this morning she
@@ -5179,9 +4594,7 @@ frightened if their light feet go dancing off the path now and then, and
 ten to one the end of the journey will be Beulah Land and peace. A good
 deal less faultfinding and a good deal more sympathy would be better all
 around.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There is no lot on earth so hard to bear as the lot of wedlock where
 love has failed. The slave's life is not comparable to it, for the
 manacles that only bind the hands may be laid aside, but those that
@@ -5197,7 +4610,6 @@ together with mucilage instead of rivets! As for the explorer and his
 dress suit, where will he be when the tigers begin to scent him and the
 air is full of great sorrows and little frets like flying buzzards and
 cawing crows?
-
 Be an old maid in its most despised significance then; be a grubber and
 a toiler all the days of your life rather than rush into marriage as a
 hunted fox flies into a trap. There is some chance for the fox that
@@ -5214,9 +4626,7 @@ first, and then bethought itself of rooting and budding. Pray, dear
 girls, that this love may come to you rather than its poor prototype, so
 current in a world of shams and pretenses, whose luster corrodes with
 daily usage and turns to pewter in your grasp.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Once there was an old woman who died and went to glory. Now a great many
 old women have died and gone the same way, but this one was very tired
 and very glad to go. She had worked hard ever since she could handle a
@@ -5236,16 +4646,13 @@ shed tears and put on mourning! As well expect all the birds to wear
 crape when dawn sets out its primrose-pot on the ledge of the eastern
 sky! But one friend of quicker perception than the rest, I am told,
 placed the following inscription on the tired old woman's gravestone:
-
-  Here lies a poor woman who always was tired,
-  For she lived in a world where much was required.
-  "Weep not for me, friends," she said, "for I'm going
-  Where there'll be neither washing, nor baking, nor sewing;
-  Then weep not for me; if death must us sever,
-  Rejoice that I'm going to do nothing forever."
-
-       *       *       *       *       *
-
+Here lies a poor woman who always was tired,
+For she lived in a world where much was required.
+"Weep not for me, friends," she said, "for I'm going
+Where there'll be neither washing, nor baking, nor sewing;
+Then weep not for me; if death must us sever,
+Rejoice that I'm going to do nothing forever."
+*       *       *       *       *
 There is just one thing in the latter part of the nineteenth century
 that never fails to bring success, and that is assurance. If you are
 going to make yourself known it is no longer the thing to quietly pass
@@ -5272,9 +4679,7 @@ Give us less yeast in our bread and more substance; fill our cups with
 wine rather than froth, and for sweet pity's sake hang up the great
 American trumpet and let "silence, like a poultice, come to heal the
 blows of sound."
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Every day, for months, as I have taken my morning ride to town I have
 noticed a dog who bounds forth from a dooryard that overlooks the busy
 highway of the steed of steam and barks himself weak at the rushing
@@ -5297,9 +4702,7 @@ inane conventionalism, and call them cranks; they bark at everything on
 wheels, where wheels typify strength and achievement. They will go on
 barking, too, while the world finds room and maintains patience for them
 and their barking.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I think I have said before that I loathe meek people. But even if I have
 I am going to say it again. Your half-wits who sit and turn first one
 cheek and then the other to be slapped are not the sort for me. The man
@@ -5317,9 +4720,7 @@ standard copy of the celestial army tactics in our side pocket! The Lord
 loves a good many things, cheerful givers and self-sacrificing widows
 with their mites, merciful men and sweet and noble women, but most of
 all, I think, he loves a valiant fighter in the cause of right.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Now it came to pass that there dwelt in a certain city of the land of
 the great lakes a woman called Lydia, sister to Simon, the shipwright.
 And Lydia, being comely and fair to look upon, was sought in marriage
@@ -5327,7 +4728,6 @@ by one John, a dealer in spices and fine teas. And the years of their
 wedlock having outnumbered the fingers upon a man's two hands, it came
 to pass that they dwelt together in exceeding prosperity in a town near
 by the blue waters of a mighty lake.
-
 And Heaven sent unto them children to the number of three, so that their
 hearts were exceeding glad, and the cords of their habitation were
 stretched from year to year. And it came to pass that the home in which
@@ -5337,193 +4737,143 @@ bath-rooms made glad the heart of the dust-laden when summer dwelt in
 the land. Also there were cunningly devised screens of fine wire in all
 the windows, so that the marauding fly and the pestilential mosquito
 might not enter.
-
 And the flesh increased from year to year upon the bones of Lydia and
 the children that heaven sent her, while they remained in the home that
 John, the tea merchant, had given them.
-
 But it came to pass that the neighbors of the woman Lydia closed up the
 shutters of their dwellings, and one by one stole from town when the
 heat descended upon the land.
-
 Then spake Lydia unto John, the vender of spices and fine teas, saying:
-
 "Arise, let us go hence and dwell within a farm-house, where the
 children may leap together in the sweet-smelling hay, and I may comfort
 myself with flagons of cream."
-
 But John, being a man among men, and accounted somewhat wise withal,
 would have restrained Lydia, saying: "Not so; for verily I say unto you,
 comfort abideth not in the dwelling of the farmer, neither does joy
 linger in the shadow of his doorway."
-
 Now Lydia, being president of a Woman's Club and reputed of knowledge
 beyond the generality of womankind, would not listen, but beat her hands
 together, crying: "I prithee hold thy peace, for behold, I and the
 children heaven sent me will depart hence by to-morrow's chariot of
 steam, and will make our home with the gentle farmer and his
 sweet-breathed kine."
-
 So John, being loth to war with the tongue, albeit he was heavy-hearted
 and walked with a bent head, purchased tickets for Lydia and the
 children heaven had given her.
-
 And it came to pass that they left town by the train which men call "the
 limited."
-
 Now the way of that train through the land is like unto the way of a
 ship at sea, or of a strong eagle that never wearieth. And the
 sufferings of Lydia were such that she sought relief in peppermint and
 found it not.
-
 And the babes by reason of the swiftness with which they traversed a
 crooked land, were made ill and languished like sea-sick rangers of the
 deep.
-
 Yet, after many hours, their torment abated not, so that, reaching their
 destination, the bodies of Lydia and her children were removed in a hack
 and hurried to an inn that was built near by.
-
 And in the inn where they were fain to tarry until strength should be
 given them for further journeying, it chanced that a young babe lay
 sorely stricken with the whooping-cough.
-
 Now, when Lydia knew this, her heart fainted with fear, and she
 prophesied evil.
-
 For well she knew that her own babes had not had the disease, and that
 the time of their prostration was at hand.
-
 So Lydia, being president of a Woman's Club, and accounted without a
 peer in the gift of words, sent for the keeper of the inn, that she
 might rebuke him.
-
 And she opened her mouth impulsively and questioned him saying: "Why
 broughtest thou me and the children heaven gave me into thine inn
 knowing that contagious disease lurked within its gates?"
-
 And the keeper of the inn shot out the lip at her and was undismayed.
-
 And he cried, "Go to! And what wouldst thou of a public house? Thou
 talkest like one with little sense!"
-
 And it came to pass that Lydia and her children departed thence by stage
 and sought the farm-house. And, arriving there, they would have laid
 themselves down to rest, being sorely bruised by reason of protracted
 stage-riding.
-
 But the beds were made of straw and corded underneath with ropes. So
 that lying upon them caused the children to roar loudly, and they found
 rest from their lamentations, four in a bed, on the bosom of Lydia.
-
 And, supper being served, it consisted of tinted warm water and
 gooseberries sweetened with brown sugar.
-
 Now Lydia, by reason of her connection with the club, was enabled to
 speak boldly, and she called for cream.
-
 But the wife of the farmer made answer, saying, "We have none."
-
 And Lydia spoke yet again, saying, "Why, O woman of many wiles, hast
 thou no cream?"
-
 And the woman made way with an insect that swam gaily in a pitcher of
 azure milk, and said gently, "Because we sell it to a neighboring
 dairy."
-
 And Lydia said nothing, but remembering the words of John, the
 tea-merchant, wept silently.
-
 And it came to pass that next morning the children went forth to leap in
 the hay.
-
 And the farmer led them firmly away from the hay-mow by the tip of the
 ear, saying, "I allow no children to spoil my fodder."
-
 And the morning of the second day, the woman Lydia, being starved for
 nutritious food, wended her way with her babes across a stretch of
 pasture land in search of wild blackberries.
-
 And a beast, whose voice was baritone and whose approach was like the
 approach of a Kansas cyclone, bore down upon her and the children
 heaven had given her, while yet they were midway in the meadow. Now only
 by leaping could they save themselves.
-
 And it came to pass that they leaped mightily and flung themselves over
 a five-barred fence.
-
 And a snake made free with the draperies of Lydia, so that her hair
 whitened with fear, and between the beast with the baritone voice and
 the serpent she knew not which way to turn.
-
 And the morning of the third day she wrote to John, the tea-merchant,
 saying only:
-
 "My darling--Meet the first train that returns from this place to the
 dear city by the lake, for behold! I and the children heaven sent me are
 on our homeward way!"
-
-       *       *       *       *       *
-
-IMPATIENCE.
-
-  A sweet little crocus came up through the mold,
-  And hugged round her shoulders her mantle of gold,
-  While tears of distress fringed her delicate eye,
-  Like rain drops that start from a showery sky.
-
-  "Where, pray, are those laggards, the violets blue?
-  The roses and lilies and daffodils too?
-  I really think it's a shame and a sin
-  This waiting so long for the spring to begin.
-
-  "The first day of April and only one bird
-  Since I lifted my head has uttered a word!
-  And search as I may all over the meadow
-  Not even a cowslip has shown its bright head, O--
-
-  "Misery me! Sure there's no use in waiting,
-  For something, no doubt, is the summer belating;
-  So I'll go back to bed, put on my lace night cap,
-  And snatch, for a fortnight, a nice little cat-nap!"
-
-  Down went little Gold-head, back to her pillow;
-  When, all in a twinkling, up over the hill, O,
-  The wind-flower host, with rose-tinted banners,
-  Marched into the world; Queen Summer's forerunners.
-
-  Her rose maids of honor, in filmiest laces,
-  Loitered and lingered in shy woodland places;
-  And white-vested lilies were ever at prayer;
-  Their vespers, the perfume that sweetened the air.
-
-  The apple trees blushed into delicate splendor;
-  The blue birds hung over in ecstasy tender,
-  While the gold powdered bee with helmet all dusty
-  Kept watch over the flowers, a sentinel trusty.
-
-  The robin sang love to his shy little sweetheart;
-  The orioles lashed their nests in the tree top;
-  The willows drooped low over swift water courses,
-  And murmuring brooks started fresh from their sources.
-
-  But down in the gloom, on her dream-haunted pillow,
-  As pale and as cold as the moon on the billow,
-  Forgot and unmissed by bird and by blossom,
-  The crocus slept sound in the earth's faithful bosom.
-
-  When at last she awoke, the spring had been banished,
-  Her forerunner flowers from the hillside had vanished.
-  And all of the bees had turned into stock brokers.
-  And even the birds had changed into croakers.
-
-  'Tis only by waiting we find our fruition;
-  To learn how to wait is a needed tuition.
-  The faint-hearted people who go to sleep fretting,
-  Will wake up at last too late for the getting.
-
-       *       *       *       *       *
-
+*       *       *       *       *
+A sweet little crocus came up through the mold,
+And hugged round her shoulders her mantle of gold,
+While tears of distress fringed her delicate eye,
+Like rain drops that start from a showery sky.
+"Where, pray, are those laggards, the violets blue?
+The roses and lilies and daffodils too?
+I really think it's a shame and a sin
+This waiting so long for the spring to begin.
+"The first day of April and only one bird
+Since I lifted my head has uttered a word!
+And search as I may all over the meadow
+Not even a cowslip has shown its bright head, O--
+"Misery me! Sure there's no use in waiting,
+For something, no doubt, is the summer belating;
+So I'll go back to bed, put on my lace night cap,
+And snatch, for a fortnight, a nice little cat-nap!"
+Down went little Gold-head, back to her pillow;
+When, all in a twinkling, up over the hill, O,
+The wind-flower host, with rose-tinted banners,
+Marched into the world; Queen Summer's forerunners.
+Her rose maids of honor, in filmiest laces,
+Loitered and lingered in shy woodland places;
+And white-vested lilies were ever at prayer;
+Their vespers, the perfume that sweetened the air.
+The apple trees blushed into delicate splendor;
+The blue birds hung over in ecstasy tender,
+While the gold powdered bee with helmet all dusty
+Kept watch over the flowers, a sentinel trusty.
+The robin sang love to his shy little sweetheart;
+The orioles lashed their nests in the tree top;
+The willows drooped low over swift water courses,
+And murmuring brooks started fresh from their sources.
+But down in the gloom, on her dream-haunted pillow,
+As pale and as cold as the moon on the billow,
+Forgot and unmissed by bird and by blossom,
+The crocus slept sound in the earth's faithful bosom.
+When at last she awoke, the spring had been banished,
+Her forerunner flowers from the hillside had vanished.
+And all of the bees had turned into stock brokers.
+And even the birds had changed into croakers.
+'Tis only by waiting we find our fruition;
+To learn how to wait is a needed tuition.
+The faint-hearted people who go to sleep fretting,
+Will wake up at last too late for the getting.
+*       *       *       *       *
 If there is anything more utterly desolate than a poorly-conducted farm,
 preserve me from it. There is an ideal farm familiar to the writers of
 pretty tales, where everything is kept in apple-pie order throughout
@@ -5567,7 +4917,6 @@ me, so that I would have to go into the house to hide my embarrassment.
 I know of nothing harder to endure than the stare of a Brahma fowl,
 especially if one is a bit nervous and overworked. Nervous prostration
 has sprung from lighter causes.
-
 Nothing happened while I was at the farm but meal time, and the
 intervals were so long between those episodes that I used to wonder
 daily at my own mission subsequent to the farm-life as one gropes for
@@ -5578,7 +4927,6 @@ know, but merely to find a topic of conversation, I was successively
 told that it was "kerosene," "maple molasses," "buttermilk," and
 "vinegar." I wish I knew if I was told the truth every time, or if
 somebody tried to impose upon me merely because I was town-bred.
-
 Occasionally we took rides over stony trails where boulders and ruts
 marked the way, and only the creaking of our bones broke the primeval
 silence. These rides were supposed to be part of the generous plan of
@@ -5596,21 +4944,17 @@ wholesome and sweet, as it was turned out of the workshop; its streams
 untainted, and their banks unbereft of beautiful trees; its hills still
 covered with verdure, and its winds uncontaminated with the scent of
 defiling drains and waterways.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I have seen him! Actually seen him! Shall I say the coming man? No,
 rather let us call him the vanished type, the stalwart, full-blooded,
 glorious "might have been" of nature. Not an exotic, but the indigenous
 growth of a soil fed by breeze and sun. No earmuffs about him; no
 cringing withdrawal into mufflers before the advance of winter blasts.
 No cowardly retreat into furry overcoats, mittens and gum shoes.
-
 "Amber," said a fellow traveler the other day, "yonder is a man after
 your own heart. He has not worn an overcoat or heavyweight flannels for
 six years. He never buttons up his coat save when it rains. What do you
 think of him?"
-
 "Think of him!" said I; "were it not for a lingering regard for the
 conventionalities, I should walk right over to that man and say: 'Sir, I
 thank you for the sight of a man--not a human lily bud! You have struck
@@ -5619,10 +4963,8 @@ the enfeebled race that surrounds you have toddled into the
 consumptive's grave or are sneezing upon their catarrhal pilgrimage to
 the tomb.'" The man was worth looking at, hale and hearty, his chest like
 the convex curve of a barrel, his eye like a falcon's.
-
 "But," said my friend, "were I to throw aside my overcoat and go forth
 unprotected this freezing weather, the exposure would surely kill me!"
-
 "No doubt it would," was my cheerful reply. "There are always a host to
 die before any reform is achieved or victory accomplished. You have
 coddled yourself so long between blankets and absorbed red-hot furnace
@@ -5656,9 +4998,7 @@ chilly weather? Why didn't he seal them up behind double windows in an
 airless, sunless, hot and unhealthful home where the dear things could
 keep warm? Because he was God and knew everything, and not man and knew
 nothing.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Well, the old ship Time has put into port again to take on a new cargo
 of good resolutions, earnest resolves and patented schemes, before
 setting sail for the shores of a distant future. Ten to one she goes to
@@ -5672,12 +5012,10 @@ Captain on New Year's eve. Behold! the hours have not swung around the
 diurnal circle before there is a wild onslaught from shadowland, and the
 brave captain is left wounded on the field. Only a tender hand and
 tireless patience can set her on her feet again.
-
 "I will eschew debt as I would poison, and starve before I will commit
 an indiscretion," cries the Doctor as he sets sail for the untried sea.
 Within the first watch he hauls down his colors from the mast head,
 captured by a pirate extravagance.
-
 "I will be gentle of speech and courteous and sweet to all!" says the
 Young Person, and gayly steers for the open channel. Midway she
 encounters a rock of annoyance and the air is stormy with irritable
@@ -5685,9 +5023,7 @@ words that fly and beat like stinging rain. Ah, well, my dear, thank the
 good Lord there are life-saving stations all along the shore, and no
 wreck was ever yet so hopeless but Infinite Love could set it afloat
 again.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 "There is just one person born who has a right to this thoroughfare, and
 that is I!" muses the woman with the umbrella as she walks the crowded
 streets on a rainy day. "I am in possession of that part of the universe
@@ -5706,9 +5042,7 @@ wear a gown and call myself a lady? If I were a man and manifested the
 reckless thirst for universal carnage that I do you would call the
 patrol and bear me away to the lock-up; but being a poor little,
 innocent woman I have it all my own way."
-
-       *       *       *       *       *
-
+*       *       *       *       *
 I know a wife who is waiting, safe and sound in her father's home, for
 her young husband to earn the money single-handed to make a home worthy
 of her acceptance. She makes me think of the first mate of a ship who
@@ -5730,9 +5064,7 @@ and care have flown like uncanny birds over their heads (but never yet
 nested in their hearts, thank God!), that the completed chronicle of
 their lives furnishes the record over which approving heaven smiles and
 weeps.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 There is one thing I learn day by day in my strollings about town, and
 that is that nobody is going to give me dollar values for half-dollar
 equivalents. In these days when the best of folks go mad on bargains we
@@ -5750,9 +5082,7 @@ daintiness and flavor than save seventy-five cents and do without them.
 Sure as you live and sure as the world is operated on a
 self-accommodative basis, you never will get a first-water diamond
 without you pay first-water diamond equivalents.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 The other day there was a little girl, scarce 16 years of age, who
 started away for the first time from home and mother. She was brave and
 gay in a new suit, new boots and a new hat with a feather the color of a
@@ -5760,7 +5090,6 @@ linnet's wing. She carried a bunch of the loveliest sweet peas at her
 dainty waist and on her face there played a sunburst of smiles. She had
 not been five hours in the place appointed her to visit when her mother
 received the following letter:
-
 "My Precious Mamma: I am writing this in my room before I am called to
 breakfast. None but God can know what I suffer! Not until I am in your
 arms once more will you know what I am going through! If you love me let
@@ -5768,16 +5097,13 @@ me come home. Don't tell anyone, but let me come if you love me! Don't
 send the shoes--I shall not need them--but let me come home! Think what
 I must suffer so far away from you. I shall sell my ring and buy a
 ticket if you do not telegraph that I may come!"
-
 And as I read the pathetic letter between my smiles and tears I thought
 to myself, is there anything on earth so hard to bear as
 homesickness--first homesickness, when the heart is new to sorrow? I
 would rather have any disease the laboratory of evil keeps in stock than
 one pang of what that little girl was suffering when she penciled that
 letter.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 Around in a picture store on one of the avenues I chanced upon a
 painting that attracted not only myself, but a crowd of people from the
 street. It represented a lion's cage barred with heavy barriers of iron.
@@ -5794,436 +5120,41 @@ women are not supposed to be visiting zoological gardens when they ought
 to be changing their white satin favors for their traveling gowns. The
 picture seems a puzzler to all who watch it, and as the crowd is great
 the confusion of wits is catching.
-
-       *       *       *       *       *
-
-THE TRYST.
-
-  Where a woodland path, like a silver line,
-    Winds by a woodland river,
-  And half in shadow, and half in shine,
-    The alders lean and shiver,
-  Where a forest bird has built him a nest
-    Low in the springing grasses,
-  And all the day long, with her wings at rest,
-    His mate the slow time passes;
-
-  Where a flood of gold through the forest dim
-    Tells when the noon is strongest,
-  And a purple fringe on the forest's rim
-    Proclaims when the shades are longest;
-  Where the dawn is only known from the night
-    By the birds that sing their sweetest,
-  And the twilight hush from the morning light
-    By the peace that is then completest;
-
-  Where only the flood of silvery haze
-    Shall tell that the moon is risen,
-  When down from the sky, like a meteor blaze,
-    Shall flutter her snow-white ribbon,--
-  I will meet you there, my lady love sweet,
-    When the weary world is sleeping,
-  And the frets of the day, that tireless beat,
-    Are hushed in the night's close keeping;
-
-  Not missing the world--by the world unmissed--
-    We two shall wander together,
-  And whether we chided, or whether we kissed,
-    There'll be none to forget or remember;
-  And when at the last asleep you shall fall,
-    By the shore of the musical river,
-  Of the crimson leaves I will weave you a pall,
-    And kiss you good-by, love, forever.
-
-  But the stars up above, and the waters below,
-    Shall sing of us, over and over;
-  Of the tryst that we kept in the years long ago,
-    In the woods by the beautiful river.
-
-       *       *       *       *       *
-
-
-
-
-Transcriber's Notes:
-
-
-  Inconsistencies in spelling and hyphenation have been retained from
-  the original.
-
-  Obvious typographical errors have been corrected as follows:
-
-    Page  35: "blase" changed to "blase"
-    Page  53: "neighors" changed to "neighbors"
-    Page  98: "patroled" changed to "patrolled"
-    Page 129: "meed" changed to "need"
-
-  Punctuation has been corrected without note.
-
-
-
-
-
-End of the Project Gutenberg EBook of Rosemary and Rue, by Amber
-
-*** END OF THIS PROJECT GUTENBERG EBOOK ROSEMARY AND RUE ***
-
-***** This file should be named 36168.txt or 36168.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/6/1/6/36168/
-
-Produced by D Alexander, David E. Brown, and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.net
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*       *       *       *       *
+Where a woodland path, like a silver line,
+Winds by a woodland river,
+And half in shadow, and half in shine,
+The alders lean and shiver,
+Where a forest bird has built him a nest
+Low in the springing grasses,
+And all the day long, with her wings at rest,
+His mate the slow time passes;
+Where a flood of gold through the forest dim
+Tells when the noon is strongest,
+And a purple fringe on the forest's rim
+Proclaims when the shades are longest;
+Where the dawn is only known from the night
+By the birds that sing their sweetest,
+And the twilight hush from the morning light
+By the peace that is then completest;
+Where only the flood of silvery haze
+Shall tell that the moon is risen,
+When down from the sky, like a meteor blaze,
+Shall flutter her snow-white ribbon,--
+I will meet you there, my lady love sweet,
+When the weary world is sleeping,
+And the frets of the day, that tireless beat,
+Are hushed in the night's close keeping;
+Not missing the world--by the world unmissed--
+We two shall wander together,
+And whether we chided, or whether we kissed,
+There'll be none to forget or remember;
+And when at the last asleep you shall fall,
+By the shore of the musical river,
+Of the crimson leaves I will weave you a pall,
+And kiss you good-by, love, forever.
+But the stars up above, and the waters below,
+Shall sing of us, over and over;
+Of the tryst that we kept in the years long ago,
+In the woods by the beautiful river.
+*

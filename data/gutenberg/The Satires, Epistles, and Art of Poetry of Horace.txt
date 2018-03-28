@@ -1,83 +1,5 @@
-he Project Gutenberg EBook of The Satires, Epistles, and Art of Poetry
-by Horace
-
-Copyright laws are changing all over the world. Be sure to check the
-copyright laws for your country before downloading or redistributing
-this or any other Project Gutenberg eBook.
-
-This header should be the first thing seen when viewing this Project
-Gutenberg file.  Please do not remove it.  Do not change or edit the
-header without written permission.
-
-Please read the "legal small print," and other information about the
-eBook and Project Gutenberg at the bottom of this file.  Included is
-important information about your specific rights and restrictions in
-how the file may be used.  You can also find out about how to make a
-donation to Project Gutenberg, and how to get involved.
-
-
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-
-**eBooks Readable By Both Humans and By Computers, Since 1971**
-
-*****These eBooks Were Prepared By Thousands of Volunteers!*****
-
-
-Title: The Satires, Epistles, and Art of Poetry
-
-Author: Horace
-        a.k.a. Quintus Horatius Flaccus
-        Translated by John Conington, M. A.
-
-Release Date: April, 2004 [EBook #5419]
-[Yes, we are more than one year ahead of schedule]
-[This file was first posted on July 14, 2002]
-
-Edition: 10
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THE PROJECT GUTENBERG EBOOK SATIRES OF HORACE ***
-
-
-
-
 Produced by David Moynihan, Charles Franks
 and the Online Distributed Proofreading Team
-
-
-
-
-
-THE SATIRES, EPISTLES, AND ART OF POETRY OF HORACE
-
-TRANSLATED INTO ENGLISH VERSE
-BY JOHN CONINGTON, M.A.
-CORPUS PROFESSOR OF LATIN IN THE
-UNIVERSITY OF OXFORD.
-
-
-
-
-TO
-
-THE REV. W. H. THOMPSON, D.D.
-MASTER OF TRINITY COLLEGE, CAMBRIDGE,
-ETC. ETC. ETC.
-IN GRATITUDE FOR MANY KINDNESSES
-RECEIVED FROM HIM AND OTHER CAMBRIDGE FRIENDS,
-AND IN ACKNOWLEDGMENT OF THE COMPLIMENT
-PAID BY CAMBRIDGE TO OXFORD
-IN THE APPOINTMENT OF THE OXFORD LATIN PROFESSOR
-AS ONE OF THE ELECTORS TO HER LATIN CHAIR.
-
-
-
-
-PREFACE.
-
 In venturing to follow up my translation of the Odes of Horace by a
 version of the Satires and Epistles, I feel that I am in no way
 entitled to refer to the former as a justification of my boldness in
@@ -101,7 +23,6 @@ recent stock of which a new translator may be expected to take
 account. In one sense this is encouraging: in another dispiriting.
 The field is not pre-occupied: but the reason is, that general
 opinion has pronounced its cultivation unprofitable and hopeless.
-
 No doubt, apart from fluctuations in the taste of the reading
 public, there are special reasons why a version of this portion of
 Horace's works should be a difficult, perhaps an impracticable
@@ -141,7 +62,6 @@ who attempts to reproduce him runs an imminent risk first of losing
 all charm whatever, secondly of missing completely that
 individuality of attractiveness which makes the charm of Horace
 unlike the charm of any one else.
-
 Without however enlarging further on the peculiar difficulty of the
 task, I will proceed to say a few words on some of the special
 questions which a translator of the Satires and Epistles has to
@@ -200,7 +120,6 @@ many great masters have gone before me, I felt less diffidence in
 attempting the lower and more colloquial form of the measure, as not
 requiring the same command of rhythm, and not exposing a writer to
 the same amount of invidious comparison with his predecessors.
-
 In what I have said I have implied that Cowper is the right model
 for the English heroic as applied to a translation of Horace: and
 this on the whole I believe to be the case. Horace's
@@ -263,7 +182,6 @@ remarks are true of translation in general, they apply with special
 force to the translation of an original like the present, where the
 Latin is nothing if it is not idiomatic, and the English in
 consequence, if it is to be anything, must be idiomatic also.
-
 There is yet something more to be said on the question of style. The
 exact mode of representing Horace's persiflage is, as I have
 intimated already, not an easy thing to determine. The translators
@@ -303,7 +221,6 @@ was not without its effect. Still, where it is almost impossible to
 walk quite straight, the walker will reconcile himself to incidental
 deviations, and will even consider, where a slip is inevitable, on
 which side of the line it is better that the slip should take place.
-
 A patent difficulty of course is to know what to do with local and
 temporary customs, allusions, proverbs, &c., which enter, I need not
 say, far more largely into satire or comedy than into any other form
@@ -350,7 +267,6 @@ cannot recommend any one to try to distil Latin antiquities from my
 translation as they are sometimes distilled from the original, I
 hope that I have not been unfaithful to the antique spirit, but have
 reflected with sufficient accuracy the broad features of Roman life.
-
 Taken altogether, this translation will be found less close to the
 original than those with which I have formerly troubled the public.
 The considerations pointed out in the last paragraph will to a great
@@ -369,7 +285,6 @@ could hardly be so rendered now. Where I have not translated I have
 not in general cared to paraphrase, but have been silent altogether.
 I have in short given so much of my author as a well-judging reader
 would wish to dwell on in reading the original, and no more.
-
 I have made acquaintance with such of the previous translations as I
 did not already know, though it seemed best to avoid consulting them
 in any passage till I had translated it myself. The few places in
@@ -407,18 +322,6 @@ my own work, and extend to a predecessor who, if he had published a
 few years earlier, when translations were of more account, could
 scarcely have failed to rank high among the cultivators of this
 branch of literature.
-
-
-
-
-BOOK I.
-
-
-SATIRE I.
-
-QUI FIT, MAECENAS.
-
-
 How comes it, say, Maecenas, if you can,
 That none will live like a contented man
 Where choice or chance directs, but each must praise
@@ -446,7 +349,6 @@ Now, after this, would Jove be aught to blame
 If with both cheeks he burst into a flame,
 And vowed, when next they pray, they shall not find
 His temper easy, or his ear inclined?
-
 Well, not to treat things lightly (though, for me,
 Why truth may not be gay, I cannot see:
 Just as, we know, judicious teachers coax
@@ -495,7 +397,6 @@ And whelm him, bank and all; while he whose greed
 Is kept in check, proportioned to his need,
 He neither draws his water mixed with mud,
 Nor leaves his life behind him in the flood.
-
 But there's a class of persons, led astray
 By false desires, and this is what they say:
 "You cannot have enough: what you possess,
@@ -520,7 +421,6 @@ But to go mad with watching, nights and days
 To stand in dread of thieves, fires, runaways
 Who filch and fly,--in these if wealth consist,
 Let me rank lowest on the paupers' list.
-
 "But if you suffer from a chill attack,
 Or other chance should lay you on your back,
 You then have one who'll sit by your bed-side,
@@ -535,7 +435,6 @@ Nay, would you win the kinsmen Nature sends
 Made ready to your hand, and keep them friends,
 'Twere but lost labour, as if one should train
 A donkey for the course by bit and rein.
-
 Make then an end of getting: know, the more
 Your wealth, the less the risk of being poor;
 And, having gained the object of your quest,
@@ -548,7 +447,6 @@ E'en to his dying day he went in dread
 Of perishing for simple want of bread,
 Till a brave damsel, of Tyndarid line
 The true descendant, clove him down the chine.
-
 "What? would you have me live like some we know,
 Maenius or Nomentanus?" There you go!
 Still in extremes! in bidding you forsake
@@ -557,7 +455,6 @@ A miser's ways, I say not, Be a rake.
 A step there is, and broader than a straw.
 Yes, there's a mean in morals: life has lines,
 To north or south of which all virtue pines.
-
 Now to resume our subject: why, I say,
 Should each man act the miser in his way,
 Still discontented with his natural lot,
@@ -578,15 +475,6 @@ And, thankful for past blessings, with good will
 Retires, like one who has enjoyed his fill.
 Enough: you'll think I've rifled the scrutore
 Of blind Crispinus, if I prose on more.
-
-
-
-
-SATIRE III.
-
-OMNIBUS HOC VITIUM.
-
-
 All singers have a fault: if asked to use
 Their talent among friends, they never choose;
 Unask'd, they ne'er leave off. Just such a one
@@ -611,7 +499,6 @@ Yet give this man, so frugal, so content,
 A thousand, in a week 'twould all be spent.
 All night he would sit up, all day would snore:
 So strange a jumble ne'er was seen before.
-
 "Hold!" some one cries, "have you no failings?" Yes;
 Failings enough, but different, maybe less.
 One day when Maenius happened to attack
@@ -636,7 +523,6 @@ Now, having scanned his breast, inspect your own,
 And see if there no failings have been sown
 By Nature or by habit, as the fern
 Springs in neglected fields, for men to burn.
-
 True love, we know, is blind: defects that blight
 The loved one's charms escape the lover's sight,
 Nay, pass for beauties, as Balbinus glows
@@ -661,7 +547,6 @@ A fourth is apt to break into a flame;
 An ardent spirit--make we that his name.
 This is the sovereign recipe, be sure,
 To win men's hearts, and having won, secure.
-
 But WE put virtue down to vice's score,
 And foul the vessel that was clean before:
 See, here's a modest man, who ranks too low
@@ -690,7 +575,6 @@ He that has fears his blotches may offend
 Speaks gently of the pimples of his friend:
 For reciprocity exacts her dues,
 And they that need excuse must needs excuse.
-
 Now, since resentment, spite of all we do,
 Will haunt us fools, and other vices too,
 Why should not reason use her own just sense,
@@ -717,7 +601,6 @@ What then? is that a reason he should seem
 Less pleasant, less deserving my esteem?
 How could I treat him worse, were he to thieve,
 Betray a secret, or a trust deceive?
-
 Your men of words, who rate all crimes alike,
 Collapse and founder, when on fact they strike:
 Sense, custom, all, cry out against the thing,
@@ -750,7 +633,6 @@ Of this there seems small danger, when you say
 That theft's as bad as robbery in its way,
 And vow all villains, great and small, shall swing
 From the same tree, if men will make you king.
-
 But tell me, Stoic, if the wise, you teach,
 Is king, Adonis, cobbler, all and each,
 Why wish for what you've got? "Tou fail to see
@@ -777,15 +659,6 @@ While I find pleasant friends to screen me, when
 I chance to err, like other foolish men;
 Bearing and borne with, so the change we ring,
 More blest as private folks than you as king.
-
-
-
-
-SATIRE IV.
-
-EUPOLIS ATQUE CRATINUS.
-
-
 Cratinus, Aristophanes, and all
 The elder comic poets, great and small,
 If e'er a worthy in those ancient times
@@ -816,7 +689,6 @@ But you, be like the bellows, if you choose,
 Still puffing, puffing, till the metal fuse,
 And vent your windy nothings with a sound
 That makes the depth they come from seem profound.
-
 Happy is Fannius, with immortals classed,
 His bust and bookcase canonized at last,
 While, as for me, none reads the things I write.
@@ -873,7 +745,6 @@ But break up this, "When Battle's brazen door
 Blood-boltered Discord from its fastenings tore,"
 'Tis Orpheus mangled by the Maenads: still
 The bard remains, unlimb him as you will.
-
 Enough of this: some other time we'll see
 If Satire is or is not poetry:
 Today I take the question, if 'tis just
@@ -928,7 +799,6 @@ Here is the poison-bag of malice, here
 The gall of fell detraction, pure and sheer:
 And these, I'swear, if man such pledge may give,
 My pen and heart shall keep from, while I live.
-
 But if I still seem personal and bold,
 Perhaps you'll pardon, when my story's told.
 When my good father taught me to be good,
@@ -961,7 +831,6 @@ Sick gluttons of a next-door funeral hear,
 And learn self-mastery in the school of fear:
 And so a neighbour's scandal many a time
 Has kept young minds from running into crime.
-
 Thus I grew up, unstained by serious ill,
 Though venial faults, I grant you, haunt me still:
 Yet items I could name retrenched e'en there
@@ -980,15 +849,6 @@ Grant it your prompt indulgence, or a throng
 Of poets shall come up, some hundred strong,
 And by mere numbers, in your own despite,
 Force you, like Jews, to be our proselyte.
-
-
-
-
-SATIRE V.
-
-EGRESSUM MAGNA.
-
-
 Leaving great Rome, my journey I begin,
 And reach Aricia, where a moderate inn
 (With me was Heliodorus, who knows more
@@ -1085,7 +945,6 @@ Nay, more," he asked, "why had he run away,
 When e'en a single pound of corn a day
 Had filled a maw so slender?" So we spent
 Our time at table, to our high content.
-
 Then on to Beneventum, where our host,
 As some lean thrushes he essayed to roast,
 Was all but burnt: for up the chimney came
@@ -1124,15 +983,6 @@ And, if a wonder happens, don't assume
 'Tis sent in anger from the upstairs room.
 Last comes Brundusium: there the lines I penned,
 The leagues I travelled, find alike their end.
-
-
-
-
-SATIRE VI.
-
-NON QUIA, MAECENAS.
-
-
 What if, Maecenas, none, though ne'er so blue
 His Tusco-Lydian blood, surpasses you?
 What if your grandfathers, on either hand,
@@ -1151,7 +1001,6 @@ Has ne'er been valued at a poor half-crown
 E'en in the eyes of that wise judge, the town,
 That muddy source of dignity, which sees
 No virtue but in busts and lineal trees.
-
 Well, but for us; what thoughts should ours be, say,
 Removed from vulgar judgments miles away?
 Grant that Laevinus yet would be preferred
@@ -1189,7 +1038,6 @@ Suppose three funerals jostle with ten carts
 All in the forum, still you'll hear his voice
 Through horn and clarion: that commends our
 choice.
-
 Now on myself, the freedman's son, I touch,
 The freedman's son, by all contemned as such,
 Once, when a legion followed my command,
@@ -1214,7 +1062,6 @@ O, 'tis no common fortune, when one earns
 A friend's regard, who man from man discerns,
 Not by mere accident of lofty birth
 But by unsullied life, and inborn worth!
-
 Yet, if my nature, otherwise correct,
 But with some few and trifling faults is flecked,
 Just as a spot or mole might be to blame
@@ -1273,7 +1120,6 @@ And no one rates my meanness, as they rate
 Yours, noble Tillius, when you ride in state
 On the Tiburtine road, five slaves EN SUITE,
 Wineholder and et-ceteras all complete.
-
 'Tis thus my life is happier, man of pride,
 Than yours and that of half the world beside.
 When the whim leads, I saunter forth alone,
@@ -1302,20 +1148,10 @@ Kill time in-doors, and so forth. Here you see
 A careless life, from stir and striving free,
 Happier (O be that flattering unction mine!)
 Than if three quaestors figured in my line.
-
-
-
-
-SATIRE VII.
-
-PROSCRIPTI REGIS RUPILI.
-
-
 How mongrel Persius managed to outsting
 That pungent proscript, foul Rupilius King,
 Is known, I take it, to each wight that drops
 Oil on bleared eyes, or lolls in barbers' shops.
-
 Persius was rich, a man of great affairs,
 Steeped to the lips in monetary cares
 Down at Clazomenae: and some dispute
@@ -1336,14 +1172,12 @@ Whereas, if two poor cravens chance to jar,
 Or if an ill-matched couple meet in war,
 Like Diomede and Glaucus, straight the worse
 Gives in, and presents are exchanged of course.
-
 Well, in the days when Brutus held command,
 With praetor's rank, o'er Asia's wealthy land,
 Persius and King engage, a goodly pair,
 Like Bithus matched with Bacchius to a hair.
 Keen as sharp steel, before the court they go,
 Bach in himself as good as a whole show.
-
 Persius begins: amid the general laugh
 He praises Brutus, praises Brutus' staff,
 Brutus, the healthful sun of Asia's sphere,
@@ -1352,25 +1186,14 @@ All, save poor King; a dog-star he, the sign
 To farmers inauspicious and malign:
 So roaring on he went, like wintry flood,
 Where axes seldom come to thin the wood.
-
 Then, as he thundered, King, Praeneste-bred,
 Hurled vineyard slang in handfuls at his head,
 A tough grape-gatherer, whom the passer-by
 Could ne'er put down, with all his cuckoo cry.
-
 Sluiced with Italian vinegar, the Greek
 At length vociferates, "Brutus, let me speak!
 You are our great king-killer: why delay
 To kill this King? I vow 'tis in your way."
-
-
-
-
-SATIRE IX.
-
-IBAM FORTE VIA SACRA.
-
-
 Long the Sacred Road I strolled one day,
 Deep in some bagatelle (you know my way),
 When up comes one whose name I scarcely knew--
@@ -1398,7 +1221,6 @@ Poor man! he's ailing at his lodging, far
 Beyond the bridge, where Caesar's gardens are."
 "O, never mind: I've nothing else to do,
 And want a walk, so I'll step on with you."
-
 Down go my ears, in donkey-fashion, straight;
 You've seen them do it, when their load's too great.
 "If I mistake not," he begins, "you'll find
@@ -1407,7 +1229,6 @@ There's not a man can turn a verse so soon,
 Or dance so nimbly when he hears a tune:
 While, as for singing--ah! my forte is there:
 Tigellius' self might envy me, I'll swear."
-
 He paused for breath: I falteringly strike in:
 "Have you a mother? have you kith or kin
 To whom your life is precious?" "Not a soul:
@@ -1422,7 +1243,6 @@ All in my nursery days, when life was young:
 Nor gout, nor pleurisy, nor racking cough:
 A babbling tongue shall kill him: let him fly
 All talkers, as he wishes not to die."
-
 We got to Vesta's temple, and the sun
 Told us a quarter of the day was done.
 It chanced he had a suit, and was bound fast
@@ -1433,7 +1253,6 @@ And then, my call." "I'm doubting what to do,
 Whether to give my lawsuit up or you.
 "Me, pray!" "I will not." On he strides again:
 I follow, unresisting, in his train.
-
 "How stand you with Maecenas?" he began:
 "He picks his friends with care; a shrewd wise man:
 In fact, I take it, one could hardly name
@@ -1460,7 +1279,6 @@ Say, I'm refused admittance for to-day;
 I'll watch my time; I'll meet him in the way,
 Escort him, dog him. In this world of ours
 The path to what we want ne'er runs on flowers."
-
 'Mid all this prate there met us, as it fell,
 Aristius, my good friend, who knew him well.
 We stop: inquiries and replies go round:
@@ -1485,15 +1303,6 @@ He roars like thunder: then to me: "You'll stand
 My witness, sir?" "My ear's at your command."
 Off to the court he drags him: shouts succeed:
 A mob collects: thank Phoebus, I am freed.
-
-
-
-
-SATIRE X.
-
-NEMPE INCOMPOSITO.
-
-
 Yes, I did say that, view him as a bard,
 Lucilius is unrhythmic, rugged, hard.
 Lives there a partisan so weak of brain
@@ -1518,7 +1327,6 @@ On this the old comedians rested: hence
 They're still the models of all men of sense,
 Despite Tigellius and his ape, whose song
 Is Calvus and Catullus all day long.
-
 "But surely that's a merit quite unique,
 His gift of mixing Latin up with Greek,"
 Unique, you lags in learning? what? a knack
@@ -1535,7 +1343,6 @@ And while great Pedius and Corvinus strain
 Against you in pure Latin lungs and brain,
 Like double-tongued Canusian, try to speak
 A piebald speech, half native and half Greek!
-
 Once when, though born on this side of the sea,
 I tried my hand at Attic poetry,
 Quirinus warned me, rising to my view
@@ -1548,7 +1355,6 @@ I toy with trifles such as this, unmeet
 At Tarpa's grave tribunal to compete,
 Or, mouthed by well-graced actors, be the rage
 Of mobs, and hold possession of the stage.
-
 No hand can match Fundanius at a piece
 Where slave and mistress clip an old man's fleece:
 Pollio in buskins chants the deeds of kings:
@@ -1561,7 +1367,6 @@ Best suits my gait: yet readily I yield
 To him who first set footstep on that field,
 Nor meanly seek to rob him of the bay
 That shows so comely on his locks of grey.
-
 Well, but I called him muddy, said you'd find
 More sand than gold in what he leaves behind.
 And you, sir Critic, does your finer sense
@@ -1602,7 +1407,6 @@ Say, would you rather have the things you scrawl
 Doled out by pedants for their boys to drawl?
 Not I: like hissed Arbuscula, I slight
 Your hooting mobs, if I can please a knight.
-
 Shall bug Pantilius vex me? shall I choke
 Because Demetrius needs must have his joke
 Behind my back, and Fannius, when he dines
@@ -1621,39 +1425,17 @@ Such I would have my critics; men to gain
 Whose smiles were pleasure, to forego them pain,
 Demetrius and Tigellius, off! go pule
 To the bare benches of your ladies' school!
-
 Hallo there, youngster! take my book, you rogue,
 And write this in, by way of epilogue.
-
-
-
-
-BOOK II.
-
-
-SATIRE I.
-
-SUNT QUIBUS IN SATIRA.
-
-HORACE. TREBATIUS.
-
-
-HORACE.
-
 Some think in satire I'm too keen, and press
 The spirit of invective to excess:
 Some call my verses nerveless: once begin,
 A thousand such per day a man might spin.
 Trebatius, pray advise me.
-
 T. Wipe your pen.
-
 H. What, never write a single line again?
-
 T. That's what I mean.
-
 H. 'Twould suit me, I protest, Exactly: but at nights I get no rest.
-
 T. First rub yourself three times with oil all o'er,
 Then swim the Tiber through from shore to shore,
 Taking good care, as night draws on, to steep
@@ -1662,29 +1444,24 @@ Or, if you still have such an itch to write,
 Sing of some moving incident of fight;
 Sing of great Caasar's victories: a bard
 Who works at that is sure to win reward.
-
 H. Would that I could, my worthy sire! but skill
 And vigour lack, how great soe'er the will.
 Not every one can paint in epic strain
 The lances bristling on the embattled plain,
 Tell how the Gauls by broken javelins bleed,
 Or sing the Parthian tumbling from his steed.
-
 T. But you can draw him just and brave, you know,
 As sage Lucilius did for Scipio.
-
 H. Trust me for that: my devoir I will pay,
 Whene'er occasion comes to point the way.
 Save at fit times, no words of mine can find
 A way through Cassar's ear to Cassar's mind:
 A mettled horse, if awkwardly you stroke,
 Kicks out on all sides, and your leg is broke.
-
 T. Better do this than gall with keen lampoon
 Cassius the rake and Maenius the buffoon,
 When each one, though with withers yet unwrung,
 Fears for himself, and hates your bitter tongue.
-
 H. What shall I do? Milonius, when the wine
 Mounts to his head, and doubled lustres shine,
 Falls dancing; horses are what Castor loves;
@@ -1701,7 +1478,6 @@ And, whether Fortune used him well or ill,
 Thither for sympathy he turned him still:
 So there, as in a votive tablet penned,
 You see the veteran's life from end to end.
-
 His footsteps now I follow as I may,
 Lucanian or Apulian, who shall say?
 For we Venusians live upon the line
@@ -1710,7 +1486,6 @@ Planted,'tis said, there in the Samnites' place,
 To guard for Rome the intermediate space,
 Lest these or those some day should make a raid
 In time of war, and Roman soil invade.
-
 But this poor implement of mine, my pen,
 Shall ne'er assault one soul of living men:
 Like a sheathed sword, I'll carry it about,
@@ -1723,7 +1498,6 @@ With my peace-loving self! but should one seek
 To quarrel with me, yon shall hear him shriek:
 Don't say I gave no warning: up and down
 He shall be trolled and chorused through the town.
-
 Cervius attacks his foes with writ and rule:
 Albutius' henbane is Canidia's tool:
 How threatens Turius? if he e'er should judge
@@ -1732,7 +1506,6 @@ Each has his natural weapon, you'll agree,
 If you will work the problem out with me:
 Wolves use their tooth against you, bulls their
 horn;
-
 Why, but that each is to the manner born?
 Take worthy Scaeva now, the spendthrift heir,
 And trust his long-lived mother to his care;
@@ -1744,17 +1517,14 @@ Well, to be brief: whether old age await
 My years, or Death e'en now be at the gate,
 Wealthy or poor, at home or banished, still,
 Whate'er my life's complexion, write I will.
-
 T. Poor child! your life is hanging on a thread:
 Some noble friend one day will freeze you dead.
-
 H. What? when Lucilius first with dauntless brow
 Addressed him to his task, as I do now,
 And from each hypocrite stripped off the skin
 He flaunted to the world, though foul within,
 Did Laelius, or the chief who took his name
 Prom conquered Carthage, grudge him his fair game?
-
 Felt they for Lupus or Metellus, when
 Whole floods of satire drenched the wretched men?
 He took no count of persons: man by man
@@ -1772,29 +1542,17 @@ I lived with men of mark as friend with friend,
 And, when she fain on living flesh and bone
 Would try her teeth, shall close them on a stone;
 That is, if grave Trebatius will concur--
-
 T. I don't quite see; I cannot well demur;
 Yet you had best be cautioned, lest you draw
 Some mischief down from ignorance of law;
 If a man writes ill verses out of spite
 'Gainst A or B, the sufferer may indict.
-
 H. Ill verses? ay, I grant you: but suppose
 Caesar should think them good (and Caesar knows);
 Suppose the man you bark at has a name
 For every vice, while yours is free from blame.
-
 T. O, then a laugh will cut the matter short:
 The case breaks down, defendant leaves the court.
-
-
-
-
-SATIRE II.
-
-QUAE VIRTUS ET QUANTA.
-
-
 The art of frugal living, and its worth,
 To-day, my friends, Ofellus shall set forth
 ('Twas he that taught me it, a shrewd clear wit,
@@ -1805,7 +1563,6 @@ When the vain eye is dazzled, and the mind
 Recoils from truth, to idle shows resigned:
 No: let us talk on empty stomachs. Why?
 Well, if you'd have me tell you, I will try.
-
 The judge who soils his fingers by a gift
 Is scarce the man a doubtful case to sift.
 Say that you're fairly wearied with the course,
@@ -1850,7 +1607,6 @@ Why, but to fly in Nature's face for spite.
 Because she made these heavy those weigh light?
 O, when the stomach's pricked by hunger's stings,
 We seldom hear of scorn for common things!
-
 "Great fishes on great dishes! how I gloat
 Upon the sight!" exclaims some harpy-throat.
 Blow strongly, blow, good Auster, and ferment
@@ -1871,7 +1627,6 @@ So now, should some potential voice proclaim
 That roasted cormorants are delicious game,
 The youth of Rome (there's nothing too absurd
 For their weak heads) will take him at his word.
-
 But here Ofellus draws a line, between
 A life that's frugal and a life that's mean:
 For 'tis in vain that luxury you shun,
@@ -1896,7 +1651,6 @@ Nor, like Albucius, when he plays the host,
 Storms at his slaves, while giving each his post;
 Nor, like poor Naevius, carelessly offends
 By serving greasy water to his friends.
-
 Now listen for a space, while I declare
 The good results that spring from frugal fare.
 IMPRIMIS, health: for 'tis not hard to see
@@ -1923,14 +1677,12 @@ Then too, when age draws on and life is slack,
 He has reserves on which he can fall back:
 But what have you in store when strength shall fail,
 You, who forestall your goods when young and hale?
-
 A rancid boar our fathers used to praise:
 What? had they then no noses in those days?
 No: but they wished their friends to have the treat
 When tainted rather than themselves when sweet.
 O had I lived in that brave time of old,
 When men were heroes, and the age was gold!
-
 Come now, you set some store by good repute:
 In truth, its voice is softer than a lute:
 Then know, great fishes on great dishes still
@@ -1957,7 +1709,6 @@ He that, like you, by long indulgence plants
 In body and in mind a thousand wants,
 Or he who, wise and frugal, lays in stores
 In view of war ere war is at the doors?
-
 But, should you doubt what good Ofellus says,
 When young I knew him, in his wealthier days:
 Then, when his means were fair, he spent and spared
@@ -1994,19 +1745,6 @@ None has it as a fixture, fast and firm,
 But he or I may hold it for a term.
 Then live like men of courage, and oppose
 Stout hearts to this and each ill wind that blows."
-
-
-
-
-SATIRE III.
-
-SIC RARO SCRIBIS.
-
-DAMASIPPUS. HORACE.
-
-
-DAMASIPPUS.
-
 So seldom do you write, we scarcely hear
 Your tablets called for four times in the year:
 And even then, as fast as you compose,
@@ -2027,12 +1765,10 @@ Think you by turning lazy to exempt
 Your life from envy? No, you'll earn contempt.
 Then stop your ears to sloth's enchanting voice,
 Or give up your best hopes: there lies your choice.
-
 H. Good Damasippus, may the immortals grant,
 For your sage counsel, the one thing you want,
 A barber! but pray tell me how yon came
 To know so well what scarce is known to fame?
-
 D. Why, ever since my hapless all went down
 'Neath the mid arch, I go about the town,
 And make my neighbours' matters my sole care,
@@ -2045,19 +1781,15 @@ Prized that at fifty thousand: then I knew
 To buy at profit grounds and houses too,
 With a sure instinct: till the whole town o'er
 "The pet of Mercury" was the name I bore.
-
 H. I know your case, and am surprised to see
 So clear a cure of such a malady.
-
 D, Ay, but my old complaint (though strange, 'tis true)
 Was banished from my system by a new:
 Just as diseases of the side or head
 My to the stomach or the chest instead,
 Like your lethargic patient, when he tears
 Himself from bed, and at the doctor squares.
-
 H. Spare me but that, I'll trust you.
-
 D.                               Don't be blind;
 You're mad yourself, and so are all mankind,
 If truth is in Stertinius, from whose speech
@@ -2080,7 +1812,6 @@ He in the judgment of Chrysippus' school
 And the whole porch is tabled as a fool.
 Monarchs and people, every rank and age,
 That sweeping clause includes,--except the sage.
-
 "Now listen while I show you, how the rest
 Who call you madman, are themselves possessed.
 Just as in woods, when travellers step aside
@@ -2101,7 +1832,6 @@ They'll hear no more than drunken Fufius, he
 Who slept the part of queen Ilione,
 While Catienus, shouting in his ear,
 Roared like a Stentor, 'Hearken, mother dear!'
-
 "Well, now, I'll prove the mass of humankind
 Have judgments just as jaundiced, just as blind.
 That Damasippus shows himself insane
@@ -2122,14 +1852,12 @@ If prudence in affairs denotes men sane
 And bungling argues a disordered brain,
 The man who lends the cash is far more fond
 Than you, who at his bidding sign the bond.
-
 "Now give attention and your gowns refold,
 Who thirst for fame, grow yellow after gold,
 Victims to luxury, superstition blind,
 Or other ailment natural to the mind:
 Come close to me and listen, while I teach
 That you're a pack of madmen, all and each.
-
 "Of all the hellebore that nature breeds,
 The largest share by far the miser needs:
 In fact, I know not but Anticyra's juice
@@ -2164,7 +1892,6 @@ Bade the stout slaves who bore his treasure throw
 Their load away, because it made them slow.
 Which was more mad? Excuse me: 'twill not do
 To shut one question up by opening two.
-
 "If one buys fiddles, hoards them up when bought,
 Though music's study ne'er engaged his thought,
 One lasts and awls, unversed in cobbler's craft,
@@ -2185,7 +1912,6 @@ While in his chest rich coverlets, the prey
 Of moth and canker, moulder and decay,
 Few men can see much madness in his whim,
 Because the mass of mortals ail like him.
-
 "O heaven-abandoned wretch! is all this care
 To save your stores for some degenerate heir,
 A son, or e'en a freedman, who will pour
@@ -2214,7 +1940,6 @@ No stroke this madman at Electra aims
 Or Pylades: he only calls them names,
 Fury or other monster, in the style
 Which people use when stirred by tragic bile.
-
 "Opimius, who, with gold and silver store
 Lodged in his coffers, ne'ertheless was poor
 (The man would drink from earthen nipperkin
@@ -2251,7 +1976,6 @@ You're headlong and ambitious: take a trip
 To Madman's Island by the next swift ship.
 For where's the difference, down the rabble's throat
 To pour your gold, or never spend a groat?
-
 Servius Oppidius, so the story runs,
 Rich for his time, bequeathed to his two sons
 Two good-sized farms, and calling to his bed
@@ -2276,7 +2000,6 @@ You, that in public you may strut, or stand
 All bronze, when stripped of money, stripped of land;
 You, that Agrippa's plaudits you may win,
 A sneaking fox in a brave lion's skin?'
-
 "What moves you, Agamemnon, thus to fling
 Great Ajax to the dogs? 'I am a king.'
 And I a subject: therefore I forbear
@@ -2307,7 +2030,6 @@ Nor e'en Ulysses: yet you call him crazed.
 To gain our fleet free passage o'er the flood.'
 Blood! ay, your own, you madman. 'Nay, not so:
 My own, I grant it: but a madman's, no.'
-
 "He that sees things amiss, his mind distraught
 By guilty deeds, a madman will be thought;
 And, so the path of reason once be missed,
@@ -2330,7 +2052,6 @@ No; when a man's a fool, he's then insane:
 The man that's guilty, he's a maniac plain:
 The dupe of bubble glory, war's grim queen
 Has dinned away his senses, clear and clean.
-
 "Cassius and luxury! hunt that game with me;
 For spendthrifts are insane, the world shall see.
 Soon as the youngster had received at last
@@ -2350,19 +2071,16 @@ And I do nought; I don't deserve this gold:
 Here, take it; you a hundred, you as much,
 But you, the spokesman, thrice that sum shall
 touch.'
-
 "AEsopus' son took from his lady dear
 A splendid pearl that glittered in her ear,
 Then melted it in vinegar, and quaffed
 (Such was his boast) a thousand at a draught:
 How say you? had the act been more insane
 To fling it in a river or a drain?
-
 "Arrius' two sons, twin brothers, of a piece
 In vice, perverseness, folly, and caprice,
 Would lunch off nightingales: well, what's their mark?
 Shall it be chalk or charcoal, white or dark?
-
 "To ride a stick, to build a paper house,
 Play odd and even, harness mouse and mouse,
 If a grown man professed to find delight
@@ -2377,8 +2095,6 @@ Take off the signs and trappings of disease,
 Your leg-bands, tippets, furs, and muffatees,
 As he slipped off his chaplets, when the word
 Of sober wisdom all his being stirred?
-
-
 "Give a cross child an apple: 'Take it, pet:'
 He sulks and will not: hold it back, he'll fret.
 Just so the shut-out lover, who debates
@@ -2399,7 +2115,6 @@ For ever heaving, like a sea in storm,
 And taking every hour some different form.
 You think to fix it? why, the job's as bad
 As if you tried by reason to be mad.'
-
 "When you pick apple-pips, and try to hit
 The ceiling with them, are you sound of wit?
 "When with your withered lips you bill and coo,
@@ -2412,7 +2127,6 @@ Or would you call him criminal instead,
 And stigmatize his heart to save his head,
 Following the common fallacy, which founds
 A different meaning upon different sounds?
-
 "There was an aged freedman, who would run
 From shrine to shrine at rising of the sun,
 Sober and purified for prayer, and cry
@@ -2423,7 +2137,6 @@ Why, that his master, if not bent to plead
 Before a court, could scarce have guaranteed.
 Him and all such Chrysippus would assign
 To mad Menenius' most prolific line.
-
 "'Almighty Jove, who giv'st and tak'st away
 The pains we mortals suffer, hear me pray!'
 (So cries the mother of a child whose cold,
@@ -2434,23 +2147,18 @@ So if, by chance or treatment, the attack
 Should pass away, the wretch will bring it back,
 And give the child his death: 'tis madness clear;
 But what produced it? superstitious fear."
-
 Such were the arms Stertinius, next in sense
 To the seven sages, gave me for defence.
 Now he that calls me mad gets paid in kind,
 And told to feel the pigtail stuck behind.
-
 H. Good Stoic, may you mend your loss, and sell
 All your enormous bargains twice as well.
 But pray, since folly's various, just explain
 What type is mine? for I believe I'm sane.
-
 D. What? is Agave conscious that she's mad
 When she holds up the head of her poor lad?
-
 H. I own I'm foolish--truth must have her will--
 Nay, mad: but tell me, what's my form of ill?
-
 D. I'll tell you. First, you build, which means you try
 To ape great men, yourself some two feet high,
 And yet you laugh to see poor Turbo fight,
@@ -2470,49 +2178,25 @@ Your verses in, like oil to feed the glow.
 If ever poet yet was sane, no doubt,
 You may put in your plea, but not without.
 Your dreadful temper--
-
 H. Hold.
-
 D. The sums you spend
 Beyond your income--
-
 H. Mind yourself, my friend.
-
 D. And then, those thousand flames no power can cool.
-
 H. O mighty senior, spare a junior fool!
-
-
-
-
-SATIRE IV.
-
-UNDE ET QUO CATIUS?
-
-HORACE. CATIUS.
-
-
-HORACE.
-
 Ho, Catius! whence and whither?
-
 C. Not to-day:
 I cannot stop to talk: I must away
 To set down words of wisdom, which surpass
 The Athenian sage and deep Pythagoras.
-
 H. Faith, I did ill at such an awkward time
 To cross your path; but you'll forgive the crime:
 If you've lost aught, you'll get it back ere long
 By nature or by art; in both you're strong.
-
 C. Ah, 'twas a task to keep the whole in mind,
 For style and matter were alike refined.
-
 H. But who was lecturer? tell me whence he came.
-
 C. I give the precepts, but suppress the name.
-
 The oblong eggs by connoisseurs are placed
 Above the round for whiteness and for taste:
 Procure them for your table without fail,
@@ -2529,7 +2213,6 @@ He that would pass through summer without hurt
 Should eat a plate of mulberries for dessert,
 But mind to pluck them in the morning hour,
 Before the mid-day sun exerts its power.
-
 Aufidius used Falernian, rich and strong,
 To mingle with his honey: he did wrong:
 For when the veins are empty, 'tis not well
@@ -2546,14 +2229,12 @@ Baiae is good, but to the Lucrine yields;
 Circeii ranks as best for oyster-fields;
 Misenum's cape with urchins is supplied;
 Flat bivalve mussels are Tarentum's pride.
-
 Let no man fancy he knows how to dine
 Till he has learnt how taste and taste combine.
 'Tis not enough to sweep your fish away
 From the dear stall, and chuckle as you pay,
 Not knowing which want sauce, and which when broiled
 Will tempt a guest whose appetite is spoiled.
-
 The man who hates wild boars that eat like tame
 Gets his from Umbria, genuine mast-fed game:
 For the Laurentian beast, that makes its fat
@@ -2566,7 +2247,6 @@ Fishes and fowls, their nature and their age,
 Have oft employed the attention of the sage;
 But how to solve the problem ne'er was known
 By mortal palate previous to my own.
-
 There are whose whole invention is confined
 To novel sweets: that shows a narrow mind;
 As if you wished your wines to be first-rate,
@@ -2587,7 +2267,6 @@ The appetite, disordered and distressed,
 Wants ham and sausage to restore its zest;
 Nay, craves for peppered viands and what not,
 Fetched from some greasy cookshop steaming hot.
-
 There are two kinds of sauce; and I may say
 That each is worth attention in its way.
 Sweet oil's the staple of the first; but wine
@@ -2604,7 +2283,6 @@ For drying, Albans are your safer fruit.
 Served grapes with apples, lees with caviare,
 White pepper with black salt, and had them set
 Before each diner as his private whet.
-
 'Tis gross to squander hundreds upon fish,
 Yet pen them cooked within too small a dish.
 So too it turns the stomach, if there sticks
@@ -2619,7 +2297,6 @@ Forgetting, sure, the less such things entail
 Of care and cost, the more the shame to fail,
 Worse than fall short in luxuries, which one sees
 At no man's table but your rich grandees'?
-
 H. Catius, I beg, by all that binds a friend,
 Let me go with you, when you next attend;
 For though you've every detail at command,
@@ -2630,34 +2307,18 @@ So privileged as you are: for me, I feel
 An inborn thirst, a more than common zeal,
 Up to the distant river-head to mount,
 And quaff these precious waters at their fount.
-
-
-
-
-SATIRE V.
-
-HOC QUOQUE, TIRESIA.
-
-ULYSSES. TIRESIAS.
-
-
-ULYSSES
-
 Now, good Tiresias, add one favour more
 To those your kindness has vouchsafed before,
 And tell me by what ways I may redeem
 My broken fortunes--You're amused, 'twould seem.
-
 T. You get safe home, you see your native isle,
 And yet it craves for more, that heart of guile!
-
 U. O source of truth unerring, you're aware,
 I reach my home impoverished and stripped bare
 (So you predict), and find nor bit nor sup,
 My flocks all slaughtered and my wines drunk up:
 Yet family and worth, without the staff
 Of wealth to lean on, are the veriest draff.
-
 T. Since, in plain terms, 'tis poverty you fear,
 And riches are your aim, attend and hear.
 Suppose a thrush or other dainty placed
@@ -2672,18 +2333,14 @@ Be he a branded slave, forsworn, distained
 With brother's blood, in short, a rogue ingrained,
 Yet walk, if asked, beside him when you meet,
 And (pray mind this) between him and the street.
-
 U. What, give a slave the wall? in happier days,
 At Troy, for instance, these were not my ways:
 Then with the best I matched myself.
-
 T. Indeed? I'm sorry: then you'll always be in need.
-
 U. Well, well, my heart shall bear it; 'tis inured
 To dire adventure, and has worse endured.
 Go on, most worthy augur, and unfold
 The arts whereby to pile up heaps of gold.
-
 T. Well, I have told you, and I tell you still:
 Lay steady siege to a rich dotard's will;
 Nor, should a fish or two gnaw round the bait,
@@ -2730,18 +2387,14 @@ A constable turned notary oft will cheat
 Your raven of the cheese he thought to eat;
 And sly Nasica will become, you'll see,
 Coranus' joke, but not his legatee.
-
 U. What? are you mad, or do you mean to balk
 My thirst for knowledge by this riddling talk?
-
 T. O Laertiades! what I foreshow
 To mortals, either will take place or no;
 For 'tis the voice of Phoebus from his shrine
 That speaks in me and makes my words divine.
-
 U. Forgive my vehemence, and kindly state
 The meaning of the fable you narrate.
-
 T. When he, the Parthian's dread, whose blood comes down
 E'en from Aeneas' veins, shall win renown
 By land and sea, a marriage shall betide
@@ -2754,14 +2407,12 @@ At length Nasica, having long demurred,
 Takes it and reads it through without a word;
 And when the whole is done, perceives in fine
 That he and his are simply left--to whine.
-
 Suppose some freedman, or some crafty dame
 Rules an old driveller, you may join their game:
 Say all that's good of them to him, that they,
 When your back's turned, the like of you may say
 This plan has merits; but 'tis better far
 To take the fort itself, and end the war.
-
 A shrewd old crone at Thebes (the fact occurred
 When I was old) was thus by will interred:
 Her corpse was oiled all over, and her heir
@@ -2798,15 +2449,6 @@ A house or lands he'd purchase that belong
 To your estate: they're his for an old song.
 But Proserpine commands me; I must fly;
 Her will is law; I wish you health; good-bye.
-
-
-
-
-SATIRE VI.
-
-HOC ERAT IN VOTIS.
-
-
 This used to be my wish: a bit of land,
 A house and garden with a spring at hand,
 And just a little wood. The gods have crowned
@@ -2825,7 +2467,6 @@ If what I have contents me, hear my prayer:
 Still let me feel thy tutelary care,
 And let my sheep, my pastures, this and that,
 My all, in fact, (except my brains,) be fat.
-
 Now, lodged in my hill-castle, can I choose
 Companion fitter than my homely Muse?
 Here no town duties vex, no plague-winds blow,
@@ -2952,30 +2593,13 @@ Then says the rustic: "It may do for you,
 This life, but I don't like it; so adieu:
 Give me my hole, secure from all alarms,
 I'll prove that tares and vetches still have charms."
-
-
-
-
-SATIRE VII.
-
-JAMDUDUM AUSCULTO.
-
-DAVUS. HORACE.
-
-
-DAVUS.
-
 I've listened long, and fain a word would say,
 But, as a slave, I dare not.
-
 H.                                 Davus, eh?
-
 D. Yes, Davus, true and faithful, good enough,
 But not too good to be of lasting stuff.
-
 H. Well, take December's licence: I'll not balk
 Our fathers' good intentions: have your talk.
-
 D. Some men there are take pleasure in what's ill
 Persistently, and do it with a will:
 The greater part keep wavering to and fro,
@@ -2996,14 +2620,10 @@ By hiring some one at so much per day
 To shake the dicebox while he sat at play;
 Consistent in his faults, so less a goose
 Than your poor wretch who shifts from fast to loose.
-
 H. For whom d'ye mean this twaddle, tell me now,
 You hang-dog?
-
 D.             Why, for you.
-
 H.                           Good varlet, how?
-
 D. You praise the life that people lived of old,
 When Rome was frugal and the age was gold,
 And yet, if on a sudden forced to dwell
@@ -3038,7 +2658,6 @@ Nay, nay, don't scare me with that threatening eye:
 Unclench your fist and lay your anger by,
 While I retail the lessons which of late
 The porter taught me at Crispinus' gate.
-
 You're no adulterer:--nor a thief am I,
 When I see plate and wisely pass it by:
 But take away the danger, in a trice
@@ -3053,7 +2672,6 @@ An understrapper, say; the name will do;
 Or fellow-servant: such am I to you:
 For you, whose work I do, do others' work,
 And move as dolls move when their wires we jerk.
-
 Who then is free? The sage, who keeps in check
 His baser self, who lives at his own beck,
 Whom neither poverty nor dungeon drear
@@ -3070,7 +2688,6 @@ Then calls you back: break the vile bondage; cry
 "I'm free, I'm free."--Alas, you cannot. Why?
 There's one within you, armed with spur and stick,
 Who turns and drives you, howsoe'er you kick.
-
 On one of Pausias' masterworks you pore,
 As you were crazy: what does Davus more,
 Standing agape and straining knees and eyes
@@ -3087,52 +2704,29 @@ But when you let rich tit-bits pass your lip
 That cost no trifle, do you 'scape the whip?
 Indulging to excess, you loathe your meat,
 And the bloat trunk betrays the gouty feet.
-
 The lad's a rogue who goes by night to chop
 A stolen flesh-brush at a fruiterer's shop:
 The man who sells a farm to buy good fare,
 Is there no slavery to the stomach there?
-
 Then too you cannot spend an hour alone;
 No company's more hateful than your own;
 You dodge and give yourself the slip; you seek
 In bed or in your cups from care to sneak:
 In vain: the black dog follows you, and hangs
 Close on your flying skirts with hungry fangs.
-
 H. Where's there a stone?
-
 D.                 Who wants it?
-
 H.                                 Or a pike?
-
 D. Mere raving this, or verse-making belike.
-
 H. Unless you're off at once, you'll join the eight
 Who do their digging down at my estate.
-
-
-
-
-SATIRE VIII.
-
-UT NASIDIENI.
-
-HORACE. FUNDANIUS.
-
-
-HORACE.
-
 That rich Nasidienus--let me hear
 How yesterday you relished his good cheer:
 For when I tried to get you, I was told
 You'd been there since the day was six hours old.
-
 F. O, 'twas the finest treat.
-
 H.                         Inform me, pray,
 What first was served your hunger to allay.
-
 F. First a Lucanian boar; 'twas captured wild
 (So the host told us) when the wind was mild;
 Around it, turnips, lettuce, radishes,
@@ -3147,10 +2741,8 @@ Came in with Caecuban, and, close behind,
 Alcon with Chian, which had ne'er been brined.
 Then said our host: "If Alban you'd prefer,
 Maecenas, or Falern, we have them, Sir."
-
 H. What sorry riches! but I fail to glean
 Who else was present at so rare a scene.
-
 F. Myself at top, then Viscus, and below
 Was Varius: after us came Balatro,
 Vibidius also, present at the treat
@@ -3181,7 +2773,6 @@ On go Vibidius and his mate, and tilt
 Whole flagons into cups Allifae-built:
 We follow suit: the host's two friends alone
 Forbore to treat the wine-flask as their own.
-
 A lamprey now appears, a sprawling fish,
 With shrimps about it swimming in the dish.
 Whereon our host remarks: "This fish was caught
@@ -3196,7 +2787,6 @@ Rockets and elecampanes with this mess
 To boil, is my invention, I profess:
 To put sea-urchins in, unwashed as caught,
 'Stead of made pickle, was Curtillus' thought."
-
 Meantime the curtains o'er the table spread
 Came tumbling in a heap from overhead,
 Dragging withal black dust in whirlwinds, more
@@ -3227,10 +2817,8 @@ Rufus returned, "Heaven speed things to your mind!
 Sure ne'er was guest so friendly and so kind;"
 Then takes his slippers. Head to head draws near,
 And each man's lips are at his neighbour's ear.
-
 H. 'Tis better than a play: but please report
 What further things occurred to make you sport.
-
 F. Well, while Vibidius takes the slaves to task,
 Enquiring if the tumble broke the flask,
 And Balatro keeps starting some pretence
@@ -3251,20 +2839,7 @@ At last the feeder and the food we quit,
 Taking revenge by tasting ne'er a bit,
 As if Canidia's mouth had breathed an air
 Of viperous poison on the whole affair.
-
-
-
-
-THE EPISTLES.
-
-BOOK I.
-
-
 I. To Maecenas.
-
-PRIMA DICTE MIHI.
-
-
 Theme of my earliest Muse in days long past,
 Theme that shall be hereafter of my last,
 Why summon back, Maecenas, to the list
@@ -3283,7 +2858,6 @@ So now I bid my idle songs adieu,
 And turn my thoughts to what is right and true;
 I search and search, and when I find, I lay
 The wisdom up against a rainy day.
-
 But what's my sect? you ask me; I must be
 A member sure of some fraternity:
 Why no; I've taken no man's shilling; none
@@ -3294,7 +2868,6 @@ Now, all alert, I cope with life's rough main,
 A loyal follower in true virtue's train:
 Anon, to Aristippus' camp I flit,
 And say, the world's for me, not I for it.
-
 Long as the night to him whose love is gone,
 Long as the day to slaves that must work on,
 Slow as the year to the impatient ward
@@ -3311,7 +2884,6 @@ You cannot hope for Glyco's stalwart frame,
 Yet you'd avoid the gout that makes you lame.
 Some point of moral progress each may gain,
 Though to aspire beyond it should prove vain.
-
 Say, is your bosom fevered with the fire
 Of sordid avarice or unchecked desire?
 Know, there are spells will help you to allay
@@ -3322,7 +2894,6 @@ Run through the list of faults; whate'er you be,
 Coward, pickthank, spitfire, drunkard, debauchee,
 Submit to culture patiently, you'll find
 Her charms can humanize the rudest mind.
-
 To fly from vice is virtue: to be free
 From foolishness is wisdom's first degree.
 Think of some ill you feel a real disgrace,
@@ -3337,7 +2908,6 @@ Take some provincial pugilist, who gains
 A paltry cross-way prize for all his pains;
 Place on his brow Olympia's chaplet, earned
 Without a struggle, would the gift be spurned?
-
 Gold counts for more than silver, all men hold:
 Why doubt that virtue counts for more than gold?
 "Seek money first, good friends, and virtue next,"
@@ -3352,7 +2922,6 @@ But mark those children at their play; they sing,
 "Deal fairly, youngster, and we'll crown you king."
 Be this your wall of brass, your coat of mail,
 A guileless heart, a cheek no crime turns pale.
-
 "Which is the better teacher, tell me, pray,
 The law of Roscius, or the children's lay
 That crowns fair dealing, by Camillus trolled,
@@ -3363,7 +2932,6 @@ That from a nearer distance you may gaze
 At honest Pupius' all too moving plays;
 Or that which bids you meet with dauntless brow,
 The frowns of Fortune, aye, and shows you how?
-
 Suppose the world of Rome accosts me thus:
 "You walk where we walk; why not think with us,
 Be ours for better or for worse, pursue
@@ -3388,14 +2956,12 @@ The nuptial bed is in his hall; he swears
 None but a single life is free from cares:
 Is he a bachelor? all human bliss,
 He vows, is centred in a wedded kiss.
-
 How shall I hold this Proteus in my gripe?
 How fix him down in one enduring type?
 Turn to the poor: their megrims are as strange;
 Bath, cockloft, barber, eating-house, they change;
 They hire a boat; your born aristocrat
 Is not more squeamish, tossing in his yacht.
-
 If, when we meet, I'm cropped in awkward style
 By some uneven barber, then you smile;
 You smile, if, as it haps, my gown's askew,
@@ -3410,27 +2976,16 @@ You smile not; 'tis an every-day affair;
 I need no doctor's, no, nor keeper's care:
 Yet you're my patron, and would blush to fail
 In taking notice of an ill-pared nail.
-
 So, to sum up: the sage is half divine,
 Rich, free, great, handsome, king of kings, in fine;
 A miracle of health from toe to crown,
 Mind, heart, and head, save when his nose runs down.
-
-
-
-
-II. TO LOLLIUS.
-
-TROJANI BELLI SCRIPTOREM.
-
-
 While you at Rome, dear Lollius, train your tongue,
 I at Praeneste read what Homer sung:
 What's good, what's bad, what helps, what hurts, he shows
 Better in verse than Crantor does in prose.
 The reason why I think so, if you'll spare
 A moment from your business, I'll declare.
-
 The tale that tells how Greece and Asia strove
 In tedious battle all for Paris' love,
 Talks of the passions that excite the brain
@@ -3447,7 +3002,6 @@ Let kings go mad and blunder as they may,
 The people in the end are sure to pay.
 Strife, treachery, crime, lust, rage, 'tis error all,
 One mass of faults within, without the wall.
-
 Turn to the second tale: Ulysses shows
 How worth and wisdom triumph over woes:
 He, having conquered Troy, with sharp shrewd ken
@@ -3468,7 +3022,6 @@ Like to the suitors, or Alcinous' clan,
 Who spent vast pains upon the husk of man,
 Slept on till mid-day, and enticed their care
 To rest by listening to a favourite air.
-
 Robbers get up by night, men's throats to knive:
 Will you not wake to keep yourself alive?
 Well, if you will not stir when sound, at last,
@@ -3499,7 +3052,6 @@ Who fears or hankers, land and country-seat
 Soothe just as much as tickling gouty feet,
 As pictures charm an eye inflamed and blear,
 As music gratifies an ulcered ear.
-
 Unless the vessel whence we drink is pure,
 Whate'er is poured therein turns foul, be sure.
 Make light of pleasure: pleasure bought with pain
@@ -3512,7 +3064,6 @@ Who governs not his wrath will wish undone
 The deeds he did "when the rash mood was on."
 Wrath is a short-lived madness: curb and bit
 Your mind: 'twill rule you, if you rule not it
-
 While the colt's mouth is soft, the trainer's skill
 Moulds it to follow at the rider's will.
 Soon as the whelp can bay the deer's stuffed skin,
@@ -3521,20 +3072,10 @@ Now, while your system's plastic, ope each pore;
 Now seek wise friends, and drink in all their lore:
 The smell that's first imparted will adhere
 To seasoned jars through many an after year.
-
 But if you lag behind or head me far,
 Don't think I mean to mend my pace, or mar;
 In my own jog-trot fashion on I go,
 Not vying with the swift, not waiting for the slow.
-
-
-
-
-III. TO JULIUS FLORUS.
-
-JULI FLORE.
-
-
 Florus, I wish to learn, but don't know how,
 Where Claudius and his troops are quartered now.
 Say, is it Thrace and Haemus' winter snows,
@@ -3561,7 +3102,6 @@ Lest when some day the feathered tribe resumes
 (You know the tale) the appropriated plumes,
 Folks laugh to see him act the jackdaw's part,
 Denuded of the dress that looked so smart.
-
 And you, what aims are yours? what thymy ground
 Allures the bee to hover round and round?
 Not small your wit, nor rugged and unkempt;
@@ -3574,7 +3114,6 @@ Then might you lean on heavenly wisdom's hand
 And use her guidance to a loftier land.
 Be this our task, whate'er our station, who
 To country and to self would fain be true.
-
 This too concerns me: does Munatius hold
 In Florus' heart the place he held of old,
 Or is that ugly breach in your good will
@@ -3585,15 +3124,6 @@ Where'er you bide, 'twere shame to break the ties
 Which made you once sworn brethren and allies:
 So, when your safe return shall come to pass,
 I've got a votive heifer out at grass.
-
-
-
-
-IV. TO ALBIUS TIBULLUS
-
-ALBI, NOSTRORUM.
-
-
 Albius, kind critic of my satires, say,
 What do you down at Pedum far away?
 Are you composing what will dim the shine
@@ -3606,23 +3136,12 @@ What could fond nurse wish more for her sweet pet
 Than friends, good looks, and health without a let,
 A shrewd clear head, a tongue to speak his mind,
 A seemly household, and a purse well-lined?
-
 Let hopes and sorrows, fears and angers be,
 And think each day that dawns the last you'll see;
 For so the hour that greets you unforeseen
 Will bring with it enjoyment twice as keen.
-
 Ask you of me? you'll laugh to find me grown
 A hog of Epicurus, full twelve stone.
-
-
-
-
-V. TO TORQUATUS.
-
-SI POTES ARCHIACIS.
-
-
 If you can lie, Torquatus, when you take
 Your meal, upon a couch of Archias' make,
 And sup off potherbs, gathered as they come,
@@ -3639,7 +3158,6 @@ To-morrow's Caesar's birthday, which we keep
 By taking, to begin with, extra sleep;
 So, if with pleasant converse we prolong
 This summer night, we scarcely shall do wrong.
-
 Why should the Gods have put me at my ease,
 If I mayn't use my fortune as I please?
 The man who stints and pinches for his heir
@@ -3652,7 +3170,6 @@ Takes burdens from the careworn, finds out parts
 In stupid folks, and teaches unknown arts.
 What tongue hangs fire when quickened by the bowl?
 What wretch so poor but wine expands his soul?
-
 Meanwhile, I'm bound in duty, nothing both,
 To see that nought in coverlet or cloth
 May give you cause to sniff, that dish and cup
@@ -3665,15 +3182,6 @@ And each might bring a friend or two as well,
 But then, you know, close packing's apt to smell.
 Come, name your number, and elude the guard
 Your client keeps by slipping through the yard.
-
-
-
-
-VI. TO NUMICIUS.
-
-NIL ADMIRARI.
-
-
 Not to admire, Numicius, is the best,
 The only way, to make and keep men blest.
 The sun, the stars, the seasons of the year
@@ -3694,7 +3202,6 @@ Where things exceed your hope or fall below,
 You stare, look blank, grow numb from top to toe.
 E'en virtue's self, if followed to excess,
 Turns right to wrong, good sense to foolishness.
-
 Go now, my friend, drink in with all your eyes
 Bronze, silver, marble, gems, and Tyrian dyes,
 Feel pride when speaking in the sight of Rome,
@@ -3709,7 +3216,6 @@ So when Agrippa's mall and Appius' way
 Have watched your well-known figure day by day,
 At length the summons comes, and you must go
 To Numa and to Ancus down below.
-
 Your side's in pain; a doctor hits the blot:
 You wish to live aright (and who does not?);
 If virtue holds the secret, don't defer;
@@ -3736,7 +3242,6 @@ That's a poor house where there's not much to spare
 Which masters never miss and servants wear.
 So, if 'tis wealth that makes and keeps us blest,
 Be first to start and last to drop the quest.
-
 If power and mob-applause be man's chief aims,
 Let's hire a slave to tell us people's names,
 To jog us on the side, and make us reach,
@@ -3745,7 +3250,6 @@ At risk of tumbling down, a hand to each:
 Just as he likes, he seats or ousts his man:"
 Observe their ages, have your greeting pat,
 And duly "brother" this, and "father" that.
-
 Say that the art to live's the art to sup,
 Go fishing, hunting, soon as sunlight's up,
 As did Gargilius, who at break of day
@@ -3758,21 +3262,10 @@ Lost to all self-respect, all sense of shame,
 Disfranchised freemen, Romans but in name,
 Like to Ulysses' crew, that worthless band,
 Who cared for pleasure more than fatherland.
-
 If, as Mimnermus tells you, life is flat
 With nought to love, devote yourself to that.
-
 Farewell: if you can mend these precepts, do:
 If not, what serves for me may serve for you.
-
-
-
-
-VII. TO MAECENAS.
-
-QUINQUE DIES TIBI POLLICITUS.
-
-
 Five days I told you at my farm I'd stay,
 And lo! the whole of August I'm away.
 Well, but, Maecenas, yon would have me live,
@@ -3791,7 +3284,6 @@ There keep the house and study at his ease,
 All huddled up together, nose and knees:
 With the first swallow, if you'll have him then,
 He'll come, dear friend, and visit you again.
-
 Not like the coarse Calabrian boor, who pressed
 His store of pears upon a sated guest,
 Have you bestowed your favours. "Eat them, pray."
@@ -3808,7 +3300,6 @@ A wise good man has ears for merit's claim,
 Yet does not reckon brass and gold the same.
 I also will "assume desert," and prove
 I value him whose bounty speaks his love.
-
 If you would keep me always, give me back
 My sturdy sides, my clustering locks of black,
 My pleasant voice and laugh, the tears I shed
@@ -3825,7 +3316,6 @@ Not mine to cram down guinea-fowls, and then
 Heap praises on the sleep of labouring men;
 Give me a country life and leave me free,
 I would not choose the wealth of Araby.
-
 I've called you Father, praised your royal grace
 Behind your back as well as to your face;
 You've owned I have a conscience: try me now
@@ -3840,7 +3330,6 @@ Small things become small folks: imperial Rome
 Is all too large, too bustling for a home;
 The empty heights of Tibur, or the bay
 Of soft Tarentum, more are in my way.
-
 Philip, the famous counsel, years ago,
 Was moving home at two, sedate and slow,
 Old, and fatigued with pleading at the bar,
@@ -3901,20 +3390,10 @@ You work too hard." "Nay, call me wretch," says he,
 "Good patron; 'tis the only name for me.
 So now, by all that's binding among men,
 I beg you, give me my old life again."
-
 He that finds out he's changed his lot for worse,
 Let him betimes the untoward choice reverse:
 For still, when all is said, the rule stands fast,
 That each man's shoe be made on his own last.
-
-
-
-
-VIII. TO CELSUS ALBINOVANUS.
-
-CELSO GAUDERE.
-
-
 Health to friend Celsus--so, good Muse, report--
 Who holds the pen in Nero's little court!
 If asked about me, say, I plan and plan,
@@ -3935,15 +3414,6 @@ If he says Well, first tell him you rejoice,
 Then add one little hint (but drop your voice),
 "As Celsus bears his fortune well or ill,
 So bear with Celsus his acquaintance will."
-
-
-
-
-IX. TO TIBERIUS CLAUDIUS NERO.
-
-SEPTIMIUS, CLAUDI.
-
-
 Septimius, Nero, seems to comprehend,
 As none else does, how you esteem your friend:
 For when he begs, nay, forces me, good man,
@@ -3966,15 +3436,6 @@ If then you praise the sacrifice I make
 In waiving modesty for friendship's sake,
 Admit him to your circle, when you've read
 These lines, and trust me for his heart and head.
-
-
-
-
-X. TO ARISTIUS FUSCUS.
-
-URBIS AMATOREM.
-
-
 To Fuscus, lover of the city, I
 Who love the country, wish prosperity:
 In this one thing unlike, in all beside
@@ -3987,7 +3448,6 @@ What would you more? once let me leave the things
 You praise so much, my life is like a king's:
 Like the priest's runaway, I cannot eat
 Your cakes, but pine for bread of wholesome wheat.
-
 Now say that it behoves us to adjust
 Our lives to nature (wisdom says we must):
 You want a site for building: can you find
@@ -4006,7 +3466,6 @@ Why, 'mid your Parian columns trees you train,
 And praise the house that fronts a wide domain.
 Drive Nature forth by force, she'll turn and rout
 The false refinements that would keep her out.
-
 The luckless wight who can't tell side by side
 A Tyrian fleece from one Aquinum-dyed,
 Is not more surely, keenly, made to smart
@@ -4017,7 +3476,6 @@ Regard a thing with wonder, with a wrench
 You'll give it up when bidden to retrench.
 Keep clear of courts: a homely life transcends
 The vaunted bliss of monarchs and their friends.
-
 The stag was wont to quarrel with the steed,
 Nor let him graze in common on the mead:
 The steed, who got the worst in each attack,
@@ -4030,25 +3488,14 @@ Will toil, a hopeless drudge, till life is spent,
 Because he'll never, never learn content.
 Means should, like shoes, be neither large nor small;
 Too wide, they trip us up, too strait, they gall.
-
 Then live contented, Fuscus, nor be slow
 To give a friendly rap to one you know,
 Whene'er you find me struggling to increase
 My neat sufficiency, and ne'er at peace.
 Gold will be slave or master: 'tis more fit
 That it be led by us than we by it.
-
 From tumble-down Vacuna's fane I write,
 Wanting but you to make me happy quite.
-
-
-
-
-XI. TO BULLATIUS.
-
-QUID TIBI VISA CHIOS?
-
-
 How like you Chios, good Bullatius? what
 Think you of Lesbos, that world-famous spot?
 What of the town of Samos, trim and neat,
@@ -4075,7 +3522,6 @@ If he gets cold, he lets his fancy rove
 In quest of bliss beyond a bath or stove:
 And you, though tossed just now by a stiff breeze,
 Don't therefore sell your vessel beyond seas.
-
 But what are Rhodes and Lesbos, and the rest,
 E'en let a traveller rate them at their best?
 No more the wants of healthy minds they meet
@@ -4086,7 +3532,6 @@ So, while health lasts, and Fortune keeps her smiles,
 We'll pay our devoir to your Grecian isles,
 Praise them on this condition--that we stay
 In our own land, a thousand miles away.
-
 Seize then each happy hour the gods dispense,
 Nor fix enjoyment for a twelvemonth hence.
 So may you testify with truth, where'er
@@ -4099,15 +3544,7 @@ What active inactivity is this,
 To go in ships and cars to search for bliss!
 No; what you seek, at Ulubrae you'll find,
 If to the quest you bring a balanced mind.
-
-
-
-
 XII. TO Iccitus.
-
-FRUCTIBUS AGRIPPAE.
-
-
 If, worthy Iccius, properly you use
 What you collect, Agrippa's revenues,
 You're well supplied: and Jove himself could tell
@@ -4116,7 +3553,6 @@ A truce to murmuring: with another's store
 To use at pleasure, who shall call you poor?
 Sides, stomach, feet, if these are all in health,
 What more could man procure with princely wealth?
-
 If, with a well-spread table, when you dine,
 To plain green food your eating you confine,
 Though some fine day a rich Pactolian rill
@@ -4135,29 +3571,18 @@ If law or impulse guides the starry sphere,
 What means the jarring harmony of things,
 Which after all is wise, and which the fool,
 Empedooles or the Stertinian school.
-
 But whether you're for taking fishes' life,
 Or against leeks and onions whet your knife,
 Let Grosphus be your friend, and should he plead
 For aught he wants, anticipate his need:
 He'll never outstep reason; and you know,
 When good men lack, the price of friends is low.
-
 But what of Rome? Agrippa has increased
 Her power in Spain, Tiberius in the East:
 Phraates, humbly bending on his knee,
 Submits himself to Csesar's sovereignty:
 While golden Plenty from her teeming horn
 Pours down on Italy abundant corn.
-
-
-
-
-XIII. TO VINIUS ASELLA.
-
-UT PROFICISCENTEM.
-
-
 As I have told you oft, deliver these,
 My sealed-up volumes, to Augustus, please,
 Friend Vinius, if he's well and in good trim,
@@ -4182,15 +3607,6 @@ Don't tell the world you've toiled and sweated hard
 In carrying lays which Caesar may regard:
 Push on, nor stop for questions. Now good bye;
 But pray don't trip, and smash the poetry.
-
-
-
-
-XIV. TO HIS BAILIFF.
-
-VILLICE SILVARUM.
-
-
 Good bailiff of my farm, that snug domain
 Which makes its master feel himself again,
 Which, though you sniff at it, could once support
@@ -4247,15 +3663,6 @@ While that sharp footboy envies you the use
 Of what my garden, flocks, and woods produce.
 The horse would plough, the ox would draw the car.
 No; do the work you know, and tarry where you are.
-
-
-
-
-XV. TO C. NUMONIUS VALA.
-
-QUAE SIT HIEMS VELIAE.
-
-
 If Velia and Salernum tell me, pray,
 The climate, and the natives, and the way:
 For Baiae now is lost on me, and I,
@@ -4290,7 +3697,6 @@ That so, when I return, my friends may see
 A sleek Phaeacian come to life in me:
 These things you needs must tell me, Vala dear,
 And I no less must act on what I hear.
-
 When Maenius, after nobly gobbling down
 His fortune, took to living on the town,
 A social beast of prey, with no fixed home,
@@ -4317,15 +3723,6 @@ Stout when not tempted; but suppose some day
 A special titbit comes into my way,
 I vow man's happiness is ne'er complete
 Till based on a substantial country seat.
-
-
-
-
-XVI. TO QUINCTIUS.
-
-NE PERCONTERIS.
-
-
 About my farm, dear Quinctius; you would know
 What sort of produce for its lord 'twill grow;
 Plough-land is it, or meadow-land, or soil
@@ -4348,7 +3745,6 @@ Not Thracian Hebrus colder or more pure,
 Of power the head's and stomach's ills to cure.
 This sweet retirement--nay, 'tis more than sweet--
 Ensures my health e'en in September's heat.
-
 And how fare you? if you deserve in truth
 The name men give you, you're a happy youth:
 Rome's thousand tongues, agreed at least in this,
@@ -4363,7 +3759,6 @@ Then, as he's eating, with his hands well greased,
 Shivering comes on, and proves the fool diseased.
 O, 'tis a false, false shame that would conceal
 From doctors' eyes the sores it cannot heal!
-
 Suppose a man should trumpet your success
 By land and sea, and make you this address:
 "May Jove, who watches with the same good-will
@@ -4388,7 +3783,6 @@ Am I to let their lying scandals bite
 And change my honest cheeks from red to white?
 Trust me, false praise has charms, false blame has pains
 But for vain hearts, long ears, and addled brains.
-
 Whom call we good? The man who keeps intact
 Each law, each right, each statute and each act,
 Whose arbitration terminates dispute,
@@ -4407,7 +3801,6 @@ Could you be sure that no one would detect,
 E'en sacrilege might tempt you, I suspect.
 Steal but one bean, although the loss be small,
 The crime's as great as if you stole them all.
-
 See your good man, who oft as he appears
 In court commands all judgments and all ears;
 Observe him now, when to the gods he pays
@@ -4417,7 +3810,6 @@ The rest is muttered all and unavowed--
 "Divine Laverna, grant me safe disguise;
 Let me seem just and upright in men's eyes;
 Shed night upon my crimes, a glamour o'er my lies."
-
 Say, what's a miser but a slave complete
 When he'd pick up a penny in the street?
 Fearing's a part of coveting, and he
@@ -4428,7 +3820,6 @@ Don't kill your captive: keep him: he will sell;
 Some things there are the creature will do well:
 He'll plough and feed the cattle, cross the deep
 And traffic, carry corn, make produce cheap.
-
 The wise and good, like Bacchus in the play,
 When Fortune threats, will have the nerve to say:
 "Great king of Thebes, what pains can you devise
@@ -4439,22 +3830,12 @@ My plate, my couches: do, if you think fit."
 "A god will come to free me when I call."
 Yes, he will die; 'tis that the bard intends;
 For when Death comes, the power of Fortune ends.
-
-
-
-
-XVII. TO SCAEVA.
-
-QUAMVIS, SCAEVA.
-
-
 Though instinct tells you, Scaeva, how to act,
 And makes you live among the great with tact,
 Yet hear a fellow-student; 'tis as though
 The blind should point you out the way to go,
 But still give heed, and see if I produce
 Aught that hereafter you may find of use.
-
 If rest is what you like, and sleep till eight,
 If dust and rumbling wheels are what you hate,
 If tavern-life disgusts you, then repair
@@ -4491,7 +3872,6 @@ Put purple on the other, not the touch
 Of toad or asp would startle him so much;
 Give back his blanket, or he'll die of chill:
 Yes, give it back; he's too absurd to kill.
-
 To win great fights, to lead before men's eyes
 A captive foe, is half way to the skies:
 Just so, to gain by honourable ways
@@ -4504,7 +3884,6 @@ One makes the journey; he's a man indeed!
 Which little frames and little souls think great,
 But stoop and bear it. Virtue's a mere name,
 Or 'tis high venture that achieves high aim.
-
 Those who have tact their poverty to mask
 Before their chief get more than those who ask;
 It makes, you see, a difference, if you take
@@ -4519,7 +3898,6 @@ What is all this but just the beggar's cry,
 "The loaf's in out; pray spare a slice for me."
 But if in peace the raven would have fed,
 He'd have had less of clawing, more of bread.
-
 A poor companion whom his friend takes down
 To fair Surrentum or Brundisium's town,
 If he makes much of cold, bad roads, and rain,
@@ -4534,15 +3912,6 @@ Though he invoke Osiris, and appeal
 With streaming tears to hearts that will not feel,
 "Lift up a poor lame man! I tell no lie;"
 "Treat foreigners to that," the neighbours cry.
-
-
-
-
-XVIII. TO LOLLIUS.
-
-SI BENE TE NOVI.
-
-
 You'd blush, good Lollius, if I judge you right,
 To mix the parts of friend and parasite.
 'Twixt parasite and friend a gulf is placed,
@@ -4571,7 +3940,6 @@ And what's the question that brings on these fits?--
 Does Dolichos or Castor make more hits?
 Or, starting for Brundisium, will it pay
 To take the Appian or Minucian way?
-
 Him that gives in to dice or lewd excess,
 Who apes rich folks in equipage and dress,
 Who meanly covets to increase his store,
@@ -4592,7 +3960,6 @@ He'll sleep through half the day, let business go
 For pleasure, teach a usurer's cash to grow;
 At last he'll turn a fencer, or will trudge
 Beside a cart, a market-gardener's drudge.
-
 Avoid all prying; what you're told, keep back,
 Though wine or anger put you on the rack;
 Nor puff your own, nor slight your friend's pursuits,
@@ -4625,14 +3992,12 @@ Your brother for your foe, your slaves for crews,
 And so you battle till you win or lose.
 Let your friend see you share his taste, he'll vow
 He never knew what sport was like till now.
-
 Well, to proceed; beware, if there is room
 For warning, what you mention, and to whom;
 Avoid a ceaseless questioner; he burns
 To tell the next he talks with what he learns;
 Wide ears retain no secrets, and you know
 You can't get back a word you once let go.
-
 Look round and round the man you recommend,
 For yours will be the shame should he offend.
 Sometimes we're duped; a protege dragged down
@@ -4643,7 +4008,6 @@ For when 'gainst him detraction forks her tongue,
 Be sure she'll treat you to the same ere long.
 No time for sleeping with a fire next door;
 Neglect such things, they only blaze the more.
-
 A patron's service is a strange career;
 The tiros love it, but the experts fear.
 You, while you're sailing on a prosperous tack,
@@ -4654,7 +4018,6 @@ Hard drinkers hate the sober, though he swear
 Those bouts at night are more than he can bear.
 Unknit your brow; the silent man is sure
 To pass for crabbed, the modest for obscure.
-
 Meantime, while thoughts like these your mind engage,
 Neglect not books nor converse with the sage;
 Ply them with questions; lead them on to tell
@@ -4665,7 +4028,6 @@ Is virtue raised by culture or self-sown?
 What soothes annoy, and makes your heart your own?
 Is peace procured by honours, pickings, gains,
 Or, sought in highways, is she found in lanes?
-
 For me, when freshened by my spring's pure cold
 Which makes my villagers look pinched and old,
 What prayers are mine? "O may I yet possess
@@ -4674,20 +4036,10 @@ Let the few years that Fate may grant me still
 Be all my own, not held at others' will!
 Let me have books, and stores for one year hence,
 Nor make my life one flutter of suspense!"
-
 But I forbear: sufficient 'tis to pray
 To Jove for what he gives and takes away:
 Grant life, grant fortune, for myself I'll find
 That best of blessings, a contented mind.
-
-
-
-
-XIX. TO MAECENAS.
-
-PRISCO SI CREDIS.
-
-
 If truth there be in old Cratinus' song,
 No verse, you know, Maecenas, can live long
 Writ by a water-drinker. Since the day
@@ -4702,7 +4054,6 @@ To sing of battles till his lips were soaked.
 Where bonds change hands, abstainers not at all;"
 So ran my edict: now the clan drinks hard,
 And vinous breath distinguishes a bard.
-
 What if a man appeared with gown cut short,
 Bare feet, grim visage, after Cato's sort?
 Would you respect him, hail him from henceforth
@@ -4713,7 +4064,6 @@ Faults are soon copied: should my colour fail,
 Our bards drink cummin, hoping to look pale.
 Mean, miserable apes! the coil you make
 Oft gives my heart, and oft my sides, an ache.
-
 Erect and free I walk the virgin sod,
 Too proud to tread the paths by others trod.
 The man who trusts himself, and dares step out,
@@ -4734,7 +4084,6 @@ Aye, and Alcaeus' name, before unheard,
 My Latian harp has made a household word.
 Well may the bard feel proud, whose pen supplies
 Unhackneyed strains to gentle hands and eyes.
-
 Ask you what makes the uncourteous reader laud
 My works at home, but run them down abroad?
 I stoop not, I, to catch the rabble's votes
@@ -4757,15 +4106,6 @@ Games oft have ugly issue: they beget
 Unhealthy competition, fume and fret:
 And fume and fret engender in their turn
 Battles that bleed, and enmities that burn.
-
-
-
-
-XX. TO HIS BOOK.
-
-VERTUMNUM JANUMQUE.
-
-
 To street and market-place I see you look
 With wistful longing, my adventurous book,
 That on the stalls for sale you may be seen,
@@ -4794,7 +4134,6 @@ Yet one thing more: your fate may be to teach
 In some suburban school the parts of speech,
 And, maundering over grammar day by day,
 Lisp, prattle, drawl, grow childish, and decay.
-
 Well, when in summer afternoons you see
 Men fain to listen, tell them about me:
 Tell them that, born a freedman's son, possessed
@@ -4809,27 +4148,12 @@ Last, if my age they ask you, let them know
 That I was forty-four not long ago,
 In the December of last year, the same
 That goes by Lepidus' and Lollius' name.
-
-
-
-
-THE EPISTLES
-
-BOOK II.
-
-
-I. TO AUGUSTUS.
-
-CUM TOT SUSTINEAS.
-
-
 Since you, great Caesar, singly wield the charge
 Of Rome's concerns, so manifold and large,
 With sword and shield the commonwealth protect,
 With morals grace it, and with laws correct,
 The bard, methinks, would do a public wrong
 Who, having gained your ear, should keep it long.
-
 Quirinus, Bacchus, and the Jove-born pair,
 Though now invoked with in cense, gifts, and prayer,
 While yet on earth they civilized their kind,
@@ -4844,7 +4168,6 @@ He that outshines his age is like a torch,
 Which, when it blazes high, is apt to scorch:
 Men hate him while he lives: at last, no doubt,
 He wins affection--when his light is out.
-
 You, while in life, are honoured as divine,
 And vows and oaths are taken at your shrine;
 So Rome pays homage to her man of men,
@@ -4859,7 +4182,6 @@ The treaties made 'twixt Gabii's kings and Home's,
 The pontiffs' books, the bards' forgotten tomes,
 They'll swear the Muses framed them every one
 In close divan on Alba's Helicon.
-
 But what's the argument? the bards of Greece
 And those of Rome must needs be of a piece;
 As there the oldest hold the foremost place,
@@ -4870,7 +4192,6 @@ Soon, flattered by such dexterous logic, we
 Shall think we've gained the summit of the tree;
 In art, in song our rivals we outdo,
 And, spite of all their oil, in wrestling too.
-
 Or is it said that poetry's like wine
 Which age, we know, will mellow and refine?
 Well, let me grant the parallel, and ask
@@ -4893,7 +4214,6 @@ While all forlorn the baffled critic stands,
 Fumbling a naked stump between his hands,
 Who looks for worth in registers, and knows
 No inspiration but what death bestows.
-
 Ennius, the stout and wise, in critic phrase
 The analogue of Homer in these days,
 Enjoys his ease, nor cares how he redeems
@@ -4910,7 +4230,6 @@ These are Rome's classics; these to see and hear
 She throngs the bursting playhouse year by year:
 'Tis these she musters, counts, reviews, displays,
 From Livius' time to our degenerate days.
-
 Sometimes the public sees like any lynx;
 Sometimes, if 'tis not blind, at least it blinks.
 If it extols the ancient sous of song
@@ -4929,7 +4248,6 @@ That here and there a thought not ill expressed,
 A verse well turned, should carry off the rest;
 Just as an unfair sample, set to catch
 The heedless customer, will sell the batch.
-
 I chafe to hear a poem called third-rate
 Not as ill written, but as written late;
 To hear your critics for their ancients claim
@@ -4954,7 +4272,6 @@ Had Greece but been as carping and as cold
 To new productions, what would now be old?
 What standard works would there have been, to come
 Beneath the public eye, the public thumb?
-
 When, having done with fighting, Greece began
 To care for trifles that refine the man,
 And, borne aloft on Fortune's full flood-tide,
@@ -4985,7 +4302,6 @@ None dares be pilot who ne'er steered a craft;
 No untrained nurse administers a draught;
 None but skilled workmen handle workmen's tools:
 But verses all men scribble, wise or fools.
-
 And yet this scribbling is a harmless craze,
 And boasts in fact some few redeeming traits.
 Avarice will scarce find lodging in a heart
@@ -5013,7 +4329,6 @@ Win for a war-worn land the smiles of peace,
 And crown the year with plentiful increase.
 Song checks the hand of Jove in act to smite;
 Song soothes the dwellers in abysmal night.
-
 Our rustic forefathers in days of yore,
 Robust though frugal, and content though poor,
 When, after harvest done, they sought repair
@@ -5036,7 +4351,6 @@ So laws were passed with penalties and pains
 To guard the lieges from abusive strains,
 And poets sang thenceforth in sweeter tones,
 Compelled to please by terror for their bones.
-
 Greece, conquered Greece, her conqueror subdued,
 And Rome grew polished, who till then was rude;
 The rough Saturnian measure had its day,
@@ -5051,7 +4365,6 @@ Nay, she essayed a venture of her own,
 And liked to think she'd caught the tragic tone;
 And so she has:--the afflatus comes on hot;
 But out, alas! she deems it shame to blot.
-
 'Tis thought that comedy, because its source
 Is common life, must be a thing of course,
 Whereas there's nought so difficult, because
@@ -5062,7 +4375,6 @@ How farcical his parasites! how loose
 And down at heel he wears his comic shoes!
 For, so he fills his pockets, nought he heeds
 Whether the play's a failure or succeeds.
-
 Drawn to the house in glory's car, the bard
 Is made by interest, by indifference marred:
 So slight the cause that prostrates or restores
@@ -5101,7 +4413,6 @@ Soon as the actor, thus bedizened, stands
 In public view, clap go ten thousand hands.
 "What said he?" Nought. "Then what's the attraction? "Why,
 That woollen mantle with the violet dye.
-
 But lest you think 'tis niggard praise I fling
 To bards who soar where I ne'er stretched a wing,
 That man I hold true master of his art
@@ -5109,7 +4420,6 @@ Who with fictitious woes can wring my heart,
 Can rouse me, soothe me, pierce me with the thrill
 Of vain alarm, and, as by magic skill,
 Bear me to Thebes, to Athens, where he will.
-
 Now turn to us shy mortals, who, instead
 Of being hissed and acted, would be read:
 We claim your favour, if with worthy gear
@@ -5130,7 +4440,6 @@ When we expect, so soon as you're informed
 That ours are hearts by would-be genius warmed,
 You'll send for us instanter, end our woes
 With a high hand, and make us all compose.
-
 Yet greatness, proved in war and peace divine,
 Had best be jealous who should keep its shrine:
 The sacred functions of the temple-ward
@@ -5149,7 +4458,6 @@ But take this mind, in paintings and in bronze
 So ready to distinguish geese from swans,
 And bid it judge of poetry, you'd swear
 "Twas born and nurtured in Boeotian air.
-
 Still, bards there are whose excellence commends
 The sovereign judgment that esteems them friends,
 Virgil and Varius; when your hand confers
@@ -5182,15 +4490,6 @@ The gift would make me blush, and I should dread
 To travel with my poet, all unread,
 Down to the street where spice and pepper's sold,
 And all the wares waste paper's used to fold.
-
-
-
-
-II. TO JULIUS FLORUS.
-
-FLORE BONO CLAROQUE.
-
-
 Dear Florus, justly high in the good grace
 Of noble Nero, let's suppose a case;
 A man accosts you with a slave for sale,
@@ -5217,7 +4516,6 @@ The man would get his money, I should say,
 Without a risk of having to repay.
 You make the bargain knowing of the flaw;
 'Twere mere vexatiousness to take the law.
-
 'Tis so with me; before you left, I said
 That correspondence was my rock ahead,
 Lest, when you found that ne'er an answer came
@@ -5226,7 +4524,6 @@ But where's my vantage if you won't agree
 To go by law, because the law's with me?
 Nay more, you say I'm faithless to my vow
 In sending you no verses. Listen now:
-
 A soldier of Lucullus's, they say,
 Worn out at night by marching all the day,
 Lay down to sleep, and, while at ease he snored,
@@ -5245,7 +4542,6 @@ That e'en might drive a coward to the breach:
 There's fame and money too inside those walls."
 "I'm not your man," returned the rustic wit:
 "He makes a hero who has lost his kit."
-
 At Rome I had my schooling, and was taught
 Achilles' wrath, and all the woes it brought;
 At classic Athens, where I went erelong,
@@ -5264,7 +4560,6 @@ But now, when times are altered, having got
 Enough, thank heaven, at least to boil my pot,
 I were the veriest madman if I chose
 To write a poem rather than to doze.
-
 Our years keep taking toll as they move on;
 My feasts, my frolics are already gone,
 And now, it seems, my verses must go too:
@@ -5277,7 +4572,6 @@ Three guests, I find, for different dishes call,
 And how's one host to satisfy them all?
 I bring your neighbour what he asks, you glower:
 Obliging you, I turn two stomachs sour.
-
 Think too of Rome: can I write verses here,
 Where there's so much to tease and interfere?
 One wants me for his surety; one, still worse,
@@ -5302,7 +4596,6 @@ Turns out as stupid as a stone, and shakes
 The crowd with laughter at his odd mistakes:
 Here, in this roaring, tossing, weltering sea,
 To tune sweet lyrics, is that work for me?
-
 Two brothers, counsellor and pleader, went
 Through life on terms of mutual compliment;
 That thought the other Gracchus, this supposed
@@ -5325,7 +4618,6 @@ Writing myself, I'm tortured to appease
 Those wasp-like creatures, our poetic bees:
 But when my pen's laid down, my sense restored,
 I rest from boring, rest from being bored.
-
 Bad poets are our jest: yet they delight,
 Just like their betters, in whate'er they write,
 Hug their fool's paradise, and if you're slack
@@ -5350,7 +4642,6 @@ Like an accomplished dancer, he will seem
 By turns a Satyr and a Polypheme;
 Yet all the while 'twill be a game of skill,
 Where sport means toil, and muscle bends to will.
-
 Yet, after all, I'd rather far be blind
 To my own faults, though patent to mankind,
 Nay, live in the belief that foul is fair,
@@ -5371,7 +4662,6 @@ Brought to himself again, "Good friends," quoth he,
 "Call you this saving? why, 'tis murdering me;
 Your stupid zeal has spoilt my golden days,
 And robbed me of a most delicious craze."
-
 Wise men betimes will bid adieu to toys,
 And give up idle games to idle boys;
 Not now to string the Latian lyre, but learn
@@ -5424,7 +4714,6 @@ What good are farmsteads, granaries, pasture-grounds
 That stretch long leagues beyond Calabria's bounds,
 If Death, unbribed by riches, mows down all
 With his unsparing sickle, great and small?
-
 "Gems, marbles, ivory, Tuscan statuettes,
 Pictures, gold plate, Gaetulian coverlets,
 There are who have not; one there is, I trow,
@@ -5447,14 +4736,12 @@ Mirth and excess, the frugal and the mean.
 To cease from getting, grudge no fair expense,
 And, like a schoolboy out on holiday,
 Take pleasure as it comes, and snatch one's play.
-
 "So 'twill not sink, what matter if my boat
 Be big or little? still I keep afloat,
 And voyage on contented, with the wind
 Not always contrary, nor always kind,
 In strength, wit, worth, rank, prestige, money-bags,
 Behind the first, yet not among the lags.
-
 "You're not a miser: has all other vice
 Departed in the train of avarice,
 Or do ambitious longings, angry fret,
@@ -5473,17 +4760,6 @@ You've frolicked, eaten, drunk to the content
 Of human appetite; 'tis time you went,
 Lest, when you've tippled freely, youth, that wears
 Its motley better, hustle you down stairs."
-
-
-
-
-THE ART OF POETRY.
-
-TO THE PISOS, FATHER AND SONS.
-
-HUMANO CAPITI.
-
-
 Suppose some painter, as a tour de force,
 Should couple head of man with neck of horse,
 Invest them both with feathers, 'stead of hair,
@@ -5502,7 +4778,6 @@ I own it; 'tis a fair excuse to plead;
 By turns we claim it, and by turns concede;
 But 'twill not screen the unnatural and absurd,
 Unions of lamb with tiger, snake with bird.
-
 When poets would be lofty, they commence
 With some gay patch of cheap magnificence:
 Of Dian's altar and her grove we read,
@@ -5517,7 +4792,6 @@ That crockery was a jar when you began;
 It ends a pitcher: you an artist, man!
 Make what you will, in short, so, when 'tis done,
 'Tis but consistent, homogeneous, one.
-
 Ye worthy trio! we poor sons of song
 Oft find 'tis fancied right that leads us wrong.
 I prove obscure in trying to be terse;
@@ -5534,7 +4808,6 @@ Yet he shall fail, because he lacks the soul
 To comprehend and reproduce the whole.
 I'd not be he; the blackest hair and eye
 Lose all their beauty with the nose awry.
-
 Good authors, take a brother bard's advice:
 Ponder your subject o'er not once nor twice,
 And oft and oft consider, if the weight
@@ -5545,7 +4818,6 @@ Would you be told how best your pearls to thread?
 Why, say just now what should just now be said,
 But put off other matter for to-day,
 To introduce it later by the way.
-
 In words again be cautious and select,
 And duly pick out this, and that reject.
 High praise and honour to the bard is due
@@ -5566,7 +4838,6 @@ When Ennius and old Cato boldly flung
 Their terms broadcast, and amplified our tongue?
 To utter words stamped current by the mill
 Has always been thought right and always will.
-
 When forests shed their foliage at the fall,
 The earliest born still drops the first of all:
 So fades the elder race of words, and so
@@ -5585,30 +4856,24 @@ Yes, words long faded may again revive,
 And words may fade now blooming and alive,
 If usage wills it so, to whom belongs
 The rule, the law, the government of tongues.
-
 For metres, Homer shows you how to write
 Heroic deeds and incidents of fight.
-
 Complaint was once the Elegiac's theme;
 From thence 'twas used to sing of love's young dream:
 But who that dainty measure first put out,
 Grammarians differ, and 'tis still in doubt.
-
 Archilochus, inspired by fiery rage,
 Called forth Iambics: now they tread the stage
 In buskin or in sock, conduct discourse,
 Lead action on, and awe the mob perforce.
-
 The glorious gods, the gods' heroic seed,
 The conquering boxer, the victorious steed,
 The joys of wine, the lover's fond desire,
 Such themes the Muse appropriates to the lyre.
-
 Why hail me poet, if I fail to seize
 The shades of style, its fixed proprieties?
 Why should false shame compel me to endure
 An ignorance which common pains would cure?
-
 A comic subject steadily declines
 To be related in high tragic lines.
 The Thyestean feast no less disdains
@@ -5623,7 +4888,6 @@ Peleus or Telephus, suppose him poor
 Or driven to exile, talks in tropes no more;
 His yard-long words desert him, when he tries
 To draw forth tears from sympathetic eyes.
-
 Mere grace is not enough: a play should thrill
 The hearer's soul, and move it at its will.
 Smiles are contagious; so are tears; to see
@@ -5641,7 +4905,6 @@ She kindles pleasure, bids resentment glow,
 Or bows the soul to earth in hopeless woe;
 Then, as the tide of feeling waxes strong,
 She vents it through her conduit-pipe, the tongue.
-
 Unless the speaker's words and fortune suit,
 All Rome will join to jeer him, horse and foot.
 Gods should not talk like heroes, nor again
@@ -5650,7 +4913,6 @@ Lady and nurse a different language crave,
 Sons of the soil and rovers o'er the wave;
 Assyrian, Colchian, Theban, Argive, each
 Has his own style, his proper cast of speech.
-
 In painting characters, adhere to fame,
 Or study keeping in the type you frame:
 If great Achilles figure in the scene,
@@ -5660,7 +4922,6 @@ And test his quarrel by the sword alone.
 Still be Medea all revenge and scorn,
 Ino still sad, Ixion still forsworn,
 Io a wanderer still, Orestes still forlorn.
-
 If you would be original, and seek
 To frame some character ne'er seen in Greek,
 See it be wrought on one consistent plan,
@@ -5679,7 +4940,6 @@ Nor, bound too closely to the Grecian Muse,
 Translate the words whose soul you should transfuse,
 Nor act the copyist's part, and work in chains
 Which, once put on by rashness, shame retains.
-
 Don't open like the cyclic, with a burst:
 "Troy's war and Priam's fate are here rehearsed."
 What's coming, pray, that thus he winds his horn?
@@ -5704,31 +4964,26 @@ And all this glamour, all this glorious dream,
 Truth blent with fiction in one motley scheme,
 He so contrives, that, when 'tis o'er, you see
 Beginning, middle, end alike agree.
-
 Now listen, dramatists, and I will tell
 What I expect, and all the world as well.
 If you would have your auditors to stay
 Till curtain-rise and plaudit end the play,
 Observe each age's temper, and impart
 To each the grace and finish of your art.
-
 Note first the boy who just knows how to talk
 And feels his feet beneath him in his walk:
 He likes his young companions, loves a game,
 Soon vexed, soon soothed, and not two hours the same.
-
 The beardless youth, at last from tutor freed,
 Loves playing-field and tennis, dog and steed:
 Pliant as wax to those who lead him wrong,
 But all impatience with a faithful tongue;
 Imprudent, lavish, hankering for the moon,
 He takes things up and lays them down as soon.
-
 His nature revolutionized, the man
 Makes friends and money when and how he can:
 Keen-eyed and cool, though on ambition bent,
 He shuns all acts of which he may repent.
-
 Grey hairs have many evils: without end
 The old man gathers what he dares not spend,
 While, as for action, do he what he will,
@@ -5737,14 +4992,12 @@ Inert, irresolute, his neck he cranes
 Into the future, grumbles, and complains,
 Extols his own young years with peevish praise,
 But rates and censures these degenerate days.
-
 Years, as they come, bring blessings in their train;
 Years, as they go, take blessings back again:
 Yet haste or chance may blink the obvious truth,
 Make youth discourse like age, and age like youth:
 Attention fixed on life alone can teach
 The traits and adjuncts which pertain to each.
-
 Sometimes an action on the stage is shown,
 Sometimes 'tis done elsewhere, and there made known.
 A thing when heard, remember, strikes less keen
@@ -5759,12 +5012,10 @@ Nor Philomel turn bird or Cadmus snake,
 With people looking on and wide awake.
 If scenes like these before my eyes be thrust,
 They shock belief and generate disgust.
-
 Would you your play should prosper and endure?
 Then let it have five acts, nor more nor fewer.
 Bring in no god save as a last resource,
 Nor make four speakers join in the discourse.
-
 An actor's part the chorus should sustain
 And do their best to get the plot in train:
 And whatsoe'er between the acts they chant
@@ -5775,14 +5026,12 @@ Praise the spare meal that pleases but not sates,
 Justice, and law, and peace with unbarred gates,
 Conceal all secrets, and the gods implore
 To crush the proud and elevate the poor.
-
 Not trumpet-tongued, as now, nor brass-belayed,
 The flute was used to lend the chorus aid:
 Simple and slight and moderately loud,
 It charmed the ears of not too large a crowd,
 Which, frugal, rustic, primitive, severe,
 Flocked in those early days to see and hear.
-
 Then, when the city gained increase of land,
 And wider walls its waxing greatness spanned,
 When the good Genius, frolicsome and gay,
@@ -5791,21 +5040,18 @@ Change spread to scenic measures: breadth, and ease,
 And freedom unrestrained were found in these:
 For what (said men) should jovial rustic, placed
 At random 'mid his betters, know of taste?
-
 So graceful dance went hand in hand with song,
 And robes of kingly splendour trailed along:
 So by the side of music words upgrew,
 And eloquence came rolling, prompt and new:
 Shrewd in things mundane, wise in things divine,
 Its voice was like the voice of Delphi's shrine.
-
 The aspiring bard who served the tragic muse,
 A paltry goat the summit of his views,
 Soon brought in Satyrs from the woods, and tried
 If grave and gay could nourish side by side,
 That the spectator, feasted to his fill,
 Noisy and drunk, might ne'ertheless sit still.
-
 Yet, though loud laugh and frolic jest commend
 Your Satyr folk, and mirth and morals blend,
 Let not your heroes doff their robes of red
@@ -5816,7 +5062,6 @@ Melpomene, when bidden to be gay,
 Like matron dancing on a festal day,
 Deals not in idle banter, nor consorts
 Without reserve with Satyrs and their sports.
-
 In plays like these I would not deal alone
 In words and phrases trite and too well known,
 Nor, stooping from the tragic height, drop down
@@ -5831,7 +5076,6 @@ Then, having strained and struggled, should concede
 To do the feat were difficult indeed.
 So much may order and arrangement do
 To make the cheap seem choice, the threadbare new.
-
 Your rustic Fauns, methinks, should have a care
 Lest people deem them bred in city air;
 Should shun the cant of exquisites, and shun
@@ -5840,7 +5084,6 @@ For those who have a father or a horse
 Or an estate will take offence of course,
 Nor think they're bound in duty to admire
 What gratifies the vetch-and-chestnut-buyer
-
 The Iambic foot is briefly thus defined:
 Two syllables, a short with long behind:
 Repeat it six times o'er, so quick its beat,
@@ -5859,7 +5102,6 @@ And brand our tragedy with want of skill
 Or want of labour, call it which you will.
 What then? false rhythm few judges can detect,
 And Roman bards of course are all correct.
-
 What shall a poet do? make rules his sport,
 And dash through thick and thin, through long and short?
 Or pick his steps, endeavour to walk clean,
@@ -5868,7 +5110,6 @@ What good were that, if though I mind my ways
 And shun all blame, I do not merit praise?
 My friends, make Greece your model when you write,
 And turn her volumes over day and night.
-
 "But Plautus pleased our sires, the good old folks;
 They praised his numbers, and they praised his jokes."
 They did: 'twas mighty tolerant in them
@@ -5877,7 +5118,6 @@ That is, if you and I and our compeers
 Can trust our tastes, our fingers, and our ears,
 Know polished wit from horse-play, and can tell
 What verses do, and what do not, run well.
-
 Thespis began the drama: rumour says
 In travelling carts he carried round his plays,
 Where actors, smeared with lees, before the throng
@@ -5892,7 +5132,6 @@ But freedom passed into unbridled spite,
 And law was soon invoked to set things right:
 Law spoke: the chorus lost the power to sting,
 And (shame to say) thenceforth refused to sing.
-
 Our poets have tried all things; nor do they
 Deserve least praise, who follow their own way,
 And tell in comedy or history-piece
@@ -5906,7 +5145,6 @@ Set down that work, and that alone, as good,
 Which, blurred and blotted, checked and counter-
 checked,
 Has stood all tests, and issued forth correct.
-
 Because Democritus thinks fit to say,
 That wretched art to genius must give way,
 Stands at the gate of Helicon, and guards
@@ -5925,7 +5163,6 @@ Although no writer, I may yet impart
 To writing folk the precepts of their art,
 Whence come its stores, what trains and forms a bard,
 And how a work is made, and how 'tis marred.
-
 Of writing well, be sure, the secret lies
 In wisdom: therefore study to be wise.
 The page of Plato may suggest the thought,
@@ -5942,7 +5179,6 @@ A play, devoid of beauty, strength, and art,
 So but the thoughts and morals suit each part,
 Will catch men's minds and rivet them when caught
 More than the clink of verses without thought.
-
 To Greece, fair Greece, ambitious but of praise,
 The Muse gave ready wit, and rounded phrase.
 Our Roman boys, by puzzling days and nights,
@@ -5955,14 +5191,12 @@ O, when this cankering rust, this greed of gain,
 Has touched the soul and wrought into its grain,
 What hope that poets will produce such lines
 As cedar-oil embalms and cypress shrines?
-
 A bard will wish to profit or to please,
 Or, as a tertium quid, do both of these.
 Whene'er you lecture, be concise: the soul
 Takes in short maxims, and retains them whole:
 But pour in water when the vessel's filled,
 It simply dribbles over and is spilled.
-
 Keep near to truth in a fictitious piece,
 Nor treat belief as matter of caprice.
 If on a child you make a vampire sup,
@@ -5973,7 +5207,6 @@ But he who, mixing grave and gay, can teach
 And yet give pleasure, gains a vote from each:
 His works enrich the vendor, cross the sea,
 And hand the author down to late posterity.
-
 Some faults may claim forgiveness: for the lyre
 Not always gives the note that we desire;
 We ask a flat; a sharp is its reply;
@@ -5994,14 +5227,12 @@ While e'en good Homer may deserve a tap,
 If, as he does, he drop his head and nap.
 Yet, when a work is long, 'twere somewhat hard
 To blame a drowsy moment in a bard.
-
 Some poems, like some paintings, take the eye
 Best at a distance, some when looked at nigh.
 One loves the shade; one would be seen in light,
 And boldly challenges the keenest sight:
 One pleases straightway; one, when it has passed
 Ten times before the mind, will please at last.
-
 Hope of the Pisos! trained by such a sire,
 And wise yourself, small schooling you require;
 Yet take this lesson home; some things admit
@@ -6018,7 +5249,6 @@ Offends the taste: 'tis reason that it should;
 We do without such things, or have them good:
 Just so with verse; you seek but to delight;
 If by an inch you fail, you fail outright.
-
 He who knows nought of games abstains from all,
 Nor tries his hand at quoit, or hoop, or ball,
 Lest the thronged circle, witnessing the play,
@@ -6035,7 +5265,6 @@ Entrust it first to Maecius' critic ears,
 Your sire's and mine, and keep it back nine years.
 What's kept at home you cancel by a stroke:
 What's sent abroad you never can revoke.
-
 Orpheus, the priest and harper, pure and good,
 Weaned savage tribes from deeds and feasts of blood,
 Whence he was said to tame the monsters of the wood.
@@ -6055,14 +5284,12 @@ Verse gave relief from labour, and supplied
 Light mirth for holiday and festal tide.
 Then blush not for the lyre: Apollo sings
 In unison with her who sweeps its strings.
-
 But here occurs a question some men start,
 If good verse comes from nature or from art.
 For me, I cannot see how native wit
 Can e'er dispense with art, or art with it.
 Set them to pull together, they're agreed,
 And each supplies what each is found to need.
-
 The youth who suns for prizes wisely trains,
 Bears cold and heat, is patient and abstains:
 The flute-player at a festival, before
@@ -6071,7 +5298,6 @@ Not so our bardlings: they come bouncing in--
 "I'm your true poet: let them laugh that win:
 Plague take the last! although I ne'er was taught,
 Is that a cause for owning I know nought?"
-
 As puffing auctioneers collect a throng,
 Rich poets bribe false friends to hear their song:
 Who can resist the lord of so much rent,
@@ -6094,7 +5320,6 @@ More show of sympathy than honest praise.
 With wine they rack him and with bumpers ply:
 If you write poems, look beyond the skin
 Of the smooth fox, and search the heart within.
-
 Read verses to Quintilius, he would say,
 "I don't like this and that: improve it, pray:"
 Tell him you found it hopeless to correct;
@@ -6105,7 +5330,6 @@ But if you chose to vindicate the crime,
 Not mend it, he would waste no further time,
 But let you live, untroubled by advice,
 Sole tenant of your own fool's paradise.
-
 A wise and faithful counsellor will blame
 Weak verses, note the rough, condemn the lame,
 Retrench luxuriance, make obscureness plain,
@@ -6114,7 +5338,6 @@ A second Aristarch, he will not ask,
 "Why for such trifles take my friend to task?"
 Such trifles bring to serious grief ere long
 A hapless bard, once flattered and led wrong.
-
 See the mad poet! never wight, though sick
 Of itch or jaundice, moon-struck, fanatic,
 Was half so dangerous: men whose mind is sound
@@ -6143,79 +5366,40 @@ This terrible reciter puts to flight
 The learned and unlearned left and right:
 Let him catch one, he keeps him till he kills,
 As leeches stick till they have sucked their fills."
-
-
-
-
-NOTES.
-
-PAGE 6.
-
-     Enough: you'll think I've rifled the scrutore
-     Of blind Crispinus, if I prose on more.
-
+Enough: you'll think I've rifled the scrutore
+Of blind Crispinus, if I prose on more.
 Howes has a very similar couplet:--
-
-    But hold! you'll think I've pillaged the scrutore
-    Of blear Crispinus: not one word then more!
-
+But hold! you'll think I've pillaged the scrutore
+Of blear Crispinus: not one word then more!
 I believe it however to be a mere coincidence on my part.
 The word "scrutore" is an uncommon one; but it was the
 recollection of an altogether different passage which suggested
 it to me here. At any rate, Howes is not the first
 who has used it in translating the present lines.
-
-    Now 'tis enough: lest you should think
-    I've dipt in blear-eyed Crispin's ink,
-    And stolen my work from his scrutore,
-    I will not add a sentence more.
-
-                       SMART.
-
-
-PAGE 9.
-
-     Gives Varus' name to knock-kneed boys, and dubs
-     His club-foot youngster Scaurus, king of clubs.
-
+Now 'tis enough: lest you should think
+I've dipt in blear-eyed Crispin's ink,
+And stolen my work from his scrutore,
+I will not add a sentence more.
+Gives Varus' name to knock-kneed boys, and dubs
+His club-foot youngster Scaurus, king of clubs.
 This is, of course, in no sense a translation: it is simply
 an attempt (a desperate one, I fear) to give point to a sentence
 which otherwise to an English reader would have no point
 at all.
-
-
-PAGE 13.
-
-     Heal to your majesty! yet, ne'ertheless,
-     Rude boys are pulling at your beard, I guess.
-
+Heal to your majesty! yet, ne'ertheless,
+Rude boys are pulling at your beard, I guess.
 Those commentators are clearly right who understand
 "vellunt," not of what the boys are apt to do, but of what
 they are actually doing, while the Stoic is talking and
 making himself out to be a king.
-
-
-PAGE 17.
-
-     Say, you're first cousin to that goodly pair,
-     Caelius and Birrius, and their foibles share.
-
+Say, you're first cousin to that goodly pair,
+Caelius and Birrius, and their foibles share.
 Caelius and Birrius were a couple of robbers, a fact distinctly
 mentioned in the Latin, and, I hope, capable of being
 inferred from the context of the English.
-
-
-PAGE 35.
-
-     After life's endless babble they sleep well.
-
+After life's endless babble they sleep well.
 I need hardly refer to the well-known line in Macbeth.
-
-
-PAGE 44.
-
-     Cassius the rake, and Maenius the buffoon.
-
+Cassius the rake, and Maenius the buffoon.
 This is nearly identical with a line in Howes, of which it
 may very possibly be an unconscious remembrance. Here
 and in other places I have called Nomentanus, metri gratia,
@@ -6226,167 +5410,86 @@ and I have been only too glad to take the supposition for
 granted. Generally, where a Horatian personage is known
 to have had two names, I have used that one which the
 exigences of the verse recommended.
-
-
-PAGE 61.
-
-     O heaven-abandoned wretch! is all this care.
-     O inconsistent wretch! is all this coil.
-                         GIFFORD'S Juvenal, Sat. xiv.
-
-PAGE 94.
-
-     And each man's lips are at his neighbour's ear.
-
+O heaven-abandoned wretch! is all this care.
+O inconsistent wretch! is all this coil.
+GIFFORD'S Juvenal, Sat. xiv.
+And each man's lips are at his neighbour's ear.
 Perhaps a recollection of Pope's line (Satires of Dr.
 Donne), "When half his nose is in his prince's ear."
-
-
-PAGE 98.
-
-     Of studying truths that rick and poor concern,
-     Which young and old are lost unless they learn.
-
+Of studying truths that rick and poor concern,
+Which young and old are lost unless they learn.
 This may seem borrowed from Cowper's "Tirocinium,"
-   --truths on which depend our main concern,
-   That 'tis our shame and misery not to learn;
+--truths on which depend our main concern,
+That 'tis our shame and misery not to learn;
 but I believe the resemblance to be purely accidental. It
 may serve however to show that the more serious passages
 in Horace, as well as the lighter ones, are not unlike Cowper.
-
-
-PAGE 103.
-
-     That makes Atrides and Achilles foes.
-
+That makes Atrides and Achilles foes.
 Almost verbatim from a line in Pope's "Odyssey," which
 is itself probably from one in Maynwaring's First Book of
 the "Iliad."
-
-
-PAGE 110.
-
-     Not to admire, Numicius, is the best,
-     The only way, to make and keep men blest.
-
+Not to admire, Numicius, is the best,
+The only way, to make and keep men blest.
 Slightly altered from the later editions of Francis:
-  Not to admire is of all means the best,
-  The only means, to make and keep us blest.
+Not to admire is of all means the best,
+The only means, to make and keep us blest.
 Ten lines lower down I have a couplet nearly coincident
 with one in Howes, but not intentionally so.
-
-
-PAGE 124.
-
-     But what are Rhodes and Lesbos, and the rest.
-
+But what are Rhodes and Lesbos, and the rest.
 This and the nine following lines are a considerable
 expansion of the Latin: but I was apprehensive of not
 bringing out the connexion, if I translated more closely.
-
-
-PAGE 126.
-
-     Empedocles or the Stertinian school.
-
+Empedocles or the Stertinian school.
 As Horace has chosen to take Stertinius here as a type of
 the Stoics, I thought I might avail myself of a similar
 licence, and call the Stoics as a school by his name.
-
-
-PAGE 129.
-
-     The ox, unyoked and resting from the plough,
-     Wants fodder, stripped from elm or poplar bough.
-
+The ox, unyoked and resting from the plough,
+Wants fodder, stripped from elm or poplar bough.
 Horace merely has "strictis frondibus:" but the writers
 De Re Rustica, quoted by the commentators, tell us what
 the leaves in use were.
-
-
-PAGE 131.
-
-     When Maenius, after nobly gobbling down
-     His fortune, took to living on the town.
-
+When Maenius, after nobly gobbling down
+His fortune, took to living on the town.
 "Took to living on the town" is not meant as a version
 of "urbanus coepit haberi," but rather as an equivalent
 suggested by the context.
-
-
-PAGE 134.
-
-     Each law, each right, each statute and each act.
-
+Each law, each right, each statute and each act.
 Horace's object is evidently to give an exhaustive notion
 of the various parts of the law: and I have tried to produce
 the same impression by accumulating terms, without caring
 how far they can severally be discriminated.
-
-
-PAGE 135.
-
-     I've shed no blood. You shall not feed the crow.
-
-    I'll have thee hanged to feed the crow.
-             SCOTT, Lay of the Last Minstrel.
-
-
-PAGE 136.
-
-     The wise and good, like Bacchus in the play.
-
+I've shed no blood. You shall not feed the crow.
+I'll have thee hanged to feed the crow.
+SCOTT, Lay of the Last Minstrel.
+The wise and good, like Bacchus in the play.
 Borrowed from Francis, with a slight change in the
 order of the words.
-
-
-PAGE 140.
-
-     In sing-song drawl, or Gnatho in the play.
-
+In sing-song drawl, or Gnatho in the play.
 "Partes mimum tractare secundas" seems to mean "to
 act the stage parasite," who, according to Festus, wag the
 second character in almost every mime. I thought therefore
 that I might substitute for the general description the
 name of a particular parasite in Roman comedy.
-
-
-PAGE 144.
-
-     Let temperate folk write verses in the hall
-     Where bonds change hands.
-
+Let temperate folk write verses in the hall
+Where bonds change hands.
 Strictly speaking, there does not seem to have been a hall
 of exchange at the Puteal, which was apparently open to the
 sky: but the inaccuracy is not a serious one.
-
-
-PAGE 151.
-
-     While all forlorn the baffled critic stands,
-     Fumbling a naked stump between his hands.
-
+While all forlorn the baffled critic stands,
+Fumbling a naked stump between his hands.
 I had originally written
-
-  By the old puzzle of the dwindling mound
-  Bringing at last the critic to the ground,
-
+By the old puzzle of the dwindling mound
+Bringing at last the critic to the ground,
 which of course represents the Latin better: but it occurred
 to me that the allusion to the sophism of the heap, following
 immediately on the similar figure of the horse's tail, could
 only embarrass an English reader, and would therefore be
 out of place in a passage intended to be idiomatic. Howes
 has got over the difficulty neatly:--
-
-  Till my opponent, by fair logic beat,
-  Shall find the ground sink fast beneath his feet.
-
-
-PAGE 151.
-
-     Enjoys his ease, nor cares how he redeems
-     The gorgeous promise of his peacock dreams.
-
+Till my opponent, by fair logic beat,
+Shall find the ground sink fast beneath his feet.
+Enjoys his ease, nor cares how he redeems
+The gorgeous promise of his peacock dreams.
 I suppose the meaning to be this: Ennius, as appears
 from his own remains and the notices of him in other
 writers, began his Annals with a dream in which the spirit
@@ -6400,26 +5503,16 @@ of connexion, while he says that the critics are so
 indiscriminate in their praises that Ennius may well repose on
 his laurels, and not trouble himself as to whether there
 is any real connexion or no.
-
-
-PAGE 152.
-
-     Just as an unfair sample, set to catch
-     The heedless customer, mil sell the batch.
-
+Just as an unfair sample, set to catch
+The heedless customer, mil sell the batch.
 I believe I have given the exact force of the original,
 though the metaphor there is from a gang of slaves, where
 the best-looking is placed in front to carry off the rest.
 This interpretation, which the phrase "ducere familiam"
 seems to place beyond doubt, is as old as Torrentius: but
 the commentators in general reject or ignore it.
-
-
-PAGE 157.
-
-     For, so he fills his pockets, nought he heeds
-     Whether the play's a failure or succeeds.
-
+For, so he fills his pockets, nought he heeds
+Whether the play's a failure or succeeds.
 Modern readers may wonder how the poet comes to fill
 his pockets if the play does not succeed. The answer is
 that he sold his play to the aediles before its performance.
@@ -6427,13 +5520,8 @@ For the benefit of the same persons it may be mentioned,
 with reference to a passage a few lines lower down, that in
 a Roman theatre the curtain was kept down during the
 representation, raised when the play was over.
-
-
-PAGE 166.
-
-     New phrases, in the world of books unknown,
-     So use but father them, he makes his own.
-
+New phrases, in the world of books unknown,
+So use but father them, he makes his own.
 I understand "quae genitor produxerit usus" not, with
 Orelli, "which shall be adopted into use at once, so that
 people shall fancy that they have been in use long before,"
@@ -6444,30 +5532,15 @@ not yet adopted into literature, and so relatively "nova."
 "Father" of course I use less strictly than Pope uses it in
 his well-known imitation of the passage, "For use will
 father what's begot by sense."
-
-
-PAGE 172.
-
-     Attempts at ease emasculate my verse.
-
+Attempts at ease emasculate my verse.
 I find Dean Bagot has a line, "A want of nerve effeminates
 my speech."
-
-
-PAGE 173.
-
-     In words again be cautious and select,
-     And duly pick out this, and that reject.
-
+In words again be cautious and select,
+And duly pick out this, and that reject.
 I have adopted Bentley's transposition, simply because it
 happened to be convenient in translating.
-
-
-PAGE 177.
-
-     Than alter facts and characters, and tell
-     In a strange form the tale men know so well.
-
+Than alter facts and characters, and tell
+In a strange form the tale men know so well.
 Many years ago I proposed this solution of a passage of
 admitted difficulty in the Classical Museum. I take
 "Difficile est proprie communia dicere" in its ordinary
@@ -6481,12 +5554,7 @@ the attempt, he may succeed by attending to certain rules,
 "si nec circa vilem," &c. &c. Thus I make "publica
 materies" identical with "communia," and "privati juris"
 with "proprie," contrary to Orelli's opinion.
-
-
-PAGE 179.
-
-     Yet haste and chance may blink the obvious truth.
-
+Yet haste and chance may blink the obvious truth.
 I am not sure whether this was the connecting link in
 Horace's mind; but I felt that the absence of any link
 would make the transition between the two sentences intolerably
@@ -6496,35 +5564,20 @@ remark "multa ferunt" &c. seems to be drawn forth by
 the dark picture of old age contained in the preceding
 verses, and has not much otherwise to do with the subject.
 Horace doubtless felt that he was passing middle life himself.
-
-
-PAGE 182.
-
-     Yet so that none should ask it to resign
-     The sixth, fourth, second places in the line.
-
+Yet so that none should ask it to resign
+The sixth, fourth, second places in the line.
 Horace does not mention the sixth place: I have introduced
 it for the benefit of persons who, as actually happened
 to me when very young, may attempt to write Iambic
 trimeters with no guide but this passage, and may be in
 consequence in danger of making them scazons, as I actually
 did.
-
-
-PAGE 188.
-
-     Entrust it first to Maecius' critic ears,
-     Your sire's, and mine, and keep it back nine years.
-
+Entrust it first to Maecius' critic ears,
+Your sire's, and mine, and keep it back nine years.
 Almost a verbal coincidence with Howes, but a coincidence
 only.
-
-
-PAGE 189.
-
-     Then blush not for the lyre: Apollo sings
-     In unison with her who sweeps its strings.
-
+Then blush not for the lyre: Apollo sings
+In unison with her who sweeps its strings.
 It is difficult to say whether the paragraph of which these
 lines are the conclusion is a sketch of the history of poetry
 in general or of lyric poetry in particular. The former
@@ -6534,20 +5587,10 @@ easily reconciled with the mention of Homer. On the other
 hand, Horace's inexactness elsewhere makes either supposition
 quite possible. I have translated so as to leave the
 ground open to either.
-
-
-PAGE 191.
-
-     A second Aristarch.
-
+A second Aristarch.
 Before them marched that awful Aristarch.
-                    POPE, Dunciad, Book iv.
-
-
-PAGE 191.
-
-     Leave poets free to perish as they will.
-
+POPE, Dunciad, Book iv.
+Leave poets free to perish as they will.
 Following Mr. Howes and probably others who have
 written on the Ars Poetica, though apparently not the
 latest editors, I regard all the words from "Deus immortalis
@@ -6556,68 +5599,39 @@ man who thinks of rescuing the mad poet. Much of the
 humour of what follows, e. g. "Nec semel hoc fecit," "Nec
 satis apparet," &c. would, it seems to me, be lost on any
 other supposition.
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Satires, Epistles, and Art of
 Poetry, by Horace
 a.k.a. Quintus Horatius Flaccus
 Translated by John Conington, M. A.
-
-*** END OF THE PROJECT GUTENBERG EBOOK SATIRES OF HORACE ***
-
 This file should be named 5419.txt or 5419.zip
-
 Produced by David Moynihan, Charles Franks
 and the Online Distributed Proofreading Team
-
-Project Gutenberg eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the US
 unless a copyright notice is included.  Thus, we usually do not
 keep eBooks in compliance with any particular paper edition.
-
 We are now trying to release all our eBooks one year in advance
 of the official release dates, leaving time for better editing.
 Please be encouraged to tell us about any error or corrections,
 even years after the official publication date.
-
 Please note neither this listing nor its contents are final til
 midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg eBooks is at
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.
-
 Most people start at our Web sites at:
 http://gutenberg.net or
 http://promo.net/pg
-
 These Web sites include award-winning information about Project
 Gutenberg, including how to donate, how to help produce our new
 eBooks, and how to subscribe to our email newsletter (free!).
-
-
 Those of you who want to download any eBook before announcement
 can get to them as follows, and just download by date.  This is
 also a good way to get them instantly upon announcement, as the
 indexes our cataloguers produce obviously take a while after an
-announcement goes out in the Project Gutenberg Newsletter.
-
 http://www.ibiblio.org/gutenberg/etext03 or
 ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
-
 Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
-
 Just search by the first five letters of the filename you want,
 as it appears in our Newsletters.
-
-
-Information about Project Gutenberg (one page)
-
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
 to get any eBook selected, entered, proofread, edited, copyright
@@ -6629,34 +5643,11 @@ files per month:  1240 more eBooks in 2001 for a total of 4000+
 We are already on our way to trying for 2000 more eBooks in 2002
 If they reach just 1-2% of the world's population then the total
 will reach over half a trillion eBooks given away by year's end.
-
-The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
 This is ten thousand titles each to one hundred million readers,
 which is only about 4% of the present number of computer users.
-
 Here is the briefest record of our progress (* means estimated):
-
 eBooks Year Month
-
-    1  1971 July
-   10  1991 January
-  100  1994 January
- 1000  1997 August
- 1500  1998 October
- 2000  1999 December
- 2500  2000 December
- 3000  2001 November
- 4000  2001 October/November
- 6000  2002 December*
- 9000  2003 November*
-10000  2004 January*
-
-
-The Project Gutenberg Literary Archive Foundation has been created
-to secure a future for Project Gutenberg into the next millennium.
-
 We need your donations more than ever!
-
 As of February, 2002, contributions are being solicited from people
 and organizations in: Alabama, Alaska, Arkansas, Connecticut,
 Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
@@ -6666,73 +5657,42 @@ Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
 Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
 Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
 Virginia, Wisconsin, and Wyoming.
-
 We have filed in all 50 states now, but these are the only ones
 that have responded.
-
 As the requirements for other states are met, additions to this list
 will be made and fund raising will begin in the additional states.
 Please feel free to ask to check the status of your state.
-
 In answer to various questions we have received on this:
-
 We are constantly working on finishing the paperwork to legally
 request donations in all 50 states.  If your state is not listed and
 you would like to know if we have added it since the list you have,
 just ask.
-
 While we cannot solicit donations from people in states where we are
 not yet registered, we know of no prohibition against accepting
 donations from donors in these states who approach us with an offer to
 donate.
-
 International donations are accepted, but we don't know ANYTHING about
 how to make them tax-deductible, or even if they CAN be made
 deductible, and don't have the staff to handle it even if there are
 ways.
-
 Donations by check or money order may be sent to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Ave.
 Oxford, MS 38655-4109
-
 Contact us if you want to arrange for a wire transfer or payment
 method other than by check or money order.
-
-The Project Gutenberg Literary Archive Foundation has been approved by
 the US Internal Revenue Service as a 501(c)(3) organization with EIN
-[Employee Identification Number] 64-622154.  Donations are
 tax-deductible to the maximum extent permitted by law.  As fund-raising
 requirements for other states are met, additions to this list will be
 made and fund-raising will begin in the additional states.
-
 We need your donations more than ever!
-
 You can get up to date donation information online at:
-
 http://www.gutenberg.net/donation.html
-
-
 ***
-
-If you can't reach Project Gutenberg,
 you can always email directly to:
-
 Michael S. Hart <hart@pobox.com>
-
 Prof. Hart will answer or forward your message.
-
 We would prefer to send you information by email.
-
-
 **The Legal Small Print**
-
-
 (Three Pages)
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
 Why is this "Small Print!" statement here? You know: lawyers.
 They tell us you might sue us if there is something wrong with
 your copy of this eBook, even if you got it for free from
@@ -6740,30 +5700,19 @@ someone other than us, and even if what's wrong is not our
 fault. So, among other things, this "Small Print!" statement
 disclaims most of our liability to you. It also tells you how
 you may distribute copies of this eBook if you want to.
-
-*BEFORE!* YOU USE OR READ THIS EBOOK
-By using or reading any part of this PROJECT GUTENBERG-tm
 eBook, you indicate that you understand, agree to and accept
 this "Small Print!" statement. If you do not, you can receive
 a refund of the money (if any) you paid for this eBook by
 sending a request within 30 days of receiving it to the person
 you got it from. If you received this eBook on a physical
 medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM EBOOKS
-This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
 is a "public domain" work distributed by Professor Michael S. Hart
-through the Project Gutenberg Association (the "Project").
 Among other things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
 without paying copyright royalties. Special rules, set forth
 below, apply if you wish to copy and distribute this eBook
-under the "PROJECT GUTENBERG" trademark.
-
-Please do not use the "PROJECT GUTENBERG" trademark to market
 any commercial products without permission.
-
 To create these eBooks, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works. Despite these efforts, the Project's eBooks and any
@@ -6773,18 +5722,9 @@ corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other eBook medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
 But for the "Right of Replacement or Refund" described below,
-[1] Michael Hart and the Foundation (and any other party you may
-receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
 all liability to you for damages, costs and expenses, including
 legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
 If you discover a Defect in this eBook within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -6794,95 +5734,54 @@ such person may choose to alternatively give you a replacement
 copy. If you received it electronically, such person may
 choose to alternatively give you a second opportunity to
 receive it electronically.
-
-THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
 Some states do not allow disclaimers of implied warranties or
 the exclusion or limitation of consequential damages, so the
 above disclaimers and exclusions may not apply to you, and you
 may have other legal rights.
-
-INDEMNITY
 You will indemnify and hold Michael Hart, the Foundation,
 and its trustees and agents, and any volunteers associated
-with the production and distribution of Project Gutenberg-tm
 texts harmless, from all liability, cost and expense, including
 legal fees, that arise directly or indirectly from any of the
 following that you do or cause:  [1] distribution of this eBook,
-[2] alteration, modification, or addition to the eBook,
 or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
 You may distribute copies of this eBook electronically, or by
 disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
 or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     eBook or this "small print!" statement.  You may however,
-     if you wish, distribute this eBook in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word
-     processing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The eBook, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The eBook may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the eBook (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          eBook in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the eBook refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Foundation of 20% of the
-     gross profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Literary Archive Foundation"
-     the 60 days following each date you prepare (or were
-     legally required to prepare) your annual (or equivalent
-     periodic) tax return.  Please contact us beforehand to
-     let us know your plans and to work out the details.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-Project Gutenberg is dedicated to increasing the number of
+requires that you do not remove, alter or modify the
+eBook or this "small print!" statement.  You may however,
+if you wish, distribute this eBook in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word
+processing or hypertext software, but only so long as
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the eBook (as is
+the case, for instance, with most word processors);
+no additional cost, fee or expense, a copy of the
+eBook in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+"Small Print!" statement.
+gross profits you derive calculated using the method you
+already use to calculate your applicable taxes.  If you
+don't derive profits, no royalty is due.  Royalties are
+the 60 days following each date you prepare (or were
+legally required to prepare) your annual (or equivalent
+periodic) tax return.  Please contact us beforehand to
+let us know your plans and to work out the details.
 public domain and licensed works that can be freely distributed
 in machine readable form.
-
 The Project gratefully accepts contributions of money, time,
 public domain materials, or royalty free copyright licenses.
 Money should be paid to the:
-"Project Gutenberg Literary Archive Foundation."
-
 If you are interested in contributing scanning equipment or
 software or other items, please contact Michael Hart at:
 hart@pobox.com
-
-[Portions of this eBook's header and trailer may be reprinted only
 when distributed free of all fees.  Copyright (C) 2001, 2002 by
-Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
-used in any sales of Project Gutenberg eBooks or other materials be
 they hardware or software or any other related product without
 express permission.]
-
 *END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
-

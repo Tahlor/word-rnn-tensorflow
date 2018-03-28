@@ -1,51 +1,4 @@
-oject Gutenberg's Eighteen Hundred and Eleven, by Anna Laetitia Barbauld
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Eighteen Hundred and Eleven
-
-Author: Anna Laetitia Barbauld
-
-Release Date: November 19, 2004 [EBook #14100]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK EIGHTEEN HUNDRED AND ELEVEN ***
-
-
-
-
 Produced by David Starner.
-
-
-
-
-EIGHTEEN HUNDRED AND ELEVEN,
-_A POEM_.
-
-BY ANNA LÆTITIA BARBAULD.
-
-LONDON:
-
-PRINTED FOR J. JOHNSON AND CO.,
-ST. PAUL'S CHURCHYARD.
-
-1812.
-
-PRINTED BY
-RICHARD TAYLOR AND CO., SHOE LANE.
-
-
-
-
-EIGHTEEN HUNDRED AND ELEVEN.
-
 Still the loud death drum, thundering from afar,
 O'er the vext nations pours the storm of war:
 To the stern call still Britain bends her ear,
@@ -56,7 +9,6 @@ Colossal Power with overwhelming force                  [2]
 Bears down each fort of Freedom in its course;
 Prostrate she lies beneath the Despot's sway,
 While the hushed nations curse him--and obey,
-
 Bounteous in vain, with frantic man at strife,
 Glad Nature pours the means--the joys of life;
 In vain with orange blossoms scents the gale,
@@ -69,7 +21,6 @@ And where the Soldier gleans the scant supply.
 The helpless Peasant but retires to die;
 No laws his hut from licensed outrage shield,           [3]
 And war's least horror is the ensanguined field.
-
 Fruitful in vain, the matron counts with pride
 The blooming youths that grace her honoured side;
 No son returns to press her widow'd hand,
@@ -86,7 +37,6 @@ Or the spread map with anxious eye explores,            [4]
 Its dotted boundaries and penciled shores,
 Asks _where_ the spot that wrecked her bliss is found,
 And learns its name but to detest the sound.
-
 And thinks't thou, Britain, still to sit at ease,
 An island Queen amidst thy subject seas,
 While the vext billows, in their distant roar,
@@ -109,14 +59,12 @@ Sad, on the ground thy princely merchants bend
 Their altered looks, and evil days portend,
 And fold their arms, and watch with anxious breast
 The tempest blackening in the distant West.
-
 Yes, thou must droop; thy Midas dream is o'er;
 The golden tide of Commerce leaves thy shore,
 Leaves thee to prove the alternate ills that haunt      [6]
 Enfeebling Luxury and ghastly Want;
 Leaves thee, perhaps, to visit distant lands,
 And deal the gifts of Heaven with equal hands.
-
 Yet, O my Country, name beloved, revered,
 By every tie that binds the soul endeared,
 Whose image to my infant senses came
@@ -163,7 +111,6 @@ The tragic Muse resume her just controul,
 With pity and with terror purge the soul,
 While wide o'er transatlantic realms thy name
 Shall live in light, and gather _all_ its fame.
-
 Where wanders Fancy down the lapse of years
 Shedding o'er imaged woes untimely tears?
 Fond moody Power! as hopes--as fears prevail,
@@ -178,7 +125,6 @@ England, the seat of arts, be only known
 By the gray ruin and the mouldering stone;
 That Time may tear the garland from her brow,
 And Europe sit in dust, as Asia now.
-
 Yet then the ingenuous youth whom Fancy fires
 With pictured glories of illustrious sires,
 With duteous zeal their pilgrimage shall take
@@ -209,7 +155,6 @@ Shall listen for those strains that soothed of yore
 Thy rock, stern Skiddaw, and thy fall, Lodore;
 Feast with Dun Edin's classic brow their sight,
 And visit "Melross by the pale moonlight."
-
 But who their mingled feelings shall pursue
 When London's faded glories rise to view?
 The mighty city, which by every road,                   [13]
@@ -230,7 +175,6 @@ Thence stretch their view the wide horizon round,       [14]
 By scattered hamlets trace its antient bound,
 And, choked no more with fleets, fair Thames survey
 Through reeds and sedge pursue his idle way.
-
 With throbbing bosoms shall the wanderers tread
 The hallowed mansions of the silent dead,
 Shall enter the long isle and vaulted dome
@@ -241,7 +185,6 @@ Bend at each antique shrine, and frequent turn
 To clasp with fond delight some sculptured urn,
 The ponderous mass of Johnson's form to greet,
 Or breathe the prayer at Howard's sainted feet.
-
 Perhaps some Briton, in whose musing mind               [15]
 Those ages live which Time has cast behind,
 To every spot shall lead his wondering guests
@@ -260,7 +203,6 @@ Point where mute crowds on Davy's lips reposed,
 And Nature's coyest secrets were disclosed;
 Join with their Franklin, Priestley's injured name,
 Whom, then, each continent shall proudly claim.
-
 Oft shall the strangers turn their eager feet
 The rich remains of antient art to greet,
 The pictured walls with critic eye explore,
@@ -271,7 +213,6 @@ And when midst fallen London, they survey
 The stone where Alexander's ashes lay,
 Shall own with humbled pride the lesson just            [17]
 By Time's slow finger written in the dust.
-
 There walks a Spirit o'er the peopled earth,
 Secret his progress is, unknown his birth;
 Moody and viewless as the changing wind,
@@ -298,7 +239,6 @@ Saints, Heroes, Sages, who the land adorn,
 Seem rather to descend than to be born;
 Whilst History, midst the rolls consigned to fame,
 With pen of adamant inscribes their name.
-
 The Genius now forsakes the favoured shore,             [19]
 And hates, capricious, what he loved before;
 Then empires fall to dust, then arts decay,
@@ -317,7 +257,6 @@ Still at each step he dreads the adder's sting,         [20]
 The Arab's javelin, or the tiger's spring;
 With doubtful caution treads the echoing ground.
 And asks where Troy or Babylon is found.
-
 And now the vagrant Power no more detains
 The vale of Tempe, or Ausonian plains;
 Northward he throws the animating ray,
@@ -364,7 +303,6 @@ Subdue the rigour of the northern Bear,
 O'er polar climes shed aromatic air,
 On yielding Nature urge their new demands,
 And ask not gifts but tribute at her hands.
-
 London exults:--on London Art bestows
 Her summer ices and her winter rose;
 Gems of the East her mural crown adorn,
@@ -373,7 +311,6 @@ While even the exiles her just laws disclaim,
 People a continent, and build a name:
 August she sits, and with extended hands                [24]
 Holds forth the book of life to distant lands.
-
 But fairest flowers expand but to decay;
 The worm is in thy core, thy glories pass away;
 Arts, arms and wealth destroy the fruits they bring;
@@ -396,25 +333,8 @@ Ardent, the Genius fans the noble strife,
 And pours through feeble souls a higher life,
 Shouts to the mingled tribes from sea to sea,
 And swears--Thy world,  Columbus, shall be free.
-
-THE END.
-
 Footnotes:
-
-[1] The Historian of the age of Leo has brought into cultivation
 the extensive tract of Chatmoss.
-
-[2] Every reader will recollect the sublime telegraphic dispatch,
 "England expects every man to do his duty."
-
-
-[3] "I hope England will be satisfied," were the last words of
 General Moore.
-
-
-
-
-
-End of the Project Gutenberg EBook of Eighteen Hundred and Eleven
 by Anna Laetitia Barbauld
-

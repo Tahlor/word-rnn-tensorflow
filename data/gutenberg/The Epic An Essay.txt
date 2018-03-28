@@ -1,56 +1,12 @@
-e Project Gutenberg EBook of The Epic, by Lascelles Abercrombie
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Epic
-       An Essay
-
-Author: Lascelles Abercrombie
-
-Release Date: January 14, 2004 [EBook #10716]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE EPIC ***
-
-
-
-
 Produced by Garrett Alley and PG Distributed Proofreaders
-
-
-
-
 The Epic: an Essay
-
 By Lascelles Abercrombie
-
-
-
-1914.
-
-
-
 By the same Author:
-
-
 Towards a Theory of Art
 Speculative Dialogues
 Four Short Plays
 Thomas Hardy: A Critical Study
 Principles of English Prosody
-
-
-
-
-PREFACE
-
 _As this essay is disposed to consider epic poetry as a species of
 literature, and not as a department of sociology or archaeology or
 ethnology, the reader will not find it anything material to the
@@ -77,15 +33,6 @@ rule out--a point of view which seemed well worth taking. This is my
 excuse, too, for considering only the most conspicuous instances of epic
 poetry. They have been discussed often enough; but not often, so far as
 I know, primarily as stages of one continuous artistic development_.
-
-
-
-
-I.
-
-
-BEGINNINGS
-
 The invention of epic poetry corresponds with a definite and, in the
 history of the world, often recurring state of society. That is to say,
 epic poetry has been invented many times and independently; but, as the
@@ -137,7 +84,6 @@ adapted to another for which it was quite unsuited, with the added
 necessity of conquering the peoples found in possession. Whatever the
 cause may have been, the result is obvious: a sudden liberation, a
 delighted expansion, of numerous private individualities.
-
 But the various appearances of the Heroic Age cannot, perhaps, be
 completely generalized. What has just been written will probably do for
 the Heroic Age which produced Homer, and for that which produced the
@@ -191,7 +137,6 @@ which the heroes are so little removed from common folk that celebration
 of individual prowess begins among the latter, not, as seems usually to
 have happened, among the social equals of the heroes. But doubtless
 there are infinite grades in the structure of the Heroic Age.
-
 The note of the Heroic Age, then, is vehement private individuality
 freely and greatly asserting itself. The assertion is not always what we
 should call noble; but it is always forceful and unmistakable. There
@@ -248,7 +193,6 @@ the poetry of cottages and taverns. It may survive as this. Finally, it
 may be taken up again by the courts, and become poetry of much greater
 sophistication and nicety than it was in either of the preceding stages.
 But each stage leaves its sign on the tradition.
-
 All this gives us what is conveniently called "epic material"; the
 material out of which epic poetry might be made. But it does not give us
 epic poetry. The world knows of a vast stock of epic material scattered
@@ -277,7 +221,6 @@ poetry depends on the occurrence (always an accidental occurrence) of
 creative genius. It is quite likely that what Homer had to work on was
 nothing superior to the Arthurian legends. But Homer occurred; and the
 tales of Troy and Odysseus became incomparable poetry.
-
 An epic is not made by piecing together a set of heroic lays, adjusting
 their discrepancies and making them into a continuous narrative. An epic
 is not even a re-creation of old things; it is altogether a new
@@ -298,7 +241,6 @@ merely an external affair. There is only one thing which can master the
 perplexed stuff of epic material into unity; and that is, an ability to
 see in particular human experience some significant symbolism of man's
 general destiny.
-
 It is natural that, after the epic poet has arrived, the crude epic
 material in which he worked should scarcely be heard of. It could only
 be handed on by the minstrels themselves; and their audiences would not
@@ -316,7 +258,6 @@ to work. Hesiod is a clear instance of the poet who masters epic
 material after it has passed into popular possession; and the
 _Nibelungenlied_ is thought to be made out of matter that has passed
 from the people back again to the courts.
-
 Epic poetry, then, as distinct from mere epic material, is the concern
 of this book. The intention is, to determine wherein epic poetry is a
 definite species of literature, what it characteristically does for
@@ -338,14 +279,8 @@ consciousness, I must go, rapidly and generally, over the "literary
 epic"; and especially I must question whether it is really justifiable
 or profitable to divide epic poetry into the two contrasted departments
 of "authentic" and "literary."
-
-FOOTNOTES:
-
-[Footnote 1: hos d' ote cheimarroi potamoi kat opesthi rheontes es
 misgagkeian xumballeton obrimon udor krounon ek melalon koilaes entosthe
 charadraes. _Iliad_, IV, 452.]
-
-[Footnote 2: Etymologically, the "good" man is the "admirable" man. In
 this sense, Homer's gods are certainly "good"; every epithet he gives
 them--Joyous-Thunderer, Far-Darter, Cloud-Gatherer and the
 rest--proclaims their unapproachable "goodness." If it had been said to
@@ -357,18 +292,7 @@ would have Homer a kind of Salvationist need regret this. Just because
 he could only make his gods "good" in this primitive style, he was able
 to treat their discordant family in that vein of exquisite comedy which
 is one of the most precious things in the world.]
-
-[Footnote 3: Scarcely what _we_ call epic. "Epos" might include Hesiod
 as well as epic material; "epopee" is the business that Homer started.]
-
-
-
-
-II.
-
-
-LITERARY EPIC
-
 Epic poetry, then, was invented to supply the artistic demands of
 society in a certain definite and recognizable state. Or rather, it was
 the epic material which supplied that; the first epic poets gave their
@@ -393,7 +317,6 @@ Milton are "literary" epics. But such poetry as the _Odyssey_, the
 _Iliad,_ _Beowulf_, the _Song of Roland_, and the _Nibelungenlied_,
 poetry which seems an immediate response to some general and instant
 need in its surrounding community--such poetry is "authentic" epic.
-
 A great deal has been made of this distinction; it has almost been taken
 to divide epic poetry into two species. And, as the names commonly given
 to the two supposed species suggest, there is some notion that
@@ -416,7 +339,6 @@ instance) but which is really nothing but a sign of covert
 barbarism--that lengthy poetic composition is somehow undesirable; and
 Homer is thought to have had a better excuse for composing a long poem
 than Milton.
-
 But doubtless the real reason for the hard division of epic poetry into
 two classes, and for the presumed inferiority of "literary" to
 "authentic," lies in the application of that curiosity among false
@@ -449,7 +371,6 @@ transmission, or very limited transmission through script, might be the
 sign of multiple authorship; for if you believe that a whole folk can
 compose a ballad, you may easily believe that a dozen poets can compose
 an epic.
-
 But all this rests on simple ignoring of the nature of poetic
 composition. The folk-origin of ballads and the multiple authorship of
 epics are heresies worse than the futilities of the Baconians; at any
@@ -471,7 +392,6 @@ folk, however, cannot be ruled out. Genius does the work; but the folk
 is the condition in which genius does it. And here we may find a genuine
 difference between "literary" and "authentic"; not so much in the nature
 of the condition as in its closeness and insistence.
-
 The kind of folk-spirit behind the poet is, indeed, different in the
 _Iliad_ and _Beowulf_ and the _Song of Roland_ from what it is in Milton
 and Tasso and Virgil. But there is also as much difference here between
@@ -505,7 +425,6 @@ larger matter, according as the narrow primitive torrents of man's
 spirit broaden into the greater but slower volume of civilized life. The
 change is neither desirable nor undesirable; it is merely inevitable. It
 means that epic poetry has kept up with the development of human life.
-
 It is because of all this that we have heard a good deal about the
 "authentic" epic getting "closer to its subject" than "literary" epic.
 It seems, on the face of it, very improbable that there should be any
@@ -566,7 +485,6 @@ as a device--a device to heighten the general style and action of his
 poems; the _significance_ of Homer must be found among his heroes, not
 among his gods. But with Milton, it has become necessary to entrust to
 the supernatural action the whole aim and purport of the poem.
-
 On the whole, then, there is no reason why "literary" epic should not be
 as close to its subject as "authentic" epic; there is every reason why
 both kinds should be equally close. But in testing whether they actually
@@ -613,7 +531,6 @@ result is deadly; and because he was never anywhere near his subject. It
 is for the same reason that the unspeakable labours of Blackmore, Glover
 and Wilkie, and Voltaire's ridiculous _Henriade_, have gone to pile up
 the rubbish-heaps of literature.
-
 So far, supposed differences between "authentic" and "literary" epic
 have resolved themselves into little more than signs of development in
 epic intention; the change has not been found to produce enough artistic
@@ -658,38 +575,26 @@ the reciter had got through this unimportant dreariness, no doubt his
 audience had settled down to listen. The _Chanson d'Antioche_ contains
 perhaps the most illuminating admission of this difficulty. In the first
 "Chant," the first section opens:[4]
-
-  Seigneurs, faites silence; et que tout bruit cesse,
-  Si vous voulez entendre une glorieuse chanson.
-  Aucun jongleur ne vous en dira une meilleure.
-
+Seigneurs, faites silence; et que tout bruit cesse,
+Si vous voulez entendre une glorieuse chanson.
+Aucun jongleur ne vous en dira une meilleure.
 Then some vaguely prelusive lines. But the audience is clearly not quite
 ready yet, for the second section begins:
-
-  Barons, ecoutez-moi, et cessez vos querelles!
-  Je vous dirai une tres-belle chanson.
-
+Barons, ecoutez-moi, et cessez vos querelles!
+Je vous dirai une tres-belle chanson.
 And after some further prelude, the section ends:
-
-  Ici commence la chanson ou il y a tant a apprendre.
-
+Ici commence la chanson ou il y a tant a apprendre.
 The "Chanson" does, indeed, make some show of beginning in the third
 section, but it still moves with a cautious and prelusive air, as if
 anxious not to launch out too soon. And this was evidently prudent, for
 when the fourth section opens, direct exhortation to the audience has
 again become necessary:
-
-  Maintenant, seigneurs, ecoutez ce que dit l'Ecriture.
-
+Maintenant, seigneurs, ecoutez ce que dit l'Ecriture.
 And once more in the fifth section:
-
-  Barons, ecoutez un excellent couplet.
-
+Barons, ecoutez un excellent couplet.
 In the sixth, the jongleur is getting desperate:
-
-  Seigneurs, pour l'amour de Dieu, faites silence, ecoutez-moi,
-  Pour qu'en partant de ce monde vous entriez dans un meilleur;
-
+Seigneurs, pour l'amour de Dieu, faites silence, ecoutez-moi,
+Pour qu'en partant de ce monde vous entriez dans un meilleur;
 but after this exclamation he has his way, though the story proper is
 still a good way off. Perhaps not all of these hortatory stanzas were
 commonly used; any or all of them could certainly be omitted without
@@ -697,7 +602,6 @@ damaging the poem. But they were there to be used, according to the
 judgment of the jongleur and the temper of his audience, and their
 presence in the poem is very suggestive of the special difficulties in
 the art of rhapsodic poetry.
-
 But the gravest difficulty, and perhaps the most important, in poetry
 meant solely for recitation, is the difficulty of achieving verbal
 beauty, or rather of making verbal beauty tell. Vigorous but controlled
@@ -743,7 +647,6 @@ on the question of Homeric authorship, because no early epic is
 comparable with the _poetry_ of Homer. Nothing, indeed, is comparable
 with the poetry of Homer, except poetry for whose individual authorship
 history unmistakably vouches.
-
 So we cannot say that Homer was not as deliberate a craftsman in words
 as Milton himself. The scope of his craft was more restricted, as his
 repetitions and stock epithets show; he was restricted by the fact that
@@ -762,7 +665,6 @@ thing unworthy of such heroic singers; it is simply to be explained by
 lack of such genius as is capable of transcending the severe limitations
 of auricular poetry. And we may well believe that only the rarest and
 most potent kind of genius could transcend such limitations.
-
 In summary, then, we find certain conceptual differences and certain
 mechanical differences between "authentic" and "literary" epic. But
 these are not such as to enable us to say that there is, artistically,
@@ -802,19 +704,6 @@ and its significance in poetry as lofty and as elaborate as he can
 compass. That, roughly, is what we see the epic poets doing, whether
 they be "literary" or "authentic"; and if this can be agreed on, we
 should now have come tolerably close to a definition of epic poetry.
-
-FOOTNOTES:
-
-[Footnote 4: From the version of the Marquise de Sainte-Aulaire.]
-
-
-
-
-III.
-
-
-THE NATURE OF EPIC
-
 Rigid definitions in literature are, however, dangerous. At bottom, it
 is what we feel, not what we think, that makes us put certain poems
 together and apart from others; and feelings cannot be defined, but only
@@ -829,7 +718,6 @@ get some notion of how those poems, which we call epic, agree with one
 another in style, it is likely we shall be as close as may be to a
 definition of epic. I use the word "style," of course, in its largest
 sense--manner of conception as well as manner of composition.
-
 An easy way to define epic, though not a very profitable way, would be
 to say simply, that an epic is a poem which produces feelings similar to
 those produced by _Paradise Lost_ or the _Iliad_, _Beowulf_ or the _Song
@@ -858,7 +746,6 @@ their writing; the whole style of their imagination, in fact. They take
 us into a region in which nothing happens that is not deeply
 significant; a dominant, noticeably symbolic, purpose presides over each
 poem, moulds it greatly and informs it throughout.
-
 This takes us some little way towards deciding the nature of epic. It
 must be a story, and the story must be told well and greatly; and,
 whether in the story itself or in the telling of it, significance must
@@ -897,7 +784,6 @@ do without _Paradise Lost_ nowadays; but neither can we do without the
 _Iliad_. It would not, perhaps, be far from the truth, if it were even
 said that the significance of _Paradise Lost_ cannot be properly
 understood unless the significance of the _Iliad_ be understood.
-
 The prime material of the epic poet, then, must be real and not
 invented. But when the story of the poem is safely concerned with some
 reality, he can, of course, graft on this as much appropriate invention
@@ -951,7 +837,6 @@ how much more must the crude events of history require this! For it is
 not in events as they happen, however notably, that man may see symbols
 of vital destiny, but in events as they are transformed by plastic
 imagination.
-
 Yet it has been possible to use history as the material of great epic
 poetry; Camoens and Tasso did this--the chief subject of the _Lusiads_
 is even contemporary history. But evidently success in these cases was
@@ -990,7 +875,6 @@ time, into legend. Thus, an unimportant, probably unpunished, attack by
 Basque mountaineers on the Emperor's rear-guard has become, in the _Song
 of Roland_, a great infamy of Saracenic treachery, which must be greatly
 avenged.
-
 Such, in a broad description, is the nature of epic poetry. To define it
 with any narrower nicety would probably be rash. We have not been
 discovering what an epic poem ought to be, but roughly examining what
@@ -1018,7 +902,6 @@ difficulty in exactly defining epic (but not in exactly deciding what is
 epic) may be found in the work of William Morris. Morris left two long
 narrative poems, _The Life and Death of Jason_, and _The Story of Sigurd
 the Volsung_.
-
 I do not think anyone need hesitate to put _Sigurd_ among the epics; but
 I do not think anyone who will scrupulously compare the experience of
 reading _Jason_ with the experience of reading _Sigurd_, can help
@@ -1037,7 +920,6 @@ show of things, and not only on the physical or moral unity of things,
 but has somehow brought into the midst of all this, and has kneaded into
 the texture of it all, something of the ultimate and metaphysical
 significance of life. You scarcely feel that in _Jason_.
-
 Yes, epic poetry must be an affair of evident largeness. It was well
 said, that "the praise of an epic poem is to feign a person exceeding
 Nature." "Feign" here means to imagine; and imagine does not mean to
@@ -1067,7 +949,6 @@ destiny, without losing the air of recording some accepted reality of
 human experience, and without failing to be a good story; and the
 pressure of high purpose will inform diction and metre, as far, at
 least, as the poet's verbal art will let it.
-
 The usual attempts at stricter definition of epic than anything this
 chapter contains, are either, in spite of what they try for, so vague
 that they would admit almost any long stretch of narrative poetry; or
@@ -1097,7 +978,6 @@ secret governance of things, an unknowable and implacable
 fate--"Wyrd"--neither malign nor benevolent, but simply inscrutable. The
 peculiar cast of noble and desolate courage which this bleak conception
 gives to the poem is perhaps unique among the epics.
-
 But very few epic poets have ventured to do without supernatural
 machinery of some sort. And it is plain that it must greatly assist the
 epic purpose to surround the action with immortals who are not only
@@ -1151,20 +1031,7 @@ function. Perhaps only Homer and Virgil have done that perfectly.
 Milton's revolutionary development marks a crisis in the general process
 of epic so important, that it can only be discussed when that process is
 considered, in the following chapter, as a whole.
-
-FOOTNOTES:
-
-[Footnote 5: Such as similes and episodes. It is as if a man were to
 say, the essential thing about a bridge is that it should be painted.]
-
-
-
-
-IV.
-
-
-THE EPIC SERIES
-
 By the general process of epic poetry, I mean the way this form of art
 has constantly responded to the profound needs of the society in which
 it was made. But the development of human society does not go straight
@@ -1180,7 +1047,6 @@ Roland_, and the _Nibelungenlied_, through Camoens and Tasso up to
 Milton. And in this case Milton is plainly the climax. There is nothing
 like _Paradise Lost_ in the preceding poems, and epic poetry has done
 nothing since but decline from that towering glory.
-
 But it will be convenient not to make too much of chronology, in a
 general account of epic development. It has already appeared that the
 duties of all "authentic" epic are broadly the same, and the poems of
@@ -1208,7 +1074,6 @@ the common and narrow sense, of the poets whom I shall have to mention;
 since these qualities have been so often and sometimes so admirably
 dealt with. It is at the broader aspects of artistic purpose that I wish
 to look.
-
 "From Homer," said Goethe, "I learn every day more clearly, that in our
 life here above ground we have, properly speaking, to enact Hell." It is
 rather a startling sentence at first. That poetry which, for us, in
@@ -1225,16 +1090,12 @@ sensuous beauty and the splendour of its expressive power. It is a
 language that seems alive with eagerness to respond to imagination. Open
 Homer anywhere, and the casual grandeur of his untranslatable language
 appears; such lines as:
-
-    amphi de naees
-  smerdaleon konabaesan ausanton hup' Achaion.[6]
-
+amphi de naees
+smerdaleon konabaesan ausanton hup' Achaion.[6]
 That, you might say, is Homer at his ease; when he exerts himself you
 get a miracle like:
-
-    su den strophalingi koniaes
-  keiso megas megalosti, lelasmenos hipposunaon.[7]
-
+su den strophalingi koniaes
+keiso megas megalosti, lelasmenos hipposunaon.[7]
 It seems the art of one who walked through the world of things endowed
 with the senses of a god, and able, with that perfection of effort that
 looks as if it were effortless, to fashion his experience into
@@ -1260,7 +1121,6 @@ entertaining. It is easy to read this poetry and simply _enjoy_ it; it
 is easy to say, the man whose spirit held this poetry must have been
 divinely happy. But this is the poetry whence Goethe learnt that the
 function of man is "to enact Hell."
-
 Goethe is profoundly right; though possibly he puts it in a way to which
 Homer himself might have demurred. For the phrase inevitably has its
 point in the word "Hell"; Homer, we may suppose, would have preferred
@@ -1308,14 +1168,12 @@ part of the meaning from the whole. If anywhere, we shall, perhaps, find
 the whole meaning of Homer most clearly indicated in such words as those
 given (without any enforcement) to Achilles and Thetis near the
 beginning of the _Iliad_, as if to sound the pitch of Homer's poetry:
-
-  meter, hepi m hetekes ge minynthadion per heonta,
-  timen per moi hophellen Olympios engyalixai
-  Zeus hypsibremetes.[8]
-       *       *       *       *       *
-  timeson moi yion hos hokymorotatos hallon
-  heplet'.[9]
-
+meter, hepi m hetekes ge minynthadion per heonta,
+timen per moi hophellen Olympios engyalixai
+Zeus hypsibremetes.[8]
+*       *       *       *       *
+timeson moi yion hos hokymorotatos hallon
+heplet'.[9]
 Minunthadion--hokymorotatos: those are the imporportant words;
 key-words, they might be called. If we really understand these lines, if
 we see in them what it is that Agamemnon's insult has deprived Achilles
@@ -1326,7 +1184,6 @@ that the _Iliad_ is composed on a second-rate subject. The significance
 of the poem is not in the incidents surrounding the "Achilleis"; the
 whole significance is centred in the Wrath of Achilles, and thence made
 to impregnate every part.
-
 Life is short; we must make the best of it. How trite that sounds! But
 it is not trite at all really. It seems difficult, sometimes, to believe
 that there was a time when sentiments now become habitual, sentiments
@@ -1357,7 +1214,6 @@ _enjoyable_. And so, with courage as the value of life, and man thence
 delightedly accepting whatever can be made of his passage, the doom of
 life is not simply suffered; man enacts his own life; he has mastered
 it.
-
 We need not say that this is the lesson of Homer. And all this, barely
 stated, is a very different matter from what it is when it is poetically
 symbolized in the vast and shapely substance of the _Iliad_ and the
@@ -1413,7 +1269,6 @@ unintelligible to the huge majority of Englishmen--further from English
 than Latin is from Italian--and perhaps not even composed in England,
 certainly not concerned either with England or Englishmen, might
 nevertheless be called an English epic.
-
 But of course the early epics do not, any of them, merely repeat the
 significance of Homer in another form. They might do that, if poetry had
 to inculcate a moral, as some have supposed. But however nicely we may
@@ -1448,7 +1303,6 @@ but a web. Events and the influence of characters are woven closely and
 intricately together into one tragic pattern; and this requires not only
 characterization, but also the adding to the characters of persistent
 and dominant motives.
-
 Epic poetry exhibits life in some great symbolic attitude. It cannot
 strictly be said to symbolize life itself, but always some manner of
 life. But life as courage--the turning of the dark, hard condition of
@@ -1492,7 +1346,6 @@ an ornament, in the early epics; in Apollonius, though working through a
 deal of gross and lumbering mythological machinery, love becomes for the
 first time one of the primary values of life. The love of Jason and
 Medea is the vital symbolism of the _Argonautica_.
-
 But it is Virgil who really begins the development of epic art. He took
 over from Apollonius love as part of the epic symbolism of life, and
 delicate psychology as part of the epic method. And, like Apollonius, he
@@ -1504,11 +1357,9 @@ of his time in the composition of his work. That is, if he is
 successful; the time may refuse to work with him, but he may not refuse
 to work with his time. Virgil not only implies, he often clearly states,
 the original epic values of life, the Homeric values; as in the famous:
-
-  Stat sua cuique dies; breve et inreparabile tempus
-  Omnibus est vitae: sed famam extendere factis,
-  Hoc virtutis opus.[10]
-
+Stat sua cuique dies; breve et inreparabile tempus
+Omnibus est vitae: sed famam extendere factis,
+Hoc virtutis opus.[10]
 But to write a poem chiefly to symbolize this simple, heroic metaphysic
 would scarcely have done for Virgil; it would certainly not have done
 for his time. It was eminently a time of social organization, one might
@@ -1536,7 +1387,6 @@ lovely and noble art makes us a great symbol of _that_, is assuredly
 carrying on the work of Homer. This was the development in epic
 intention required to make epic poetry answer to the widening needs of
 civilization.
-
 But even more important, in the whole process of epic, than what
 Virgil's art does, is the way it does it. And this in spite of the fact
 which everyone has noticed, that Virgil does not compare with Homer as a
@@ -1559,13 +1409,11 @@ economy is the thing for an epic poet now; the concision, the
 scrupulousness, the loading of every word with something appreciable of
 the whole significance. After the _Aeneid_, the epic style must be of
 this fashion:
-
-  Ibant ovscuri sola sub nocte per umbram
-  Perque domos Ditis vacuas et inania regna:
-  Quale per incertam lunam sub luce maligna
-  Est iter in silvis, ubi caelum condidit umbra
-  Jupiter, et rebus nox abstulit atra colorem.[11]
-
+Ibant ovscuri sola sub nocte per umbram
+Perque domos Ditis vacuas et inania regna:
+Quale per incertam lunam sub luce maligna
+Est iter in silvis, ubi caelum condidit umbra
+Jupiter, et rebus nox abstulit atra colorem.[11]
 Lucan is much more of a Roman than Virgil; and the _Pharsalia_, so far
 as it is not an historical epic, is a political one; the idea of
 political liberty is at the bottom of it. That is not an unworthy theme;
@@ -1575,9 +1423,7 @@ real than legend; and, trying to lead epic in this direction,
 supernatural machinery would inevitably go too. That, perhaps, was
 fortunate, for it enabled Lucan safely to introduce one of his great and
 memorable lines:
-
-  Jupiter est quodcunque vides, quodcunque moveris;[12]
-
+Jupiter est quodcunque vides, quodcunque moveris;[12]
 which would certainly explode any supernatural machinery that could be
 invented. The _Pharsalia_ could not be anything more than an interesting
 but unsuccessful attempt; it was not on these lines that epic poetry was
@@ -1586,7 +1432,6 @@ remarkable; that he already had achieved a poem like the _Pharsalia_,
 would make us think he might have gone to incredible heights, were it
 not that the mistake of the _Pharsalia_ seems to belong incurably to his
 temperament.
-
 Lucan's determined stoicism may, philosophically, be more consistent
 than the dubious stoicism of Virgil. But Virgil knew that, in epic,
 supernatural imagination is better than consistency. It was an important
@@ -1643,7 +1488,6 @@ significance larger and deeper than anything it had yet done, and
 knowing that this must be done somehow through imagined supernaturalism.
 It waited nearly a hundred years for the poet who understood exactly
 what was to be done and exactly how to do it.
-
 In _Paradise Lost_, the development of epic poetry culminates, as far as
 it has yet gone. The essential inspiration of the poem implies a
 particular sense of human existence which has not yet definitely
@@ -1656,7 +1500,6 @@ greatest of heroic poems, only because it is not the first." The epigram
 might just as reasonably have been the other way round. But nothing
 would be more unprofitable than a discussion in which Homer and Milton
 compete for supremacy of genius. Our business here is quite otherwise.
-
 With the partial exception of Tasso and Camoens, all epic poetry before
 Milton is some symbolism of man's sense of his own will. It is simply
 this in Homer; and the succeeding poets developed this intention but
@@ -1687,7 +1530,6 @@ is equally conscious of its own limited reality and of the unlimited
 reality of that which contains him and drives him with its motion--of
 his own will striving in the midst of destiny: destiny irresistible, yet
 his will unmastered.
-
 This is not to examine the development of epic poetry by looking at that
 which is not _poetry_. In this kind of art, more perhaps than in any
 other, we must ignore the wilful theories of those who would set
@@ -1698,23 +1540,19 @@ images is no more the poetry of Milton than the idea of man which he
 expressed. But the general manner of an art is for ever similar; it is
 its inspiration that is for ever changing. We need never expect words
 and metre to do more than they do here:
-
-          they, fondly thinking to allay
-  Their appetite with gust, instead of fruit
-  Chewed bitter ashes, which the offended taste
-  With spattering noise rejected: oft they assayed,
-  Hunger and thirst constraining; drugged as oft,
-  With hatefullest disrelish writhed their jaws,
-  With soot and cinders filled;
-
+they, fondly thinking to allay
+Their appetite with gust, instead of fruit
+Chewed bitter ashes, which the offended taste
+With spattering noise rejected: oft they assayed,
+Hunger and thirst constraining; drugged as oft,
+With hatefullest disrelish writhed their jaws,
+With soot and cinders filled;
 or more than they do here:
-
-    What though the field be lost?
-  All is not lost; the unconquerable will,
-  And study of revenge, immortal hate,
-  And courage never to submit or yield,
-  And what is else not to be overcome.
-
+What though the field be lost?
+All is not lost; the unconquerable will,
+And study of revenge, immortal hate,
+And courage never to submit or yield,
+And what is else not to be overcome.
 But what Homer's words, and perhaps what Virgil's words, set out to do,
 they do just as marvellously. There is no sure way of comparison here.
 How words do their work in poetry, and how we appreciate the way they do
@@ -1723,7 +1561,6 @@ can but fumble at it. But we can compare inspiration--the nature of the
 inmost urgent motive of poetry. And it is not irrelevant to add (it
 seems to me mere fact), that Milton had the greatest motive that has
 ever ruled a poet.
-
 For the vehicle of this motive, a fable of purely human action would
 obviously not suffice. What Milton has to express is, of course,
 altogether human; destiny is an entirely human conception. But he has to
@@ -1738,7 +1575,6 @@ foolishly blamed for making his supernaturalism too human. But nothing
 can come into poetry that is not shaped and recognizable; how else but
 in anthropomorphism could destiny, or (its poetic equivalent) deity,
 exist in _Paradise Lost_?
-
 We may see what a change has come over epic poetry, if we compare this
 supernatural imagination of Milton's with the supernatural machinery of
 any previous epic poet. Virgil is the most scrupulous in this respect;
@@ -1752,7 +1588,6 @@ dualistic sense of destiny and the destined, and both immediately
 --Milton had to dissolve his human action completely in a
 supernatural action, is the sign not merely of a development, but of a
 re-creation, of epic art.
-
 It has been said that Satan is the hero of _Paradise Lost_. The offence
 which the remark has caused is due, no doubt, to injudicious use of the
 word "hero." It is surely the simple fact that if _Paradise Lost_ exists
@@ -1771,48 +1606,22 @@ of Satan's colossal figure, the single urgency of inspiration, which
 this dualistic consciousness of existence makes, radiates through all
 the regions of Milton's vast and rigorous imagination. "Milton," says
 Landor, "even Milton rankt with living men!"
-
-FOOTNOTES:
-
-[Footnote 6: 'And all round the ships echoed terribly to the shouting
 Achaians.']
-
-[Footnote 7:
-  'When in a dusty whirlwind thou didst lie,
-    Thy valour lost, forgot thy chivalry.'--OGILBY.
+'When in a dusty whirlwind thou didst lie,
+Thy valour lost, forgot thy chivalry.'--OGILBY.
 (The version leaves out megas megalosti.)
 ]
-
-[Footnote 8: 'Mother, since thou didst bear me to be so short-lived,
 Olympian Zeus that thunders from on high should especially have bestowed
 honour on me.']
-
-[Footnote 9: 'Honour my son for me, for the swiftest doom of all is
 his.']
-
-[Footnote 10: "For everyone his own day is appointed; for all men the
 period of life is short and not to be recalled: but to spread glory by
 deeds, that is what valour can do."]
-
-[Footnote 11:
-  "They wer' amid the shadows by night in loneliness obscure
-  Walking forth i' the void and vasty dominyon of Ades;
-  As by an uncertain moonray secretly illumin'd
-  One goeth in the forest, when heav'n is gloomily clouded,
-  And black night hath robb'd the colours and beauty from all things."
---ROBERT BRIDGES.
+"They wer' amid the shadows by night in loneliness obscure
+Walking forth i' the void and vasty dominyon of Ades;
+As by an uncertain moonray secretly illumin'd
+One goeth in the forest, when heav'n is gloomily clouded,
+And black night hath robb'd the colours and beauty from all things."
 ]
-
-[Footnote 12: "All that is known, all that is felt, is God."]
-
-
-
-
-V.
-
-
-AFTER MILTON
-
 And after Milton, what is to happen? First, briefly, for a few instances
 of what has happened. We may leave out experiments in religious
 sentiment like Klopstock's _Messiah_. We must leave out also poems which
@@ -1840,7 +1649,6 @@ traditional epic manner will scarcely survive the separation. Epic
 content, however, may very well be looking out for a match with a new
 manner; though so far it does not seem to have found an altogether
 satisfactory partner.
-
 But there are one or two poems in which the old union seems still happy.
 Most noteworthy is Goethe's _Hermann und Dorothea_. You may say that it
 does not much matter whether such poetry should be called epic or, as
@@ -1914,7 +1722,6 @@ begun than we find ourselves in the midst of another. Apart from these
 idiosyncrasies, the poetry of _Gebir_ is a curious mixture of splendour
 and commonplace. If fiction could ever be wholly, and not only
 partially, epic, it would be in _Gebir_.
-
 In all these poems, we see an epic intention still combined with a
 recognizably epic manner. But what is quite evident is, that in all of
 them there is no attempt to carry on the development of epic, to take up
@@ -1948,7 +1755,6 @@ chiefly to enlarge the scope of this significance.[14] Browning's _The
 Ring and the Book_ also uses this notion of an idyllic sequence; but
 without any semblance of epic purpose, purely for the exhibition of
 human character.
-
 It has already been remarked that the ultimate significance of great
 drama is the same as that of epic. Since the vital epic purpose--the
 kind of epic purpose which answers to the spirit of the time--is
@@ -1982,7 +1788,6 @@ and drama is likely to be permanent. The peculiar effects which epic
 intention, in whatever manner, must aim at, seem to be as much hindered
 as helped by dramatic form; and possibly it is because the detail is
 necessarily too much enforced for the broad perfection of epic effect.
-
 The real truth seems to be, that there is an inevitable and profound
 difficulty in carrying on the Miltonic significance in anything like a
 story. Regular epic having reached its climax in _Paradise Lost_, the
@@ -2007,7 +1812,6 @@ impossible would be the naivete of Homer and the quite different but
 equally impracticable naivete of Tasso and Camoens. The conclusion seems
 to be, that the epic purpose will have to abandon the necessity of
 telling a story.
-
 Hugo's way may prove to be the right one. But there may be another; and
 what has happened in the past may suggest what may happen in the future.
 Epic poetry in the regular epic form has before now seemed unlikely. It
@@ -2060,10 +1864,6 @@ epic significance, and its manner is extraordinarily suggestive of a new
 epic method. Nevertheless, something more Lucretian in central
 imagination, something less bound to concrete and particular event,
 seems required for the complete development of epic purpose.
-
-FOOTNOTES:
-
-[Footnote 13: In the greatest poetry, all the elements of human nature
 are burning in a single flame. The artifice of criticism is to detect
 what peculiar radiance each element contributes to the whole light; but
 this no more affects the singleness of the compounded energy in poetry
@@ -2080,8 +1880,6 @@ nature. If the Keats of the letters be added to the Keats of the poems,
 a personality appears that seems more likely than any of his
 contemporaries, or than anyone who has come after him, for the work of
 carrying Miltonic epic forward without forsaking Miltonic form.]
-
-[Footnote 14: For all I know, Hugo may never have read Milton; judging
 by some silly remarks of his, I should hope not. But Hugo could feel the
 things in the spirit of man that Milton felt; not only because they were
 still there, but because the secret influence of Milton has intensified
@@ -2096,10 +1894,3 @@ universally and perpetually interesting, he said what is not to be
 questioned; though he did not perceive the real reason for his
 assertion. Darwin no more injured the significance of _Paradise Lost_
 than air-planes have injured Homer.]
-
-
-
-
-
-End of the Project Gutenberg EBook of The Epic, by Lascelles Abercrombie
-

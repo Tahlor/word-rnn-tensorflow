@@ -1,101 +1,26 @@
-e Project Gutenberg EBook of A Season at Harrogate, by Barbara Hofland
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: A Season at Harrogate
-
-Author: Barbara Hofland
-
-Release Date: February 7, 2011 [EBook #35193]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK A SEASON AT HARROGATE ***
-
-
-
-
 Produced by David Edwards, Ross Cooling and the Online
 Distributed Proofreading Canada Team at
 http://www.pgdpcanada.net (This file was produced from
 images generously made available by The Internet
 Archive/Canadian Libraries)
-
-
-
-
-
-
-
-
-
-  A
-
-  SEASON
-
-  AT
-
-  HARROGATE;
-
-  IN A
-
-  SERIES OF POETICAL EPISTLES,
-
-  FROM
-
-  _Benjamin Blunderhead, Esquire, to his Mother_,
-
-  IN DERBYSHIRE:
-
-  With useful and copious NOTES, descriptive of the Objects most worthy of
-  Attention in the Vicinity of Harrogate.
-
-         *     *     *     *     *
-
-  Laugh where we must, be candid where we can.
-
-  Pope.
-
-         *     *     *     *     *
-
-  Knaresbrough:
-
-  _PRINTED BY G. WILSON,_
-
-  AND SOLD BY
-
-  R. WILSON, KNARESBROUGH, AND HARROGATE;
-
-  Longman, Hurst, Rees, Orme, and Brown, Paternoster Row, London;
-  Robinson, Heaton, I. & I. Nicholls, and Baines, Leeds; Wolstenholme, and
-  Todd, York; Hunsley and Thomas, Doncaster; Langdale, Rippon; Edwards,
-  Halifax; Miss Gales, Sheffield; and Wright, Liverpool.
-
-  1812.
-
-
-
-
-  Entered at Stationers' Hall.
-
-
-
-
-  ADVERTISEMENT.
-
-
+_Benjamin Blunderhead, Esquire, to his Mother_,
+With useful and copious NOTES, descriptive of the Objects most worthy of
+Attention in the Vicinity of Harrogate.
+*     *     *     *     *
+Laugh where we must, be candid where we can.
+Pope.
+*     *     *     *     *
+Knaresbrough:
+Longman, Hurst, Rees, Orme, and Brown, Paternoster Row, London;
+Robinson, Heaton, I. & I. Nicholls, and Baines, Leeds; Wolstenholme, and
+Todd, York; Hunsley and Thomas, Doncaster; Langdale, Rippon; Edwards,
+Halifax; Miss Gales, Sheffield; and Wright, Liverpool.
+Entered at Stationers' Hall.
 That admirable production of Mr. Anstey's the "New Bath Guide," may
 justly be considered the parent of a numerous progeny of watering place
 bagatelles, each of which has some resemblance to its father, though not
 one of them can boast the wit, humour, or poetical talent which so
 eminently distinguishes those celebrated letters.
-
 The youngest of this race is now presented to the Public with that
 timidity which arises from conscious imperfection, devoid of the fear
 which rivalry has endeavoured to excite, and persecution may seek to
@@ -105,1402 +30,1252 @@ obscurity is cast on the world in a helpless, yet not hopeless state,
 for the good man's smile has illumed its cradle, and it possesses that
 confidence derived from purity of intention, and that humility which
 disarms malice, and draws the sting of criticism.
-
-  B. HOFLAND.
-
-  _High Harrogate_,
-
-  _December 1, 1811._
-
-
-
-
-  LETTER I.
-
-  To Mrs. Blunderhead,
-
-  _Low Harrogate, July 20th_.
-
-  'Tis now forty years and dear mother _you_ know it,
-  Since my great Uncle[1] Simkin set up for a poet,
-  And I'll venture to say that not one in the nation,
-  From that day to this caus'd so much admiration,
-  But tho' I ne'er hope on his humour to hit,
-  Much less catch his genius or glow with his wit,
-  Or blend with simplicity satire so keen,
-  That it laugh'd away sin, while it laugh'd away spleen,
-  Yet since there are many more folks in _our_ times,
-  Than were found about _his_, who make verses and rhymes,
-  I don't see a reason why I should not try,
-  To spread my poor fins and to swim with the fry,
-  You know Drewry of Derby would never refuse,
-  My sonnets, and stanzas, a place in the news,
-  Besides a great name's a great matter we know,
-  James Thompson our schoolmaster always said so,
-  And thought it the best of a hundred good reasons,
-  Why he should write verses as fine as 'The Seasons'
-  Now I being last of the Blunderhead race,
-  As a casuist this doctrine most warmly embrace,
-  And hope my dear mother the parson and you,
-  Whilst conning my letters will give me my due,
-  And say to reward all my labour and pains,
-  He is just like his uncle _save wanting his brains_.
-  But a truce to this subject of grave declamation,
-  My spirit's not suited to sage dissertation,
-  To anatomists leaving the state of my skull,
-  To critics their right of pronouncing me dull,
-  I shall merely go on with my gossiping rhyme,
-  To tell you my method of killing my time,
-  And open as well as I can all the merit,
-  This place of resort is allow'd to inherit.      32
-
-    When first I arriv'd here I didn't well know,
-  If at Harrogate High, or at Harrogate Low,
-  I should place myself snugly, but after some chatter,
-  With those who were knowing, I fix'd on the latter
-  So now my good madam behold me sat down,
-  With a number of invalid folks at the Crown,
-  But what way _invalid_ to unfold I'm not able,
-  Unless 'tis with cramming at Thackwray's good table,
-  Who with turbot, and ven'son, and poultry, and beef,
-  To the sick with their hunger gives instant relief,
-  But as to the crop-sick I very much question,
-  If here they find help for diseas'd indigestion,
-  The sight of these good things to me was unpleasant,
-  For you know I am ticklish and qualmish at present
-  But the Company laugh and declare I shall soon eat,
-  Three pounds of good food, tho' I now live on spoonmeat,
-  And in order to bring me about very quickly,
-  Some good looking dames neither sighing nor sickly,
-  Advis'd me most kindly the very first night,
-  To consult with a doctor as soon as 'twas light,
-  Then take of the water a plentiful dose,
-  Said they "the well's nigh" so I find by my nose,
-  "But pray gentle ladies declare in a trice,
-  "The doctor of whom I must ask this advice?"      56
-
-    This question once put t'would surprise you dear mother,
-  How they answer'd at once each more loud than the other,
-  "There's not one of them all that my fancy so takes"
-  "Cried a lady in black" "as my good Doctor Jaques,"
-  Says the next "Mr. Richardson's wonderful clever,
-  Tho' so busy dear heart there's no catching him ever,"
-  Cries a third "if you really want medical skill,
-  Mr. Wormald will cure you if any man will,"
-  "And I know" "said a fourth" "that whatever may ail ye,
-  "You're sure of relief if you see Doctor Cayley."
-
-    Afraid of offending each charming adviser,
-  By a pref'rence that said "ma'am your neighbour is wiser,"
-  I obey'd the loud mandate of Gen'ral O'Flurry,
-  And this morning consulted with one Doctor Murray
-  Who sans ruffles, sans wig, and sans avis supercilious,
-  Has pronounc'd on my case and declares I am bilious,
-  In my next dearest mother some news I will tell,
-  Of these wonderful waters when drank at the well
-  So wishing you ne'er may have need of such liquor
-  Conclude me yours truly--with love to the vicar.
-
-                                     &c. &c. &c.
-
-[Footnote 1: Simkin Bl--nd--rh----d Esq. Author of the New Bath Guide.]
-
-
-
-
-  LETTER II.
-
-  _Low Harrogate, July 24th._
-
-
-  Oh! how my dear mother shall pen, ink, and paper
-  Convey to your mind a true sense of the vapour,
-  Which hov'ring around this new Acheron serves,
-  To torture and wound your olfactory nerves,
-  And gives you presentiment piercing and strong,
-  Of its pungent effects when receiv'd on the tongue.
-
-    Of rotten eggs, brimstone, and salts make a hash,
-  And 'twill form something like this delectable mash
-  Nothing else in this world I will wager a pasty,
-  So good in effect, ever tasted so nasty.
-  But ah! tis the pencil of Bunb'ry alone,
-  By which the sweet stream and its pow'rs can be shewn,
-  Nor does the whole kingdom afford I am sure,
-  One scene like this well for a caricature,
-  All ages, and sexes, all ranks, and degree,
-  All forms, and all sizes distorted you see,
-  Some grinning, some splutt'ring, some pulling wry faces,
-  In short 'tis a mart for all sorts of grimaces,
-  But all you conceive, of age, infancy, youth,
-  In contortion and whim must fall short of the truth,
-  One screws up his lips like the mouth of a purse,
-  While his neighbour's fierce grin gives the threat of a curse,
-  And a third gasping begs with his eyes turn'd to heaven,
-  That his stomach will keep what so lately was given
-  But feeling the rebel will spurn at his pray'r,
-  Throws the rest of his bumper away in despair.
-  But woe to the wight of more delicate notions,
-  When he sees how the well-women deal out their potions,
-  This levelling tribe of a democrat race,
-  From the red nos'd postillion, up to her Grace
-  Feeds each from one glass, without washing, or rincing,
-  And the sybil but laughs if you make any wincing,
-  From the modest who issue from cheap Mrs. Binns'
-  To the great ones who drive from High Harrogate Inns,
-  Where a difference far more essential is found,
-  From the sick, to the well, the same cup travels round,
-  From breath that would poison a Hottentot king
-  To breath that is sweeter than violets in spring,
-  But as sulphur prohibits all sorts of infection,
-  The rational say "there's no proper objection,      116
-  To mingling _en masse_ with all sorts of diseases,
-  Tho' the stomach may make what objection she pleases."
-
-    Now turn my dear mother with me and survey
-  This company blended of grave and of gay,
-  See Alderman Gobble, and Counsellor Puffing,
-  Who came to this well as a penance for stuffing,
-  And poor Captain Brandylove come to recruit,
-  Swears the Cognac grape was the forbidden fruit,
-  Here gentlemen jockies who ride into fevers,
-  And surfeits obtain from their noble endeavours,
-  Such as Timothy Twig'em Esquire of our town,
-  And my Lord Spatterdashit that peer of renown,
-  And Sir Gilbert O'Fetlock with coach driving coat,
-  With many more whips of distinction and note,
-  Come swarming around just to take off their glasses,
-  Make matches for horses, and bets upon asses.
-
-    But here come a group whose deplorable faces,
-  E'en surfeit itself would illumine with graces,
-  See poor Major Liverless come from Bombay,
-  To send his sharp bile and black jaundice away,
-  And gripe the contractor, who ruin'd his health,
-  While he sold (silly booby) his conscience for wealth
-  For Escarides every physician will tell,
-  There's no med'cine on earth like the Harrogate well,
-  But the worm which gnaws gripe will ne'er yield to its mixture,
-  'Tis lodg'd in the heart an indelible fixture,
-  But truce to my preaching--who makes his approach
-  In such dashing array, and so splendid a coach?
-  'Tis the great Doctor Solomon stooping to take,
-  A dose of this water by way of a freak,      148
-  Tho' all the world knows that his own balmy bottle,
-  (More warm to the heart and more sweet to the throttle)
-  Not only cures patients but makes 'em so merry,
-  One spoonful is worth a whole bottle of sherry.
-
-    All hail to Britannia! her plentiful hive,
-  Has taught many bees like this doctor to thrive,
-  But from all I can learn not one quack shares her honey,
-  More deserving than this, since he's free with his money,
-  "Easy come easy go" is his motto I'm told,
-  Tho' his daughters are portion'd with ingots of gold
-  But I scorn upon men any more to descant,
-  For the Blunderheads always were very gallant,
-  And if beauty and fashion e'er claim'd admiration,
-  From the heart of a man since the days of creation,
-  I'm sure at this time there's the very best reason,
-  To exult in the beauty that blooms here this season,
-  E'en now on parade I delighted behold,
-  Five elegant sisters of exquisite mould,
-  There too are the C--tt--rs sweet innocent creatures,
-  With peace in their bosoms and love in their features
-  And the beautiful L--nds and the L--kes too appear
-  Like goddesses dropt from a delicate sphere;
-  Yet mid the assemblage M--cd--nald we trace,
-  No charmer that equals thy form or thy face,
-  Tho' W--m--ld such majesty dwells in thy mien,
-  And in W--ts--n's mild eyes such true sweetness is seen,
-  That really my muse is perplex'd to declare,
-  How one can excel where so many are fair,
-  Oh woman! _dear_ woman! without you all nature,
-  Would be to my mind like a draught of this water,
-  And may he whose cold heart and dull head would disprove,
-  The magic of beauty the solace of love,
-  And seek from rude man your soft claims to dissever,
-  Be condemn'd without mercy to drink it for ever,
-  Ye are stars of the night! ye are gems of the morn!
-  Ye are dew-drops whose lustre illumines the thorn!
-  And rayless that night is--that morning unblest,
-  Where no beam in your eye lights up bliss in the breast,
-  And the sharp thorn of sorrow sinks deep in the heart
-  Till the sweet lip of woman assuages the smart,
-  'Tis her's o'er the couch of misfortune to bend,
-  In fondness a lover, in firmness a friend,
-  And prosperity's hour be it ever confest,
-  From woman receives both refinement and zest,
-  And adorn'd by the bays or enwreath'd with the willow
-  Her smile is our meed, and her bosom our pillow.
-  But ah! my good mother this subject I find,
-  Has quite run away with my paper and mind,
-  For in themes so bewitching so many thoughts pop in
-  The mania of scribbling finds no place to stop in,
-  But in praising the ladies you can't think me rude,
-  So adieu till my next--'tis high time to conclude.
-
-                                     &c. &c. &c.
-
-
-
-
-  LETTER III.
-
-  _Low Harrogate, July 30th._
-
-
-  With pleasure dear mother commence I this letter
-  To tell you already I find myself better,
-  To the praise of the well be it known I am able,
-  To pick up my crumbs with the best at the table,
-  And now think the landlord a very wise man,
-  For placing thereon all the dishes he can,
-  No longer fastidious or squeamish or dainty,
-  I like all I see and rejoice that there's plenty,
-  But since I wrote last by my doctor's prescription,
-  I've had a warm bath of which take my description
-  Fair Derwent how oft in thy pure limpid wave,
-  Delighted I lov'd in full freedom to lave,
-  While on thy green banks in soft herbage reposing,
-  The swains and their flocks, were contentedly dosing
-  And the landscape around, and above the blue sky
-  Shed new life on the heart while they solac'd the eye
-  Little thought I in those days so sunny and smiling,
-  What a different thing was a Harrogate boiling,
-  And astonish'd I saw when I came to my doffing[2],
-  A tub of hot water made just like a coffin,
-  In which the good woman who tended the bath,
-  Declar'd I must lie down as straight as a lath,
-  Just keeping my face above water that so,
-  I might better inhale the fine fume from below,
-  "But mistress," 'quoth I in a trembling condition,'
-  "I hope you'll allow me one small requisition,
-  Since scrophula, leprosy, herpes, and scurvy,
-  Have all in this coffin been roll'd topsy-turvy,      232
-  In a physical sense I presume it is meet,
-  That each guest should be wrapt in a clean winding sheet,"
-  "Oh no! my good sir for whatever's your case,
-  You can never catch any thing bad in this place,
-  And that being settled on solid foundation,
-  We Harrogate bath-women spurn innovation."
-  So caviller like I submitted to pow'r,
-  And was coddled in troth for the third of an hour.
-  But that very same night to atone for it all,
-  I figur'd away the first man at the ball,
-  For the president being both idle and lusty,
-  Conceiv'd that his pow'rs "a la danse" were grown rusty,
-  And consign'd all his rights in this gay exhibition,
-  To myself as a man of more able condition,
-  But oh! how it griev'd me dear mother to find,
-  So very few beaux were to dancing inclin'd;
-  Constellations of beauty all night shone in vain,
-  Condemn'd as fix'd stars unremov'd to remain,
-  Whose influence benignant ne'er reach'd from their sphere,
-  To warm the cold heels of the gentlemen here,
-  Captain--r--r consider'd a man of high ton,
-  All dancing declin'd till the ball was just done,
-  And then he made shift just to drawl on his legs,
-  As a lame Chelsea pensioner does when he begs,
-  But in spite of his ennui and indolent air
-  He dances _divinely_ the ladies declare.      258
-  Of these tho' a great many caper'd away,
-  Yet many sat still who were lovely as they,
-  Fair F--z--r was there, and the beautiful P--k--r
-  With the elegant H--tt--n as lovely tho' darker,
-  The gay A--x--nd--r and R--g--rs the pretty,
-  And M--w--r the graceful, and B--ley the witty.
-  Some came from the Granby and some from the Dragon,
-  But these are all belles that our own house may brag on,
-  For at present the Crown is much fuller than any,
-  Tho' the Inns at High Harrogate boast a good many
-  The Crescent our neighbour is full to o'erflowing,
-  And numbers I see to the White Hart are going.
-  As bad as the times are John Bull makes a shift,
-  To give the gay world an effectual lift,
-  And so long as these places can live by their trading
-  We may smile at Napoleon's threats of invading.
-
-    The place of all places for lounging away,
-  In amusement and style the first half of the day,
-  Is at each of the Libraries[3]; where you may find,
-  Books, music, fine prints, in short all things combin'd,
-  Which those who have taste are delighted to cherish
-  And those who have none yet affect much to relish,
-  Politicians, and ladies, bucks, authors, and peers,
-  The busy all eyes, and the idle all ears,      284
-  May here every morning be seen in perfection,
-  Like the books, or the news, just laid out for inspection,
-  So to Wilson's I go every morning inquiring,
-  "What arrivals there are?"----and the papers desiring,
-  And look with a deep and significant phiz,
-  For Peninsula news, or a boxing match quiz,
-  Nay at times I converse on a poem or play,
-  And utter no less 'cause I've nothing to say,
-  Rememb'ring in all kinds of difficult cases,
-  To make out my meaning by shrugs and grimaces,
-  Thus a man without reading may give an opinion,
-  And snatch for an hour dilletanti dominion,
-  From what sources great critics may judge I can't tell
-  But I always find mine are produc'd at the well,
-  When my breakfast eats good and the waters agree
-  Capel Loft's sugar-candy's not sweeter than me,
-  This morning I dazzled the minds of the crowd,
-  By pronouncing Lord Byron "a poet" aloud,
-  Of Strangford and Moore then condemned the sweet flummery,
-  Talk'd of Southey the chaste, and the matchless Montgomery,
-  Call'd Campbell the elegant, Wordsworth the wild
-  And the great Walter Scott Inspiration's own child;
-  Then prais'd the sweet bard tho' unknown be his name,
-  Who gave Talavera's dread battles to fame,
-  Thus 'mongst reading-room gents I set up for a judge,
-  And an eulogist too (when the waters will budge)
-  But if on my stomach they happen to rest,
-  With such critical spleen is my humour opprest,
-  Whether minister, gen'ral, or author I seize on,
-  Be assur'd that I charge him at least with high-treason,
-  And it then would surprise ye to hear me debate,
-  On the faults of the war and the crimes of the state,
-  On wonderful plans for complete reformation,
-  And fearful predictions for folks of high station,
-  Then too the grand censor on writers I sit,
-  And fulminate laws 'gainst pretenders to wit,      320
-  Or deeply regret these degenerate times,
-  Produce prose without sense, without poetry rhymes
-  Step on to consider the faults of the stage
-  And conclude there's not one decent thing in the age.
-  Thus as sung my great uncle "our evil, and good,
-  "By few is conceiv'd, and by few understood,"
-  If unwisely we praise, or unfeelingly blame
-  Now shudd'ring with ague, now burning with flame,
-  Tho' ignorance gener'lly causes this fault,
-  Yet _here_ 'tis the mixture of sulphur and salt
-  Which nine times in ten will improve on our nature
-  As it clears a complexion or softens a feature,
-  And that without doubt you'll allow is the reason,
-  Why so many matches are made here each season,
-  And who knows dear ma'am but this wonderful water
-  May gain me a sweet wife and yourself a dear daughter?
-  And at Robey's likewise ev'ry morning I'm shown
-  Since not to know _him_, would prove I was unknown
-  Banker, Jeweller, Friseur, and Toyman, his trade is
-  He's all things for the beaux and still more for the ladies,
-  But no wonder they like him so much in this place,
-  For good temper and honesty dwell in his face,
-  And his shop is so stor'd with all things that are pretty,
-  He has skimm'd the first cream from Pall Mall and the city.
-  But from pictures of lounges I'll now give you rest,
-  For the dinner bell rings and I am not half drest.
-
-                                   &c. &c. &c.
-
-[Footnote 2: Doffing, undressing, _vide_ Johnson--a word much used in
+_High Harrogate_,
+_December 1, 1811._
+To Mrs. Blunderhead,
+_Low Harrogate, July 20th_.
+'Tis now forty years and dear mother _you_ know it,
+Since my great Uncle[1] Simkin set up for a poet,
+And I'll venture to say that not one in the nation,
+From that day to this caus'd so much admiration,
+But tho' I ne'er hope on his humour to hit,
+Much less catch his genius or glow with his wit,
+Or blend with simplicity satire so keen,
+That it laugh'd away sin, while it laugh'd away spleen,
+Yet since there are many more folks in _our_ times,
+Than were found about _his_, who make verses and rhymes,
+I don't see a reason why I should not try,
+To spread my poor fins and to swim with the fry,
+You know Drewry of Derby would never refuse,
+My sonnets, and stanzas, a place in the news,
+Besides a great name's a great matter we know,
+James Thompson our schoolmaster always said so,
+And thought it the best of a hundred good reasons,
+Why he should write verses as fine as 'The Seasons'
+Now I being last of the Blunderhead race,
+As a casuist this doctrine most warmly embrace,
+And hope my dear mother the parson and you,
+Whilst conning my letters will give me my due,
+And say to reward all my labour and pains,
+He is just like his uncle _save wanting his brains_.
+But a truce to this subject of grave declamation,
+My spirit's not suited to sage dissertation,
+To anatomists leaving the state of my skull,
+To critics their right of pronouncing me dull,
+I shall merely go on with my gossiping rhyme,
+To tell you my method of killing my time,
+And open as well as I can all the merit,
+This place of resort is allow'd to inherit.      32
+When first I arriv'd here I didn't well know,
+If at Harrogate High, or at Harrogate Low,
+I should place myself snugly, but after some chatter,
+With those who were knowing, I fix'd on the latter
+So now my good madam behold me sat down,
+With a number of invalid folks at the Crown,
+But what way _invalid_ to unfold I'm not able,
+Unless 'tis with cramming at Thackwray's good table,
+Who with turbot, and ven'son, and poultry, and beef,
+To the sick with their hunger gives instant relief,
+But as to the crop-sick I very much question,
+If here they find help for diseas'd indigestion,
+The sight of these good things to me was unpleasant,
+For you know I am ticklish and qualmish at present
+But the Company laugh and declare I shall soon eat,
+Three pounds of good food, tho' I now live on spoonmeat,
+And in order to bring me about very quickly,
+Some good looking dames neither sighing nor sickly,
+Advis'd me most kindly the very first night,
+To consult with a doctor as soon as 'twas light,
+Then take of the water a plentiful dose,
+Said they "the well's nigh" so I find by my nose,
+"But pray gentle ladies declare in a trice,
+"The doctor of whom I must ask this advice?"      56
+This question once put t'would surprise you dear mother,
+How they answer'd at once each more loud than the other,
+"There's not one of them all that my fancy so takes"
+"Cried a lady in black" "as my good Doctor Jaques,"
+Says the next "Mr. Richardson's wonderful clever,
+Tho' so busy dear heart there's no catching him ever,"
+Cries a third "if you really want medical skill,
+Mr. Wormald will cure you if any man will,"
+"And I know" "said a fourth" "that whatever may ail ye,
+"You're sure of relief if you see Doctor Cayley."
+Afraid of offending each charming adviser,
+By a pref'rence that said "ma'am your neighbour is wiser,"
+I obey'd the loud mandate of Gen'ral O'Flurry,
+And this morning consulted with one Doctor Murray
+Who sans ruffles, sans wig, and sans avis supercilious,
+Has pronounc'd on my case and declares I am bilious,
+In my next dearest mother some news I will tell,
+Of these wonderful waters when drank at the well
+So wishing you ne'er may have need of such liquor
+Conclude me yours truly--with love to the vicar.
+&c. &c. &c.
+_Low Harrogate, July 24th._
+Oh! how my dear mother shall pen, ink, and paper
+Convey to your mind a true sense of the vapour,
+Which hov'ring around this new Acheron serves,
+To torture and wound your olfactory nerves,
+And gives you presentiment piercing and strong,
+Of its pungent effects when receiv'd on the tongue.
+Of rotten eggs, brimstone, and salts make a hash,
+And 'twill form something like this delectable mash
+Nothing else in this world I will wager a pasty,
+So good in effect, ever tasted so nasty.
+But ah! tis the pencil of Bunb'ry alone,
+By which the sweet stream and its pow'rs can be shewn,
+Nor does the whole kingdom afford I am sure,
+One scene like this well for a caricature,
+All ages, and sexes, all ranks, and degree,
+All forms, and all sizes distorted you see,
+Some grinning, some splutt'ring, some pulling wry faces,
+In short 'tis a mart for all sorts of grimaces,
+But all you conceive, of age, infancy, youth,
+In contortion and whim must fall short of the truth,
+One screws up his lips like the mouth of a purse,
+While his neighbour's fierce grin gives the threat of a curse,
+And a third gasping begs with his eyes turn'd to heaven,
+That his stomach will keep what so lately was given
+But feeling the rebel will spurn at his pray'r,
+Throws the rest of his bumper away in despair.
+But woe to the wight of more delicate notions,
+When he sees how the well-women deal out their potions,
+This levelling tribe of a democrat race,
+From the red nos'd postillion, up to her Grace
+Feeds each from one glass, without washing, or rincing,
+And the sybil but laughs if you make any wincing,
+From the modest who issue from cheap Mrs. Binns'
+To the great ones who drive from High Harrogate Inns,
+Where a difference far more essential is found,
+From the sick, to the well, the same cup travels round,
+From breath that would poison a Hottentot king
+To breath that is sweeter than violets in spring,
+But as sulphur prohibits all sorts of infection,
+The rational say "there's no proper objection,      116
+To mingling _en masse_ with all sorts of diseases,
+Tho' the stomach may make what objection she pleases."
+Now turn my dear mother with me and survey
+This company blended of grave and of gay,
+See Alderman Gobble, and Counsellor Puffing,
+Who came to this well as a penance for stuffing,
+And poor Captain Brandylove come to recruit,
+Swears the Cognac grape was the forbidden fruit,
+Here gentlemen jockies who ride into fevers,
+And surfeits obtain from their noble endeavours,
+Such as Timothy Twig'em Esquire of our town,
+And my Lord Spatterdashit that peer of renown,
+And Sir Gilbert O'Fetlock with coach driving coat,
+With many more whips of distinction and note,
+Come swarming around just to take off their glasses,
+Make matches for horses, and bets upon asses.
+But here come a group whose deplorable faces,
+E'en surfeit itself would illumine with graces,
+See poor Major Liverless come from Bombay,
+To send his sharp bile and black jaundice away,
+And gripe the contractor, who ruin'd his health,
+While he sold (silly booby) his conscience for wealth
+For Escarides every physician will tell,
+There's no med'cine on earth like the Harrogate well,
+But the worm which gnaws gripe will ne'er yield to its mixture,
+'Tis lodg'd in the heart an indelible fixture,
+But truce to my preaching--who makes his approach
+In such dashing array, and so splendid a coach?
+'Tis the great Doctor Solomon stooping to take,
+A dose of this water by way of a freak,      148
+Tho' all the world knows that his own balmy bottle,
+(More warm to the heart and more sweet to the throttle)
+Not only cures patients but makes 'em so merry,
+One spoonful is worth a whole bottle of sherry.
+All hail to Britannia! her plentiful hive,
+Has taught many bees like this doctor to thrive,
+But from all I can learn not one quack shares her honey,
+More deserving than this, since he's free with his money,
+"Easy come easy go" is his motto I'm told,
+Tho' his daughters are portion'd with ingots of gold
+But I scorn upon men any more to descant,
+For the Blunderheads always were very gallant,
+And if beauty and fashion e'er claim'd admiration,
+From the heart of a man since the days of creation,
+I'm sure at this time there's the very best reason,
+To exult in the beauty that blooms here this season,
+E'en now on parade I delighted behold,
+Five elegant sisters of exquisite mould,
+There too are the C--tt--rs sweet innocent creatures,
+With peace in their bosoms and love in their features
+And the beautiful L--nds and the L--kes too appear
+Like goddesses dropt from a delicate sphere;
+Yet mid the assemblage M--cd--nald we trace,
+No charmer that equals thy form or thy face,
+Tho' W--m--ld such majesty dwells in thy mien,
+And in W--ts--n's mild eyes such true sweetness is seen,
+That really my muse is perplex'd to declare,
+How one can excel where so many are fair,
+Oh woman! _dear_ woman! without you all nature,
+Would be to my mind like a draught of this water,
+And may he whose cold heart and dull head would disprove,
+The magic of beauty the solace of love,
+And seek from rude man your soft claims to dissever,
+Be condemn'd without mercy to drink it for ever,
+Ye are stars of the night! ye are gems of the morn!
+Ye are dew-drops whose lustre illumines the thorn!
+And rayless that night is--that morning unblest,
+Where no beam in your eye lights up bliss in the breast,
+And the sharp thorn of sorrow sinks deep in the heart
+Till the sweet lip of woman assuages the smart,
+'Tis her's o'er the couch of misfortune to bend,
+In fondness a lover, in firmness a friend,
+And prosperity's hour be it ever confest,
+From woman receives both refinement and zest,
+And adorn'd by the bays or enwreath'd with the willow
+Her smile is our meed, and her bosom our pillow.
+But ah! my good mother this subject I find,
+Has quite run away with my paper and mind,
+For in themes so bewitching so many thoughts pop in
+The mania of scribbling finds no place to stop in,
+But in praising the ladies you can't think me rude,
+So adieu till my next--'tis high time to conclude.
+&c. &c. &c.
+_Low Harrogate, July 30th._
+With pleasure dear mother commence I this letter
+To tell you already I find myself better,
+To the praise of the well be it known I am able,
+To pick up my crumbs with the best at the table,
+And now think the landlord a very wise man,
+For placing thereon all the dishes he can,
+No longer fastidious or squeamish or dainty,
+I like all I see and rejoice that there's plenty,
+But since I wrote last by my doctor's prescription,
+I've had a warm bath of which take my description
+Fair Derwent how oft in thy pure limpid wave,
+Delighted I lov'd in full freedom to lave,
+While on thy green banks in soft herbage reposing,
+The swains and their flocks, were contentedly dosing
+And the landscape around, and above the blue sky
+Shed new life on the heart while they solac'd the eye
+Little thought I in those days so sunny and smiling,
+What a different thing was a Harrogate boiling,
+And astonish'd I saw when I came to my doffing[2],
+A tub of hot water made just like a coffin,
+In which the good woman who tended the bath,
+Declar'd I must lie down as straight as a lath,
+Just keeping my face above water that so,
+I might better inhale the fine fume from below,
+"But mistress," 'quoth I in a trembling condition,'
+"I hope you'll allow me one small requisition,
+Since scrophula, leprosy, herpes, and scurvy,
+Have all in this coffin been roll'd topsy-turvy,      232
+In a physical sense I presume it is meet,
+That each guest should be wrapt in a clean winding sheet,"
+"Oh no! my good sir for whatever's your case,
+You can never catch any thing bad in this place,
+And that being settled on solid foundation,
+We Harrogate bath-women spurn innovation."
+So caviller like I submitted to pow'r,
+And was coddled in troth for the third of an hour.
+But that very same night to atone for it all,
+I figur'd away the first man at the ball,
+For the president being both idle and lusty,
+Conceiv'd that his pow'rs "a la danse" were grown rusty,
+And consign'd all his rights in this gay exhibition,
+To myself as a man of more able condition,
+But oh! how it griev'd me dear mother to find,
+So very few beaux were to dancing inclin'd;
+Constellations of beauty all night shone in vain,
+Condemn'd as fix'd stars unremov'd to remain,
+Whose influence benignant ne'er reach'd from their sphere,
+To warm the cold heels of the gentlemen here,
+Captain--r--r consider'd a man of high ton,
+All dancing declin'd till the ball was just done,
+And then he made shift just to drawl on his legs,
+As a lame Chelsea pensioner does when he begs,
+But in spite of his ennui and indolent air
+He dances _divinely_ the ladies declare.      258
+Of these tho' a great many caper'd away,
+Yet many sat still who were lovely as they,
+Fair F--z--r was there, and the beautiful P--k--r
+With the elegant H--tt--n as lovely tho' darker,
+The gay A--x--nd--r and R--g--rs the pretty,
+And M--w--r the graceful, and B--ley the witty.
+Some came from the Granby and some from the Dragon,
+But these are all belles that our own house may brag on,
+For at present the Crown is much fuller than any,
+Tho' the Inns at High Harrogate boast a good many
+The Crescent our neighbour is full to o'erflowing,
+And numbers I see to the White Hart are going.
+As bad as the times are John Bull makes a shift,
+To give the gay world an effectual lift,
+And so long as these places can live by their trading
+We may smile at Napoleon's threats of invading.
+The place of all places for lounging away,
+In amusement and style the first half of the day,
+Is at each of the Libraries[3]; where you may find,
+Books, music, fine prints, in short all things combin'd,
+Which those who have taste are delighted to cherish
+And those who have none yet affect much to relish,
+Politicians, and ladies, bucks, authors, and peers,
+The busy all eyes, and the idle all ears,      284
+May here every morning be seen in perfection,
+Like the books, or the news, just laid out for inspection,
+So to Wilson's I go every morning inquiring,
+"What arrivals there are?"----and the papers desiring,
+And look with a deep and significant phiz,
+For Peninsula news, or a boxing match quiz,
+Nay at times I converse on a poem or play,
+And utter no less 'cause I've nothing to say,
+Rememb'ring in all kinds of difficult cases,
+To make out my meaning by shrugs and grimaces,
+Thus a man without reading may give an opinion,
+And snatch for an hour dilletanti dominion,
+From what sources great critics may judge I can't tell
+But I always find mine are produc'd at the well,
+When my breakfast eats good and the waters agree
+Capel Loft's sugar-candy's not sweeter than me,
+This morning I dazzled the minds of the crowd,
+By pronouncing Lord Byron "a poet" aloud,
+Of Strangford and Moore then condemned the sweet flummery,
+Talk'd of Southey the chaste, and the matchless Montgomery,
+Call'd Campbell the elegant, Wordsworth the wild
+And the great Walter Scott Inspiration's own child;
+Then prais'd the sweet bard tho' unknown be his name,
+Who gave Talavera's dread battles to fame,
+Thus 'mongst reading-room gents I set up for a judge,
+And an eulogist too (when the waters will budge)
+But if on my stomach they happen to rest,
+With such critical spleen is my humour opprest,
+Whether minister, gen'ral, or author I seize on,
+Be assur'd that I charge him at least with high-treason,
+And it then would surprise ye to hear me debate,
+On the faults of the war and the crimes of the state,
+On wonderful plans for complete reformation,
+And fearful predictions for folks of high station,
+Then too the grand censor on writers I sit,
+And fulminate laws 'gainst pretenders to wit,      320
+Or deeply regret these degenerate times,
+Produce prose without sense, without poetry rhymes
+Step on to consider the faults of the stage
+And conclude there's not one decent thing in the age.
+Thus as sung my great uncle "our evil, and good,
+"By few is conceiv'd, and by few understood,"
+If unwisely we praise, or unfeelingly blame
+Now shudd'ring with ague, now burning with flame,
+Tho' ignorance gener'lly causes this fault,
+Yet _here_ 'tis the mixture of sulphur and salt
+Which nine times in ten will improve on our nature
+As it clears a complexion or softens a feature,
+And that without doubt you'll allow is the reason,
+Why so many matches are made here each season,
+And who knows dear ma'am but this wonderful water
+May gain me a sweet wife and yourself a dear daughter?
+And at Robey's likewise ev'ry morning I'm shown
+Since not to know _him_, would prove I was unknown
+Banker, Jeweller, Friseur, and Toyman, his trade is
+He's all things for the beaux and still more for the ladies,
+But no wonder they like him so much in this place,
+For good temper and honesty dwell in his face,
+And his shop is so stor'd with all things that are pretty,
+He has skimm'd the first cream from Pall Mall and the city.
+But from pictures of lounges I'll now give you rest,
+For the dinner bell rings and I am not half drest.
+&c. &c. &c.
 Derbyshire.]
-
-[Footnote 3: Wilson's, and Hargroves.]
-
-
-
-
-  LETTER IV.
-
-  _Rippon, August 5th._
-
-
-  Since I wrote to you last my dear mother I've been
-  To see all the lions which are to be seen
-  Around this gay place--where 'tis much in the fashion,
-  Small parties to form for this sweet recreation,
-  So we lately set out on a very fine day,
-  Our respects to the beauties of Knaresbro' to pay,      342
-  But a painter alone to your eye can disclose,
-  A view of the scene as before us it rose,
-  Presenting a coup d'oeil so simple and sweet,
-  Yet so grand, so sublime, and in fact so complete,
-  That I fancied the river as winding around,
-  Was enclosing the spot as if consecrate ground
-  And this castle crown'd scene will ne'er rise to my mind,
-  Without claiming a sigh that I've left it behind,
-  Thro' a beautiful grove we were led to be shewn,
-  The fam'd Dropping-Well which turns all things to stone,
-  Yet in silver ton'd tinkling the Naiad departs,
-  Like ladies whose tears only harden their hearts.
-  From thence to the cell[4] of a saint we ascended,
-  By sage antiquarians most highly commended,
-  Then climb'd to the Fort where an honest old pair,
-  Would give you more pleasure than any thing there
-  Tho' their mutual labours have spread o'er the soil,
-  Astonishing proofs of their patience and toil.
-  We trac'd the bold ruins still proudly sublime,
-  Which yielding to man have found mercy from time,
-  And adorn the sweet scenes they were rais'd to protect,
-  With picturesque beauty more fine from defect;
-  Delighted to find wheresoever we roved
-  "His[5] Honour of Scriven" revered and beloved
-  As e'er his forefathers have been in those ages,
-  When the smile of the lord was more priz'd than his wages,
-  When the sire of the land in the heart of each vassal
-  Found a bulwark more strong than the walls of his castle----
-  From Knaresbro' to Plumpton our party proceeded
-  A spot that no trav'ller should pass by unheeded,      374
-  'Tis a miniature landscape redeem'd from the waste
-  As a species of show-box by nature and taste,
-  Of small rocks and small groves and a pretty small lake,
-  Where small parties aquatic excursions may take,
-  And fancy they view in perspective the shores,
-  Where Loch Lomond smiles or Geneva deplores.--
-  So well my first jaunt had agreed with my mood,
-  That I went to see Harewood the first day I cou'd,      380
-  But here my description must certainly fail as,
-  I have not one talent for painting a palace,
-  But to draw the proud mansion and bring it to view
-  Will surely dear mother be needless to you,
-  Since at Chatsworth we Derbyshire folks have all been,
-  You will judge I am certain of all that I mean,
-  When I tell you groves, gardens, fine water, and hall,
-  Seem the gift of good Genii to spangle this ball.
-
-    To Studley far-fam'd for its beauty we went      389
-  And gaz'd on those beauties with placid content,
-  Tho' some of the amateurs fancied that art,
-  In planning these grounds had o'er acted her part,
-  But who hallow'd Fountains thy threshold shall pass
-  And remember the ponds with their trimmings of grass?
-  No! rapt in the scene which presents contemplation,
-  Such objects of interest and deep veneration,
-  We gaze on the arch whence the ivy descending,
-  Usurps the rich shrine where the lamp was once pending,
-  Where the wild currant blooms and the mountain ash bows,
-  There knelt the great abbot and offer'd his vows,      400
-  And where the green beech his proud branches displays
-  Sweet incense ascended with anthems of praise.
-
-    Oh visions of old as around me ye roll!
-  Exalting, delighting, ennobling the soul,
-  Impress on my mem'ry if not on my rhyme
-  The pleasure I took in these scenes at the time,
-  For sure 'twas a pity that feelings so fine
-  Should evap'rate the moment we set off to dine,
-  Reducing at once the fine flights of the brain,
-  To the vulgar subjection of hunger, and pain,
-  Unlike to those heroes we read of in books,
-  Who living on sentiment scorn meat and cooks,
-  Fight, conquer, make love to a princess, and win her,
-  Without ever asking the aid of a dinner,
-  And heroines we see thro' five volumes can go,
-  Immers'd in all sorts of distraction and woe,
-  Without wetting their lips, thus bestowing the lie,
-  On the proverb which says that "true sorrow is dry."
-  But be that their affair 'twas no part of our plan,
-  For our beaux grew voracious, our ladies look'd wan
-  So we set off for Rippon with stomachs so hearty,
-  'Twas well Mrs. Robinson knew of the party,
-  She gave us a treat which so gladden'd our sight,
-  That we quickly determin'd to stay here all night
-  So I thought it was best just to empty my head,
-  Of its "perilous stuff" ere I ventur'd to bed,
-  Lest the walk I have taken with gazing and peeping
-  Should injure my nerves and prevent me from sleeping,
-  And conceiving a nap is a sound acquisition,
-  Have sought it (like many) by long composition.
-
-                                     &c. &c. &c.
-
-[Footnote 4: Saint Robert's Chapel.]
-
-[Footnote 5: Sir Thomas Slingsby, commonly styled "His Honour" by the
+_Rippon, August 5th._
+Since I wrote to you last my dear mother I've been
+To see all the lions which are to be seen
+Around this gay place--where 'tis much in the fashion,
+Small parties to form for this sweet recreation,
+So we lately set out on a very fine day,
+Our respects to the beauties of Knaresbro' to pay,      342
+But a painter alone to your eye can disclose,
+A view of the scene as before us it rose,
+Presenting a coup d'oeil so simple and sweet,
+Yet so grand, so sublime, and in fact so complete,
+That I fancied the river as winding around,
+Was enclosing the spot as if consecrate ground
+And this castle crown'd scene will ne'er rise to my mind,
+Without claiming a sigh that I've left it behind,
+Thro' a beautiful grove we were led to be shewn,
+The fam'd Dropping-Well which turns all things to stone,
+Yet in silver ton'd tinkling the Naiad departs,
+Like ladies whose tears only harden their hearts.
+From thence to the cell[4] of a saint we ascended,
+By sage antiquarians most highly commended,
+Then climb'd to the Fort where an honest old pair,
+Would give you more pleasure than any thing there
+Tho' their mutual labours have spread o'er the soil,
+Astonishing proofs of their patience and toil.
+We trac'd the bold ruins still proudly sublime,
+Which yielding to man have found mercy from time,
+And adorn the sweet scenes they were rais'd to protect,
+With picturesque beauty more fine from defect;
+Delighted to find wheresoever we roved
+"His[5] Honour of Scriven" revered and beloved
+As e'er his forefathers have been in those ages,
+When the smile of the lord was more priz'd than his wages,
+When the sire of the land in the heart of each vassal
+Found a bulwark more strong than the walls of his castle----
+From Knaresbro' to Plumpton our party proceeded
+A spot that no trav'ller should pass by unheeded,      374
+'Tis a miniature landscape redeem'd from the waste
+As a species of show-box by nature and taste,
+Of small rocks and small groves and a pretty small lake,
+Where small parties aquatic excursions may take,
+And fancy they view in perspective the shores,
+Where Loch Lomond smiles or Geneva deplores.--
+So well my first jaunt had agreed with my mood,
+That I went to see Harewood the first day I cou'd,      380
+But here my description must certainly fail as,
+I have not one talent for painting a palace,
+But to draw the proud mansion and bring it to view
+Will surely dear mother be needless to you,
+Since at Chatsworth we Derbyshire folks have all been,
+You will judge I am certain of all that I mean,
+When I tell you groves, gardens, fine water, and hall,
+Seem the gift of good Genii to spangle this ball.
+To Studley far-fam'd for its beauty we went      389
+And gaz'd on those beauties with placid content,
+Tho' some of the amateurs fancied that art,
+In planning these grounds had o'er acted her part,
+But who hallow'd Fountains thy threshold shall pass
+And remember the ponds with their trimmings of grass?
+No! rapt in the scene which presents contemplation,
+Such objects of interest and deep veneration,
+We gaze on the arch whence the ivy descending,
+Usurps the rich shrine where the lamp was once pending,
+Where the wild currant blooms and the mountain ash bows,
+There knelt the great abbot and offer'd his vows,      400
+And where the green beech his proud branches displays
+Sweet incense ascended with anthems of praise.
+Oh visions of old as around me ye roll!
+Exalting, delighting, ennobling the soul,
+Impress on my mem'ry if not on my rhyme
+The pleasure I took in these scenes at the time,
+For sure 'twas a pity that feelings so fine
+Should evap'rate the moment we set off to dine,
+Reducing at once the fine flights of the brain,
+To the vulgar subjection of hunger, and pain,
+Unlike to those heroes we read of in books,
+Who living on sentiment scorn meat and cooks,
+Fight, conquer, make love to a princess, and win her,
+Without ever asking the aid of a dinner,
+And heroines we see thro' five volumes can go,
+Immers'd in all sorts of distraction and woe,
+Without wetting their lips, thus bestowing the lie,
+On the proverb which says that "true sorrow is dry."
+But be that their affair 'twas no part of our plan,
+For our beaux grew voracious, our ladies look'd wan
+So we set off for Rippon with stomachs so hearty,
+'Twas well Mrs. Robinson knew of the party,
+She gave us a treat which so gladden'd our sight,
+That we quickly determin'd to stay here all night
+So I thought it was best just to empty my head,
+Of its "perilous stuff" ere I ventur'd to bed,
+Lest the walk I have taken with gazing and peeping
+Should injure my nerves and prevent me from sleeping,
+And conceiving a nap is a sound acquisition,
+Have sought it (like many) by long composition.
+&c. &c. &c.
 peasantry in his neighbourhood.]
-
-
-
-
-  LETTER V.
-
-  _Rippon, August 6th._
-
-
-  As soon as Aurora came sun-rob'd and flaunting,
-  Our party arose to continue their jaunting,
-  But think not our hurry to run after pleasure,
-  Could make us forget a good breakfast to treasure,
-  Tho' we talk'd of fine colouring, site and vertu,
-  Yet we gave the hot rolls and the muffins their due;
-  And even those misses, "who died to be moving,"
-  Bare martyrdom well while the toast they were proving;
-  Our wisdom and foretl ought admit no denial,
-  Since our strength was about to experience a trial;
-  For a medical work in the very first chapter,
-  Declares that "exhaustion arises from rapture,"
-  And that 'vessels well laden may prove the occasion,
-  Of giving the head a complete gravitation,'      444
-  Ye Naiads and Wood-nymphs, ye Sylphs, and ye Gnomes,
-  Who flirt on the sun-beams, or languish in tombs,
-  Who skim o'er the foam on the flow'r wave your pinion,
-  The brilliant machinery of pages Darwinian.
-  Oh would that your legions so tiny and taper,
-  Would light on my pen and illumine my paper;
-  Oh then might I sing lovely Hackfall thy praises,
-  And paint all the beauties I found in thy mazes,
-  Those mazes where nature and art have combin'd,
-  To spread all the charms they together could find.
-  'Tis fairy land all, yet majestic and great,
-  Where Solitude sweetly reposes in state,
-  And smiles on her mansion with features so mild,
-  We conceive her most pleas'd where the scene is most wild;
-  Here gurgles the Eure, thro' a thousand meanders,
-  And unrivall'd cascades swell the stream as it wanders,
-  Affording such pictures for light, form, and shade,
-  As Claude might have gaz'd on, or Roussin pourtray'd,
-  Or Wilson who gave to his country a name,
-  To rival the proudest possessors of fame.
-  But alas my poor muse to this subject must knuckle,
-  Since her song never reaches to more than a chuckle.
-  Her flame is unlit, and unfledg'd is her wing,
-  Untun'd too her lyre, for it has but one string;
-  Therefore 'tis in vain, I sit down to my desk,
-  To paint the sublime, or the true picturesque,
-  For my muse is unworthy poor ignorant Vandal,
-  To pipe on the genius of Hackfall's old sandal.
-
-    So imagine dear mother whatever you please,
-  Of rocks, rivers, waterfalls, temples, and trees,
-  And now with the grotto, the dell, and the dingle,
-  Sweet Masham must rise and its sylvan scene mingle;
-  While Swinton appears in the far distant shade,
-  By Danby and taste, a new paradise made.
-  While thus you're employ'd, I'll my pegasus whip on,
-  For once more the dinner is waiting at Rippon.      482
-
-    With tongues like the lark, and with cheeks like the ruby,
-  See the Unicorn send us all merry to Newby,
-  Where we saw a fine gall'ry of gods, and a goddess,
-  Dressed quite a la mode, with short coats and strait boddice.
-  An empress in robes, and likewise a hero,
-  Caligula's bust, and a scarified Nero;
-  I believe they were all very ancient and fine,
-  For our connoisseur party cried "charming! divine!"
-  Talk'd much of contour and the taste of the Greeks,
-  Said the art was now lost or but found in antiques;
-  But just to refute the false blame of the scorner,
-  I pointed to two modern boys in a corner,
-  Who proved without saying a word in their favour,
-  Our sculptors make cupids as lovely as ever.
-
-    Having view'd the sarcophagus too and admir'd it,
-  The tapestry came next as the ladies desir'd it;
-  But fine as I thought it, I soon was withdrawn,
-  By a glance of the family crossing the lawn;
-  For in that I saw beauty enough I am sure,
-  To enchant and delight the most nice amateur,
-  Nor was it the less to my untutored notion,      498
-  'Cause glowing with life and completed by motion;
-  But I said not a word, (tho' 'twas hard to refrain,)
-  Lest the dead should be call'd up in judgment again.
-  At Rippon next morning we went to the Minster,
-  But no lady amongst us or matron or spinster,
-  Propos'd the fam'd Needle of Wilfred to enter,
-  Tho' all to the Bone-house were willing to venture;
-  Where one lectur'd shrewdly on Gall's craniology,
-  And turn'd o'er the skulls without fear or apology;
-  But so pretty she look'd as she handed them round,
-  No doubt can I have but her learning's profound;
-  So chang'd are the ladies since your day good mother,
-  They are all literati, in one way or other;
-  But in all my life long, I ne'er saw so much on't,
-  As during this journey when each gave a touch on't,
-  At Fountains they spoke of memento and data,
-  And dirtied their hands to examine the strata.
-  At Hackfall they seized on the weeds and the grasses,
-  To determine the genus and settle the classes;
-  Spoke much of alembics and oxygen gas,
-  Nor suffered a stone unexamined to pass;
-  Unmindful meantime of the scene that was nigh,
-  To awake the full heart and entrance the fond eye,
-  And to gaze on a speck when a world was before 'em,
-  Seem'd foolish to me tho' so much I adore 'em;
-  And I could'nt help thinking good madam between us,
-  Philosophy's seldom the study of Venus;
-  'Tis hers the bright flame of the poet to swell,
-  Lead the gay mystic dance or resound the sweet shell,
-  To guide the soft pencil with delicate finger,
-  And scatter life's roses whilst o'er them we linger,
-  Concentring the charms we should never dispart,
-  The gifts of the mind with the truth of the heart.
-
-    But no longer I'll venture this subject to dash on,
-  Since I know the dear creatures but follow the fashion,
-  Nor should I have dar'd just to touch on this thistle,
-  But just to wind up my long winded epistle.      536
-
-                                     &c. &c. &c.
-
-
-
-
-
-  LETTER VI.
-
-  _High Harrogate, August 10th._
-
-
-  Since the world and all in it are subject to changing,
-  I hope my dear mother you'll pardon my ranging,
-  Nor think it surprising to find your son plac'd
-  'Mongst the very first people for fashion, and taste,
-  You must know that last week to read novels I took
-  And had stepp'd up to Wilson's to get a new book,
-  When who should I hear in the reading-room laughing,
-  But our Yeomanry Col'nel and Major O'Baffin;
-  So I stepp'd to the first with a very low bow,
-  And he was transported to see me I vow,
-  Call'd me neighbour, and friend, brother soldier, and all that,
-  Introducing the Major with plenty of small chat;
-  In short we became all so happy together,
-  They thought it was best I should just remove hither;
-  In fact as _High_ Harrogate's now all the go,
-  'Twould be folly to stay any longer at _Low_.
-  The Col'nel and Lady reside at the Granby,
-  But the Major and I who are good friends as can be,
-  Prefer at the Dragon to take up our quarters;
-  Where the company's charming, tho' some of 'em Tartars,
-  And the eating's so good and the claret so fine,
-  'Tis worth riding post fifty miles just to dine,
-  And in spite of the bustle (good madam don't frown,)
-  The house and the garden's as neat as your own.
-
-  Here's a young widow Jointurewell lately come dashing,
-  But the Countess of Allwit's the woman for splashing,
-  Her bays in their coach are as constantly prancing,
-  As the widow's black eyes on the strangers are glancing.
-  The fam'd ----r----n---- he is this moment arriving,
-  To strangers well known by the style of his driving
-  For he sports his own mail his own trumpet he blows,
-  So he well may be known wheresoever he goes,
-  He's the soul of good humour, of frolic, and whim,
-  And High Harrogate owes half its pleasures to him.
-  Lady Shufflecut's here and her husband Sir Ned,
-  She games all the night while he's snoring in bed,
-  And tho' handsome and young he's so idle all day,
-  That he seldom assists in her labours at play;
-  So the lady transacts all the business alone,
-  Tho' he on her efforts subsists 'tis well known,
-  Her friend Lady Sweepstakes oft comes for a rubber,
-  And gen'rally finds some one willing to drub her,
-  But tied by her Lord to play only for guineas,
-  She bites while she's bit and then laughs at the ninnies;
-  Who in losing their time have egregiously blundered,
-  In but taking ten pounds where they hoped for a hundred;
-  For wit and good humour this lady can boast,
-  And her temper can keep when her money is lost.
-
-  We've a dashing buck Parson among us a creature,
-  I can never describe since 'tis quite out of nature,
-  Tho' the race is antique for I'm sure 'tis the same,
-  That St. Paul has declar'd can take "glory in shame,"
-  For he's constantly gaming or quizzing the church,
-  Where he holds two good livings but leaves in the lurch,
-  Tho' the "fusty old bishop" has sought to restore him,
-  To residence, duty, and "stupid decorum."      590
-
-    In other bad men I am sorry to say,
-  We wink at the sin when the humour is gay,
-  And trusting the evil's not sunk in their hearts
-  Their errors o'erlook for their temper or parts;
-  But he who embracing an holy profession,
-  Thus robs some good man of a needful possession;
-  While conscious his heart is abandon'd and vicious,
-  Is disgustingly wicked, thence seldom pernicious;
-  So a beacon of warning this coxcomb supplies,
-  Since few men will follow what all men despise;
-  And bad as the world is he stands by himself,
-  We have good ones enow to lay him on the shelf;
-  Who e'en in this place of profuse dissipation,
-  Still honour themselves, and adorn their vocation.
-
-    The comical Banker from C--t--r is here,
-  Whom Blackett retail'd to us often last year,
-  His humour is droll and his tongue like a sickle,
-  Cuts so sharp, and so smooth, that you bleed while you tickle;
-  Lady Shufflecut oft from his spleen gets a hit,
-  But she pockets his money which pays for his wit,
-  As beauties the ----nds are at present the rage,
-  And one has two strings to her bow I'll engage,
-  But I'm sorry to say that the elegant Julie,
-  Has the fault of the day and forgets to love truly,
-  For a fine showy rake whose pretension to merit,
-  Is a far distant title he ne'er may inherit,
-  She forsakes a most excellent well manner'd youth,
-  Who deserves her no less for his virtue than truth.
-  How soon will she learn from her new master's teaching,
-  "She has cast off a pearl", but I've no time for preaching;
-  So I only shall mention one family more,
-  Tho' I wish to describe you at least half-a-score;
-  'Tis an old fashion'd gentleman drest like a show,
-  As his grandfather was just a cent'ry ago,
-  While his wife in like habit obedient to him,
-  Tho' still a fine woman complies with the whim,
-  But his daughter an elegant lovely young creature,
-  Steals a spice of the mode in her dress tho' not nature,
-  For a being so lively, yet modest, and charming,
-  So simple so wild to the heart so alarming,      630
-  This world or its customs e'er form'd I believe,
-  From the very first days of our grandmother Eve.
-
-    From a Cumberland castle I find they have crept,
-  Where from ages to ages their ancestors slept;
-  And 'tis vastly amusing to see how they look,
-  On the Harrogate world, as a new open'd book,
-  Where many new faces appear to delight 'em,
-  But many new manners to wound and affright 'em
-  The old man is shock'd to find gamesters in orders,
-  And barons whose names are well known on the Borders,
-  Now the rivals of grooms a degen'rate race,
-  The days and the deeds of their grandsires disgrace,
-  Nor less does he mourn o'er the ladies undrest,
-  While his delicate daughter, tho' silent's distrest;
-  But his lady bewails with an innocent sigh,
-  That women should gamble, should flirt, or look sly,
-  And declares when they wish to do any thing odd,
-  They should ask their liege lords for a smile and a nod,
-  A practice she thinks in a great many cases,
-  Would save much confusion 'mongst knaves, queens, and aces;
-  So contracted her conscience, illiberal her notion,
-  She fancies submission allied to devotion,
-  And thinks (as she promis'd it once) that a wife,
-  Should remember her vow all the days of her life,
-  The Dragonite ladies all laugh loud enough,
-  At her doctrine, her caps, and her long ruffled cuff,
-  Declaring her creed like her dress is replete,
-  With all that is outre, antique, obsolete,
-  'Tis the very worst part, of the very old school,
-  Detested by instinct----exploded by rule----
-  Lady Shufflecut vows she'll to Coventry send her,
-  And the Countess declares not a soul shall defend her,
-  Mrs. Rantipole wishes all women so silly,
-  Were tied by the neck to the heels of her filly,
-  But somehow I feel in the midst of this pother,
-  I should much like a wife who had _had_ such a mother,
-  With this hint dearest madam I'll bid you good bye,
-  Most likely you're tir'd and in truth so am I.      668
-
-                                     &c. &c. &c.
-
-
-
-
-  LETTER VII.
-
-  _High Harrogate, August 16th._
-
-
-  You'll rejoice my kind mother to hear once again,
-  I've been shooting with pleasure and health in my train,
-  The Major and I went a sporting together,
-  Traversing whole regions of sweet mountain heather,
-  And brought back such a number of very fine grouse
-  They charm'd all the ladies and pleas'd all the house,
-  But unluckily just in the bar while I stopp'd,
-  To present Mrs. Goodlad the fruits I had cropp'd,
-  A fine powder'd Cockney just took up my gun,
-  Crying "shooting dear sar must be wery good fun,
-  "Pray vitch is the lock sar? and vitch is the handle?"
-  When off went the piece like the snuff of a candle,
-  My unfortunate fingers at once caught the powder,
-  While the poor little Londonite felt at his shou'der
-  I could'nt help laughing in spite of my smart,
-  To see how he trembled and shook to the heart,
-  Declaring "'pon honour 'tvas wery absurd,
-  "That the gun should go off vithout saying a vord."
-  The ladies sweet creatures all full of compassion,
-  Put my hand in a sling which they said was the fashion,
-  And who would not gladly put up with a scar,
-  To pass for a vet'ran just come from the war?
-  So in order to make of the matter the best,
-  I prepared for the ball tho' I grinn'd while I drest,
-  For that night to the Granby the people were flying
-  And you know my dear mother I dance while I'm dying.
-  In fact we enjoy'd a most excellent ball,
-  And a very fine supper to finish it all,
-  Where elegance, plenty, and order presided,
-  A trio that ought to be never divided.      698
-
-    Lady A----hb----rt--n lovely and young was
-  the grace, With her three pretty sisters who gladden'd the place,
-  The H----pb--ne was there--a Minerva restor'd
-  As at Athens she reign'd not less lov'd than ador'd,
-  With a partner I met whose dancing quite charm'd me,
-  While her wit and good humour delighted, inform'd me,
-  Yes indeed lovely Sw--nt--n I ne'er shall forget,
-  The pleasure you gave in our short tete a tete.
-  Mrs. ---- was there, once a very great beauty,
-  She conceives to remain such is doubtless her duty,
-  For by washes, and rouges, false eyebrows and hair,
-  The thefts of old time she contrives to repair,
-  Whilst whalebone and buckram combine with great pain,
-  What too freely he gives in due limits to rein,
-  Was this lady well read in the Proverbs, she'd know,
-  That a season for all things is found here below,
-  And "a time to be old" if employed as it ought,
-  May have blessings "the time to be young" never brought,
-  This leads me to mention (by association)
-  No people go better to church in the nation
-  Than we Harrogate folks, for many go here,
-  Never seen in such places before I much fear,
-  We go jostling and crowding for seats and quite free
-  Turn out the possessors sans ceremonie,      722
-  And should the poor wretches presume but to grumble,
-  Look down with contempt and so bid them be humble,
-  But though on our entrance we flounder and flout,
-  Be assur'd we are better before we go out,
-  For so many fine preachers are heard in this place,
-  'Twould be shameful indeed if this were not the case;
-  Besides the good Pastor[6] whose locks are grown grey,
-  In leading his Harrogate flock the right way.
-
-    Last night as I happen'd to ride on the Down,
-  Some thunder I heard and the sky 'gan to frown;
-  So expecting a shower my way I soon bent,
-  To a mean looking cottage to 'scape the descent;
-  And o'ertook the poor owner decrepid and sickly,
-  Who strove but in vain, to move forward more quickly;
-  So I said "honest fellow your toiling refrain,
-  You may yet reach your cottage untouch'd by the rain."
-  When struck by my voice he turn'd round to reply,
-  I saw with much pain the tears stand in his eye,
-  "I have two little girls Sir, should tempest come on,
-  "Most sorely they'll grieve that their daddy is gone;
-  "But their mother will sooth them," "their mother,"! he cried,
-  And his anguish gush'd forth in keen agony's tide.      743
-  Alarm'd and distress'd by the wound I had given,
-  I dismounted and leaving my pony with Stephen,
-  Attended the mourner whose words weak and faint
-  Were rather the language of woe than complaint,
-  Tho' worn with disease and by mis'ry opprest,
-  Yet one sorrow 'bove all gave a pang to his breast,
-  The heart that was widow'd all evils could bear,
-  For sorrow is sunk in the gulph of despair!
-  "Many men have good wives Sir but one like my own,
-  I doubt even great men too seldom have known,
-  "When robb'd by disease of our means of subsistence,
-  "Her care and industry kept want at a distance;
-  "Her tenderness sooth'd while her labour sustain'd me,
-  "Nor a word pass'd her lips Sir, that ever yet pain'd me,
-  "To her all my burden of suffering was given,
-  "And it sunk her to earth while it rais'd her to Heaven,"
-  'Twas simplicity's tale which no words could adorn,
-  And I wept o'er the being thus 'reft and forlorn,
-  Ere I ventur'd to offer that kind of relief,
-  Which could sooth but one source of his manifold grief.
-  It was sympathy's proof and I wish for no other,
-  That however divided still man is man's brother;
-  But judge my emotion on ent'ring the cot,
-  Where once love and innocence hallow'd the spot,
-  To see love and innocence burst on my sight,
-  In a form more endearing and beauty more bright,
-  'Twas my Cumberland maiden embracing each child
-  Like the Angel of pity that wept as she smil'd,
-  She had heard the poor babes as they wander'd around,
-  Lament their dear mammy laid deep in the ground,
-  And stole from her party tho' splendid and gay,
-  To wipe their sad tears and to show them their way,
-  Now I gaz'd!--my heart throbb'd! while a kind of devotion
-  Rose at once to my tongue and obstructed its motion,
-  May I ne'er lose the sense of that sacred sensation
-  Or forget her blue eyes more divine emanation!
-  In folly's light moment in solitude's hour,
-  Still dear be its memory, resistless its pow'r,
-  And if ever false pleasure to guilt should allure me,
-  May a glance on this scene from perdition secure me.
-
-  Whatever each thought was reveal'd but in looks,
-  And I trust that for once they were legible books,
-  Which fairly translated read this way I deem,
-  Our compassion is mutual, be such our esteem,
-  We walk'd home together a road long and dreary,
-  But my heart trod in air, nor did Agnes seem weary,
-  And her mother declares she'll go with us to-morrow
-  To visit and comfort these children of sorrow,
-  And tho' with the Major engaged to my cost,
-  To take my revenge for some trifles I've lost;
-  And sweet Lady Shufflecut vow'd I should take,
-  A hand at her table, yet all I'll forsake,
-  For one gentle smile from that excellent being,
-  Of all this world's pleasures is best worth the seeing,
-  And would she but smile in the way that I want her,
-  The wealth of the Indies for _that_ smile I'd banter;
-  But adieu, my dear mother, I cannot dissemble,
-  That my hopes, and my fears, put me all in a tremble.
-
-                                     &c. &c. &c.
-
-[Footnote 6: Rev. R. Mitten who has lived at Harrogate more than 40
+_Rippon, August 6th._
+As soon as Aurora came sun-rob'd and flaunting,
+Our party arose to continue their jaunting,
+But think not our hurry to run after pleasure,
+Could make us forget a good breakfast to treasure,
+Tho' we talk'd of fine colouring, site and vertu,
+Yet we gave the hot rolls and the muffins their due;
+And even those misses, "who died to be moving,"
+Bare martyrdom well while the toast they were proving;
+Our wisdom and foretl ought admit no denial,
+Since our strength was about to experience a trial;
+For a medical work in the very first chapter,
+Declares that "exhaustion arises from rapture,"
+And that 'vessels well laden may prove the occasion,
+Of giving the head a complete gravitation,'      444
+Ye Naiads and Wood-nymphs, ye Sylphs, and ye Gnomes,
+Who flirt on the sun-beams, or languish in tombs,
+Who skim o'er the foam on the flow'r wave your pinion,
+The brilliant machinery of pages Darwinian.
+Oh would that your legions so tiny and taper,
+Would light on my pen and illumine my paper;
+Oh then might I sing lovely Hackfall thy praises,
+And paint all the beauties I found in thy mazes,
+Those mazes where nature and art have combin'd,
+To spread all the charms they together could find.
+'Tis fairy land all, yet majestic and great,
+Where Solitude sweetly reposes in state,
+And smiles on her mansion with features so mild,
+We conceive her most pleas'd where the scene is most wild;
+Here gurgles the Eure, thro' a thousand meanders,
+And unrivall'd cascades swell the stream as it wanders,
+Affording such pictures for light, form, and shade,
+As Claude might have gaz'd on, or Roussin pourtray'd,
+Or Wilson who gave to his country a name,
+To rival the proudest possessors of fame.
+But alas my poor muse to this subject must knuckle,
+Since her song never reaches to more than a chuckle.
+Her flame is unlit, and unfledg'd is her wing,
+Untun'd too her lyre, for it has but one string;
+Therefore 'tis in vain, I sit down to my desk,
+To paint the sublime, or the true picturesque,
+For my muse is unworthy poor ignorant Vandal,
+To pipe on the genius of Hackfall's old sandal.
+So imagine dear mother whatever you please,
+Of rocks, rivers, waterfalls, temples, and trees,
+And now with the grotto, the dell, and the dingle,
+Sweet Masham must rise and its sylvan scene mingle;
+While Swinton appears in the far distant shade,
+By Danby and taste, a new paradise made.
+While thus you're employ'd, I'll my pegasus whip on,
+For once more the dinner is waiting at Rippon.      482
+With tongues like the lark, and with cheeks like the ruby,
+See the Unicorn send us all merry to Newby,
+Where we saw a fine gall'ry of gods, and a goddess,
+Dressed quite a la mode, with short coats and strait boddice.
+An empress in robes, and likewise a hero,
+Caligula's bust, and a scarified Nero;
+I believe they were all very ancient and fine,
+For our connoisseur party cried "charming! divine!"
+Talk'd much of contour and the taste of the Greeks,
+Said the art was now lost or but found in antiques;
+But just to refute the false blame of the scorner,
+I pointed to two modern boys in a corner,
+Who proved without saying a word in their favour,
+Our sculptors make cupids as lovely as ever.
+Having view'd the sarcophagus too and admir'd it,
+The tapestry came next as the ladies desir'd it;
+But fine as I thought it, I soon was withdrawn,
+By a glance of the family crossing the lawn;
+For in that I saw beauty enough I am sure,
+To enchant and delight the most nice amateur,
+Nor was it the less to my untutored notion,      498
+'Cause glowing with life and completed by motion;
+But I said not a word, (tho' 'twas hard to refrain,)
+Lest the dead should be call'd up in judgment again.
+At Rippon next morning we went to the Minster,
+But no lady amongst us or matron or spinster,
+Propos'd the fam'd Needle of Wilfred to enter,
+Tho' all to the Bone-house were willing to venture;
+Where one lectur'd shrewdly on Gall's craniology,
+And turn'd o'er the skulls without fear or apology;
+But so pretty she look'd as she handed them round,
+No doubt can I have but her learning's profound;
+So chang'd are the ladies since your day good mother,
+They are all literati, in one way or other;
+But in all my life long, I ne'er saw so much on't,
+As during this journey when each gave a touch on't,
+At Fountains they spoke of memento and data,
+And dirtied their hands to examine the strata.
+At Hackfall they seized on the weeds and the grasses,
+To determine the genus and settle the classes;
+Spoke much of alembics and oxygen gas,
+Nor suffered a stone unexamined to pass;
+Unmindful meantime of the scene that was nigh,
+To awake the full heart and entrance the fond eye,
+And to gaze on a speck when a world was before 'em,
+Seem'd foolish to me tho' so much I adore 'em;
+And I could'nt help thinking good madam between us,
+Philosophy's seldom the study of Venus;
+'Tis hers the bright flame of the poet to swell,
+Lead the gay mystic dance or resound the sweet shell,
+To guide the soft pencil with delicate finger,
+And scatter life's roses whilst o'er them we linger,
+Concentring the charms we should never dispart,
+The gifts of the mind with the truth of the heart.
+But no longer I'll venture this subject to dash on,
+Since I know the dear creatures but follow the fashion,
+Nor should I have dar'd just to touch on this thistle,
+But just to wind up my long winded epistle.      536
+&c. &c. &c.
+_High Harrogate, August 10th._
+Since the world and all in it are subject to changing,
+I hope my dear mother you'll pardon my ranging,
+Nor think it surprising to find your son plac'd
+'Mongst the very first people for fashion, and taste,
+You must know that last week to read novels I took
+And had stepp'd up to Wilson's to get a new book,
+When who should I hear in the reading-room laughing,
+But our Yeomanry Col'nel and Major O'Baffin;
+So I stepp'd to the first with a very low bow,
+And he was transported to see me I vow,
+Call'd me neighbour, and friend, brother soldier, and all that,
+Introducing the Major with plenty of small chat;
+In short we became all so happy together,
+They thought it was best I should just remove hither;
+In fact as _High_ Harrogate's now all the go,
+'Twould be folly to stay any longer at _Low_.
+The Col'nel and Lady reside at the Granby,
+But the Major and I who are good friends as can be,
+Prefer at the Dragon to take up our quarters;
+Where the company's charming, tho' some of 'em Tartars,
+And the eating's so good and the claret so fine,
+'Tis worth riding post fifty miles just to dine,
+And in spite of the bustle (good madam don't frown,)
+The house and the garden's as neat as your own.
+Here's a young widow Jointurewell lately come dashing,
+But the Countess of Allwit's the woman for splashing,
+Her bays in their coach are as constantly prancing,
+As the widow's black eyes on the strangers are glancing.
+The fam'd ----r----n---- he is this moment arriving,
+To strangers well known by the style of his driving
+For he sports his own mail his own trumpet he blows,
+So he well may be known wheresoever he goes,
+He's the soul of good humour, of frolic, and whim,
+And High Harrogate owes half its pleasures to him.
+Lady Shufflecut's here and her husband Sir Ned,
+She games all the night while he's snoring in bed,
+And tho' handsome and young he's so idle all day,
+That he seldom assists in her labours at play;
+So the lady transacts all the business alone,
+Tho' he on her efforts subsists 'tis well known,
+Her friend Lady Sweepstakes oft comes for a rubber,
+And gen'rally finds some one willing to drub her,
+But tied by her Lord to play only for guineas,
+She bites while she's bit and then laughs at the ninnies;
+Who in losing their time have egregiously blundered,
+In but taking ten pounds where they hoped for a hundred;
+For wit and good humour this lady can boast,
+And her temper can keep when her money is lost.
+We've a dashing buck Parson among us a creature,
+I can never describe since 'tis quite out of nature,
+Tho' the race is antique for I'm sure 'tis the same,
+That St. Paul has declar'd can take "glory in shame,"
+For he's constantly gaming or quizzing the church,
+Where he holds two good livings but leaves in the lurch,
+Tho' the "fusty old bishop" has sought to restore him,
+To residence, duty, and "stupid decorum."      590
+In other bad men I am sorry to say,
+We wink at the sin when the humour is gay,
+And trusting the evil's not sunk in their hearts
+Their errors o'erlook for their temper or parts;
+But he who embracing an holy profession,
+Thus robs some good man of a needful possession;
+While conscious his heart is abandon'd and vicious,
+Is disgustingly wicked, thence seldom pernicious;
+So a beacon of warning this coxcomb supplies,
+Since few men will follow what all men despise;
+And bad as the world is he stands by himself,
+We have good ones enow to lay him on the shelf;
+Who e'en in this place of profuse dissipation,
+Still honour themselves, and adorn their vocation.
+The comical Banker from C--t--r is here,
+Whom Blackett retail'd to us often last year,
+His humour is droll and his tongue like a sickle,
+Cuts so sharp, and so smooth, that you bleed while you tickle;
+Lady Shufflecut oft from his spleen gets a hit,
+But she pockets his money which pays for his wit,
+As beauties the ----nds are at present the rage,
+And one has two strings to her bow I'll engage,
+But I'm sorry to say that the elegant Julie,
+Has the fault of the day and forgets to love truly,
+For a fine showy rake whose pretension to merit,
+Is a far distant title he ne'er may inherit,
+She forsakes a most excellent well manner'd youth,
+Who deserves her no less for his virtue than truth.
+How soon will she learn from her new master's teaching,
+"She has cast off a pearl", but I've no time for preaching;
+So I only shall mention one family more,
+Tho' I wish to describe you at least half-a-score;
+'Tis an old fashion'd gentleman drest like a show,
+As his grandfather was just a cent'ry ago,
+While his wife in like habit obedient to him,
+Tho' still a fine woman complies with the whim,
+But his daughter an elegant lovely young creature,
+Steals a spice of the mode in her dress tho' not nature,
+For a being so lively, yet modest, and charming,
+So simple so wild to the heart so alarming,      630
+This world or its customs e'er form'd I believe,
+From the very first days of our grandmother Eve.
+From a Cumberland castle I find they have crept,
+Where from ages to ages their ancestors slept;
+And 'tis vastly amusing to see how they look,
+On the Harrogate world, as a new open'd book,
+Where many new faces appear to delight 'em,
+But many new manners to wound and affright 'em
+The old man is shock'd to find gamesters in orders,
+And barons whose names are well known on the Borders,
+Now the rivals of grooms a degen'rate race,
+The days and the deeds of their grandsires disgrace,
+Nor less does he mourn o'er the ladies undrest,
+While his delicate daughter, tho' silent's distrest;
+But his lady bewails with an innocent sigh,
+That women should gamble, should flirt, or look sly,
+And declares when they wish to do any thing odd,
+They should ask their liege lords for a smile and a nod,
+A practice she thinks in a great many cases,
+Would save much confusion 'mongst knaves, queens, and aces;
+So contracted her conscience, illiberal her notion,
+She fancies submission allied to devotion,
+And thinks (as she promis'd it once) that a wife,
+Should remember her vow all the days of her life,
+The Dragonite ladies all laugh loud enough,
+At her doctrine, her caps, and her long ruffled cuff,
+Declaring her creed like her dress is replete,
+With all that is outre, antique, obsolete,
+'Tis the very worst part, of the very old school,
+Detested by instinct----exploded by rule----
+Lady Shufflecut vows she'll to Coventry send her,
+And the Countess declares not a soul shall defend her,
+Mrs. Rantipole wishes all women so silly,
+Were tied by the neck to the heels of her filly,
+But somehow I feel in the midst of this pother,
+I should much like a wife who had _had_ such a mother,
+With this hint dearest madam I'll bid you good bye,
+Most likely you're tir'd and in truth so am I.      668
+&c. &c. &c.
+_High Harrogate, August 16th._
+You'll rejoice my kind mother to hear once again,
+I've been shooting with pleasure and health in my train,
+The Major and I went a sporting together,
+Traversing whole regions of sweet mountain heather,
+And brought back such a number of very fine grouse
+They charm'd all the ladies and pleas'd all the house,
+But unluckily just in the bar while I stopp'd,
+To present Mrs. Goodlad the fruits I had cropp'd,
+A fine powder'd Cockney just took up my gun,
+Crying "shooting dear sar must be wery good fun,
+"Pray vitch is the lock sar? and vitch is the handle?"
+When off went the piece like the snuff of a candle,
+My unfortunate fingers at once caught the powder,
+While the poor little Londonite felt at his shou'der
+I could'nt help laughing in spite of my smart,
+To see how he trembled and shook to the heart,
+Declaring "'pon honour 'tvas wery absurd,
+"That the gun should go off vithout saying a vord."
+The ladies sweet creatures all full of compassion,
+Put my hand in a sling which they said was the fashion,
+And who would not gladly put up with a scar,
+To pass for a vet'ran just come from the war?
+So in order to make of the matter the best,
+I prepared for the ball tho' I grinn'd while I drest,
+For that night to the Granby the people were flying
+And you know my dear mother I dance while I'm dying.
+In fact we enjoy'd a most excellent ball,
+And a very fine supper to finish it all,
+Where elegance, plenty, and order presided,
+A trio that ought to be never divided.      698
+Lady A----hb----rt--n lovely and young was
+the grace, With her three pretty sisters who gladden'd the place,
+The H----pb--ne was there--a Minerva restor'd
+As at Athens she reign'd not less lov'd than ador'd,
+With a partner I met whose dancing quite charm'd me,
+While her wit and good humour delighted, inform'd me,
+Yes indeed lovely Sw--nt--n I ne'er shall forget,
+The pleasure you gave in our short tete a tete.
+Mrs. ---- was there, once a very great beauty,
+She conceives to remain such is doubtless her duty,
+For by washes, and rouges, false eyebrows and hair,
+The thefts of old time she contrives to repair,
+Whilst whalebone and buckram combine with great pain,
+What too freely he gives in due limits to rein,
+Was this lady well read in the Proverbs, she'd know,
+That a season for all things is found here below,
+And "a time to be old" if employed as it ought,
+May have blessings "the time to be young" never brought,
+This leads me to mention (by association)
+No people go better to church in the nation
+Than we Harrogate folks, for many go here,
+Never seen in such places before I much fear,
+We go jostling and crowding for seats and quite free
+Turn out the possessors sans ceremonie,      722
+And should the poor wretches presume but to grumble,
+Look down with contempt and so bid them be humble,
+But though on our entrance we flounder and flout,
+Be assur'd we are better before we go out,
+For so many fine preachers are heard in this place,
+'Twould be shameful indeed if this were not the case;
+Besides the good Pastor[6] whose locks are grown grey,
+In leading his Harrogate flock the right way.
+Last night as I happen'd to ride on the Down,
+Some thunder I heard and the sky 'gan to frown;
+So expecting a shower my way I soon bent,
+To a mean looking cottage to 'scape the descent;
+And o'ertook the poor owner decrepid and sickly,
+Who strove but in vain, to move forward more quickly;
+So I said "honest fellow your toiling refrain,
+You may yet reach your cottage untouch'd by the rain."
+When struck by my voice he turn'd round to reply,
+I saw with much pain the tears stand in his eye,
+"I have two little girls Sir, should tempest come on,
+"Most sorely they'll grieve that their daddy is gone;
+"But their mother will sooth them," "their mother,"! he cried,
+And his anguish gush'd forth in keen agony's tide.      743
+Alarm'd and distress'd by the wound I had given,
+I dismounted and leaving my pony with Stephen,
+Attended the mourner whose words weak and faint
+Were rather the language of woe than complaint,
+Tho' worn with disease and by mis'ry opprest,
+Yet one sorrow 'bove all gave a pang to his breast,
+The heart that was widow'd all evils could bear,
+For sorrow is sunk in the gulph of despair!
+"Many men have good wives Sir but one like my own,
+I doubt even great men too seldom have known,
+"When robb'd by disease of our means of subsistence,
+"Her care and industry kept want at a distance;
+"Her tenderness sooth'd while her labour sustain'd me,
+"Nor a word pass'd her lips Sir, that ever yet pain'd me,
+"To her all my burden of suffering was given,
+"And it sunk her to earth while it rais'd her to Heaven,"
+'Twas simplicity's tale which no words could adorn,
+And I wept o'er the being thus 'reft and forlorn,
+Ere I ventur'd to offer that kind of relief,
+Which could sooth but one source of his manifold grief.
+It was sympathy's proof and I wish for no other,
+That however divided still man is man's brother;
+But judge my emotion on ent'ring the cot,
+Where once love and innocence hallow'd the spot,
+To see love and innocence burst on my sight,
+In a form more endearing and beauty more bright,
+'Twas my Cumberland maiden embracing each child
+Like the Angel of pity that wept as she smil'd,
+She had heard the poor babes as they wander'd around,
+Lament their dear mammy laid deep in the ground,
+And stole from her party tho' splendid and gay,
+To wipe their sad tears and to show them their way,
+Now I gaz'd!--my heart throbb'd! while a kind of devotion
+Rose at once to my tongue and obstructed its motion,
+May I ne'er lose the sense of that sacred sensation
+Or forget her blue eyes more divine emanation!
+In folly's light moment in solitude's hour,
+Still dear be its memory, resistless its pow'r,
+And if ever false pleasure to guilt should allure me,
+May a glance on this scene from perdition secure me.
+Whatever each thought was reveal'd but in looks,
+And I trust that for once they were legible books,
+Which fairly translated read this way I deem,
+Our compassion is mutual, be such our esteem,
+We walk'd home together a road long and dreary,
+But my heart trod in air, nor did Agnes seem weary,
+And her mother declares she'll go with us to-morrow
+To visit and comfort these children of sorrow,
+And tho' with the Major engaged to my cost,
+To take my revenge for some trifles I've lost;
+And sweet Lady Shufflecut vow'd I should take,
+A hand at her table, yet all I'll forsake,
+For one gentle smile from that excellent being,
+Of all this world's pleasures is best worth the seeing,
+And would she but smile in the way that I want her,
+The wealth of the Indies for _that_ smile I'd banter;
+But adieu, my dear mother, I cannot dissemble,
+That my hopes, and my fears, put me all in a tremble.
+&c. &c. &c.
 years.]
-
-
-
-
-  LETTER VIII.
-
-  _High Harrogate, August 26th._
-
-
-  This week in such various amusement has past,
-  I have scarce had an hour to myself since my last,
-  On Monday all day we for wagers were prancing,
-  And concluded at night with most exquisite dancing;
-  Our belles and our ball every other excell'd,
-  And our supper the finest you ever beheld;
-  With Agnes I danc'd and with Agnes I sat,      801
-  And enjoy'd much communion tho' but little chat.
-  On Tuesday we all sally'd out on the green,
-  To see Mr. ---- drive his dashing machine,
-  In a figure of eight, but alas he was cross'd,
-  And his coach and four bays were to --n--s--n lost!
-  For his horses tho' doubtlessly brutes of great sense,
-  Were unskill'd in the shaping or saving of pence;
-  But he quickly redeem'd them and mounting again,
-  Return'd our brisk cheers as he drove o'er the plain.
-  The next day we were treated with excellent races,
-  But alas when they clos'd there were many long faces;
-  And especially poor Lady Shufflecut's prov'd,
-  She had dabbled too much in the current she lov'd;
-  So profusely her bets had been offer'd around,
-  That her wings were close clipp'd ere she drove from the ground;
-  When eagerly seeking her loss to repair,
-  She doubled the mischief that fell to her share;
-  And in words cabalistic combin'd with "done, done,"
-  The evening completed what morning begun,
-  And tho' till broad day-light she push'd on her chance,
-  Yet fortune ne'er deign'd an encouraging glance,
-  For Major O'Baffin and Twig'em together,
-  Pluck'd her poor little Ladyship down to a feather.
-
-    What pity a female whom nature assign'd,
-  Such a portion of beauty in person and mind,
-  Whose softness and wit might have temper'd thro' life,
-  The sweetest ingredients we seek in a wife,
-  Should absorb'd in one crime make a hell of that breast,
-  Where dove-like benignity once form'd her nest,
-  For sure if all storms were together combin'd,
-  Of hail, rain, and tempest, steel, thunder, and wind,
-  The light'ning's red glare, and the volcano laming,
-  Will but shadow the passions of woman when gaming,
-  Unmask'd, and unsex'd she presents to our view,
-  The image of vice in her own native hue,
-  At the fury before us in horror we gaze,
-  And ask where the woman is fled in amaze?
-  Whence sprung this dread Demon ye sages tell,
-  Was she born upon earth, or transported from hell,
-  What plagues and what pestilence met in their rambling,
-  To form this detestable passion for gambling,
-  Society's Upas that withers the ground,
-  And poisons the blossoms of virtue around,
-  Destroying and blasting all promise of worth,
-  Like the curse of the locusts "that ravaged the earth."
-
-    When Avarice with Misery alone in his cot,
-  Had endur'd many years an old bachelor's lot,
-  He sought from this partner to make a division,
-  By seeking himself, for a change of condition,
-  Concluding like many old men, that a wife,
-  Would banish grim Misery his cottage for life,
-  And the better this end so desir'd to obtain,
-  He fix'd on a damsel, young, splendid, and vain,
-  Her name Prodigality--not over nice,
-  The lady lov'd Avarice alone for his vice,
-  And reckon'd the pleasure of emptying his coffer,
-  Would atone for all other defects in the offer,
-  They marry and fly at the lady's suggestion,
-  A very long way from the cot of discretion,      860
-  For Extravagance sold them a villa and park,
-  Which was stock'd by Expence with all wares like an ark,
-  Yet the bridegroom astonish'd beheld with great pain,
-  That Mis'ry was still the first man in their train,
-  He stalk'd o'er their garden--sat down at their table,
-  He perch'd on the coach, and he groan'd in the stable;
-  And the tongue of the lady tho' flippant and strong,
-  Could not keep his keen face from her dressing-room long,
-  Nay e'en when her first blooming daughter was born,
-  Old Misery stood sponsor in spite of her scorn,
-  And while she his rude interference was blaming,
-  With mighty sang froid he pronounc'd the babe "_Gaming_."
-  Prodigality sought for a nurse at her leisure,
-  And consign'd the fair imp to be dandled by pleasure,
-  Hence some have mistaken this child for another,
-  Amusement--no kin, but a mere foster brother.
-  As the young one grew up she full early display'd,
-  Her sire's inclination for scraping in trade,
-  Was wond'rous alert at a close calculation,
-  And scann'd the whole science of deep computation,
-  When embu'd with her father's all grasping desires,
-  The rashness of daring her mother inspires,
-  And bids her ne'er hesitate roundly to send,
-  A bold speculation in search of her end,      884
-  Thus covetous meanness combines with profusion,
-  To spread o'er her actions the veil of delusion;
-  While Misery attends her wherever she goes,
-  With hosts of bad passions, and myriads of woes,
-  The foremost I ween is that canker-worm Care,
-  And the last that black fiend which proceeds from despair,
-  Life knows not one torment that gnaws like the first,
-  And the last of all _deaths_, is the death most accurst.
-  I hope you'll excuse this long fabling digression,
-  As a thing very common in bards by profession,
-  And to tell you the truth having been somewhat bit,
-  I find I have gain'd a new edge to my wit,
-  Yes! thanks to O'Baffin, his friendship's unriddled,
-  And her Ladyship's simper, with "Blunderhead's diddled."
-  But 'tis well I'm no worse and the wisdom they taught me,
-  Experience alone I'm afraid could have bought me,
-  For I foolishly slighted Sir J--n G--ff--d's hint,
-  Tho' I knew his heart sterling as gold from the mint;
-  I wish my good Col'nel aware of this Major,
-  Would take home his wife in the country to cage her,
-  For this Cormorant's eyes while they glanc'd on my purse,
-  Mark'd the Col'nel I doubt for a robb'ry far worse,
-  Ah mother! dear mother! I now can perceive it,
-  The world is far worse than I once could believe it,
-  When we mountaineers from the Peak make these sallies,
-  We meet with strange cattle in civiliz'd vallies,
-  And our good education I honestly own,
-  But fits us to mix with each other alone,
-  Our naivete, simplicity, openness, truth,
-  The romantic attachments of warm-hearted youth,
-  In the world's chilling atmosphere meet with such shocks,
-  We had better ne'er roam from our own native rocks,
-  But at present away with these moral excursions,
-  And return we again to the list of diversions.      916
-
-    Next came donkey races and pony likewise,
-  Each nobly contending a suitable prize,
-  For the last a fine saddle was stuck up to view,
-  Which after hard riding was won by the blue,
-  Then we all were amus'd by men jumping in sacks,
-  Tho' it laid the competitors soon on their backs,
-  But the best sport of all since it shew'd the most skill,
-  Was two well lather'd pigs left to run at their will
-  Which who seiz'd by the tail was to have for the catching,
-  But the grunters in this had the best in the matching,
-  And I never yet saw such most excellent fun,
-  As they made of the fellows who ventur'd to run;
-  Nor do I yet think that they _fairly_ were caught,
-  But the company all left the place ere they ought,
-  For a very fine turtle that day was set out,
-  By a West India heiress presented sans doute,
-  And people of taste were impatient to try,
-  If Harrogate turtle with London could vie;
-  And 'tis with _great_ pride my good madam I tell,
-  'Twas allow'd that our cook did all London excel,
-  I'm sure that Lord Gout, and Sir Harry Fullfare,
-  Each ate three good pints of the soup for their share,
-  And Mrs. Gourmander with Lady Allferret,
-  Were equally strong in their proofs of its merit,
-  And as very good eating some men of deep thinking,
-  Have roundly declar'd calls for very good drinking;
-  This alliance so nat'ral we sought to pursue,
-  And gave to the turtle the honour its due,
-  And that night for the first time I stagger'd to bed,
-  With more wine on my stomach, than sense in my head,
-  But a dose of the water as soon as 'twas day,
-  Dispers'd all my head-ache and left me quite gay,
-  And 'twas well that this good panacea I took,
-  Or Agnes had murder'd my hopes with a look;
-  For at best they're so delicate poor little things,
-  One glance of her anger would clip all their wings,
-  But I nourish the nestlings as well as I'm able,
-  And consider each smile as an anchor and cable,
-  My courage sometimes rises up to my cheek,
-  Where it flushes and glows yet forbids me to speak;
-  I would give all the world to make love to _one_ woman,
-  With the ease Col'nel B--tem--n can do it in common,
-  So pointed, yet meek, sentimental, and charming,
-  Tho' always encroaching yet never alarming;      960
-  But no wonder the Colonel shines in this way,
-  For practice makes perfect in all things they say,
-  And to maid, wife, or widow he's constantly paying,
-  Those tender attentions most dear, most betraying,
-  Unmindful I ween what vexations and smarts,
-  Must follow the game in this "play upon hearts."
-  Far different the bosom true passion inspires,
-  That silently loves, and devoutly admires,
-  It sighs not by rule nor makes speeches by measure,
-  Nor studies the arts of allurement at leisure,
-  Yet feeling all eloquent sometimes reveals,
-  That state of the soul which timidity seals,
-  And I take it the very best chance for a lover,
-  Is that moment when fortune his flame may discover;
-  Since no damsel will shrink from a peep at the breast,
-  Where her own lovely form is so sweetly imprest,
-  For should she regret that the picture's ill plac'd,
-  Yet she'll value the wearer for exquisite taste.
-
-    My Agnes of late has convers'd more than common,
-  With a Mrs. Latouche a most excellent woman,
-  Whose husband like many brave fellows beside,
-  By his country was torn from the arms of his bride,
-  For three years has he left her his absence to mourn,
-  But she now has some hopes of his speedy return,
-  She visits this place with a poor ailing aunt,
-  Whom she tends with that kindness all invalids want,
-  And proves in her tenderness, faithfulness, duty,
-  Her virtue at least is as great as her beauty,
-  Twin soul with my charmer I think it no wonder,
-  (Tho' I'm sorry sometimes) they are seldom asunder,
-  I fancy whenever I see them conversing,
-  The wife all the worth of her lord is rehearsing,
-  But I dare not yet hope that my Agnes replies,
-  By adverting to poor Mr. Blunderhead's eyes.
-    But my hopes or my fears I'll no longer intrude,
-  For this monstrous long scrawl 'tis high time to conclude.
-
-                                     &c. &c. &c.
-
-
-
-
-  LETTER IX.
-
-  _High Harrogate, August 30th._
-
-
-  Dear mother I've so much to say in my letter,
-  Tho' the last was too long I fear this wo'nt be better,
-  And someway I never know how to begin,
-  When I've got a great many fine things to bring in;
-  Nor can I with truth to our mutual relief,
-  Declare in the first place I mean to be brief,
-  For I know to my sorrow no Blunderhead yet,
-  Could ever the talent of brevity get,
-  So I still must go on with my doggerel chatter,
-  And your pardon implore for "extraneous matter."
-  You must know all this summer 't has been much the rage,
-  For High Harrogate parties new scenes to engage,
-  Leaving Studley and Hackfall and huge Brimham rocks,
-  And assemble like swallows in emigrant flocks,
-  Unmindful what terrible roads they must jolt on,
-  To view the fine grounds and the ruins of Bolton,
-  And yesterday morn a large party set out,
-  To partake the delights of this picturesque rout.
-  Fair Fenton, sweet Agnes, and lovely Latouche,
-  Were all drove by Sir George in his splendid barouche,
-  And if ever I envy'd a man so before,
-  I will leave you to judge--but I now say no more.
-  The rest in a chariot, and curricles went,
-  And set off pretty early by general consent,
-  At the Blubber-house Inn we all gladly alighted,
-  By the sight of an excellent breakfast invited,
-  Which enabled us all to endure future jumbling,
-  And substitute laughter for hunger, and grumbling,
-  When arrived at the bridge the first glimpse of the scene,
-  Majestic yet simple, tho' grand yet serene,
-  Gave presentiment sweet of the pleasure before us,
-  And our hearts with the music of nature kept chorus,
-  We just stopp'd at the Inn to enquire for a guide,
-  And while saunt'ring around till this want was supplied,
-  A Skipton chaise pass'd; whence a stranger look'd out,
-  To see what so many gay folks were about;
-  But the moment the form of his visage appear'd,
-  What a shriek of delight from his consort was heard,
-  'Tis he! 'tis my Henry! no more could she say,
-  On the bosom of Agnes just fainting she lay,
-  While the gallant Latouche from his vehicle sprung,
-  And in speechless delight o'er his Ellinor hung;
-  While adown his brown face roll'd the gracefullest tear,
-  Which the hero could shed or the lover hold dear,
-  'Twas a moment of bliss so intense in delight,
-  It concenter'd whole ages of joy in its flight,
-  And as Ellinor's eyes in transported amaze,
-  Again, and again, on her Henry would gaze,
-  The Elysium of extacy glow'd in their beam,
-  The world was forgot, and past sorrow a dream.
-
-  And think ye that Agnes unmov'd could behold,
-  A scene where the bosom's best feeling's were told?
-  Ah no! in her cheeks heightened blushes I read,
-  Sensibility's whisper that moment had sped,      1050
-  And told her when hearts thus congenial could meet,
-  Earth knows no communion more pure or more sweet,
-  I hail'd the blest omen, and watch'd for the hour,
-  Which should lead our wild wanderings to solitude's bow'r,
-  But long had we travers'd the ruins and grove,
-  Ere my lips dar'd to utter one word of my love
-  For such trembling anxiety hung on my breast,
-  Even now I scarce know what I falt'ring confest,
-  But _this_ I well know that my falt'ring confession,
-  Was deem'd by the fair one no flagrant transgression,
-  Tho' her words were but few yet her charming confusion,
-  Assur'd me forgiveness beyond all delusion,
-  And this young bud of hope ere the sun was gone down,
-  By her kindness became a fair blossom full blown
-  Oh morning of rapture! oh day of delight!
-  Oh evening full gemm'd with the spangles of night!
-  If e'er I forget the dear moments ye gave me,
-  May the world be my guide--may her follies enslave me,
-  May the blossom of hope from my bosom dissever,
-  And may Agnes be lost to my wishes for ever----
-
-    Do you ask me of Bolton its rocks, woods, and plains,
-  Where beauty enthron'd in sublimity reigns?
-  Where the Wharfe ever lovely, capricious, romantic,
-  Or murmuring glides or impetuously frantic,
-  Now spreads o'er the plain in majestic repose,
-  Now rending the rocks as a cataract flows?
-  Or enquire of the Priory whose ruins sublime,
-  Shew beauties more soft from the pressure of time,
-  And as their fine forms moulder gently away,
-  Awake veneration and love from decay?
-  Of Bardon's fine tow'r which proudly excelling,
-  The Genius of Craven might choose for his dwelling,
-  (For Genii and Fairies alone should be found,
-  To people the regions celestial around,      1084
-  While a Demon of darkness might howl o'er the Strid,
-  And lash the fierce torrent that roar'd as he chid,)
-  Yes this is the region for fancy to soar,
-  Meditation to rove and devotion adore,
-  For the painter's whole soul to exist in his eye,
-  And the poet's on pinions new plumag'd to fly!
-  But alas tho' each charm I could quickly discover,
-  Yet expect no description but _one_ from a lover,
-  If to tell of the Abbey's grey stones I begin,
-  I shall surely contrast them with Agnes's skin;
-  From the rock herbage-crown'd all bespangled with dew,
-  I shall start to her eye's melting orbit of blue;
-  Nor a wave of the river can flow wildly simple,
-  But Agnes will rise with her smile and her dimple,
-  So aware of my weakness I make no pretension,
-  To give you description supply'd by invention,
-  But I've bought a whole set of fine prints which will prove,
-  That Bolton is meet for the birth place of love.
-  And in them I will shew you dear mother, those places,
-  The smiles of my fair one illum'd with new graces,
-  And when I'm so blest (may the time quickly come,)
-  To bring the sweet maid to a Derbyshire home,
-  These pictures hung round the old hall shall display,
-  How dear to my heart are the scenes they pourtray,
-  And Agnes methinks "nothing loth" will behold,
-  The spot where my passion first dar'd to unfold,
-  And fondly will point to that bank where the willow,
-  Re-murmur'd my vows as it bent to the billow.--
-  "Dear Bolton adieu!" we all cried while returning,
-  "Whoe'er left thy glen's lovely vale without mourning."
-  When just as we spoke the fair rectory rose,
-  Like the dwelling of peace in the lap of repose,
-  We started with pleasure astonish'd to find,
-  Such a Paradise close on the Eden behind,
-  There Pomona's rich clusters hung sportively round,
-  And Flora's gay carpet enamell'd the ground.
-  As enchanted we gaz'd the kind owner appearing,
-  Address'd us with manners politely endearing,
-  And much we regretted the shadows of eve,
-  Oblig'd us reluctantly soon to take leave.      1124
-
-    Dinner quickly dispatch'd--to the Captain of course,
-  My seat I resign'd and then borrow'd a horse,
-  Be assur'd the barouche was most duly attended,
-  And from dangers (that came not) most bravely defended,
-  So courageous I felt, that 'twas really a pity,
-  We never encounter'd one troop of banditti,
-  No fright of the horses induc'd them to try,
-  Just to leap o'er a bridge tho' so many were nigh,
-  As the roads that would shake her 'twas folly to fly at,
-  I was forc'd to ride on most provokingly quiet,
-  In hopes that some future occasion will prove,
-  My prowess, and gallantry, equal my love.
-
-    This morning I rose with the dawning of day,
-  On Agnes to think and contrive what to say,
-  And after some planning and much hesitation,
-  To her father I spoke on this weighty occasion:
-  And I gratefully own that the worthy old Squire,
-  Was as kind to my hopes as my heart could desire;
-  He confess'd 'twas his foible to value old blood,
-  And declar'd that my race was both ancient and good,
-  'Fore the conquest he reckon'd some fifteen or twenty,
-  And when it took place there were Blunderheads plenty,
-  In the days of King Stephen 'tis known how they flourish'd,
-  And the wars of the Roses the pedigree nourish'd,
-  In Harry the eighth's time 'twas easy to trace,
-  The parliament owed its support to our race,
-  Tho' Elizabeth liked us not yet it was plain,
-  We came pretty handsomely in the next reign;
-  And continued in pow'r thro' succeeding confusion,
-  Till sadly eclips'd by the proud revolution,
-  And altho' since that period somewhat declining,
-  He trusted the time would return for our shining,
-  Tho' 'tis true that the Regent disclaims our alliance,
-  From his fondness for freedom, for arts, and for science.
-  In short he appear'd both so learned and kind,
-  He's the wisest and best of old men to my mind,
-  But adieu my dear mother I'm now on the wing,
-  With Agnes to taste the Chalybeate spring.
-
-                                 &c. &c. &c.
-
-
-
-
-  LETTER X.
-
-  _High Harrogate, September 21st._
-
-
-  For my silence these three weeks your pardon I ask,
-  But really dear mother all writing's a task,
-  Save for sonnets to Agnes I do not know when,
-  My run-a-way fingers laid hold of a pen,
-  But I trust your indulgence will freely excuse,
-  This natural fault in my negligent muse,
-  Since she now comes before you in very great sorrow,
-  To tell you I part with my charmer to-morrow,
-  Tho' the Dragon's quite full and the company gay,
-  And a ball at the Queen's-head is promis'd to-day,
-  Yet when Agnes is gone I most plainly can see,
-  This place will have lost all attraction for me,
-  And I think when the coach and my lovely one in it
-  Drives away, that I too must be off the next minute,
-  Consolation to find in my mother's kind greeting,
-  And forming good plans for our next pleasant meeting.
-
-    Then fare ye well Harrogate--dear to my heart,
-  Be the joys you inspire and the health you impart,
-  May your springs ever flow an immutable treasure,
-  And the breeze that blows o'er you be freighted with pleasure;
-  Farewell to your Doctors--more skilful and kind,
-  Not a Spa on the Island can promise to find,
-  But chiefly my own must I leave with regret,
-  For a sigh to our parting is gratitude's debt,
-  His suavity, modesty, knowledge, and truth,
-  Where the wisdom of age, joins the candour of youth,
-  Have made me so truly esteem and respect him,
-  While I value true worth I can never neglect him.
-  No more must I saunter along the Parade,
-  Or fly for a tune to the gay Promenade,
-  At Wilson's exhibit my knowledge or wit,
-  Or step into Wright's for my picture to sit,
-  At Robey's or Bachelor's loiter to chuse,
-  A broach or a ring while I hear all the news,
-  Or ride on the common and gladly inhale,
-  The spirit of strength from the heath-scented gale
-  But tho' to your pleasures I now bid adieu,
-  Be assur'd that next year shall those pleasures renew,
-  Renew and exceed for on Hymen's white wing,
-  To these haunts so belov'd I my Agnes may bring,
-  The hopes of that blessing my cares shall beguile,
-  And I leave thee dear Harrogate now with a smile.
-
-
-
-
-  NOTES.
-
-
-
-
-  NOTES.
-
-
+_High Harrogate, August 26th._
+This week in such various amusement has past,
+I have scarce had an hour to myself since my last,
+On Monday all day we for wagers were prancing,
+And concluded at night with most exquisite dancing;
+Our belles and our ball every other excell'd,
+And our supper the finest you ever beheld;
+With Agnes I danc'd and with Agnes I sat,      801
+And enjoy'd much communion tho' but little chat.
+On Tuesday we all sally'd out on the green,
+To see Mr. ---- drive his dashing machine,
+In a figure of eight, but alas he was cross'd,
+And his coach and four bays were to --n--s--n lost!
+For his horses tho' doubtlessly brutes of great sense,
+Were unskill'd in the shaping or saving of pence;
+But he quickly redeem'd them and mounting again,
+Return'd our brisk cheers as he drove o'er the plain.
+The next day we were treated with excellent races,
+But alas when they clos'd there were many long faces;
+And especially poor Lady Shufflecut's prov'd,
+She had dabbled too much in the current she lov'd;
+So profusely her bets had been offer'd around,
+That her wings were close clipp'd ere she drove from the ground;
+When eagerly seeking her loss to repair,
+She doubled the mischief that fell to her share;
+And in words cabalistic combin'd with "done, done,"
+The evening completed what morning begun,
+And tho' till broad day-light she push'd on her chance,
+Yet fortune ne'er deign'd an encouraging glance,
+For Major O'Baffin and Twig'em together,
+Pluck'd her poor little Ladyship down to a feather.
+What pity a female whom nature assign'd,
+Such a portion of beauty in person and mind,
+Whose softness and wit might have temper'd thro' life,
+The sweetest ingredients we seek in a wife,
+Should absorb'd in one crime make a hell of that breast,
+Where dove-like benignity once form'd her nest,
+For sure if all storms were together combin'd,
+Of hail, rain, and tempest, steel, thunder, and wind,
+The light'ning's red glare, and the volcano laming,
+Will but shadow the passions of woman when gaming,
+Unmask'd, and unsex'd she presents to our view,
+The image of vice in her own native hue,
+At the fury before us in horror we gaze,
+And ask where the woman is fled in amaze?
+Whence sprung this dread Demon ye sages tell,
+Was she born upon earth, or transported from hell,
+What plagues and what pestilence met in their rambling,
+To form this detestable passion for gambling,
+Society's Upas that withers the ground,
+And poisons the blossoms of virtue around,
+Destroying and blasting all promise of worth,
+Like the curse of the locusts "that ravaged the earth."
+When Avarice with Misery alone in his cot,
+Had endur'd many years an old bachelor's lot,
+He sought from this partner to make a division,
+By seeking himself, for a change of condition,
+Concluding like many old men, that a wife,
+Would banish grim Misery his cottage for life,
+And the better this end so desir'd to obtain,
+He fix'd on a damsel, young, splendid, and vain,
+Her name Prodigality--not over nice,
+The lady lov'd Avarice alone for his vice,
+And reckon'd the pleasure of emptying his coffer,
+Would atone for all other defects in the offer,
+They marry and fly at the lady's suggestion,
+A very long way from the cot of discretion,      860
+For Extravagance sold them a villa and park,
+Which was stock'd by Expence with all wares like an ark,
+Yet the bridegroom astonish'd beheld with great pain,
+That Mis'ry was still the first man in their train,
+He stalk'd o'er their garden--sat down at their table,
+He perch'd on the coach, and he groan'd in the stable;
+And the tongue of the lady tho' flippant and strong,
+Could not keep his keen face from her dressing-room long,
+Nay e'en when her first blooming daughter was born,
+Old Misery stood sponsor in spite of her scorn,
+And while she his rude interference was blaming,
+With mighty sang froid he pronounc'd the babe "_Gaming_."
+Prodigality sought for a nurse at her leisure,
+And consign'd the fair imp to be dandled by pleasure,
+Hence some have mistaken this child for another,
+Amusement--no kin, but a mere foster brother.
+As the young one grew up she full early display'd,
+Her sire's inclination for scraping in trade,
+Was wond'rous alert at a close calculation,
+And scann'd the whole science of deep computation,
+When embu'd with her father's all grasping desires,
+The rashness of daring her mother inspires,
+And bids her ne'er hesitate roundly to send,
+A bold speculation in search of her end,      884
+Thus covetous meanness combines with profusion,
+To spread o'er her actions the veil of delusion;
+While Misery attends her wherever she goes,
+With hosts of bad passions, and myriads of woes,
+The foremost I ween is that canker-worm Care,
+And the last that black fiend which proceeds from despair,
+Life knows not one torment that gnaws like the first,
+And the last of all _deaths_, is the death most accurst.
+I hope you'll excuse this long fabling digression,
+As a thing very common in bards by profession,
+And to tell you the truth having been somewhat bit,
+I find I have gain'd a new edge to my wit,
+Yes! thanks to O'Baffin, his friendship's unriddled,
+And her Ladyship's simper, with "Blunderhead's diddled."
+But 'tis well I'm no worse and the wisdom they taught me,
+Experience alone I'm afraid could have bought me,
+For I foolishly slighted Sir J--n G--ff--d's hint,
+Tho' I knew his heart sterling as gold from the mint;
+I wish my good Col'nel aware of this Major,
+Would take home his wife in the country to cage her,
+For this Cormorant's eyes while they glanc'd on my purse,
+Mark'd the Col'nel I doubt for a robb'ry far worse,
+Ah mother! dear mother! I now can perceive it,
+The world is far worse than I once could believe it,
+When we mountaineers from the Peak make these sallies,
+We meet with strange cattle in civiliz'd vallies,
+And our good education I honestly own,
+But fits us to mix with each other alone,
+Our naivete, simplicity, openness, truth,
+The romantic attachments of warm-hearted youth,
+In the world's chilling atmosphere meet with such shocks,
+We had better ne'er roam from our own native rocks,
+But at present away with these moral excursions,
+And return we again to the list of diversions.      916
+Next came donkey races and pony likewise,
+Each nobly contending a suitable prize,
+For the last a fine saddle was stuck up to view,
+Which after hard riding was won by the blue,
+Then we all were amus'd by men jumping in sacks,
+Tho' it laid the competitors soon on their backs,
+But the best sport of all since it shew'd the most skill,
+Was two well lather'd pigs left to run at their will
+Which who seiz'd by the tail was to have for the catching,
+But the grunters in this had the best in the matching,
+And I never yet saw such most excellent fun,
+As they made of the fellows who ventur'd to run;
+Nor do I yet think that they _fairly_ were caught,
+But the company all left the place ere they ought,
+For a very fine turtle that day was set out,
+By a West India heiress presented sans doute,
+And people of taste were impatient to try,
+If Harrogate turtle with London could vie;
+And 'tis with _great_ pride my good madam I tell,
+'Twas allow'd that our cook did all London excel,
+I'm sure that Lord Gout, and Sir Harry Fullfare,
+Each ate three good pints of the soup for their share,
+And Mrs. Gourmander with Lady Allferret,
+Were equally strong in their proofs of its merit,
+And as very good eating some men of deep thinking,
+Have roundly declar'd calls for very good drinking;
+This alliance so nat'ral we sought to pursue,
+And gave to the turtle the honour its due,
+And that night for the first time I stagger'd to bed,
+With more wine on my stomach, than sense in my head,
+But a dose of the water as soon as 'twas day,
+Dispers'd all my head-ache and left me quite gay,
+And 'twas well that this good panacea I took,
+Or Agnes had murder'd my hopes with a look;
+For at best they're so delicate poor little things,
+One glance of her anger would clip all their wings,
+But I nourish the nestlings as well as I'm able,
+And consider each smile as an anchor and cable,
+My courage sometimes rises up to my cheek,
+Where it flushes and glows yet forbids me to speak;
+I would give all the world to make love to _one_ woman,
+With the ease Col'nel B--tem--n can do it in common,
+So pointed, yet meek, sentimental, and charming,
+Tho' always encroaching yet never alarming;      960
+But no wonder the Colonel shines in this way,
+For practice makes perfect in all things they say,
+And to maid, wife, or widow he's constantly paying,
+Those tender attentions most dear, most betraying,
+Unmindful I ween what vexations and smarts,
+Must follow the game in this "play upon hearts."
+Far different the bosom true passion inspires,
+That silently loves, and devoutly admires,
+It sighs not by rule nor makes speeches by measure,
+Nor studies the arts of allurement at leisure,
+Yet feeling all eloquent sometimes reveals,
+That state of the soul which timidity seals,
+And I take it the very best chance for a lover,
+Is that moment when fortune his flame may discover;
+Since no damsel will shrink from a peep at the breast,
+Where her own lovely form is so sweetly imprest,
+For should she regret that the picture's ill plac'd,
+Yet she'll value the wearer for exquisite taste.
+My Agnes of late has convers'd more than common,
+With a Mrs. Latouche a most excellent woman,
+Whose husband like many brave fellows beside,
+By his country was torn from the arms of his bride,
+For three years has he left her his absence to mourn,
+But she now has some hopes of his speedy return,
+She visits this place with a poor ailing aunt,
+Whom she tends with that kindness all invalids want,
+And proves in her tenderness, faithfulness, duty,
+Her virtue at least is as great as her beauty,
+Twin soul with my charmer I think it no wonder,
+(Tho' I'm sorry sometimes) they are seldom asunder,
+I fancy whenever I see them conversing,
+The wife all the worth of her lord is rehearsing,
+But I dare not yet hope that my Agnes replies,
+By adverting to poor Mr. Blunderhead's eyes.
+But my hopes or my fears I'll no longer intrude,
+For this monstrous long scrawl 'tis high time to conclude.
+&c. &c. &c.
+_High Harrogate, August 30th._
+Dear mother I've so much to say in my letter,
+Tho' the last was too long I fear this wo'nt be better,
+And someway I never know how to begin,
+When I've got a great many fine things to bring in;
+Nor can I with truth to our mutual relief,
+Declare in the first place I mean to be brief,
+For I know to my sorrow no Blunderhead yet,
+Could ever the talent of brevity get,
+So I still must go on with my doggerel chatter,
+And your pardon implore for "extraneous matter."
+You must know all this summer 't has been much the rage,
+For High Harrogate parties new scenes to engage,
+Leaving Studley and Hackfall and huge Brimham rocks,
+And assemble like swallows in emigrant flocks,
+Unmindful what terrible roads they must jolt on,
+To view the fine grounds and the ruins of Bolton,
+And yesterday morn a large party set out,
+To partake the delights of this picturesque rout.
+Fair Fenton, sweet Agnes, and lovely Latouche,
+Were all drove by Sir George in his splendid barouche,
+And if ever I envy'd a man so before,
+I will leave you to judge--but I now say no more.
+The rest in a chariot, and curricles went,
+And set off pretty early by general consent,
+At the Blubber-house Inn we all gladly alighted,
+By the sight of an excellent breakfast invited,
+Which enabled us all to endure future jumbling,
+And substitute laughter for hunger, and grumbling,
+When arrived at the bridge the first glimpse of the scene,
+Majestic yet simple, tho' grand yet serene,
+Gave presentiment sweet of the pleasure before us,
+And our hearts with the music of nature kept chorus,
+We just stopp'd at the Inn to enquire for a guide,
+And while saunt'ring around till this want was supplied,
+A Skipton chaise pass'd; whence a stranger look'd out,
+To see what so many gay folks were about;
+But the moment the form of his visage appear'd,
+What a shriek of delight from his consort was heard,
+'Tis he! 'tis my Henry! no more could she say,
+On the bosom of Agnes just fainting she lay,
+While the gallant Latouche from his vehicle sprung,
+And in speechless delight o'er his Ellinor hung;
+While adown his brown face roll'd the gracefullest tear,
+Which the hero could shed or the lover hold dear,
+'Twas a moment of bliss so intense in delight,
+It concenter'd whole ages of joy in its flight,
+And as Ellinor's eyes in transported amaze,
+Again, and again, on her Henry would gaze,
+The Elysium of extacy glow'd in their beam,
+The world was forgot, and past sorrow a dream.
+And think ye that Agnes unmov'd could behold,
+A scene where the bosom's best feeling's were told?
+Ah no! in her cheeks heightened blushes I read,
+Sensibility's whisper that moment had sped,      1050
+And told her when hearts thus congenial could meet,
+Earth knows no communion more pure or more sweet,
+I hail'd the blest omen, and watch'd for the hour,
+Which should lead our wild wanderings to solitude's bow'r,
+But long had we travers'd the ruins and grove,
+Ere my lips dar'd to utter one word of my love
+For such trembling anxiety hung on my breast,
+Even now I scarce know what I falt'ring confest,
+But _this_ I well know that my falt'ring confession,
+Was deem'd by the fair one no flagrant transgression,
+Tho' her words were but few yet her charming confusion,
+Assur'd me forgiveness beyond all delusion,
+And this young bud of hope ere the sun was gone down,
+By her kindness became a fair blossom full blown
+Oh morning of rapture! oh day of delight!
+Oh evening full gemm'd with the spangles of night!
+If e'er I forget the dear moments ye gave me,
+May the world be my guide--may her follies enslave me,
+May the blossom of hope from my bosom dissever,
+And may Agnes be lost to my wishes for ever----
+Do you ask me of Bolton its rocks, woods, and plains,
+Where beauty enthron'd in sublimity reigns?
+Where the Wharfe ever lovely, capricious, romantic,
+Or murmuring glides or impetuously frantic,
+Now spreads o'er the plain in majestic repose,
+Now rending the rocks as a cataract flows?
+Or enquire of the Priory whose ruins sublime,
+Shew beauties more soft from the pressure of time,
+And as their fine forms moulder gently away,
+Awake veneration and love from decay?
+Of Bardon's fine tow'r which proudly excelling,
+The Genius of Craven might choose for his dwelling,
+(For Genii and Fairies alone should be found,
+To people the regions celestial around,      1084
+While a Demon of darkness might howl o'er the Strid,
+And lash the fierce torrent that roar'd as he chid,)
+Yes this is the region for fancy to soar,
+Meditation to rove and devotion adore,
+For the painter's whole soul to exist in his eye,
+And the poet's on pinions new plumag'd to fly!
+But alas tho' each charm I could quickly discover,
+Yet expect no description but _one_ from a lover,
+If to tell of the Abbey's grey stones I begin,
+I shall surely contrast them with Agnes's skin;
+From the rock herbage-crown'd all bespangled with dew,
+I shall start to her eye's melting orbit of blue;
+Nor a wave of the river can flow wildly simple,
+But Agnes will rise with her smile and her dimple,
+So aware of my weakness I make no pretension,
+To give you description supply'd by invention,
+But I've bought a whole set of fine prints which will prove,
+That Bolton is meet for the birth place of love.
+And in them I will shew you dear mother, those places,
+The smiles of my fair one illum'd with new graces,
+And when I'm so blest (may the time quickly come,)
+To bring the sweet maid to a Derbyshire home,
+These pictures hung round the old hall shall display,
+How dear to my heart are the scenes they pourtray,
+And Agnes methinks "nothing loth" will behold,
+The spot where my passion first dar'd to unfold,
+And fondly will point to that bank where the willow,
+Re-murmur'd my vows as it bent to the billow.--
+"Dear Bolton adieu!" we all cried while returning,
+"Whoe'er left thy glen's lovely vale without mourning."
+When just as we spoke the fair rectory rose,
+Like the dwelling of peace in the lap of repose,
+We started with pleasure astonish'd to find,
+Such a Paradise close on the Eden behind,
+There Pomona's rich clusters hung sportively round,
+And Flora's gay carpet enamell'd the ground.
+As enchanted we gaz'd the kind owner appearing,
+Address'd us with manners politely endearing,
+And much we regretted the shadows of eve,
+Oblig'd us reluctantly soon to take leave.      1124
+Dinner quickly dispatch'd--to the Captain of course,
+My seat I resign'd and then borrow'd a horse,
+Be assur'd the barouche was most duly attended,
+And from dangers (that came not) most bravely defended,
+So courageous I felt, that 'twas really a pity,
+We never encounter'd one troop of banditti,
+No fright of the horses induc'd them to try,
+Just to leap o'er a bridge tho' so many were nigh,
+As the roads that would shake her 'twas folly to fly at,
+I was forc'd to ride on most provokingly quiet,
+In hopes that some future occasion will prove,
+My prowess, and gallantry, equal my love.
+This morning I rose with the dawning of day,
+On Agnes to think and contrive what to say,
+And after some planning and much hesitation,
+To her father I spoke on this weighty occasion:
+And I gratefully own that the worthy old Squire,
+Was as kind to my hopes as my heart could desire;
+He confess'd 'twas his foible to value old blood,
+And declar'd that my race was both ancient and good,
+'Fore the conquest he reckon'd some fifteen or twenty,
+And when it took place there were Blunderheads plenty,
+In the days of King Stephen 'tis known how they flourish'd,
+And the wars of the Roses the pedigree nourish'd,
+In Harry the eighth's time 'twas easy to trace,
+The parliament owed its support to our race,
+Tho' Elizabeth liked us not yet it was plain,
+We came pretty handsomely in the next reign;
+And continued in pow'r thro' succeeding confusion,
+Till sadly eclips'd by the proud revolution,
+And altho' since that period somewhat declining,
+He trusted the time would return for our shining,
+Tho' 'tis true that the Regent disclaims our alliance,
+From his fondness for freedom, for arts, and for science.
+In short he appear'd both so learned and kind,
+He's the wisest and best of old men to my mind,
+But adieu my dear mother I'm now on the wing,
+With Agnes to taste the Chalybeate spring.
+&c. &c. &c.
+_High Harrogate, September 21st._
+For my silence these three weeks your pardon I ask,
+But really dear mother all writing's a task,
+Save for sonnets to Agnes I do not know when,
+My run-a-way fingers laid hold of a pen,
+But I trust your indulgence will freely excuse,
+This natural fault in my negligent muse,
+Since she now comes before you in very great sorrow,
+To tell you I part with my charmer to-morrow,
+Tho' the Dragon's quite full and the company gay,
+And a ball at the Queen's-head is promis'd to-day,
+Yet when Agnes is gone I most plainly can see,
+This place will have lost all attraction for me,
+And I think when the coach and my lovely one in it
+Drives away, that I too must be off the next minute,
+Consolation to find in my mother's kind greeting,
+And forming good plans for our next pleasant meeting.
+Then fare ye well Harrogate--dear to my heart,
+Be the joys you inspire and the health you impart,
+May your springs ever flow an immutable treasure,
+And the breeze that blows o'er you be freighted with pleasure;
+Farewell to your Doctors--more skilful and kind,
+Not a Spa on the Island can promise to find,
+But chiefly my own must I leave with regret,
+For a sigh to our parting is gratitude's debt,
+His suavity, modesty, knowledge, and truth,
+Where the wisdom of age, joins the candour of youth,
+Have made me so truly esteem and respect him,
+While I value true worth I can never neglect him.
+No more must I saunter along the Parade,
+Or fly for a tune to the gay Promenade,
+At Wilson's exhibit my knowledge or wit,
+Or step into Wright's for my picture to sit,
+At Robey's or Bachelor's loiter to chuse,
+A broach or a ring while I hear all the news,
+Or ride on the common and gladly inhale,
+The spirit of strength from the heath-scented gale
+But tho' to your pleasures I now bid adieu,
+Be assur'd that next year shall those pleasures renew,
+Renew and exceed for on Hymen's white wing,
+To these haunts so belov'd I my Agnes may bring,
+The hopes of that blessing my cares shall beguile,
+And I leave thee dear Harrogate now with a smile.
 _Our respects to the beauties of Knaresbro' &c._ _Verse
-342._--Knaresbro' is a considerable Town, situated on a rock almost
 encompassed by the river Nidd. Near the town are the ruins of an ancient
 magnificent castle built soon after the Conquest, and in one side of a
 neighbouring rock is a cell where an hermit lived, still called St.
@@ -1509,7 +1284,6 @@ it are engraved the figures of three heads, supposed to represent the
 Trinity. This Robert founded himself a new order of monks, called
 Robertines, but it is probable that they soon diminished to nothing, as
 we do not meet with their name either in the Breviary or Baronius.
-
 But the greatest curiosity at Knaresbro' is the petrifying spring
 commonly called the Dropping-Well. This natural curiosity is a spring
 that rises about two miles from the town, and after running above a mile
@@ -1520,21 +1294,17 @@ if it were small stones falling on brass, and near it are many pieces of
 moss reduced to a state of petrefaction; there is a fine walk on one
 side of the well shaded with tall trees that makes the whole extremely
 delightful.
-
-  _Extract from British Traveller, page_ 621.
-
-    To this brief extract the Editor begs leave to add, that the
-    finest views of this singularly beautiful place are obtained
-    from the Low-bridge, the road leading to the Upper-bridge, and
-    the fields which are nearly opposite the castle; the variety of
-    cottages and the beautiful knolls of bold and herbaged rock
-    which every where intersect the scenery, render it the most
-    picturesque and interesting which can be found in so short a
-    compass. But though much beauty may be discovered in a few hours
-    at Knaresbrough, yet its charms will not be exhausted by the
-    residence of a long life.
-
-
+_Extract from British Traveller, page_ 621.
+To this brief extract the Editor begs leave to add, that the
+finest views of this singularly beautiful place are obtained
+from the Low-bridge, the road leading to the Upper-bridge, and
+the fields which are nearly opposite the castle; the variety of
+cottages and the beautiful knolls of bold and herbaged rock
+which every where intersect the scenery, render it the most
+picturesque and interesting which can be found in so short a
+compass. But though much beauty may be discovered in a few hours
+at Knaresbrough, yet its charms will not be exhausted by the
+residence of a long life.
 _To Plumpton proceeded, &c. v. 374._--This beautiful spot is rendered
 extremely attractive to the visitors at Harrogate, not only on account
 of its intrinsic merit, but its vicinity, as it is scarcely three miles
@@ -1543,18 +1313,12 @@ who have seen it most frequently, being more pleasing than striking; it
 is open to the public on Tuesdays and Fridays; on the road from Plumpton
 a fine view of the Honourable Mr. Gordon's magnificent new mansion in
 Rudding Park is obtained.
-
-  _Editor's Note._
-
-
+_Editor's Note._
 _To Harewood I went the first day I could, v. 380._ This splendid
 mansion can be seen only on Saturdays; it is justly considered an object
 of admiration as it unites elegance with grandeur, and utility with
 beauty.
-
-  _Editor's Note._
-
-
+_Editor's Note._
 _To Studley, &c. v. 389._--The celebrated grounds of Studley have long
 enjoyed a pre-eminence of fame among the northern beauties; their
 characteristics are magnificence, uniformity, and neatness. The
@@ -1564,8 +1328,6 @@ smooth shaven green," which surrounds it, to impress on the mind a sense
 of repose rather than an emotion of surprise. In its own style, Studley
 is perfect, and can never fail to delight, though it may be unable to
 astonish.
-
-
 _But who hallow'd Fountains, &c. v. 393._--The magnificent ruin of
 Fountains Abbey included in the grounds of Studley, is an object of
 delight and veneration in the highest degree, and will in the eye of an
@@ -1582,10 +1344,7 @@ trees, shrubs, and foliage intermingled with these extensive ruins, are
 the principal source of its beauties, being combined and contrasted with
 the mouldering arches and nodding towers in every possible form; of
 these the ivy and wild currant are the most prominent.
-
-  _Editor's Note._
-
-
+_Editor's Note._
 _See the Unicorn send us all merry to Newby, &c. v. 483._--Newby-hall
 the seat of Lord Grantham, is most remarkable for possessing a very fine
 Gallery built after the model of the Florentine Gallery so long the
@@ -1595,10 +1354,7 @@ attention of Mr. Blunderhead, who it is plain had but little knowledge
 or taste in works of art.--The tapestry in the drawing-room is
 considered incomparably fine, but the author has undoubtedly a very
 handsome and sufficient excuse for leaving it so abruptly.
-
-  _Editor's Note._
-
-
+_Editor's Note._
 _Oh then might I sing lovely Hackfall, v. 453._--To those who seek in
 landscape gardening for the wilder features of nature harmonized yet
 unsubdued by art, this sequestered vale will present an exquisite treat
@@ -1607,27 +1363,18 @@ romantic seclusion adorned with objects of such exquisite and concentred
 beauty as must meet the eye ere they can be appreciated by the
 imagination, which may people these fairy regions with every object of
 terror, or delight with equal propriety.
-
-  _Editor's Note._
-
-
+_Editor's Note._
 _We went to the Minster, v. 505._--The Minster at Rippon is a fine
 gothic structure, it formerly contained a narrow passage called the
 Needle of St. Wilfred, used by the monks as an ordeal for female
 purity.--The Bone-house contains many thousand skulls, and is generally
 shewn as a curiosity.
-
-  _Editor's Note._
-
-
+_Editor's Note._
 _Fam'd Brimham rocks, &c.--v._ 1009.--These prodigious masses of natural
 rock, together with a druidical temple near them, form one of the
 objects of curiosity in this neighbourhood; they are distant about
 eleven miles.
-
-  _Editor's Note._
-
-
+_Editor's Note._
 _To view the fine grounds and the ruins of Bolton. v. 1011._--Bolton-Priory
 stands upon a beautiful curviture of the Wharfe, on a level sufficiently
 elevated to protect it from inundation, and low enough for every purpose
@@ -1637,7 +1384,6 @@ and delicious, the eye reposes upon a few rich pastures, a moderate
 reach of the river sufficiently tranquil to form a mirror for the sun,
 and the bounding fells beyond neither too near, nor too lofty, to
 exclude even in winter any considerable portion of his rays.
-
 But after all, the glories of Bolton are on the north, whatever the most
 fastidious taste could require to form a perfect landscape, is not only
 found here, but in its proper place; in front and immediately under the
@@ -1651,14 +1397,11 @@ the valley below--about half a mile above Bolton-Priory the valley
 closes, and either side of the Wharfe is overhung with deep and solemn
 woods, intermingled with huge masses of perpendicular rocks which jut
 out at intervals.
-
 This sequestered scene was inaccessible till of late, when under the
 judicious direction of the Rev. W. Carr, B. D. Rector of Bolton-ridings,
 were cut in the woods, and the most interesting parts laid open to the
 eye, at the request of the noble proprietor, His Grace the Duke of
 Devonshire. _Extract from Dr. Whitaker's history of Craven._
-
-
 _Howl o'er the Strid, &c.--v. 1085._--In the deep solitude of the woods
 above Bolton, the Wharfe suddenly contracts itself to a rocky channel
 little more than four feet wide, and pours through the tremendous
@@ -1669,7 +1412,6 @@ the destruction which awaits a faltering step. An accident caused by
 this rashness has given a dreadful and sensible interest to this awful
 spot, in addition to the commending one it has received by nature, and
 which is immediately connected with the records of Bolton.
-
 In the 12th century, William Fitz Duncan at the command of David King of
 Scotland, who was besieging Narham, laid waste this part of Yorkshire
 with fire and sword, committing every species of cruelty which barbarity
@@ -1679,7 +1421,6 @@ married Aaliza daughter and heiress of William de Meschines a
 neighbouring Earl. They had a son commonly called the Boy of Egremont
 (from one of his grandfather's baronies where he was born) and who
 surviving his eldest brother became the sole hope of his family.
-
 This youth in his sixteenth year, inconsiderately bounding over this
 terrific chasm with a greyhound in his leash, the affrighted animal hung
 back and drew his unfortunate master into the torrent.--The forester who
@@ -1689,52 +1430,30 @@ bootless bene?" to which the mother apprehending some great calamity had
 befallen her son, answered, "endless sorrow."--The language of this
 question proves the antiquity of the story; its meaning appears to have
 been, what remains when prayer is useless.
-
 This fatal accident induced the Lady Aaliza to translate the Priory of
 Embsay, founded by her parents from thence to Bolton on account of its
 proximity to the scene of her son's deplorable death.
-
-  _Dr. Whitaker's history of Craven_.
-
-
+_Dr. Whitaker's history of Craven_.
 N. B. Six fine coloured prints of views in Bolton have been published
 from original pictures painted on the spot, by T. C. Hofland, among
 which is an admirable representation of the Strid.
-
-
 _Farewell to your Doctors, &c.--v. 1180._--Mr. Blunderhead was
 undoubtedly right in this observation, as perhaps not one watering place
 can boast medical men of equal ability and liberality, affording so
 striking a contrast with those "condemn'd to endless fame," by the
 memoirs of his celebrated uncle.
-
-
-  Finis.
-
-
-
-
-  G. Wilson, Printer,
-  Market-Place, Knaresbrough.
-
-
-  =Transcriber's Notes:=
-  original hyphenation, spelling and grammar have been preserved as in
-    the original
-  Page 16, 'objection she pleases.' changed to 'objection she pleases."'
-  Page 17, "off their glasses" changed to "off their glasses,"
-  Page 30, "&c &c. &c." changed to "&c. &c. &c."
-  Page 44, "long winded epistle," changed to "long winded epistle."
-  Page 63, "&c. &c. &c" changed to "&c. &c. &c."
-  Page 69, "all grasping desires" changed to "all grasping desires,"
-  Page 76, "&c. &c. &c" changed to "&c. &c. &c."
-  Page 84, "will behold" changed to "will behold,"
-  Page 87, "Chalybeate spring" changed to "Chalybeate spring."
-
-
-
-
-
-
-End of Project Gutenberg's A Season at Harrogate, by Barbara Hofland
-
+Finis.
+G. Wilson, Printer,
+Market-Place, Knaresbrough.
+=Transcriber's Notes:=
+original hyphenation, spelling and grammar have been preserved as in
+the original
+Page 16, 'objection she pleases.' changed to 'objection she pleases."'
+Page 17, "off their glasses" changed to "off their glasses,"
+Page 30, "&c &c. &c." changed to "&c. &c. &c."
+Page 44, "long winded epistle," changed to "long winded epistle."
+Page 63, "&c. &c. &c" changed to "&c. &c. &c."
+Page 69, "all grasping desires" changed to "all grasping desires,"
+Page 76, "&c. &c. &c" changed to "&c. &c. &c."
+Page 84, "will behold" changed to "will behold,"
+Page 87, "Chalybeate spring" changed to "Chalybeate spring."

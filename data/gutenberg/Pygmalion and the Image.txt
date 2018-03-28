@@ -1,113 +1,24 @@
-�The Project Gutenberg EBook of Pygmalion and the Image, by William Morris
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-Title: Pygmalion and the Image
-
-Author: William Morris
-
-Commentator: Fitzroy Carrington
-
-Illustrator: Edward Burne-Jones
-
-Release Date: August 30, 2015 [EBook #49827]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK PYGMALION AND THE IMAGE ***
-
-
-
-
 Produced by Katie Hernandez, Shaun Pinder and the Online
 Distributed Proofreading Team at http://www.pgdp.net (This
 file was produced from images generously made available
 by The Internet Archive)
-
-
-
-
-
 Transcriber's Notes:
-
 Italic text is denoted by _underscores_.
-
 Small Cap text has been converted to ALL CAPS.
-
 ".." has been normalized to "."
-
 Original spellings have been retained.
-
 The oe ligature has been denoted simply by oe.
-
-       *       *       *       *       *
-
-
-
-
-PYGMALION AND THE IMAGE
-
-[Illustration: _William Morris_
-
+*       *       *       *       *
 _From the painting by G. F. Watts. R.A._]
-
-[Illustration]
-
-
-
-
-  [Illustration]
-
-  PYGMALION AND
-  THE IMAGE BY
-  WILLIAM MORRIS
-  ILLVSTRATED WITH
-  PICTVRES BY SIR EDWARD
-  BVRNE-JONES
-
-  [Illustration]
-
-  NEW YORK R·H·RVSSELL PVBLISHER MCMIII
-
-
-
-
-  _Copyright, 1903_
-  _By_ ROBERT HOWARD RUSSELL
-
-  _Published October, 1903_
-
-
-
-
-  LIST OF ILLUSTRATIONS
-
-  BY SIR EDWARD BURNE-JONES, BART.
-
-
-    _Portrait of William Morris_      Frontispiece
-    _From the painting by G. F. Watts, R.A._
-
-    _The Heart Desires_      PAGE  8
-
-    _The Hand Refrains_       "   16
-
-    _The Godhead Fires_       "   24
-
-    _The Soul Attains_        "   32
-
-
-
-
-[Illustration: W]ith the exception of "The Doom of King Acrisius,"
+_Copyright, 1903_
+_By_ ROBERT HOWARD RUSSELL
+_Published October, 1903_
+_Portrait of William Morris_      Frontispiece
+_From the painting by G. F. Watts, R.A._
+_The Heart Desires_      PAGE  8
+_The Hand Refrains_       "   16
+_The Godhead Fires_       "   24
+_The Soul Attains_        "   32
 "Pygmalion and the Image" is the only poem of _The Earthly Paradise_
 for the illustration of which Burne-Jones actually executed a complete
 series of pictures; and though the finished paintings are but four in
@@ -118,7 +29,6 @@ picture in it, though finished with the loving care and elaboration
 which Burne-Jones lavished on his paintings, fails of its full
 significance unless considered in its relation to the series of which
 it forms a part.
-
 In regard to the poem itself, the inspiration of these pictures, even
 the most casual study will bring in its train a conviction that the
 story as told by William Morris is far superior to any other version
@@ -149,10 +59,8 @@ which their figures move is the same--a land where emotion rather than
 passion bears sway, where the fates of man and of woman are determined
 by a whim of the gods rather than dominated by the chivalrous or devout
 hardihood of the individual.
-
 In his "Apology" prefixed to _The Earthly Paradise_, Morris clearly and
 definitely disclaims any moral purpose in the poems comprised in it.
-
 "Why should I strive to set the crooked straight?" he writes. How
 far this feeling was shared by Burne-Jones we can never know, but
 nearly all of his biographers are agreed that a love of beauty, as
@@ -167,7 +75,6 @@ and of its critics, expresses a like opinion, and his analysis of the
 paintings composing the Pygmalion Series is not only interesting in
 itself, but is especially so as showing the extent to which the man of
 letters can read his own interpretation into the work of a painter.
-
 "The four pictures from 'The Story of Pygmalion,'" he writes, "also
 included in _The Earthly Paradise_, again show this preference of the
 poet and the artist for the spirit before the form, provided only the
@@ -207,7 +114,6 @@ at the beautiful creature who lingeringly yields him her hands, though
 she still gazes out beyond him in dumb amazement at the mystery of
 consciousness that has suddenly been born in her. Marble no longer, but
 not yet altogether woman."
-
 "Dreamer of dreams, born out of my due time," is even more appropriate
 to Burne-Jones than to its author, William Morris, and it is an
 ever-to-be-regretted misfortune that two poems only of those comprised
@@ -221,798 +127,648 @@ and in another hemisphere, a project which both Burne-Jones and William
 Morris held dear, but which neither of them lived to see realized. To
 their memory this book, together with the recently re-issued _Doom of
 King Acrisius_, is dedicated.
-
-  FITZROY CARRINGTON.
-
-  ORIENTA COTTAGE,
-  MAMARONECK, NEW YORK,
-  DECEMBER ELEVENTH, 1902
-
-
-
-
-[Illustration: A] MAN OF CYPRUS, A SCULPTOR NAMED PYGMALION, MADE
-AN IMAGE OF A WOMAN, FAIRER THAN ANY THAT HAD YET BEEN SEEN, AND IN
-THE END CAME TO LOVE HIS OWN HANDIWORK AS THOUGH IT HAD BEEN ALIVE:
-WHEREFORE, PRAYING TO VENUS FOR HELP, HE OBTAINED HIS END, FOR SHE MADE
-THE IMAGE ALIVE INDEED, AND A WOMAN, AND PYGMALION WEDDED HER.
-
-  _WILLIAM MORRIS_
-
-
-
-
-  [Illustration: A]t Amathus, that from the southern side
-  Of Cyprus looks across the Syrian sea,
-  There did in ancient time a man abide
-  Known to the island-dwellers, for that he
-  Had wrought most godlike works in imagery,
-  And day by day still greater honor won,
-  Which man our old books call Pygmalion.
-
-  Yet in the praise of men small joy he had,
-  But walked abroad with downcast, brooding face.
-  Nor yet by any damsel was made glad;
-  For, sooth to say, the women of that place
-  Must seem to all men an accursed race,
-  Who with the turner of all hearts once strove,
-  So in their hearts must carry lust for love.
-
-  Now on a day it chanced that he had been
-  About the streets, and on the crowded quays,
-  Rich with unopened wealth of bales, had seen
-  The dark-eyed merchants of the Southern seas
-  In chaffer with the base Propoetides,
-  And heavy-hearted gat him home again,
-  His once-loved life grown idle, poor, and vain.
-
-  And there upon his images he cast
-  His weary eyes, yet little noted them,
-  As still from name to name his swift thought passed,
-  For what to him was Juno's well-wrought hem,
-  Diana's shaft, or Pallas' olive-stem?
-  What help could Hermes' rod unto him give,
-  Until with shadowy things he came to live?
-
-  Yet note, that though, while looking on the sun,
-  The craftsman o'er his work some morn of spring
-  May chide his useless labor never done,
-  For all his murmurs, with no other thing
-  He soothes his heart, and dulls thought's poisonous sting,
-  And thus in thought's despite the world goes on;
-  And so it was with this Pygmalion.
-
-  Unto the chisel must he set his hand,
-  And slowly, still in troubled thought must pace
-  About a work begun, that there doth stand,
-  And still returning to the self-same place,
-  Unto the image now must set his face,
-  And with a sigh his wonted toil begin,
-  Half loathed, half loved, a little rest to win.
-
-  The lessening marble that he worked upon,
-  A woman's form now imaged doubtfully,
-  And in such guise the work had he begun,
-  Because when he the untouched block did see
-  In wandering veins that form there seemed to be,
-  Whereon he cried out in a careless mood,
-  "O lady Venus, make this presage good!
-
-  "And then this block of stone shall be thy maid,
-  And, not without rich golden ornament,
-  Shall bide within thy quivering myrtle-shade."
-  So spoke he, but the goddess, well content,
-  Unto his hand such godlike mastery sent,
-  That like the first artificer he wrought,
-  Who made the gift that woe to all men brought.
-
-  And yet, but such as he was wont to do,
-  At first indeed that work divine he deemed,
-  And as the white chips from the chisel flew
-  Of other matters languidly he dreamed,
-  For easy to his hand that labor seemed,
-  And he was stirred with many a troubling thought,
-  And many a doubt perplexed him as he wrought.
-
-  And yet, again, at last there came a day
-  When smoother and more shapely grew the stone,
-  And he, grown eager, put all thought away
-  But that which touched his craftsmanship alone;
-  And he would gaze at what his hands had done,
-  Until his heart with boundless joy would swell
-  That all was wrought so wonderfully well.
-
-  Yet long it was ere he was satisfied,
-  And with his pride that by his mastery
-  This thing was done, whose equal far and wide
-  In no town of the world a man could see,
-  Came burning longing that the work should be
-  E'en better still, and to his heart there came
-  A strange and strong desire he could not name.
-
-  The night seemed long, and long the twilight seemed,
-  A vain thing seemed his flowery garden fair;
-  Though through the night still of his work he dreamed,
-  And though his smooth-stemmed trees so nigh it were
-  That thence he could behold the marble hair,
-  Naught was enough, until with steel in hand
-  He came before the wondrous stone to stand.
-
-  No song could charm him, and no histories
-  Of men's misdoings could avail him now--
-  Nay, scarcely seaward had he turned his eyes
-  If men had said, "The fierce Tyrrhenians row
-  Up through the bay; rise up and strike a blow
-  For life and goods"; for naught to him seemed dear
-  But to his well-loved work to be anear.
-
-  Then vexed he grew, and, knowing not his heart,
-  Unto himself he said, "Ah, what is this
-  That I who oft was happy to depart
-  And wander where the boughs each other kiss
-  'Neath the west wind, now have no other bliss
-  But in vain smoothing of this marble maid,
-  Whose chips this month a drachma had outweighed?
-
-  "Lo! I will get me to the woods and try
-  If I my woodcraft have forgotten quite,
-  And then, returning, lay this folly by,
-  And eat my fill, and sleep my sleep anight,
-  And 'gin to carve a Hercules aright
-  Upon the morrow, and perchance indeed
-  The Theban will be good to me at need."
-
-  With that he took his quiver and his bow,
-  And through the gates of Amathus he went,
-  And towards the mountain slopes began to go,
-  Within the woods to work out his intent.
-  Fair was the day, the honied bean-field's scent
-  The west wind bore unto him; o'er the way
-  The glittering, noisy poplar leaves did play.
-
-  All things were moving; as his hurried feet
-  Passed by, within the flowery swath he heard
-  The sweeping of the scythe, the swallow fleet
-  Rose over him, the sitting partridge stirred
-  On the field's edge; the brown bee by him whirred,
-  Or murmured in the clover flowers below;
-  But he with bowed-down head failed not to go.
-
-  At last he stopped, and, looking round, he said,
-  "Like one whose thirtieth year is well gone by,
-  The day is getting ready to be dead;
-  No rest, and on the border of the sky
-  Already the great banks of dark haze lie;
-  No rest--what do I midst this stir and noise?--
-  What part have I in these unthinking joys?"
-
-  With that he turned, and towards the city gate
-  Through the sweet fields went swifter than he came,
-  And cast his heart into the hands of fate;
-  Nor strove with it, when higher 'gan to flame
-  That strange and strong desire without a name;
-  Till panting, thinking of naught else, once more
-  His hand was on the latch of his own door.
-
-  One moment there he lingered, as he said,
-  "Alas! what should I do if she were gone?"
-  But even with that word his brow waxed red
-  To hear his own lips name a thing of stone,
-  As though the gods some marvel there had done,
-  And made his work alive; and therewithal,
-  In turn, great pallor on his face did fall.
-
-  But with a sigh he passed into the house;
-  Yet even then his chamber door must hold,
-  And listen there, half blind and timorous,
-  Until his heart should wax a little bold;
-  Then, entering, motionless and white and cold,
-  He saw the image stand amidst the floor
-  That whitened was by labor done before.
-
-
-  _The Heart Desires_
-
-
-  [Illustration]
-
-
-  Blinded with tears, his chisel up he caught,
-  And, drawing near and sighing, tenderly
-  Upon the marvel of the face he wrought,
-  E'en as he used to pass the long days by;
-  But his sighs changed to sobbing presently,
-  And on the floor the useless steel he flung,
-  And, weeping loud, about the image clung.
-
-  "Alas!" he cried, "why have I made thee, then,
-  That thus thou mockest me? I know indeed
-  That many such as thou are loved of men,
-  Whose passionate eyes poor wretches still will lead
-  Into their net, and smile to see them bleed;
-  But these the gods made, and this hand made thee,
-  Who wilt not speak one little word to me."
-
-  Then from the image did he draw aback
-  To gaze on it through tears; and you had said,
-  Regarding it, that little did it lack
-  To be a living and most lovely maid;
-  Naked it was, its unbound locks were laid
-  Over the lovely shoulders; with one hand
-  Reached out, as to a lover, did it stand;
-
-  The other held a fair rose over-blown;
-  No smile was on the parted lips, the eyes
-  Seemed as if even now great love had shown
-  Unto them, something of its sweet surprise,
-  Yet saddened them with half-seen mysteries,
-  And still midst passion maiden-like she seemed,
-  As though of love unchanged for aye she dreamed.
-
-  Reproachfully beholding all her grace,
-  Pygmalion stood, until he grew dry-eyed,
-  And then at last he turned away his face
-  As if from her cold eyes his grief to hide;
-  And thus a weary while did he abide,
-  With nothing in his heart but vain desire,
-  The ever-burning, unconsuming fire.
-
-  But when again he turned his visage round
-  His eyes were brighter and no more he wept,
-  As if some little solace he had found,
-  Although his folly none the more had slept,
-  Rather some new-born, god-sent madness kept
-  His other madness from destroying him,
-  And made the hope of death wax faint and dim;
-
-  For, trembling and ashamed, from out the street
-  Strong men he called, and faint with jealousy
-  He caused them bear the ponderous, moveless feet
-  Unto the chamber where he used to lie,
-  So in a fair niche to his bed anigh,
-  Unwitting of his woe, they set it down,
-  Then went their ways beneath his troubled frown.
-
-  Then to his treasury he went, and sought
-  For gems for its adornment, but all there
-  Seemed to his eager eyes but poor and naught,
-  Not worthy e'en to touch her rippled hair.
-  So he, departing, through the streets 'gan fare,
-  And from the merchants at a mighty cost
-  Bought gems that kings for no good deed had lost.
-
-  These, then, he hung her senseless neck around,
-  Set on her fingers, and fair arms of stone,
-  Then cast himself before her on the ground,
-  Praying for grace for all that he had done
-  In leaving her untended and alone;
-  And still with every hour his madness grew
-  Though all his folly in his heart he knew.
-
-  At last asleep before her feet he lay,
-  Worn out with passion, yet this burning pain
-  Returned on him, when with the light of day
-  He woke and wept before her feet again;
-  Then of the fresh and new-born morning fain,
-  Into his garden passed, and therefrom bore
-  Fresh spoil of flowers his love to lay before.
-
-  A little altar, with fine gold o'erlaid,
-  Was in his house, that he a while ago
-  At some great man's command had deftly made,
-  And this he now must take and set below
-  Her well-wrought feet, and there must red flame glow
-  About sweet wood, and he must send her thence
-  The odor of Arabian frankincense.
-
-  Then as the smoke went up, he prayed and said,
-  "Thou, image, hear'st me not, nor wilt thou speak,
-  But I perchance shall know when I am dead,
-  If this has been some goddess' sport, to seek
-  A wretch, and in his heart infirm and weak
-  To set her glorious image, so that he,
-  Loving the form of immortality.
-
-  "May make much laughter for the gods above:
-  Hear me, and if my love misliketh thee
-  Then take my life away, for I will love
-  Till death unfeared at last shall come to me,
-  And give me rest, if he of might may be
-  To slay the love of that which cannot die,
-  The heavenly beauty that can ne'er pass by."
-
-  No word, indeed, the moveless image said,
-  But with the sweet, grave eyes his hands had wrought
-  Still gazed down on his bowed, imploring head;
-  Yet his own words some solace to him brought,
-  Gilding the net wherein his soul was caught
-  With something like to hope, and all that day
-  Some tender words he ever found to say;
-
-  And still he felt as something heard him speak;
-  Sometimes he praised her beauty, and sometimes
-  Reproached her in a feeble voice and weak,
-  And at the last drew forth a book of rhymes,
-  Wherein were writ the tales of many climes,
-  And read aloud the sweetness hid therein
-  Of lovers' sorrows and their tangled sin.
-
-  And when the sun went down, the frankincense
-  Again upon the altar-flame he cast,
-  That through the open window floating thence
-  O'er the fresh odors of the garden passed;
-  And so another day was gone at last,
-  And he no more his lovelorn watch could keep,
-  But now for utter weariness must sleep.
-
-  But in the night he dreamed that she was gone,
-  And, knowing that he dreamed, tried hard to wake,
-  And could not, but, forsaken and alone,
-  He seemed to weep as though his heart would break;
-  And when the night her sleepy veil did take
-  From off the world, waking, his tears he found
-  Still wet upon the pillow all around.
-
-  Then at the first, bewildered by those tears,
-  He fell a-wondering wherefore he had wept,
-  But suddenly remembering all his fears,
-  Panting with terror, from the bed he leapt;
-  But still its wonted place the image kept,
-  Nor moved for all the joyful ecstasy
-  Wherewith he blessed the day that showed it nigh.
-
-  Then came the morning offering, and the day,
-  Midst flowers and words of love and kisses sweet,
-  From morn, through noon, to evening passed away;
-  And scarce unhappy, crouching at her feet,
-  He saw the sun descend the sea to meet;
-  And scarce unhappy through the darkness crept
-  Unto his bed, and midst soft dreaming slept.
-
-
-  [Illustration: B]ut the next morn, e'en while the incense-smoke
-  At sun-rising curled round about her head,
-  Sweet sound of songs the wonted quiet broke
-  Down in the street, and he by something led,
-  He knew not what, must leave his prayer unsaid,
-  And through the freshness of the morn must see
-  The folk who went with that sweet minstrelsy;
-
-  Damsels and youths in wonderful attire,
-  And in their midst upon a car of gold
-  An image of the Mother of Desire,
-  Wrought by his hands in days that seemed grown old,
-  Though those sweet limbs a garment did enfold,
-  Colored like flame, enwrought with precious things,
-  Most fit to be the prize of striving kings.
-
-
-  _The Hand Refrains_
-
-
-  [Illustration]
-
-
-  Then he remembered that the manner was
-  That fair-clad priests the lovely Queen should take
-  Thrice in the year, and through the city pass,
-  And with sweet songs the dreaming folk awake;
-  And through the clouds a light there seemed to break
-  When he remembered all the tales well told
-  About her glorious, kindly deeds of old.
-
-  So his unfinished prayer he finished not,
-  But, kneeling, once more kissed the marble feet,
-  And, while his heart with many thoughts waxed hot,
-  He clad himself with fresh attire and meet
-  For that bright service, and with blossoms sweet
-  Entwined with tender leaves he crowned his head,
-  And followed after as the goddess led.
-
-  But long and vain unto him seemed the way
-  Until they came unto her house again;
-  Long years, the while they went about to lay
-  The honey-hiding dwellers on the plain,
-  The sweet companions of the yellowing grain
-  Upon her golden altar; long and long
-  Before, at end of their delicious song,
-
-  They stripped her of her weed with reverent hands
-  And showed the ivory limbs his hand had wrought;
-  Yea, and too long e'en then ere those fair bands,
-  Dispersing here and there, the shadow sought
-  Of Indian spice-trees o'er the warm sea brought,
-  And toward the splashing of the fountain turned,
-  Mocked the noon sun that o'er the cloisters burned.
-
-  But when the crowd of worshippers was gone,
-  And through the golden dimness of the place
-  The goddess' very servants paced alone,
-  Or some lone damsel murmured of her case
-  Apart from prying eyes, he turned his face
-  Unto that image made with toil and care,
-  In days when unto him it seemed most fair.
-
-  Dusky and dim, though rich with gems and gold,
-  The house of Venus was. High in the dome
-  The burning sunlight you might now behold;
-  From nowhere else the light of day might come,
-  To curse the Shame-faced Mother's lovely home;
-  A long way off the shrine, the fresh sea-breeze,
-  Now just arising, brushed the myrtle-trees.
-
-  The torches of the flower-crowned, singing band
-  Erewhile, indeed, made more than daylight there,
-  Lighting the painted tales of many a land,
-  And carven heroes, with their unused glare;
-  But now a few soft, glimmering lamps there were,
-  And on the altar a thin, flickering flame
-  Just showed the golden letters of her name.
-
-  Blue in the dome yet hung the incense-cloud,
-  And still its perfume lingered all around;
-  And, trodden by the light-foot, fervent crowd,
-  Thick lay the summer flowers upon the ground,
-  And now from far-off halls uprose the sound
-  Of Lydian music, and the dancer's cry,
-  As though some door were opened suddenly.
-
-  So there he stood, that help from her to gain,
-  Bewildered by that twilight midst of day;
-  Downcast with listening to the joyous strain
-  He had no part in, hopeless with delay
-  Of all the fair things he had meant to say;
-  Yet, as the incense on the flame he cast,
-  From stammering lips and pale these words there passed:
-
-  "O thou forgotten help, dost thou yet know
-  What thing it is I need, when even I,
-  Bent down before thee in this shame and woe,
-  Can frame no set of words to tell thee why
-  I needs must pray? Oh, help me or I die!
-  Or slay me, and in slaying take from me
-  Even a dead man's feeble memory.
-
-  "Say not thine help I have been slow to seek;
-  Here have I been from the first hour of morn,
-  Who stand before thy presence faint and weak,
-  Of my one poor delight left all forlorn;
-  Trembling with many fears, the hope outworn
-  I had when first I left my love, my shame,
-  To call upon thine oft-sung, glorious name."
-
-  He stopped to catch his breath, for as a sob
-  Did each word leave his mouth; but suddenly,
-  Like a live thing, the thin flame 'gan to throb
-  And gather force, and then shot up on high
-  A steady spike of light, that drew anigh
-  The sunbeam in the dome, then sank once more
-  Into a feeble flicker as before.
-
-  But at that sight the nameless hope he had,
-  That kept him living midst unhappiness,
-  Stirred in his breast, and with changed face and glad
-  Unto the image forward must he press
-  With words of praise his first word to redress;
-  But then it was as though a thick, black cloud
-  Altar and fire and ivory limbs did shroud.
-
-  He staggered back, amazed and full of awe;
-  But when, with anxious eyes, he gazed around,
-  About him still the worshippers he saw
-  Sunk in their wonted works, with no surprise
-  At what to him seemed awful mysteries;
-  Therewith he sighed and said, "This, too, I dream,
-  No better day upon my life shall beam."
-
-  And yet for long upon the place he gazed
-  Where other folk beheld the lovely Queen;
-  And while he looked the dusky veil seemed raised,
-  And everything was as it erst had been;
-  And then he said, "Such marvels I have seen
-  As some sick man may see from off his bed--
-  Ah, I am sick, and would that I were dead!"
-
-  Therewith, not questioning his heart at all,
-  He turned away and left the holy place,
-  When now the wide sun reddened towards his fall,
-  And a fresh west wind held the clouds in chase;
-  But coming out, at first he hid his face,
-  Dazed with the light, and in the porch he stood,
-  Nor wished to move or change his dreary mood.
-
-  Yet in a while the freshness of the eve
-  Pierced to his weary heart, and with a sigh
-  He raised his head and slowly 'gan to leave
-  The high, carved pillars; and so presently
-  Had passed the grove of whispering myrtles by,
-  And, mid the many noises of the street,
-  Made himself brave the eyes of men to meet.
-
-  Thronged were the ways with folk in gay attire,
-  Nursing the end of that festivity;
-  Girls fit to move the moody man's desire
-  Brushed past him, and soft, dainty minstrelsy
-  He heard amid the laughter, and might see,
-  Through open doors, the garden's green delight,
-  Where pensive lovers waited for the night;
-
-  Or resting dancers round the fountain drawn,
-  With faces flushed unto the breeze turned round,
-  Or wandering o'er the fragrant, trodden lawn,
-  Took up their fallen garlands from the ground;
-  Or languidly their scattered tresses bound,
-  Or let their gathered raiment fall adown,
-  With eyes downcast beneath their lovers' frown.
-
-  What hope Pygmalion yet might have, when he
-  First left the pillars of the dreamy place,
-  Amid such sights had vanished utterly.
-  He turned his weary eyes from face to face,
-  Nor noted them, as at a lagging pace
-  He gat towards home, and still was murmuring,
-  "Ah, life, sweet life! the only godlike thing!"
-
-  And as he went, though longing to be there
-  Whereas his sole desire awaited him,
-  Yet did he loath to see the image fair,
-  White and unchanged of face, unmoved of limb,
-  And to his heart came dreamy thoughts and dim
-  That unto some strange region he might come,
-  Nor ever reach again his loveless home.
-
-  Yet soon, indeed, before his door he stood,
-  And, as a man awaking from a dream,
-  Seemed waked from his old folly; naught seemed good
-  In all the things that he before had deemed
-  At least worth life, and on his heart there streamed
-  Cold light of day--he found himself alone,
-  Reft of desire, all love and madness gone.
-
-
-  _The Godhead Fires_
-
-
-  [Illustration]
-
-
-  And yet for that past folly must he weep,
-  As one might mourn the parted happiness
-  That, mixed with madness, made him smile in sleep;
-  And still some lingering sweetness seemed to bless
-  The hard life left of toil and loneliness,
-  Like a past song too sweet, too short, and yet
-  Immeshed forever in the memory's net.
-
-  Weeping he entered, murmuring, "O fair Queen,
-  I thank thee that my prayer was not for naught;
-  Truly a present helper hast thou been
-  To those who faithfully thy throne have sought!
-  Yet, since with pain deliverance I have bought,
-  Hast thou not yet some gift in store for me,
-  That I thine happy slave henceforth may be?"
-
-
-  [Illustration: T]hus to his chamber at the last he came,
-  And, pushing through the still half-opened door,
-  He stood within; but there, for very shame
-  Of all the things that he had done before,
-  Still kept his eyes bent down upon the floor,
-  Thinking of all that he had done and said
-  Since he had wrought that luckless marble maid.
-
-  Yet soft his thoughts were, and the very place
-  Seemed perfumed with some nameless heavenly air;
-  So gaining courage, did he raise his face
-  Unto the work his hands had made so fair,
-  And cried aloud to see the niche all bare
-  Of that sweet form, while through his heart again
-  There shot a pang of his old yearning pain.
-
-  Yet while he stood, and knew not what to do
-  With yearning, a strange thrill of hope there came,
-  A shaft of new desire now pierced him through,
-  And therewithal a soft voice called his name;
-  And when he turned, with eager eyes aflame,
-  He saw, betwixt him and the setting sun,
-  The lively image of his loved one.
-
-  He trembled at the sight, for though her eyes,
-  Her very lips, were such as he had made,
-  And though her tresses fell but in such guise
-  As he had wrought them, now was she arrayed
-  In that fair garment that the priests had laid
-  Upon the goddess on that very morn,
-  Dyed like the setting sun upon the corn.
-
-  Speechless he stood, but she now drew anear,
-  Simple and sweet as she was wont to be,
-  And once again her silver voice rang clear,
-  Filling his soul with great felicity,
-  And thus she spoke: "Wilt thou not come to me,
-  O dear companion of my new-found life,
-  For I am called thy lover and thy wife?
-
-  "Listen, these words the Dread One bade me say
-  That was with me e'en now, _Pygmalion,
-  My new-made soul I give to thee to-day,
-  Come, feel the sweet breath that thy prayer has won,
-  And lay thine hand this heaving breast upon!
-  Come, love, and walk with me between the trees,
-  And feel the freshness of the evening breeze._
-
-  "_Sweep mine hair round thy neck; behold my feet,
-  The oft-kissed feet thou thoughtst should never move,
-  Press down the daisies! draw me to thee, sweet,
-  And feel the warm heart of thy living love
-  Beat against thine, and bless the Seed of Jove,
-  Whose loving, tender heart hath wrought all this,
-  And wrapped us both in such a cloud of bliss._
-
-  "Ah, thou art wise to know what this may mean!
-  Sweet seem the words to me, and needs must I
-  Speak all the lesson of the lovely Queen;
-  But this I know, I would we were more nigh,
-  I have not heard thy voice but in the cry
-  Thou utteredst then, when thou believedst gone
-  The marvel of thine hands, the maid of stone."
-
-  She reached her hand to him, and with kind eyes
-  Gazed into his; but he the fingers caught
-  And drew her to him, and midst ecstasies
-  Passing all words, yea, wellnigh passing thought,
-  Felt that sweet breath that he so long had sought,
-  Felt the warm life within her heaving breast
-  As in his arms his living love he pressed.
-
-  But as his cheek touched hers he heard her say,
-  "Wilt thou not speak, O love? Why dost thou weep?
-  Art thou then sorry for this long-wished day,
-  Or dost thou think perchance thou wilt not keep
-  This that thou holdest, but in dreamy sleep?
-  Nay, let us do the bidding of the Queen,
-  And hand in hand walk through thy garden green;
-
-  "Then shalt thou tell me, still beholding me,
-  Full many things whereof I wish to know;
-  And as we walk from whispering tree to tree
-  Still more familiar to thee shall I grow,
-  And such things shalt thou say unto me now
-  As when thou deemedst thou wast quite alone,
-  A madman, kneeling to a thing of stone."
-
-  But at that word a smile lit up his eyes,
-  And therewithal he spake some loving word,
-  And she at first looked up in grave surprise
-  When his deep voice and musical she heard,
-  And clung to him as somewhat grown afeard;
-  Then cried aloud and said, "O mighty one!
-  What joy with thee to look upon the sun!"
-
-  Then into that fair garden did they pass,
-  And all the story of his love he told;
-  And as the twain went o'er the dewy grass,
-  Beneath the risen moon could he behold
-  The bright tears trickling down; then, waxen bold,
-  He stopped and said, "Ah, love, what meaneth this?
-  Seest thou how tears still follow earthly bliss?"
-
-  Then both her white arms round his neck she threw,
-  And, sobbing, said: "O love, what hurteth me?
-  When first the sweetness of my life I knew,
-  Not this I felt; but when I first saw thee
-  A little pain and great felicity
-  Rose up within me, and thy talk e'en now
-  Made pain and pleasure ever greater grow."
-
-  "O sweet," he said, "this thing is even love,
-  Whereof I told thee; that all wise men fear,
-  But yet escape not; nay, to gods above,
-  Unless the old tales lie, it draweth near.
-  But let my happy ears, I pray thee, hear
-  Thy story, too, and how thy blessed birth
-  Has made a heaven of this once lonely earth.
-
-  "My sweet," she said, "as yet I am not wise,
-  Or stored with words, aright the tale to tell;
-  But listen: when I opened first mine eyes
-  I stood within the niche thou knowest well,
-  And from mine hand a heavy thing there fell,
-  Carved like these flowers, nor could I see things clear,
-  And but a strange, confused noise could hear.
-
-  "At last mine eyes could see a woman fair,
-  But awful as this round, white moon o'erhead.
-  So that I trembled when I saw her there,
-  For with my life was born some touch of dread,
-  And therewithal I heard her voice, that said,
-  'Come down, and learn to love and be alive,
-  For thee, a well-prized gift, to-day I give.'
-
-  "Then on the floor I stepped, rejoicing much,
-  Not knowing why, not knowing aught at all,
-  Till she reached out her hand my breast to touch;
-  And when her fingers thereupon did fall,
-  Thought came unto my life, and therewithal
-  I knew her for a goddess, and began
-  To murmur in some tongue unknown to man.
-
-
-  _The Soul Attains_
-
-
-  [Illustration]
-
-
-  "And then, indeed, not in this guise was I;
-  No sandals had I, and no saffron gown,
-  But naked as thou knowest utterly,
-  E'en as my limbs beneath thine hand had grown;
-  And this fair, perfumed robe then fell adown
-  Over the goddess' feet, and swept the ground,
-  And round her loins a glittering belt was bound.
-
-  "But when the stammering of my tongue she heard
-  Upon my trembling lips her hand she laid,
-  And spoke again: 'Nay, say not any word;
-  All that thine heart would say I know unsaid,
-  Who even now thine heart and voice have made;
-  But listen rather, for thou knowest now
-  What these words mean, and still wilt wiser grow.
-
-  "'Thy body, lifeless till I gave it life,
-  A certain man, my servant, well hath wrought.
-  I give thee to him as his love and wife,
-  With all thy dowry of desire and thought,
-  Since this his yearning heart hath ever sought.
-  Now from my temple is he on the way,
-  Deeming to find thee e'en as yesterday.
-
-  "'Bide thou his coming by the bed-head there,
-  And when thou seest him set his eyes upon
-  Thine empty niche, and hearest him cry for care,
-  Then call him by his name, Pygmalion,
-  And certainly thy lover hast thou won;
-  But when he stands before thee silently,
-  Say all these words that I shall teach to thee.'
-
-  "With that she said what first I told thee, love,
-  And then went on: 'Moreover, thou shalt say
-  That I, the daughter of almighty Jove,
-  Have wrought for him this long-desired day;
-  In sign whereof these things that pass away,
-  Wherein mine image men have well arrayed,
-  I give thee for thy wedding-gear, O maid.'
-
-  "Therewith her raiment she put off from her,
-  And laid bare all her perfect loveliness,
-  And, smiling on me, came yet more anear,
-  And on my mortal lips her lips did press,
-  And said, 'Now herewith shalt thou love no less
-  Than Psyche loved my son in days of old.
-  Farewell. Of thee shall many a tale be told.'
-
-  "And even with that last word was she gone--
-  How, I know not--and I my limbs arrayed
-  In her fair gifts, and waited thee alone.
-  Ah, love, indeed the word is true she said,
-  For now I love thee so, I grow afraid
-  Of what the gods upon our heads may send--
-  I love thee so, I think upon the end."
-
-  What words he said? How can I tell again
-  What words they said beneath the glimmering light?
-  Some tongue they used unknown to loveless men
-  As each to each they told their great delight,
-  Until for stillness of the growing night
-  Their soft, sweet, murmuring words seemed growing loud,
-  And dim the moon grew, hid by fleecy cloud.
-
-THE END
-
-
-
-
-
-End of Project Gutenberg's Pygmalion and the Image, by William Morris
-
+Of Cyprus looks across the Syrian sea,
+There did in ancient time a man abide
+Known to the island-dwellers, for that he
+Had wrought most godlike works in imagery,
+And day by day still greater honor won,
+Which man our old books call Pygmalion.
+Yet in the praise of men small joy he had,
+But walked abroad with downcast, brooding face.
+Nor yet by any damsel was made glad;
+For, sooth to say, the women of that place
+Must seem to all men an accursed race,
+Who with the turner of all hearts once strove,
+So in their hearts must carry lust for love.
+Now on a day it chanced that he had been
+About the streets, and on the crowded quays,
+Rich with unopened wealth of bales, had seen
+The dark-eyed merchants of the Southern seas
+In chaffer with the base Propoetides,
+And heavy-hearted gat him home again,
+His once-loved life grown idle, poor, and vain.
+And there upon his images he cast
+His weary eyes, yet little noted them,
+As still from name to name his swift thought passed,
+For what to him was Juno's well-wrought hem,
+Diana's shaft, or Pallas' olive-stem?
+What help could Hermes' rod unto him give,
+Until with shadowy things he came to live?
+Yet note, that though, while looking on the sun,
+The craftsman o'er his work some morn of spring
+May chide his useless labor never done,
+For all his murmurs, with no other thing
+He soothes his heart, and dulls thought's poisonous sting,
+And thus in thought's despite the world goes on;
+And so it was with this Pygmalion.
+Unto the chisel must he set his hand,
+And slowly, still in troubled thought must pace
+About a work begun, that there doth stand,
+And still returning to the self-same place,
+Unto the image now must set his face,
+And with a sigh his wonted toil begin,
+Half loathed, half loved, a little rest to win.
+The lessening marble that he worked upon,
+A woman's form now imaged doubtfully,
+And in such guise the work had he begun,
+Because when he the untouched block did see
+In wandering veins that form there seemed to be,
+Whereon he cried out in a careless mood,
+"O lady Venus, make this presage good!
+"And then this block of stone shall be thy maid,
+And, not without rich golden ornament,
+Shall bide within thy quivering myrtle-shade."
+So spoke he, but the goddess, well content,
+Unto his hand such godlike mastery sent,
+That like the first artificer he wrought,
+Who made the gift that woe to all men brought.
+And yet, but such as he was wont to do,
+At first indeed that work divine he deemed,
+And as the white chips from the chisel flew
+Of other matters languidly he dreamed,
+For easy to his hand that labor seemed,
+And he was stirred with many a troubling thought,
+And many a doubt perplexed him as he wrought.
+And yet, again, at last there came a day
+When smoother and more shapely grew the stone,
+And he, grown eager, put all thought away
+But that which touched his craftsmanship alone;
+And he would gaze at what his hands had done,
+Until his heart with boundless joy would swell
+That all was wrought so wonderfully well.
+Yet long it was ere he was satisfied,
+And with his pride that by his mastery
+This thing was done, whose equal far and wide
+In no town of the world a man could see,
+Came burning longing that the work should be
+E'en better still, and to his heart there came
+A strange and strong desire he could not name.
+The night seemed long, and long the twilight seemed,
+A vain thing seemed his flowery garden fair;
+Though through the night still of his work he dreamed,
+And though his smooth-stemmed trees so nigh it were
+That thence he could behold the marble hair,
+Naught was enough, until with steel in hand
+He came before the wondrous stone to stand.
+No song could charm him, and no histories
+Of men's misdoings could avail him now--
+Nay, scarcely seaward had he turned his eyes
+If men had said, "The fierce Tyrrhenians row
+Up through the bay; rise up and strike a blow
+For life and goods"; for naught to him seemed dear
+But to his well-loved work to be anear.
+Then vexed he grew, and, knowing not his heart,
+Unto himself he said, "Ah, what is this
+That I who oft was happy to depart
+And wander where the boughs each other kiss
+'Neath the west wind, now have no other bliss
+But in vain smoothing of this marble maid,
+Whose chips this month a drachma had outweighed?
+"Lo! I will get me to the woods and try
+If I my woodcraft have forgotten quite,
+And then, returning, lay this folly by,
+And eat my fill, and sleep my sleep anight,
+And 'gin to carve a Hercules aright
+Upon the morrow, and perchance indeed
+The Theban will be good to me at need."
+With that he took his quiver and his bow,
+And through the gates of Amathus he went,
+And towards the mountain slopes began to go,
+Within the woods to work out his intent.
+Fair was the day, the honied bean-field's scent
+The west wind bore unto him; o'er the way
+The glittering, noisy poplar leaves did play.
+All things were moving; as his hurried feet
+Passed by, within the flowery swath he heard
+The sweeping of the scythe, the swallow fleet
+Rose over him, the sitting partridge stirred
+On the field's edge; the brown bee by him whirred,
+Or murmured in the clover flowers below;
+But he with bowed-down head failed not to go.
+At last he stopped, and, looking round, he said,
+"Like one whose thirtieth year is well gone by,
+The day is getting ready to be dead;
+No rest, and on the border of the sky
+Already the great banks of dark haze lie;
+No rest--what do I midst this stir and noise?--
+What part have I in these unthinking joys?"
+With that he turned, and towards the city gate
+Through the sweet fields went swifter than he came,
+And cast his heart into the hands of fate;
+Nor strove with it, when higher 'gan to flame
+That strange and strong desire without a name;
+Till panting, thinking of naught else, once more
+His hand was on the latch of his own door.
+One moment there he lingered, as he said,
+"Alas! what should I do if she were gone?"
+But even with that word his brow waxed red
+To hear his own lips name a thing of stone,
+As though the gods some marvel there had done,
+And made his work alive; and therewithal,
+In turn, great pallor on his face did fall.
+But with a sigh he passed into the house;
+Yet even then his chamber door must hold,
+And listen there, half blind and timorous,
+Until his heart should wax a little bold;
+Then, entering, motionless and white and cold,
+He saw the image stand amidst the floor
+That whitened was by labor done before.
+_The Heart Desires_
+Blinded with tears, his chisel up he caught,
+And, drawing near and sighing, tenderly
+Upon the marvel of the face he wrought,
+E'en as he used to pass the long days by;
+But his sighs changed to sobbing presently,
+And on the floor the useless steel he flung,
+And, weeping loud, about the image clung.
+"Alas!" he cried, "why have I made thee, then,
+That thus thou mockest me? I know indeed
+That many such as thou are loved of men,
+Whose passionate eyes poor wretches still will lead
+Into their net, and smile to see them bleed;
+But these the gods made, and this hand made thee,
+Who wilt not speak one little word to me."
+Then from the image did he draw aback
+To gaze on it through tears; and you had said,
+Regarding it, that little did it lack
+To be a living and most lovely maid;
+Naked it was, its unbound locks were laid
+Over the lovely shoulders; with one hand
+Reached out, as to a lover, did it stand;
+The other held a fair rose over-blown;
+No smile was on the parted lips, the eyes
+Seemed as if even now great love had shown
+Unto them, something of its sweet surprise,
+Yet saddened them with half-seen mysteries,
+And still midst passion maiden-like she seemed,
+As though of love unchanged for aye she dreamed.
+Reproachfully beholding all her grace,
+Pygmalion stood, until he grew dry-eyed,
+And then at last he turned away his face
+As if from her cold eyes his grief to hide;
+And thus a weary while did he abide,
+With nothing in his heart but vain desire,
+The ever-burning, unconsuming fire.
+But when again he turned his visage round
+His eyes were brighter and no more he wept,
+As if some little solace he had found,
+Although his folly none the more had slept,
+Rather some new-born, god-sent madness kept
+His other madness from destroying him,
+And made the hope of death wax faint and dim;
+For, trembling and ashamed, from out the street
+Strong men he called, and faint with jealousy
+He caused them bear the ponderous, moveless feet
+Unto the chamber where he used to lie,
+So in a fair niche to his bed anigh,
+Unwitting of his woe, they set it down,
+Then went their ways beneath his troubled frown.
+Then to his treasury he went, and sought
+For gems for its adornment, but all there
+Seemed to his eager eyes but poor and naught,
+Not worthy e'en to touch her rippled hair.
+So he, departing, through the streets 'gan fare,
+And from the merchants at a mighty cost
+Bought gems that kings for no good deed had lost.
+These, then, he hung her senseless neck around,
+Set on her fingers, and fair arms of stone,
+Then cast himself before her on the ground,
+Praying for grace for all that he had done
+In leaving her untended and alone;
+And still with every hour his madness grew
+Though all his folly in his heart he knew.
+At last asleep before her feet he lay,
+Worn out with passion, yet this burning pain
+Returned on him, when with the light of day
+He woke and wept before her feet again;
+Then of the fresh and new-born morning fain,
+Into his garden passed, and therefrom bore
+Fresh spoil of flowers his love to lay before.
+A little altar, with fine gold o'erlaid,
+Was in his house, that he a while ago
+At some great man's command had deftly made,
+And this he now must take and set below
+Her well-wrought feet, and there must red flame glow
+About sweet wood, and he must send her thence
+The odor of Arabian frankincense.
+Then as the smoke went up, he prayed and said,
+"Thou, image, hear'st me not, nor wilt thou speak,
+But I perchance shall know when I am dead,
+If this has been some goddess' sport, to seek
+A wretch, and in his heart infirm and weak
+To set her glorious image, so that he,
+Loving the form of immortality.
+"May make much laughter for the gods above:
+Hear me, and if my love misliketh thee
+Then take my life away, for I will love
+Till death unfeared at last shall come to me,
+And give me rest, if he of might may be
+To slay the love of that which cannot die,
+The heavenly beauty that can ne'er pass by."
+No word, indeed, the moveless image said,
+But with the sweet, grave eyes his hands had wrought
+Still gazed down on his bowed, imploring head;
+Yet his own words some solace to him brought,
+Gilding the net wherein his soul was caught
+With something like to hope, and all that day
+Some tender words he ever found to say;
+And still he felt as something heard him speak;
+Sometimes he praised her beauty, and sometimes
+Reproached her in a feeble voice and weak,
+And at the last drew forth a book of rhymes,
+Wherein were writ the tales of many climes,
+And read aloud the sweetness hid therein
+Of lovers' sorrows and their tangled sin.
+And when the sun went down, the frankincense
+Again upon the altar-flame he cast,
+That through the open window floating thence
+O'er the fresh odors of the garden passed;
+And so another day was gone at last,
+And he no more his lovelorn watch could keep,
+But now for utter weariness must sleep.
+But in the night he dreamed that she was gone,
+And, knowing that he dreamed, tried hard to wake,
+And could not, but, forsaken and alone,
+He seemed to weep as though his heart would break;
+And when the night her sleepy veil did take
+From off the world, waking, his tears he found
+Still wet upon the pillow all around.
+Then at the first, bewildered by those tears,
+He fell a-wondering wherefore he had wept,
+But suddenly remembering all his fears,
+Panting with terror, from the bed he leapt;
+But still its wonted place the image kept,
+Nor moved for all the joyful ecstasy
+Wherewith he blessed the day that showed it nigh.
+Then came the morning offering, and the day,
+Midst flowers and words of love and kisses sweet,
+From morn, through noon, to evening passed away;
+And scarce unhappy, crouching at her feet,
+He saw the sun descend the sea to meet;
+And scarce unhappy through the darkness crept
+Unto his bed, and midst soft dreaming slept.
+At sun-rising curled round about her head,
+Sweet sound of songs the wonted quiet broke
+Down in the street, and he by something led,
+He knew not what, must leave his prayer unsaid,
+And through the freshness of the morn must see
+The folk who went with that sweet minstrelsy;
+Damsels and youths in wonderful attire,
+And in their midst upon a car of gold
+An image of the Mother of Desire,
+Wrought by his hands in days that seemed grown old,
+Though those sweet limbs a garment did enfold,
+Colored like flame, enwrought with precious things,
+Most fit to be the prize of striving kings.
+_The Hand Refrains_
+Then he remembered that the manner was
+That fair-clad priests the lovely Queen should take
+Thrice in the year, and through the city pass,
+And with sweet songs the dreaming folk awake;
+And through the clouds a light there seemed to break
+When he remembered all the tales well told
+About her glorious, kindly deeds of old.
+So his unfinished prayer he finished not,
+But, kneeling, once more kissed the marble feet,
+And, while his heart with many thoughts waxed hot,
+He clad himself with fresh attire and meet
+For that bright service, and with blossoms sweet
+Entwined with tender leaves he crowned his head,
+And followed after as the goddess led.
+But long and vain unto him seemed the way
+Until they came unto her house again;
+Long years, the while they went about to lay
+The honey-hiding dwellers on the plain,
+The sweet companions of the yellowing grain
+Upon her golden altar; long and long
+Before, at end of their delicious song,
+They stripped her of her weed with reverent hands
+And showed the ivory limbs his hand had wrought;
+Yea, and too long e'en then ere those fair bands,
+Dispersing here and there, the shadow sought
+Of Indian spice-trees o'er the warm sea brought,
+And toward the splashing of the fountain turned,
+Mocked the noon sun that o'er the cloisters burned.
+But when the crowd of worshippers was gone,
+And through the golden dimness of the place
+The goddess' very servants paced alone,
+Or some lone damsel murmured of her case
+Apart from prying eyes, he turned his face
+Unto that image made with toil and care,
+In days when unto him it seemed most fair.
+Dusky and dim, though rich with gems and gold,
+The house of Venus was. High in the dome
+The burning sunlight you might now behold;
+From nowhere else the light of day might come,
+To curse the Shame-faced Mother's lovely home;
+A long way off the shrine, the fresh sea-breeze,
+Now just arising, brushed the myrtle-trees.
+The torches of the flower-crowned, singing band
+Erewhile, indeed, made more than daylight there,
+Lighting the painted tales of many a land,
+And carven heroes, with their unused glare;
+But now a few soft, glimmering lamps there were,
+And on the altar a thin, flickering flame
+Just showed the golden letters of her name.
+Blue in the dome yet hung the incense-cloud,
+And still its perfume lingered all around;
+And, trodden by the light-foot, fervent crowd,
+Thick lay the summer flowers upon the ground,
+And now from far-off halls uprose the sound
+Of Lydian music, and the dancer's cry,
+As though some door were opened suddenly.
+So there he stood, that help from her to gain,
+Bewildered by that twilight midst of day;
+Downcast with listening to the joyous strain
+He had no part in, hopeless with delay
+Of all the fair things he had meant to say;
+Yet, as the incense on the flame he cast,
+From stammering lips and pale these words there passed:
+"O thou forgotten help, dost thou yet know
+What thing it is I need, when even I,
+Bent down before thee in this shame and woe,
+Can frame no set of words to tell thee why
+I needs must pray? Oh, help me or I die!
+Or slay me, and in slaying take from me
+Even a dead man's feeble memory.
+"Say not thine help I have been slow to seek;
+Here have I been from the first hour of morn,
+Who stand before thy presence faint and weak,
+Of my one poor delight left all forlorn;
+Trembling with many fears, the hope outworn
+I had when first I left my love, my shame,
+To call upon thine oft-sung, glorious name."
+He stopped to catch his breath, for as a sob
+Did each word leave his mouth; but suddenly,
+Like a live thing, the thin flame 'gan to throb
+And gather force, and then shot up on high
+A steady spike of light, that drew anigh
+The sunbeam in the dome, then sank once more
+Into a feeble flicker as before.
+But at that sight the nameless hope he had,
+That kept him living midst unhappiness,
+Stirred in his breast, and with changed face and glad
+Unto the image forward must he press
+With words of praise his first word to redress;
+But then it was as though a thick, black cloud
+Altar and fire and ivory limbs did shroud.
+He staggered back, amazed and full of awe;
+But when, with anxious eyes, he gazed around,
+About him still the worshippers he saw
+Sunk in their wonted works, with no surprise
+At what to him seemed awful mysteries;
+Therewith he sighed and said, "This, too, I dream,
+No better day upon my life shall beam."
+And yet for long upon the place he gazed
+Where other folk beheld the lovely Queen;
+And while he looked the dusky veil seemed raised,
+And everything was as it erst had been;
+And then he said, "Such marvels I have seen
+As some sick man may see from off his bed--
+Ah, I am sick, and would that I were dead!"
+Therewith, not questioning his heart at all,
+He turned away and left the holy place,
+When now the wide sun reddened towards his fall,
+And a fresh west wind held the clouds in chase;
+But coming out, at first he hid his face,
+Dazed with the light, and in the porch he stood,
+Nor wished to move or change his dreary mood.
+Yet in a while the freshness of the eve
+Pierced to his weary heart, and with a sigh
+He raised his head and slowly 'gan to leave
+The high, carved pillars; and so presently
+Had passed the grove of whispering myrtles by,
+And, mid the many noises of the street,
+Made himself brave the eyes of men to meet.
+Thronged were the ways with folk in gay attire,
+Nursing the end of that festivity;
+Girls fit to move the moody man's desire
+Brushed past him, and soft, dainty minstrelsy
+He heard amid the laughter, and might see,
+Through open doors, the garden's green delight,
+Where pensive lovers waited for the night;
+Or resting dancers round the fountain drawn,
+With faces flushed unto the breeze turned round,
+Or wandering o'er the fragrant, trodden lawn,
+Took up their fallen garlands from the ground;
+Or languidly their scattered tresses bound,
+Or let their gathered raiment fall adown,
+With eyes downcast beneath their lovers' frown.
+What hope Pygmalion yet might have, when he
+First left the pillars of the dreamy place,
+Amid such sights had vanished utterly.
+He turned his weary eyes from face to face,
+Nor noted them, as at a lagging pace
+He gat towards home, and still was murmuring,
+"Ah, life, sweet life! the only godlike thing!"
+And as he went, though longing to be there
+Whereas his sole desire awaited him,
+Yet did he loath to see the image fair,
+White and unchanged of face, unmoved of limb,
+And to his heart came dreamy thoughts and dim
+That unto some strange region he might come,
+Nor ever reach again his loveless home.
+Yet soon, indeed, before his door he stood,
+And, as a man awaking from a dream,
+Seemed waked from his old folly; naught seemed good
+In all the things that he before had deemed
+At least worth life, and on his heart there streamed
+Cold light of day--he found himself alone,
+Reft of desire, all love and madness gone.
+_The Godhead Fires_
+And yet for that past folly must he weep,
+As one might mourn the parted happiness
+That, mixed with madness, made him smile in sleep;
+And still some lingering sweetness seemed to bless
+The hard life left of toil and loneliness,
+Like a past song too sweet, too short, and yet
+Immeshed forever in the memory's net.
+Weeping he entered, murmuring, "O fair Queen,
+I thank thee that my prayer was not for naught;
+Truly a present helper hast thou been
+To those who faithfully thy throne have sought!
+Yet, since with pain deliverance I have bought,
+Hast thou not yet some gift in store for me,
+That I thine happy slave henceforth may be?"
+And, pushing through the still half-opened door,
+He stood within; but there, for very shame
+Of all the things that he had done before,
+Still kept his eyes bent down upon the floor,
+Thinking of all that he had done and said
+Since he had wrought that luckless marble maid.
+Yet soft his thoughts were, and the very place
+Seemed perfumed with some nameless heavenly air;
+So gaining courage, did he raise his face
+Unto the work his hands had made so fair,
+And cried aloud to see the niche all bare
+Of that sweet form, while through his heart again
+There shot a pang of his old yearning pain.
+Yet while he stood, and knew not what to do
+With yearning, a strange thrill of hope there came,
+A shaft of new desire now pierced him through,
+And therewithal a soft voice called his name;
+And when he turned, with eager eyes aflame,
+He saw, betwixt him and the setting sun,
+The lively image of his loved one.
+He trembled at the sight, for though her eyes,
+Her very lips, were such as he had made,
+And though her tresses fell but in such guise
+As he had wrought them, now was she arrayed
+In that fair garment that the priests had laid
+Upon the goddess on that very morn,
+Dyed like the setting sun upon the corn.
+Speechless he stood, but she now drew anear,
+Simple and sweet as she was wont to be,
+And once again her silver voice rang clear,
+Filling his soul with great felicity,
+And thus she spoke: "Wilt thou not come to me,
+O dear companion of my new-found life,
+For I am called thy lover and thy wife?
+"Listen, these words the Dread One bade me say
+That was with me e'en now, _Pygmalion,
+My new-made soul I give to thee to-day,
+Come, feel the sweet breath that thy prayer has won,
+And lay thine hand this heaving breast upon!
+Come, love, and walk with me between the trees,
+And feel the freshness of the evening breeze._
+"_Sweep mine hair round thy neck; behold my feet,
+The oft-kissed feet thou thoughtst should never move,
+Press down the daisies! draw me to thee, sweet,
+And feel the warm heart of thy living love
+Beat against thine, and bless the Seed of Jove,
+Whose loving, tender heart hath wrought all this,
+And wrapped us both in such a cloud of bliss._
+"Ah, thou art wise to know what this may mean!
+Sweet seem the words to me, and needs must I
+Speak all the lesson of the lovely Queen;
+But this I know, I would we were more nigh,
+I have not heard thy voice but in the cry
+Thou utteredst then, when thou believedst gone
+The marvel of thine hands, the maid of stone."
+She reached her hand to him, and with kind eyes
+Gazed into his; but he the fingers caught
+And drew her to him, and midst ecstasies
+Passing all words, yea, wellnigh passing thought,
+Felt that sweet breath that he so long had sought,
+Felt the warm life within her heaving breast
+As in his arms his living love he pressed.
+But as his cheek touched hers he heard her say,
+"Wilt thou not speak, O love? Why dost thou weep?
+Art thou then sorry for this long-wished day,
+Or dost thou think perchance thou wilt not keep
+This that thou holdest, but in dreamy sleep?
+Nay, let us do the bidding of the Queen,
+And hand in hand walk through thy garden green;
+"Then shalt thou tell me, still beholding me,
+Full many things whereof I wish to know;
+And as we walk from whispering tree to tree
+Still more familiar to thee shall I grow,
+And such things shalt thou say unto me now
+As when thou deemedst thou wast quite alone,
+A madman, kneeling to a thing of stone."
+But at that word a smile lit up his eyes,
+And therewithal he spake some loving word,
+And she at first looked up in grave surprise
+When his deep voice and musical she heard,
+And clung to him as somewhat grown afeard;
+Then cried aloud and said, "O mighty one!
+What joy with thee to look upon the sun!"
+Then into that fair garden did they pass,
+And all the story of his love he told;
+And as the twain went o'er the dewy grass,
+Beneath the risen moon could he behold
+The bright tears trickling down; then, waxen bold,
+He stopped and said, "Ah, love, what meaneth this?
+Seest thou how tears still follow earthly bliss?"
+Then both her white arms round his neck she threw,
+And, sobbing, said: "O love, what hurteth me?
+When first the sweetness of my life I knew,
+Not this I felt; but when I first saw thee
+A little pain and great felicity
+Rose up within me, and thy talk e'en now
+Made pain and pleasure ever greater grow."
+"O sweet," he said, "this thing is even love,
+Whereof I told thee; that all wise men fear,
+But yet escape not; nay, to gods above,
+Unless the old tales lie, it draweth near.
+But let my happy ears, I pray thee, hear
+Thy story, too, and how thy blessed birth
+Has made a heaven of this once lonely earth.
+"My sweet," she said, "as yet I am not wise,
+Or stored with words, aright the tale to tell;
+But listen: when I opened first mine eyes
+I stood within the niche thou knowest well,
+And from mine hand a heavy thing there fell,
+Carved like these flowers, nor could I see things clear,
+And but a strange, confused noise could hear.
+"At last mine eyes could see a woman fair,
+But awful as this round, white moon o'erhead.
+So that I trembled when I saw her there,
+For with my life was born some touch of dread,
+And therewithal I heard her voice, that said,
+'Come down, and learn to love and be alive,
+For thee, a well-prized gift, to-day I give.'
+"Then on the floor I stepped, rejoicing much,
+Not knowing why, not knowing aught at all,
+Till she reached out her hand my breast to touch;
+And when her fingers thereupon did fall,
+Thought came unto my life, and therewithal
+I knew her for a goddess, and began
+To murmur in some tongue unknown to man.
+_The Soul Attains_
+"And then, indeed, not in this guise was I;
+No sandals had I, and no saffron gown,
+But naked as thou knowest utterly,
+E'en as my limbs beneath thine hand had grown;
+And this fair, perfumed robe then fell adown
+Over the goddess' feet, and swept the ground,
+And round her loins a glittering belt was bound.
+"But when the stammering of my tongue she heard
+Upon my trembling lips her hand she laid,
+And spoke again: 'Nay, say not any word;
+All that thine heart would say I know unsaid,
+Who even now thine heart and voice have made;
+But listen rather, for thou knowest now
+What these words mean, and still wilt wiser grow.
+"'Thy body, lifeless till I gave it life,
+A certain man, my servant, well hath wrought.
+I give thee to him as his love and wife,
+With all thy dowry of desire and thought,
+Since this his yearning heart hath ever sought.
+Now from my temple is he on the way,
+Deeming to find thee e'en as yesterday.
+"'Bide thou his coming by the bed-head there,
+And when thou seest him set his eyes upon
+Thine empty niche, and hearest him cry for care,
+Then call him by his name, Pygmalion,
+And certainly thy lover hast thou won;
+But when he stands before thee silently,
+Say all these words that I shall teach to thee.'
+"With that she said what first I told thee, love,
+And then went on: 'Moreover, thou shalt say
+That I, the daughter of almighty Jove,
+Have wrought for him this long-desired day;
+In sign whereof these things that pass away,
+Wherein mine image men have well arrayed,
+I give thee for thy wedding-gear, O maid.'
+"Therewith her raiment she put off from her,
+And laid bare all her perfect loveliness,
+And, smiling on me, came yet more anear,
+And on my mortal lips her lips did press,
+And said, 'Now herewith shalt thou love no less
+Than Psyche loved my son in days of old.
+Farewell. Of thee shall many a tale be told.'
+"And even with that last word was she gone--
+How, I know not--and I my limbs arrayed
+In her fair gifts, and waited thee alone.
+Ah, love, indeed the word is true she said,
+For now I love thee so, I grow afraid
+Of what the gods upon our heads may send--
+I love thee so, I think upon the end."
+What words he said? How can I tell again
+What words they said beneath the glimmering light?
+Some tongue they used unknown to loveless men
+As each to each they told their great delight,
+Until for stillness of the growing night
+Their soft, sweet, murmuring words seemed growing loud,
+And dim the moon grew, hid by fleecy cloud.

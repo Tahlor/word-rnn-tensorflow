@@ -1,36 +1,4 @@
-e Project Gutenberg EBook of First Gutenberg Collection of Edgar Allan
-Poe, by Edgar Allan Poe
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: First Gutenberg Collection of Edgar Allan Poe
-
-Author: Edgar Allan Poe
-
-Posting Date: June 6, 2010 [EBook #1062]
-Release Date: October, 1997
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK GUTENBERG COLLECTION--E. A. POE ***
-
-
-
-
 Produced by Levent Kurnaz and Jose Menendez
-
-
-
-
-
-
-
 This is our second experimental effort at cataloguing multiple items in
 a single file.  In the first instance we use the same index number for
 each item, and just used multiple entries for that file in the index.
@@ -45,163 +13,121 @@ work.  However, we prefer to post short works for you in collections,
 to eliminate you having to download all 11 kilobytes of our header and
 "legal fine print" to get files of sizes less than the headers. Please
 email me on this.  Thanks! Michael S. Hart, hart@pobox.com
-
-
-
-
 The Raven
-
 by Edgar Allan Poe
-
 October, 1997  [Etext #1064]*
-
-
-
-THE RAVEN
-
-
-
-  Once upon a midnight dreary, while I pondered, weak and weary,
-  Over many a quaint and curious volume of forgotten lore--
-  While I nodded, nearly napping, suddenly there came a tapping,
-  As of some one gently rapping, rapping at my chamber door.
-  "'Tis some visitor," I muttered, "tapping at my chamber door--
-                                     Only this and nothing more."
-
-  Ah, distinctly I remember it was in the bleak December,
-  And each separate dying ember wrought its ghost upon the floor.
-  Eagerly I wished the morrow;--vainly I had sought to borrow
-  From my books surcease of sorrow--sorrow for the lost Lenore--
-  For the rare and radiant maiden whom the angels name Lenore--
-                                     Nameless here for evermore.
-
-  And the silken sad uncertain rustling of each purple curtain
-  Thrilled me--filled me with fantastic terrors never felt before;
-  So that now, to still the beating of my heart, I stood repeating
-  "'Tis some visiter entreating entrance at my chamber door--
-  Some late visiter entreating entrance at my chamber door;
-                                     This it is and nothing more."
-
-  Presently my soul grew stronger; hesitating then no longer,
-  "Sir," said I, "or Madam, truly your forgiveness I implore;
-  But the fact is I was napping, and so gently you came rapping,
-  And so faintly you came tapping, tapping at my chamber door,
-  That I scarce was sure I heard you"--here I opened wide the door--
-                                     Darkness there and nothing more.
-
-  Deep into that darkness peering, long I stood there wondering, fearing,
-  Doubting, dreaming dreams no mortals ever dared to dream before;
-  But the silence was unbroken, and the stillness gave no token,
-  And the only word there spoken was the whispered word, "Lenore?"
-  This I whispered, and an echo murmured back the word, "Lenore!"--
-                                     Merely this and nothing more.
-
-  Back into the chamber turning, all my soul within me burning,
-  Soon again I heard a tapping something louder than before.
-  "Surely," said I, "surely that is something at my window lattice;
-  Let me see, then, what thereat is and this mystery explore--
-  Let my heart be still a moment and this mystery explore;--
-                                     'Tis the wind and nothing more.
-
-  Open here I flung the shutter, when, with many a flirt and flutter,
-  In there stepped a stately Raven of the saintly days of yore.
-  Not the least obeisance made he; not a minute stopped or stayed he,
-  But, with mien of lord or lady, perched above my chamber door--
-  Perched upon a bust of Pallas just above my chamber door--
-                                     Perched, and sat, and nothing more.
-
-  Then the ebony bird beguiling my sad fancy into smiling,
-  By the grave and stern decorum of the countenance it wore,
-  "Though thy crest be shorn and shaven, thou," I said, "art sure no craven,
-  Ghastly grim and ancient Raven wandering from the Nightly shore--
-  Tell me what thy lordly name is on the Night's Plutonian shore!"
-                                     Quoth the Raven, "Nevermore."
-
-  Much I marvelled this ungainly fowl to hear discourse so plainly,
-  Though its answer little meaning--little relevancy bore;
-  For we cannot help agreeing that no living human being
-  Ever yet was blessed with seeing bird above his chamber door--
-  Bird or beast upon the sculptured bust above his chamber door,
-                                     With such name as "Nevermore."
-
-  But the Raven, sitting lonely on that placid bust, spoke only
-  That one word, as if its soul in that one word he did outpour
-  Nothing farther then he uttered; not a feather then he fluttered--
-  Till I scarcely more than muttered: "Other friends have flown before--
-  On the morrow _he_ will leave me, as my Hopes have flown before."
-                                     Then the bird said "Nevermore."
-
-  Startled at the stillness broken by reply so aptly spoken,
-  "Doubtless," said I, "what it utters is its only stock and store,
-  Caught from some unhappy master whom unmerciful Disaster
-  Followed fast and followed faster till his songs one burden bore--
-  Till the dirges of his Hope that melancholy burden bore
-                                     Of 'Never--nevermore.'"
-
-  But the Raven still beguiling all my sad soul into smiling,
-  Straight I wheeled a cushioned seat in front of bird and bust and door;
-  Then, upon the velvet sinking, I betook myself to linking
-  Fancy unto fancy, thinking what this ominous bird of yore--
-  What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
-                                     Meant in croaking "Nevermore."
-
-  This I sat engaged in guessing, but no syllable expressing
-  To the fowl whose fiery eyes now burned into my bosom's core;
-  This and more I sat divining, with my head at ease reclining
-  On the cushion's velvet lining that the lamp-light gloated o'er,
-  But whose velvet violet lining with the lamp-light gloating o'er
-                                     _She_ shall press, ah, nevermore!
-
-  Then, methought, the air grew denser, perfumed from an unseen censer
-  Swung by Seraphim whose foot-falls tinkled on the tufted floor.
-  "Wretch," I cried, "thy God hath lent thee--by these angels he hath sent thee
-  Respite--respite and nepenthe from thy memories of Lenore!
-  Quaff, oh quaff this kind nepenthe and forget this lost Lenore!"
-                                     Quoth the Raven, "Nevermore."
-
-  "Prophet!" said I, "thing of evil!--prophet still, if bird or devil!--
-  Whether Tempter sent, or whether tempest tossed thee here ashore,
-  Desolate, yet all undaunted, on this desert land enchanted--
-  On this home by Horror haunted--tell me truly, I implore--
-  Is there--_is_ there balm in Gilead?--tell me--tell me, I implore!"
-                                     Quoth the Raven, "Nevermore."
-
-  "Prophet!" said I, "thing of evil!--prophet still, if bird or devil!
-  By that Heaven that bends above us--by that God we both adore--
-  Tell this soul with sorrow laden if, within the distant Aidenn,
-  It shall clasp a sainted maiden whom the angels name Lenore--
-  Clasp a rare and radiant maiden whom the angels name Lenore."
-                                     Quoth the Raven, "Nevermore."
-
-  "Be that our sign of parting, bird or fiend!" I shrieked, upstarting--
-  "Get thee back into the tempest and the Night's Plutonian shore!
-  Leave no black plume as a token of that lie thy soul has spoken!
-  Leave my loneliness unbroken!--quit the bust above my door!
-  Take thy beak from out my heart, and take thy form from off my door!"
-                                     Quoth the Raven, "Nevermore."
-
-  And the Raven, never flitting, still is sitting, still is sitting
-  On the pallid bust of Pallas just above my chamber door;
-  And his eyes have all the seeming of a demon's that is dreaming
-  And the lamp-light o'er him streaming throws his shadows on the floor;
-  And my soul from out that shadow that lies floating on the floor
-                                     Shall be lifted--nevermore!
-
-
-
-
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore--
+While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping, rapping at my chamber door.
+"'Tis some visitor," I muttered, "tapping at my chamber door--
+Only this and nothing more."
+Ah, distinctly I remember it was in the bleak December,
+And each separate dying ember wrought its ghost upon the floor.
+Eagerly I wished the morrow;--vainly I had sought to borrow
+From my books surcease of sorrow--sorrow for the lost Lenore--
+For the rare and radiant maiden whom the angels name Lenore--
+Nameless here for evermore.
+And the silken sad uncertain rustling of each purple curtain
+Thrilled me--filled me with fantastic terrors never felt before;
+So that now, to still the beating of my heart, I stood repeating
+"'Tis some visiter entreating entrance at my chamber door--
+Some late visiter entreating entrance at my chamber door;
+This it is and nothing more."
+Presently my soul grew stronger; hesitating then no longer,
+"Sir," said I, "or Madam, truly your forgiveness I implore;
+But the fact is I was napping, and so gently you came rapping,
+And so faintly you came tapping, tapping at my chamber door,
+That I scarce was sure I heard you"--here I opened wide the door--
+Darkness there and nothing more.
+Deep into that darkness peering, long I stood there wondering, fearing,
+Doubting, dreaming dreams no mortals ever dared to dream before;
+But the silence was unbroken, and the stillness gave no token,
+And the only word there spoken was the whispered word, "Lenore?"
+This I whispered, and an echo murmured back the word, "Lenore!"--
+Merely this and nothing more.
+Back into the chamber turning, all my soul within me burning,
+Soon again I heard a tapping something louder than before.
+"Surely," said I, "surely that is something at my window lattice;
+Let me see, then, what thereat is and this mystery explore--
+Let my heart be still a moment and this mystery explore;--
+'Tis the wind and nothing more.
+Open here I flung the shutter, when, with many a flirt and flutter,
+In there stepped a stately Raven of the saintly days of yore.
+Not the least obeisance made he; not a minute stopped or stayed he,
+But, with mien of lord or lady, perched above my chamber door--
+Perched upon a bust of Pallas just above my chamber door--
+Perched, and sat, and nothing more.
+Then the ebony bird beguiling my sad fancy into smiling,
+By the grave and stern decorum of the countenance it wore,
+"Though thy crest be shorn and shaven, thou," I said, "art sure no craven,
+Ghastly grim and ancient Raven wandering from the Nightly shore--
+Tell me what thy lordly name is on the Night's Plutonian shore!"
+Quoth the Raven, "Nevermore."
+Much I marvelled this ungainly fowl to hear discourse so plainly,
+Though its answer little meaning--little relevancy bore;
+For we cannot help agreeing that no living human being
+Ever yet was blessed with seeing bird above his chamber door--
+Bird or beast upon the sculptured bust above his chamber door,
+With such name as "Nevermore."
+But the Raven, sitting lonely on that placid bust, spoke only
+That one word, as if its soul in that one word he did outpour
+Nothing farther then he uttered; not a feather then he fluttered--
+Till I scarcely more than muttered: "Other friends have flown before--
+On the morrow _he_ will leave me, as my Hopes have flown before."
+Then the bird said "Nevermore."
+Startled at the stillness broken by reply so aptly spoken,
+"Doubtless," said I, "what it utters is its only stock and store,
+Caught from some unhappy master whom unmerciful Disaster
+Followed fast and followed faster till his songs one burden bore--
+Till the dirges of his Hope that melancholy burden bore
+Of 'Never--nevermore.'"
+But the Raven still beguiling all my sad soul into smiling,
+Straight I wheeled a cushioned seat in front of bird and bust and door;
+Then, upon the velvet sinking, I betook myself to linking
+Fancy unto fancy, thinking what this ominous bird of yore--
+What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
+Meant in croaking "Nevermore."
+This I sat engaged in guessing, but no syllable expressing
+To the fowl whose fiery eyes now burned into my bosom's core;
+This and more I sat divining, with my head at ease reclining
+On the cushion's velvet lining that the lamp-light gloated o'er,
+But whose velvet violet lining with the lamp-light gloating o'er
+_She_ shall press, ah, nevermore!
+Then, methought, the air grew denser, perfumed from an unseen censer
+Swung by Seraphim whose foot-falls tinkled on the tufted floor.
+"Wretch," I cried, "thy God hath lent thee--by these angels he hath sent thee
+Respite--respite and nepenthe from thy memories of Lenore!
+Quaff, oh quaff this kind nepenthe and forget this lost Lenore!"
+Quoth the Raven, "Nevermore."
+"Prophet!" said I, "thing of evil!--prophet still, if bird or devil!--
+Whether Tempter sent, or whether tempest tossed thee here ashore,
+Desolate, yet all undaunted, on this desert land enchanted--
+On this home by Horror haunted--tell me truly, I implore--
+Is there--_is_ there balm in Gilead?--tell me--tell me, I implore!"
+Quoth the Raven, "Nevermore."
+"Prophet!" said I, "thing of evil!--prophet still, if bird or devil!
+By that Heaven that bends above us--by that God we both adore--
+Tell this soul with sorrow laden if, within the distant Aidenn,
+It shall clasp a sainted maiden whom the angels name Lenore--
+Clasp a rare and radiant maiden whom the angels name Lenore."
+Quoth the Raven, "Nevermore."
+"Be that our sign of parting, bird or fiend!" I shrieked, upstarting--
+"Get thee back into the tempest and the Night's Plutonian shore!
+Leave no black plume as a token of that lie thy soul has spoken!
+Leave my loneliness unbroken!--quit the bust above my door!
+Take thy beak from out my heart, and take thy form from off my door!"
+Quoth the Raven, "Nevermore."
+And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber door;
+And his eyes have all the seeming of a demon's that is dreaming
+And the lamp-light o'er him streaming throws his shadows on the floor;
+And my soul from out that shadow that lies floating on the floor
+Shall be lifted--nevermore!
 The Masque of the Red Death
-
 by Edgar Allan Poe
-
 October, 1997  [Etext #1064]*
-
-
-
-
 The Masque of the Red Death
-
-
 The "Red Death" had long devastated the country.  No pestilence had
 ever been so fatal, or so hideous.  Blood was its Avatar and its
 seal--the redness and the horror of blood.  There were sharp pains, and
@@ -211,7 +137,6 @@ face of the victim, were the pest ban which shut him out from the aid
 and from the sympathy of his fellow-men. And the whole seizure,
 progress and termination of the disease, were the incidents of half an
 hour.
-
 But the Prince Prospero was happy and dauntless and sagacious. When his
 dominions were half depopulated, he summoned to his presence a thousand
 hale and light-hearted friends from among the knights and dames of his
@@ -229,12 +154,10 @@ prince had provided all the appliances of pleasure.  There were
 buffoons, there were improvisatori, there were ballet-dancers, there
 were musicians, there was Beauty, there was wine.  All these and
 security were within.  Without was the "Red Death".
-
 It was towards the close of the fifth or sixth month of his seclusion,
 and while the pestilence raged most furiously abroad, that the Prince
 Prospero entertained his thousand friends at a masked ball of the most
 unusual magnificence.
-
 It was a voluptuous scene, that masquerade.  But first let me tell of
 the rooms in which it was held.  These were seven--an imperial suite.
 In many palaces, however, such suites form a long and straight vista,
@@ -271,7 +194,6 @@ of the fire-light that streamed upon the dark hangings through the
 blood-tinted panes, was ghastly in the extreme, and produced so wild a
 look upon the countenances of those who entered, that there were few of
 the company bold enough to set foot within its precincts at all.
-
 It was in this apartment, also, that there stood against the western
 wall, a gigantic clock of ebony.  Its pendulum swung to and fro with a
 dull, heavy, monotonous clang; and when the minute-hand made the
@@ -293,7 +215,6 @@ then, after the lapse of sixty minutes, (which embrace three thousand
 and six hundred seconds of the Time that flies,) there came yet another
 chiming of the clock, and then were the same disconcert and
 tremulousness and meditation as before.
-
 But, in spite of these things, it was a gay and magnificent revel.  The
 tastes of the duke were peculiar.  He had a fine eye for colours and
 effects.  He disregarded the _decora_ of mere fashion.  His plans were
@@ -301,7 +222,6 @@ bold and fiery, and his conceptions glowed with barbaric lustre.  There
 are some who would have thought him mad.  His followers felt that he
 was not.  It was necessary to hear and see and touch him to be _sure_
 that he was not.
-
 He had directed, in great part, the movable embellishments of the seven
 chambers, upon occasion of this great _fete_; and it was his own guiding
 taste which had given character to the masqueraders.  Be sure they were
@@ -329,7 +249,6 @@ and the blackness of the sable drapery appals; and to him whose foot
 falls upon the sable carpet, there comes from the near clock of ebony a
 muffled peal more solemnly emphatic than any which reaches _their_ ears
 who indulged in the more remote gaieties of the other apartments.
-
 But these other apartments were densely crowded, and in them beat
 feverishly the heart of life.  And the revel went whirlingly on, until
 at length there commenced the sounding of midnight upon the clock.  And
@@ -346,7 +265,6 @@ single individual before.  And the rumour of this new presence having
 spread itself whisperingly around, there arose at length from the whole
 company a buzz, or murmur, expressive of disapprobation and
 surprise--then, finally, of terror, of horror, and of disgust.
-
 In an assembly of phantasms such as I have painted, it may well be
 supposed that no ordinary appearance could have excited such sensation.
 In truth the masquerade licence of the night was nearly unlimited; but
@@ -365,23 +283,19 @@ this might have been endured, if not approved, by the mad revellers
 around.  But the mummer had gone so far as to assume the type of the
 Red Death. His vesture was dabbled in  _blood_--and his broad brow, with
 all the features of the face, was besprinkled with the scarlet horror.
-
 When the eyes of the Prince Prospero fell upon this spectral image
 (which, with a slow and solemn movement, as if more fully to sustain
 its  role, stalked to and fro among the waltzers) he was seen to be
 convulsed, in the first moment with a strong shudder either of terror
 or distaste; but, in the next, his brow reddened with rage.
-
 "Who dares,"--he demanded hoarsely of the courtiers who stood near
 him--"who dares insult us with this blasphemous mockery? Seize him and
 unmask him--that we may know whom we have to hang, at sunrise, from the
 battlements!"
-
 It was in the eastern or blue chamber in which stood the Prince
 Prospero as he uttered these words.  They rang throughout the seven
 rooms loudly and clearly, for the prince was a bold and robust man, and
 the music had become hushed at the waving of his hand.
-
 It was in the blue room where stood the prince, with a group of  pale
 courtiers by his side.  At first, as he spoke, there was a slight
 rushing movement of this group in the direction of the intruder, who at
@@ -412,7 +326,6 @@ and motionless within the shadow of the ebony clock, gasped in
 unutterable horror at finding the grave cerements and corpse-like mask,
 which they handled with so violent a rudeness, untenanted by any
 tangible form.
-
 And now was acknowledged the presence of the Red Death.  He had come
 like a thief in the night.  And one by one dropped the revellers in the
 blood-bedewed halls of their revel, and died each in the despairing
@@ -420,21 +333,10 @@ posture of his fall.  And the life of the ebony clock went out with
 that of the last of the gay.  And the flames of the tripods expired.
 And Darkness and Decay and the Red Death held illimitable dominion over
 all.
-
-
-
-
 The Cask of Amontillado
-
 by Edgar Allan Poe
-
 October, 1997  [Etext #1065]*
-
-
-
 The Cask of Amontillado
-
-
 The thousand injuries of Fortunato I had borne as I best could, but
 when he ventured upon insult, I vowed revenge.  You, who so well know
 the nature of my soul, will not suppose, however, that I gave utterance
@@ -444,12 +346,10 @@ resolved, precluded the idea of risk.  I must not only punish, but
 punish with impunity.  A wrong is unredressed when retribution
 overtakes its redresser.  It is equally unredressed when the avenger
 fails to make himself felt as such to him who has done the wrong.
-
 It must be understood that neither by word nor deed had I given
 Fortunato cause to doubt my good will.  I continued, as was my wont, to
 smile in his face, and he did not perceive that my smile _now_ was at
 the thought of his immolation.
-
 He had a weak point--this Fortunato--although in other regards he was a
 man to be respected and even feared.  He prided himself on his
 connoisseurship in wine.  Few Italians have the true virtuoso spirit.
@@ -459,194 +359,129 @@ _millionaires_.  In painting and gemmary, Fortunato, like his countrymen,
 was a quack--but in the matter of old wines he was sincere.  In this
 respect I did not differ from him materially: I was skillful in the
 Italian vintages myself, and bought largely whenever I could.
-
 It was about dusk, one evening during the supreme madness of the
 carnival season, that I encountered my friend.  He accosted me with
 excessive warmth, for he had been drinking much.  The man wore motley.
 He had on a tight-fitting parti-striped dress, and his head was
 surmounted by the conical cap and bells.  I was so pleased to see him,
 that I thought I should never have done wringing his hand.
-
 I said to him--"My dear Fortunato, you are luckily met.  How remarkably
 well you are looking to-day!  But I have received a pipe of what passes
 for Amontillado, and I have my doubts."
-
 "How?" said he.  "Amontillado?  A pipe?  Impossible!  And in the middle
 of the carnival!"
-
 "I have my doubts," I replied; "and I was silly enough to pay the full
 Amontillado price without consulting you in the matter. You were not to
 be found, and I was fearful of losing a bargain."
-
 "Amontillado!"
-
 "I have my doubts."
-
 "Amontillado!"
-
 "And I must satisfy them."
-
 "Amontillado!"
-
 "As you are engaged, I am on my way to Luchesi.  If any one has a
 critical turn, it is he.  He will tell me--"
-
 "Luchesi cannot tell Amontillado from Sherry."
-
 "And yet some fools will have it that his taste is a match for your
 own."
-
 "Come, let us go."
-
 "Whither?"
-
 "To your vaults."
-
 "My friend, no; I will not impose upon your good nature.  I perceive
 you have an engagement.  Luchesi--"
-
 "I have no engagement;--come."
-
 "My friend, no.  It is not the engagement, but the severe cold with
 which I perceive you are afflicted.  The vaults are insufferably damp.
 They are encrusted with nitre."
-
 "Let us go, nevertheless.  The cold is merely nothing. Amontillado! You
 have been imposed upon.  And as for Luchesi, he cannot distinguish
 Sherry from Amontillado."
-
 Thus speaking, Fortunato possessed himself of my arm. Putting on a mask
 of black silk, and drawing a _roquelaire_ closely about my person, I
 suffered him to hurry me to my palazzo.
-
 There were no attendants at home; they had absconded to make merry in
 honour of the time.  I had told them that I should not return until the
 morning, and had given them explicit orders not to stir from the house.
 These orders were sufficient, I well knew, to insure their immediate
 disappearance, one and all, as soon as my back was turned.
-
 I took from their sconces two flambeaux, and giving one to Fortunato,
 bowed him through several suites of rooms to the archway that led into
 the vaults.  I passed down a long and winding staircase, requesting him
 to be cautious as he followed. We came at length to the foot of the
 descent, and stood together on the damp ground of the catacombs of the
 Montresors.
-
 The gait of my friend was unsteady, and the bells upon his cap jingled
 as he strode.
-
 "The pipe," said he.
-
 "It is farther on," said I; "but observe the white web-work which
 gleams from these cavern walls."
-
 He turned towards me, and looked into my eyes with two filmy orbs that
 distilled the rheum of intoxication.
-
 "Nitre?" he asked, at length.
-
 "Nitre," I replied.  "How long have you had that cough?"
-
 "Ugh! ugh! ugh!--ugh! ugh! ugh!--ugh! ugh! ugh!--ugh! ugh! ugh!--ugh!
 ugh! ugh!"
-
 My poor friend found it impossible to reply for many minutes.
-
 "It is nothing," he said, at last.
-
 "Come," I said, with decision, "we will go back; your health is
 precious.  You are rich, respected, admired, beloved; you are happy, as
 once I was.  You are a man to be missed.  For me it is no matter.  We
 will go back; you will be ill, and I cannot be responsible.  Besides,
 there is Luchesi--"
-
 "Enough," he said; "the cough is a mere nothing; it will not kill me. I
 shall not die of a cough."
-
 "True--true," I replied; "and, indeed, I had no intention of alarming
 you unnecessarily--but you should use all proper caution. A draught of
 this Medoc will defend us from the damps."
-
 Here I knocked off the neck of a bottle which I drew from a long row of
 its fellows that lay upon the mould.
-
 "Drink," I said, presenting him the wine.
-
 He raised it to his lips with a leer.  He paused and nodded to me
 familiarly, while his bells jingled.
-
 "I drink," he said, "to the buried that repose around us."
-
 "And I to your long life."
-
 He again took my arm, and we proceeded.
-
 "These vaults," he said, "are extensive."
-
 "The Montresors," I replied, "were a great and numerous family."
-
 "I forget your arms."
-
 "A huge human foot d'or, in a field azure; the foot crushes a serpent
 rampant whose fangs are imbedded in the heel."
-
 "And the motto?"
-
 "_Nemo me impune lacessit_."
-
 "Good!" he said.
-
 The wine sparkled in his eyes and the bells jingled.  My own fancy grew
 warm with the Medoc.  We had passed through walls of piled bones, with
 casks and puncheons intermingling, into the inmost recesses of
 catacombs.  I paused again, and this time I made bold to seize
 Fortunato by an arm above the elbow.
-
 "The nitre!" I said; "see, it increases.  It hangs like moss upon the
 vaults.  We are below the river's bed.  The drops of moisture trickle
 among the bones.  Come, we will go back ere it is too late.  Your
 cough--"
-
 "It is nothing," he said; "let us go on.  But first, another draught of
 the Medoc."
-
 I broke and reached him a flagon of De Grave.  He emptied it at a
 breath.  His eyes flashed with a fierce light.  He laughed and threw
 the bottle upwards with a gesticulation I did not understand.
-
 I looked at him in surprise.  He repeated the movement--a grotesque one.
-
 "You do not comprehend?" he said.
-
 "Not I," I replied.
-
 "Then you are not of the brotherhood."
-
 "How?"
-
 "You are not of the masons."
-
 "Yes, yes," I said; "yes, yes."
-
 "You?  Impossible!  A mason?"
-
 "A mason," I replied.
-
 "A sign," he said, "a sign."
-
 "It is this," I answered, producing a trowel from beneath the folds of
 my _roquelaire_.
-
 "You jest," he exclaimed, recoiling a few paces.  "But let us proceed
 to the Amontillado."
-
 "Be it so," I said, replacing the tool beneath the cloak and again
 offering him my arm.  He leaned upon it heavily.  We continued our
 route in search of the Amontillado.  We passed through a range of low
 arches, descended, passed on, and descending again, arrived at a deep
 crypt, in which the foulness of the air caused our flambeaux rather to
 glow than flame.
-
 At the most remote end of the crypt there appeared another less
 spacious.  Its walls had been lined with human remains, piled to the
 vault overhead, in the fashion of the great catacombs of Paris.  Three
@@ -659,13 +494,10 @@ or seven.  It seemed to have been constructed for no especial use
 within itself, but formed merely the interval between two of the
 colossal supports of the roof of the catacombs, and was backed by one
 of their circumscribing walls of solid granite.
-
 It was in vain that Fortunato, uplifting his dull torch, endeavoured to
 pry into the depth of the recess.  Its termination the feeble light did
 not enable us to see.
-
 "Proceed," I said; "herein is the Amontillado.  As for Luchesi--"
-
 "He is an ignoramus," interrupted my friend, as he stepped unsteadily
 forward, while I followed immediately at his heels.  In an instant he
 had reached the extremity of the niche, and finding his progress
@@ -676,22 +508,17 @@ these depended a short chain, from the other a padlock.  Throwing the
 links about his waist, it was but the work of a few seconds to secure
 it.  He was too much astounded to resist.  Withdrawing the key I
 stepped back from the recess.
-
 "Pass your hand," I said, "over the wall; you cannot help feeling the
 nitre.  Indeed, it is _very_ damp.  Once more let me _implore_ you to
 return.  No?  Then I must positively leave you. But I must first render
 you all the little attentions in my power."
-
 "The Amontillado!" ejaculated my friend, not yet recovered from his
 astonishment.
-
 "True," I replied; "the Amontillado."
-
 As I said these words I busied myself among the pile of bones of which
 I have before spoken.  Throwing them aside, I soon uncovered a quantity
 of building stone and mortar.  With these materials and with the aid of
 my trowel, I began vigorously to wall up the entrance of the niche.
-
 I had scarcely laid the first tier of the masonry when I discovered
 that the intoxication of Fortunato had in a great measure worn off. The
 earliest indication I had of this was a low moaning cry from the depth
@@ -705,7 +532,6 @@ and finished without interruption the fifth, the sixth, and the seventh
 tier.  The wall was now nearly upon a level with my breast.  I again
 paused, and holding the flambeaux over the mason-work, threw a few
 feeble rays upon the figure within.
-
 A succession of loud and shrill screams, bursting suddenly from the
 throat of the chained form, seemed to thrust me violently back.  For a
 brief moment I hesitated--I trembled.  Unsheathing my rapier, I began
@@ -714,7 +540,6 @@ reassured me.  I placed my hand upon the solid fabric of the catacombs,
 and felt satisfied.  I reapproached the wall; I replied to the yells of
 him who clamoured.  I re-echoed--I aided--I surpassed them in volume
 and in strength.  I did this, and the clamourer grew still.
-
 It was now midnight, and my task was drawing to a close.  I had
 completed the eighth, the ninth, and the tenth tier.  I had finished a
 portion of the last and the eleventh; there remained but a single stone
@@ -723,32 +548,21 @@ it partially in its destined position.  But now there came from out the
 niche a low laugh that erected the hairs upon my head.  It was
 succeeded by a sad voice, which I had difficulty in recognizing as that
 of the noble Fortunato.  The voice said--
-
 "Ha! ha! ha!--he! he! he!--a very good joke indeed--an excellent jest.
 We shall have many a rich laugh about it at the palazzo--he! he!
 he!--over our wine--he! he! he!"
-
 "The Amontillado!" I said.
-
 "He! he! he!--he! he! he!--yes, the Amontillado.  But is it not getting
 late?  Will not they be awaiting us at the palazzo, the Lady Fortunato
 and the rest?  Let us be gone."
-
 "Yes," I said, "let us be gone."
-
 "_For the love of God, Montresor!_"
-
 "Yes," I said, "for the love of God!"
-
 But to these words I hearkened in vain for a reply.  I grew impatient.
 I called aloud--
-
 "Fortunato!"
-
 No answer.  I called again--
-
 "Fortunato--"
-
 No answer still.  I thrust a torch through the remaining aperture and
 let it fall within.  There came forth in reply only a jingling of the
 bells.  My heart grew sick on account of the dampness of the catacombs.
@@ -756,15 +570,4 @@ I hastened to make an end of my labour.  I forced the last stone into
 its position; I plastered it up.  Against the new masonry I re-erected
 the old rampart of bones.  For the half of a century no mortal has
 disturbed them.  _In pace requiescat!_
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of First Gutenberg Collection of Edgar
 Allan Poe, by Edgar Allan Poe
-

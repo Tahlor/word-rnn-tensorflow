@@ -1,77 +1,9 @@
-e Project Gutenberg EBook of Evangeline, by Henry Wadsworth Longfellow
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: Evangeline
-       with Notes and Plan of Study
-
-Author: Henry Wadsworth Longfellow
-
-Annotator: W. F. Conover
-
-Editor: W. F. Conover
-
-
-Release Date: March 16, 2005 [EBook #15390]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK EVANGELINE ***
-
-
-
-
 Produced by John Hagerson, Kevin Handy, S.R.Ellison and
 the Online Distributed Proofreading Team.
-
-
-
-
-
-
-[Illustration: EVANGELINE.]
-
-
-
-                      EVANGELINE
-
-                   A TALE OF ACADIE
-
-
-                          BY
-
-             HENRY WADSWORTH LONGFELLOW
-
-
-
-  Edited with Introduction, Notes and a Plan of Study
-
-                          BY
-
-                     W.F. CONOVER.
-
-
-              A. FLANAGAN CO., PUBLISHERS,
-                        CHICAGO
-
-
+Edited with Introduction, Notes and a Plan of Study
 Copyright 1899 by W.F. CONOVER
-
-
-
-
-NOTE.
-
-
 The distinctive feature of this edition of Evangeline is the PLAN OF STUDY
 which forms the latter part of the volume.
-
 This Plan for the study of "Evangeline" is the outgrowth of several years'
 teaching of this delightful poem. It has proved successful in securing very
 satisfactory work from classes varying greatly in ability. It has resulted,
@@ -80,44 +12,7 @@ a love for good literature; (2) opening up the field of literature in a
 new way, and showing that much wealth may be gotten by digging below
 the surface; (3) developing a considerable power of discrimination; (4)
 enlarging the pupil's working vocabulary. See "Argument" on page 113.
-
-  THE AUTHOR.
-
-
-
-
-CONTENTS.
-
-
 NOTE                       Page 5
-
-INTRODUCTION.
-   THE AUTHOR                   7
-   THE POEM                     9
-   ACADIA AND THE ACADIANS     12
-
-EVANGELINE: A TALE OF ACADIE.
-   PART THE FIRST              20
-   PART THE SECOND             60
-
-NOTES ON EVANGELINE.
-   PART ONE                   107
-   PART TWO                   110
-
-A PLAN OF STUDY.
-   PART I                     119
-   PART II                    124
-   PART III                   142
-
-
-
-
-
-INTRODUCTION.
-
-
-THE AUTHOR.
-
 Henry Wadsworth Longfellow was born in Portland, Maine, February 27, 1807.
 His father and mother were of English stock, his mother being a descendant
 of "John Alden and Priscilla." Stephen Longfellow, his father, was a lawyer
@@ -137,7 +32,6 @@ work as an author. In 1834, Harvard called him to the chair of Modern
 Languages. He again made a trip to Europe for further study. Longfellow was
 connected with Harvard for nineteen years, resigning his position in 1854 to
 devote his whole time to literature.
-
 His two principal prose works are "Outre Mer" and "Hyperion." The latter was
 followed by a volume of poems entitled "Voices of the Night." "Ballads and
 Other Poems" appeared in 1841, and showed much more talent. "Evangeline" was
@@ -145,25 +39,15 @@ written in 1847; "Hiawatha" in 1855, and the "Courtship of Miles Standish"
 in 1857. "Evangeline" and "Hiawatha" are considered the best of his longer
 poems. "The Building of the Ship" and "Excelsior" are perhaps the best known
 of his shorter poems.
-
 Longfellow died at Cambridge in 1882.
-
-
-
-
-THE POEM.
-
 "Evangeline" is considered Longfellow's masterpiece among his longer
 poems. It is said to have been the author's favorite. It has a universal
 popularity, having been translated into many languages.
-
 E.C. Stedman styles it the "Flower of American Idyls."
-
 "Evangeline" is a Narrative poem, since it tells a story. Some of the
 world's greatest poems have been of this kind, notably the "Iliad" and the
 "Odyssey" of Homer, and the "Aeneid," of Virgil. It may be also classified
 as an Idyl, which is a simple, pastoral poem of no great length.
-
 Poetry has been defined as "impassioned expression in verse or metrical
 form." All modern English poetry has metre, and much of it rhyme. By
 metre is meant a regular recurrence of accented syllables among unaccented
@@ -173,29 +57,16 @@ unaccented. A line must begin with an accented syllable, the last accent
 but one be followed by two unaccented syllables, and the last by one.
 Representing an accented syllable by O and an unaccented syllable by a -,
 the first line of the poem would be as follows:
-
-  O   -  -   O  -  -  O  -    -   O  -  -    O    -   -   O  -
 This is the forest primeval, the murmuring pines and the hemlocks,
-
-    "The measure lends itself easily to the lingering melancholy which
-    marks a greater part of the poem."
-
-    "In reading there should be a gentle labor of the former half of the
-    line and gentle acceleration of the latter half."--_Scudder_.
-
-[Illustration: NOVA SCOTIA AND VICINITY.]
-
-
-
-
-ACADIA AND THE ACADIANS.
-
+"The measure lends itself easily to the lingering melancholy which
+marks a greater part of the poem."
+"In reading there should be a gentle labor of the former half of the
+line and gentle acceleration of the latter half."--_Scudder_.
 Acadia, now known as Nova Scotia, was settled by the French in 1607. Many of
 the colonists settled in the fertile region about the Bay of Minas, an arm
 of the Bay of Fundy. One of these settlements was called Grand Pre, meaning
 Great Meadow. The people were industrious and thrifty and they soon attained
 a considerable prosperity.
-
 During the early period of American History, France and England were almost
 continually at war with one another, and in these wars the colonists were
 concerned. At the close of what is known as Queen Anne's war, in 1713,
@@ -204,7 +75,6 @@ possession. Some thirty-five years passed before an English settlement
 was made at Halifax, the Acadians in the meantime remaining in undisturbed
 possession of the country. Soon after the settlement of Halifax trouble
 began between the rival colonists.
-
 The Acadians were, as a whole, a quiet and peaceable people, content to till
 their farms and let the mother countries settle any disputes. Some of them
 were not thus minded and they succeeded in causing considerable trouble.
@@ -215,13 +85,9 @@ regarded with suspicion and fear. They had sworn fidelity on the condition
 that they should not be required to bear arms against the French, with
 whom they naturally sympathized, being of the same blood and religion. They
 persistently refused to go further and swear allegiance.
-
 The English were not without blame since it must be admitted they had
 covetous eyes upon the rich farms of the Acadians and an opportunity to take
 possession of them would not be unwelcome.
-
-[Illustration: Map of Annapolis and Kings Counties.]
-
 The strife that had so long been going on between France and England to
 determine which should rule in the New World was now at a critical point.
 England's power seemed to be trembling in the balance. Her defeat meant
@@ -244,10 +110,8 @@ to hurry their prisoners aboard the few ships in the harbor. These were
 so crowded nearly all the goods had to be left behind, and in the haste
 of embarking many families, lovers and friends were parted, being carried
 aboard different ships bound for different ports.
-
 On October 29th, 1755, the Acadians sailed away into exile, an "exile
 without an end, and without an example in story."
-
 There is a considerable difference of opinion as to whether such extreme
 measures were justified. The English Colonists evidently felt that it was
 a necessary act, an act of self-preservation. It is, perhaps, no worse than
@@ -255,15 +119,12 @@ many of the horrors of war. On the other hand the Acadians had, as a whole,
 committed no overt act of disloyalty, though a few of them had done so.
 Should a whole community thus suffer for the wrong doing of a few? This is
 certainly a difficult question.
-
 Those interested in the subject should read an article by Parkman in
 "Harper's Magazine" for November, 1884, where he justifies the action. For
 the opposite view, see "Acadia" by Edouard Richards, vol. I, chap. IV.
-
 The following quotations will be found of interest. The first is from
 Edouard Richards; the second and third from two of contemporaries of the
 exiled Acadians, Moses de les Derniers and Brook Watson.
-
 "All that vast bay, around which but lately an industrious people worked
 like a swarm of bees, was now deserted. In the silent village, where the
 doors swung idly in the wind, nothing was heard but the tramp of soldiery
@@ -274,7 +135,6 @@ different historians, or to speak more correctly, very few have paid any
 attention to this subject....Rameau, who has made a much deeper study than
 any other historian of the Acadians, sets the total at 130,000, comprising
 horned cattle, horses, sheep, and pigs."
-
 Edouard Richard quotes the following from two contemporaries of the exiled
 Acadians. "The Acadians were the most innocent and virtuous people I have
 ever known or read of in any history. They lived in a state of perfect
@@ -289,7 +149,6 @@ who embraced their religion. They were very remarkable for their inviolable
 purity of morals. If any disputes arose in their transactions, they always
 submitted to the decision of an arbitrator, and their final appeal was to
 their priest."--_Moses de les Derniers_.
-
 "Young men were not encouraged to marry unless the young girl could weave
 a piece of cloth, and the young man make a pair of wheels. These
 accomplishments were deemed essential for their marriage settlement, and
@@ -298,32 +157,19 @@ whole village contributed to set up the newly married couple. They built a
 house for them, and cleared enough land for their immediate needs; they gave
 them live stock and poultry; and nature, seconded by their own labor, soon
 put them in a position to help others."--_Brook Watson_.
-
-[Illustration: Village of Grand Pre. Rivers Gaspereau and Avon in the
 distance.]
-
-
-
-
-EVANGELINE.
-
-PRELUDE.
-
-
-  This is the forest primeval. The murmuring pines and the hemlocks,
+This is the forest primeval. The murmuring pines and the hemlocks,
 Bearded with moss, and in garments green, indistinct in the twilight,
 Stand like Druids of eld, with voices sad and prophetic,
 Stand like harpers hoar, with beards that rest on their bosoms.
 Loud from its rocky caverns, the deep-voiced neighboring ocean            5
 Speaks, and in accents disconsolate answers the wail of the forest.
-
-  This is the forest primeval; but where are the hearts that beneath it
+This is the forest primeval; but where are the hearts that beneath it
 Leaped like the roe, when he hears in the woodland the voice of the huntsman?
 Where is the thatch-roofed village, the home of Acadian farmers--
 Men whose lives glided on like rivers that water the woodlands,          10
 Darkened by shadows of earth, but reflecting an image of heaven?
-
-  Waste are those pleasant farms, and the farmers forever departed!
+Waste are those pleasant farms, and the farmers forever departed!
 Scattered like dust and leaves, when the mighty blasts of October
 Seize them, and whirl them aloft, and sprinkle them far o'er the ocean.
 Naught but tradition remains of the beautiful village of Grand-Pre.      15
@@ -331,15 +177,7 @@ Ye who believe in affection that hopes, and endures, and is patient,
 Ye who believe in the beauty and strength of woman's devotion.
 List to the mournful tradition still sung by the pines of the forest;
 List to a Tale of Love in Acadie, home of the happy.
-
-
-
-PART THE FIRST.
-
-SECTION I.
-
-
-  In the Acadian land, on the shores of the Basin of Minas,              20
+In the Acadian land, on the shores of the Basin of Minas,              20
 Distant, secluded, still, the little village of Grand-Pre
 Lay in the fruitful valley. Vast meadows stretched to the eastward,
 Giving the village its name and pasture to flocks without number.
@@ -377,8 +215,7 @@ Fear, that reigns with the tyrant, and envy, the vice of republics.
 Neither locks had they to their doors, nor bars to their windows;        55
 But their dwellings were open as day and the hearts of the owners;
 There the richest was poor, and the poorest lived in abundance.
-
-  Somewhat apart from the village, and nearer the Basin of Minas,
+Somewhat apart from the village, and nearer the Basin of Minas,
 Benedict Bellefontaine, the wealthiest farmer of Grand-Pre,
 Dwelt on his goodly acres; and with him, directing his household,        60
 Gentle Evangeline lived, his child, and the pride of the village.
@@ -402,8 +239,7 @@ But a celestial brightness--a more ethereal beauty--
 Shone on her face and encircled her form, when, after confession,
 Homeward serenely she walked with God's benediction upon her.            80
 When she had passed, it seemed like the ceasing of exquisite music.
-
-   Firmly builded with rafters of oak, the house of the farmer
+Firmly builded with rafters of oak, the house of the farmer
 Stood on the side of a hill commanding the sea; and a shady
 Sycamore grew by the door, with a woodbine wreathing around it.
 Rudely carved was the porch, with seats beneath; and a footpath          85
@@ -424,8 +260,7 @@ Under the sheltering eaves, led up to the odorous cornloft.
 There too the dove-cot stood, with its meek and innocent inmates        100
 Murmuring ever of love; while above in the variant breezes
 Numberless noisy weathercocks rattled and sang of mutation.
-
-  Thus, at peace with God and the world, the farmer of Grand-Pre
+Thus, at peace with God and the world, the farmer of Grand-Pre
 Lived on his sunny farm, and Evangeline governed his household.
 Many a youth, as he knelt in the church and opened his missal,          105
 Fixed his eyes upon her as the saint of his deepest devotion;
@@ -470,12 +305,7 @@ She was a woman now, with the heart and hopes of a woman.
 Which, as the farmers believed, would load their orchards with apples;  145
 She too would bring to her husband's house delight and abundance,
 Filling it full of love and ruddy faces of children.
-
-
-SECTION II.
-
-
-  Now had the season returned, when the nights grow colder and longer,
+Now had the season returned, when the nights grow colder and longer,
 And the retreating sun the sign of the Scorpion enters.
 Birds of passage sailed through the leaden air, from the ice-bound,     150
 Desolate northern bays to the shores of tropical islands.
@@ -498,8 +328,7 @@ Looked with the eye of love through the golden vapors around him;
 While arrayed in its robes of russet and scarlet and yellow,
 Bright with the sheen of the dew, each glittering tree of the forest
 Flashed like the plane-tree the Persian adorned with mantles and jewels. 170
-
-  Now recommenced the reign of rest and affection and stillness.
+Now recommenced the reign of rest and affection and stillness.
 Day with its burden and heat had departed, and twilight descending
 Brought back the evening star to the sky, and the herds to the homestead.
 Pawing the ground they came, and resting their necks on each other,
@@ -527,8 +356,7 @@ Lowing of cattle and peals of laughter were heard in the farm-yard,     195
 Echoed back by the barns. Anon they sank into stillness;
 Heavily closed, with a jarring sound, the valves of the barn-doors,
 Rattled the wooden bars, and all for a season was silent.
-
-  In-doors, warm by the wide-mouthed fireplace, idly the farmer
+In-doors, warm by the wide-mouthed fireplace, idly the farmer
 Sat in his elbow-chair, and watched how the flames and the smoke-wreaths 200
 Struggled together like foes in a burning city. Behind him,
 Nodding and mocking along the wall with gestures fantastic,
@@ -547,8 +375,7 @@ Followed the old man's song, and united the fragments together.
 As in a church, when the chant of the choir at intervals ceases,        215
 Footfalls are heard in the aisles, or words of priest at the altar,
 So, in each pause of the song, with measured motion the clock clicked.
-
-  Thus as they sat, there were footsteps heard, and, suddenly lifted,
+Thus as they sat, there were footsteps heard, and, suddenly lifted,
 Sounded the wooden latch, and the door swung back on its hinges.
 Benedict knew by the hob-nailed shoes it was Basil the blacksmith,      220
 And by her beating heart Evangeline knew who was with him.
@@ -598,12 +425,7 @@ Shall we not then be glad, and rejoice in the joy of our children?"
 As apart by the window she stood, with her hand in her lover's,         265
 Blushing Evangeline heard the words that her father had spoken,
 And, as they died on his lips, the worthy notary entered.
-
-
-SECTION III.
-
-
-  Bent like a laboring oar, that toils in the surf of the ocean,
+Bent like a laboring oar, that toils in the surf of the ocean,
 Bent, but not broken, by age was the form of the notary public;
 Shocks of yellow hair, like the silken floss of the maize, hung         270
 Over his shoulders; his forehead was high; and glasses with horn bows
@@ -665,8 +487,7 @@ Silenced, but not convinced, when the story was ended, the blacksmith
 Stood like a man who fain would speak, but findeth no language;
 All his thoughts were congealed into lines on his face, as the vapors
 Freeze in fantastic shapes on the window-panes in the winter.
-
-  Then Evangeline lighted the brazen lamp on the table,                 330
+Then Evangeline lighted the brazen lamp on the table,                 330
 Filled, till it overflowed, the pewter tankard with home-brewed
 Nut-brown ale, that was famed for its strength in the village of Grand-Pre;
 While from his pocket the notary drew his papers and inkhorn,
@@ -687,11 +508,9 @@ Laughed when a man was crowned, or a breach was made in the king-row.
 Meanwhile, apart, in the twilight gloom of a window's embrasure,
 Sat the lovers and whispered together, beholding the moon rise
 Over the pallid sea and the silvery mist of the meadows.                350
-
-  Silently, one by one, in the infinite meadows of heaven,
+Silently, one by one, in the infinite meadows of heaven,
 Blossomed the lovely stars, the forget-me-nots of the angels.
-
-  Thus was the evening passed. Anon the bell from the belfry
+Thus was the evening passed. Anon the bell from the belfry
 Rang out the hour of nine, the village curfew, and straightway
 Rose the guests and departed; and silence reigned in the household.     355
 Many a farewell word and sweet good-night on the door-step
@@ -720,11 +539,7 @@ Flitted across the floor and darkened the room for a moment.
 And, as she gazed from the window, she saw serenely the moon pass
 Forth from the folds of a cloud, and one star follow her footsteps,     380
 As out of Abraham's tent young Ishmael wandered with Hagar.
-
-
-SECTION IV.
-
-  Pleasantly rose next morn the sun on the village of Grand-Pre.
+Pleasantly rose next morn the sun on the village of Grand-Pre.
 Pleasantly gleamed in the soft, sweet air the Basin of Minas,
 Where the ships, with their wavering shadows, were riding at anchor.
 Life had been long astir in the village, and clamorous labor            385
@@ -745,8 +560,7 @@ Yet under Benedict's roof hospitality seemed more abundant:
 For Evangeline stood among the guests of her father.                    400
 Bright was her face with smiles, and words of welcome and gladness
 Fell from her beautiful lips, and blessed the cup as she gave it.
-
-  Under the open sky, in the odorous air of the orchard,
+Under the open sky, in the odorous air of the orchard,
 Stript of its golden fruit, was spread the feast of betrothal.
 There in the shade of the porch were the priest and the notary seated;  405
 There good Benedict sat, and sturdy Basil the blacksmith.
@@ -763,8 +577,7 @@ Under the orchard-trees and down the path to the meadows;
 Old folk and young together, and children mingled among them.
 Fairest of all maids was Evangeline, Benedict's daughter!
 Noblest of all the youths was Gabriel, son of the blacksmith!
-
-  So passed the morning away. And lo! with a summons sonorous           420
+So passed the morning away. And lo! with a summons sonorous           420
 Sounded the bell from its tower, and over the meadows a drum beat.
 Thronged ere long was the church with men. Without, in the churchyard,
 Waited the women. They stood by the graves, and hung on the headstones
@@ -804,8 +617,7 @@ Flushed was his face and distorted with passion; and wildly he shouted,--  455
 Death to these foreign soldiers, who seize on our homes and our harvests!"
 More he fain would have said, but the merciless hand of a soldier
 Smote him upon the mouth, and dragged him down to the pavement.
-
-  In the midst of the strife and tumult of angry contention,            460
+In the midst of the strife and tumult of angry contention,            460
 Lo! the door of the chancel opened, and Father Felician
 Entered, with serious mien, and ascended the steps of the altar.
 Raising his reverend hand, with a gesture he awed into silence
@@ -827,14 +639,12 @@ Let us repeat it now, and say, 'O Father, forgive them!'"
 Few were his words of rebuke, but deep in the hearts of his people
 Sank they, and sobs of contrition succeeded the passionate outbreak,    480
 While they repeated his prayer and said, "O Father, forgive them!"
-
-  Then came the evening service. The tapers gleamed from the altar;
+Then came the evening service. The tapers gleamed from the altar;
 Fervent and deep was the voice of the priest, and the people responded,
 Not with their lips alone, but their hearts; and the Ave Maria
 Sang they, and fell on their knees, and their souls, with devotion translated, 485
 Rose on the ardor of prayer, like Elijah ascending to heaven.
-
-  Meanwhile had spread in the village the tidings of ill, and on all sides
+Meanwhile had spread in the village the tidings of ill, and on all sides
 Wandered, wailing, from house to house the women and children.
 Long at her father's door Evangeline stood, with her right hand
 Shielding her eyes from the level rays of the sun, that, descending,    490
@@ -856,8 +666,7 @@ Urged by their household cares, and the weary feet of their children.   505
 Down sank the great red sun, and in golden, glimmering vapors
 Veiled the light of his face, like the Prophet descending from Sinai.
 Sweetly over the village the bell of the Angelus sounded.
-
-  Meanwhile, amid the gloom, by the church Evangeline lingered.
+Meanwhile, amid the gloom, by the church Evangeline lingered.
 All was silent within; and in vain at the door and the windows          510
 Stood she, and listened and looked, until, overcome by emotion
 "Gabriel!" cried she aloud with tremulous voice; but no answer
@@ -872,12 +681,7 @@ Keenly the lightning flashed; and the voice of the echoing thunder      520
 Told her that God was in heaven and governed the world He created!
 Then she remembered the tale she had heard of the justice of Heaven;
 Soothed was her troubled soul, and she peacefully slumbered till morning.
-
-
-SECTION V.
-
-
-  Four times the sun had risen and set; and now on the fifth day
+Four times the sun had risen and set; and now on the fifth day
 Cheerily called the cock to the sleeping maids of the farm-house.       525
 Soon o'er the yellow fields, in silent and mournful procession,
 Came from the neighboring hamlets and farms the Acadian women,
@@ -886,8 +690,7 @@ Pausing and looking back to gaze once more on their dwellings,
 Ere they were shut from sight by the winding road and the woodland.     530
 Close at their sides their children ran, and urged on the oxen,
 While in their little hands they clasped some fragments of playthings.
-
-  Thus to the Gaspereau's mouth they hurried; and there on the sea-beach
+Thus to the Gaspereau's mouth they hurried; and there on the sea-beach
 Piled in confusion lay the household goods of the peasants.
 All day long between the shore and the ships did the boats ply;         535
 All day long the wains came laboring down from the village.
@@ -907,8 +710,7 @@ Fill our hearts this day with strength and submission and patience!"
 Then the old men, as they marched, and the women that stood by the wayside 550
 Joined in the sacred psalm, and the birds in the sunshine above them
 Mingled their notes therewith, like voices of spirits departed.
-
-  Half-way down to the shore Evangeline waited in silence,
+Half-way down to the shore Evangeline waited in silence,
 Not overcome with grief, but strong in the hour of affliction,--
 Calmly and sadly she waited, until the procession approached her,       555
 And she beheld the face of Gabriel pale with emotion.
@@ -923,8 +725,7 @@ Heavier seemed with the weight of the heavy heart in his bosom.
 But with a smile and a sigh, she clasped his neck and embraced him,     565
 Speaking words of endearment where words of comfort availed not.
 Thus to the Gasperau's mouth moved on that mournful procession.
-
-  There disorder prevailed, and the tumult and stir of embarking.
+There disorder prevailed, and the tumult and stir of embarking.
 Busily plied the freighted boats; and in the confusion
 Wives were torn from their husbands, and mothers, too late, saw their children 570
 Left on the land, extending their arms, with wildest entreaties.
@@ -947,8 +748,7 @@ Lowing they waited, and long, at the well-known bars of the farm-yard,--
 Waited and looked in vain for the voice and the hand of the milkmaid.
 Silence reigned in the streets; from the church no Angelus sounded,
 Rose no smoke from the roofs, and gleamed no lights from the windows.   590
-
-  But on the shores meanwhile the evening fires had been kindled,
+But on the shores meanwhile the evening fires had been kindled,
 Built of the drift-wood thrown on the sands from wrecks in the tempest.
 Round them shapes of gloom and sorrowful faces were gathered,
 Voices of women were heard, and of men, and the crying of children.
@@ -970,8 +770,7 @@ Silently, therefore, he laid his hand on the head of the maiden,
 Raising his tearful eyes to the silent stars that above them            610
 Moved on their way, unperturbed by the wrongs and sorrows of mortals.
 Then sat he down at her side, and they wept together in silence.
-
-  Suddenly rose from the south a light, as in autumn the blood-red
+Suddenly rose from the south a light, as in autumn the blood-red
 Moon climbs the crystal walls of heaven, and o'er the horizon
 Titan-like stretches its hundred hands upon mountain and meadow,        615
 Seizing the rocks and the rivers, and piling huge shadows together.
@@ -982,8 +781,7 @@ Thrust through their folds and withdrawn, like the quivering hands of a martyr. 
 Then, as the wind seized the gleeds and the burning thatch, and, uplifting,
 Whirled them aloft through the air, at once from a hundred house-tops
 Started the sheeted smoke with flashes of flame intermingled.
-
-  These things beheld in dismay the crowd on the shore and on shipboard.
+These things beheld in dismay the crowd on the shore and on shipboard.
 Speechless at first they stood, then cried aloud in their anguish,      625
 "We shall behold no more our homes in the village of Grand-Pre!"
 Loud on a sudden the cocks began to crow in the farmyards,
@@ -995,8 +793,7 @@ When the wild horses affrighted sweep by with the speed of the whirlwind,
 Or the loud bellowing herds of buffaloes rush to the river.
 Such was the sound that arose on the night, as the herds and the horses
 Broke through their folds and fences, and madly rushed o'er the meadows. 635
-
-  Overwhelmed with the sight, yet speechless, the priest and the maiden
+Overwhelmed with the sight, yet speechless, the priest and the maiden
 Gazed on the scene of terror that reddened and widened before them;
 And as they turned at length to speak to their silent companion,
 Lo! from his seat he had fallen, and stretched abroad on the seashore
@@ -1026,16 +823,7 @@ With the first dawn of the day, came heaving and hurrying landward.
 Then recommenced once more the stir and noise of embarking;
 And with the ebb of the tide the ships sailed out of the harbor,
 Leaving behind them the dead on the shore, and the village in ruins.    665
-
-
-
-
-PART THE SECOND.
-
-
-SECTION I.
-
-  Many a weary year had passed since the burning of Grand-Pre.
+Many a weary year had passed since the burning of Grand-Pre.
 When on the falling tide the freighted vessels departed,
 Bearing a nation, with all its household Gods, into exile,
 Exile without an end, and without an example in story.
@@ -1110,11 +898,7 @@ Here and there, in some open space, and at intervals only;
 Then drawing nearer its banks, through sylvan glooms that conceal it,
 Though he behold it not, he can hear its continuous murmur;
 Happy, at length, if he find a spot where it reaches an outlet.         740
-
-
-SECTION II.
-
-  It was the month of May. Far down the Beautiful River,
+It was the month of May. Far down the Beautiful River,
 Past the Ohio shore and past the mouth of the Wabash,
 Into the golden stream of the broad and swift Mississippi,
 Floated a cumbrous boat, that was rowed by Acadian boatmen.
@@ -1163,8 +947,7 @@ Floated before her eyes, and beckoned her on through the moonlight.
 It was the thought of her brain that assumed the shape of a phantom.
 Through those shadowy aisles had Gabriel wandered before her,
 And every stroke of the oar now brought him nearer and nearer.
-
-  Then, in his place, at the prow of the boat, rose one of the oarsmen, 790
+Then, in his place, at the prow of the boat, rose one of the oarsmen, 790
 And, as a signal sound, if others like them peradventure
 Sailed on those gloomy and midnight streams, blew a blast on his bugle.
 Wild through the dark colonnades and corridors leafy the blast rang,
@@ -1180,8 +963,7 @@ Such as they sang of old on their own Acadian rivers.
 While through the night were heard the mysterious sounds of the desert,
 Far off,--indistinct,--as of wave or wind in the forest,
 Mixed with the whoop of the crane and the roar of the grim alligator.   805
-
-  Thus ere another noon they emerged from the shades; and before them
+Thus ere another noon they emerged from the shades; and before them
 Lay, in the golden sun, the lakes of the Atchafalaya.
 Water-lilies in myriads rocked on the slight undulations
 Made by the passing oars, and, resplendent in beauty, the lotus
@@ -1202,8 +984,7 @@ Were the swift humming-birds, that flitted from blossom to blossom.
 Such was the vision Evangeline saw as she slumbered beneath it.
 Filled was her heart with love, and the dawn of an opening heaven       825
 Lighted her soul in sleep with the glory of regions celestial.
-
-  Nearer, ever nearer, among the numberless islands,
+Nearer, ever nearer, among the numberless islands,
 Darted a light, swift boat, that sped away o'er the water,
 Urged on its course by the sinewy arms of hunters and trappers.
 Northward its prow was turned, to the land of the bison and beaver.     830
@@ -1239,8 +1020,7 @@ Beautiful is the land, with its prairies and forests of fruit-trees;
 Under the feet a garden of flowers, and the bluest of heavens           860
 Bending above, and resting its dome on the walls of the forest.
 They who dwell there have named it the Eden of Louisiana."
-
-  With these words of cheer they arose and continued their journey.
+With these words of cheer they arose and continued their journey.
 Softly the evening came. The sun from the western horizon
 Like a magician extended his golden wand o'er the landscape;            865
 Twinkling vapors arose; and sky and water and forest
@@ -1265,12 +1045,7 @@ Slowly they entered the Teche, where it flows through the green Opelousas,
 And, through the amber air, above the crest of the woodland,            885
 Saw the column of smoke that arose from a neighboring dwelling;--
 Sounds of a horn they heard, and the distant lowing of cattle.
-
-
-SECTION III.
-
-
-  Near to the bank of the river, o'ershadowed by oaks from whose branches
+Near to the bank of the river, o'ershadowed by oaks from whose branches
 Garlands of Spanish moss and of mystic mistletoe flaunted,
 Such as the Druids cut down with golden hatchets at Yule-tide,          890
 Stood, secluded and still, the house of the herdsman. A garden
@@ -1293,8 +1068,7 @@ Into whose sea of flowers the sun was slowly descending.
 Full in his track of light, like ships with shadowy canvas
 Hanging loose from their spars in a motionless calm in the tropics,
 Stood a cluster of trees, with tangled cordage of grapevines.           910
-
-  Just where the woodlands met the flowery surf of the prairie,
+Just where the woodlands met the flowery surf of the prairie,
 Mounted upon his horse, with Spanish saddle and stirrups,
 Sat a herdsman, arrayed in gaiters and doublet of deerskin.
 Broad and brown was the face that from under the Spanish sombrero
@@ -1342,8 +1116,7 @@ Therefore be of good cheer; we will follow the fugitive lover;          955
 He is not far on his way, and the Fates and the streams are against him.
 Up and away tomorrow, and through the red dew of the morning,
 We will follow him fast, and bring him back to his prison."
-
-  Then glad voices were heard, and up from the banks of the river,
+Then glad voices were heard, and up from the banks of the river,
 Borne aloft on his comrades' arms, came Michael the fiddler.            960
 Long under Basil's roof had he lived, like a god on Olympus,
 Having no other care than dispensing music to mortals.
@@ -1362,8 +1135,7 @@ Each one thought in his heart, that he, too, would go and do likewise.
 Thus they ascended the steps, and, crossing the breezy veranda,         975
 Entered the hall of the house, where already the supper of Basil
 Waited his late return; and they rested and feasted together.
-
-  Over the joyous feast the sudden darkness descended.
+Over the joyous feast the sudden darkness descended.
 All was silent without, and, illuming the landscape with silver,
 Fair rose the dewy moon and the myriad stars; but within doors,         980
 Brighter than these, shone the faces of friends in the glimmering lamplight.
@@ -1406,8 +1178,7 @@ Broke up all further speech. Away, like children delighted,
 All things forgotten beside, they gave themselves to the maddening
 Whirl of the dizzy dance as it swept and swayed to the music,
 Dreamlike, with beaming eyes and the rush of fluttering garments.      1020
-
-  Meanwhile, apart, at the head of the hall, the priest and the herdsman
+Meanwhile, apart, at the head of the hall, the priest and the herdsman
 Sat, conversing together of past and present and future;
 While Evangeline stood like one entranced, for within her
 Olden memories rose, and loud in the midst of the music
@@ -1445,8 +1216,7 @@ Like a flute in the woods; and anon, through the neighboring thickets, 1055
 Farther and farther away it floated and dropped into silence.
 "Patience!" whispered the oaks from oracular caverns of darkness;
 And, from the moonlit meadow, a sigh responded, "To-morrow!"
-
-  Bright rose the sun next day; and all the flowers of the garden
+Bright rose the sun next day; and all the flowers of the garden
 Bathed his shining feet with their tears, and anointed his tresses     1060
 With the delicious balm that they bore in their vases of crystal.
 "Farewell!" said the priest, as he stood at the shadowy threshold;
@@ -1465,12 +1235,7 @@ Till, at the little inn of the Spanish town of Adayes,
 Weary and worn, they alighted, and learned from the garrulous landlord 1075
 That on the day before, with horses and guides and companions,
 Gabriel left the village, and took the road of the prairies.
-
-
-SECTION IV
-
-
-  Far in the West there lies a desert land, where the mountains
+Far in the West there lies a desert land, where the mountains
 Lift, through perpetual snows, their lofty and luminous summits.
 Down from their jagged, deep ravines, where the gorge, like a gateway, 1080
 Opens a passage rude to the wheels of the emigrant's wagon,
@@ -1498,8 +1263,7 @@ And the grim, taciturn bear, the anchorite monk of the desert,
 Climbs down their dark ravines to dig for roots by the brook-side,
 And over all is the sky, the clear and crystalline heaven,
 Like the protecting hand of God inverted above them.                   1105
-
-  Into this wonderful land, at the base of the Ozark Mountains,
+Into this wonderful land, at the base of the Ozark Mountains,
 Gabriel far had entered, with hunters and trappers behind him.
 Day after day, with their Indian guides, the maiden and Basil
 Followed his flying steps, and thought each day to o'ertake him.
@@ -1509,8 +1273,7 @@ When they had reached the place, they found only embers and ashes.
 And, though their hearts were sad at times and their bodies were weary,
 Hope still guided them on, as the magic Fata Morgana
 Showed them her lakes of light, that retreated and vanished before them. 1115
-
-  Once, as they sat by their evening fire, there silently entered
+Once, as they sat by their evening fire, there silently entered
 Into the little camp an Indian woman, whose features
 Wore deep traces of sorrow, and patience as great as her sorrow.
 She was a Shawnee woman returning home to her people,
@@ -1601,8 +1364,7 @@ Then Evangeline said, and her voice was meek and submissive,
 So seemed it wise and well unto all; and betimes on the morrow,
 Mounting his Mexican steed, with his Indian guides and companions,     1205
 Homeward Basil returned, and Evangeline stayed at the Mission.
-
-  Slowly, slowly, slowly the days succeeded each other,--
+Slowly, slowly, slowly the days succeeded each other,--
 Days and weeks and months; and the fields of maize that were springing
 Green from the ground when a stranger she came, now waving about her,
 Lifted their slender shafts, with leaves interlacing, and forming      1210
@@ -1622,8 +1384,7 @@ Gay and luxuriant flowers, are brighter and fuller of fragrance,
 But they beguile us, and lead us astray, and their odor is deadly.
 Only this humble plant can guide us here, and hereafter                1225
 Crown us with asphodel flowers, that are wet with the dews of nepenthe."
-
-  So came the autumn, and passed, and the winter--yet Gabriel came not;
+So came the autumn, and passed, and the winter--yet Gabriel came not;
 Blossomed the opening spring, and the notes of the robin and bluebird
 Sounded sweet upon wold and in wood, yet Gabriel came not.
 But on the breath of the summer winds a rumor was wafted               1230
@@ -1635,8 +1396,7 @@ Saying a sad farewell, Evangeline went from the Mission.               1235
 When over weary ways, by long and perilous marches,
 She had attained at length the depths of the Michigan forests,
 Found she the hunter's lodge deserted and fallen to ruin!
-
-  Thus did the long sad years glide on, and in seasons and places
+Thus did the long sad years glide on, and in seasons and places
 Divers and distant far was seen the wandering maiden;--                1240
 Now in the Tents of Grace of the meek Moravian Missions,
 Now in the noisy camps and the battle-fields of the army,
@@ -1649,11 +1409,6 @@ Leaving behind it, broader and deeper, the gloom and the shadow.
 Then there appeared and spread faint streaks of gray o'er her forehead,
 Dawn of another life, that broke o'er her earthly horizon,             1250
 As in the eastern sky the first faint streaks of the morning.
-
-
-SECTION V.
-
-
 In that delightful land which is washed by the Delaware's waters,
 Guarding in sylvan shades the name of Penn the apostle,
 Stands on the banks of its beautiful stream the city he founded.
@@ -1700,8 +1455,7 @@ High at some lonely window he saw the light of her taper.
 Day after day, in the gray of the dawn, as slow through the suburbs    1295
 Plodded the German farmer, with flowers and fruits for the market,
 Met he that meek, pale face, returning home from its watchings.
-
-  Then it came to pass that a pestilence fell on the city,
+Then it came to pass that a pestilence fell on the city,
 Presaged by wondrous signs, and mostly by flocks of wild pigeons,
 Darkening the sun in their flight, with naught in their craws but an acorn. 1300
 And, as the tides of the sea arise in the month of September,
@@ -1723,8 +1477,7 @@ Such as the artist paints o'er the brows of saints and apostles,
 Or such as hangs by night o'er a city seen at a distance.
 Unto their eyes it seemed the lamps of the city celestial,
 Into whose shining gates erelong their spirits would enter.
-
-  Thus, on a Sabbath morn, through the streets, deserted and silent,   1320
+Thus, on a Sabbath morn, through the streets, deserted and silent,   1320
 Wending her quiet way, she entered the door of the almshouse.
 Sweet on the summer air was the odor of flowers in the garden,
 And she paused on her way to gather the fairest among them,
@@ -1747,8 +1500,7 @@ And, as she looked around, she saw how Death the consoler,
 Laying his hand upon many a heart, had healed it forever.              1340
 Many familiar forms had disappeared in the night time;
 Vacant their places were, or filled already by strangers.
-
-  Suddenly, as if arrested, by fear or a feeling of wonder,
+Suddenly, as if arrested, by fear or a feeling of wonder,
 Still she stood, with her colorless lips apart, while a shudder
 Ran through her frame, and, forgotten, the flowerets dropped from her fingers, 1345
 And from her eyes and cheeks the light and bloom of the morning.
@@ -1781,14 +1533,12 @@ Vainly he strove to rise; and Evangeline, kneeling beside him,
 Kissed his dying lips, and laid his head on her bosom.
 Sweet was the light of his eyes; but it suddenly sank into darkness,
 As when a lamp is blown out by a gust of wind at a casement.           1375
-
-  All was ended now, the hope, and the fear, and the sorrow,
+All was ended now, the hope, and the fear, and the sorrow,
 All the aching of heart, the restless, unsatisfied longing,
 All the dull, deep pain, and constant anguish of patience!
 And, as she pressed once more the lifeless head to her bosom,
 Meekly she bowed her own, and murmured, "Father, I thank thee!"        1380
-
-  Still stands the forest primeval; but far away from its shadow,
+Still stands the forest primeval; but far away from its shadow,
 Side by side, in their nameless graves, the lovers are sleeping.
 Under the humble walls of the little Catholic churchyard,
 In the heart of the city, they lie, unknown and unnoticed.
@@ -1797,8 +1547,7 @@ Thousands of throbbing hearts, where theirs are at rest and forever,
 Thousands of aching brains, where theirs no longer are busy,
 Thousands of toiling hands, where theirs have ceased from their labors,
 Thousands of weary feet, where theirs have completed their journey!
-
-  Still stands the forest primeval; but under the shade of its branches 1390
+Still stands the forest primeval; but under the shade of its branches 1390
 Dwells another race, with other customs and language.
 Only along the shore of the mournful and misty Atlantic
 Linger a few Acadian peasants, whose fathers from exile
@@ -1808,324 +1557,70 @@ Maidens still wear their Norman caps and their kirtles of homespun,
 And by the evening fire repeat Evangeline's story,
 While from its rocky caverns the deep-voiced, neighboring ocean
 Speaks, and in accents disconsolate answers the wail of the forest.
-
-
-
-
-PICTURES
-
-
 Perry Pictures helpful in the Study of Evangeline:
-
 Christ Church, Boston, 1357; The Sheepfold, 3049; The Blacksmith, 887;
 Evangeline, 23; The Wave, 3197; Spring, 484; Pasturage in the Forest, 506;
 Sheep-Spring, 757; Milking Time, 601; Angelus, 509; Haymaker's Rest, 605;
 Landscape, 490; Priscilla Spinning, 3298; Shoeing the Horse, 908; Henry
 Wadsworth Longfellow, 15; Priscilla, 1338; Autumn, 615; September, 1071;
 Deer by Moonlight, 1005; Winter Scene, 27-B.
-
-       *       *       *       *       *
-
+*       *       *       *       *
 We supply the above at one cent each, if twenty or more are ordered. They
 may be assorted, as desired.
-
-
-
-NOTES.
-
-
-PART ONE.
-
-I
-
-
-1. A PRIMEVAL FOREST is one which has not been disturbed by the axe.
-
-3. DRUIDS were Celtic priests. Their religious ceremonies were carried on in
 oak groves, the trees being regarded as sacred.
-
-10. GRAND PRE (graen-pr[=a]) means large meadow.
-
-20. BASIN OF MINAS, an arm of the Bay of Fundy.
-
-25. THE TIDES in the Bay of Fundy rise to the height of 60 feet. What is the
 ordinary rise of the tide?
-
-29. BLOMIDON is a promontory about four hundred feet high at the entrance of
 the Bay of Minas.
-
-33. THE HENRIES were rulers of France in the sixteenth and seventeenth
 centuries.
-
-34. NORMANDY, a district in northern France bordering on the English
 channel.
-
-39. KIRTLE, a petticoat.
-
-49. THE ANGELUS was a bell which called people to prayer. What do you know
 of the painting called "The Angelus?"
-
-57. Real misery was wholly unknown, and benevolence anticipated the demands
 of poverty. Every misfortune was relieved, as it were, before it could be
 felt, without ostentation on the one hand and without meanness on the other.
 It was in short, a society of brethren. ABBE REYNAL.
-
-72. HYSSOP, a plant. A branch of it could be used like a sponge. It was a
 symbol of purification from sin.
-
-74. CHAPLET OF BEADS, a string of beads used in praying. MISSAL, a prayer
 book.
-
-96. See Luke XXII, 60, 61.
-
-111. A PATRON SAINT was a Saint who was supposed to exercise a special care
 over the people of a town or district.
-
-115. Lajeunesse (lae-zhe-n[)e]s').
-
-144. There was a saying among the people that "If the sun shines on St.
 Eulalie's day there will be a good crop of apples." It was February 12th.
-
-
-II.
-
-
-149. THE SCORPION is one of the twelve signs of the zodiac. The sun enters
 this sign in late October.
-
-153. For the reference to Jacob, see Gen. XXXII, 24-30.
-
-159. THE SUMMER OF ALL-SAINTS corresponds to our Indian Summer. All-Saints
 day is Nov. 1st.
-
-170. PLANE TREE, a species of sycamore. Xerxes, a Persian, admired one of
 them so much he put a mantle upon it and adorned it with jewels.
-
-209. BURGUNDY is a section of eastern France famous for its fine wines.
-
-238. THE GASPEREAU is a river that flows into the Basin of Minas, east of
 Grand Pre.
-
-242. GLEBE, soil.
-
-249. LOUISBURG, BEAUSEJOUR (b[=o] s[=e]' zh[=o][=o]r,) and PORT ROYAL were
 towns which had been taken from the French by the British.
-
-259. THE CONTRACT was considered almost as binding as a marriage. Remember
 this.
-
-260-2. As soon as a young man arrived at the proper age, the community
 built him a house, broke the land about it, and supplied him with all the
 necessaries of life for twelve months. Then he received the partner whom he
 had chosen, and who brought him her portion in flocks. ABBE REYNAL.
-
-
-III.
-
-
-280. LOUP GAROU ( l[=o][=o]-ga-r[=o][=o] ) means man-wolf. There was a
 tradition that a man had the power to change himself into a wolf to devour
 children.
-
-282. LETICHE (l[=a]-t[=e]sh').
-
-293. IN SOOTH, in truth.
-
-307. A figure with scales in the left hand and a sword in the right is
 sometimes used to represent Justice.
-
-354. THE CURFEW was a bell tolled in the evening as a signal to put out the
 fires and go to bed.
-
-381. See Gen. XXI, 14.
-
-
-IV.
-
-
-413. The names of two French songs.
-
-442. The summer solstice is on the 21st of June. The sun is then farthest
 north, being over the Tropic of Cancer. It seems to stand still for a short
 time.
-
-466. The author contrasts the clamor of the throng and the quiet words of
 Father Felician by referring to rapid strokes of the alarm and the quiet,
 measured strokes of the hour.
-
-476. See Luke XXIII, 34.
-
-484. AVE MARIA (aeh-v[=a]-mah-r[=e]'-a), a prayer to the Virgin Mary.
-
-486. See 2 Kings II, 11.
-
-507. See Exodus XXIV, 29-35.
-
-
-V.
-
-
-572-3. Parents were separated from children and husbands from wives, some of
 whom have not to this day met again; and we were so crowded in the transport
 vessels that we had not even room to lay down, and consequently were
 prevented from carrying with us proper necessaries, especially for the
 support and comfort of the aged and weak, many of whom quickly ended their
 lives. PETITION OF THE ACADIANS TO THE KING.
-
-579. LEAGUER, an army camp.
-
-589. See lines 49, 50.
-
-597. See Acts XXVII-XXVIII.
-
-604. BENEDICITE, bless you.
-
-631. NEBRASKA, now known as the Platte River.
-
-667. BELL OR BOOK, funeral bell, or book of funeral service.
-
-
-
-
-PART TWO.
-
-
-I.
-
-674. SAVANNAHS, grassy plains.
-
-678-9. We have already seen, in this province of Pennsylvania, two hundred
 and fifty of our people, which is more than half the number that were landed
 here, perish through misery and various diseases. PETITION OF THE ACADIANS
-TO THE KING.
-
-705. COUREURS-DES-BOIS (k[=o][=o]-rur-d[=a]-bwae'), guides.
-
-707. VOYAGEUR (vwae-yae-zh[=u]r,) river boatmen.
-
-713. To braid St. Catherine's tresses means to remain unmarried.
-
-733. MUSE, here the Goddess of Song. There were nine Muses in all.
-
-
-II.
-
-741. THE BEAUTIFUL RIVER, the Ohio.
-
-749. ACADIAN COAST, districts near the mouth of the Mississippi river where
 many Acadians had settled.
-
 OPELOUSAS, a district in Louisana.
-
-764. GOLDEN COAST, banks of the Mississippi above New Orleans.
-
-766. PLAQUEMINE (pl[)a]k-m[=e]n.)
-
-782. Mimosa, a plant which closes its leaves when agitated.
-
-807. ATCHAFALAYA ([)a]ch-[.a]-f[=a]-l[=i]'-a,) a river in Louisiana.
-
-815. WACHITA (w[)o]sh-[=e]-taew,) a river in Louisiana.
-
-821. See Genesis XXVIII, 10-15.
-
-856. TECHE (t[=a]sh,) a bayou.
-
 ST. MAUR (s[)a]n-m[=o]r'.)
-
-879. BACCHANTES, followers of Bacchus, God of wine.
-
-
-III.
-
-
-889. MISTLETOE, a parasite plant which grows on many trees.
-
-890. YULE-TIDE, Christmas time.
-
-952. ADAYES (a-d[=a]'-yes) town in Texas.
-
-956. THE FATES, three Goddesses who were supposed to control human
 destinies.
-
-961. OLYMPUS, a mountain of Greece supposed by the ancient Greeks to be the
 home of the Gods.
-
-970. CI-DEVANT, (s[=e]`-de-van) former.
-
-984. NATCHITOCHES (n[)a]ck'-e-t[)o]sh,) a district of Louisiana.
-
-1033. CARTHUSIAN, a Monk of an order where only occasional speech is
 permitted.
-
-1044. UPHARSIN, divided. See Daniel V, 5-29.
-
-1054. This was considered a bad omen.
-
-1063. See Luke XV, 11-32.
-
-1064. See Matthew XXV, 1-13.
-
-
-IV.
-
-
-1082. OREGON, the Columbia River.
-
 WALLEWAY, a branch of the Snake river.
-
 OWYHEE (Owy'-hee) river in same region.
-
-1083. WIND RIVER MOUNTAINS, a chain of the Rocky Mountains, in Wyoming.
-
-1084. SWEET WATER VALLEY, in Wyoming. NEBRASKA, the Platte river.
-
-1085. FONTAINE-QUI-BOUT (f[)o]n'-t[=a]n-k[=e]-b[=o][=o]) a creek in
 Colorado.
-
 SPANISH SIERRAS, Mountain range in New Mexico.
-
-1091. AMORPHAS, a shrub having clusters of blue flowers.
-
-1095. ISHMAEL'S CHILDREN. The Arabs are considered descendents of Ishmael.
 Because of their warlike spirit the American Indians have been thought to be
 descents of Ishmael. See Genesis XXI, 14-21.
-
-1114. FATA MORGANA (Fae-tae-Mor-gae'-nae,) mirage.
-
-1139. MOWIS (m[=o]'-w[=e]s.)
-
-1167. BLACK ROBE CHIEF, Jesuit priest at the head of the mission, so called
 because of his black robe.
-
-1182. SUSURRUS, whisperings.
-
-1219. HUMBLE PLANT, a plant that grows on the prairies whose leaves point
 north and south, thus serving as a guide.
-
-1241. MORAVIAN MISSIONS. The Moravians are a Christian sect noted for their
 missionary zeal.
-
-
-V.
-
-
-1256. A number of streets in Philadelphia have the name of trees, as Walnut,
 Chestnut, etc.
-
-1257. DRYADS, Goddesses of the woods.
-
-1288. SISTER OF MERCY, a member of an order in the Roman Catholic church.
 The members devote their lives to works of charity.
-
-1355. See Exodus XII, 22-23.
-
-
-
-
-ARGUMENT.
-
-
 "Evangeline" is usually studied in the seventh school year--a time when a
 somewhat intensive study of a piece of literature may be undertaken with
 profit. This poem offers a most delightful introduction into the wider
@@ -2133,7 +1628,6 @@ realms of literature--an introduction fraught with much consequence since
 the manner of it is likely to have a considerable bearing on the pupil's
 future in this subject. It is certainly important that the most be made of
 the opportunity.
-
 We believe that the common lack of interest and effort in school work
 is often due to an absence of definite and visible ends, and of proper
 directions for the reaching of those ends. Pupils do not object to work, and
@@ -2143,243 +1637,56 @@ in their study of a piece of literature. Such a course may be commendable
 later, but at this period, suggestion and direction are necessary. These are
 furnished by our "Suggestive Questions," which indicate lines of study and
 research.
-
 In the ordinary reading class the work is largely done by a few of the
 brighter pupils. It is quite difficult to secure a careful preparation by
 the whole class. It is also difficult to ascertain how well the pupils are
 prepared. The "Suggestive Questions" will be found very helpful here.
-
 Care has been exercised in the division of the subject matter that each
 lesson may, in a sense, be complete in itself. The lessons are supposed to
 occupy twenty-five or thirty minutes; this, with the nature of the subject
 matter and the number of unfamiliar words, determining the length of the
 lessons.
-
 The poem is to be studied twice:--
-
 First, a general survey to get the story and the characters clearly in mind.
-
 Second, a careful study of the text that the beauty and richness, the
 artistic and ethical values of the poem may be realized.
-
 It is obvious that no scheme, however carefully wrought out, can in any
 sense be a substitute for earnestness, enthusiasm and sympathy; and careful
 preparation is an absolute essential of all successful teaching. With these,
 it is believed, excellent results may be secured by use of this plan.
-
-    W.F. CONOVER.
-
-  _"B" St. School,
-    San Diego, Cal._
-
-
-
-
-PART I.
-
-A GENERAL SURVEY.
-
-
+_"B" St. School,
+San Diego, Cal._
 _Lesson I._ The Author and the Poem.
-
 _Lesson II._ Acadia and the Acadians.
-
 _Lesson III._ Discuss the structure of the poem and how it should be read.
 Read.
-
 _Lessons IV-XIII._ Read a section each day to get the outlines of the story.
-
 Notice carefully the Topics given on the following pages, and be able to
 tell with what lines each Topic begins and ends. In the other Sections
 make lists of Topics, filling out the outlines. Be careful to choose the
 principal Topics and not subordinate ones.
-
-
-
-
-EVANGELINE--PART I.
-
-
-  SEC. I.
-
-  _Acadia._
-
-
-  1. Grand Pre.
-  2. Benedict Bellefontaine.
-  3. Bvangeline.
-  4. The Home.
-  5. Gabriel, Basil, Father Felician.
-  6. Childhood of Evangeline and Gabriel.
-  7. Manhood and Womanhood.
-
-
-  SEC. II.
-
-  _The Home._
-
-
-  1.
-  2.
-  3.
-  4.
-  5.
-  6.
-
-
-  SEC. III.
-
-  _The Interview._
-
-
-  1. The Notary.
-  2. The Argument and Story.
-  3. The Betrothal.
-  4. The Game.
-  5. Departure of Guests.
-  6. Evangeline.
-
-
-  SEC. IV.
-
-  _The Summons._
-
-
-  1.
-  2.
-  3.
-  4.
-  5.
-  6.
-  7.
-
-
-  SEC. V.
-
-  _The Embarking._
-
-
-  1. Gathering of Goods.
-  2. Evangeline's Message.
-  3. Separated.
-  4. The Camp.
-  5. Fire.
-  6. Death of Benedict.
-  7. Exiled.
-
-
-
-
-EVANGELINE--PART II.
-
-  SEC. I.
-
-  _The Search Begun._
-
-
-  1.
-  2.
-  3.
-  4.
-  5.
-
-
-  SEC. II.
-
-  _On the Mississippi._
-
-
-  1. The Boatmen.
-  2. The Journey.
-  3. Forebodings of Ill.
-  4. The Sleep.
-  5. The Bugle.
-  6. The Passing.
-  7. Evangeline's Dream.
-  8. Journey Continued.
-  9. Arrival.
-
-
-  SEC. III.
-
-  _Re-union. Search Again._
-
-
-  1.
-  2.
-  3.
-  4.
-  5.
-  6.
-  7.
-  8.
-  9.
-  10.
-
-
-  SEC. IV.
-
-  _Search Continued._
-
-
-  1. The Great West.
-  2. Old Camp Fires.
-  3. The Shawnee--Confidences.
-  4. March Resumed.
-  5. The Mission.
-  6. Patience.
-  7. Rumors. On to Michigan.
-  8. Years of Search.
-
-
-  SEC. V.
-
-  _Search Ended._
-
-
-  1.
-  2.
-  3.
-  4.
-  5.
-  6.
-
-
-
-
-PART II.
-
-STUDY OF THE TEXT.
-
-
+_Acadia._
+_The Home._
+_The Interview._
+_The Summons._
+_The Embarking._
+_The Search Begun._
+_On the Mississippi._
+_Re-union. Search Again._
+_Search Continued._
+_Search Ended._
 (1.) Lessons I-XXVII.
-
 (2.) Composition Subjects.
-
 The questions on the following pages are intended to be suggestive of lines
 of study. Others of like or different import will occur to the teacher.
 Don't be confined to the written questions. Many others will be needed to
 bring out the artistic and spiritual values of the poem and to keep the
 thread of the story in mind.
-
 Pupils are expected to know the meaning of words and the particular one the
 author employs. The understanding of a passage often depends on the meaning
 of a single word. (See Part III.)
-
-
-
-
-SUGGESTIVE QUESTIONS.
-
-EVANGELINE--PART I.
-
-SEC. I.
-
 _Introduction. Grand Pre._
-
 Lesson I, Lines 1-57.
-
-
 The author gives us a hint of the nature of his narrative. In what lines
 does he directly refer to it? This is a story of what? What three qualities
 had this thing? What two pictures does the author contrast, lines 6-15? Why
@@ -2389,40 +1696,22 @@ Remember--this is a story of what? Its three qualities are what? What is
 the first picture in Section I? What quality of the people is referred to
 in line 24? The Acadians were engaged in what industry? Would their lives
 be more peaceful in this than in other lines of labor? Why use reposed, line
-32? Who was intimately associated with all the life of the village? Explain
 lines 52-56 and 57.
-
-
 _Evangeline._
-
 Lesson II, Lines 58-81.
-
-
 What is the topic of this lesson? Who is also introduced to us? Describe.
 What does the comparison with an oak suggest? What was Evangeline's age?
 Describe her appearance. What qualities does this description show of her?
 What was Benedict's most marked characteristic? Evangeline's?
-
-
 _Home and Childhood of Evangeline and Gabriel._
-
 Lesson III, Lines 82-147.
-
-
 Why does the author describe the home so carefully? What do we learn of
 Evangeline, lines 104-114? What two characters are here introduced? Tell
 about their childhood days. Note the early attraction of these two for each
 other. What about the wondrous stone? Have stones such powers? Evangeline's
 name (line 144) indicates what?
-
-
-SEC. II.
-
 _Autumn. Evening Out-of-doors. In-doors._
-
 Lesson IV, Lines 148-198.
-
-
 What is the season? What is the sign of the scorpion? What season follows?
 Signs point to what? Why should the author refer to signs of a hard winter?
 What idea does the author reiterate, lines 160-175? Note--the author brings
@@ -2430,79 +1719,48 @@ up one picture after another to impress us in this way. Why? Does he picture
 the home clearly? Describe. What things of old time life does he mention?
 Give topic, lines 199-217. Where were the Norman orchards? What does the
 loom suggest?
-
 _Visitors. The News. Argument._
-
 Lesson V, Lines 247-267.
-
-
 What relations existed between Basil and Benedict? How do you know? Note
 carefully how the talk shows character. How did each view the news? Does the
 author make many simple statements of facts, or does he use much imagery? Is
 this so common in prose?
-
 Which was the better way of viewing the news? Why refer to Louisburg, Beau
 Sejour and Port Royal? Had Basil good reasons for his suspicions? Why were
 the Acadians safer than their fathers? Why did Benedict wish to have no
 fear? What was the purpose of the call? What preparations had been made for
 the marriage?
-
-
-SEC. III.
-
 _The Notary and His Story._
-
 Lesson VI, Lines 268-329.
-
-
 A new character in the story. What others have we met thus far? In what
 regard was the Notary held? Describe him. Why did the children like him?
 What was the lore of the village? Contrast the blacksmith's and the Notary's
 manner. Explain line 299. Does the Notary's story prove his point--that
 Justice finally triumphs? Why? What effect upon Basil has the story? Explain
 lines 328-329.
-
-
 _Signing the Contract. The Last Good-Night._
-
 Lesson VII, Lines 330-381.
-
-
 What do you learn from line 333? What characteristic does Benedict show,
 line 339? Learn 351-352.
-
 Were these marriage papers that were signed? What? What three facts of
 old time life, lines 353-368? What are compared, lines 368-371? Why should
 Evangleline feel sad at this time? Was it natural? How could the star follow
 her footsteps? Look up reference line 381.
-
-
-SEC. IV.
-
 _The Betrothal Feast. The Mandate._
-
 Lesson VIII, Lines 382-459.
-
-
 Was the betrothal feast an important event in Grand Pre? So much thought of
 now? Explain 385-386. For what purpose were the people gathering? How did
 Acadian life differ from that of today? Why was hospitality greater under
 Benedict's roof? Who were some of the principal persons at the feast? Who is
 now introduced? Was there a peculiar sadness in the occurances of the day?
 Why?
-
 We have three pictures strongly contrasted in this, the preceding and the
 succeeding lessons. Try to get a clear idea of each of these three scenes.
 Contrast the feast and the reception of the Mandate. Why refer to the
 solstice? What was the immediate effect of the news? Then what? Was it a
 time when character would show? Explain. Who shows clearly his temperament?
-
-
 _Father Felician's Rebuke._
-
 Lesson IX, Lines 460-486.
-
-
 (To me, this selection is one of the finest in the poem. It is a fine
 tribute to _character_. We have in this and the preceding lesson two
 pictures in marked contrast. Recall the effects the Mandate must have had
@@ -2511,7 +1769,6 @@ order. Think of the homes made by long years of patient toil, the familiar
 and much loved scenes--all that made life dear--must be left behind and life
 begun anew amid strange scenes and among strange people. What utter despair
 must have possessed them.)
-
 What scene of wild passion Father Felician met when he opened the church
 door! Could force have quieted this mob? Could they have been _made_ quiet?
 Then Father Felician enters, raises his hand and stillness reigns. What
@@ -2522,28 +1779,16 @@ Was it a great thing that the people could say from their hearts "O Father,
 Forgive Them"? Who said it before this? The evening service is held
 and quiet after the storm. How were their souls translated? What is the
 reference to Elijah?
-
-
 _Evangeline's Service. Shadows._
-
 Lesson X, Lines 487-523.
-
-
 What change here introduced? Why should it come in here? Any reason except
 a continuation of the story? (A well written play or story has a careful
 mixture of pathos and humor. Explain and apply.) Note lines 499-501. What
 was the source of Evangeline's great strength of character? Who was the
 prophet? Has the reference to the Angelus any suggestive sadness? Why graves
 of the living? Why did the thunder speak to her? What did it suggest?
-
-
-SEC. V.
-
 _Gathering on the Beach._
-
 Lesson XI, lines 524-590.
-
-
 How long were they in the church? What was the attitude of the Acadians?
 What happens similarly in nature? What characteristic of woman is shown in
 lines 553-567? Compare Evangeline, Gabriel and Benedict at this point. Did
@@ -2551,13 +1796,8 @@ Evangeline meet her father and Gabriel in different ways? Why? Did she
 show wisdom in so doing? What turning point now comes? Imagine a different
 circumstance--how would it affect the remainder of the story? Picture the
 village. Why refer to the waifs of the tide?
-
-
 _The Camp. Burning Village._
-
 Lesson XII, Lines 591-635.
-
-
 Picture the camp. Why refer to Paul? What was the condition of Benedict?
 What disposition did he show in this trouble? Do you suppose Basil was
 affected in the same way? How do an oak and a willow take a storm? Which
@@ -2565,28 +1805,14 @@ is the better way? Who was the oak and who the willow? What does Father
 Felician do? Does he show discernment? Explain 612-615. How many and what
 distinct pictures do you find in the lesson? Write lines 613-620 in your own
 words and compare.
-
-
 _Death. Separation._
-
 Lesson XIII, Lines 636-665.
-
-
 What was the effect of the fire on Benedict? The effect of her father's
 death on Evangeline? What does "without bell or book" mean? What of
 nature seemed in harmony with the occasion? What two great sorrows came to
 Evangeline so closely? Review closing incidents and Part One.
-
-
-EVANGELINE--PART II.
-
-SEC. I.
-
 _Landing. Search Begun._
-
 Lesson XIV, Lines 666-705.
-
-
 How long time has elapsed since the embarking? What were the Acadian's
 Household Gods? Why was the exile without an end? Why should the author use
 this comparison about their scattering? Explain fully about the seizing of
@@ -2594,28 +1820,15 @@ the hills. What was the attitude of many Acadians? Of Evangeline? What is
 the desert of life? Why so called? What makes life a desert? Explain fully
 lines 683-687. What was there singular about Evangeline's life? What effect
 had this on her life? What was the inarticulate whisper that came to her?
-
-
 _Pressing On._
-
 Lesson XV, Lines 706-740.
-
-
 What is a voyageur? What was Evangeline advised to do by her friends?
 Should she have followed their advice? Give reason. What was it to braid St.
 Catherine's tresses? What do you think of Evangeline's reply? Learn lines
-720-727. Explain. What was the funeral dirge which she heard What was the
 voice that replied? What is the Muse? Who appeals to it? How is it to be
 followed?
-
-
-SEC. II.
-
 _On the River. Forebodings._
-
 Lesson XVI, Lines 741-789.
-
-
 Has the author followed the wanderer's footsteps in Sec. I, Part II? Locate
 scene pictured in lines 741-745. How were these people bound together? How
 strongly? Picture the scene in lines 757-765 clearly. Why Golden Coast?
@@ -2625,13 +1838,8 @@ in lines 763-767. How did the exiles feel this night? What about the mimosa?
 What are the hoof-beats of fate? What effect have the hoof-beats? Was
 Evangeline in the same mood as the others? Read to line 863, and then
 consider carefully the scene and events to line 790. Study with care.
-
-
 _Night on the River. The Passing._
-
 Lesson XVII, Lines 790-841.
-
-
 Explain lines 790-794 and lines 798-799. Why do you suppose the bugle was
 not heard? What if it was? Why did they row at midnight? Why does the author
 bring in something weird again as in line 805? Note change from night with
@@ -2642,13 +1850,8 @@ north? What was the last we heard of Gabriel? What changes had occurred in
 his appearance? How did he take his lot and disappointment? How different
 from Evangeline? Does the account of the passing seem reasonable? Are such
 occurrences common in general life?
-
-
 _Evangeline's Dream. Arrival._
-
 Lesson XVIII, Lines 842-887.
-
-
 Does it seem reasonable that Evangeline felt Gabriel was near? Explain and
 learn lines 852-4. Explain 858. Why Eden of Louisiana? Has Father Felician
 given up to despair on any occasion? What kept him from despairing? Had he
@@ -2658,15 +1861,8 @@ a condition of mind? Where? Find like treatment in this section. The mocking
 bird here reminds one of what bird in another scene? Does each seem an
 appropriate part of the picture? What was the prelude? Why were their hearts
 moved with emotion?
-
-
-SEC. III.
-
 _Meeting Basil. Disappointment._
-
 Lesson XIX, Lines 888-958.
-
-
 Find subject and predicate of first sentence. Describe house and
 surroundings. Would flowers grow thus in Acadia? What was love's symbol? Why
 sea of flowers? Explain 904-910. Why surf? Contrast Basil's home in Grand
@@ -2675,13 +1871,8 @@ news about Gabriel a good one? Why should she be deeply disappointed? Did
 Gabriel bear his disappointment as did Evangeline? What was the result of
 Evangeline's longing? Of Gabriel's? Why a fugitive lover? Why fates and
 streams against him? What did Basil mean line 958?
-
-
 _Re-union and Feast._
-
 Lesson XX, Lines 959-1020.
-
-
 Note here change of scene. Is it from pathos to humor or from humor to
 pathos? What do you gather from lines 959-960 and 964-965? From 961-2? Why
 should they marvel? Compare conditions of life in Acadia and in Louisiana.
@@ -2689,13 +1880,8 @@ What familiar fact does Basil show, line 982? Why refer to King George? Note
 the very attractive picture Basil draws--almost a picture of Eden. Was
 there an _if_ about it, a final word that quite changed the shading of the
 picture? Is it usually thus? Were the Acadians naturally light-hearted?
-
-
 _Despair. Hope. On Again._
-
 Lesson XXI, Lines 1021-1077.
-
-
 What effect had this scene on Evangeline? Why should she hear the sounds
 of the sea? Why desire to leave the merriment? Explain 1028-1038. Stars
 are here spoken of as God's thoughts--what else has the author called them?
@@ -2705,15 +1891,8 @@ Explain 1059-1061. Who were going in quest of Gabriel? Explain references of
 "Prodigal Son" and "Foolish Virgin" and apply. How was Gabriel blown by
 fate like the dead leaf? How long before they found traces of Gabriel? What
 traces? What news finally? Where were they now?
-
-
-SEC. IV.
-
 _The Great West. The Shawnee. Confidences._
-
 Lesson XXII, lines 1078-1164.
-
-
 What are amorphas? Why describe thus this territory? Who were Ishmael's
 children? Why bring out clearly the many dangers to be encountered here?
 What is Fata Morgana? Who was the anchorite monk? Why taciturn? How could
@@ -2725,26 +1904,16 @@ Shawnee's stories appropriate? Were they comforting or disheartening? What
 was the snake that crept into Evangeline's thoughts? Was it lasting?
 What would naturally dispell it? Are people more brave at night or in the
 morning? More cheerful when? Why?
-
-
 _At the Mission. Waiting._
-
 Lesson XXIII, Lines 1165-1205.
-
-
 Why Black Robe Chief? Why expect good tidings at the Mission? What is a
 rural chapel? What were vespers and sussuras? What was the cause of the
 priest's pleasure? Look up Jesuit work in North America. Why were the
 priest's words like snow flakes to Evangeline? How did Evangeline receive
 the news? Why should she desire to remain at the Mission rather than return
 to Basil's home? Was there an unselfish purpose in her remaining?
-
-
 _A Long Search. Age._
-
 Lesson XXIV, Lines 1206-1291.
-
-
 How long did Evangeline remain at the Mission? What old custom referred
 to in lines 1212-1214? What do you know of old husking bees? Who urged
 patience? The compass flower illustrates what truth? Why is life in a
@@ -2753,15 +1922,8 @@ luxuriant flower? By the humble plant? Evangeline leaves the Mission to
 seek Gabriel where? Result? How did she spend the following years? Would you
 think from the text here her life was wholly given to the thought of Gabriel
 and to search for him? Why? What was the dawn of another life?
-
-
-SEC. V.
-
 _Devotion._
-
 Lesson XXV, Lines 1252-1297.
-
-
 Why was Penn an apostle? What city did he found? How do the streets echo the
 names of the forest? Who are the Dryads? Why did she feel at home here? Does
 she finally give up hope? Explain lines 1270-1275. What made the world look
@@ -2774,13 +1936,8 @@ She shows what quality 1291-1293? What is a Sister of Mercy? Why had she
 not joined the Order before? Had she in a true sense been a sister of mercy
 before joining the Order? Do you think she regretted the long struggle that
 fitted her so well for this work?
-
-
 _The Pestilence._
-
 Lesson XXVI, Lines 1298-1342.
-
-
 How did death flood life? What made the lake brackish? Why silver stream?
 What is the usual cause of a pestilence? Why call it a scourge of his anger?
 Where was the almshouse? Where is the spot now? This was an opportunity for
@@ -2789,13 +1946,8 @@ we _are_ written in our faces? What morning did she visit the almshouse?
 In what season? Had she a premonition that her quest was ended? Are
 premonitions common? What was the effect of this feeling upon her? Why was
 death a consoler?
-
-
 _The Meeting._
-
 Lesson XXVII, Lines 1343-1400.
-
-
 White expecting something, was Evangeline prepared for the meeting? How
 did it affect her? How did Gabriel appear? What was the cause? What is the
 reference about sprinkling the portals? What was Gabriel's condition? What
@@ -2804,725 +1956,37 @@ realize she was with him? What came to his mind? Did he finally recognize
 Evangeline? Was this recognition a blessing for her? What effect had this
 meeting upon her? How did she express it? Where are the lovers supposed to
 be now? Do you think Evangeline's life ended here?
-
 Scene shifts to where? What has occurred? Does the author state that those
 old scenes of Acadian life can now be seen? Where? In lines 1399-1400 is
 there any suggestion as to this story?
-
 Note.--It would be well at the conclusion of this study to spend one or two
 periods in going over the story as a whole that the poem, in its general
 outline, may be better retained in the pupil's mind.
-
-
-
-
-COMPOSITION SUBJECTS.
-
-  1. Acadian Life. (Contrast with present.)
-  2. The Notary.
-  3. Character of Gabriel.
-  4. Character of Evangeline.
-  5. The Betrothal Feast.
-  6. The Scene on the Shore.
-  7. On the River. (Compare mode of traveling with present ones by
-     land and water.)
-  8. Home of Basil. (Contrast with the home in Acadia.)
-  9. The Mission.
-  10. The Search and its Reward.
-
-  Select the lines that appeal to you most.
-  Select the lines that show the most beautiful sentiment.
-  Select the lines that contain the best pictures.
-
-
-
-
-PART III.
-
-SPELLING AND DEFINING.
-
-
+land and water.)
+Select the lines that appeal to you most.
+Select the lines that show the most beautiful sentiment.
+Select the lines that contain the best pictures.
 The work of spelling and defining may be carried on with the study of the
 text of the poem, or at the conclusion of this study. In the former case
 allow a week or more to pass after using a selection as a Reading lesson
 before studying it as a Spelling lesson, that the reading may not degenerate
 into a word-study.
-
 The words selected are those which should form a part of the pupil's
 vocabulary. The fact that the context largely determines the meaning of
 a word should be made clear in this study, and the particular meaning the
 author employs in the poem should be required. The pupil's discrimination
 will at first be poor, but he soon develops considerable skill and judgment.
-
-
-I
-
-  1. primeval
-  2. Druids
-  3. eld
-  4. prophetic
-  5. hoar
-  6. caverns
-  7. disconsolate
-  8. roe
-  9. glided
-  10. reflecting
-  11. adopt
-  12. tradition
-  13. affliction
-  14. endures
-  15. patient
-
-
-II
-
-  1. incessant
-  2. floodgates
-  3. reposed
-  4. peasants
-  5. thatched
-  6. tranquil
-  7. vanes
-  8. distaffs
-  9. gossiping
-  10. reverend
-  11. hailing
-  12. serenely
-  13. belfry
-  14. incense
-  15. contentment
-
-
-III
-
-  1. stalworth
-  2. stately
-  3. gleamed
-  4. tresses
-  5. sooth
-  6. turret
-  7. hyssop
-  8. chaplet
-  9. missal
-  10. generations
-  11. ethereal
-  12. confession
-  13. benediction
-  14. exquisite
-  15. envy
-
-
-IV
-
-  1. antique
-  2. penitent
-  3. odorous
-  4. meek
-  5. innocent
-  6. variant
-  7. devotion
-  8. craft
-  9. repute
-  10. pedagogue
-  11. autumnal
-  12. expired
-  13. populous
-  14. wondrous
-  15. valiant
-
-
-V
-
-  1. desolate
-  2. tropical
-  3. inclement
-  4. mantles
-  5. hoarded
-  6. advent
-  7. pious
-  8. magical
-  9. landscape
-  10. consoled
-  11. blended
-  12. subdued
-  13. arrayed
-  14. adorned
-  15. surmises
-
-
-VI
-
-  1. instinct
-  2. superbly
-  3. ponderous
-  4. gestures
-  5. fantastic
-  6. fragments
-  7. carols
-  8. treadles
-  9. diligent
-  10. monotonous
-  11. jovial
-  12. content
-  13. accustomed
-  14. forebodings
-  15. mandate
-
-
-VII
-
-  1. untimely
-  2. blighted
-  3. bursting
-  4. lurk
-  5. outskirts
-  6. anxious
-  7. dubious
-  8. scythe
-  9. besieged
-  10. contract (_n._)
-  11. glebe
-  12. inkhorn
-  13. rejoice
-  14. worthy
-  15. notary
-
-
-VIII
-
-  1. floss
-  2. wisdom
-  3. supernal
-  4. languished
-  5. warier
-  6. ripe
-  7. unchristened
-  8. doomed
-  9. haunt
-  10. marvellous
-  11. lore
-  12. demeanor
-  13. molest
-  14. irascible
-  15. triumphs
-
-
-IX
-
-  1. brazen
-  2. emblem
-  3. presided
-  4. corrupted
-  5. oppressed
-  6. condemned
-  7. convinced
-  8. congealed
-  9. tankard
-  10. dower
-  11. contention
-  12. manoeuvre
-  13. pallid
-  14. infinite
-  15. breach
-
-
-X
-
-  1. anon
-  2. curfew
-  3. straightway
-  4. lingered
-  5. reigned
-  6. resounded
-  7. luminous
-  8. ample
-  9. spacious
-  10. dower
-  11. mellow
-  12. tremulous
-  13. serenely
-  14. flitted
-  15. Abraham
-
-
-XI
-
-  1. clamorous
-  2. hamlets
-  3. holiday
-  4. blithe
-  5. jocund
-  6. greensward
-  7. thronged
-  8. hospitality
-  9. betrothal
-  10. waistcoats
-  11. alternately
-  12. embers
-  13. vibrant
-  14. mingled
-  15. noblest
-
-
-XII
-
-  1. sonorous
-  2. garlands
-  3. sacred
-  4. dissonant
-  5. clangor
-  6. convened
-  7. clement
-  8. grievous
-  9. forfeited
-  10. transported
-  11. wail
-  12. imprecations
-  13. distorted
-  14. allegiance
-  15. merciless
-
-
-XIII
-
-  1. chancel
-  2. mien
-  3. awed
-  4. clamorous
-  5. solemn
-  6. accents
-  7. vigils
-  8. profane
-  9. compassion
-  10. assail
-  11. rebuke
-  12. contrition
-  13. fervent
-  14. translated
-  15. ardor
-
-
-XIV
-
-  1. mysterious
-  2. splendor
-  3. emblazoned
-  4. ambrosial
-  5. celestial
-  6. charity
-  7. emotion
-  8. meekness
-  9. gloomier
-  10. tenantless
-  11. haunted
-  12. phantoms
-  13. echoed
-  14. disconsolate
-  15. keenly
-
-
-XV
-
-  1. confusion
-  2. thither
-  3. thronged
-  4. imprisoned
-  5. wayworn
-  6. foremost
-  7. inexhaustible
-  8. sacred
-  9. strength
-  10. submission
-  11. affliction
-  12. procession
-  13. approached
-  14. wayside
-  15. mischances
-
-
-XVI
-
-  1. consoling
-  2. haggard
-  3. caresses
-  4. unperturbed
-  5. mortals
-  6. Titan-like
-  7. quivering
-  8. martyr
-  9. dismay
-  10. anguish
-  11. dawned
-  12. skirt (_v._)
-  13. aspect
-  14. affrighted
-  15. nethermost
-
-
-XVII
-
-  1. overwhelmed
-  2. terror
-  3. wailed
-  4. sultry
-  5. bleak
-  6. despairing
-  7. extended
-  8. desert
-  9. extinguished
-  10. consumed
-  11. incomplete
-  12. lingered
-  13. rumor
-  14. hearsay
-  15. inarticulate
-
-
-XVIII
-
-  1. freighted
-  2. exile
-  3. asunder
-  4. swoon
-  5. oblivious
-  6. trance
-  7. multitude
-  8. pallid
-  9. compassion
-  10. landscape
-  11. senses
-  12. sacred
-  13. glare
-  14. dirges
-  15. embarking
-
-
-XIX
-
-  1. voyageur
-  2. loyal
-  3. tedious
-  4. tresses
-  5. serenely
-  6. illumines
-  7. confession
-  8. enrich
-  9. refreshments
-  10. endurance
-  11. perfected
-  12. rendered
-  13. labored
-  14. despair
-  15. essay (_v._)
-
-
-XX
-
-  1. cumbrous
-  2. kith
-  3. kin
-  4. few-acred
-  5. sombre
-  6. turbulent
-  7. chutes
-  8. emerged
-  9. lagoons
-  10. wimpling
-  11. luxuriant
-  12. perpetual
-  13. citron
-  14. bayou
-  15. sluggish
-
-
-XXI
-
-  1. corridors
-  2. multitudinous
-  3. reverberant
-  4. mysterious
-  5. grim
-  6. myriads
-  7. resplendent
-  8. sylvan
-  9. suspended
-  10. moored
-  11. travelers
-  12. extended
-  13. pendulous
-  14. flitted
-  15. regions
-
-
-XXII
-
-  1. countenance
-  2. legibly
-  3. oblivion
-  4. screen
-  5. trance
-  6. vague
-  7. superstition
-  8. revealed
-  9. credulous
-  10. reverend
-  11. idle
-  12. buoy
-  13. betrays
-  14. illusions
-  15. Eden
-
-
-XXIII
-
-  1. magician
-  2. wand
-  3. landscape
-  4. mingled
-  5. inexpressible
-  6. delirious
-  7. plaintive
-  8. roaring
-  9. revel
-  10. frenzied
-  11. Bacchantes
-  12. lamentation
-  13. derision
-  14. prelude
-  15. amber
-
-
-XXIV
-
-  1. garlands
-  2. mystic
-  3. flaunted
-  4. Yule-tide
-  5. girded
-  6. luxuriant
-  7. spacious
-  8. symbol
-  9. limitless
-  10. cordage
-  11. arrayed
-  12. adverse
-  13. vent
-  14. misgivings
-  15. embarrassed
-
-
-XXV
-
-  1. mortals
-  2. renowned
-  3. triumphal
-  4. enraptured
-  5. hilarious
-  6. marvelled
-  7. ci-devant
-  8. domains
-  9. patriarchal
-  10. dispensed
-  11. profusion
-  12. congeals
-  13. ploughshare
-  14. accordant
-  15. melodious
-
-
-XXVI
-
-  1. entranced
-  2. irrepressible
-  3. devious
-  4. manifold
-  5. Carthusian
-  6. inundate
-  7. indefinable
-  8. measureless
-  9. marvel
-  10. comet
-  11. oracular
-  12. annointed
-  13. delicious
-  14. fasting
-  15. famine
-
-
-XXVII
-
-  1. perpetual
-  2. jagged
-  3. gorge
-  4. emigrant
-  5. precipitate
-  6. ceaseless
-  7. vibrations
-  8. amorphas
-  9. blast
-  10. blight
-  11. pinions
-  12. implacable
-  13. scaling
-  14. taciturn
-  15. anchorite
-
-
-XXIII
-
-  1. venison
-  2. companions
-  3. swarthy
-  4. reverses
-  5. compassion
-  6. mute
-  7. dissolving
-  8. weird
-  9. incantation
-  10. phantom
-  11. enchanted
-  12. enchantress
-  13. sombre
-  14. audible
-  15. indefinite
-
-
-XXIX
-
-  1. towering
-  2. crucifix
-  3. rural
-  4. chapel
-  5. intricate
-  6. aerial
-  7. vespers
-  8. swarded
-  9. benignant
-  10. wigwam
-  11. mother-tongue
-  12. chase (_n._)
-  13. submissive
-  14. afflicted
-  15. betimes
-
-
-XXX
-
-  1. interlacing
-  2. mendicant
-  3. granaries
-  4. pillage
-  5. vigorous
-  6. magnet
-  7. suspended
-  8. fragile
-  9. limitless
-  10. luxuriant
-  11. fragrance
-  12. hue
-  13. perilous
-  14. divers
-  15. dawn
-
-
-XXXI
-
-  1. sylvan
-  2. apostle
-  3. balm
-  4. emblem
-  5. fain
-  6. appease
-  7. haunts
-  8. molested
-  9. descendants
-  10. hamlets
-  11. illumined
-  12. transfigured
-  13. abnegation
-  14. diffused
-  15. aroma
-
-
-XXXIII
-
-  1. pestilence
-  2. presaged
-  3. naught
-  4. brackish
-  5. margin
-  6. oppressor
-  7. scourge
-  8. splendor
-  9. wending
-  10. corridors
-  11. intermingled
-  12. assiduous
-  13. pallets
-  14. languid
-  15. consolor
-
-
-XXXIV
-
-  1. flowerets
-  2. terrible
-  3. anguish
-  4. assume
-  5. portals
-  6. exhausted
-  7. infinite
-  8. reverberations
-  9. sylvan
-  10. vanished
-  11. vainly
-  12. humble
-  13. ebbing
-  14. throbbing
-  15. customs
-
-
-
 Transcriber's notes:
-
-1. The poem has been compared with another version already on Gutenberg--
 (vngln10). Where the two disagreed, this text was carefully re-checked to
 ensure the text and punctuation matched those on the scanned image.
-
-2. The following apparent errors in the source text were corrected:
-
 Poem Line 73 'bessings' changed to blessings. 346 'manoeuvre': the oe
 ligature was split. 668 'goods' changed to Gods. 692 full stop added to line
 end. 718 'father-confessor': hyphen added. 840 'their' changed to there. 850
 'reverened' changed to reverend. 909 'spar' changed to spars. 909 'tropcis'
 changed to tropics. 1083 'rivre' changed to river. 1256 'reecho' changed to
 re-echo.
-
-2. Line 713 has been copied and inserted from vgln10. This was missing in
 the book, but was referenced in the notes; the line numbering also showed a
 missing line between 710 and 715.
-
-3. No other (deliberate) changes have made to the poem. There remain a
 number of minor word and punctuation differences between this and vngln10.
-
-4. Special characters.
-
 A number of characters used in the notes to describe pronunciation do not
 exist in ASCII. The following conventions have been used to represent them:
-
-[=a] 'a' + Macron; ('a' with a horizontal line above).
-[=o] 'o' + Macron; ('o' with a horizontal line above).
-[=e] 'e' + Macron; ('e' with a horizontal line above).
-
-[)a] 'a' with a curved line above - like horns.
-[)e] 'e' with a curved line above - like horns.
-
-[.a] 'a' with a single dot above
-
-
-
-
-
-
-End of Project Gutenberg's Evangeline, by Henry Wadsworth Longfellow
-
