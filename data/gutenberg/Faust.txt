@@ -1,15 +1,8 @@
-Produced by Juliet Sutherland, Chuck Greif and the PG Online Distributed
-Proofreading Team
 _by_
 _Johann Wolfgang von Goethe_
 _Harry Clarke_
 _Bayard Taylor_
 _An Illustrated Edition_
-SCENE I. NIGHT (_Faust's Monologue_)
-III. THE STUDY (_The Exorcism_)
-IV. THE STUDY (_The Compact_)
-XVIII. DONJON (_Margaret's Prayer_)
-XIX. NIGHT (_Valentine's Death_)
 It is twenty years since I first determined to attempt the translation
 of _Faust_, in the original metres. At that time, although more than a
 score of English translations of the First Part, and three or four of
@@ -51,9 +44,7 @@ considered. No poet ever understood this question more thoroughly than
 Goethe himself, or expressed a more positive opinion in regard to it.
 The alternative modes of translation which he presents (reported by
 Riemer, quoted by Mrs. Austin, in her "Characteristics of Goethe," and
-accepted by Mr. Hayward),[A] are quite independent of his views
 concerning the value of form, which we find given elsewhere, in the
-clearest and most emphatic manner.[B] Poetry is not simply a fashion of
 expression: it is the form of expression absolutely required by a
 certain class of ideas. Poetry, indeed, may be distinguished from Prose
 by the single circumstance, that it is the utterance of whatever in man
@@ -64,7 +55,6 @@ meaning. In Poetry which endures through its own inherent vitality,
 there is no forced union of these two elements. They are as intimately
 blended, and with the same mysterious beauty, as the sexes in the
 ancient Hermaphroditus. To attempt to represent Poetry in Prose, is very
-much like attempting to translate music into speech.[C]
 that the author, of a foreign nation, be brought to us in such a manner
 that we may regard him as our own; the other, on the contrary, demands
 of us that we transport ourselves over to him, and adopt his situation,
@@ -108,7 +98,6 @@ Ovid's Epistles," and I do not wish to continue the endless
 discussion,--especially as our literature needs examples, not opinions.
 A recent expression, however, carries with it so much authority, that I
 feel bound to present some considerations which the accomplished scholar
-seems to have overlooked. Mr. Lewes[D] justly says: "The effect of
 poetry is a compound of music and suggestion; this music and this
 suggestion are intermingled in words, which to alter is to alter the
 effect. For words in poetry are not, as in prose, simple representatives
@@ -129,11 +118,9 @@ him, he receives, also, a portion of the same creative power. Mr. Lewes
 reaches this conclusion: "If, therefore, we reflect what a poem _Faust_
 is, and that it contains almost every variety of style and metre, it
 will be tolerably evident that no one unacquainted with the original can
-form an adequate idea of it from translation,"[E] which is certainly
 correct of any translation wherein something of the rhythmical variety
 and beauty of the original is not retained. That very much of the
 rhythmical character may be retained in English, was long ago shown by
-Mr. Carlyle,[F] in the passages which he translated, both literally and
 rhythmically, from the _Helena_ (Part Second). In fact, we have so many
 instances of the possibility of reciprocally transferring the finest
 qualities of English and German poetry, that there is no sufficient
@@ -142,7 +129,6 @@ such subtile and melodious lyrics as "The Castle by the Sea," of Uhland,
 and the "Silent Land" of Salis, translated by Mr. Longfellow; Goethe's
 "Minstrel" and "Coptic Song," by Dr. Hedge; Heine's "Two Grenadiers," by
 Dr. Furness and many of Heine's songs by Mr Leland; and also to the
-German translations of English lyrics, by Freiligrath and Strodtmann.[G]
 perhaps best succeed who should first read Dr. Anster's brilliant
 paraphrase, and then carefully go through Hayward's prose translation."
 This is singularly at variance with the view he has just expressed. Dr.
@@ -164,10 +150,8 @@ prose translation. Where all the restraints of verse are flung aside, we
 should expect, at least, as accurate a reproduction of the sense,
 spirit, and tone of the original, as the genius of our language will
 permit. So far from having given us such a reproduction, Mr. Hayward not
-only occasionally mistakes the exact meaning of the German text,[H] but,
 wherever two phrases may be used to express the meaning with equal
 fidelity, he very frequently selects that which has the less grace,
-strength, or beauty.[I]
 Menge_, "My song sounds to the unknown multitude," is translated: "My
 _sorrow_ voices itself to the strange throng." Other English
 translators, I notice, have followed Mr. Hayward in mistaking _Lied_ for
@@ -229,7 +213,6 @@ new metres and unaccustomed forms of expression: there are critical
 detectives on the track of every author, and a violation of the accepted
 canons is followed by a summons to judgment. Thus the tendency is to
 contract rather than to expand the acknowledged excellences of the
-language.[J]
 Jacob Grimm: "No one of all the modern languages has acquired a greater
 force and strength than the English, through the derangement and
 relinquishment of its ancient laws of sound. The unteachable
@@ -300,7 +283,6 @@ have balanced the omission by giving rhymes to other lines which stand
 unrhymed in the original text. For the same reason, I make no apology
 for the imperfect rhymes, which are frequently a translation as well as
 a necessity. With all its supreme qualities, _Faust_ is far from being a
-technically perfect work.[K]
 gentlemen begin to wrangle whether in a rhyme an _s_ should correspond
 with an _s_ and not with _sz_. If I were young and reckless enough, I
 would purposely offend all such technical caprices: I would use
@@ -3087,7 +3069,6 @@ A gift for her I bid thee get!
 Presents at once? That's good: he's certain to get at her!
 Full many a pleasant place I know,
 And treasures, buried long ago:
-I must, perforce, look up the matter. _[Exit_.
 (_plaiting and binding up the braids of her hair_)
 I'd something give, could I but say
 Who was that gentleman, to-day.
@@ -3171,7 +3152,6 @@ And you look as though
 To the lecture-hall you were forced to go,--
 As if stood before you, gray and loath,
 Physics and Metaphysics both!
-But away! [_Exeunt_.
 MARGARET (_with a lamp_)
 It is so close, so sultry, here!
 (_She opens the window_)
@@ -3712,7 +3692,6 @@ A man can think and know so much?
 I stand ashamed and in amaze,
 And answer "Yes" to all he says,
 A poor, unknowing child! and he--
-I can't think what he finds in me! [_Exit_.
 FAUST (_solus_)
 Spirit sublime, thou gav'st me, gav'st me all
 For which I prayed. Not unto me in vain
@@ -4033,7 +4012,6 @@ Ah, dearest man, if but thy face I see,
 I know not what compels me to thy will:
 So much have I already done for thee,
 That scarcely more is left me to fulfil.
-(_Enter_ MEPHISTOPHELES.) [_Exit_.
 The monkey! Is she gone?
 Hast played the spy again?
 I've heard, most fully, how she drew thee.
@@ -5219,7 +5197,6 @@ Be quick! Be quick!
 Save thy perishing child!
 Away! Follow the ridge
 Up by the brook,
-Death lying in wait, then come=_!]
 Over the bridge,
 Into the wood,
 To the left, where the plank is placed

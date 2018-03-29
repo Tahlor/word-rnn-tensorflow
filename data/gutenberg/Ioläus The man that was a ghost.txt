@@ -1,10 +1,5 @@
-Produced by Mark C. Orton, Branko Collin and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 IOLAeUS
 A SON OF CAIN: POEMS. Cr. 8vo. 3/6 net.
-IN THE WAKE OF THE PH[OE]NIX: POEMS. F'cap. 8vo. 3/6 net.
 IOLAeUS:
 To A.R.
 We range the ringing slopes of life; but you
@@ -29,15 +24,7 @@ _Stocka House,
 Cottingley,
 Bingley._
 Title Poem:              Page
-Iolaeus                   13
 Sonnets:
-The Return               67
-The Soul and the Sea     69
-Nations Estranged        71
-The Passing-Bell         73
-Condemned                75
-To America. I.           77
-To Italy. I.             81
 IOLAeUS:
 Gold light across the golden coomb;
 The sun went west with horns of fire;
@@ -157,7 +144,6 @@ We shared the dream that never dies.
 Our hearts were hushed with vague desire;
 We breathed in kingdoms wildly new,
 Enthralled by Memnon's mystic lyre
-In regions whence the Ph[oe]nix flew;
 Dumb splendour round us blown, and higher
 On heaven's deep dome--the peacock's hue,
 Bright flakes of crimsoning fire!
@@ -1063,8 +1049,6 @@ either way.
 - Page 86: Corrected "endevours" to "endeavours."
 - Page 87: Normalized "Literary World" to "Literary World." (i.e.
 included a full-stop).
-- In the TXT version, the oe-ligature has been transcribed as [OE]
-(capital) or [oe] (small letters)
 - Page numbers have been retained in the HTML version as (invisible)
 A elements--use View Source or the equivalent function of your web
 browser to view them.

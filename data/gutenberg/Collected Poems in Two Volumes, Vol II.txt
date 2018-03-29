@@ -1,9 +1,4 @@
-Produced by Charles Aldarondo, Leonard Johnson and the
-Online Distributed Proofreading Team at http://www.pgdp.net
 _Majores majora sonent_
-_Copyright, 1895,_
-*       *       *       *       *
-_All rights reserved._
 University Press:
 _"For old sake's sake!" 'Twere hard to choose_
 _Words fitter for an old-world Muse_
@@ -24,95 +19,7 @@ _For old sake's sake!_
 _De son age a tout le malheur._"
 Voltaire.
 Page
-The Ladies of St. James's                        3
-The Old Sedan Chair                              6
-To an Intrusive Butterfly                        9
-The Cure's Progress                             11
-The Masque of the Months                        13
-Two Sermons                                     17
-"Au Revoir"                                     19
-The Carver and the Caliph                       26
-To an Unknown Bust in the British Museum        29
-Molly Trefusis                                  32
-At the Convent Gate                             36
-The Milkmaid                                    38
-An Old Fish-Pond                                40
-An Eastern Apologue                             43
-To a Missal of the Thirteenth Century           45
-A Revolutionary Relic                           48
-A Madrigal                                      54
-A Song to the Lute                              56
-A Garden Song                                   58
-A Chapter of Froissart                          60
-To the Mammoth Tortoise                         64
-A Roman "Round-Robin"                           66
-Verses to Order                                 68
-A Legacy                                        70
-"Little Blue Ribbons"                           72
-Lines to a Stupid Picture                       74
-A Fairy Tale                                    76
-To a Child                                      78
-Household Art                                   80
-The Distressed Poet                             81
-Jocosa Lyra                                     83
-My Books                                        85
-The Book-Plate's Petition                       87
-Palomydes                                       89
-Andre le Chapelain                              91
-The Water of Gold                               95
-A Fancy from Fontenelle                         97
-Don Quixote                                     98
-A Broken Sword                                  99
-The Poet's Seat                                101
-The Lost Elixir                                104
-A Dialogue (Alexander Pope)                    107
-A Familiar Epistle (William Hogarth)           112
-Henry Fielding                                 115
-Henry Wadsworth Longfellow                     119
-Charles George Gordon                          120
-Victor Hugo                                    121
-Alfred, Lord Tennyson                          122
-The Poet and the Critics                       127
-The Toyman                                     130
-The Successful Author                          133
-The Dilettant                                  136
-The Two Painters                               138
-The Claims of the Muse                         140
-The 'Squire at Vauxhall                        144
-The Climacteric                                149
-The Virgin with the Bells                      155
-A Tale of Polypheme                            159
-A Story from a Dictionary                      170
-The Water Cure                                 178
-The Noble Patron                               184
-Incognita                                      193
-Dora _versus_ Rose                             197
-Ad Rosam                                       200
-Outward Bound                                  205
-In the Royal Academy                           208
-The Last Despatch                              213
-"Premiers Amours"                              216
-The Screen in the Lumber Room                  219
-Daisy's Valentines                             221
-In Town                                        224
-A Sonnet in Dialogue                           227
-Growing Gray                                   229
-The Maltworm's Madrigal                        233
-An April Pastoral                              236
-A New Song of the Spring Gardens               237
-A Love Song, 1700                              239
-Of his Mistress                                240
-The Nameless Charm                             242
-To Phidyle                                     243
-To his Book                                    244
-For a Copy of Herrick                          246
-With a Volume of Verse                         247
-For the Avery "Knickerbocker"                  248
-To a Pastoral Poet                             250
-"Sat est Scripsisse"                           251
 Prologue and Envoi to Abbey's Edition of
-"She Stoops to Conquer"                      257
-Prologue and Epilogue to Abbey's "Quiet Life"  264
 _"At the Sign of the Lyre,"_
 _Good Folk, we present you_
 _With the pick of our quire,_
@@ -408,7 +315,6 @@ Your note?...
 _Your_ note.
 Forgive me.--Nay.
 (_Reads_)
-"_If Madame_ [I omit] _will be_
 _Beside the Fountain-rail at Three,_
 _Then Madame--possibly--may hear_
 _News of her Spaniel._ JOLICOEUR."
@@ -780,7 +686,6 @@ Look down. What groves that scarcely sway!
 What "wood obscure," profound!
 What jungle!--where some beast of prey
 Might choose his vantage-ground!
-*       *       *       *       *
 Who knows what lurks beneath the tide?--
 Who knows what tale? Belike,
 Those "antres vast" and shadows hide
@@ -801,7 +706,6 @@ When the pond's terror too must go;
 Or creeping in by stealth,
 Some bolder brood, with common blow,
 Shall found a Commonwealth.
-*       *       *       *       *
 Or say,--perchance the liker this!--
 That these themselves are gone;
 That Amurath _in minimis_,--
@@ -814,7 +718,6 @@ The blot that makes the cosmic All
 A mere time-honoured cheat;--
 That bids the Great to eat the Small,
 Yet lack the Small to eat!
-*       *       *       *       *
 Who knows! Meanwhile the mosses bead
 Around the granite brink;
 And 'twixt the isles of water-weed
@@ -942,7 +845,6 @@ Red on wrist and cheek and hair,--
 Sought the page where love first lighting,
 Fixed their fate, and, in this writing,
 Fixed the record of it there.
-*       *       *       *       *
 Did they marry midst the smother,
 Shame and slaughter of it all?
 Did she wander like that other
@@ -979,7 +881,6 @@ And its touch of truth shall save it,
 And its tender rain shall lave it,
 For at least you read _Amavit_,
 Written there in tears of blood.
-*       *       *       *       *
 Did they hunt him to his hiding,
 Tracking traces in the snow?
 Did they tempt him out, confiding,
@@ -995,7 +896,6 @@ These few words the covers bear,
 Some swift rush of pity blinding,
 Sent them in the shot-pierced binding
 "_A Lucile, en Angleterre_."
-*       *       *       *       *
 Fancies only! Nought the covers,
 Nothing more the leaves reveal,
 Yet I love it for its lovers,
@@ -1173,7 +1073,6 @@ Till, dinned by that tremendous strain,
 The grovelling world aghast,
 Should leave its paltry greed of gain,
 And mend its ways ... at last!
-"_Haec decies repetita_ [non] _placebit_."--Ars Poetica.
 Flaccus, you write us charming songs:
 No bard we know possesses
 In such perfection what belongs
@@ -1672,7 +1571,6 @@ _But One that writeth, saith--_
 _Betwixt his stricken chords_
 _He heard the Wheels of Death;_
 _And knew the fruits Love bare_
-_But Dead-Sea apples were._]
 "Buy,--who'll buy?" In the market-place,
 Out of the market din and clatter,
 The quack with his puckered persuasive face
@@ -1953,7 +1851,6 @@ That like my Couplet as compact as clear;
 That like my Satire sparkling tho' severe,
 Unmix'd with Bathos and unmarr'd by Trope,
 I fling my Cap for Polish--and for POPE!
-_To * * Esq. of * * with a Life of the late Ingenious M^r. W^m.
 Hogarth._
 Dear Cosmopolitan,--I know
 I should address you a _Rondeau_,
@@ -3051,7 +2948,6 @@ Proceeding even to extremes of force,--
 Confinement (solitary), and bread and water;
 Then, having lectured her till they were hoarse,
 Finding that this to no submission brought her,
-At last, (unwisely[1]) to the man they sent,
 That he might combat her by argument.
 Being, they fancied, but a bloodless thing;
 Or else too well forewarned of that commotion
@@ -3161,7 +3057,6 @@ That this particular is _not_ invention.
 "--_portentaque Thessala rides?_"
 --Hor.
 "--_Thessalian portents do you flout?_"
-*   *
 CARDENIO'S fortunes ne'er miscarried
 Until the day CARDENIO married.
 What then? the Nymph no doubt was young?
@@ -4493,7 +4388,6 @@ Who is it? _The Prologue._ He's sobbing. Hush! listen.
 handkerchief to his eyes, to speak Garrick's Prologue,
 after which comes the play. In the volume for which the
 foregoing additional Prologue was written the following
-Envoi was added._]
 Good-bye to you, KELLY, your fetters are broken!
 Good-bye to you, CUMBERLAND, GOLDSMITH has spoken!
 Good-bye to sham Sentiment, moping and mumming,

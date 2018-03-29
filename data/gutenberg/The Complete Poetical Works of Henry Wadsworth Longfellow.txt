@@ -87,16 +87,6 @@ The Singers
 Suspiria
 Hymn for my Brother's Ordination
 Introduction
-I.  The Peace-Pipe
-II.  The Four Winds
-III.  Hiawatha's Childhood
-IV.  Hiawatha and Madjekeewis
-V.  Hiawatha's Fasting
-VI.  Hiawatha's Friends
-VII.  Hiawatha's Sailing
-VIII.  Hiawatha's Fishing
-IX.  Hiawatha and the Pearl-Feather
-X.  Hiawatha's Wooing
 XI.  Hiawatha's Wedding-Feast
 XII.  The Son of the Evening Star
 XIII.  Blessing the Cornfields
@@ -595,7 +585,6 @@ To the Stork
 From the Latin.
 Virgils First Eclogue
 Ovid in Exile
-<Greek poem here--Euripides.>
 Pleasant it was, when woods were green,
 And winds were soft and low,
 To lie amid some sylvan scene.
@@ -1043,7 +1032,6 @@ And the stars, from heaven down-cast
 Like red leaves be swept away!
 Kyrie, eleyson!
 Christe, eleyson!
-**********
 When the warm sun, that brings
 Seed-time and harvest, has returned again,
 'T is sweet to visit the still wood, where springs
@@ -1343,7 +1331,6 @@ Like fiery tongues at Pentecost!
 Glimmer, as funeral lamps,
 Amid the chills and damps
 Of the vast plain where Death encamps!
-****************
 "Speak! speak I thou fearful guest
 Who, with thy hollow breast
 Still in rude armor drest,
@@ -1782,25 +1769,18 @@ Of Jericho in darkness waits;
 He hears the crowd;--he hears a breath
 Say, "It is Christ of Nazareth!"
 And calls, in tones of agony,
-<Greek here>
 The thronging multitudes increase;
 Blind Bartimeus, hold thy peace!
 But still, above the noisy crowd,
 The beggar's cry is shrill and loud;
 Until they say, "He calleth thee!"
-<Greek here>
 Then saith the Christ, as silent stands
 The crowd, "What wilt thou at my hands?"
 And he replies, "O give me light!
 Rabbi, restore the blind man's sight.
-And Jesus answers, '<Greek here>'
-<Greek here>!
 Ye that have eyes, yet cannot see,
 In darkness and in misery,
 Recall those mighty Voices Three,
-<Greek here>!
-<Greek here>!
-<Greek here>!
 Filled is Life's goblet to the brim;
 And though my eyes with tears are dim,
 I see its sparkling bubbles swim,
@@ -1954,12 +1934,10 @@ Lifeless, but beautiful, he lay,
 And from the sky, serene and far,
 A voice fell, like a falling star,
 Excelsior!
-**************
 in the latter part of October, 1842.  I had not then heard of
 Dr. Channing's death.  Since that event, the poem addressed to
 him is no longer appropriate.  I have decided, however, to let
 it remain as it was written, in testimony of my admiration for
-a great and good man.]
 The pages of thy book I read,
 And as I closed each one,
 My heart, responding, ever said,
@@ -2216,7 +2194,6 @@ Who may, in some grim revel, raise his hand,
 And shake the pillars of this Commonweal,
 Till the vast Temple of our liberties.
 A shapeless mass of wreck and rubbish lies.
-*******************
 HYPOLITO                        Students of Alcala.
 DON CARLOS                      Gentlemen of Madrid.
 BELTRAN CRUZADO                 Count of the Gypsies.
@@ -2321,7 +2298,6 @@ Lara.         Yes; persuade me.
 Don C.  No one so deaf as he who will not hear!
 Lara.  No one so blind as he who will not see!
 Don C.  And so good night.  I wish you pleasant dreams,
-And greater faith in woman.      [Exit.
 Lara.          Greater faith!
 I have the greatest faith; for I believe
 Victorian is her lover.  I believe
@@ -2947,7 +2923,6 @@ Ang.        Both Heaven and you.
 Prec.             Farewell.
 Remember that you come again tomorrow.
 Ang.  I will.  And may the Blessed Virgin guard you,
-And all good angels.    [Exit.
 Prec.    May they guard thee too,
 And all the poor; for they have need of angels.
 Now  bring me, dear Dolores, my basquina,
@@ -3030,7 +3005,6 @@ Betrays her nest, by striving to conceal it.
 I will not leave thee here in the great city
 To be a grandee's mistress.  Make thee ready
 To go with us; and until then remember
-A watchful eye is on thee.    [Exit.
 Prec.          Woe is me!
 I have a strange misgiving in my heart!
 But that one deed of charity I'll do,
@@ -3511,7 +3485,6 @@ Must cease for lack of music.
 Lara.          Bravely done.
 Ah! little dost thou dream, sweet Preciosa,
 What lies in wait for thee.  Sleep shall not close
-Thine eyes this night!  Give me my cloak and sword. [Exeunt.
 SCENE VI. -- A retired spot beyond the city gates.  Enter
 VICTORIAN and HYPOLITO.
 Vict.  O shame! O shame!  Why do I walk abroad
@@ -4062,7 +4035,6 @@ Let us have supper.
 Mart.           'T will be ready soon.
 Padre C.  And bring a bottle of my Val-de-Penas
 Out of the cellar.  Stay; I'll go myself.
-Pray you. Senor, excuse me.      [Exit.
 Hyp.                 Hist! Martina!
 One word with you.  Bless me I what handsome eyes!
 To-day there have been Gypsies in the village.
@@ -4620,7 +4592,6 @@ This serenade shall be the Gypsy's last!
 Ha! ha!  Well whistled, my sweet caramillo!
 Well whistled!--I have missed her!--O my God!
 (The shot is returned.  BARTOLOME falls).
-****************
 In the ancient town of Bruges,
 In the quaint old Flemish city,
 As the evening shades descended,
@@ -5822,7 +5793,6 @@ Darker and darker
 The black shadows fall;
 Sleep and oblivion
 Reign over all.
-************
 This is the forest primeval.  The murmuring pines and the hemlocks,
 Bearded with moss, and in garments green, indistinct in the twilight,
 Stand like Druids of eld, with voices sad and prophetic,
@@ -7224,7 +7194,6 @@ Maidens still wear their Norman caps and their kirtles of homespun,
 And by the evening fire repeat Evangeline's story,
 While from its rocky caverns the deep-voiced, neighboring ocean
 Speaks, and in accents disconsolate answers the wail of the forest.
-**************
 As one who, walking in the twilight gloom,
 Hears round about him voices as it darkens,
 And seeing not the forms from which they come,
@@ -8373,8 +8342,6 @@ O holy trust!  O endless sense of rest!
 Like the beloved John
 To lay his head upon the Saviour's breast,
 And thus to journey on!
-***************
-<Notes from HIAWATHA follow>
 Should you ask me, whence these stories?
 Whence these legends and traditions,
 With the odors of the forest
@@ -14210,7 +14177,6 @@ Toward the Sun his hands were lifted.
 In this manner, and with such salutations, was Father Marquette
 received by the Illinois.  See his Voyages et Decouvertes,
 Section V.
-*************
 In the Old Colony days, in Plymouth the land of the Pilgrims,
 To and fro in a room of his simple and primitive dwelling,
 Clad in doublet and hose, and boots of Cordovan leather,
@@ -15229,7 +15195,6 @@ Fresh with the youth of the world, and recalling Rebecca and Isaac,
 Old and yet ever new, and simple and beautiful always,
 Love immortal and young in the endless succession of lovers,
 So through the Plymouth woods passed onward the bridal procession.
-**************
 . . come i gru van cantando lor lai,
 Facendo in aer di se lunga riga. -- DANTE
 Black shadows fall
@@ -16701,7 +16666,6 @@ Direct from heaven, their source divine;
 Refracted through the mist of years,
 How red my setting sun appears,
 How lurid looks this soul of mine!
-****************
 One Autumn night, in Sudbury town,
 Across the meadows bare and brown,
 The windows of the wayside inn
@@ -23895,7 +23859,6 @@ Epargnez aux Philosophes
 Vos abominables strophes!
 Bons amis,
 Respectez mon Agassiz!
-**************
 O sweet illusions of Song,
 That tempt me everywhere,
 In the lonely fields, and the throng
@@ -25858,7 +25821,6 @@ Displays a cross of snow upon its side.
 Such is the cross I wear upon my breast
 These eighteen years, through all the changing scenes
 And seasons, changeless since the day she died.
-**************
 Garlands upon his grave,
 And flowers upon his hearse,
 And to the tender heart and brave
@@ -26287,7 +26249,6 @@ Life with inconsiderate haste!
 Loud with shallow waterfalls,
 But in quiet self-control
 Link together soul and soul"
-************
 Turn, turn, my wheel?  Turn round and round
 Without a pause, without a sound:
 So spins the flying world away!
@@ -26706,7 +26667,6 @@ Behind us in our path we cast
 The broken potsherds of the past,
 And all are ground to dust a last,
 And trodden into clay!
-*************
 Warm and still is the summer night,
 As here by the river's brink I wander;
 White overhead are the stars, and white
@@ -27889,7 +27849,6 @@ For voices pursue him by day,
 And haunt him by night,
 And he listens, and needs must obey,
 When the Angel says: "Write!"
-***********
 Becalmed upon the sea of Thought,
 Still unattained the land it sought,
 My mind, with loosely-hanging sails,
@@ -28675,7 +28634,6 @@ The Past is deaf to your prayer!
 Out of the shadows of night
 The world rolls into light;
 It is daybreak everywhere.
-*************
 October 22, 1838.
 Neglected record of a mind neglected,
 Unto what "lets and stops" art thou subjected!
@@ -28713,7 +28671,6 @@ So from the bosom of darkness our days come roaring and gleaming,
 Chafe and break into foam, sink into darkness again.
 But on the shores of Time each leaves some trace of its passage,
 Though the succeeding wave washes it out from the sand.
-********
 The ANGEL bearing the PROPHET HABAKKUK through the air.
 Why dost thou bear me aloft,
 O Angel of God, on thy pinions
@@ -30678,7 +30635,6 @@ Then saith the Christ, as silent stands
 The crowd, What wilt thou at my hands?
 And he replies, Oh, give me light!
 Rabbi, restore the blind man's sight!
-And Jesus answers, [Greek text]!
 Ye that have eyes, yet cannot see,
 In darkness and in misery,
 Recall those mighty voices three,
@@ -37193,7 +37149,6 @@ Beyond the guard and presence of my God
 Thou canst not banish me.
 Depart the Court;
 We have no time to listen to your babble.
-Who's next?                [Exit WHARTON.
 This woman, for the same offence.
 EDITH comes forward.
 What is your name?
@@ -37613,7 +37568,6 @@ Shall I go with you and point out the way?
 Oh no, I thank you.  I am not a stranger
 Here in your crooked little town.
 How now, sir?
-Do you abuse our town?          [Exit.
 Oh, no offence.
 Ralph, I am under bonds for a hundred pound.
 Hard lines.  What for?
@@ -37896,7 +37850,6 @@ And must obey the voice.  O woods that wear
 Your golden crown of martyrdom, blood-stained,
 From you I learn a lesson of submission,
 And am obedient even unto death,
-If God so wills it.             [Exit.
 JOHN ENDICOTT (within).
 Edith! Edith! Edith!
 He enters.
@@ -39822,7 +39775,6 @@ By the great Master taught,
 And that remaineth still:
 Not he that repeateth the name,
 But he that doeth the will!
-********
 The Citadel of Antiochus at Jerusalem.
 O Antioch, my Antioch, my city!
 Queen of the East! my solace, my delight!
@@ -40704,7 +40656,6 @@ Thought all the kingdoms of the earth mine own,
 If I would but outstretch my hand and take them,
 Meet face to face a greater potentate,
 King Death--Epiphanes--the Illustrious!
-*****
 Michel, piu che mortal, Angel divino. -- ARIOSTO.
 Similamente operando all' artista
 ch' a l'abito dell' arte e man che trema. -- DANTE, Par. xiii.,
@@ -41711,7 +41662,6 @@ My portrait.  It is not from vanity,
 But for the love I bear him.
 I rejoice
 To hear these words.  Oh, this will be a portrait
-Worthy of both of you!     [A knock.
 Hark! He is coming.
 And shall I go or stay?
 By all means, stay.
@@ -42813,7 +42763,6 @@ Except the painted angels on the ceiling.
 Vittoria! speak!  What is it?  Answer me!--
 She only smiles, and stretches out her hands.
 Not disobedient to the heavenly vision!
-Pescara! my Pescara!             [Dies.
 Holy Virgin!
 Her body sinks together,--she is dead!
 Enter MICHAEL ANGELO.
@@ -43916,7 +43865,6 @@ And some day, like this lamp, shall I fall down,
 And my last spark of life will be extinguished.
 Ah me! ah me! what darkness of despair!
 So near to death, and yet so far from God!
-*****
 As treasures that men seek,
 Deep-buried in sea-sands,
 Vanish if they but speak,
@@ -44879,7 +44827,6 @@ A man like a whimpering maiden cry.
 The death-song they sing
 Even now in mine ear,
 What avails it?  He who is born must die."
-*****
 Pentecost, day of rejoicing, had come. The church of the village
 Gleaming stood in the morning's sheen.
 On the spire of the bell
@@ -45232,7 +45179,6 @@ Up rose the children all, and each bowed him, weeping full sorely,
 Downward to kiss that reverend hand, but all of them pressed he
 Moved to his bosom, and laid, with a prayer, his hands full of blessings,
 Now on the holy breast, and now on the innocent tresses.
-*******
 King Christian stood by the lofty mast
 In mist and smoke;
 His sword was hammering so fast,
@@ -45960,7 +45906,6 @@ Gladly to Allah's dwelling
 Yonder would I take flight;
 There will the darkness vanish,
 There will my eyes have sight.
-**********
 For thee was a house built
 Ere thou wast born,
 For thee was a mould meant
@@ -46772,7 +46717,6 @@ But she was of the world, which fairest things exposes
 To fates the most forlorn;
 A rose, she too hath lived as long as live the roses,
 The space of one brief morn.
-*    *    *    *    *
 Death has his rigorous laws, unparalleled, unfeeling;
 All prayers to him are vain;
 Cruel, he stops his ears, and, deaf to our appealing,
@@ -47192,7 +47136,6 @@ Nor should I see thee girded with a sword
 Not thine, and with the stranger's arm contending,
 Victor or vanquished, slave forever more.
 as revised by his nephew Michael Angelo the Younger, and were
-made before the publication of the original text by Guasti.]
 Nothing the greatest artist can conceive
 That every marble block doth not confine
 Within itself; and only its design
@@ -47711,4 +47654,3 @@ Woe is me!  Is the house of Ovid in Scythian lands now?
 And doth punishment now give me its place for a home?
 Grant, ye gods, that Caesar make this not my house and my homestead,
 But decree it to be only the inn of my pain.
-Wadsworth Longfellow, by Henry Wadsworth Longfellow

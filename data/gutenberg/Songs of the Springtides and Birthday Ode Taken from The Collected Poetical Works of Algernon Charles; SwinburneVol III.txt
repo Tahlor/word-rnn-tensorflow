@@ -1,16 +1,10 @@
-Produced by Paul Murray, Diane Monico, and the Project
-Gutenberg Online Distributed Proofreading Team at
-http://www.pgdp.net.
 Taken from
 By
 Algernon Charles Swinburne
-I.   POEMS AND BALLADS (First Series).
-III. POEMS AND BALLADS (Second and Third
 Series), and SONGS OF THE SPRINGTIDES.
 By
 Algernon Charles Swinburne
 _First printed (Chatto), 1904_
-_Reprinted 1904, '09, '10, '12_
 _(Heinemann), 1917_
 _London: William Heinemann, 1917_
 _A sea-mew on a sea-king's wrist alighting,
@@ -985,7 +979,6 @@ Your light and song that as with lamp and verse
 Guide safe the strength of our sphered universe,
 Thy breath it was, thou knowest, and none but thine,
 That taught me love of one thing more divine.
-Ah, yet my youth was old                                [_Str._ 1.
 Its first years dead and cold
 As last year's autumn's gold,
 And all my spirit of singing sick and sad and sere,
@@ -993,7 +986,6 @@ Or ever I might behold
 The fairest of thy fold
 Engirt, enringed, enrolled,
 In all thy flower-sweet flock of islands dear and near.
-Yet in my heart I deemed                                [_Str._ 2.
 The fairest things, meseemed,
 Truth, dreaming, ever dreamed,
 Had made mine eyes already like a god's to see:
@@ -1001,7 +993,6 @@ Of all sea-things that were
 Clothed on with water and air,
 That none could live more fair
 Than thy sweet love long since had shown for love to me.
-I knew not, mother of mine,                             [_Ant._ 1.
 That one birth more divine
 Than all births else of thine
 That hang like flowers or jewels on thy deep soft breast
@@ -1009,7 +1000,6 @@ Was left for me to shine
 Above thy girdling line
 Of bright and breathing brine,
 To take mine eyes with rapture and my sense with rest.
-That this was left for me,                              [_Ant._2.
 Mother, to have of thee,
 To touch, to taste, to see,
 To feel as fire fulfilling all my blood and breath,
@@ -1034,7 +1024,6 @@ And midmost of the murderous water's web
 All round it stretched and spun,
 Laughs, reckless of rough tide and raging ebb,
 The loveliest thing that shines against the sun.
-O flower of all wind-flowers and sea-flowers,               [_Str._ 3.
 Made lovelier by love of the sea
 Than thy golden own field-flowers, or tree-flowers
 Like foam of the sea-facing tree!
@@ -1042,7 +1031,6 @@ No foot but the seamew's there settles
 On the spikes of thine anthers like horns,
 With snow-coloured spray for thy petals,
 Black rocks for thy thorns.
-Was it here, in the waste of his waters,                    [_Ant._ 3.
 That the lordly north wind, when his love
 On the fairest of many king's daughters
 Bore down for a spoil from above,
@@ -1050,7 +1038,6 @@ Chose forth of all farthest far islands
 As a haven to harbour her head,
 Of all lowlands on earth and all highlands,
 His bride-worthy bed?
-Or haply, my sea-flower, he found thee                      [_Str._ 4.
 Made fast as with anchors to land,
 And broke, that his waves might be round thee,
 Thy fetters like rivets of sand?
@@ -1058,7 +1045,6 @@ And afar by the blast of him drifted
 Thy blossom of beauty was borne,
 As a lark by the heart in her lifted
 To mix with the morn?
-By what rapture of rage, by what vision                     [_Ant._ 4.
 Of a heavenlier heaven than above,
 Was he moved to devise thy division
 From the land as a rest for his love?
@@ -1097,37 +1083,31 @@ Fair as could be no beauty save thine own,
 And wondrous as no world-beholden wonder:
 Throned, with the world's most perilous sea for throne,
 And praised from all its choral throats of thunder.
-Yet one praise hast thou, holier                          [_Str._ 5.
 Than praise of theirs may be,
 To exalt thee, wert thou lowlier
 Than all that take the sea
 With shores whence waves ebb slowlier
 Than these fall off from thee;
-That One, whose name gives glory,                           [_Ant._ 5.
 One man whose life makes light,
 One crowned and throned in story
 Above all empire's height,
 Came, where thy straits run hoary,
 To hold thee fast in sight;
-With hallowing eyes to hold thee,                           [_Str._ 6.
 With rapturous heart to read,
 To encompass and enfold thee
 With love whence all men feed,
 To brighten and behold thee,
 Who is mightiest of man's seed:
-More strong than strong disaster,                           [_Ant._ 6.
 For fate and fear too strong;
 Earth's friend, whose eyes look past her,
 Whose hands would purge of wrong;
 Our lord, our light, our master,
 Whose word sums up all song.
-Be it April or September                                    [_Str._ 7.
 That plays his perfect part,
 Burn June or blow December,
 Thou canst not in thine heart
 But rapturously remember,
 All heavenlike as thou art,
-Whose footfall made thee fairer,                            [_Ant._ 7.
 Whose passage more divine,
 Whose hand, our thunder-bearer,
 Held fire that bade thee shine
@@ -1250,7 +1230,6 @@ For the path is for passage of sea-mews; and he that hath glided and leapt
 Over sea-grass and sea-rock, alighting as one from a citadel crept
 That his foemen beleaguer, descending by darkness and stealth, at the last
 Peers under, and all is as hollow to hellward, agape and aghast.
-But afloat and afar in the darkness a tremulous colour subsides  [_Ant._ 8.
 From the crimson high crest of the purple-peaked roof to the soft-coloured
 sides
 That brighten as ever they widen till downward the level is won
@@ -1330,7 +1309,6 @@ Forth to the haven of thy desire and dread,
 The presence of our lord, long loved and long
 Far off above beholden, who to thee
 Was as light kindling all a windy sea._
-Spring, born in heaven ere many a springtime flown,    [_Strophe_ 1.
 Dead spring that sawest on earth
 A babe of deathless birth,
 A flower of rosier flowerage than thine own,
@@ -1346,7 +1324,6 @@ This day that casts the days of darkness down
 Low as a broken crown,
 We call thee from the gulf of deeds and days,
 Deathless and dead, to hear us whom we praise.
-A light of many lights about thine head,           [_Antistrophe_ 1.
 Lights manifold and one,
 Stars molten in a sun,
 A sun of divers beams incorporated,                               20
@@ -1362,7 +1339,6 @@ So didst thou rise, nor knewest thy glory, O thou
 Re-risen upon us now,                                             30
 The glory given thee for a grace to give,
 And take the praise of all men's hearts that live.
-First in the dewy ray                              [_Epode_ 1.
 Ere dawn be slain of day
 The fresh crowned lilies of discrowned kings' prime
 Sprang splendid as of old
@@ -1370,7 +1346,6 @@ With moonlight-coloured gold
 And rays refract from the oldworld heaven of time;
 Pale with proud light of stars decreased                      39
 In westward wane reluctant from the conquering east.
-But even between their golden olden bloom                 [_Str._ 2.
 Strange flowers of wildwood glory,
 With frost and moonshine hoary,
 Thrust up the new growths of their green-leaved gloom,
@@ -1387,7 +1362,6 @@ With cheer of clarions blown,
 And through the tournay's clash and clarion's cheer
 Laugh to laugh echoing, tear washed off by tear.
 Then eastward far past northland lea and lawn
-Beneath a heavier light                                   [_Ant._ 2.
 Of stormier day and night
 Began the music of the heaven of dawn;                            60
 Bright sound of battle along the Grecian waves,
@@ -1402,7 +1376,6 @@ Then through the flushed grey gloom on shadowy sheaves
 Low flights of falling leaves;                                    70
 And choirs of birds transfiguring as they throng
 All the world's twilight and the soul's to song.
-Voices more dimly deep                               [_Ep._ 2.
 Than the inmost heart of sleep,
 And tenderer than the rose-mouthed morning's lips;
 And midmost of them heard
@@ -1410,7 +1383,6 @@ The viewless water's word,
 The sea's breath in the wind's wing and the ship's,
 That bids one swell and sound and smite                       79
 And rend that other in sunder as with fangs by night.
-But ah! the glory of shadow and mingling ray,             [_Str._ 3.
 The story of morn and even
 Whose tale was writ in heaven
 And had for scroll the night, for scribe the day!
@@ -1426,7 +1398,6 @@ With trumpet-measures of triumphal wail
 From windy vale to vale,
 The crying of one for love that strayed and sinned
 Whose brain took madness of the mountain wind.
-Between the birds of brighter and duskier wing,           [_Ant._ 3.
 What mightier-moulded forms
 Girt with red clouds and storms
 Mix their strong hearts with theirs that soar and sing?          100
@@ -1442,7 +1413,6 @@ Wide-eyed and patient ever, till the curse
 Find where to fall and pierce,                                   110
 Keen expiation whets with edge more dread
 A father's wrong to smite a father's head.
-Borgia, supreme from birth                           [_Ep._ 3.
 As loveliest born on earth
 Since earth bore ever women that were fair;
 Scarce known of her own house
@@ -1450,7 +1420,6 @@ If daughter or sister or spouse;
 Who holds men's hearts yet helpless with her hair;
 The direst of divine things made,
 Bows down her amorous aureole half suffused with shade.            120
-As red the fire-scathed royal northland bloom,            [_Str._ 4.
 That left our story a name
 Dyed through with blood and flame
 Ere her life shrivelled from a fierier doom
@@ -1466,7 +1435,6 @@ But higher than these and all the song thereof
 The perfect heart of love,
 The heart by fraud and hate once crucified,
 That, dying, gave thanks, and in thanksgiving died.
-Above the windy walls that rule the Rhine                 [_Ant._ 4.
 A noise of eagles' wings
 And wintry war-time rings,
 With roar of ravage trampling corn and vine                      140
@@ -1482,7 +1450,6 @@ Hopeless to see the birds back ere life wane,
 Or the leaves born again;                                        150
 And still the might and music mastering fate
 Of life more strong than death and love than hate.
-In spectral strength biform                          [_Ep._ 4.
 Stand the twin sons of storm
 Transfigured by transmission of one hand
 That gives the new-born time
@@ -1490,7 +1457,6 @@ Their semblance more sublime
 Than once it lightened over each man's land;
 There Freedom's winged and wide-mouthed hound,               159
 And here our high Dictator, in his son discrowned.
-What strong-limbed shapes of kindred throng round these   [_Str._ 5.
 Before, between, behind,
 Sons born of one man's mind,
 Fed at his hands and fostered round his knees?
@@ -1507,7 +1473,6 @@ By all men's scorn or doubt,
 Or with their own hands wounded, or by fate
 Brought into bondage of men's fear or hate.
 In violence of strange visions north and south
-Confronted, east and west,                                [_Ant._ 5.
 With frozen or fiery breast,
 Eyes fixed or fevered, pale or bloodred mouth,                   180
 Kept watch about his dawn-enkindled dreams;
@@ -1522,7 +1487,6 @@ And strong to silence with benignant breath
 The lips that doom to death,                                     190
 And swift with speech like fire in fiery lands
 To melt the steel's edge in the headsman's hands.
-Higher than they rose of old,                        [_Ep._ 5.
 New builded now, behold,
 The live great likeness of Our Lady's towers;
 And round them like a dove
@@ -1530,7 +1494,6 @@ Wounded, and sick with love,
 One fair ghost moving, crowned with fateful flowers,
 Watched yet with eyes of bloodred lust                       199
 And eyes of love's heart broken and unbroken trust.
-But sadder always under shadowier skies,                  [_Str._ 6.
 More pale and sad and clear
 Waxed always, drawn more near,
 The face of Duty lit with Love's own eyes;
@@ -1547,7 +1510,6 @@ France, and bade enter in,
 And threw for all the doors of refuge wide,
 Took to them lightning in the thunder-tide.
 For storm on earth above had risen from under,
-Out of the hollow of hell,                                [_Ant._ 6.
 Such storm as never fell
 From darkest deeps of heaven distract with thunder;
 A cloud of cursing, past all shape of thought,                   221
@@ -1562,7 +1524,6 @@ Rose, brooded, reddened, broke, and with its breath
 Put France to poisonous death;                                   230
 Yea, far as heaven's red labouring eye could glance,
 France was not, save in men cast forth of France.
-Then,--while the plague-sore grew                    [_Ep._ 6.
 Two darkling decades through,
 And rankled in the festering flesh of time,--
 Where darkness binds and frees
@@ -1571,7 +1532,6 @@ In fierce mutations of the unslumbering clime,
 There, sleepless too, o'er shuddering wrong
 One hand appointed shook the reddening scourge of song.            240
 And through the lightnings of the apparent word
-Dividing shame's dense night                              [_Str._ 7.
 Sounds lovelier than the light
 And light more sweet than song from night's own bird
 Mixed each their hearts with other, till the gloom
@@ -1587,7 +1547,6 @@ Who pass away by sea;
 The song that takes of old love's land farewell,
 With pulse of plangent water like a knell.
 And louder ever and louder and yet more loud
-Till night be shamed of morn                              [_Ant._ 7.
 Rings the Black Huntsman's horn
 Through darkening deeps beneath the covering cloud,              260
 Till all the wild beasts of the darkness hear;
@@ -1602,7 +1561,6 @@ And one the uncleanest kinless beast of all
 Lower than his fortune fall;                                     270
 The wolfish waif of casual empire, born
 To turn all hate and horror cold with scorn.
-Yea, even at night's full noon                       [_Ep._ 7.
 Light's birth-song brake in tune,
 Spake, witnessing that with us one must be,
 God; naming so by name
@@ -1610,7 +1568,6 @@ That priests have brought to shame
 The strength whose scourge sounds on the smitten sea;
 The mystery manifold of might
 Which bids the wind give back to night the things of night.        280
-Even God, the unknown of all time; force or thought,      [_Str._ 8.
 Nature or fate or will,
 Clothed round with good and ill,
 Veiled and revealed of all things and of nought,
@@ -1627,7 +1584,6 @@ Earth, and the starry state
 Of heaven immeasurable, and years that flee
 As clouds and winds and rays across the sea.
 But higher than stars and deeper than the waves
-Of day and night and morrow                               [_Ant._ 8.
 That roll for all time, sorrow
 Keeps ageless watch over perpetual graves.                       300
 From dawn to morning of the soul in flower,
@@ -1642,7 +1598,6 @@ Song bright as heaven above the mounting bird,
 Song like a God's tears heard                                    310
 Falling, fulfilled of life and death and light,
 And all the stars and all the shadow of night.
-Till, when its flight hath past                      [_Ep._ 8.
 Time's loftiest mark and last,
 The goal where good kills evil with a kiss,
 And Darkness in God's sight
@@ -1650,7 +1605,6 @@ Grows as his brother Light,
 And heaven and hell one heart whence all the abyss
 Throbs with love's music; from his trance
 Love waking leads it home to her who stayed in France.             320
-But now from all the world-old winds of the air           [_Str._ 9.
 One blast of record rings
 As from time's hidden springs
 With roar of rushing wings and fires that bear
@@ -1666,7 +1620,6 @@ Had seen, and what the moon and stars of night
 Beholding lost not light:
 From dawn to dusk what ways man wandering trod
 Even through the twilight of the gods to God.
-From dawn of man and woman twain and one                  [_Ant._ 9.
 When the earliest dews impearled
 The front of all the world
 Ringed with aurorean aureole of the sun,                         340
@@ -1682,7 +1635,6 @@ And all the ravin of all the swords that reap
 Lives cast as sheaves on heap                                    350
 From all the billowing harvest-fields of fight;
 And sounds of love-songs lovelier than the light.
-The grim dim thrones of the east                     [_Ep._ 9.
 Set for death's riotous feast
 Round the bright board where darkling centuries wait,
 And servile slaughter, mute,
@@ -1690,7 +1642,6 @@ Feeds power with fresh red fruit,
 Glitter and groan with mortal food of fate;
 And throne and cup and lamp's bright breath
 Bear witness to their lord of only night and death.                360
-Dead freedom by live empire lies defiled,                [_Str._ 10.
 And murder at his feet
 Plies lust with wine and meat,
 With offering of an old man and a child,
@@ -1706,7 +1657,6 @@ And purge his own pollution with the flood
 Poured of his black base blood
 So first found healing, poisonous as it poured;
 And on the clouds the archangel cleanse his sword.
-As at the word unutterable that made                     [_Ant._ 10.
 Of day and night division,
 From vision on to vision,                                        379
 From dream to dream, from darkness into shade,
@@ -1722,7 +1672,6 @@ Beyond the darkling dust of suns that were,
 Past height and depth of air;                                    390
 And in the abyss whence all things move that are
 Finds only living Love, the sovereign star.
-Nor less the weight and worth                       [_Ep._ 10.
 Found even of love on earth
 To wash all stain of tears and sins away,
 On dying lips alit
@@ -1730,7 +1679,6 @@ That living knew not it,
 In the winged shape of song with death to play:
 To warm young children with its wings,
 And try with fire the heart elect for godlike things.              400
-For all worst wants of all most miserable                [_Str._ 11.
 With divine hands to deal
 All balms and herbs that heal,
 Among all woes whereunder poor men dwell
@@ -1746,7 +1694,6 @@ Of seas less monstrous than the births they bred;
 Keep high there heart and head,
 And conquer: then for prize of all toils past
 Feel the sea close them in again at last.
-A day of direr doom arisen thereafter                    [_Ant._ 11.
 With cloud and fire in strife
 Lightens and darkens life
 Round one by man's hand masked with living laughter,             420
@@ -1762,7 +1709,6 @@ As though the very heaven should shrivel and swell
 With hunger after hell,                                          430
 Run mad for dear damnation, and desire
 To feel its light thrilled through with stings of fire.
-Above a windier sea,                                [_Ep._ 11.
 The glory of Ninety-three
 Fills heaven with blood-red and with rose-red beams
 That earth beholding grows
@@ -1770,7 +1716,6 @@ Herself one burning rose
 Flagrant and fragrant with strange deeds and dreams,
 Dreams dyed as love's own flower, and deeds
 Stained as with love's own life-blood, that for love's sake bleeds.   440
-And deeper than all deeps of seas and skies              [_Str._ 12.
 Wherein the shadows are
 Called sun and moon and star
 That rapt conjecture metes with mounting eyes,
@@ -1786,7 +1731,6 @@ Dawns down the depths of vision, more sublime
 Than all truths born of time;
 And eyes that wept above two dear sons dead
 Grow saving stars to guard one hopeless head.
-Bright round the brows of banished age had shone          [_Ant._ 12.
 In vision flushed with truth
 The rosy glory of youth                                          459
 On streets and woodlands where in days long gone
@@ -1802,7 +1746,6 @@ Close as the press of children at His knee
 Whom if the high priest see,                                     470
 Dreaming, as homeless on dark earth he trod,
 The lips that praise him shall not know for God.
-O sovereign spirit, above                           [_Ep._ 12.
 All offering but man's love,
 All praise and prayer and incense undefiled!
 The one thing stronger found
@@ -1810,7 +1753,6 @@ Than towers with iron bound;
 The one thing lovelier than a little child,
 And deeper than the seas are deep,                           479
 And tenderer than such tears of love as angels weep.
-Dante, the seer of all things evil and good,             [_Str._ 13.
 Beheld two ladies, Beauty
 And high life-hallowing Duty,
 That strove for sway upon his mind and mood
@@ -1826,7 +1768,6 @@ For all souls hungering and all hearts athirst
 At best of days and worst,
 And both one sacrament of Love's great giving
 To feed the spirit and sense of all souls living.
-The seventh day in the wind's month, ten years gone      [_Ant._ 13.
 Since heaven-espousing earth
 Gave the Republic birth,
 The mightiest soul put mortal raiment on                         500
@@ -1842,7 +1783,6 @@ Given all itself as air gives life and light,
 Utterly, as of right;                                            510
 The goodliest gift our age hath given, to be
 Ours, while the sun gives glory to the sea.
-Our Father and Master and Lord,                     [_Ep._ 13.
 Who hast thy song for sword,
 For staff thy spirit, and our hearts for throne:
 As in past years of wrong,
@@ -1850,7 +1790,6 @@ Take now my subject song,
 To no crowned head made humble but thine own;
 That on thy day of worldly birth
 Gives thanks for all thou hast given past thanks of all on earth.  520
-*       *       *       *       *
 _v._ 33. _Odes et Ballades_, 1822-1824.
 et Philosophie melees_, 1819-1834).
 d'un Crime_, 1877. In this place I must take occasion to
@@ -1892,6 +1831,4 @@ doom of trial and long wayfaring, whose progress he
 furthers by example and stimulates by song:--
 ekteleon; eti gar theothen katapneiei
 peitho molpan
-alkai sumphutos aion.]
 AEsch. _Agam._ 104-8.
-Ode, by Algernon Charles Swinburne

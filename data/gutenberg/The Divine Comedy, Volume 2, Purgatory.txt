@@ -1,23 +1,13 @@
-ry, by Dante Aligheri**
 Also see our other translations of Dante's Divine Comedy; also,
 you may want to look at our Etext #1000 in the original Italian
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
 further information is included below.  We need your donations.
-The Divine Comedy, Volume 2, Purgatory [Purgatorio]
 by Dante Aligheri
 Translated by Charles Eliot Norton
-December, 1999  [Etext #1996]
-*****This file should be named 1996.txt or 1996.zip******
 Etext scanned by Dianne Bean of Phoenix, Arizona
 all of which are in the Public Domain in the United States, unless a
-copyright notice is included.  Therefore, we usually do NOT keep any
 of these books in compliance with any particular paper edition.
 We are now trying to release all our books one month in advance
 of the official release dates, leaving time for better editing.
@@ -26,22 +16,16 @@ midnight of the last day of the month of any such announcement.
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
 in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
 million dollars per hour this year as we release thirty-six text
 files per month, or 432 more Etexts in 1999 for a total of 2000+
 If these reach just 10% of the computerized population, then the
 total should reach over 200 billion Etexts given away this year.
-Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
 This is ten thousand titles each to one hundred million readers,
 which is only ~5% of the present number of computer users.
 At our revised rates of production, we will reach only one-third
@@ -54,35 +38,22 @@ We need your donations more than ever!
 tax deductible to the extent allowable by law.  (CMU = Carnegie-
 Mellon University).
 For these and other matters, please mail to:
-P. O. Box  2782
-Champaign, IL 61825
 When all other email fails. . .try our Executive Director:
-Michael S. Hart <hart@pobox.com>
 hart@pobox.com forwards to hart@prairienet.org and archive.org
 if your mail bounces from archive.org, I will still see it, if
 it bounces from prairienet.org, better resend later on. . . .
 We would prefer to send you this information by email.
-******
-to view http://promo.net/pg.  This site lists Etexts by
 author and by title, and includes information about how
 download our past Newsletters, or subscribe here.  This
 is one of our major sites, please email hart@pobox.com,
 for a more complete list of our various sites.
 To go directly to the etext collections, use FTP or any
 sites are available on 7 continents; mirrors are listed
-at http://promo.net/pg).
 Mac users, do NOT point and click, typing works better.
 Example FTP session:
 ftp sunsite.unc.edu
 login: anonymous
 password: your@login
-cd pub/docs/books/gutenberg
-cd etext90 through etext99
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
-GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
-GET GUTINDEX.ALL [to get a listing of ALL books]
-***
 (Three Pages)
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
@@ -99,23 +70,19 @@ you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
 tm etexts, is a "public domain" work distributed by Professor
 Carnegie-Mellon University (the "Project").  Among other
-things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
 medium they may be on may contain "Defects".  Among other
 things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
 But for the "Right of Replacement or Refund" described below,
 liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -133,7 +100,6 @@ You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-or addition to the etext, or [3] any Defect.
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
 or:
@@ -143,9 +109,7 @@ if you wish, distribute this etext in machine readable
 binary, compressed, mark-up, or proprietary form,
 including any form resulting from conversion by word pro-
 cessing or hypertext software, but only so long as
-does *not* contain characters other than those
 intended by the author of the work, although tilde
-(~), asterisk (*) and underline (_) characters may
 be used to convey punctuation intended by the
 author, and additional characters may be used to
 indicate hypertext links; OR
@@ -164,11 +128,8 @@ date you prepare (or were legally required to prepare)
 your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
 Association / Carnegie-Mellon University".
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 Etext scanned by Dianne Bean of Phoenix, Arizona.
-The Divine Comedy, Volume 2, Purgatory [Purgatorio]
 by Dante Aligheri
 Translated by Charles Eliot Norton
 CANTO I. Invocation to the Muses.--Dawn of Easter on the shore of
@@ -277,17 +238,13 @@ and becomes worthy to ascend to heaven.
 But here let dead poesy rise again, O holy Muses, since yours I
 am, and here let Calliope somewhat mount up, accompanying my song
 with that sound of which the wretched Picae felt the stroke such
-that they despaired of pardon.[1]
 contending in song with the Muses, were for their presumption
 changed to magpies.
 A sweet color of oriental sapphire, which was gathering in the
-serene aspect of the sky, pure even to the first circle,[1]
 renewed delight to my eyes soon as I issued forth from the dead
 air that had afflicted my eyes and my breast. The fair planet
 which incites to love was making all the Orient to smile, veiling
-the Fishes that were in her train.[2] I turned me to the right
 hand, and fixed my mind upon the other pole, and saw four stars
-never seen save by the first people.[3] The heavens appeared to
 rejoice in their flamelets. O widowed northern region, since thou
 art deprived of beholding these!
 which immediately precedes that of Aries, in which is the Sun.
@@ -296,7 +253,6 @@ Easter morning, April 10.
 When I had withdrawn from regarding them, turning me a little to
 the other pole, there whence the Wain had already disappeared, I
 saw close to me an old man alone, worthy in look of so much
-reverence that no son owes more unto his father.[1] He wore a
 long beard and mingled with white hair, like his locks, of which
 a double list fell upon his breast. The rays of the four holy
 stars so adorned his face with light, that I saw him, as if the
@@ -364,14 +320,12 @@ violated by us, for this one is alive, and Minos does not bind
 me; but I am of the circle where are the chaste eyes of thy
 Marcia, who in her look still prays thee, O holy breast, that for
 thine own thou hold her. For her love, then, incline thyself to
-us; let us go on through thy seven realms.[1] Thanks unto thee
 will I carry back to her, if to be mentioned there below thou
 deign."
 "Marcia so pleased my eyes while I was on earth," said he then,
 "that whatsoever grace she wished from me I did it; now, that on
 the other side of the evil stream she dwells, she can no more
 move me, by that law which was made when thence I issued
-forth.[1] But if a Lady of heaven move and direct thee, as thou
 sayest, there is no need of flattery; suffice it fully to thee
 that for her sake thou askest me. Go then, and see thou gird this
 one with a smooth rush, and that thou wash his face so that thou
@@ -398,14 +352,12 @@ through being in a place where there is shade, is little
 dissipated, my Master softly placed both his hands outspread upon
 the grass. Whereon I, who perceived his design, stretched toward
 him my tear-stained cheeks. Here he wholly uncovered that color
-of mine which hell had hidden on me.[1]
 purification Reason, with the dew of repentance, washes off the
 stain of sin, and girds the spirit with humility.
 We came, then, to the desert shore that never saw navigate its
 waters one who afterwards had experience of return. Here he girt
 me, even as pleased the other. O marvel! that such as he plucked
 the humble plant, it instantly sprang up again there whence he
-tore it.[1]
 CANTO II. Sunrise.--The Poets on the shore.--Coming of a boat,
 guided by an angel, bearing souls to Purgatory.--Their
 landing.--Casella and his song.--Cato hurries the souls to the
@@ -413,7 +365,6 @@ mountain.
 Now had the sun reached the horizon whose meridian circle covers
 Jerusalem with its highest point; and the night which circles
 opposite to it was issuing forth from Ganges with the Scales that
-fall from her hand when she exceeds;[1] so that where I was the
 white and red cheeks of the beautiful Aurora by too much age were
 becoming orange.
 the Ganges or India was arbitrarily assumed to be their common
@@ -446,7 +397,6 @@ I bent it down: and he came on to the shore with a small vessel,
 very swift and light so that the water swallowed naught of it. At
 the stern stood the Celestial Pilot, such that if but described
 he would make blessed; and more than a hundred spirits sat
-within. "In exitu Israel de Egypto"[1] they all were singing
 together with one voice, with whatso of that psalm is after
 written. Then he made the sign of holy cross upon them; whereon
 they all threw themselves upon the strand; and he went away swift
@@ -454,7 +404,6 @@ as he had come.
 The crowd which remained there seemed strange to the place,
 gazing round about like him who of new things makes essay. On all
 sides the Sun, who had with his bright arrows chased from
-midheaven the Capricorn,[1] was shooting forth the day, when the
 new people raised their brow toward us, saying to us, "If ye
 know, show us the way to go unto the mountain." And Virgil
 answered, "Ye believe, perchance, that we are acquainted with
@@ -480,14 +429,10 @@ in the mortal body, so loosed from it I love thee; therefore I
 stop; but wherefore goest thou?"
 "Casella mine, in order to return another time to this place
 where I am, do I make this journey," said I, "but from thee how
-has so much time been taken?"[1]
 death?"
-And he to me, "No wrong has been done me if he[1] who takes both
 when and whom it pleases him ofttimes hath denied to me this
-passage; for of a just will[2] his own is made. Truly for three
 months he has taken with all peace whoso has wished to enter.
 Wherefore I who was now turned to the seashore where the water of
-Tiber grows salt was benignantly received by him.[3] To that
 outlet has he now turned his wing, because always those assemble
 there who towards Acheron do not descend."
 the motive of the delay.
@@ -500,8 +445,6 @@ And I, "If a new law take not from thee memory or practice of the
 song of love which was wont to quiet in me all my longings, may
 it please thee therewith somewhat to comfort my soul, which
 coming hither with its body is so wearied."
-"Love which in my mind discourseth with me,"[1] began he then so
-sweetly that the sweetness still within me sounds.[2] My Master,
 and I, and that folk who were with him, appeared so content as if
 naught else could touch the mind of any.
 second of those upon which he comments in his Convito.
@@ -548,9 +491,7 @@ both hot and cold, bodies like this the Power ordains, which
 wills not that how it acts be revealed to us. Mad is he who hopes
 that our reason can traverse the infinite way which One Substance
 in Three Persons holds. Be content, human race, with the
-quia;[1]; for if ye had been able to see everything, need had not
 been for Mary to hear child: and ye have seen desiring
-fruitlessly men such [2] that their desire would have been
 quieted, which is given them eternally for a grief. I speak of
 Aristotle and of Plato, and of many others;" and here he bowed
 his front, and said no more, and remained disturbed.
@@ -558,7 +499,6 @@ meaning is, Be content to know that the thing is, seek not to
 know WHY or HOW--propter quid--it is as it is.
 We had come, meanwhile, to the foot of the mountain; here we
 found the rock so steep, that there the legs would be agile in
-vain. Between Lerici and Turbia[1] the most deserted, the most
 secluded way is a stair easy and open, compared with that. "Now
 who knows on which hand the hillside slopes," said my Master,
 staying his step, "so that he can ascend who goeth without
@@ -577,7 +517,6 @@ they come slowly, and do thou confirm thy hope, sweet son.
 That people was still as far, I mean after a thousand steps of
 ours, as a good thrower would cast with his hand, when they all
 pressed up to the hard masses of the high bank, and stood still
-and close, as one who goes in doubt stops to look.[1] "O ye who
 have made good ends, O spirits already elect," Virgil began, "by
 that peace which I believe is awaited by you all, tell us, where
 the mountain lies so that the going up is possible; for to lose
@@ -607,27 +546,20 @@ at him fixedly: blond he was, and beautiful, and of gentle
 aspect, but a blow had divided one of his eyebrows.
 When I had humbly disclaimed having ever seen him, he said, "Now
 look!" and he showed me a wound at the top of his breast. Then he
-said, smiling, "I am Manfred,[1] grandson of the Empress
 Constance; wherefore I pray thee, that when thou returnest, thou
-go to my beautiful daughter,[2] mother of the honor of Sicily and
 of Aragon, and tell to her the truth if aught else be told. After
 I had my body broken by two mortal stabs, I rendered myself,
 weeping, to Him who pardons willingly. Horrible were my sins, but
 the Infinite Goodness has such wide arms that it takes whatever
-turns to it. If the Pastor of Cosenza,[3] who was set on the hunt
 of me by Clement, had then rightly read this page in God, the
 bones of my body would still be at the head of the bridge near
 Benevento, under the guard of the heavy cairn. Now the rain
 bathes them, and the wind moves them forth from the kingdom,
 almost along the Verde, whither he transferred them with
-extinguished light.[4] By their [5] malediction the Eternal Love
 is not so lost that it cannot return, while hope hath speck of
 green. True is it, that whoso dies in contumacy of Holy Church,
-though he repent him at the end, needs must stay outside[6] upon
 this bank thirtyfold the whole time that he has been in his
-presumption,[7] if such decree become not shorter through good
 prayers. See now if thou canst make me glad, revealing to my good
-Constance how thou hast seen me, and also this prohibition,[8]
 for here through those on earth much is gained."
 Anjou was called by Pope Urban IV. to contend against him, and in
 Aragon. She had three sons, Alphonso, James, and Frederick.
@@ -642,7 +574,6 @@ of the Verde.
 the prayers of the good on earth in shortening the period of
 suffering of the souls in Purgatory is more than once referred to
 by him, as well as the virtue of the intercession of the souls in
-Purgatory for the benefit of the living.   [8] The prohibition of
 entering within Purgatory.
 CANTO IV. Ante-Purgatory.--Ascent to a shelf of the
 mountain.--The negligent, who postponed repentance to the last
@@ -651,7 +582,6 @@ When through delights, or through pains which some power of ours
 may experience, the soul is all concentrated thereon, it seems
 that to no other faculty it may attend; and this is counter to
 the error which believes that one soul above another is kindled
-in us.[1] And therefore, when a thing is heard or seen, which may
 hold the soul intently turned to it, the time passes, and the man
 observes it not: for one faculty is that which listens, and
 another is that which keeps the soul entire; the latter is as it
@@ -660,14 +590,12 @@ more than one soul in man, he might give attention to two things
 at once. But when one faculty is free and called into activity,
 the rest of the soul is as it were bound in inaction.
 Of this had I true experience, hearing that spirit and wondering;
-for full fifty degrees had the sun ascended,[1] and I had not
 noticed it, when we came where those souls all together cried out
 to us, "Here is what you ask."
 A larger opening the man of the farm often hedges up with a
 forkful of his thorns, when the  grape grows dark, than was the
 passage through which my Leader and I behind ascended alone, when
 the troop departed from us. One goes to Sanleo, and descends to
-Noli, one mounts up Bismantova[1] to its peak, with only the
 feet; but here it behoves that one fly, I mean with the swift
 wings and with the feathers of great desire, behind that guide
 who gave me hope and made a light for me. We ascended in through
@@ -678,7 +606,6 @@ slope, "My Master," said I, "what way shall we take?" And he to
 me, "Let no step of thine fall back, always win up the mountain
 behind me, till some sage guide appear for us."
 The summit was so high it surpassed the sight and the side
-steeper far than a line from the mid quadrant to the centre.[1] I
 was weary, when I began, "O sweet Father, turn and regard howl
 remain alone if thou dost not stop." "My son," said he, "far as
 here drag thyself," pointing me to a ledge a little above, which
@@ -689,11 +616,8 @@ had ascended, for to look back is wont to encourage one. I first
 turned my eyes to the low shores, then I raised them to the sun,
 and wondered that on the left we were struck by it. The Poet
 perceived clearly that I was standing all bewildered at the
-chariot of the light, where between us and Aquilo,[2] it was
 entering. Whereupon he to me, "If Castor and Pollux were in
-company with that mirror [3] which up and down guides with its
 light, thou wouldst see the ruddy Zodiac revolving still closer
-to the Bears, if it went not out of its old road.[4] How that may
 be, if thou wishest to be able to think, collected in thyself
 imagine Zion and this mountain to stand upon the earth so that
 both have one sole horizon, and different hemispheres; then thou
@@ -703,7 +627,6 @@ on the other side of that, if thy intelligence right clearly
 heeds." "Surely, my Master," said I, "never yet saw I so clearly,
 as I now discern there where my wit seemed deficient; for the
 mid-circle of the supernal motion, which is called Equator in a
-certain art,[4] and which always remains between the sun and the
 winter, for the reason that thou tellest, from here departs
 toward the north, while the Hebrews saw it toward the warm
 region. But, if it please thee, willingly I would know how far we
@@ -737,8 +660,6 @@ hindered not my going to him, and after I had reached him, he
 scarce raised his head, saying, "Hast thou clearly seen how the
 sun over thy left shoulder drives his chariot?"
 His slothful acts and his short words moved my lips a little to a
-smile, then I began, "Belacqua,[1] I do not grieve for thee
-now,[2] but tell me why just here thou art seated? awaitest thou
 a guide, or has only thy wonted mood recaptured thee?" And he,
 "Brother, what imports the going up? For the bird of God that
 sitteth at the gate would not let me go to the torments. It first
@@ -798,20 +719,15 @@ mindful, so that both penitent and pardoning we issued forth from
 life, at peace with God, who fills our hearts with the desire to
 see him." And I, "Although I gaze upon your faces, not one I
 recognize; but if aught that I can do be pleasing to you, spirits
-wellborn,[1] speak ye, and I will do it by that peace which makes
 me, following the feet of such a guide, seek for itself from
 world to world." And one began, "Each of us trusts in thy good
 turn without thy swearing it, provided want of power cut not off
 the will; wherefore I, who alone before the others speak, pray
 thee, if ever thou see that land that sits between Romagna and
-the land of Charles,[2] that thou be courteous to me with thy
 prayers in Fano, so that for me good orisons be made, whereby I
 may purge away my grave offences. Thence was I; but the deep
-wounds, wherefrom issued the blood in which I had my seat,[3]
-were given me in the bosom of the Endoneuria,[4] there  where I
 thought to be most secure; he of Este had it done, who held me in
 wrath far beyond what justice willed. But if I had fled toward
-Mira,[5] when I was overtaken at Oriaco, I should still be yonder
 where men breathe. I ran to the marsh, and the reeds and the mire
 hampered me so that I fell, and there I saw a lake made by my
 veins upon the ground."
@@ -826,19 +742,15 @@ of the Brenta. Why flight thither would have been safe is mere
 matter of conjecture.
 Then said another, "Ah! so may that desire be fulfilled which
 draws thee to the high mountain,  with good piety help thou mine.
-I was of Montefeltro, and am Buonconte.[1] Joan or any other has
 no care for me, wherefore I go among these with downcast front."
 And I to him, "What violence, or what chance so carried thee
-astray from Campaldino,[2] that thy burial place was never
 known?" "Oh!" replied he, "at foot of the Casentino crosses a
 stream, named the Archiano, which rises in the Apennine above the
-Hermitage.[3] Where its proper name becomes vain[4] I arrived,
 pierced in the throat, flying on foot, and bloodying the plain.
 Here I lost my sight, and I ended my speech with the name of
 Mary, and here I fell, and my flesh remained alone. I will tell
 the truth, and do thou repeat it among the living. The Angel of
 God took me, and he of Hell cried out, "O thou from Heaven, why
-dost thou rob me?[5] Thou bearest away for thyself the eternal
 part of him for one little tear which takes him from me; but of
 the rest I will make other disposal." Thou knowest well how in
 the air is condensed that moist vapor which turns to water soon
@@ -866,7 +778,6 @@ contention, as will be remembered, over the soul of Buonconte's
 father.
 "Ah! when thou shalt have returned unto the world, and rested
 from the long journey," the third spirit followed on the second,
-"be mindful of me, who am Pia.[1] Siena made me, Maremma unmade
 me; he knows it who with his gem ringed me, betrothed before."
 family of the Tolomei, and to have been the wife of Nello or
 Paganello de' Pannocchieschi, who was reported to have had her
@@ -888,13 +799,9 @@ forth his hand presses on him no longer, and thus from the throng
 he defends himself. Such was I in that dense crowd, turning my
 face to them this way and that; and, promising, I loosed myself
 from them.
-Here was the Aretine,[1] who from the fierce arms of Ghin di
 Tacco had his death; and the other who was drowned when running
-in pursuit. Here Federigo Novello [2] was praying with hands
 outstretched, and he of Pisa, who made the good Marzucco seem
-strong.[3] I saw Count Orso; and the soul divided from its body
 by spite and by envy, as it said, and not for fault committed,
-Pierre do la Brosse,[5] I mean; and here let the Lady of Brabant
 take forethought, while she is on earth, so that for this she be
 not of the worse flock.
 judge, who had condemned to death for their crimes two relatives
@@ -930,7 +837,6 @@ that some one else should pray, so that their becoming holy may
 be speeded, I began, "It seems that thou deniest to me, O Light
 of mine, expressly, in a certain text, that orison can bend
 decree of Heaven, and this folk pray only for this, -- shall then
-their hope be vain? or is thy saying not rightly clear to me?[1]
 the Styx, while his body was still unburied and without due
 funeral rites. To this petition the Sibyl answers:--Desine fata
 Deum flecti sperare precando:--Cease to hope that the decrees of
@@ -943,7 +849,6 @@ And there where I affirmed this proposition, defect was not
 amended by a prayer, because the prayer was disjoined from God.
 But truly in regard to so deep a doubt decide thou not, unless
 she tell thee who shall be a light between the truth and the
-understanding.[1] I know not if thou understandest; I speak of
 Beatrice. Thou shalt see her above, smiling and happy, upon the
 summit of this mountain."
 cannot be answered with full assurance by human reason.
@@ -963,7 +868,6 @@ to it, praying that it would show to us the best ascent; and it
 answered not to his request, but of our country and life it asked
 us. And the sweet Leader began, "Mantua,"--and the shade, all in
 itself recluse, rose toward him from the place where erst it was,
-saying, "O Mantuan, I am Sordello of thy city,"[1]--and they
 embraced each other.
 the family of the Visconti of Mantua. He left his native land and
 gave up his native tongue to live and write as a troubadour in
@@ -977,7 +881,6 @@ one moat shut in one doth gnaw the other. Search, wretched one,
 around the shores, thy seaboard, and then look within thy bosom,
 if any part in thee enjoyeth peace! What avails it that for thee
 Justinian should mend the bridle, if the saddle be empty? Without
-this, the shame would be less. Ah folk,[1] that oughtest to be
 devout and let Caesar sit in the saddle, if thou rightly
 understandest what God notes for thee! Look how fell this wild
 beast has become, through not being corrected by the spurs, since
@@ -985,13 +888,10 @@ thou didst put thy hand upon the bridle. O German Albert, who
 abandonest her who has become untamed and savage, and oughtest to
 bestride her saddle-bows, may a just judgment from the stars fall
 upon thy blood, and may it be strange and manifest, so that thy
-successor may have fear of it! [2] For thou and thy father,
 retained up there by greed, have suffered the garden of the
 empire to become desert. Come thou to see Montecchi and
-Cappelletti, Monaldi and Filippeschi,[3] thou man without care:
 those already wretched, and these in dread. Come, cruel one,
 come, and see the distress of thy nobility, and cure their hurts;
-and thou shalt see Santafiora[4] how safe it is. Come to see thy
 Rome, that weeps, widowed and alone, and day and night cries, "My
 Caesar, wherefore dost thou not keep me company?" Come to see the
 people, how loving it is; and, if no pity for us move thee, come
@@ -1001,7 +901,6 @@ eyes turned aside elsewhere? Or is it preparation, that in the
 abyss of thy counsel thou art making for some good utterly cut
 off from our perception? For the cities of Italy are all full of
 tyrants, and every churl that comes playing the partisan becomes
-a Marcellus?[5]
 "Render unto Caesar the things which are Caesar's."
 King of the Romans in 1298, but like his father never went to
 Italy to he crowned. He was murdered by his nephew, John, called
@@ -1060,7 +959,6 @@ only, where the lamentations sound not as wailings, but are
 sighs; there stay I with the little innocents bitten by the teeth
 of death before they were exempt from human sin; there stay I
 with those who were not vested with the three holy virtues, and
-without vice knew the others and followed all of them.[1] But if
 thou knowest and canst, give us some direction whereby we may
 come more speedily there where Purgatory has its true beginning."
 He replied, "A certain place is not set for us; it is permitted
@@ -1075,8 +973,6 @@ another, or would he not be able to ascend?" And the good
 Sordello drew his finger on the ground, saying, "See, only this
 line thou couldst not pass after set of sun; not because aught
 else save the nocturnal darkness would give hindrance to going
-up; that hampers the will with impotence.[2] One could, indeed,
-in it[3] turn downward and walk the hillside wandering around,
 while the horizon holds the day shut up." Then my Lord, as if
 wondering, said, "Lead us, then, there where thou sayest one may
 have delight while waiting."
@@ -1091,14 +987,12 @@ the hillside makes a lap of itself, and there will we await the
 new day." Between steep and level was a winding path that led us
 into a side of the dale, where more than by half the edge dies
 away. Gold and fine silver, and scarlet and white, Indian wood
-lucid and clear,[1] fresh emerald at the instant it is split,
 would each be vanquished in color by the herbage and by the
 flowers set within that valley, as by its greater the less is
 vanquished. Nature had not only painted there, but with sweetness
 of a thousand odors she made there one unknown and blended.
 Upon the green and upon the flowers I saw souls who, because of
 the valley, were not visible from without, seated here singing
-"Salve regina." [1] "Before the lessening sun sinks to his nest,"
 began the Mantuan who had turned us thither, "desire not that
 among these I guide you. From this bank ye will better become
 acquainted with the acts and countenances of all of them, than
@@ -1106,19 +1000,12 @@ received among them on the level below. He who sits highest and
 has the semblance of having neglected what he should have done,
 and who moves not his mouth to the others' songs, was Rudolph the
 Emperor, who might have healed the wounds that have slain Italy,
-so that slowly by another she is revived.[2] The next, who in
 appearance comforts him, ruled the land where the water rises
 that Moldau bears to Elbe, and Elbe to the sea. Ottocar was his
-name,[3] and in his swaddling clothes he was better far than
-bearded Wenceslaus, his son, whom luxury and idleness feed.[4]
 And that small-nosed one, who seems close in counsel with him who
 has so benign an aspect, died in flight and disflowering the
-lily;[5]  look there how he beats his breast. See the next who,
-sighing, has made a bed for his cheek with his hand.[6] Father
 and father-in-law are they of the harm of France; they know his
 vicious and foul life, and thence comes the grief that so pierces
-them. He who looks so large-limbed,[7] and who accords in singing
-with him of the masculine nose,[8] wore girt the cord of every
 worth, and if the youth that is sitting behind him had followed
 him as king, truly had worth gone from vase to vase, which cannot
 be said of the other heirs: James and Frederick hold the realms;
@@ -1126,12 +1013,8 @@ goodness rise through the branches, and this He wills who gives
 it, in order that it may be asked from Him. To the large-nosed
 one also my words apply not less than to the other, Peter, who is
 singing with him; wherefore Apulia and Provence are grieving
-now.[10] The plant is as inferior to its seed, as, more than
-Beatrice and Margaret, Constance still boasts of her husband.[11]
 See the King of the simple life sitting there alone, Henry of
-England; he in his branches hath a better issue.[12] That one who
 lowest among them sits on the ground, looking upward, is William
-the marquis,[13] for whom Alessandria and her war make Montferrat
 and the Canavese mourn."
 vespers, of which the first verses are:--
 Salve, Regina, mater misericordiae!
@@ -1174,13 +1057,11 @@ dying day,--when I began to render hearing vain, and to look at
 one of the souls who, uprisen, besought attention with its hand.
 It joined and raised both its palms, fixing its eyes toward the
 orient, as if it said to God, "For aught else I care not." "Te
-lucis ante"[1] so devoutly issued from his mouth and with such
 sweet notes that it made me issue forth from my own mind. And
 then the others sweetly and devoutly accompanied it through all
 the hymn to the end, having their eyes upon the supernal wheels.
 Here, reader, sharpen well thine eyes for the truth, for the veil
 is now indeed so thin that surely passing through within is
-easy.[2]
 service of the day:
 Te locis ante terminum,
 Rerom Creator poscimus,
@@ -1221,8 +1102,6 @@ to them to see you." Only three steps I think I had descended and
 I was below; and I saw one who was gazing only at me as if he
 wished to know me. It was now the time when the air was
 darkening, but not so that between his eyes and mine it did not
-reveal that which it locked up before.[1] Towards me he moved,
-and I moved towards him. Gentle Judge Nino,[2] how much it
 pleased me when I saw that thou wast not among the damned! No
 fair salutation was silent between us; then he asked, "How long
 is it since thou camest to the foot of the mountain across the
@@ -1236,19 +1115,13 @@ judicature of Gallura, where Frate Gomita (see Hell, Canto XXII.)
 had been his vicar. Nino died in 1296.
 "Oh," said I to him, "from within the dismal places I came this
 morning, and I am in the first life, albeit in going thus, I may
-gain the other." And when my answer was heard, Sordello[1] and he
 drew themselves back like folk suddenly bewildered, the one to
 Virgil, and the other turned to one who was seated there, crying,
-"Up, Corrado,[2] come to see what God through grace hath willed."
 Then, turning to me, "By that singular gratitude thou owest unto
-Him who so hides His own first wherefore[3] that there is no ford
 to it, when thou shalt be beyond the wide waves, say to my Joan,
 that for me she cry there where answer is given to the innocent.
-I do not think her mother[4] loves me longer, since she changed
-her white wimples,[5] which she, wretched, needs must desire
 again. Through her easily enough is comprehended how long the
 fire of love lasts in woman, if eye or touch does not often
-rekindle it. The viper[6] which leads afield the Milanese will
 not make for her so fair a sepulture as the cock of Gallura would
 have done." Thus he said, marked in his aspect with the stamp of
 that upright zeal which in due measure glows in the heart.
@@ -1264,7 +1137,6 @@ My greedy eyes were going ever to the sky, ever there where the
 stars are slowest, even as a wheel nearest the axle. And my
 Leader, "Son, at what lookest thou up there?" And I to him, "At
 those three torches with which the pole on this side is all
-aflame." [1] And he to me, "The four bright stars which thou
 sawest this morning are low on the other side, and these are
 risen where those were."
 virtues, -- faith. hope, and charity, whose light shines when the
@@ -1284,10 +1156,8 @@ The shade which had drawn close to the Judge when he exclaimed,
 through all that assault had not for a moment loosed its gaze
 from me. "So may the light that leadeth thee on high find in
 thine own free-will so much wax as is needed up to the enamelled
-summit,"[1] it began, "if thou knowest true news of Valdimacra[2]
 or of the neighboring region, tell it to me, for formerly I was
 great there. I was called Corrado Malaspina; I am not the
-ancient,[3] but from him I am descended; to mine own I bore the
 love which here is refined." "Oh," said I to him, "through your
 lands I have never been, but where doth man dwell in all Europe
 that they are not renowned? The fame that honoreth your house
@@ -1296,9 +1166,7 @@ them who never yet was there; and I swear to you, so may I go
 above, that your honored race doth not despoil itself of the
 praise of the purse and of the sword. Custom and nature so
 privilege it that though the guilty head turn the world awry,
-alone it goes right and scorns the evil road."[4] And he, "Now
 go, for the sun shall not lie seven times in the bed that the Ram
-covers and bestrides with all four feet,[5] before this courteous
 opinion will be nailed in the middle of thy head with greater
 nails than the speech of another, if course of judgment be not
 arrested."
@@ -1317,7 +1185,6 @@ on Dante's Forehead.--Entrance to the First Ledge.
 The concubine of old Tithonus was now gleaming white on the
 balcony of the orient, forth from the arms of her sweet friend;
 her forehead was lucent with gems set in the shape of the cold
-animal that strikes people with its tail.[1] And in the place
 where we were the night had taken two of the steps with which she
 ascends, and the third was already bending down its wings, when
 I, who had somewhat of Adam with me, overcome by sleep, reclined
@@ -1330,18 +1197,14 @@ the horizon, and, finally, it was shortly after 8.30 P.M."
 (Moore.) "The steps with which the night ascends" are the six
 hours of the first half of the night, from 6 P.M. to midnight.
 At the hour near the morning when the little swallow begins her
-sad lays,[1] perchance in memory of her former woes, and when our
 mind, more a wanderer from the flesh and less captive to the
-thought, is in its visions almost divine,[2] in dream it seemed
 to me that I saw poised in the sky an eagle with feathers of
 gold, with wings widespread, and intent to stoop. And it seemed
-to me that I was there[3] where his own people were abandoned by
 Ganymede, when he was rapt to the supreme consistory. In myself I
 thought, "Perhaps this bird strikes only here through wont, and
 perhaps from other place disdains to carry anyone upward in his
 feet." Then it seemed to me that, having wheeled a little, it
 descended terrible as a thunderbolt, and snatched me upwards far
-as the fire.[4] There it seemed that it and I burned, and the
 imagined fire so scorched that of necessity the sleep was broken.
 turned the one into a swallow, the other into a nightingale.
 Dante found the tale in Ovid's Metamorphoses, Book vi.
@@ -1352,10 +1215,8 @@ cosmography, the sphere of the air was surrounded.
 Not otherwise Achilles shook himself,--turning around his
 awakened eyes, and not knowing where he was, when his mother from
 Chiron to Scyros stole him away, sleeping in her arms, thither
-whence afterwards the Greeks withdrew him,[1]--than I started,
 as from my face sleep fled away; and I became pale, even as a man
 frightened turns to ice. At my side was my Comforter only, and
-the sun was now more than two hours high,[2] and my face was
 turned toward the sea. "Have no fear," said my Lord; "be
 reassured, for we are at a good point; restrain not, but increase
 all thy force. Thou art now arrived at Purgatory; see there the
@@ -1385,7 +1246,6 @@ gratia operans of the school-men. It was she who was called upon
 by the Virgin (Hell, Canto II.) to aid Dante when he was astray
 in the wood, and who had moved Beatrice to go to his succor.
 Reader, thou seest well how I exalt my theme, and therefore
-marvel not if with more art I reenforce it.[1]
 which underlies the imagery of the verse.
 The entrance within the gate of Purgatory is the assurance of
 justification, which is the change of the soul from a state of
@@ -1409,11 +1269,9 @@ first there seemed to me a rift, like a cleft which divides a
 wall, I saw a gate, and three steps beneath for going to it of
 divers colors, and a gatekeeper who as yet said not a word. And
 as I opened my eye there more and more, I saw him sitting on the
-upper step, such in his face that I endured it not.[1] And he had
 in his hand a naked sword, which so reflected the rays toward us
 that I often raised my sight in vain. "Tell it from there, what
 would ye?" began he to say; "where is the guide? Beware lest the
-coming up be harmful to you." [2] "A lady from Heaven with these
 things acquainted," replied my Master to him, "only just now said
 to us, 'Go thither, here is the gate.'" "And may she speed your
 progress in good," began again the courteous gatekeeper, "come
@@ -1427,12 +1285,9 @@ stone, cracked lengthwise and athwart. The third, which above
 lies massy, seemed to me of porphyry as flaming red as blood that
 spirts forth from a vein. Upon this the Angel of God held both
 his feet, seated upon the threshold that seemed to me stone of
-adamant.[1] Up over the three steps my Leader drew me with good
 will, saying, "Beg humbly that he undo the lock." Devoutly I
 threw myself at the holy feet; I besought for mercy's sake that
 he would open for me; but first upon my breast I struck three
-times.[2] Seven P's upon my forehead he inscribed with the point
-of his sword,[3] and "See that thou wash these wounds when thou
 art within," he said.
 contrition, the third of satisfaction; the threshold of adamant
 may perhaps signify the authority of the Church.
@@ -1445,20 +1300,16 @@ removed from the soul.
 Ashes or earth dug out dry would be of one color with his
 vestment, and from beneath that he drew two keys. One was of gold
 and the other was of silver; first with the white and then with
-the yellow he so did to the door, that I was content.[1]
 "Whenever one of these keys fails, and turns not rightly in the
 lock," said he to us, "this passage doth not open. More precious
-is one[2] but the other requires much art and wit before it
 unlocks, because it is the one that disentangles the knot. From
 Peter I hold them; and he told me to err rather in opening than
 in keeping shut, if but the people prostrate themselves at my
 feet." Then he pushed the valve of the sacred gate, saying,
 "Enter, but I give you warning that whoso looks behind returns
-outside."[3] And when the pivots of that sacred portal, which are
 of metal, sonorous and strong, were turned within their hinges,
 Tarpeia roared not so loud nor showed herself so harsh, when the
 good Metellus was taken from her, whereby she afterwards remained
-lean.[4]
 silver of the knowledge to whom to open.
 purchased by the death of the Saviour.
 the last words of the angel, and may symbolize the voices of his
@@ -1466,15 +1317,12 @@ own sins as the sinner turns his back on them. When Caesar forced
 the doors of the temple of Saturn on the Tarpeian rock, in order
 to lay hands on the sacred treasure of Rome, he was resisted by
 the tribune Metellus.
-I turned away attentive to the first tone,[1] and it seemed to me
-I heard "Te Deum laudamus"[2] in voices mingled with sweet sound.
 That which I heard gave me just such an impression as we are wont
 to receive when people stand singing with an organ, and the words
 now are, now are not caught.
 CANTO X. First Ledge: the Proud.--Examples of Humility sculptured
 on the Rock.
 When we were within the threshold of the gate, which the souls'
-wrong love[1] disuses, because it makes the crooked way seem
 straight, I heard by its resounding that it was closed again.
 And, if I had turned my eyes to it, what excuse would have been
 befitting for the fault?
@@ -1482,11 +1330,9 @@ rightly directed, of good deeds; perverted, of evil. See Canto
 We were ascending through a cloven rock, which moved on one side
 and on the other, even as the wave retreats and approaches. "Here
 must be used a little art," began my Leader, "in keeping close,
-now here, now there to the side which recedes."[1] And this made
 our progress so slow that the waning disk of the moon regained
 its bed to go to rest, before we had come forth from that
 needle's eye. But when we were free and open above, where the
-mountain backward withdraws,[2] I weary, and both uncertain of
 our way, we stopped upon a level more solitary than roads through
 deserts. The space from its edge, where it borders the void, to
 the foot of the high bank which rises only, a human body would
@@ -1504,7 +1350,6 @@ interdict, appeared before us here carved in a sweet attitude so
 truly that he did not seem an image that is silent. One would
 have sworn that he was saying "Ave;" for there was she imaged who
 turned the key to open the exalted love. And in her action she
-had these words impressed, "Ecce ancilla Dei!"[1] as exactly as a
 shape is sealed in wax.
 "Keep not thy mind only on one place," said the sweet Master, who
 had me on that side where people have their heart. Wherefore I
@@ -1513,15 +1358,12 @@ who was moving me, another story displayed upon the rock;
 whereupon I passed Virgil and drew near so that it might be set
 before my eyes. There in the very marble was carved the cart and
 the oxen drawing the holy ark, because of which men fear an
-office not given in charge.[1] In front appeared people; and all
 of them, divided in seven choirs, of two of my senses made the
-one say "NO," the other "YES, THEY ARE SINGING."[2]  In like
 manner, by the smoke of the incense that was imaged there, mine
 eyes and nose were made in YES and NO discordant. There,
 preceding the blessed vessel, dancing, girt up, was the humble
 Psalmist, and more and less than king was he in that proceeding.
 Opposite, figured at a window of a great palace, Michal was
-looking on even as a lady scornful and troubled.[3]
 out of the house.. . and Uzzah and Ahio drave the new cart....and
 when they came to Nachon's threshing-floor, Uzzah put forth his
 hand to the ark of God, and took hold of it; for the oxen shook
@@ -1540,7 +1382,6 @@ him in her heart." 2 Samuel, vi. 12-16.
 I moved my feet from the place where I was standing to look from
 near at another story which behind Michal was shining white on
 me. Here was storied the high glory of the Roman prince, whose
-worth incited Gregory to his great victory:[1] I speak of Trajan
 the emperor; and a poor widow was at his bridle in attitude of
 weeping and of grief. Round about him there seemed a press and
 throng of knights, and the eagles in the gold above him to the
@@ -1553,7 +1394,6 @@ am will do it for thee." And she, "What will the good deed of
 another be to thee if thou art mindless of thine own?" Whereon
 he, "Now comfort thee; for it behoves that I discharge my own
 duty ere I go; justice requires it, and pity constrains me." He
-who hath never seen new thing [2] had produced that visible
 speech, novel to us, since on earth it is not found.
 It was believed that Pope Gregory the Great interceded for him,
 praying that he might be delivered from Hell; "then God because
@@ -1592,7 +1432,6 @@ weeping, appeared to say, "I can no more."
 CANTO XI. First Ledge: the Proud.--Prayer.--Omberto
 Aldobrandeschi.--Oderisi d' Agubbio.--Provinzan Salvani.
 "O our Father who art in Heaven, not circumscribed, but through
-the greater love which to the first effects on high Thou hast,[1]
 praised be Thy name and Thy power by every creature, even as it
 is befitting to render thanks to Thy sweet effluence. May the
 peace of Thy Kingdom come towards us, for we to it cannot of
@@ -1632,7 +1471,6 @@ face low, I would look at that one who is still alive and is not
 named, to see if I know him, and to make him pitiful of this
 burden. I was Italian, and born of a great Tuscan; Guglielmo
 Aldobrandesco was my father: I know not if his name was ever with
-you.[1] The ancient blood and the gallant deeds of my ancestors
 made me so arrogant that, not thinking on the common mother, I
 held every man in scorn to such extreme that I died therefor, as
 the Sienese know, and every child in Campagnatico knows it. I am
@@ -1647,37 +1485,29 @@ Listening, I bent down my face; and one of them, not he who was
 speaking, twisted himself under the weight that hampers him; and
 he saw me, and recognized me and called out, keeping his eyes
 with effort fixed on me, who was going along all stooping with
-him.[1] "Oh," said I to him, "art thou not Oderisi, the honor of
 Gubbio, and the honor of that art which in Paris is called
 illumination?" "Brother," said he, "more smiling are the leaves
 that Franco of Bologna pencils; the honor is now all his, and
-mine in part.[2] Truly I should not have been so courteous while
 I lived, because of the great desire of excelling whereon my
 heart was intent. Of such pride here is paid the fee; and yet I
 should not be here, were it not that, still having power to sin,
 I turned me unto God. Oh vainglory of human powers! how little
 lasts the green upon the top, if it be not followed by dull
-ages.[3] Cimabue thought to hold the field in painting, and now
 Giotto has the cry, so that the fame of him is obscured. In like
 manner one Guido hath taken from the other the glory of the
 language; and he perhaps is born who shall drive both one and the
-other from the nest.[4] Worldly renown is naught but a breath of
 wind, which now comes hence and now comes thence, and changes
 name because it changes quarter. What more fame shalt thou have,
 if thou strippest old flesh from thee, than if thou hadst died
-ere thou hadst left the pap and the chink,[5] before a thousand
 years have passed?--which is a shorter space compared to the
 eternal than a movement of the eyelids to the circle that is
 slowest turned in Heaven. With him who takes so little of the
 road in front of me, all Tuscany resounded, and now he scarce is
 lisped of in Siena, where he was lord when the Florentine rage
-was destroyed,[6] which at that time was proud, as now it is
 prostitute. Your reputation is color of grass that comes and
-goes, and he[7] discolors it through whom it came up fresh from
 the earth." And I to him, "Thy true speech brings good humility
 to my heart, and thou allayest a great swelling in me; but who is
 he of whom thou now wast speaking?" "He is," he answered,
-"Provinzan Salvani;[8] and he is here, because he was
 presumptuous in bringing all Siena to his hands. He has gone
 thus--and he goes without repose--ever since he died: such money
 doth he pay in satisfaction, who is on earth too daring." And I,
@@ -1686,12 +1516,10 @@ abides there below, and unless good prayer further him ascends
 not hither, ere as much time pass us he lived, how has this
 coining been granted unto him?" "When he was living most
 renowned," said he, "laying aside all shame, of his own accord he
-planted himself in the Campo of Siena,[9] and there, to draw his
 friend from the punishment he was enduring in the prison of
 Charles, brought himself to tremble in every vein. More I will
 not say, and I know that I speak darkly; but little time will
 pass, before thy neighbors will so act that thou wilt he able to
-gloss it.[10] This deed released him from those limits."[11]
 as his own besetting sin.
 the art called miniare in Italian, enluminer in French.
 calls (see Canto XXVI.) his master; the other probably Dante's
@@ -1729,11 +1557,8 @@ oftentimes is weeping for them there, through the pricking of
 remembrance, which only to the pious gives the spur,--so saw I
 figured there, but of better semblance in respect of skill, all
 that for pathway juts out from the mountain.
-I saw him who was created more noble than any other creature,[1]
 down from heaven with lightning flash descending, at one side.
-I saw Briareus[1] transfixed by the celestial bolt, lying at the
 other side, heavy upon the earth in mortal chill. I saw
-Thymbraeus,[2] I saw Pallas and Mars, still armed, around their
 father, gazing at the scattered limbs of the giants.
 Troy, where Achilles is said to have slain Paris. Virgil
 (Georgics, iv. 323) uses this epithet.
@@ -1742,20 +1567,15 @@ gazing at the people who in Shinar had with him been proud.
 O Niobe! with what grieving eyes did I see thee portrayed upon
 the road between thy seven and seven children slain!
 O Saul! how on thine own sword here didst thou appear dead on
-Gilboa, that after felt not rain or dew![1]
-O mad Arachne,[1] so I saw thee already half spider, wretched on
 the shreds of the work that to thy harm by thee was made!
 trial of skill at the loom.
 O Rehoboam! here thine image seems not now to threaten, but full
-of fear, a chariot bears it away before any one pursues it.[1]
 The hard pavement showed also how Alcmaeon made the ill-fated
-ornament seem costly to his mother.[1]
 went to the Theban war, hid himself to avoid being forced to go.
 His wife, Eriphyle, bribed by a golden necklace, betrayed his
 hiding-place, and was killed by her son Alcmaeon, for thus
 bringing about his father's death.
 It showed how his sons threw themselves upon Sennacherib within
-the temple, and how they left him there dead.[1]
 It showed the ruin and the cruel slaughter that Tomyris wrought,
 when she said to Cyrus, "For blood thou hast thirsted, and with
 blood I fill thee."
@@ -1763,7 +1583,6 @@ Massagetae, having defeated and slain Cyrus, filled a skin full
 of human blood, and plunged his head in it with words such as
 Dante reports, and which he derived from Orosius, Histor. ii. 7.
 It showed how the Assyrians fled in rout after Holofernes was
-killed, and also the remainder of the punishment.[1]
 I saw Troy in ashes, and in caverns. O Ilion! how cast down and
 abject the image which is there discerned showed thee!
 What master has there been of pencil or of style that could draw
@@ -1778,7 +1597,6 @@ course far more spent, than my mind, not disengaged, was aware,
 when he, who always in advance attent was going on, began, "Lift
 up thy head; there is no more time for going thus abstracted. See
 there an Angel, who is hastening to come toward us: see how from
-the service of the day the sixth hand-maiden returns.[1] With
 reverence adorn thine acts and thy face so that he may delight to
 direct us upward. Think that this day never dawns again."
 I was well used to his admonition ever to lose no time, so that
@@ -1790,16 +1608,9 @@ hand are the steps, and easily henceforth one ascends. To this
 invitation very few come. O human race, born to fly upward, why
 before a little wind dost thou so fall?"
 He led us to where the rock was cut; here he struck his wings
-across my forehead,[1] then promised me secure progress.
 on Dante's brow.
-As on the right hand, in going up the mountain,[1] where sits the
-church that dominates her the well-guided[2] city above
-Rubaconte,[3] the bold flight of the ascent is broken by the
 stairs, which were made in an age when the record and the stave
-were secure,[4] in like manner, the bank which falls here very
 steeply from the next round is slackened; but on this side and
-that the high rock grazes.[5] As we turned our persons thither,
-voices sang "Beati pauperes spiritu"[6] in such wise that speech
 could not tell it. Ah, how different are these passes from those
 of Hell! for here through songs one enters, and there below
 through fierce lamentings.
@@ -1820,7 +1631,6 @@ Now we were mounting up over the holy stairs, and it seemed to me
 I was far more light than I had seemed on the plain before.
 Whereon I, "Master, say, what heavy thing has been lifted from
 me, so that almost no weariness is felt by me as I go on?" He
-answered, "When the P's that almost extinct[1] still remain on
 thy countenance shall be, as one is, quite erased, thy feet will
 be so conquered by good will that not only they will not feel
 fatigue, but it will be delight to them to be urged up." Then I
@@ -1842,7 +1652,6 @@ We were at the top of the stairway, where the mountain, ascent of
 which frees one from ill, is the second time cut back. There a
 cornice binds the hill round about, in like manner as the first,
 except that its arc bends more quickly. No shadow is there, nor
-mark which is apparent [1] so that the bank appears smooth and so
 the path, with the livid color of the stone.
 "If to enquire one waits here for people," said the Poet, "I fear
 that perhaps our choice will have too much delay." Then he set
@@ -1857,16 +1666,13 @@ As far as here on earth is counted for a mile, so far had we now
 gone there, in little time because of ready will; and towards us
 were heard to fly, not however seen, spirits uttering courteous
 invitations to the table of love. The first voice that passed
-flying, "Virum non habent,"[1] loudly said, and went on behind
 us reiterating it. And before it had become quite inaudible
-through distance, another passed by, crying, "I am Orestes," [2]
 and also did not stay. "O Father," said I, "what voices are
 these?" and even as I was asking, lo! the third, saying, "Love
 them from whom ye have had wrong." And the good Master: "This
 circle scourges the sin of envy, and therefore from love are
 drawn the cords of the scourge. The curb must be of the opposite
 sound; I think that thou wilt hear it before thou arrivest at the
-pass of pardon.[3] But fix thine eyes very fixedly through the
 air, and thou wilt see in front of us people sitting, and each is
 seated against the rock." Then more than before I opened my eyes;
 I looked in front of me, and saw shades with cloaks in color not
@@ -1883,7 +1689,6 @@ when I had approached so near to them that their actions came
 surely to me, tears were drawn from my eyes by heavy grief. They
 seemed to me covered with coarse haircloth, and one supported the
 other with his shoulders, and all were supported by the bank.
-Thus the blind, who lack subsistence, stand at pardons[1] to beg
 for what they need, and one bows his head upon another, so that
 pity may quickly be moved in others, not only by the sound of the
 words, but by the sight which implores no less. And as to the
@@ -1906,11 +1711,8 @@ stitches were pressing out the tears so that they bathed their
 cheeks. I turned me to them, and, "O folk secure," I began, "of
 seeing the lofty light which alone your desire holds in its care,
 may grace speedily dissolve the scum of your consciences so that
-the stream of memory through them may descend clear,[1] tell me,
 for it will be gracious and dear to me, if there be a soul here
 among you that is Latin, and perhaps it will be good for him if I
-learn it." "O my brother, each is a citizen of one true city,[2]
-but thou meanest, who lived in Italy while a pilgrim."[3] This it
 seemed to me to hear for answer somewhat further on than where I
 was standing; wherefore I made myself heard still more that way.
 Among the others I saw a shade that was expectant in look; and,
@@ -1924,15 +1726,12 @@ I was not, although I was called Sapia, and I was far more glad
 of others' harm than of my own good fortune. And that thou mayst
 not believe that I deceive thee, bear if I was foolish as I tell
 thee. The arch of my years already descending, my fellow-citizens
-were joined in battle near to Colle[4] with their adversaries,
 and I prayed God for that which He willed. They were routed
 there, and turned into the bitter passes of flight; and I, seeing
 the pursuit, experienced a joy unmatched by any other; so much
 that I turned upward my audacious face, crying out to God, 'Now
 no more I fear thee;' as the blackbird doth because of a little
 fair weather. At the very end of my life I desired peace with
-God; and even yet my debt would not be lessened by penitence,[5]
-had it not been that Pier Pettinagno,[6] who out of charity was
 sorry for me, held me in memory in his holy prayers. But thou,
 who art thou that goest asking of our conditions, and bearest
 thine eyes loose as I think, and breathing dost speak?" "My
@@ -1950,8 +1749,6 @@ loves thee; therefore assist me sometimes with thy prayer. And I
 beseech thee, by that which thou most desirest, if ever thou
 tread the earth of Tuscany, that with my kindred thou restore my
 fame. Thou wilt see them among that vain people which hopes in
-Talamone,[7] and will waste more hope there, than in finding the
-Diana[8] but the admirals will stake the most there.[9]
 God."--Ephesians, ii. 19.
 come."--Hebrews, xiii. 14.
 die Sienese Ghibellines, at whose head was Provenzan Salvani. who
@@ -1965,7 +1762,6 @@ Pisans and Genoese.
 CANTO XIV. Second Ledge: the Envious--Guido del Duca.--Rinieri
 de' Calboli.--Examples of the punishment of Envy.
 "Who is this that circles our mountain ere death have given him
-flight, and opens and shuts his eyes at his own will?"[1] "I know
 not who he is, but I know that he is not alone. Do thou, who art
 nearer to him, ask him; and sweetly, so that he may speak, accost
 him." Thus two spirits, leaning one to the other, discoursed of
@@ -1975,7 +1771,6 @@ goest on toward heaven, for charity console us, and tell us
 whence thou comest, and who thou art; for thou makest us so
 marvel at this thy grace, as needs must a thing that never was
 before." And I, "Through mid Tuscany there wanders a little
-stream, that has its rise on Falterona,[2] and a hundred miles of
 coarse does not suffice it. From thereupon I bring this body.
 To tell you who I am would be to speak in vain, for my name as
 yet makes no great sound." "If I grasp aright thy meaning with my
@@ -1985,7 +1780,6 @@ conceal the name of that river, even as one does of horrible
 things?" And the shade of whom this was asked, delivered itself
 thus, "I know not, but truly it is fit that the name of such a
 valley perish, for from its source (where the rugged mountain
-chain, from which Pelorus[3] is cut off, is so teeming that in
 few places it passes beyond that mark), far as there where it
 gives back in restoration that which heaven dries up of the sea
 (wherefrom the rivers have what flows in them), virtue is driven
@@ -1993,23 +1787,15 @@ away as an enemy by all men, like a snake, either through
 misfortune of the place, or through evil habit that incites them.
 Wherefore the inhabitants of the wretched valley have so changed
 their nature that it seems as though Circe had had them in her
-feeding. Among foul hogs,[4] more fit for acorns than for other
 food made for human use, it first directs its poor path. Then,
 coming down, it finds curs more snarling, than their power
-warrants,[5] and at them disdainfully it twists its
-muzzle.[6] It goes on falling, and the more it swells so much the
 more the accursed and ill-fated ditch finds the dogs becoming
-wolves.[7] Descending then through many hollow gulfs, it finds
-foxes[8] so full of fraud, that they fear not that wit may entrap
 them. Nor will I leave to speak though another hear me: and well
 it will be for this one if hereafter he mind him of that which a
 true spirit discloses to me.
 Rinieri de' Calboli; both of them from the Romagna.
-"I see thy grandson,[1] who becomes hunter of those wolves upon
 the bank of the fierce stream, and terrifies them all. He sells
-their flesh,[2] it being yet alive; then he slays them, like an
 old wild beast; many of life, himself of honor he deprives.
-Bloody he comes forth from the dismal wood;[3] he leaves it such,
 that from now for a thousand years, in its primal state it is not
 rewooded." As at the announcement of grievous ills, the face of
 him who listens is disturbed, from whatsoever side the danger may
@@ -2031,9 +1817,6 @@ have seen me overspread with livid hue. Of my sowing I reap this
 straw. O human race, why dost thou set thy heart there where is
 need of exclusion of companionship?
 "This one is Rinier; this is the glory and the honor of the house
-of Calboli,[1] where no one since has made himself heir of his
-worth. And between the Po and the mountain,[2] and the sea[3] and
-the Reno,[4] not his blood alone has become stripped of the good
 required for truth and for delight; for within these limits the
 ground is so full of poisonous stocks, that slowly would they now
 die out through cultivation. Where is the good Lizio, and Arrigo
@@ -2051,7 +1834,6 @@ since thy family hath gone, and many people, in order not to be
 guilty? Well doth Bagnacaval that gets no more sons; and ill doth
 Castrocaro, and worse Conio that takes most trouble to beget such
 counts. Well will the Pagani do when their Demon shall go from
-them;[6] yet not so that a pure report of them can ever remain. O
 Ugolin de' Fantolin! thy name is secure, since one who,
 degenerating, can make it dark is no longer awaited. But go thy
 way, Tuscan, now; for now it pleases me far more to weep than to
@@ -2064,13 +1846,10 @@ We knew that those dear souls heard us go; therefore by silence
 they made us confident of the road. After we had become alone by
 going on, a voice that seemed like lightning when it cleaves the
 air, came counter to us, saying, "Everyone that findeth me shall
-slay me," [1] and fled like thunder which rolls away, if suddenly
 the cloud is rent. Soon as our hearing had a truce from it, lo!
 now another with so great a crash that it resembled thunderings
-in swift succession: "I am Aglauros who became a stone."[2] And
 then to draw me close to the Poet, I backward and not forward
 took a step. Now was the air quiet on every side, and he said to
-me, "That was the hard curb[3] which ought to hold man within his
 bound; but ye take the bait, so that the hook of the old
 adversary draws you to him, and therefore little avails bridle or
 lure. Heaven calls you, and around you circles, displaying to you
@@ -2084,12 +1863,8 @@ Forbearance seen in Vision.
 As much as appears, between the beginning of the day and the
 close of the third hour, of the sphere that ever in manner of a
 child is sporting, so much now, toward the evening, appeared to
-be remaining of his course for the sun.[1] It was vespers[2]
-there,[3] and here midnight; and the rays struck us across the
-nose,[4] because the mountain had been so circled by us that we
 were now going straight toward the sunset, when I felt my
 forehead weighed down by the splendor far more than at first, and
-the things not known were a wonder to me.[5] Wherefore I lifted
 my hands toward the top of my brows, and made for myself the
 visor that lessens the excess of what is seen.
 sphere that ever is sportive like a child has been variously
@@ -2103,7 +1878,6 @@ caused him astonishment.
 As when from water, or from the mirror, the ray leaps to the
 opposite quarter, and, mounting up in like manner to that in
 which it descends, at equal distance departs as much from the
-falling of the stone,[1] as experiment and art show; so it seemed
 to me that I was struck by light reflected there in front of me,
 from which my sight was swift to fly. "What is that, sweet
 Father, from which I cannot screen my sight so that it avails
@@ -2115,25 +1889,19 @@ will be delight to thee as great as nature fitted thee to feel."
 When we had reached the blessed Angel, with a glad voice he said,
 "Enter ye here to a stairway far less steep than the others."
 We were mounting, already departed thence, and "Beati
-misericordes"[1] had been sung behind us, and "Rejoice thou that
-overcomest." [2] My Master and I, we two alone, were going on
 upward, and I was thinking to win profit as we went from his
 words; and I addressed me to him, thus enquiring, "What did the
 spirit from Romagna mean, mentioning exclusion and
-companionship?"[3] Wherefore he to me, "Of his own greatest fault
 he knows the harm, and therefore it is not to be wondered at if
 he reprove it, in order that there may be less lamenting on
 account of it. Because  your desires are directed there, where,
 through companionship, a share is lessened, envy moves the
-bellows for your sighs. But if the love of the highest sphere[4]
 had turned your desire on high, that fear would not be in your
 breast; for the more there are who there say 'ours,' so much the
 more of good doth each possess, and the more of charity burns in
-that cloister."[5] "I am more hungering to be contented," said I,
 "than if I had at first been silent, and more of doubt I assemble
 in my mind. How can it be that a good distributed makes more
 possessors richer with itself, than if by few it is
-possessed?"[6] And he to me, "Because thou fastenest thy mind
 only on earthly things, from true light thou gatherest darkness.
 That infinite and ineffable Good which is on high, runs to love
 even as the sunbeam comes to a lucid body. As much of itself it
@@ -2145,7 +1913,6 @@ to the other. And if my discourse appease not thy hunger, thou
 shalt see Beatrice, and she will fully take from thee this and
 every other longing. Strive only that soon may be extinct, as two
 already are, the five wounds that are closed up by being
-painful."[7]
 stairs repeats words from the Beatitudes adapted to those
 purified from the sin punished upon the ledge which is being
 left.
@@ -2155,7 +1922,6 @@ Communicated, the more abundant grows."
 Milton, Paradise Lost, v. 73.
 That to divide is not to take away."--Shelley, Epipsychidion.
 As I was about to say "Thou satisfiest me," I saw myself arrived
-on the next round,[1] so that my eager eyes made me silent. There
 it seemed to me I was of a sudden rapt in an ecstatic vision, and
 saw many persons in a temple, and a lady at the entrance, with
 the sweet action of a mother, saying, "My son, why hast thou done
@@ -2170,14 +1936,12 @@ every science sparkles forth, avenge thyself on those audacious
 arms, that have embraced our daughter, O Pisistratus." And the
 lord appeared to me, benign and mild, to answer her, with
 temperate look, "What shall we do to him who desires ill for us,
-if he who loves us is by us condemned?"[1]
 dicta mem., vi. 1.
 Then I saw people kindled with fire of wrath, killing a youth
 with stones, loudly crying to each other only, "Slay, slay." And
 I saw him bowed by death, which now was weighing on him, toward
 the ground, but in such great strife he ever made of his eyes
 gates for heaven, praying to the high Lord, that He would pardon
-his persecutors, with that aspect which unlocks pity.[1]
 When my mind returned outwardly to the things which outside of it
 are true, I recognized my not false errors. My Leader, who could
 see me do like a man who looses himself from slumber, said,
@@ -2206,7 +1970,6 @@ Gloom of hell, or of night deprived of every planet, under a
 barren sky, obscured by clouds as much as it can be, never made
 so thick a veil to my sight nor to my feeling so harsh of tissue
 as that smoke which covered us there; so that my eye endured not
-to stay open[1] wherefore my sage and trusty Escort drew to my
 side and offered me his shoulder. Even as a blind man goes behind
 his guide, in order not to stray, and not to butt against
 anything that may hurt or perhaps kill him, I went along, through
@@ -2215,12 +1978,10 @@ saying, "Take care that thou be not cut off from me."
 soul.
 I heard voices, and each appeared to be praying for peace and
 mercy to the Lamb of God that taketh sins away. Only "Agnus
-Dei[1] were their exordiums: one word there was in all, and one
 measure; so that among them seemed entire concord. "Are these
 spirits, Master, that I hear?" said I. And he to me, "Thou
 apprehendest truly; and they go loosening the knot of anger."
 "Now who art thou that cleavest our smoke, and yet dost speak of
-us even as if thou didst still divide the time by calends?" [2]
 Thus by one voice was said: whereon my Master said, "Reply, and
 ask if by this way one goeth up." And I, "O creature, that
 cleansest thyself in order to return beautiful unto Him who made
@@ -2242,7 +2003,6 @@ faith to thee to do that which thou askest of me; but I am
 bursting inwardly with a doubt, if I free not myself of it; at
 first it was simple, and now it is made double by thy words which
 make certain to me, here as elsewhere, that wherewith I couple
-it.[3] The world is indeed as utterly deserted by every virtue as
 thou declarest to me, and with iniquity is big and covered; but I
 pray that thou point out to me the cause, so that I may see it,
 and that I may show it to others; for one sets it in the heavens,
@@ -2281,17 +2041,13 @@ love. Wherefore it was needful to impose law as a bridle; needful
 to have a king who could discern at least the tower of the true
 city. The laws exist, but who set hand to them? Not one: because
 the shepherd who is in advance can ruminate, but has not his
-hoofs divided?[1] Wherefore the people, who see their guide only
-at that good[2] whereof they are greedy, feed upon that, and seek
 no further. Well canst thou see that the evil leading is the
 cause that has made the world guilty, and not nature which in you
 may be corrupted. Rome, which made the world good, was wont to
-have two Suns,[3] which made visible both one road and the other,
 that of the world and that of God. One has extinguished the
 other; and the sword is joined to the crozier; and the two
 together must of necessity go ill, because, being joined, one
 feareth not the other. If thou believest rue not, consider the
-grain,[4] for every herb is known by its seed.
 aright, is the Pope. A mystical interpretation of the injunction
 upon the children of Israel (Leviticus, xi.) in regard to clean
 and unclean beasts was familiar to the schoolmen. St. Augustine
@@ -2302,31 +2058,24 @@ has the true doctrine, but makes not the true use of it for his
 own guidance and the government of the world.
 "Within the land which the Adige and the Po water, valor and
 courtesy were wont to be found before Frederick had his
-quarrel;[1] now safely anyone may pass there who out of shame
 would cease discoursing with the good, or drawing near them.
 Truly three old men are still there in whom the antique age
 rebukes the new, and it seems late to them ere God restore them
-to the better life; Currado da Palazzo, and the good Gherardo,[2]
 and Guido da Castel, who is better named, after the manner of the
-French, the simple Lombard.[3]
 Pope; that is, before Emperor and Pope had failed in their
 respective duties to each other.
 memory will always be noble," says Dante in the Convito, iv. 14.
 Lombards, and repute them very astute."
 "Say thou henceforth, that the Church of Rome, through
-confounding in itself two modes of rule,[1] falls in the mire,
 and defiles itself and its burden."
 "O Marco mine," said I, "thou reasonest well; and now I discern
-why the sons of Levi were excluded from the heritage;[1] but what
 Gherardo is that, who, thou sayest, remains for sample of the
 extinct folk, in reproach of the barbarous age?" "Either thy
 speech deceives me, or it is making trial of me," he replied to
 me, "in that, speaking Tuscan to me, it seems that of the good
 Gherardo thou knowest naught. By other added name I know him not,
-unless I should take it from his daughter Gaia.[2] May God be
 with you! for further I come not with you. Behold the brightness
 which rays already glimmering through the smoke, and it behoves
-me to depart--the Angel is there--ere I appear to him."[3] So he
 turned, and would not hear me more.
 covenant of the Lord, to stand before the Lord to minister unto
 him, and to bless in his name, unto this day. Wherefore Levi hath
@@ -2353,16 +2102,13 @@ A light, that in the heavens is formed, moveth thee by itself, or
 by a will that downward guides it?
 is moved by the influence of the stars, or directly by the Divine
 will.
-In my imagination appeared the impress of the impiety of her[1]
 who changed her form into the bird that most delights in singing.
 And here was my mind so shut up within itself that from without
 came nothing which then might he received by it. Then rained down
-within my high fantasy, one crucified,[2] scornful and fierce in
 his look, and thus was dying. Around him were the great
 Ahasuerus, Esther his wife, and the just Mordecai, who was in
 speech and action so blameless. And when this imagination burst
 of itself, like a bubble for which the water fails, beneath which
-it was made, there rose in my vision a maiden,[3] weeping
 bitterly, and she was saying, "O queen, wherefore through anger
 hast thou willed to be naught? Thou hast killed thyself in order
 not to lose Lavinia: now thou hast lost me: I am she who mourns,
@@ -2390,7 +2136,6 @@ us hasten to ascend ere it grows dark, for after, it would not be
 possible until the day returns." Thus said my Guide; and I and he
 turned our steps to a stairway. And soon as I was on the first
 step, near use I felt a motion as of wings, and a fanning on my
-face,[1] and I heard said, "Beati pacifici,'[2] who are without
 ill anger."
 Now were the last sunbeams on which the night follows so lifted
 above us, that the stars were appearing on many sides. "O my
@@ -2402,17 +2147,14 @@ anything in the new circle. Then I turned to my Master, and said,
 "My sweet Father, say what offence is purged here in the circle
 where we are: if the feet are stopped, let not thy discourse
 stop." And he to me, "The love of good, less than it should have
-been, is here restored;[1] here is plied again the ill-slackened
 oar. But that thou mayst still more clearly understand, turn thy
 mind to me, and thou shalt gather some good fruit from our delay.
 away.
 "Neither Creator nor creature," began he, "son, ever was without
-love, either natural, or of the mind,[1] and this thou knowest.
 The natural is always without error; but the other may err either
 through an evil object, or through too much or through too little
 vigor. While love is directed on the primal goods, and on the
 second moderates itself, it cannot be the cause of ill delight.
-But when it is bent to evil,[2] or runs to good with more zeal,
 or with less, than it ought, against the Creator works his own
 creature. Hence thou canst comprehend that love needs must be the
 seed in you of every virtue, and of every action that deserves
@@ -2420,29 +2162,20 @@ punishment.
 by the choice, through free will, of some object of desire in the
 mind.
 "Now since love can never bend its sight from the welfare of its
-subject,[1] all things are safe from hatred of themselves; and
-since no being can be conceived of divided from the First,[2] and
-standing by itself, from hating Him[3] every affection is cut
 off. It follows, if, distinguishing, I rightly judge, that the
 evil which is loved is that of one s neighbor; and in three modes
 is this love born within your clay. There is he who hopes to
 excel through the abasement of his neighbor, and only longs that
-from his greatness he may be brought low.[4] There is he who
 fears loss of power, favor, honor, fame, because another rises;
-whereat he is so saddened that he loves the opposite.[5] And
 there is he who seems so outraged by injury that it makes him
 gluttonous of vengeance, and such a one must needs coin evil for
-others.[6] This triform love is lamented down below.[7]
 always believes it to be for his own good.
 "Now I would that thou hear of the other,--that which runs to the
-good in faulty measure. Every one confusedly apprehends a good[1]
 in which the mind may be at rest, and which it desires; wherefore
 every one strives to attain it. If the love be slack that draws
 you to see this, or to acquire it, this cornice, after just
-repentance, torments you therefor. Another good there is,[2]
 which doth not make man happy, is not happiness, is not the good
 essence, the root of every good fruit. The love which abandons
-itself too much to this[3] is lamented above us in three circles,
 but how it is reckoned tripartite, I am silent, in order that
 thou seek it for thyself."
 CANTO XVIII. Fourth Ledge The Slothful.--Discourse of Virgil on
@@ -2466,14 +2199,11 @@ pleasure it is roused to action. Your faculty of apprehension
 draws an image from a real existence, and within you displays it,
 so that it makes the mind turn to it; and if, thus turned, the
 mind incline toward it, that inclination is love, that
-inclination is nature which is bound anew in you by pleasure.[1]
-Then, as the fire moveth upward by its own form,[2] which is born
 to ascend thither where it lasts longest in its material, so the
 captive mind enters into longing, which is a spiritual motion,
 and never rests until the thing beloved makes it rejoice. Now it
 may be apparent to thee, how far the truth is hidden from the
 people who aver that every love is in itself a laudable thing;
-because perchance its matter appears always to be good;[3] but
 not every seal is good although the wax be good."
 that neither the Creator nor his creatures are ever without love,
 either native in the soul, or proceeding from the mind. Here he
@@ -2495,23 +2225,18 @@ fit object of desire.
 him, "have revealed love to me; but that has made me more full of
 doubt. For if love is offered to us from without, and if with
 other foot the soul go not, if strait or crooked she go is not
-her own merit."[1] And he to me, "So much as reason seeth here
 can I tell thee; beyond that await still for Beatrice; for it is
 a work of faith. Every substantial form that is separate from
-matter, and is united with it,[2] has a specific virtue residing
 in itself which without action is not perceived, nor shows itself
 save by its effect, as by green leaves the life in a plant. Yet,
 whence the intelligence of the first cognitions comes man doth
 not know, nor whence the affection for the first objects of
 desire, which exist in you even as zeal in the bee for making
 honey: and this first will admits not desert of praise or blame.
-Now in order that to this every other may be gathered,[3] the
-virtue that counsels [4] is innate in you, and ought to keep the
 threshold of assent. This is the principle wherefrom is derived
 the reason of desert in you, according as it gathers in and
 winnows good and evil loves. Those who in reasoning went to the
 foundation took note of this innate liberty, wherefore they
-bequeathed morals[5] to the world. Assuming then that every love
 which is kindled within you arises of necessity, the power exists
 in you to restrain it. This noble virtue Beatrice calls the free
 will, and therefore see that thou have it in mind, if she take to
@@ -2523,13 +2248,8 @@ that is, with the affection natural to man for the primal objects
 of desire.
 free will depends, is "the specific virtue" of the soul.
 it not for freedom of the will.
-The moon, belated[1] almost to midnight, shaped[2] like a bucket
 that is all ablaze, was making the stars appear fewer to us, and
-was running counter to the heavens[3] along those paths which the
 sun inflames, when the man of Rome sees it between Sardinia and
-Corsica at its setting;[4] and that gentle shade, for whom
-Pietola[5] is more famed than the Mantuan city, had laid down the
-burden of my loading:[6] wherefore I, who had harvested his open
 and plain discourse upon my questions, was standing like a man
 who, drowsy, rambles. But this drowsiness was taken from me
 suddenly by folk, who, behind our backs, had now come round to
@@ -2540,7 +2260,6 @@ came, those who by good will and right love are ridden curve
 their steps along that circle. Soon they were upon us; because,
 running, all that great crowd was moving on; and two in front,
 weeping, were crying out, "Mary ran with haste unto the mountain
-ran on to Spain."[8] "Swift, swift, that time be not lost by
 little love," cried the others following, "for zeal in doing well
 may refreshen grace." "O people, in whom keen fervor now perhaps
 redeems your negligence and delay, through lukewarmness, in
@@ -2550,10 +2269,8 @@ therefore tell us where is the opening near." These words were of
 my Guide; and one of those spirits said: "Come thou behind us,
 and thou shalt find the gap. We are so filled with desire to move
 on that we cannot stay; therefore pardon, if thou holdest our
-obligation for churlishness. I was Abbot[9] of San Zeno at
 Verona, under the empire of the good Barbarossa, of whom Milan,
 still grieving, doth discourse. And he has one foot already in
-the grave,[10] who soon will lament on account of that monastery,
 and will be sorry for having had power there; because in place of
 its true shepherd he has put his son, ill in his whole body and
 worse in mind, and who was evil-born." I know not if more he
@@ -2567,8 +2284,6 @@ illegitimate son.
 And he who was at every need my succor said: "Turn thee this way;
 see two of them coming, giving a bite to sloth." In rear of all
 they were saying: "The people for whom the sea was opened were
-dead before their heirs beheld the Jordan;[1] and those who
-endured not the toil even to the end with the son of Anchises,[2]
 offered themselves to life without glory."
 Then when those shades were so far parted from us that they could
 no more be seen, a new thought set itself within me, from which
@@ -2579,10 +2294,7 @@ CANTO XIX. Fourth Ledge: the Slothful--Dante dreams of the
 Siren.--The Angel of the Pass.--Ascent to the Fifth Ledge.--Pope
 Adrian V.
 At the hour when the diurnal heat, vanquished by the Earth or
-sometimes by Saturn,[1] can warm no more the coldness of the
-moon,--when the geomancers see their Greater Fortune[2] in the
 east, rising before the dawn along a path which short while stays
-dark for it,--there came to me in dream[3] a woman stammering,
 with eyes asquint, and crooked on her feet, with hands lopped
 off, and pallid in her color. I gazed at her; and as the sun
 comforts the cold limbs which the night bennmbs, so my look made
@@ -2607,7 +2319,6 @@ commonly believed that dreams have a true meaning. The woman seen
 by Dante is the deceitful Siren, who symbolizes the temptation to
 those sins of sense from which the spirits are purified in the
 three upper rounds of Purgatory.
-Not yet was her mouth closed when at my side a Lady[1] appeared,
 holy, and ready to make her confused. "O Virgil, Virgil, who is
 this?" she sternly said; and he came with his eyes fixed only on
 that modest one. She took hold of the other, and in front she
@@ -2625,16 +2336,13 @@ bridge, when I heard, "Come ye! here is the passage," spoken in a
 mode soft and benign, such as is not heard in this mortal region.
 With open wings, which seemed of a swan, he who thus had spoken
 to us turned us upward between the two walls of the hard rock. He
-moved his feathers then, and fanned us, affirming qui lugent[1]
 to be blessed, for they shall have their souls mistresses of
-consolation.[2] "What ails thee that ever on the ground thou
 lookest?" my Guide began to say to me, both of us having mounted
 up a little from the Angel. "With such apprehension a recent
 vision makes me go, which bends me to itself so that I cannot
 from the thought withdraw me." "Hast thou seen," said he, "that
 ancient sorceress who above us henceforth is alone lamented? Hast
 thou seen how from her man is unbound? Let it suffice thee, and
-strike thy heels on the ground;[3] turn thine eyes to the lure
 that the eternal King whirls with the great circles."
 comfort." Donne (i.e."mistresses ) is a rhyme-word, and affords
 an instance of a straining of the meaning compelled by the rhyme.
@@ -2642,16 +2350,13 @@ Like the falcon that first looks down, then turns at the cry, and
 stretches forward, through desire of the food that draws him
 thither; such I became, and such, so far as the rock is cleft to
 afford a way to him who goeth up, did I go on as far as where the
-circling[1] is begun. When I was come forth on the fifth round, I
 saw people upon it who were weeping, lying upon the earth all
-turned downward. "Adhoesit pavimento anima mea,"[2] I heard them
 saying with such deep sighs that the words were hardly
 understood. "O elect of God, whose sufferings both justice and
 hope make less hard, direct us toward the high ascents." "If ye
 come secure from the lying down, and wish to find the speediest
 way, let your right hands always be outside." So prayed the Poet,
 and so a little in front was replied to us by them; wherefore I,
-in his speaking, marked the hidden one;[3] and then turned my
 eyes to my Lord, whereon he granted me, with cheerful sign, that
 which the look of my desire was asking for. Then when I could do
 with myself according to my will, I drew me above that creature
@@ -2661,9 +2366,6 @@ suspend a little for me thy greater care. Tell me who thou wast;
 and why ye have your backs turned upward; and if thou wishest
 that I obtain aught for thee there whence I alive set forth." And
 he to me, "Thy heaven turns to itself our hinder parts thou shalt
-know; but first, scias quod ego fui successor Petri.[4] Between
-Sestri and Chiaveri[5] descends a beautiful stream,[6] and of its
-name the title of my race makes its top.[7] One month and little
 more I proved how the great mantle weighs on him who guards it
 from the mire, so that all other burdens seem a feather. My
 conversion, ah me! was tardy; but when I had become the Roman
@@ -2674,7 +2376,6 @@ that time a wretched soul and parted from God had I been,
 avaricious of everything; now, as thou seest, I am punished for
 it here. That which avarice doth is displayed here in the
 purgation of these converted souls, and the Mountain has no more
-bitter penalty.[8] Even as our eye, fixed upon earthly things,
 was not lifted on high, so justice here to earth has depressed
 it. As avarice, in which labor is lost, quenched our love for
 every good, so justice here holds us close, bound and captive in
@@ -2688,14 +2389,10 @@ became aware, only by listening, of my reverence, "What cause,"
 said he, "hath bent thee thus downward?" And I to him, "Because
 of your dignity my conscience stung me for standing." "Straighten
 thy legs, and lift thee up, brother," he replied; "err not,
-fellow servant of one power am I with thee and with the rest.[1]
 If ever thou hast understood that holy gospel sound which says
-neque nubent,[2] thou mayst well see why I speak thus. Now go thy
 way. I will not that thou longer stop; for thy stay hinders my
 weeping, with which I ripen that which thou hast said. A
-grandchild I have on earth who is named Alagia,[3] good in
 herself, if only our house make her not wicked by example; and
-she alone remains to me yonder."[4]
 See thou do it not: I am thy fellow servant."--Revelation xix.
 earths do not exist in the spiritual world.
 the close of Canto VIII. Dante had probably seen her in 1306,
@@ -2711,41 +2408,31 @@ I moved on, and my Leader moved on through the space vacant only
 alongside of the rock, as upon a wall one goes close to the
 battlements. For on the other side the people, that through their
 eyes are pouring drop by drop the evil that possesses all the
-world, approach too near the edge.[1]
 Accursed be thou, old she-wolf, who more than all the other
 beasts hast prey, because of thy hunger hollow without end! O
 Heaven! by whose revolution it seems that men believe conditions
 here below are transmuted, when will he come through whom she
-shall depart?[1] We were going on with slow and scanty steps, and
 I attentive to the shades whom I heard piteously lamenting and
 bewailing; and peradventure I heard in front of us one crying
 out, "Sweet Mary," in his lament, even as a woman does who is in
 travail; and continuing, "So poor wast thou as may be seen by
 that inn where thou didst lay down thy holy burden." And
-following this I heard, "O good Fabricius,[2] thou didst rather
 wish for virtue with poverty than to possess great riches with
 vice." These words were so pleasing to me that I drew myself
 further on to have acquaintance with that spirit from whom they
 seemed to come. He was speaking furthermore of the largess which
-Nicholas[3] made to the damsels in order to conduct their youth
 to honor. "O soul that discoursest so well," said I, "tell me who
 thou wast, and why thou alone renewest these worthy praises. Not
 without meed will be thy words, if I return to complete the short
 journey of that life which flies towards its end." And he, "I
-will tell thee, not for comfort that I may expect from yonder,[4]
 but because such grace shineth on thee ere thou art dead. I was
 the root of the evil plant which so overshadows all the Christian
-land[5] that good fruit is rarely plucked therefrom. But if
 Douai, Lille, Ghent, and Bruges had power, soon would there be
-vengeance on it;[6] and I implore it from him who judges
 everything. Yonder I was called Hugh Capet: of me are born the
 Philips and the Louises, by whom of late times France is ruled. I
-was the son of a butcher of Paris.[7] When the ancient kings had
-all died out, save one, who had assumed the grey garb,[8] I found
 me with the bridle of the government of the realm fast in my
 hands, and with so much power recently acquired, and so full of
 friends, that to the widowed crown the head of my son was
-promoted, from whom the consecrated bones[9] of these began.
 (Hell, Canto I.) had driven Dante back and made him lose hope of
 the height. The likeness of the two passages is striking.
 consul, who refused the bribes of Pyrrhus, King of Epirus. Dante
@@ -2758,30 +2445,20 @@ Spain, and Naples.
 fraud, in 1299; but in 1802 the French were driven out of the
 country, after a fatal defeat at Courtrai, here dimly prophesied.
 coronation of the kings.
-"So long as the great dowry of Provence[1] took not the sense of
 shame from my race, it was little worth, but still it did not
 ill. Then it began its rapine with force and with falsehood; and,
-after, for amends,[2] Ponthieu and Normandy it took, and Gascony;
-Charles[3] came to Italy, and, for amends, made a victim of
-Conradin,[4] and then thrust Thomas[5] back to heaven for amends.
 A time I see, not long after this day, that draws forth another
-Charles[6] from France to make both himself and his the better
 known. Without arms he goes forth thence alone, but with the
-lance with which Judas jousted;[7] and that he thrusts so that he
 makes the paunch of Florence burst. Therefrom he will gain not
-land,[8] but sin and shame so much the heavier for himself, as he
-the lighter reckons such harm. The other,[9] who has already gone
 out a prisoner from his ship, I see selling his daughter, and
 bargaining over her, as do the corsairs with other female slaves.
 O Avarice, what more canst thou do with us, since thou hast so
 drawn my race unto thyself that it cares not for its own flesh?
 In order that the ill to come and that already done may seem the
 less, I see the fleur-de-lis entering Anagna, and in his Vicar
-Christ made a captive.[10] I see him being mocked a second time;
 I see the vinegar and the gall renewed, and between living
 thieves him put to death. I see the new Pilate so cruel that this
 does not sate him, but, without decretal, he bears his covetous
-sails into the Temple.[11] O my Lord, when shall I be glad in
 seeing thy vengeance which, concealed, makes sweet thine anger in
 thy secrecy?
 St. Louis (Louis IX.), with Beatrice, the heiress of the Count
@@ -2803,16 +2480,11 @@ at Anagni, in 1303, by the emissaries of Philip the Fair.
 which made thee turn toward me for some gloss, is ordained for
 all our prayers so long as the day lasts, but when the night
 comes, we take up a contrary sound instead. Then we rehearse
-Pygmalion,[1] whom his gluttonous longing for gold made a traitor
 and thief and parricide; and the wretchedness of the avaricious
 Midas which followed on his greedy demand, at which men must
 always laugh. Then of the foolish Achan each one recalls how he
 stole the spoils, so that the anger of Joshua seems still to
-sting him, here.[2] Then we accuse Sapphira with her husband; we
-praise the kicks that Heliodorus received,[3] and in infamy
-Polymnestor who slew Polydorus[4] circles the Whole mountain.
 Finally our cry here is, 'Crassus, tell us, for thou knowest,
-what is the taste of gold?'[5] At times one speaks loud, and
 another low, according to the affection which spurs us to speak
 now at a greater, now at a less pace. Therefore in the good which
 by day is here discoursed of, of late I was not alone, but here
@@ -2829,9 +2501,7 @@ along the road so far as was permitted to our power, when I felt
 the Mountain tremble, like a thing that is falling; whereupon a
 chill seized me such as is wont to seize him who goes to death.
 Surely Delos shook not so violently, before Latona made her nest
-therein to give birth to the two eyes of heaven.[1] Then began on
 all sides such a cry that the Master drew towards me, saying:
-"Distrust not, while I guide thee." "Gloria in excelsis Deo,"[2]
 all were saying, according to what I gathered from those near at
 hand whose cry it was possible to understand. We stopped,
 motionless and in suspense, like the shepherds who first heard
@@ -2845,8 +2515,6 @@ nor of myself could I see aught there. So I went on timid and
 thoughtful.
 CANTO XXI. Fifth Ledge: the Avaricious.--Statius.--Cause of the
 trembling of the Mountain.--Statius does honor to Virgil.
-The natural thirst,[1] which is never satisfied save with the
-water[2] whereof the poor woman of Samaria besought the grace,
 was tormenting me, and haste was goading me along the encumbered
 way behind my Leader, and I was grieving at the just vengeance;
 and lo,--as Luke writes for us that Christ, now risen forth from
@@ -2855,14 +2523,12 @@ shade appeared to us; and it was coming behind us looking at the
 crowd that lay at its feet: nor did we perceive it, so it spoke
 first saying, "My Brothers, may God give you peace!" We turned
 suddenly, and Virgil gave back to it the greeting which answers
-to that;[3] then he began: "In the assembly of the blest may the
 true court, which relegates me into eternal exile, place thee in
 peace." "How," said it,--and meanwhile we went on steadily,--"if
 ye are shades that God deigns not on high, who hath guided you so
 far along his stairs?" And my Teacher, "If thou regardest the
 marks which this one bears, and which the Angel traces, thou wilt
 clearly see it behoves that with the good he reign. But, because
-she who spinneth day and night[4] had not for him yet drawn the
 distaff off, which Clotho loads for each one and compacts, his
 soul, which is thy sister and mine, coming upwards could not
 come alone, because it sees not after our fashion. Wherefore I
@@ -2879,13 +2545,9 @@ the Convito.
 "And with thy spirit."
 The shade began: "There is nothing which without order the
 religion of the mountain can feel, or which can be outside its
-wont.[1] Free is this place from every alteration; of that which
 heaven receives from itself within itself there may be effect
-here, but of naught else;[2] because nor rain, nor hail, nor
 snow, nor dew, nor frost, falls higher up than the little
 stairway of the three short steps; clouds appear not, or thick or
-thin; nor lightning, nor the daughter of Thaumas[3] who yonder
-often changes her quarter; dry vapor[4] rises not farther up than
 the top of the three steps of which I spoke, where the vicar of
 Peter has his feet. It trembles perhaps lower down little or
 much; but up here it never trembles because of wind that is
@@ -2895,7 +2557,6 @@ such a cry seconds it. Of the purity the will alone makes proof,
 which surprises the soul, wholly free to change its company, and
 helps it with the will. The soul wills at first indeed, but the
 inclination,--which, contrary to the will, Divine Justice sets to
-the torment, as erst to the sin,--allows it not.[5] And I who
 have lain in this pain five hundred years and more, only just now
 felt a free volition for a better seat. Wherefore thou didst feel
 the earthquake, and hear the pious spirits through the Mountain
@@ -2916,18 +2577,15 @@ know, and that from thy words I learn why for so many centuries
 thou hast lain here?" "At the time when the good Titus, with the
 aid of the Most High King, avenged the wounds wherefrom issued
 the blood sold by Judas, I was fatuous enough on earth with the
-name which lasts longest, and honors most,"[1] replied that
 spirit, "but not as yet with faith. So sweet was my vocal spirit,
 that me of Toulouse Rome drew to itself, where I deserved to
 adorn my temples with myrtle. Statius the people still on earth
 name me. I sang of Thebes, and then of the great Achilles, but I
-fell on the way with my second load.[2] Seed of my ardor were the
 sparks that warmed me of the divine flame whereby more than a
 thousand have been kindled; I speak of the Aeneid, which was
 mother to me, and was my nurse in poesy: without it I balanced
 not the weight of a drachm; and to have lived yonder, when Virgil
 lived, I would agree to one sun more than I owe for my issue from
-ban."[3]
 These words turned Virgil to me with a look which, silent, said,
 "Be silent:" but the power that wills cannot do everything; for
 smiles and tears are such followers on the emotion from which
@@ -2950,7 +2608,6 @@ him." Already he was stooping to embrace the feet of my Leader,
 but he said to him, "Brother, do it not, for thou art a shade,
 and thou seest a shade." And he rising, "Now canst thou
 comprehend the sum of the love that warms me to thee when I
-forget our vanity, treating the shades as if a solid thing."[1]
 shades could thus express their mutual affection. Perhaps it is
 out of modesty that Virgil here represses Statius, and possibly
 there may be the under meaning that an act of reverence is not
@@ -2959,10 +2616,8 @@ CANTO XXII. Ascent to the Sixth Ledge.--Discourse of Statius and
 Virgil.--Entrance to the Ledge: the Gluttonous.--The Mystic
 Tree.--Examples of Temperance.
 Already was the Angel left behind us,--the Angel who had turned
-us to the sixth round,--having erased a stroke[1] from my face;
 and he had said to us that those who have their desire set on
 justice are Beati, and his words ended with sitiunt, without the
-rest.[2] And I, more light than through the other passes, was
 going on so that without any labor I was following upward the
 swift spirits, when Virgil began, "Love kindled by virtue always
 kindles another, provided that its flame appear outwardly;
@@ -2987,29 +2642,20 @@ measure thousands of courses of the moon have punished. And had
 it not been that I set right my care, when I understood the
 passage where thou dost exclaim, as if indignant with human
 nature, "O cursed hunger of gold, to what dost thou not impel the
-appetite of mortals?"[1] I, rolling, should share the dismal
-jousts.[2] Then I perceived that the bands could spread their
 wings too much in spending; and I repented as well of that as of
-my other sins. How many shall rise with cropped hair[3] through
 ignorance, which during life and in the last hours prevents
 repentance for this sin! And know, that the vice which rebuts any
-sin with direct opposition,[4] together with it here dries up its
 verdure. Wherefore if to purify myself I have been among the
 people who lament their avarice, because of its contrary this has
-befallen me." "Now when thou wast singing[5]the cruel strife of
-the twofold affliction[6] of Jocasta," said the Singer of the
 Bucolic songs, "it does not appear from that which Clio
-touches[7] with thee there,[8] that the faith, without which good
 works suffice not, had yet made thee faithful. If this be so,
 what sun, or what candles dispersed thy darkness so that thou
-didst thereafter set thy sails behind the Fisherman?"[9] And he
 to him, "Thou first directedst me toward Parnassus to drink in
 its grots, and then, on the way to God, thou enlightenedst me.
 Thou didst like him, who goes by night, and carries the light
 behind him, and helps not himself, but makes the persons
 following him wise, when thou saidst, 'The ages are renewed;
 Justice returns, and the primeval time of man, and a new progeny
-descends from heaven.'[10] Through thee I became a poet, through
 thee a Christian. But in order that thou mayst better see that
 which I sketch, I will stretch out my hand to color it. Already
 was the whole world teeming with the true belief, sown by the
@@ -3023,7 +2669,6 @@ made me scorn all other sects. And before I had led the Greeks to
 the rivers of Thebes in my verse, I received baptism; but out of
 fear I was a secret Christian, for a long while making show of
 paganism: and this lukewarmness made me circle round the fourth
-circle,[11] longer than to the fourth century. Thou, therefore,
 that didst lift for me the covering that was hiding from me such
 great good as I say, while we have remainder of ascent, tell me
 where is our ancient Terence, Caecilius, Plautus, and Varro, if
@@ -3031,13 +2676,8 @@ thou knowest it; tell me if they are damned, and in what region?"
 "They, and Persius, and I, and many others," replied my Leader,
 "are with that Greek whom the Muses suckled more than any other
 ever, in the first girdle of the blind prison. Oftentimes we
-discourse of the mountain[12] that hath our nurses[13] always
 with itself. Euripides is there with us, and Antiphon, Simonides,
 Agathon, and many other Greeks who of old adorned their brows
-with laurel. There of thine own people[14] are seen Antigone,
-Deiphile, and Argia, and Ismene sad[15] even as she was. There
-she is seen who showed Langia;[16] there is the daughter of
-Tiresias and Thetis,[17] and Deidamia with her sisters."
 Auri sacra fames?
 Aeneid. iii. 56-57.
 and striking them against those rolled by the avaricious. See
@@ -3052,8 +2692,6 @@ the other kings, when their army was perishing with thirst.
 Statius; but Manto is in the eighth circle in Hell. See Canto XX.
 Now both the poets became silent, once more intent on looking
 around, free from the ascent and from the walls; and four of the
-handmaids of the day were now remaining behind,[1] and the fifth
-was at the pole,[2] directing still upward its burning horn, when
 my Leader, "I think that it behoves us to turn our right
 shoulders to the outer edge, circling the Mount as we are wont to
 do." Thus usage was there our guide, and we took the way with
@@ -3069,8 +2707,6 @@ the side on which our way was closed, a clear water fell from
 the high rock and spread itself over the heaves above. The two
 poets approached the tree, and a voice from within the heaves
 cried: "Of this food ye shall have want." Then it said, "Mary
-thought more, how the wedding[1] should be honorable and
-complete, than of her mouth,[2] which answers now for you; and
 the ancient Roman women were content with water for their drink;
 and Daniel despised food and gained wisdom. The primal age, which
 was beautiful as gold, with hunger made acorns savory, and with
@@ -3085,7 +2721,6 @@ than Father said to me, "Son, come on now, for the time that is
 assigned to us must be parcelled out more usefully." I turned my
 face, and no less quickly my step after the Sages, who were
 speaking so that they made the going of no cost to me; and ho! a
-lament and song were heard, "Labia mea, Domine,"[1] in such
 fashion that it gave birth to delight and pain. "O sweet Father,
 what is that which I hear?" I began, and he, "Shades which go,
 perhaps loosing the knot of their debt."
@@ -3094,12 +2729,9 @@ unknown folk, turn themselves to them, and stay not; so behind
 us, moving more quickly, coming up and passing by, a crowd of
 souls, silent and devout, gazed at us. Each was dark and hollow
 in the eyes, pallid in the face, and so wasted that the skin took
-its shape from the bones. I do not think that Erisichthon[1] was
 so dried up to utter rind by hunger, when he had most fear of it.
 I said to myself in thought, "Behold the people who lost
-Jerusalem, when Mary struck her beak into her son."[2] The
 sockets of their eyes seemed rings without gems. Whoso in the
-face of men reads OMO,[3] would surely there have recognized the
 M. Who would believe that the scent of an apple, begetting
 longing, and that of a water, could have such mastery, if he
 knew not how?
@@ -3114,11 +2746,8 @@ and lo! from the depths of its head, a shade turned his eyes on
 me, and looked fixedly, then cried out loudly, "What grace to me
 is this!" Never should I have recognized him by his face; but in
 his voice that was disclosed to me which his aspect in itself had
-suppressed.[1] This spark rekindled in me all my knowledge of the
-altered visage, and I recognized the face of Forese.[2]
 concealed.
 whose wife was Gemma de' Donati.
-"Ah, strive not [1] with the dry scab that discolors my skin," he
 prayed, "nor with my lack of flesh, but tell me the truth about
 thyself; and who are these two souls, who yonder make an escort
 for thee: stay not thou from speaking to me." "Thy face, which
@@ -3135,19 +2764,16 @@ from the spray that spreads over the verdure kindles in us desire
 to eat and drink. And not once only as we circle this floor is
 our pain renewed; I say pain, and ought to say solace, for that
 will leads us to the tree which led Christ gladly to say,
-'Eli,'[2] when with his blood he delivered us." And I to him,
 "Forese, from that day on which thou didst change world to a
 better life, up to this time five years have not rolled round. If
 the power of sinning further had ended in thee, ere the hour
 supervened of the good grief that to God reweds us, how hast thou
-come up hither?[3] I thought to find thee still down there below,
 where time is made good by time." And he to me, "My Nella with
 her bursting tears has brought me thus quickly to drink of the
 sweet wormwood of these torments. With her devout prayers and
 with sighs has she drawn me from the shore where one waits, and
 has delivered me from the other circles. So much the more dear
 and more beloved of God is my little widow, whom I loved so much,
-as she is the more solitary in good works; for the Barbagia[4] of
 Sardinia is far more modest in its women than the Barbagia where
 I left her. O sweet brother, what wouldst thou that I say? A
 future time is already in my sight, to which this hour will not
@@ -3188,44 +2814,32 @@ Speech made not the going, nor the going made that more slow;
 but, talking, we went on apace even as a ship urged by good wind.
 And the shades, that seemed things doubly dead, through the pits
 of their eyes drew in wonder at me, perceiving that I was alive.
-And I, continuing my discourse, said, "He[1] goeth up perchance
 for another's sake more slowly than he would do. But, tell me, if
-thou knowest, where is Piccarda[2] tell me if I see person of
 note among this folk that so gazes at me." "My sister, who,
 between fair and good, was I know not which the most, triumphs
 rejoicing in her crown already on high Olympus." So he said
 first, and then, "Here it is not forbidden to name each other,
-since our semblance is so milked away by the diet.[3] This," and
-he pointed with his finger, "is Bonagiunta,[4] Bonagiunta of
 Lucca; and that face beyond him, more sharpened than the others,
-had the Holy Church in his arms:[5]from Tours he was; and by
 fasting he purges the eels of Bolsena, and the Vernaccia wine."
 Many others he named to me, one by one, and at their naming all
 appeared content; so that for this I saw not one dark mien. For
 hunger using their teeth on emptiness, I saw Ubaldin dalla Pila,
-and Boniface,[6] who shepherded many people with his crook. I saw
 Messer Marchese, who once had leisure to drink at Forum with less
 thirst, and even so was such that he felt not sated. But as one
 does who looks, and then makes account more of one than of
 another, did I of him of Lucca, who seemed to have most
 cognizance of me. He was murmuring; and I know not what, save
-that I heard "Gentucca" there[7] where he felt the chastisement
 of the justice which so strips them. "O soul," said I, "who
 seemest so desirous to speak with me, do so that I may hear thee,
 and satisfy both thyself and me by thy speech." "A woman is born,
-and wears not yet the veil,"[8] he began, "who will make my city
-pleasant to thee, however men may blame it.[9] Thou shalt go on
 with this prevision: if from my murmuring thou hast received
 error, the true things will yet clear it up for thee. But say, if
 I here see him, who drew forth the new rhymes, beginning, 'Ladies
-who have intelligence of Love'?"[10] And I to him, "I am one,
 who, when Love inspires me, notes, and in that measure which he
 dictates within, I go revealing." "O brother, now I see," said
-he, "the knot which held back the Notary,[11] and Guittone,[12]
 and me short of the sweet new style that I hear. I see clearly
 how your pens go on close following the dictator, which surely
 befell not with ours. And he who most sets himself to look
-further sees nothing more between one style and the other." [13]
 And, as if contented, he was silent.
 the thirteenth century.
 unknown maiden, Gentucca of Lucca, has given occasion to
@@ -3244,10 +2858,8 @@ let the holy flock pass on and came along behind, with me,
 saying, "When shall it be that I see thee again?" "I know not," I
 replied to him, "how long I may live; but truly my return will
 not be so speedy, that I shall not in desire he sooner at the
-shore;[1] because the place where I was set to live, denudes
 itself more of good from day to day, and seems ordained to
 wretched ruin." "Now go," said he, "for I see him who hath most
-fault for this[2] dragged at the tail of a beast, toward the
 valley where there is no disculpation ever. The beast at every
 step goes faster, increasing always till it strikes him, and
 leaves his body vilely undone. Those wheels have not far to
@@ -3262,25 +2874,17 @@ along, till he was overtaken and killed by his pursuers.
 As a cavalier sometimes sets forth at a gallop from a troop which
 rides, and goes to win the honor of the first encounter, so he
 went away from us with greater strides; and I remained on the way
-with only those two who were such great marshals of the world.[1]
 And when he had entered so far before us that my eyes became such
-followers on him as my mind was on his words,[2] there appeared
 to me the laden and lusty branches of another apple-tree, and not
-far distant, because only then had I turned thitherward.[3] I saw
 people beneath it raising their hands and crying, I know not
 what, toward the leaves, like eager and fond little children who
 pray, and he they pray to answers not, hut, to make their longing
 very keen, holds aloft their desire, and conceals it not. Then
-they departed as if undeceived:[4] and now we came to the great
 tree that rejects so many prayers and tears. "Pass further
-onward, without drawing near; the tree[5] is higher up which was
 eaten of by Eve, and this plant has been raised from that." Thus
 among the branches I know not who was speaking; wherefore Virgil
 and Statius and I, drawing close together, went onward along the
-side that rises.[6] "Be mindful," the voice was saying, "of the
-accursed ones,[7] formed in the clouds, who, when glutted, strove
 against Theseus with their double breasts; and of the Hebrews,
-who, at the drinking, showed themselves soft,[8] wherefore Gideon
 wished them not for companions, when he went down the hills
 toward Midian."
 emperor, and should know how to command what ought to be done, as
@@ -3297,14 +2901,12 @@ were glass or metals seen so shining and ruddy in a furnace as
 one I saw who said, "If it please you to mount up, here must a
 turn be taken; this way he goes who wishes to go for peace." His
 aspect had taken my sight from me, wherefore I turned me behind
-my teachers like one who goes according as he hears.[1] And as,
 harbinger of the dawn, the breeze of May stirs and smells sweet,
 all impregnate with the herbage and with the flowers, such a wind
 I felt strike upon the middle of my forehead, and clearly felt
 the motion of the plumes which made mime perceive the odor of
 ambrosia. And I heard said, "Blessed are they whom so much grace
 illumines, that the love of taste inspires not in their breasts
-too great desire, hungering always so far as is just."[2]
 angel,Dante drops behind his teachers, to follow them as one
 guided by hearing only.
 righteousness."--Matthew, v.6.
@@ -3318,7 +2920,6 @@ corporeal semblance of Souls after death.--The Seventh Ledge: the
 Lustful.--The mode of their Purification.
 It was the hour in which the ascent allowed no delay; for the
 meridian circle had been left by the Sun to the Bull, and by the
-Night to the Scorpion;[1] wherefore as the man doth who, whatever
 may appear to him, stops not, but goes on his way, if the goad of
 necessity prick him, so did we enter through the gap, one before
 the other, taking the stairway which by its narrowness unpairs
@@ -3340,35 +2941,27 @@ thou mayst to thy pleasure be inwardly at ease, lo, here is
 Statius, and I call on him and pray that he be now the healer of
 thy wounds." "If I explain to him the eternal view," replied
 Statius, "where thou art present, let it excuse me that to thee I
-cannot snake denial."[1]
 human philosophy enlightened by Christian teaching, dealing with
 questions of knowledge, not of faith.
 Then he began, "If, son, thy mind regards and receives my words,
 they will be. for thee a light unto the 'how,' which thou
-askest.[1] The perfect blood which is never drunk by the thirsty
 veins, but remains like the food which thou removest from time
 table, takes in time heart virtue informative of all the human
 members; even as that blood does, which passes through the veins
-to become those members.[2] Digested yet again, it descends to
 the part whereof it is more becoming to be silent than to speak;
 and thence, afterwards, it drops upon another's blood in the
 natural vessel. There one and the other meet together; the one
 ordained to be passive, and the other to be active because of the
-perfect place[3] wherefrom it is pressed out; and, conjoined with
 the former, the latter begins to operate, first by coagulating,
 and then by quickening that to which it gives consistency for its
 own material. The active virtue having become a soul, like that
 of a plant (in so far different that this is on the way, and that
-already arrived),[4] so worketh then, that now it moves and
 feels, as a sea-fungus doth; and then it proceeds to organize the
 powers of which it is the germ. Now, son, the virtue is
 displayed, now it is diffused, which issues from the heart of the
-begetter, where nature is intent on all the members.[5] But how
-from an animal it becomes a speaking being,[6] thou as yet
 seest not; this is such a point that once it made one wiser than
 thee to err, so that in his teaching he separated from the soul
 the potential intellect, because he saw no organ assumed by
-it.[7] Open thy heart unto the truth that is coming, and know
 that, so soon as in the foitus the articulation of the brain is
 perfect, the Primal Motor turns to it with joy over such art of
 nature, and inspires a new spirit replete with virtue, which
@@ -3379,16 +2972,11 @@ consider the warmth of the sun which, combining with the juice
 that flows from the vine, becomes wine. And when Lachesis has no
 more thread, this soul is loosed from the flesh, and virtually
 bears away with itself both the human and the divine; the other
-faculties all of them mute,[8] but memory, understanding, and
-will[9] far more acute in action than before. Without staying, it
-falls of itself, marvelously to one of the banks.[10] Here it
 first knows its own roads. Soon as the place there circumscribes
 it, the formative virtue rays out around it in like manner, and
-as much as in the living members.[11] And as the air when it is
 full of rain becomes adorned with divers colors by another's rays
 which are reflected in it, so here the neighboring air shapes
 itself in that form which is virtually imprinted upon it by the
-soul that hath stopped.[12] And then like the flamelet which
 follows the fire wherever it shifts, so its new form follows the
 spirit. Since thereafter from this it has its aspect, it is
 called a shade; and by this it shapes the organ for every sense
@@ -3414,22 +3002,17 @@ saved.
 the spiritual realms, Statius no longer follows the doctrine of
 Aquinas. The conception is derived from Plato; but the form
 given to it is peculiar to Dante.
-And now we had come to the last circuit,[1] and turning to the
 right hand, we were intent upon another care. Here the bank
 shoots forth flame, and the ledge breathes a blast upward which
-drives it back, and sequesters a path from it.[2] Wherefore it
 was needful to go one by one along the unenclosed side; and on
 the one hand I was afraid of the fire, and on the other I was
 afraid of falling off. My Leader said, "Through this place, one
 must keep tight the rein upon the eyes, because for little one
-might go astray." "Summae Deus clementiae,"[3] in the bosom of
 the great burning then I heard singing, which made me care not
 less to turn. And I saw spirits going through the flame;
 wherefore I looked at them and at my own steps, apportioning to
 each my sight from moment to moment. After the end of that hymn,
-they loudly cried: "Virum non cognosco;"[4] then began again the
 hymn with low voice; this finished, they cried anew, "To the wood
-Diana kept herself, and drove therefrom Helice,[5] who had felt
 the poison of Venus." Then they turned to singing; then wives
 they cried out, and husbands who were chaste, as virtue and
 marriage enjoin upon us. And I believe this mode suffices them
@@ -3450,7 +3033,6 @@ and the good Master was often saying, "Take heed! let it avail
 that I warn thee," the sun was striking me on the right shoulder,
 and now, raying out, was changing all the west from azure to a
 white aspect; and with my shadow I was making the flame appear
-more ruddy, and only at such an indication[1] I saw many shades,
 as they went on, give attention. This was the occasion which gave
 them a beginning to speak of me, and they began to say, "He seems
 not a fictitious body;" then toward me, so far as they could do
@@ -3474,8 +3056,6 @@ Soon as they end the friendly salutation, before the first step
 runs on beyond, each strives to outcry the other; the new-come
 folk: "Sodom and Gomorrah," and the other, "Into the cow enters
 Pasiphae, that the bull may run to her lust." Then like cranes,
-of whom part should fly to the Riphaean mountains,[1] and part
-toward the sands,[2] these shunning the frost and those the sun,
 one folk goes, the other comes on, and weeping they return to
 their first chants, and to the cry which most befits them.
 North.
@@ -3508,12 +3088,10 @@ planks is uttered by us, in opprobrium of ourselves. Now thou
 knowest our deeds, and of what we were guilty; if, perchance,
 thou wishest to know by name who we are, there is not time to
 tell, and I could not do it. I will indeed make thee short of
-wish about myself; I am Guido Guinicelli;[1] and now I purify
 myself, because I truly repented before my last hour."
 century. Of his life little is known, but some of his verses
 survive and justify Dante's words concerning them.
 Such as in the sorrow of Lycurgus her two sons became at seeing
-again their mother,[1] such I became, but I rise not so far,[2]
 when I heard name himself the father of me, and of my betters
 who ever used sweet and gracious rhymes of love; and without
 hearing or speaking, full of thought I went on, gazing a long
@@ -3527,18 +3105,14 @@ speech and look thou showest that thou dost hold me dear?" And I
 to him, "The sweet ditties of yours, which, so long as the modern
 fashion shall endure, will still make dear their ink." "O
 brother," said he, "this one whom I distinguish for thee with my
-finger," and he pointed to a spirit in advance,[3] "was a better
 smith of the maternal speech. In verses of love, and prose of
 romances, he excelled all, and let the foolish talk who think
-that he of Limoges[4] surpasses him; to rumor more than to truth
 they turn their faces, and thus confirm their own opinion, before
 art or reason is listened to by them. Thus did many of old
-concerning Guittone,[5] from cry to cry only to him giving the
 prize, until the truth has prevailed with more persons. Now if
 thou hast such ample privilege that it he permitted thee to go
 unto the cloister in which Christ is abbot of the college, say
 for me to him one paternoster, so far as needs for us in this
-world where power to sin is no longer ours."[6]
 his infant child, who was killed by a serpent, while she was
 showing the river Langia to the Argives (see Canto XXII.), was
 about to kill her, when she was found and rescued by her own
@@ -3548,7 +3122,6 @@ Then, perhaps to give place to the other who was near behind him,
 he disappeared through the fire, even as through the water a fish
 going to the bottom. I moved forward a little to him who had been
 pointed out to me, and said, that for his name my desire was
-making ready a gracious place. He began graciously to say,[1] "So
 pleaseth me your courteous demand that I cannot, and I will not,
 hide me from you. I am Arnaut who weep and go singing; contrite I
 see my past folly, and joyful I see before me the day I hope for.
@@ -3561,14 +3134,11 @@ Dante.--Morning.--Ascent to the Earthly Paradise.--Last words of
 Virgil.
 As when he darts forth his first rays there where his Maker shed
 His blood (Ebro falling under the lofty Scales, and the waves in
-the Ganges scorched by noon) so the sun was now standing;[1] so
 that the day was departing, when the glad Angel of God appeared
 to us. Outside the flame he was standing on the bank, and was
-singing, "Beati mundo corde,"[2] in a voice far more living than
 ours: then, "No one goes further, ye holy souls, if first the
 fire sting not; enter into it, and to the song beyond be ye not
 deaf," he said to us, when we were near him. Whereat I became
-such, when I heard him, as is he who in the pit is put.[3] With
 hands clasped upwards, I stretched forward, looking at the fire,
 and imagining vividly human bodies I had once seen burnt. The
 good Escorts turned toward me, and Virgil said to me, "My son,
@@ -3601,11 +3171,9 @@ sweet Father, to encourage me, went talking ever of Beatrice,
 saying, "I seem already to see her eyes. A voice was guiding us,
 which was singing on the other side, and we, ever attentive to
 it, came forth there where was the ascent. "Venite, benedicti
-patris mei,"[1] sounded within a light that was there such that
 it overcame me, and I could not look on it. "The sun departs," it
 added, "and the evening comes; tarry not, but hasten your steps
 so long as the west grows not dark."
-The way mounted straight, through the rock, in such direction[1]
 that I cut off in front of me the rays of the sun which was
 already low. And of few stairs had we made essay ere, by the
 vanishing of the shadow, both I and my Sages perceived behind us
@@ -3635,11 +3203,9 @@ fair hands around to make myself a garland. To please me at the
 glass here I adorn me, but my sister Rachel never withdraws from
 her mirror, and sits all day. She is as fain to look with her
 fair eyes as I to adorn me with my hands. Her seeing, and me
-doing, satisfies."[1]
 contemplative life.
 And now before the splendors which precede the dawn, and rise the
 more grateful unto pilgrims as in returning they lodge less
-remote,[1] the shadows fled away on every side, and my sleep with
 them; whereupon I rose, seeing my great Masters already risen.
 That pleasant apple which through so many branches the care of
 mortals goes seeking, to-day shall put in peace thy hungerings."
@@ -3677,7 +3243,6 @@ the practice of their every art; but with full joy singing they
 received the early breezes among the leaves, which kept a burden
 to their rhymes, such as gathers from bough to bough through the
 pine forest upon the shore of Chiassi, when Aeolus lets forth
-Sirocco.[1]
 Now had my show steps carried me within the ancient wood so far
 that I could not see back to where I had entered it: and lo, a
 stream took from me further progress, which toward the left with
@@ -3691,7 +3256,6 @@ of the streamlet, to gaze at the great variety of the fresh may;
 and there appeared to me, even as a thing appears suddenly which
 turns aside through wonder every other thought, a solitary lady,
 who was going along, singing, and culling flower from flower,
-wherewith all her path was painted. "Ah, fair Lady,[1] who
 warmest thyself in the rays of love, if I may trust to looks
 which are wont to be witnesses of the heart, may the will come to
 thee," said I to her, "to draw forward toward this stream, so far
@@ -3718,7 +3282,6 @@ pride--endured not more hatred from Leander for swelling between
 Sestos and Abydos, than that from me because it opened not then.
 "Ye are new come," she began, "and, perchance, why I smile mu
 this place chosen for human nature as its nest, some doubt holds
-you marvelling; but the psalm 'Delectasti'[1] affords light which
 may uncloud your understanding.And thou who art in front, and
 didst pray to me, say, if else thou wouldst hear, for I came
 ready for every question of thine, so far as may suffice." "The
@@ -3737,8 +3300,6 @@ honest laughter and sweet play. In order that the disturbance,
 which the exhalations of the water and of the earth (which follow
 so far as they can the heat) produce below, might not make any
 war on man, this mountain rose so high toward heaven, and is free
-from them from the point where it is locked in.[1] Now because
-the whole air revolves in circuit with the primal revolution,[2]
 if its circle be not broken by some projection, upon this height,
 which is wholly disengaged in the living air, this motion
 strikes, and makes the wood, since it is dense, resound; and the
@@ -3775,7 +3336,6 @@ Lady I turned my face.
 CANTO XXIX. The Earthly Paradise.--Mystic Procession or Triumph
 of the Church.
 Singing like a lady enamored, she, at the ending of her words,
-continued: "Beati, quorum tecta sunt peccata;"[1] and, like
 nymphs who were wont to go solitary through the sylvan shades,
 this one desiring to see and that to avoid the sun, she moved on
 then counter to the stream, going up along the bank, and I at
@@ -3807,9 +3367,7 @@ think.
 A little further on, the long tract of space which was still
 between us and them presented falsely what seemed seven trees of
 gold. But when I had come so near to them that the common object,
-which deceives the sense,[1] lost not through distance any of its
 attributes, the power which supplies discourse to reason
-distinguished them as candlesticks,[2] and in the voices of the
 song, "Hosanna." From above the fair array was flaming, brighter
 by far than the Moon in the serene of midnight, in the middle of
 her month. I turned me round full of wonder to the good Virgil,
@@ -3827,10 +3385,8 @@ separated me, in order to see better, I gave halt to my steps.
 And I saw the flamelets go forward heaving the air behind them
 painted, and they had the semblance of streaming pennons, so that
 there above it remained divided by seven stripes all in those
-colors whereof the sun makes his bow, and Delia her girdle.[3]
 These banners to the rear were longer than my sight, and
 according to my judgment the outermost were ten paces apart.
-Under so fair a sky as I describe, twenty-four elders,[4] two by
 two, were coming crowned with flower-de-luce. All were singing,
 "Blessed thou among the daughters of Adam, and blessed forever be
 thy beauties."
@@ -3858,13 +3414,11 @@ me so that in this I cannot be liberal. But read Ezekiel, who
 depicts them as he saw them coming from the cold region with
 wind, with cloud, and with fire; and such as thou wilt find them
 in his pages such were they here, save that as to the wings John
-is with me, and differs from him.[1]
 (i.6) describes the creatures with four wings, but in the
 Revelation (iv. 8) John assigns to each of them six wings: "and
 they were full of eyes within." They are crowned with green, as
 the color of hope.
 The space between these four contained a triumphal chariot upon
-two wheels, which by the neck of a griffon[1] came drawn along.
 And he stretched up one and the other of his wings between the
 midmost stripe, and the three and three, so that he did harm to
 no one of them by cleaving it. So far they rose that they were
@@ -3872,14 +3426,11 @@ not seen. His members were of gold so far as he was bird, and the
 rest were white mixed with red. Not Africanus, or indeed
 Augustus, gladdened Rome with so beautiful a chariot; but even
 that of the Sun would be poor to it,--that of the Sun which,
-going astray,[2] was consumed at the prayer of the devout Earth,
-when Jove in his secrecy was just. Three ladies,[3] at the right
 wheel, came dancing in a circle; one so ruddy that hardly would
 she have been noted in the fire; the next was as if her flesh and
 bones had been made of emerald; the third seemed snow just
 fallen. And now they seemed led by the white, now by the red, and
 from her song the others took their step both slow and swift. On
-the left four[4] robed in purple made festival, following the
 measure of one of them who had three eyes in her head.
 his double nature, divine and human. The car which he draws is
 the Church.
@@ -3889,11 +3440,8 @@ as looking at the past, the present, and the future.
 Next after all the group described, I saw two old men, unlike in
 dress, but like in action, both dignified and staid. The one
 showed himself one of the familiars of that supreme Hippocrates
-whom Nature made for the creatures that she holds most dear[1]
-the other showed the contrary care,[2] with a shining and sharp
 sword, such that it caused me fear on the hither side of the
 stream. Then I saw four humble in appearance, and behind all an
-old man solitary coming asleep with lively countenance.[3] And
 these seven were robed like the first band; but they made not a
 thicket of lilies round their heads, rather of roses, and of
 other red flowers. The sight at little distance would have sworn
@@ -3911,23 +3459,14 @@ countenance, because he was "in the Spirit" when he beheld his
 vision.
 CANTO XXX. The Earthly Paradise.--Beatrice appears.--Departure of
 Virgil.--Reproof of Dante by Beatrice.
-When the septentrion of the first heaven[1] which never setting
 knew, nor rising, nor veil of other cloud than sin,--and which
 was making every one there acquainted with his duty, as the
-lower[2] makes whoever turns the helm to come to port,--stopped
-still, the truthful people[3] who had come first between the
-griffon and it,[4] turned to the chariot as to their peace, and
 one of them, as if sent from heaven, singing, cried thrice,
-"Veni, sponsa, de Libano,"[5] and all the others after.
 the Lord.
 Testament.
 Solomon, iv. 8.
 As time blessed at the last trump will arise swiftly, each from
-his tomb, singing hallelujah with recovered voice,[1] so upon the
-divine chariot, ad vocem tanti senis,[2] rose up a hundred
 ministers and messengers of life eternal. All were saying,
-"Benedictus, qui venis,"[3] and, scattering flowers above and
-around, "Manibus o date lilia plenis."[4]
 in Heaven, saying, Alleluia-" -- Revelation, xix. 1.
 apparently only for the sake of the rhyme.
 vi. 884, sung by the angels.
@@ -3938,7 +3477,6 @@ the tempering of vapors the eye sustained it a long while. Thus
 within a cloud of flowers, which from the angelic hands was
 ascending, and falling down again within and without, a lady,
 with olive wreath above a white veil, appeared to me, robed with
-the color of living flame beneath a green mantle.[1] And my
 spirit that now for so long a time had not been broken down,
 trembling with amazement at her presence, without having more
 knowledge by the eyes, through occult virtue that proceeded from
@@ -3949,11 +3487,8 @@ transfixed me ere I was out of boyhood, I turned me to the left
 with the confidence with which the little child runs to his
 mother when he is frightened, or when he is troubled, to say to
 Virgil, "Less than a drachm of blood remains in me that doth not
-tremble; I recognize the signals of the ancient flame,"[1]--but
 Virgil had left us deprived of himself; Virgil, sweetest Father,
 Virgil to whom I for my salvation gave me. Nor did all which the
-ancient mother lost[2] avail unto my cheeks, cleansed with
-dew,[3] that they should not turn dark again with tears.
 "Dante, though Virgil be gone away, weep not yet, weep not yet,
 for it behoves thee to weep by another sword."
 Like an admiral who, on poop or on prow, comes to see the people
@@ -3973,11 +3508,9 @@ in it I drew them to the grass, such great shame burdened my
 brow. As to the son the mother seems proud, so she seemed to me;
 for somewhat bitter tasteth the savor of stern pity. She was
 silent, and the angels sang of a sudden, "In te, Domine,
-speravi;" but beyond "pedes meos"[1] they did not pass. Even as
 the snow, among the living rafters upon the back of Italy, is
 congealed, blown and packed by Sclavonian winds, then melting
 trickles through itself, if only the land that loses shadow
-breathe,[2] so that it seems a fire that melts the candle: so was
 I without tears and sighs before the song of those who time their
 notes after the notes of the eternal circles. But when I heard in
 their sweet accords their compassion for me, more than if they
@@ -3996,12 +3529,10 @@ thy mercy: for thou hast considered my trouble; thou hast known
 my soul in adversities. And hast not shut me up into the hand of
 the enemy: thou hast set my feet in a large room."--Psalm xxxi.
 She, still standing motionless on the aforesaid side of the
-chariot, then turned her words to those pious[1] beings thus: "Ye
 watch in the eternal day, so that nor night nor slumber robs from
 you one step the world may make along its ways; wherefore my
 reply is with greater care, that he who is weeping yonder may
 understand me, so that fault and grief may be of one measure. Not
-only through the working of the great wheels,[2] which direct
 every seed to some end according as the stars are its companions,
 but through largess of divine graces, which have for their rain
 vapors so lofty that our sight goes not near thereto,--this man
@@ -4016,7 +3547,6 @@ me, and gave himself to others. When from flesh to spirit I had
 ascended, and beauty and virtue were increased in me, I was less
 dear and less pleasing to him; and he turned his steps along a
 way not true, following false images of good, which pay no
-promise in full. Nor did it avail me to obtain[3] inspirations
 with which, both in dream and otherwise, I called him back; so
 little did he heed them. So low he fell that all means for his
 salvation were already short, save showing him the lost people.
@@ -4036,19 +3566,16 @@ thine own confession be conjoined." My power was so confused,
 that the voice moved, and became extinct before it could be
 released by its organs. A little she bore it; then she said,
 "What thinkest thou? Reply to me; for the sad memories in thee
-are not yet injured by the water."[1] Confusion and fear together
 mingled forced such a "Yes" from out my mouth, that the eyes were
 needed for the understanding of it.
 As a cross-bow breaks its cord and its bow when it shoots with
 too great tension, and with less force the shaft hits the mark,
 so did I burst under that heavy load, pouring forth tears and
 sighs, and the voice slackened along its passage. Whereupon she
-to me, "Within those desires of mine[1] that were leading thee to
 love the Good beyond which there is nothing whereto man may
 aspire, what trenches running traverse, or what chains didst thou
 find, for which thou wert obliged thus to abandon the hope of
 passing onward? And what enticements, or what advantages on the
-brow of the others were displayed,[2] for which thou wert obliged
 to court them?" After the drawing of a bitter sigh, hardly had I
 the voice that answered, and the lips with difficulty gave it
 form. Weeping, I said, "The present things with their false
@@ -4076,36 +3603,27 @@ listening and conscience-stricken and repentant, so was I
 standing. And she said, "Since through hearing thou art grieved,
 lift up thy beard, and thou shalt receive more grief in seeing."
 With less resistance is a sturdy oak uprooted by a native wind,
-or by one from the land of Iarbas,[1] than I raised up my chin at
 her command; and when by the beard she asked for my eyes, truly I
-recognized the venom of the argument.[2] And as my face stretched
 upward, my sight perceived that those primal creatures were
 resting from their strewing, and my eyes, still little assured,
 saw Beatrice turned toward the animal that is only one person in
-two natures.[3] Beneath her veil and beyond the stream she seemed
 to me more to surpass her ancient self, than she surpassed the
 others here when she was here. So pricked me there the nettle of
 repentance, that of all other things the one which most turned me
-aside unto its love became most hostile to me.[4]
 pertain to manhood.
 Beatrice was now the most hateful to me.
 Such contrition stung my heart that I fell overcome; and what I
 then became she knows who afforded me the cause.
 Then, when my heart restored my outward faculties, I saw above me
-the lady whom I had found alone,[1] and she was saying, "Hold me,
 hold me." She had drawn me into the stream up to the throat, and
 dragging me behind was moving upon the water light as a shuttle.
-When I was near the blessed shore, "Asperges me"[2] I heard so
 sweetly that I cannot remember it, far less can write it. The
 beautiful lady opened her arms, clasped my head, and plunged me
-in where it behoved that I should swallow the water.[3] Then she
 took me, and, thus bathed, brought me within the dance of the
-four beautiful ones,[4] and each of them covered me with her arm.
 "Here we are nymphs, and in heaven we are stars: ere Beatrice had
 descended to the world we were ordained unto her for her
 handmaids. We will head thee to her eyes; but in the joyous light
 which is within them, the three yonder who deeper gaze shall make
-keen thine own."[5] Thus singing, they began; and then to the
 breast of the griffon they led me with them, where Beatrice was
 standing turned toward us. They said, "See that thou sparest not
 thy sight: we have placed thee before the emeralds whence Love of
@@ -4113,7 +3631,6 @@ old drew his arrows upon thee." A thousand desires hotter than
 flame bound my eyes to the relucent eyes which only upon the
 griffon were standing fixed. As the sun in a mirror, not
 otherwise the twofold animal was gleaming therewithin, now with
-one, now with another mode.[6] Think, Reader, if I marvelled when
 I saw the thing stand quiet in itself, while in its image it was
 transmuting itself.
 Psalm: "Purge me with hyssop, and I shall be clean: wash me, and
@@ -4128,7 +3645,6 @@ came forward dancing to their angelic melody. "Turn, Beatrice,
 turn thy holy eyes," was their song, "upon thy faithful one, who
 to see thee has taken so many steps. For grace do us the grace
 that thou unveil to hum thy mouth, so that he may discern the
-second beauty which thou concealest."[1]
 the truth most surely; and her smile is her persuasions in which
 the interior light of Wisdom is displayed without any veil; and
 in these two is felt that loftiest pleasure of Beatitude, which
@@ -4148,7 +3664,6 @@ thirst, that my other senses were all extinct: and they
 themselves, on one side and the other, had a wall of disregard,
 so did the holy smile draw them to itself with the old net; when
 perforce my sight was turned toward my left by those
-goddesses,[1] because I heard from them a "Too fixedly."[2] And
 the condition which exists for seeing in eyes but just now
 smitten by the sun caused me to be some time without sight. But
 when the sight reshaped itself to the little (I say to the
@@ -4160,7 +3675,6 @@ contemplation."
 As under its shields to save itself a troop turns and wheels with
 its banner, before it all can change about, that soldiery of the
 celestial realm which was in advance had wholly gone past us
-before its front beam[1] had bent the chariot round. Then to the
 wheels the ladies returned, and the griffon moved his blessed
 burden, in such wise however that no feather of him shook. The
 beautiful lady who had drawn me at the ford, and Statius and I
@@ -4169,68 +3683,51 @@ arc. So walking through the lofty wood, empty through fault of
 her who trusted to the serpent, an angelic song set the time to
 our steps. Perhaps an arrow loosed from the bow had in three
 flights reached such a distance as we had advanced, when Beatrice
-descended. I heard "Adam!" murmured by all:[2] then they circled
 a plant despoiled of flowers and of other leafage on every
-bough.[3] Its branches, which so much the wider spread the higher
-up they are,[4] would be wondered at for height by the Indians in
 their woods.
 fruit of this tree.
 the coming of Christ.
 are nearest to the Divine Source of truth.
 "Blessed art thou, Griffon, that thou dost not break off with thy
 beak of this wood sweet to the taste, since the belly is ill
-racked thereby."[1] Thus around the sturdy tree the others cried;
 and the animal of two natures: "So is preserved the seed of all
-righteousness."[2] And turning to the pole that he had drawn, he
 dragged it to the foot of the widowed trunk, and that which was
-of it[3] he left bound to it.
 by the obedience of one shall many be made righteous."--Romans,
 v. 19.
 reign through righteousness unto eternal life, by Jesus Christ,
 our Lord."--Id., v. 21.
 to have been made of the wood of this tree.
 As our plants, when the great light falls downward mingled with
-that which shines behind the celestial Carp,[1] become swollen,
 and then renew themselves, each in its own color, ere the sun
 yoke his coursers under another star, so disclosing a color less
 than of roses and more than of violets, the plant renewed itself,
-which first had its boughs so bare.[2] I did not understand the
-hymn, and it is not sung here,[3] which that folk then sang, nor
 did I hear the melody to the end.
 follows that of the Pisces here termed the Carp.
 symbol of the knowledge of good and of evil, as well as this sign
 of obedience to the Divine Will. Its renewal with flowers and
 foliage seems to he the image at once of the revelation of Divine
 truth through Christ, and of his obedience unto death.
-If I could portray how the pitiless eyes[1] sank to slumber,
 while hearing of Syrinx, the eyes to which too much watching cost
 so dear, hike a painter who paints from a model I would depict
 how I fell asleep; but whoso would, let him be one who can
-picture slumber well.[2] Therefore I pass on to when I awoke, and
 say that a splendor rent for me the veil of sleep, and a call,
 "Arise, what doest thou?"
 while listening to the tale of the loves of Pan and Syrinx, and
 was then slain by Mercury.
 to explain the mysteries of redemption.
-As, to see some of the flowerets of the apple-tree[1] which makes
-the Angels greedy of its fruit,[2] and makes perpetual bridal
-feasts in Heaven,[3] Peter and John and James were led,[4] and
 being overcome, came to themselves at the word by which greater
-slumbers[5] were broken, and saw their band diminished alike by
 Moses and Elias, and the raiment of their Master changed, so I
 came to myself, and saw that compassionate one standing above me,
 who first had been conductress of my steps along the stream; and
 all in doubt I said, "Where is Beatrice?" And she, "Behold her
 under the new leafage sitting upon its root. Behold the company
 that surrounds her; the rest are going on high behind the
-griffon, with sweeter song and more profound."[6] And if her
 speech was more diffuse I know not, because already in my eyes
 was she who from attending to aught else had closed me in. Alone
 she was sitting upon the bare ground, like a guard left there of
 the chariot which I had seen bound by the biform animal. In a
 circle the seven Nymphs were making of themselves an enclosure
 for her, with those lights in their hands that are secure from
-Aquilo and from Auster.[7]
 beloved among the suns."--The Song of Solomon, ii. 3.
 left by the chariot, the type of the Church on earth.
 blast.
@@ -4247,26 +3744,20 @@ as I saw the bird of Jove stoop downward through the tree,
 breaking the bark, as well as the flowers and new leaves; and he
 struck the chariot with all his force, whereat it reeled, like a
 ship in a tempest beaten by the waves now to starboard, now to
-larboard.[1] Then I saw leap into the body of the triumphal
-vehicle a she fox,[2] which seemed fasting from all good food;
 but rebuking her for her foul sins my Lady turned her to such
 flight as her fleshless bones allowed. Then, from there whence he
 had first come, I saw the eagle descend down into the ark of the
-chariot and leave it feathered from himself.[3] And a voice such
 as issues from a heart that is afflicted issued from Heaven, and
 thus spake, "O little bark of mine, how ill art thou laden!" Then
 it seemed to me that the earth opened between the two wheels, and
 I saw a dragon issue from it, which through the chariot upward
 fixed his tail: and, like a wasp that retracts its sting, drawing
 to himself his malign tail, drew out part of the bottom, and went
-wandering away.[4] That which remained covered itself again, as
 lively soil with grass, with the plumage, offered perhaps with
 sane and benign intention; and both one and the other wheel and
 the pole were again covered with it in such time that a sigh
-holds the mouth open longer.[5] Thus transformed, the holy
 structure put forth heads upon its parts, three upon the pole,
 and one on each corner. The first were horned like oxen, but the
-four had a single horn upon the forehead.[6] A like prodigy was
 never seen before. Secure, as fortress on a high mountain, there
 appeared to me a loose harlot sitting upon it, with eyes roving
 around. And, as if in order that she should not be taken from
@@ -4276,7 +3767,6 @@ wandering eye on me that fierce paramour scourged her from head
 to foot. Then full of jealousy, and cruel with anger, he loosed
 the monster, and drew it through the wood so far that only of
 that he made a shield from me for the harlot and for the strange
-beast.[7]
 rejection of Christianity and the persecution of the Church by
 the emperors.
 Constantine,--the temporal endowment of the Church.
@@ -4296,16 +3786,13 @@ CANTO XXXIII. The Earthly Paradise.--Prophecy of Beatrice
 concerning one who shall restore the Empire.--Her discourse with
 Dante.--The river Eunoe.--Dante drinks of it, and is fit to
 ascend to Heaven.
-"Deus, venerunt gentes,"[1] the ladies began, alternating, now
 three now four, a sweet psalmody, and weeping. And Beatrice,
 sighing and compassionate, was listening to them so moved that
 scarce more changed was Mary at the cross. But when the other
 virgins gave place to her to speak, risen upright upon her feet,
 she answered, colored like fire: "Modicum, et non videbitis me,
-et iterum, my beloved Sisters, Modicum, et vos videbitis me."[2]
 Then she set all the seven in front of her; and behind her, by a
 sign only, she placed me, and the Lady, and the Sage who had
-stayed.[3] So she moved on; and I do not think her tenth step had
 been set upon the ground, when with her eyes my eyes she smote,
 and with tranquil aspect said to me, "Come more quickly, so that
 if I speak with thee, to listen to me thou mayst be well placed."
@@ -4321,47 +3808,33 @@ while and ye shall see me."--John, xvi. 16. An answer and promise
 corresponding to the complaint and petition of the Psalm.
 Even as befalls those who with excess of reverence are speaking
 in presence of their superiors, and drag not their voice living
-to the teeth,[1] it befell me that without perfect sound I began,
 "My Lady, you know my need, and that which is good for it." And
 site to me, "From fear and from shame I wish that thou henceforth
 divest thyself, so that thou speak no more like a man who dreams.
-Know thou, that the vessel which the serpent[2] broke was, and
-is not;[3] but let him who is to blame therefor believe that the
-vengeance of God fears not sops.[4] Not for all time shall be
 without an heir the eagle that left its feathers on the car,
-whereby it became a monster, and then a prey.[5] For I see
 surely, and therefore I tell it, stars already close at hand,
 secure from every obstacle and from every hindrance, to give to
-us a time in which a Five hundred, Ten, and Five sent by God[6]
-shall slay the thievish woman[7] and that giant who with her is
 delinquent. And perchance my narration, dark as Themis and the
-Sphinx,[8] less persuades thee, because after their fashion it
 clouds the understanding. But soon the facts will be the
-Naiades[9] that shall solve this difficult enigma, without harm
 of flocks or of harvest. Do thou note; and even as they are borne
 from me, do thou so report these words to those alive with that
 life which is a running unto death; and have in mind when thou
 writest them, not to conceal what thou hast seen the plant, which
 now has been twice plundered here. Whoso robs that, or breaks
-it,[10] with blasphemy in act offends God, who only for His own
 use created it holy. For biting that, the first soul, in pain and
 in desire, five thousand years and more, longed for Him who
 punished on Himself the bite. Thy wit sleeps, if it deem not that
 for a special reason it is so high and so inverted at its top.
-And if thy vain thoughts had not been as water of Elsa[11] round
 about thy mind, and their pleasantness as Pyramus to the
-mulberry,[12] by so many circumstances only thou hadst recognized
 morally the justice of God in the interdict upon the tree. But
 since I see thee in thy understanding made of stone, and thus
 stony, dark, so that the light of my speech dazzles thee, I would
 yet that thou bear it hence within thee,--and if not written, at
 least depicted,--for the reason that the pilgrim's staff is
-carried wreathed with palm."[13] And I, "Even as by a seal wax
 which alters not the imprinted figure, is my brain now stamped by
 you. But why does your desired word fly so far above my sight,
 that the more it strives the more it loses it?" "In order that
 thou mayst know," she said, "that school which thou hast
-followed, and mayst see how its doctrine can follow my word [14]
 and mayst see your path distant so far from the divine, as the
 heaven which highest hastens is remote from earth." Whereon I
 replied to her, "I do not remember that I ever estranged myself
@@ -4369,7 +3842,6 @@ from you, nor have I conscience of it that may sting me." "And if
 thou canst not remember it," smiling she replied, "now bethink
 thee how this day thou hast drunk of Lethe. And if from smoke
 fire be inferred, such oblivion clearly proves fault in thy will
-elsewhere intent.[15] Truly my words shall henceforth be naked so
 far as it shall be befitting to uncover them to thy rude sight."
 xvii. 8.
 commonly held by the Florentines, if a murderer could contrive
@@ -4394,7 +3866,6 @@ thou hadst sin to he forgotten, and that thy will had turned thee
 to other things than me.
 And more coruscant, and with slower steps, the sun was holding
 the circle of the meridian, which is set here or there according
-to the aspect,[1] when even as he, who goes before a troop as
 guide, stops if he find some strange thing on his track, the
 seven ladies stopped at the edge of a pale shade, such as beneath
 green leaves and black boughs the Alp casts over its cold
@@ -4403,13 +3874,11 @@ Tigris issue from one fountain, and, like friends, part slow from
 one another.
 "O light, O glory of the human race, what water is this which
 here spreads from one source, and from itself withdraws itself?"
-To this prayer it was said to me, "Pray Matilda[1] that she tell
 it to thee;" and here the beautiful Lady answered, as one does
 who frees himself from blame, "This and other things have been
 told him by me; and I am sure that the water of Lethe has not
 hidden them from him." And Beatrice, "Perhaps a greater care
 which oftentimes deprives the memory has darkened the eyes of his
-mind. But see Eunoe,[2] which flows forth yonder, lead him to it,
 and, as thou art accustomed, revive his extinct power." As a
 gentle soul which makes not excuse, but makes its own will of
 another's will, soon as by a sign it is outwardly disclosed, even
@@ -4424,4 +3893,3 @@ because all the leaves destined for this second canticle are
 full, the curb of my art lets me go no further. I returned from
 the most holy wave, renovated as new plants renewed with new
 foliage, pure and disposed to mount unto the stars.
-Volume 2, Purgatory, translated by Norton.

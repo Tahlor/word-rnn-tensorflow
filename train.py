@@ -15,16 +15,31 @@ import sample
 # Defaults
 # python train.py --data_dir .\data --rnn_size 256 --num_layers 2 --model lstm --batch_size 50 --seq_length 25 --num_epochs 50
 
+BONUS = True
+
 # "D:\PyCharm Projects\word-rnn-tensorflow\data\poems_large.txt"
-def main(data_dir=r".\data", rnn_size=256, num_layers=2, model= "lstm", batch_size = 50, seq_length = 200, num_epochs=50):
+def main(data_dir=r".\data", rnn_size=256, num_layers=2, model= "lstm", batch_size = 50, seq_length = 200, num_epochs=10, save_dir = "save", bonus = False):
+
+    if not os.path.exists(save_dir):
+        os.mkdir(save_dir)
+    else:
+        n = 1
+        while os.path.exists(save_dir+str(n)):
+            n += 1
+        new_save_dir = save_dir+str(n)
+        os.mkdir(new_save_dir)
+        save_dir = new_save_dir
+
     parser = argparse.ArgumentParser()
+    parser.add_argument('--bonus', type=str, default=bonus,
+                        help='include extra input features')
     parser.add_argument('--data_dir', type=str, default=data_dir,
                        help='data directory containing input.txt')
     parser.add_argument('--input_encoding', type=str, default=None,
                        help='character encoding of input.txt, from https://docs.python.org/3/library/codecs.html#standard-encodings')
     parser.add_argument('--log_dir', type=str, default='logs',
                        help='directory containing tensorboard logs')
-    parser.add_argument('--save_dir', type=str, default='save',
+    parser.add_argument('--save_dir', type=str, default=save_dir,
                        help='directory to store checkpointed models')
     parser.add_argument('--rnn_size', type=int, default=rnn_size,
                        help='size of RNN hidden state')
@@ -57,6 +72,7 @@ def main(data_dir=r".\data", rnn_size=256, num_layers=2, model= "lstm", batch_si
                             'model.ckpt-*'      : file(s) with model definition (created by tf)
                         """)
     args = parser.parse_args()
+
     train(args)
 
 def train(args):
@@ -147,4 +163,4 @@ def train(args):
         train_writer.close()
 
 if __name__ == '__main__':
-    main()
+    main(bonus = BONUS, save_dir=("./save/BONUS" if BONUS else "save"))

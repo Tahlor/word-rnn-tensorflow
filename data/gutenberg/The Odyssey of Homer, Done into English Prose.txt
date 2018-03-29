@@ -1,20 +1,10 @@
-Homer, Butcher & Lang Tr
 #3 in our series by Homer
-and is based on different source than version dyssy10.txt/.zip]
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
 further information is included below.  We need your donations.
 by S. H. BUTCHER, M.A.
-April, 1999  [Etext #1728]
-*****This file should be named 1728.txt or 1728.zip*****
 all of which are in the Public Domain in the United States, unless a
-copyright notice is included.  Therefore, we usually do NOT keep any
 of these books in compliance with any particular paper edition.
 We are now trying to release all our books one month in advance
 of the official release dates, leaving time for better editing.
@@ -23,22 +13,16 @@ midnight of the last day of the month of any such announcement.
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
 in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
 We produce about two million dollars for each hour we work.  The
 time it takes us, a rather conservative estimate, is fifty hours
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
 million dollars per hour this year as we release thirty-six text
 files per month, or 432 more Etexts in 1999 for a total of 2000+
 If these reach just 10% of the computerized population, then the
 total should reach over 200 billion Etexts given away this year.
-Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
 This is ten thousand titles each to one hundred million readers,
 which is only ~5% of the present number of computer users.
 At our revised rates of production, we will reach only one-third
@@ -51,35 +35,22 @@ We need your donations more than ever!
 tax deductible to the extent allowable by law.  (CMU = Carnegie-
 Mellon University).
 For these and other matters, please mail to:
-P. O. Box  2782
-Champaign, IL 61825
 When all other email fails. . .try our Executive Director:
-Michael S. Hart <hart@pobox.com>
 hart@pobox.com forwards to hart@prairienet.org and archive.org
 if your mail bounces from archive.org, I will still see it, if
 it bounces from prairienet.org, better resend later on. . . .
 We would prefer to send you this information by email.
-******
-to view http://promo.net/pg.  This site lists Etexts by
 author and by title, and includes information about how
 download our past Newsletters, or subscribe here.  This
 is one of our major sites, please email hart@pobox.com,
 for a more complete list of our various sites.
 To go directly to the etext collections, use FTP or any
 sites are available on 7 continents; mirrors are listed
-at http://promo.net/pg).
 Mac users, do NOT point and click, typing works better.
 Example FTP session:
 ftp sunsite.unc.edu
 login: anonymous
 password: your@login
-cd pub/docs/books/gutenberg
-cd etext90 through etext99
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
-GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
-GET GUTINDEX.ALL [to get a listing of ALL books]
-***
 (Three Pages)
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
@@ -96,23 +67,19 @@ you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
 tm etexts, is a "public domain" work distributed by Professor
 Carnegie-Mellon University (the "Project").  Among other
-things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
 medium they may be on may contain "Defects".  Among other
 things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
 But for the "Right of Replacement or Refund" described below,
 liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -130,7 +97,6 @@ You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-or addition to the etext, or [3] any Defect.
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
 or:
@@ -140,9 +106,7 @@ if you wish, distribute this etext in machine readable
 binary, compressed, mark-up, or proprietary form,
 including any form resulting from conversion by word pro-
 cessing or hypertext software, but only so long as
-does *not* contain characters other than those
 intended by the author of the work, although tilde
-(~), asterisk (*) and underline (_) characters may
 be used to convey punctuation intended by the
 author, and additional characters may be used to
 indicate hypertext links; OR
@@ -161,10 +125,7 @@ date you prepare (or were legally required to prepare)
 your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
 Association / Carnegie-Mellon University".
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
-Produced by Jim Tinsley <jtinsley@pobox.com>
 by S. H. BUTCHER, M.A.
 There would have been less controversy about the proper
 method of Homeric translation, if critics had recognised
@@ -951,8 +912,6 @@ things, even of the song and dance: for these are the crown
 of the feast. And a henchman placed a beauteous lyre in the
 hands of Phemius, who was minstrel to the wooers despite
 his will. Yea and as he touched the lyre he lifted up his
-voice in sweet songs.{*}
-{* Or, according to the ordinary interpretation of [Greek]:
 So he touched the chords in prelude to his sweet singing.}
 But Telemachus spake unto grey-eyed Athene, holding his
 head close to her that those others might not hear: 'Dear
@@ -983,7 +942,6 @@ I will plainly tell thee all. I avow me to be Mentes, son
 of wise Anchialus, and I bear rule among the Taphians,
 lovers of the oar. And now am I come to shore, as thou
 seest, with ship and crew, sailing over the wine-dark sea,
-unto men of strange speech, even to Temesa, {*} in quest of
 copper, and my cargo is shining iron. And there my ship is
 lying toward the upland, away from the city, in the harbour
 of Rheithron beneath wooded Neion: and we declare ourselves
@@ -1014,7 +972,6 @@ full many a time have we held converse together ere he
 embarked for Troy, whither the others, aye the bravest of
 the Argives, went in hollow ships. From that day forth
 neither have I seen Odysseus, nor he me.'
-{* Tamasia, in the mountainous centre of Cyprus.}
 Then wise Telemachus answered her, and said: 'Yea, sir, now
 will I plainly tell thee all. My mother verily saith that I
 am his; for myself I know not, for never man yet knew of
@@ -1217,8 +1174,6 @@ bear some tidings of thy father on his road, or cometh he
 thus to speed some matter of his own? In such wise did he
 start up, and lo, he was gone, nor tarried he that we
 should know him;--and yet he seemed no mean man to look
-upon.' {*}
-{* The [Greek] explains the expression of surprise at the
 sudden departure of the stranger.}
 Then wise Telemachus answered him, and said: 'Eurymachus,
 surely the day of my father's returning hath gone by.
@@ -1321,7 +1276,6 @@ goats, and keep revel, and drink the dark wine recklessly,
 and lo, our great wealth is wasted, for there is no man now
 alive such as Odysseus was, to keep ruin from the house. As
 for me I am nowise strong like him to ward mine own; verily
-to the end of my days {*} shall I be a weakling and all
 unskilled in prowess. Truly I would defend me if but
 strength were mine; for deeds past sufferance have now been
 wrought, and now my house is wasted utterly beyond pretence
@@ -1342,7 +1296,6 @@ made, for we would urge our plea throughout the town,
 begging back our substance, until all should be restored.
 But now without remedy are the pains that ye lay up in my
 heart.'
-{* Cf. B. xxi. 131. For the use of the 1st pers. pl. like
 our ROYAL plural, cf. B. xvi.44, Il. vii. 190.}
 So spake he in wrath, and dashed the staff to the ground,
 and brake forth in tears; and pity fell on all the people.
@@ -2005,7 +1958,6 @@ son of Atreus, when he came back from Troy, had found
 Aegisthus yet alive in the halls. Then even in his death
 would they not have heaped the piled earth over him, but
 dogs and fowls of the air would have devoured him as he lay
-on the plain far from the town. {*} Nor would any of the
 Achaean women have bewailed him; so dread was the deed he
 contrived. Now we sat in leaguer there, achieving many
 adventures; but he the while in peace in the heart of
@@ -2077,7 +2029,6 @@ guides to goodly Lacedaemon, where is Menelaus of the fair
 hair. Do thou thyself entreat him, that he may give thee
 unerring answer. He will not lie to thee, for he is very
 wise.'
-{* Reading [Greek]. v. 1. '[Greek], which must be wrong.}
 Thus he spake, and the sun went down and darkness came on.
 Then the goddess, grey-eyed Athene, spake among them,
 saying: 'Yea, old man, thou hast told all this thy tale
@@ -2283,7 +2234,6 @@ her on her way with chariot and horses, to the famous city
 of the Myrmidons, among whom her lord bare rule. And for
 his son he was bringing to his home the daughter of Alector
 out of Sparta, for his well-beloved son, strong
-Megapenthes, {*} born of a slave woman, for the gods no
 more showed promise of seed to Helen, from the day that she
 bare a lovely child, Hermione, as fair as golden Aphrodite.
 So they were feasting through the great vaulted hall, the
@@ -2291,7 +2241,6 @@ neighbours and the kinsmen of renowned Menelaus, making
 merry; and among them a divine minstrel was singing to the
 lyre, and as he began the song two tumblers in the company
 whirled through the midst of them.
-{* A son of sorrow: Tristram.}
 Meanwhile those twain, the hero Telemachus and the splendid
 son of Nestor, made halt at the entry of the gate, they and
 their horses. And the lord Eteoneus came forth and saw
@@ -2459,12 +2408,9 @@ substance and his son and all his people, making one city
 desolate of those that lie around, and are in mine own
 domain. Then ofttimes would we have held converse here, and
 nought would have parted us, the welcoming and the
-welcomed, {*} ere the black cloud of death overshadowed us.
 Howsoever, the god himself, methinks, must have been
 jealous hereof, who from that hapless man alone cut off his
 returning.'
-{* Mr. Evelyn Abbott of Balliol College has suggested to us
-that [Greek] and [Greek] are here correlatives, and denote
 respectively the parts of host and of guest. This is
 sufficiently borne out by the usage of the words
 elsewhere.}
@@ -2480,7 +2426,6 @@ ever wont to say that thou wert wise beyond man's wisdom,
 whensoever we made mention of thee and asked one another
 concerning thee. And now, if it be possible, be persuaded
 by me, who for one have no pleasure in weeping at supper
-time--the new-born day will right soon be upon us. {*} Not
 indeed that I deem it blame at all to weep for any mortal
 who hath died and met his fate. Lo, this is now the only
 due we pay to miserable men, to cut the hair and let the
@@ -2489,7 +2434,6 @@ nowise the meanest of the Argives, and thou art like to
 have known him, for as for me I never encountered him,
 never beheld him. But men say that Antilochus outdid all,
 being excellent in speed of foot and in the fight.'
-{* Cf. B. xv.50}
 And Menelaus of the fair hair answered him, and said: 'My
 friend, lo, thou hast said all that a wise man might say or
 do, yea, and an elder than thou;--for from such a sire too
@@ -2643,7 +2587,6 @@ will not swerve from the truth in aught that I say, nor
 deceive thee; but of all that the ancient one of the sea,
 whose speech is sooth, declared to me, not a word will I
 hide or keep from thee.
-'In the river Aegyptus, {*} though eager I was to press
 onward home, the gods they stayed me, for that I had not
 offered them the acceptable sacrifice of hecatombs, and the
 gods ever desired that men should be mindful of their
@@ -2663,7 +2606,6 @@ heart, when she met me wandering alone apart from my
 company, who were ever roaming round the isle, fishing with
 bent hooks, for hunger was gnawing at their belly. So she
 stood by, and spake and uttered her voice saying:
-{* The only name for the Nile in Homer. Cf. Wilkinson,
 Ancient Egyptians (1878), vol. i. p. 7.}
 '"Art thou so very foolish, stranger, and feeble-witted, or
 art thou wilfully remiss, and hast pleasure in suffering?
@@ -3316,7 +3258,6 @@ not long without tidings thereof, and cast at him with his
 white bolt and slew him. So again ye gods now grudge that a
 mortal man should dwell with me. Him I saved as he went all
 alone bestriding the keel of a bark, for that Zeus had
-crushed {*} and cleft his swift ship with a white bolt in
 the midst of the wine-dark deep. There all the rest of his
 good company was lost, but it came to pass that the wind
 bare and the wave brought him hither. And him have I loved
@@ -3330,8 +3271,6 @@ ships by me with oars, nor company to bear him on his way
 over the broad back of the sea. Yet will I be forward to
 put this in his mind, and will hide nought, that all
 unharmed he may come to his own country.'
-{* It seems very doubtful whether [Greek] can bear this
-meaning. The reading [Greek], 'smote,' preserved by the
 Schol. is highly probable.}
 Then the messenger, the slayer of Argos, answered her:
 'Yea, speed him now upon his path and have regard unto the
@@ -3373,7 +3312,6 @@ swear a great oath not to plan any hidden guile to mine own
 hurt.'
 So spake he, and Calypso, the fair goddess, smiled and
 caressed him with her hand, and spake and hailed him:
-'Knavish thou art, and no weakling {*} in wit, thou that
 hast conceived and spoken such a word. Let earth be now
 witness hereto, and the wide heaven above, and that falling
 water of the Styx, the greatest oath and the most terrible
@@ -3383,7 +3321,6 @@ will be my counsel, as I would devise for myself, if ever
 so sore a need came over me. For I too have a righteous
 mind, and my heart within me is not of iron, but pitiful
 even as thine.'
-{* [Greek], from root [Greek], 'ill-grown,' i. e. a
 weakling, in the literal sense as B. xi.249, xiv.212, or
 metaphorical, as here and viii. 177.}
 Therewith the fair goddess led the way quickly, and he
@@ -3546,13 +3483,11 @@ of thee, for all his desire. But do even as I tell thee,
 and methinks thou art not witless. Cast off these garments,
 and leave the raft to drift before the winds, but do thou
 swim with thine hands and strive to win a footing on the
-coast {*} of the Phaeacians, where it is decreed that thou
 escape. Here, take this veil imperishable and wind it about
 thy breast; so is there no fear that thou suffer aught or
 perish. But when thou hast laid hold of the mainland with
 thy hands, loose it from off thee and cast it into the
 wine-dark deep far from the land, and thyself turn away.'
-{* Lit. Strive after an arrival on the land, etc. [Greek]
 originally meant going, journeying, and had no idea of
 return. The earlier use survives here, and in Soph.
 Philoct. 43, Eur. Iph. Aul. 1261. Similarly, perhaps,
@@ -4145,11 +4080,9 @@ lord Alcinous and from all the folk, who look on her as on
 a goddess, and greet her with reverend speech, when she
 goes about the town. Yea, for she too hath no lack of
 understanding. To whomso she shows favour, even if they be
-men, she ends their feuds. {*} If but her heart be kindly
 disposed to thee, then is there good hope that thou mayest
 see thy friends, and come to thy high-roofed home and thine
 own country.'
-{* And for the women she favours, she ends the feuds of
 their lords also.}
 Therewith grey-eyed Athene departed over the unharvested
 seas, and left pleasant Scheria, and came to Marathon and
@@ -4571,7 +4504,6 @@ the foot race. From the very start they strained at utmost
 speed: and all together they flew forward swiftly, raising
 the dust along the plain. And noble Clytoneus was far the
 swiftest of them all in running, and by the length of the
-furrow that mules cleave in a fallow field, {*} so far did
 he shoot to the front, and came to the crowd by the lists,
 while those others were left behind. Then they made trial
 of strong wrestling, and here in turn Euryalus excelled all
@@ -4580,7 +4512,6 @@ and Elatreus in weight-throwing, and in boxing Laodamas,
 the good son of Alcinous. Now when they had all taken their
 pleasure in the games, Laodamas, son of Alcinous, spake
 among them:
-{* The distance here indicated seems to be that which the
 mule goes in ploughing, without pausing to take breath.}
 'Come, my friends, let us ask the stranger whether he is
 skilled or practised in any sport. Ill fashioned, at least,
@@ -5289,8 +5220,6 @@ refrain.
 and corn too I put in a wallet, for my lordly spirit
 straightway had a boding that a man would come to me, a
 strange man, clothed in mighty strength, one that knew not
-judgment and justice. {*}
-{* Literally, knowing neither dooms, nor ordinances of
 law.}
 'Soon we came to the cave, but we found him not within; he
 was shepherding his fat flocks in the pastures. So we went
@@ -5578,7 +5507,6 @@ no shame to eat thy guests within thy gates, wherefore Zeus
 hath requited thee, and the other gods."
 'So I spake, and he was mightily angered at heart, and he
 brake off the peak of a great hill and threw it at us, and
-it fell in front of the dark-prowed ship. {*} And the sea
 heaved beneath the fall of the rock, and the backward flow
 of the wave bare the ship quickly to the dry land, with the
 wash from the deep sea, and drave it to the shore. Then I
@@ -5590,16 +5518,13 @@ and rowed on. But when we had now made twice the distance
 over the brine, I would fain have spoken to the Cyclops,
 but my company stayed me on every side with soft words,
 saying:
-{* We have omitted line 483, as required by the sense. It
 is introduced here from line 540.}
 '"Foolhardy that thou art, why wouldst thou rouse a wild
 man to wrath, who even now hath cast so mighty a throw
 towards the deep and brought our ship back to land, yea and
-we thought that we had perished {*} even there? If he had
 heard any of us utter sound or speech he would have crushed
 our heads and our ship timbers with a cast of a rugged
 stone, so mightily he hurls."
-{* Neither in this passage nor in B ii.171 nor in B xx.121
 do we think that the aorist infinitive after a verb of
 saying can bear a future sense. The aorist infinitive after
 favour; the infinitive there is in fact a noun in the
@@ -6594,7 +6519,6 @@ too, the wonder of all men. All that dwelt around were her
 wooers; but Neleus would not give her, save to him who
 should drive off from Phylace the kine of mighty Iphicles,
 with shambling gait and broad of brow, hard cattle to
-drive. And none but the noble seer {*} took in hand to
 drive them; but a grievous fate from the gods fettered him,
 even hard bonds and the herdsmen of the wild. But when at
 length the months and days were being fulfilled, as the
@@ -6602,7 +6526,6 @@ year returned upon his course, and the seasons came round,
 then did mighty Iphicles set him free, when he had spoken
 out all the oracles; and herein was the counsel of Zeus
 being accomplished.
-{* Melampus}
 'And I saw Lede, the famous bed-fellow of Tyndareus, who
 bare to Tyndareus two sons, hardy of heart, Castor tamer of
 steeds, and Polydeuces the boxer. These twain yet live, but
@@ -6798,7 +6721,6 @@ great prince here among the dead. Wherefore let not thy
 death be any grief to thee, Achilles."
 'Even so I spake, and he straightway answered me, and said:
 "Nay, speak not comfortably to me of death, oh great
-Odysseus. Rather would I live on ground {*} as the hireling
 of another, with a landless man who had no great
 livelihood, than bear sway among all the dead that be
 departed. But come, tell me tidings of that lordly son of
@@ -6813,7 +6735,6 @@ could I but come for an hour to my father's house as then I
 was, so would I make my might and hands invincible, to be
 hateful to many an one of those who do him despite and keep
 him from his honour."
-{* [Greek] seems to mean 'upon the earth,' 'above ground,'
 as opposed to the dead who are below, rather than 'bound to
 the soil,' in which sense most commentators take it.}
 'Even so he spake, but I answered him saying: "As for noble
@@ -6831,7 +6752,6 @@ that might of his. And many men he slew in warfare dread;
 but I could not tell of all or name their names, even all
 the host he slew in succouring the Argives; but, ah, how he
 smote with the sword that son of Telephus, the hero
-Eurypylus, and many Ceteians {*} of his company were slain
 around him, by reason of a woman's bribe. He truly was the
 comeliest man that ever I saw, next to goodly Memnon. And
 again when we, the best of the Argives, were about to go
@@ -6849,7 +6769,6 @@ of Priam, he embarked unscathed with his share of the
 spoil, and with a noble prize; he was not smitten with the
 sharp spear, and got no wound in close fight: and many such
 chances there be in war, for Ares rageth confusedly."
-{* See Lenormant, Premieres Civilisations, vol. i. p.289.}
 'So I spake, and the spirit of the son of Aeacus, fleet of
 foot, passed with great strides along the mead of asphodel,
 rejoicing in that I had told him of his son's renown.
@@ -6887,8 +6806,6 @@ his dooms through the wide-gated house of Hades.
 'And after him I marked the mighty Orion driving the wild
 beasts together over the mead of asphodel, the very beasts
 that himself had slain on the lonely hills, with a strong
-mace all of bronze in his hands, {*} that is ever unbroken.
-{* [Greek] in strict grammar agrees with [Greek] in 574,
 but this merely by attraction, for in sense it refers not
 to the living man, but to his phantom.}
 'And I saw Tityos, son of renowned Earth, lying on a
@@ -7176,7 +7093,6 @@ for my company no longer plied with their hands the
 tapering oars. But I paced the ship and cheered on my men,
 as I stood by each one and spake smooth words:
 '"Friends, forasmuch as in sorrow we are not all unlearned,
-truly this is no greater woe that is upon us, {*} than when
 the Cyclops penned us by main might in his hollow cave; yet
 even thence we made escape by my manfulness, even by my
 counsel and my wit, and some day I think that this
@@ -7190,7 +7106,6 @@ wieldest the helm of the hollow ship. Keep the ship well
 away from this smoke and from the wave and hug the rocks,
 lest the ship, ere thou art aware, start from her course to
 the other side, and so thou hurl us into ruin."
-{* Reading [Greek], not [Greek] with La Roche.}
 'So I spake, and quickly they hearkened to my words. But of
 Scylla I told them nothing more, a bane none might deal
 with, lest haply my company should cease from rowing for
@@ -7981,7 +7896,6 @@ who are ever in fear when young lords like ours bear rule
 over them. For surely the gods have stayed the returning of
 my master, who would have loved me diligently, and given me
 somewhat of my own, a house and a parcel of ground, and a
-comely {*} wife, such as a kind lord gives to his man, who
 hath laboured much for him and the work of whose hands God
 hath likewise increased, even as he increaseth this work of
 mine whereat I abide. Therefore would my lord have rewarded
@@ -7991,7 +7905,6 @@ utterly, forasmuch as she hath caused the loosening of many
 a man's knees. For he too departed to Ilios of the goodly
 steeds, to get atonement for Agamemnon, that so he might
 war with the Trojans.'
-{* Reading [Greek]}
 Therewith he quickly bound up his doublet with his girdle,
 and went his way to the styes, where the tribes of the
 swine were penned. Thence he took and brought forth two,
@@ -9185,7 +9098,6 @@ township hate thee, obedient to the voice of a god? Or hast
 thou cause to blame thy brethren, in whose battle a man
 puts trust, even if a great feud arise? Ah, would that I
 had the youth, as now I have the spirit, and were either
-the son of noble Odysseus or Odysseus' very self, {*}
 straightway then might a stranger sever my head from off my
 neck, if I went not to the halls of Odysseus, son of
 Laertes, and made myself the bane of every man among them!
@@ -9196,7 +9108,6 @@ strangers shamefully entreated, and men haling the
 handmaidens in foul wise through the fair house, and wine
 drawn wastefully and the wooers devouring food all
 recklessly without avail, at a work that knows no ending.'
-{* We omit line 101, which spoils the sense of the passage,
 and was rejected by antiquity.}
 Then wise Telemachus answered him, saying: 'Yea now,
 stranger I will plainly tell thee all. There is no grudge
@@ -9403,10 +9314,8 @@ neither let Laertes know it, nor the swineherd nor any of
 the household nor Penelope herself, but let me and thee
 alone discover the intent of the women. Yea, and we would
 moreover make trial of certain of the men among the
-thralls, and learn who {*} of them chances to honour us and
 to fear us heartily, and who regards us not at all and
 holds even thee in no esteem, so noble a man as thou art.'
-{* Reading [Greek]}
 Then his renowned son answered him, and said: 'O my father,
 of a truth thou shalt learn, methinks, even hereafter what
 spirit I am of, for no whit doth folly possess me. But I
@@ -9844,21 +9753,15 @@ louting through the land asking alms to fill his insatiate
 belly. But now I will speak out and my word shall surely be
 accomplished. If ever he fares to the house of divine
 Odysseus, many a stool that men's hands hurl shall fly
-about his head, and break upon his ribs, {*} as they pelt
 him through the house.'
-{* Reading [Greek]}
 Therewith, as he went past, he kicked Odysseus on the hip,
 in his witlessness, yet he drave him not from the path, but
 he abode steadfast. And Odysseus pondered whether he should
 rush upon him and take away his life with the staff, or
-lift him in his grasp {*} and smite his head to the earth.
 Yet he hardened his heart to endure and refrained himself.
 And the swineherd looked at the other and rebuked him, and
 lifting up his hands prayed aloud:
-{* [Greek] is perhaps best taken as an adverb in [Greek]
-formed from [Greek], though some letters of the word are
 still left obscure. Most modern commentators, however,
-derive it from [Greek] and [Greek] 'near the ground; hence,
 in this context, 'lift him by the feet.'}
 'Nymphs of the well-water, daughters of Zeus, if ever
 Odysseus burned on your altars pieces of the thighs of rams
@@ -9891,10 +9794,8 @@ There is building beyond building, and the court of the
 house is cunningly wrought with a wall and battlements, and
 well-fenced are the folding doors; no man may hold it in
 disdain. And I see that many men keep revel within, for the
-savour of the fat rises upward, {*} and the voice of the
 lyre is heard there, which the gods have made to be the
 mate of the feast.'
-{* Reading [Greek]}
 Then didst thou make answer, swineherd Eumaeus: 'Easily
 thou knowest it, for indeed thou never lackest
 understanding. But come, let us advise us, how things shall
@@ -10006,11 +9907,7 @@ So spake he, but Antinous rebuked the swineherd, saying:
 bring this man to the city? Have we not vagrants enough
 besides, plaguy beggars, kill-joys of the feast? Dost thou
 count it a light thing that they assemble here and devour
-the living of thy master, but thou must needs {*} call in
 this man too?'
-{* [Greek] can hardly have a local meaning here. If
-retained, it must be nearly equivalent to [Greek], 'it
-seems,' with a touch of irony. Cf. i.348. The v. 1. [Greek]
 is a simpler reading, but by no means certain.}
 Then didst thou make answer, swineherd Eumaeus: 'Antinous,
 no fair words are these of thine, noble though thou art.
@@ -10237,10 +10134,8 @@ till the going down of the sun. Yea, and it is far meeter
 for thyself, O queen, to utter thy word to the stranger
 alone, and to listen to his speech.'
 Then the wise Penelope answered: 'Not witless is the
-stranger; even as he deems, so it well may be. {*} For
 there are no mortal men, methinks, so wanton as these, and
 none that devise such infatuate deeds.'
-{* Placing at colon at [Greek], and reading [Greek] (cf.
 xix.312).}
 So she spake, and the goodly swineherd departed into the
 throng of the wooers, when he had showed her all his
@@ -10645,10 +10540,8 @@ girding at Odysseus, and so made mirth for his friends:
 'Hear me ye wooers of the queen renowned, that I may say
 that which my spirit within me bids me. Not without the
 gods' will has this man come to the house of Odysseus;
-methinks at least that the torchlight flares forth from {*}
 that head of his, for there are no hairs on it, nay never
 so thin.'
-{* Accepting the conjecture [Greek] = [Greek] for the MSS.
 He spake and withal addressed Odysseus, waster of cities:
 'Stranger, wouldest thou indeed be my hireling, if I would
 take thee for my man, at an upland farm, and thy wages
@@ -11151,7 +11044,6 @@ wife, even so all men declare, that have beheld us twain,
 that we favour each other exceedingly, even as thou dost
 mark and say.'
 Thereupon the crone took the shining cauldron, wherefrom
-{*} she set to wash his feet, and poured in much cold water
 and next mingled therewith the warm. Now Odysseus sat aloof
 from the hearth, and of a sudden he turned his face to the
 darkness, for anon he had a misgiving of heart lest when
@@ -11171,7 +11063,6 @@ end of supper, behold, Eurycleia set the babe on his knees,
 and spake and hailed him: 'Autolycus find now a name
 thyself to give thy child's own son; for lo, he is a child
 of many prayers.'
-{* Reading [Greek]}
 Then Autolycus made answer and spake: 'My daughter and my
 daughter's lord, give ye him whatsoever name I tell you.
 Forasmuch as I am come hither in wrath against many a one,
@@ -11802,10 +11693,6 @@ burden of the earth. And this other fellow again must stand
 up to play the seer! Nay, but if thou wouldest listen to
 me, much better it were. Let us cast these strangers on
 board a benched ship, and send them to the Sicilians,
-whence they would fetch thee their price.' {*}
-{* Reading [Greek], which is a correction. Or keeping the
-MSS. [Greek] 'and this should bring thee in a goodly
-price,' the subject to [Greek] being, probably, THE SALE,
 which is suggested by the context.}
 So spake the wooers, but he heeded not their words, in
 silence he looked towards his father, expecting evermore
@@ -11896,7 +11783,6 @@ her, and straightway she spake out among the wooers and
 declared her word, saying:
 'Hear me, ye lordly wooers, who have vexed this house, that
 ye might eat and drink here evermore, forasmuch as the
-master is long gone, nor could ye find any other mark {*}
 for your speech, but all your desire was to wed me and take
 me to wife. Nay come now, ye wooers, seeing that this is
 the prize that is put before you. I will set forth for you
@@ -11906,11 +11792,8 @@ twelve axes, with him will I go and forsake this house,
 this house of my wedlock, so fair and filled with all
 livelihood, which methinks I shall yet remember, aye, in a
 dream.'
-{* The accepted interpretation of [Greek] (a word which
 occurs only here) is 'pretext'; but this does not agree
 with any of the meanings of the verb from which the noun is
-derived. The usage of [Greek] in Od. xix. 71, xxii. 75, of
-suggests rather for [Greek] the idea of 'aiming at a
 mark.'}
 So spake she, and commanded Eumaeus, the goodly swineherd,
 to set the bow for the wooers and the axes of grey iron.
@@ -12042,10 +11925,8 @@ come thus suddenly, I know not whence, and some god were to
 bring him? Would ye stand on the side of the wooers or of
 Odysseus? Tell me even as your heart and spirit bid you.'
 Then the neatherd answered him, saying: 'Father Zeus, if
-but thou wouldst fulfil this wish: {*}--oh, that that man
 might come, and some god lead him hither! So shouldest thou
 know what my might is, and how my hands follow to obey.'
-{* Placing a colon at [Greek]}
 In like manner Eumaeus prayed to all the gods that wise
 Odysseus might return to his own home.
 Now when he knew for a surety what spirit they were of,
@@ -12402,10 +12283,8 @@ struck the ground full with his forehead. Then Telemachus
 sprang away, leaving the long spear fixed in Amphinomus,
 for he greatly dreaded lest one of the Achaeans might run
 upon him with his blade, and stab him as he drew forth the
-spear, or smite him with a down stroke {*} of the sword. So
 he started and ran and came quickly to his father, and
 stood by him, and spake winged words:
-{* Or, reading [Greek], smite him as he stooped over the
 corpse.}
 'Father, lo, now I will bring thee a shield and two spears
 and a helmet all of bronze, close fitting on the temples,
@@ -12486,11 +12365,9 @@ Then Odysseus of many counsels answered saying: 'Verily, I
 and Telemachus will keep the proud wooers within the halls,
 for all their fury, but do ye twain tie his feet and arms
 behind his back and cast him into the chamber, and close
-the doors after you,{*} and make fast to his body a twisted
 rope, and drag him up the lofty pillar till he be near the
 roof beams, that he may hang there and live for long, and
 suffer grievous torment.'
-{* Or, as Mr. Merry suggests in his note, 'tie boards
 behind him' as a method of torture. He compares Aristoph.
 Thesm. 931,940.}
 So he spake, and they gave good heed and hearkened. So they
@@ -12894,13 +12771,11 @@ And now are all the wooers gathered in an heap by the gates
 of the court, while he is purifying his fair house with
 brimstone, and hath kindled a great fire, and hath sent me
 forth to call thee. So come with me, that ye may both enter
-into your heart's delight, {*} for ye have suffered much
 affliction. And even now hath this thy long desire been
 fulfilled; thy lord hath come alive to his own hearth, and
 hath found both thee and his son in the halls; and the
 wooers that wrought him evil he hath slain, every man of
 them in his house.'
-{* Reading [Greek] . . . [Greek].}
 Then wise Penelope answered her: 'Dear nurse, boast not yet
 over them with laughter. Thou knowest how welcome the sight
 of him would be in the halls to all, and to me in chief,
@@ -13262,14 +13137,12 @@ heroes wast evermore dear to Zeus, whose joy is in the
 thunder, seeing that thou wast lord over warriors, many and
 mighty men, in the land of the Trojans where we Achaeans
 suffered affliction. But lo, thee too was deadly doom to
-visit early, {*} the doom that none avoids of all men born.
 Ah, would that in the fulness of thy princely honour, thou
 hadst met death and fate in the land of the Trojans! So
 would all the Achaean host have builded thee a barrow, yea
 and for thy son thou wouldst have won great glory in the
 aftertime. But now it has been decreed for thee to perish
 by a most pitiful death.'
-{* Reading [Greek]}
 Then the soul of the son of Atreus answered, and spake:
 'Happy art thou son of Peleus, godlike Achilles, that didst
 die in Troy-land far from Argos, and about thee fell
@@ -13490,7 +13363,6 @@ this intent the goodly Odysseus went up to him. Now he was
 holding his head down and kept digging about the plant,
 while his renowned son stood by him and spake, saying:
 'Old man, thou hast no lack of skill in tending a garden;
-lo, thou carest well for all, {*} nor is there aught
 whatsoever, either plant or fig-tree, or vine, yea, or
 olive, or pear, or garden-bed in all the close, that is not
 well seen to. Yet another thing will I tell thee and lay
@@ -13525,7 +13397,6 @@ fold, and as many coverlets, and as many goodly mantles and
 doublets to boot, and besides all these, four women skilled
 in all fair works and most comely, the women of his
 choice.'
-{* Supplying [Greek] from the preceding clause as object to
 Then his father answered him, weeping: 'Stranger, thou art
 verily come to that country whereof thou askest, but
 outrageous men and froward hold it. And these thy gifts,

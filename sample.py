@@ -12,7 +12,7 @@ from model import Model
 
 # Prime - first word
 # Update model to prime with end words
-def main(save_dir='save', n=200, prime = ' ', count = 1):
+def main(save_dir='save', n=2000, prime = ' ', count = 1, end_word = "end"):
     parser = argparse.ArgumentParser()
     parser.add_argument('--save_dir', type=str, default=save_dir,
                        help='model directory to load stored checkpointed models from')
@@ -30,6 +30,9 @@ def main(save_dir='save', n=200, prime = ' ', count = 1):
                        help='number of samples to print')
     parser.add_argument('--quiet', '-q', default=False, action='store_true',
                        help='suppress printing the prime text (default false)')
+    parser.add_argument('--end_word', '-e', default=end_word,
+                       help='Last word of line')
+
 
     args = parser.parse_args()
     sample(args)
@@ -39,7 +42,7 @@ def sample(args):
         saved_args = cPickle.load(f)
     with open(os.path.join(args.save_dir, 'words_vocab.pkl'), 'rb') as f:
         words, vocab = cPickle.load(f)
-    model = Model(saved_args, True)
+        model = Model(saved_args, True)
     with tf.Session() as sess:
         tf.global_variables_initializer().run()
         saver = tf.train.Saver(tf.global_variables())
@@ -47,7 +50,7 @@ def sample(args):
         if ckpt and ckpt.model_checkpoint_path:
             saver.restore(sess, ckpt.model_checkpoint_path)
             for _ in range(args.count):
-              print(model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet))
+              print(model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet, args.end_word))
 
 if __name__ == '__main__':
-    main()
+    main(save_dir = r".\save\BONUS4", end_word="monarchise")

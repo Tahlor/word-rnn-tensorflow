@@ -1,13 +1,6 @@
-Produced by David Starner, Paul Marshall and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 Superscripts have been represented using regular characters,
 e.g. "ye 27th".
-The [oe] ligature has been replaced with simply an oe. **]
-_Copyright, 1886_
 _Come and take a choice of all my library_
-Titus Andronicus, iv. 1
 _______________
 The poets have ever been lovers of books; indeed, one might ask how
 should a man be a poet who did not admire a treasure as precious and as
@@ -108,16 +101,12 @@ Ah grant, by some benign decree,
 The Books I loved--to love them still._
 =Contents.=
 _Prefatory Note_                                        v
-PROEM. [1]_Ballade of the Bookworm_ (A. Lang)          ix
 EDWARD D. ANDERSON. _The Baby in the Library_          17
 FRANCIS BENNOCH. _My Books_                            19
 LAMAN BLANCHARD. _The Art of Book-Keeping_             20
 ANNE C. L. BOTTA. _In the Library_                     26
-H. C. BUNNER. [1]_My Shakspere_                        28
 ROBERT BURNS. _The Bookworms_                          31
-CATULLUS. [1]_To his Book_ (Translated by A. Lang)     32
 BEVERLY CHEW. _Old Books are best_                     33
-THOMAS S. COLLIER. [1]_The Forgotten Books_            34
 HELEN GRAY CONE. _An Invocation in a Library_          36
 SAMUEL DANIEL. _Concerning the Honor of Books_         38
 ISAAC D'ISRAELI. _Lines_                               39
@@ -131,11 +120,9 @@ JOHN FERRIAR. _The Bibliomania_                        49
 F. FERTIAULT. _Triolet to her Husband_
 (Translated by A. Lang)                            57
 WILLIAM FREELAND. _A Nook and a Book_                  58
-EDMUND GOSSE. [1]_The Sultan of my Books_              60
 THOMAS GORDON HAKE. _Our Book-Shelves_                 64
 ROBERT HERRICK. _To his Book_                          66
 _To his Book_                                     67
-HORACE. [1]_To his Books_
 (Translated by Austin Dobson)                       68
 LEIGH HUNT. _Sonnet_                                   70
 WILLIS FLETCHER JOHNSON. _My Books_                    71
@@ -148,21 +135,15 @@ _Ballade of the Bookman's Paradise_               81
 _The Rowfant Books_                               83
 _The Rowfant Library_                             85
 _Ghosts in the Library_                           87
-GEORGE PARSONS LATHROP. [1]_The Book Battalion_        91
-WALTER LEARNED. [1]_On the Fly-Leaf of a Book of
 Old Plays_                                      93
 ROBERT LEIGHTON. _Too Many Books_                      95
-FREDERICK LOCKER. [1]_From the Fly-Leaf of the
 Rowfant Montaigne_                                   97
 HENRY WADSWORTH LONGFELLOW. _My Books_                 98
 LORD LYTTON. _The Souls of Books_                      99
-COSMO MONKHOUSE. [1]_De Libris_                       105
-ARTHUR J. MUNBY. [1]_Ex Libris_                       107
 CAROLINE NORTON. _To my Books_                        110
 F. M. P. _'Desultory Reading'_                        111
 THOMAS PARNELL. _The Bookworm_                        112
 SAMUEL MINTURN PECK. _Among my Books_                 116
-WALTER HERRIES POLLOCK. [1]_A Ruined Library_         117
 BRYAN WALLER PROCTER (Barry Cornwall). _My Books_     119
 WILLIAM ROSCOE. _To my Books on Parting with Them_    120
 LORD ROSSLYN. _Among my Books_                        121
@@ -175,12 +156,10 @@ RICHARD HENRY STODDARD. _Companions_                  131
 RICHARD THOMSON. _The Book of Life_                   133
 CHARLES TENNYSON TURNER. _On Certain Books_           135
 HENRY VAUGHAN. _To his Books_                         136
-SAMUEL WADDINGTON. [1]_Literature and Nature_         138
 JOHN GREENLEAF WHITTIER. _The Library_                139
 TOMAS YRIARTE. _The Country Squire_                   141
 ANONYMOUS. _Old Books_                                144
 GEORGE CRABBE. _The Library_                          149
-A FINAL WORD. [1]_The Collector to his Library_
 (Austin Dobson)                                  173
 collection.
 =Ballads of Books=
@@ -746,7 +725,6 @@ With wistful glance his aching eyes behold
 The Princeps-copy, clad in blue and gold,
 Where the tall Book-case, with partition thin,
 Displays, yet guards the tempting charms within:
-So great Facardin view'd, as sages[2] tell,
 Fair Crystalline immur'd in lucid cell.
 Not thus the few, by happier fortune grac'd,
 And blest, like you, with talents, wealth, and taste,
@@ -755,7 +733,6 @@ The Muse's treasures from each letter'd strand.
 For you the Monk illum'd his pictur'd page,
 For you the press defies the Spoils of age;
 FAUSTUS for you infernal tortures bore,
-For you ERASMUS[3] starv'd on Adria's shore.
 The FOLIO-ALDUS loads your happy Shelves,
 And dapper ELZEVIRS, like fairy elves,
 Shew their light forms amidst the well-gilt Twelves:
@@ -786,7 +763,6 @@ Or MADOC'S mass conceals its veins of lead.
 The glossy lines in polish'd order stand,
 While the vast margin spreads on either hand,
 Like Russian wastes, that edge the frozen deep,
-Chill with pale glare, and lull to mortal sleep.[4]
 Or English books, neglected and forgot,
 Excite his wish in many a dusty lot:
 Whatever trash _Midwinter_ gave to day,
@@ -798,13 +774,11 @@ _Curious and rare_ his ardent mind engage.
 Unlike the Swans, in Tuscan Song display'd,
 He hovers eager o'er Oblivion's Shade,
 To snatch obscurest names from endless night,
-And give COKAIN or FLETCHER[5] back to light.
 In red morocco drest he loves to boast
 The bloody murder, or the yelling ghost;
 Or dismal ballads, sung to crouds of old,
 Now cheaply bought for thrice their weight in gold.
 Yet to th' unhonor'd dead be Satire just;
-Some flow'rs[6] "smell sweet and blossom in their dust."
 'Tis thus ev'n SHIRLEY boasts a golden line,
 And LOVELACE strikes, by fits, a note divine.
 Th' unequal gleams like midnight-lightnings play,
@@ -815,7 +789,6 @@ Presumptuous grief, while pensive Taste repines
 O'er the frail relics of her Attic Shrines!
 O for that power, for which Magicians vye.
 To look through earth, and secret hoards descry!
-I'd spurn such gems as Marinel[7] beheld,
 And all the wealth Aladdin's cavern held,
 Might I divine in what mysterious gloom
 The rolls of sacred bards have found their tomb:
@@ -823,14 +796,11 @@ Beneath what mould'ring tower, or waste champain,
 Is hid MENANDER, sweetest of the train:
 Where rests ANTIMACHUS' forgotten lyre,
 Where gentle SAPPHO'S still seductive fire;
-Or he,[8] whom chief the laughing Muses own,
 Yet skill'd with softest accents to bemoan
-Sweet Philomel[9] in strains so like her own.
 The menial train has prov'd the Scourge of wit,
 Ev'n OMAR burnt less Science than the spit.
 Earthquakes and wars remit their deadly rage,
 But ev'ry feast demands some fated page.
-Ye Towers of Julius,[10] ye alone remain
 Of all the piles that saw our nation's stain,
 When HARRY'S sway opprest the groaning realm,
 And Lust and Rapine seiz'd the wav'ring helm.
@@ -841,13 +811,10 @@ The Penman's pious scrolls were rudely tost;
 Then richest manuscripts, profusely spread,
 The brawny Churls' devouring Oven fed:
 And thence Collectors date the heav'nly ire
-That wrapt Augusta's domes in sheets of fire.[11]
 Taste, tho' misled, may yet some purpose gain,
-But Fashion guides a book-compelling train.[12]
 Once, far apart from Learning's moping crew,
 The travell'd beau display'd his red-heel'd shoe,
 Till ORFORD rose, and told of rhiming Peers,
-Repeating _noble_ words to polish'd ears;[13]
 Taught the gay croud to prize a fluttering name,
 In trifling toil'd, nor "blush'd to find it fame."
 The letter'd fop, now takes a larger scope,
@@ -879,16 +846,12 @@ The Eye skims restless, like the roving bee,
 O'er flowers of wit, or song, or repartee,
 While sweet as Springs, new-bubbling from the stone,
 Glides through the breast some pleasing theme unknown.
-Now dipt in ROSSI'S[15] terse and classic style,
 His harmless tales awake a transient smile.
 Now BOUCHET'S motley stores my thoughts arrest,
 With wond'rous reading, and with learned jest.
-Bouchet[16] whose tomes a grateful line demand,
 The valued gift of STANLEY'S lib'ral hand.
 Now sadly pleased, through faded Rome I stray,
-And mix regrets with gentle DU BELLAY;[17]
 Or turn, with keen delight, the curious page,
-Where hardy Pasquin[18] braves the Pontiff's rage.
 But D----n's strains should tell the sad reverse,
 When Business calls, invet'rate foe to verse!
 Tell how "the Demon claps his iron hands,"
@@ -898,7 +861,6 @@ To scenes of danger, and to sights of woe.
 Ev'n when to Margate ev'ry Cockney roves,
 And brainsick-poets long for shelt'ring groves,
 Whose lofty shades exclude the noontide glow,
-While Zephyrs breathe, and waters trill below,[19]
 Me rigid Fate averts, by tasks like these,
 From heav'nly musings, and from letter'd ease.
 Such wholesome checks the better Genius sends,
@@ -1056,7 +1018,6 @@ My poets from slumber
 Shall rise in morocco,
 To shield the new comer
 From storm or sirocco.
-*       *       *       *       *
 I might prate thus for pages,
 The theme is so pleasant;
 But the gloom of the ages
@@ -1430,7 +1391,6 @@ But back to town my Muse must fly,
 And taste the smoke, and list to them
 Who cry the News, and seem to cry
 (With each Gladstonian victory),
-_Woe, woe unto Jerusalem!_[20]
 A. LANG.           _From 'Longman's Magazine,' July, 1886._
 Suppose, when now the house is dumb,
 When lights are out, and ashes fall,--
@@ -1447,7 +1407,6 @@ By all but scandal-loving men,--
 A libel from some nameless den
 Of Frankfort--_Arnaud, à la Sphère_,
 Wherein one spilt, with venal pen,
-Lies o'er the loves of Molière.[21]
 Another shade--he does not see
 "Boney," the foeman of his race--
 The great Sir Walter, this is he
@@ -1455,7 +1414,6 @@ With that grave homely Border face.
 He claims his poem of the chase
 That rang Benvoirlich's valley through;
 And _this_, that doth the lineage trace
-And fortunes of the bold Buccleuch;[22]
 For these were his, and these he gave
 To one who dwelt beside the Peel,
 That murmurs with its tiny wave
@@ -1463,28 +1421,21 @@ To join the Tweed at Ashestiel.
 Now thick as motes the shadows wheel,
 And find their own, and claim a share
 Of books wherein Ribou did deal,
-Or Roulland sold to wise Colbert.[23]
 What famous folk of old are here!
 A royal duke comes down to us,
 And greatly wants his Elzevir,
-His Pagan tutor, Lucius.[24]
 And Beckford claims an amorous
-Old heathen in morocco blue;[25]
 And who demands Eobanus
-But stately Jacques Auguste de Thou![26]
 They come, the wise, the great, the true,
 They jostle on the narrow stair,
 The frolic Countess de Verrue,
 Lamoignon, ay, and Longepierre,
 The new and elder dead are there--
 The lords of speech, and song, and pen,
-Gambetta,[27] Schlegel,[28] and the rare
-Drummond of haunted Hawthornden.[29]
 Ah, and with those, a hundred more,
 Whose names, whose deeds, are quite forgot:
 Brave 'Smiths' and 'Thompsons' by the score,
 Scrawled upon many a shabby 'lot.'
-This play-book was the joy of Pott[30]--
 Pott, for whom now no mortal grieves.
 Our names, like his, remembered not,
 Like his, shall flutter on fly-leaves!
@@ -1688,7 +1639,6 @@ Wreath'd, as in Athens, with the Cnidian vine.
 I ope thy pages, Milton, and, behold,
 Thy spirit meets me in the haunted ground!--
 Sublime and eloquent, as while, of old,
-"It flamed and sparkled in its crystal bound;"[31]
 These _are_ yourselves--your life of life! The Wise,
 (Minstrel or Sage) _out_ of their books are clay;
 But _in_ their books, as from their graves, they rise,
@@ -1722,7 +1672,6 @@ Richer in gifts which Atheists best confute--
 FANCY AND THOUGHT! 'Tis these that from the sod
 Lift us! The life which soars above the brute
 Ever and mightiest, breathes from a great Poet's lute!
-Lo! that grim Merriment of Hatred;[32]--born
 Of him,--the Master-Mocker of Mankind,
 Beside the grin of whose malignant spleen,
 Voltaire's gay sarcasm seems a smile serene,--
@@ -1750,7 +1699,6 @@ For him who seeks yon well; lost cities give
 Up their untarnish'd wonders, and the reign
 Of Jove revives and Saturn:--at our will
 Rise dome and tower on Delphi's sacred hill;
-Bloom Cimon's trees in Academe;[33]--along
 Leucadia's headland, sighs the Lesbian's song;
 With Ægypt's Queen once more we sail the Nile,
 And learn how worlds are barter'd for a smile:--

@@ -1,5 +1,3 @@
-Produced by Michelle Shephard, Eric Eldred, Charles Franks
-and the Online Distributed Proofreading Team. HTML version
 by Al Haines.
 To
 We see the sky,--we love it day by day;
@@ -63,7 +61,6 @@ Hidden History
 A Ballad Of The Mist
 The Dreaming Wheel
 The Roads That Meet
-*       *       *       *       *
 Here is a world of changing glow,
 Where moods roll swiftly far and wide;
 Waves sadder than a funeral's pride,
@@ -966,7 +963,6 @@ Oh, white fire of the nightly sky
 When burns the moon's wonder wide and far,
 And every cloud illumed with flame
 Engulfs a shaken star!
-*       *       *       *       *
 Bright as comes morning from the hill,
 There comes a face to her lover's eyes;
 Her love she tells; and he, dying, smiles,--
@@ -1121,3 +1117,4 @@ A swift and deadly hate
 Blows headlong towards thee in the teeth of Time.
 Write! or thy words will fall too late."
 "Write me a fold," said Fate,
+"

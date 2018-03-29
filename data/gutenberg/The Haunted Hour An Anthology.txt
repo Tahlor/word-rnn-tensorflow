@@ -1,11 +1,6 @@
-Produced by Audrey Longhurst, Stacy Brown Thellend, and
-the Online Distributed Proofreading Team at
-http://www.pgdp.net
 _An Anthology_
-For the use of the copyrighted material included in this volume
 permission has been secured either from the author or his authorized
 publishers. All rights in these poems are reserved by the holders of the
-copyright, or the authorized publishers, as named below:
 To George H. Doran Co. for the poems of Joyce Kilmer and May Byron.
 To Doubleday, Page & Co. and Rudyard Kipling for Mr. Kipling's "The
 Looking-Glass."
@@ -66,42 +61,8 @@ unwearied and intelligent assistance with the selection and compilation
 of the book; and Aline Kilmer for help in its revision and arrangement.
 Margaret Widdemer.
 The Far Away Country         _Nora Hopper Chesson_            xiv
-All-Souls                    _Katherine Tynan_                  3
-All-Saints' Eve              _Lizette Woodworth Reese_          3
-A Dream                      _William Allingham_                4
-The Neighbors                _Theodosia Garrison_               6
-A Ballad of Hallowe'en       _Theodosia Garrison_               7
-The Forgotten Soul           _Margaret Widdemer_                8
-All-Souls' Night             _Dora Sigerson Shorter_            9
-Janet's Tryst                _George Macdonald_                10
-Hallows' E'en                _Winifred M. Letts_               13
-On Kingston Bridge           _Ellen M.H. Cortissoz_            14
-All-Souls' Night             _Louisa Humphreys_                16
-Mary Shepherdess             _Marjorie L.C. Pickthall_         21
-The Little Ghost             _Katherine Tynan_                 22
-Two Brothers                 _Theodosia Garrison_              24
-The Little Dead Child        _Josephine Daskam Bacon_          25
-The Child Alone              _Rosamund Marriott Watson_        27
-The Child                    _Theodosia Garrison_              28
 Such Are the Souls in
-Purgatory                  _Anna Hempstead Branch_           29
-The Open Door                _Rosamund Marriott Watson_        32
-My Laddie's Hounds           _Marguerite Elizabeth Easter_     33
-The Old House                _Katherine Tynan_                 35
-Ballad of the Buried Sword   _Ernest Rhys_                     39
-The Looking-Glass            _Rudyard Kipling_                 40
-Drake's Drum                 _Henry Newbolt_                   41
-The Grey Ghost               _Francis Carlin_                  42
-Ballad of Douglas Bridge     _Francis Carlin_                  43
-The Indian Burying Ground    _Philip Freneau_                  44
-The Song of Soldiers         _Walter De La Mare_               49
 By the Blockhouse on the
-Hill                       _Helen Gray Cone_                 49
-Night at Gettysburg          _Don C. Seitz_                    51
-The Riders                   _Katherine Tynan_                 52
-The White Comrade            _Robert Haven Schauffler_         53
-Ghosts of the Argonne        _Grantland Rice_                  56
-November Eleventh            _Ruth Comfort Mitchell_           57
 The Flying Dutchman          _Charles Godfrey Leland_          61
 The Phantom Ship             _Henry Wadsworth Longfellow_      61
 The Phantom Light of the
@@ -690,7 +651,6 @@ _That is long ago, mother,_
 _Long and long ago!_
 _Shall I grow warm who lay three nights_
 _Beneath the winter snow?_
-*       *       *       *       *
 "Hast thou not heard the old nurse weep?
 She sings to us no more;
 And thy brothers leave the broken toys
@@ -699,7 +659,6 @@ _That is far away, mother,_
 _Far and far away!_
 _Above my head the stone is white._
 _My hands forget to play._
-*       *       *       *       *
 "What wilt thou then, my little dead child,
 Since here thou may'st not lie?
 Ah, me! that snow should be thy sheet,
@@ -716,7 +675,6 @@ _The way from here to there._
 My heart will break in me!
 Thy way to God thou must go alone,
 I may not carry thee!"
-*       *       *       *       *
 The cock crew out the early dawn
 Ere she could stay her moan;
 She heard the cry of a little child,
@@ -1549,7 +1507,6 @@ What rower plies a reckless oar
 With mist on flood and strand?
 That Oarsman toils forevermore
 And ne'er shall reach the land.
-*       *       *       *       *
 Roystering, rollicking Ram van Dam,
 Fond of a frolic and fond of a dram,
 Fonder--yea, fonder, proclaims renown,--
@@ -1594,7 +1551,6 @@ Watched him receding, when--crash on crash
 Volleyed the thunder! A hissing flash
 Smote on the river! He looked again.
 Rambout was gone from the sight of men!
-*       *       *       *       *
 Old Dunderberg with grumbling roar
 Hath warned the fog to flee,
 But still that never-wearied oar
@@ -1719,7 +1675,6 @@ To the jagged edge where the cliffs lean over,
 Climb as you best may climb;
 Lie there and listen where mysteries hover,
 Haunting the tides of Time.
-*       *       *       *       *
 The crumbling surf on the shingle rattles,
 The great waves topple and pour,
 Full of the fury of ancient battles,
@@ -1854,7 +1809,6 @@ Oh, where will be then young Hamilton Tighe?"
 With his sword in his hand, and his foe at his knee.
 Cockswain, or boatswain, or reefer may try,
 But the first man on board will be Hamilton Tighe!"
-*       *       *       *       *
 Hairy-faced Dick hath a swarthy hue,
 Between a gingerbread-nut and a Jew,
 And his pigtail is long, and bushy, and thick,
@@ -1909,7 +1863,6 @@ That Lady mutters, and talks to the air,
 And her eye is fix'd on an empty chair;
 But the mealy-faced boy still whispers with dread,
 "She talks to a man with never a head!"
-*       *       *       *       *
 There's an old Yellow Admiral living at Bath,
 As grey as a badger, as thin as a lath;
 And his very queer eyes have such very queer leers,
@@ -2963,7 +2916,6 @@ The delicate odor of mignonette,
 The ghost of a dead-and-gone bouquet,
 Is all that tells of her story; yet
 Could she think of a sweeter way?
-*       *       *       *       *
 I sit in the sad old house to-night--
 Myself a ghost from a farther sea;
 And I trust that this Quaker woman might,
@@ -3774,7 +3726,6 @@ When they shot him down on the highway,
 Down like a dog on the highway,
 And he lay in his blood on the highway, with the bunch
 of lace at his throat.
-*       *       *       *       *
 _And still of a winter's night, they say, when the wind is in the trees,_
 _When the moon is a ghostly galleon tossed upon cloudy seas,_
 _When the road is a ribbon of moonlight over the purple moor,_
@@ -4214,7 +4165,6 @@ And she said, "Oh, what fairy sight
 Was it thus my grief to see!
 I'll sleep well 'neath the still water,
 Since my love has turned on me."
-*       *       *       *       *
 And her love he went to the north,
 And far to the south went he,
 But still he heard her distant voice

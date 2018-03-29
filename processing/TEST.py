@@ -1,57 +1,33 @@
-from gensim.summarization.summarizer import summarize
+import nltk.tokenize.punkt as pkt
 
-text = """
-Some think to lose him 
-By having him confined; 
-And some do suppose him, 
-Poor thing, to be blind; 
-But if ne'er so close ye wall him, 
-Do the best that you may, 
-Blind love, if so ye call him, 
-Will find out his way. 
+# Experimental
+class CustomLanguageVars(pkt.PunktLanguageVars):
+    _period_context_fmt = r"""
+        \S*                          # some word material
+        %(SentEndChars)s             # a potential sentence ending
+        \n*                       #  <-- THIS is what I changed
+        (?=(?P<after_tok>
+            %(NonWord)s              # either other punctuation
+            |
+            (?P<next_tok>\S+)     #  <-- Normally you would have \s+ here
+        ))"""
 
-You may train the eagle 
-To stoop to your fist; 
-Or you may inveigle 
-The phoenix of the east; 
-The lioness, ye may move her 
-To give o'er her prey; 
-But you'll ne'er stop a lover: 
-He will find out his way."""
+    _period_context_fmt = r"""
+        \S*                          # some word material
+        %(SentEndChars)s             # a potential sentence ending
+        (?=(?P<after_tok>
+            %(NonWord)s              # either other punctuation
+            |
+            \s+(?P<next_tok>\S+)     # or whitespace and some other token
+        ))"""
 
-
-if False:
-    # This chooses best sentences
-    x = summarize(text, word_count=5, split=False)
-    print(x)
-
-
-    # This chooses words
-    from gensim.summarization import keywords
-    x = keywords(text).split('\n')
-    print(x)
+#custom_tknzr = pkt.PunktSentenceTokenizer(lang_vars=CustomLanguageVars())
+#print(custom_tknzr.tokenize(text))
 
 
-# TF-IDF
-#????
->>> import nltk.corpus
->>> from nltk.text import TextCollection
->>> print('hack'); from nltk.book import text1, text2, text3
-hack...
->>> gutenberg = TextCollection(nltk.corpus.gutenberg)
->>> mytexts = TextCollection([text1, text2, text3])
+import re
 
-
-# RAKE
-#python -c "import nltk; nltk.download('stopwords')"
-#pip install rake-nltk
-from rake_nltk import Rake
-r = Rake() # Uses stopwords for english from NLTK, and all puntuation characters.
-r = Rake("English") # To use it in a specific language supported by nltk.
-print r.extract_keywords_from_text(text)
-print r.get_ranked_phrases() # To get keyword phrases ranked highest to lowest.
-
-# Each word has at least 5 characters
-# Each phrase has at most 3 words
-# Each keyword appears in the text at least 4 times
-
+text = "This is a test |||| or this||||YEAH"
+nl = re.compile("\s*\|\|\|\|\s*")
+text = nl.sub(r"\n", text)
+print(text)

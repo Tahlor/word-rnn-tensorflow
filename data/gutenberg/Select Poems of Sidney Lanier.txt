@@ -1,19 +1,11 @@
-Poems of Sidney Lanier**
 Edited by Morgan Callaway
 Our 3rd book regarding Sidney Lanier
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
 further information is included below.  We need your donations.
 Select Poems of Sidney Lanier
 Edited by Morgan Callaway
-March, 1998  [Etext #1229]
-******This file should be named 1229.txt or 1229.zip******
 This etext was prepared by Alan R. Light (alight@vnet.net, formerly
 alight@mercury.interpath.net, etc.).  To assure a high quality text,
 the original was typed in (manually) twice and electronically compared.
@@ -24,50 +16,33 @@ midnight of the last day of the month of any such announcement.
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
 in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
 We produce about two million dollars for each hour we work.  The
 fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
 million dollars per hour this year as we release thirty-two text
 files per month, or 384 more Etexts in 1997 for a total of 1000+
 If these reach just 10% of the computerized population, then the
 total should reach 80 billion Etexts.
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
 This is ten thousand titles each to one hundred million readers,
-which is only 10% of the present number of computer users.  2001
 should have at least twice as many computer users as that, so it
 will require us reaching less than 5% of the users in 2001.
 We need your donations more than ever!
 tax deductible to the extent allowable by law.  (CMU = Carnegie-
 Mellon University).
 For these and other matters, please mail to:
-P. O. Box  2782
-Champaign, IL 61825
 When all other email fails try our Executive Director:
-Michael S. Hart <hart@pobox.com>
 We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
-******
 If you have an FTP program (or emulator), please
 ftp uiarchive.cso.uiuc.edu
 login:  anonymous
 password:  your@login
-cd etext/etext90 through /etext96
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
 for a list of books
 and
 GET NEW GUT for general information
 and
-MGET GUT* for newsletters.
 (Three Pages)
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
@@ -84,23 +59,19 @@ you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
 tm etexts, is a "public domain" work distributed by Professor
 Carnegie-Mellon University (the "Project").  Among other
-things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
 medium they may be on may contain "Defects".  Among other
 things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
 But for the "Right of Replacement or Refund" described below,
 liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -118,7 +89,6 @@ You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-or addition to the etext, or [3] any Defect.
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
 or:
@@ -128,9 +98,7 @@ if you wish, distribute this etext in machine readable
 binary, compressed, mark-up, or proprietary form,
 including any form resulting from conversion by word pro-
 cessing or hypertext software, but only so long as
-does *not* contain characters other than those
 intended by the author of the work, although tilde
-(~), asterisk (*) and underline (_) characters may
 be used to convey punctuation intended by the
 author, and additional characters may be used to
 indicate hypertext links; OR
@@ -149,15 +117,11 @@ date you prepare (or were legally required to prepare)
 your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
 Association / Carnegie-Mellon University".
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 Select Poems of Sidney Lanier
-Edited by Morgan Callaway [American (Southern U.S.) Scholar; 1862-1936.]
 Lines longer than 78 characters are broken and the continuation
 is indented two spaces.  Some obvious errors may have been corrected.
 The "Notes" section has been abolished, and the notes themselves
-appear with the poems, instead of in a separate section.]
 Select Poems of Sidney Lanier
 Edited With an Introduction, Notes, and Bibliography
 By Morgan Callaway, Jr., Ph.D.
@@ -174,27 +138,23 @@ prove an inspiration from the stand-point both of literature and of life.
 The biographical section of the Introduction rests in the main
 upon Dr. Ward's admirable `Memorial' prefixed to the `Poems of Sidney Lanier'
 edited by his wife, though a few additional facts have been gleaned
-here and there.  For most* of the Bibliography down to 1888 I am indebted
 to my Hopkins comrade, Dr. Richard E. Burton, now of Hartford, Conn.,
 who compiled one for the `Memorial of Sidney Lanier',
 published by President Gilman, of the Johns Hopkins University, in 1888.
 Obligations to other publications about Lanier are in every instance
 acknowledged in the appropriate place.
 --
-* I say `most of the Bibliography down to 1888', because Dr. Burton's
 different purpose led him to exclude items that could not be omitted
 in a Bibliography that, like mine, tries to be complete.
 --
 As to the selections made, I wished to include `The Marshes of Glynn'
 and yet not to exclude `Sunrise'.  But both could not be put in,
 and I finally gave the preference to `Sunrise', chiefly on the ground
-of its being Lanier's latest complete poem.*  I believe all will admit
 that the poems selected fairly exemplify the genius of the poet.
 The poems are arranged, not as in the complete edition,
 but in their chronological order, the only proper one, I think,
 for a text-book.  Of course, they are all given complete.
 --
-* Later opinion generally agrees that "The Marshes of Glynn"
 is Lanier's greatest poem, and as this edition has no limitations of space,
 it would be inappropriate to exclude it.  Therefore it has been inserted
 more or less in chronological order (in accordance with Callaway's plan),
@@ -253,7 +213,6 @@ I.    A Brief Sketch of Lanier's Life
 (1842-1881)
 Sidney Lanier has so recently passed from us that it seems desirable
 briefly to recount the chief incidents of his life.  This task
-is much lightened by Dr. Wm. Hayes Ward's `Memorial',* upon which,
 as stated in the Preface, is based this section of my essay.
 Born at Macon, Ga., February 3, 1842, Sidney Lanier came of a family
 noted for their love and cultivation of the fine arts.
@@ -261,13 +220,10 @@ From the time of Queen Elizabeth to the Restoration,
 several of his paternal ancestors were connected with the English court
 as musical composers and as painters.  The father of the poet, however,
 Robert S. Lanier, was a most industrious lawyer, who,
-after a lingering illness of three years, recently** answered `Adsum'
 to the summons of the supreme tribunal.  The poet's mother, Mary Anderson,
 a Virginian of Scotch descent, likewise sprang from a family
 distinguished for their love of oratory, music, and poetry.
 --
-* For the full title of works cited see `Bibliography'.
-** October 20, 1893, at Macon, Ga.
 --
 With such an ancestry we are not surprised to learn that
 Sidney's earliest passion was for music, and that in boyhood he could,
@@ -302,7 +258,6 @@ In 1863 his company was mounted, and served in Virginia and North Carolina.
 In the spring of 1864 both brothers were transferred to Wilmington,
 the head-quarters of the Marine Signal Service, in which they remained
 to the end of the war.  Finally the two brothers were separated,
-each becoming signal officer* of a blockade-runner.  Sidney's vessel
 was captured, and for five months he was a prisoner at Point Lookout, Md.,
 with nothing but his flute to solace him.  It was the exposure of prison-life,
 no doubt, that first led to decline of health by developing
@@ -313,7 +268,6 @@ for the most part afoot, and reached home March 15th.
 An account of his war-life is given in his novel, `Tiger-lilies',
 treated below.
 --
-* It is sometimes erroneously stated that each was put in charge
 of a blockade-runner.
 --
 During the succeeding nine years (1865-73) his life was checkered indeed.
@@ -321,16 +275,12 @@ Seriously ill for six weeks, he arose from his bed to see
 his mother carried off by consumption and to find himself suffering
 with congestion of the lungs.  Slightly relieved, Lanier turned his hand
 to various projects for making a living:  clerking in a hotel
-in Montgomery, Ala., for two years; writing* and publishing his novel,
-`Tiger-lilies'; teaching at Prattville, Ala., one year, during which time**
 he married Miss Mary Day, of Macon, Ga.; studying and then practising law
 with his father at Macon, Ga., for five years; now, in the winter of 1872-73,
 trying to recuperate at San Antonio, Texas, for hemorrhages had begun in 1868,
 and a cough had set in two years later; and, finally, settling in Baltimore,
 December, 1873, to devote himself to music and literature.
 --
-* April, 1867.
-** December 19, 1867.
 --
 Against the son's devotion of his life to music and literature
 the father protested, chiefly on business grounds, and begged him
@@ -348,7 +298,6 @@ have steadily kept in my heart so that I could not banish them.
 Does it not seem to you as to me, that I begin to have the right
 to enroll myself among the devotees of these two sublime arts,
 after having followed them so long and so humbly, and through
-so much bitterness?"*1*  Of course, the father yielded and did all
 that his slender means would allow toward keeping up his son,
 who henceforth devoted every energy to music and literature.
 Despite continued ill-health, which now and again necessitated
@@ -365,7 +314,6 @@ To Taylor he owed his selection to write the `Centennial Cantata',
 which gave him still greater notoriety, though, to be sure,
 some of it was not very grateful to him.  In 1876 the Lippincotts published
 his `Florida', and in 1877 his first volume of `Poems',
-which contained ninety-four pages and consisted chiefly of pieces*2*
 previously published in the magazines.  Soon after settling in Baltimore,
 Lanier made a careful study of Old and Middle English, the fruits of which
 he partially embodied in courses of lectures given to his private class
@@ -390,7 +338,6 @@ going in a closed carriage and sitting during his lecture,
 his strength was so exhausted that the struggle for breath
 in the carriage on his return seemed each time to threaten the end.
 Those who heard him listened in a sort of fascinated terror, as in doubt
-whether the hoarded breath would suffice to the end of the hour."*3*
 After this a trip was made to New York to arrange for issuing some books
 for boys, and four were issued, two posthumously:  `Boy's Froissart' (1878),
 `Boy's King Arthur' (1880), `Boy's Mabinogion' (1881),
@@ -398,9 +345,6 @@ and `Boy's Percy' (1882).  Another work, an account of North Carolina
 similar to that of Florida, was contracted for and was definitely planned,
 but, owing to aggravating infirmities, could not be completed.
 --
-*1* Ward's `Memorial', p. xx. f.
-*2* They are named in the `Bibliography'.
-*3* Ward's `Memorial', p. xxviii.
 --
 For the end was near at hand.  Desperate illness had made it necessary
 to seek relief near Asheville, N.C., where he was joined
@@ -411,17 +355,13 @@ with one another.  On the last night of the summer comes a change.
 His love and immortal will hold off the destroyer of our summer
 yet one more week, until the forenoon of September 7th, and then falls
 the frost, and that unfaltering will renders its supreme submission to
-the will of God."*  Unusually checkered his life had been, and yet for Lanier
 as for Timrod poetry (and music) had "turned life's tasteless waters
-into wine, and flushed them through and through with purple tints."**
 The body was taken to Mr. Lanier's home in Baltimore, thence to
 the Church of St. Michael and All Angels, where services were conducted
 by the rector, the Rev. Dr. William Kirkus.  It was then buried
 in Greenmount Cemetery, in the lot of Mr. and Mrs. Lawrence Turnbull,
 two of the dearest friends that Mr. and Mrs. Lanier had in Baltimore.
 --
-* Ward's `Memorial', p. xxx.
-** Timrod's `A Vision of Poesy', stanza xliv.
 --
 Mr. Lanier left a family consisting of his wife and four sons.
 Mrs. Lanier, who lives at Tryon, N.C., was the inspiration
@@ -444,13 +384,10 @@ Robert Sampson, only fourteen, is at Tryon, N.C., with his mother.
 That interest in Lanier's life and work did not cease with his death,
 there is abundant evidence.  On October 22, 1881, a memorial meeting was held
 by the Faculty and students of the Johns Hopkins University, at which
-addresses*1* were made by President Gilman and Professor Wm. Hand Browne,
 of the University, and by the Rev. Dr. William Kirkus, of Baltimore,
-and a letter*1* was read from the poet-critic, Edmund C. Stedman,
 of New York.  In 1883 `The English Novel' was published,
 and in 1884 the `Poems', edited by his wife, with the excellent `Memorial'
 by Dr. Wm. Hayes Ward, who declared that he thought Lanier
-would "take his final rank with the first princes of American song."*2*
 Numerous reviews of his life and works were published, notably those
 by Mr. Wm. R. Thayer, Dr. Merrill E. Gates, Professor Charles W. Kent,
 and by the London `Spectator'.  On February 3, 1888,
@@ -471,7 +408,6 @@ was given to those who were present.  Upon its face was a wreath,
 with Lanier's name and the date, and the motto -- `Aspiro dum Exspiro';
 upon the reverse appeared the closing lines of the Hymn of the Sun,
 taken from the poet's `Hymns of the Marshes' -- and beneath,
-a flute with ivy twined about it."*3*  The exercises,
 which were interspersed with music, were as follows:
 addresses by President Gilman of the Hopkins and President Gates of Rutgers
 (now of Amherst); selections from Lanier's poetry, read by
@@ -484,14 +420,12 @@ Edmund C. Stedman, and James Russell Lowell -- all of which may be found
 in President Gilman's dainty `Memorial of Sidney Lanier'.  Again,
 a replica of the above-mentioned bust, the gift also of Mr. Charles Lanier,
 was unveiled at the poet's birthplace, Macon, Ga., on October 17, 1890;
-on which occasion tender tributes*4* were again poured forth
 in prose and verse, by Messrs. W. B. Hill, Hugh V. Washington,
 Charles Lanier, Clifford Lanier, Wm. Hand Browne, Charles G. D. Roberts,
 John B. Tabb, H. S. Edwards, Wm. H. Hayne, Charles W. Hubner,
 Joel Chandler Harris, Charles Dudley Warner, and Daniel C. Gilman.
 But more significant than these demonstrations, perhaps,
 is the steadily growing study devoted to Lanier's works.
-Mr. Higginson*5* tells us, for instance, that, when he wrote his tribute
 in 1887, Lanier's `Science of English Verse' had been put
 upon the list of Harvard books to be kept only a fortnight,
 and that, according to the librarian, it was out "literally all the time."
@@ -499,8 +433,6 @@ Moreover, it would not be difficult to cite various poems
 that have been more or less modeled upon Lanier's; it is sufficient, perhaps,
 to point out that the marsh, a theme almost unknown to poetry before Lanier
 immortalized it, is not infrequently the subject of poetic treatment now,
-as in the works of Charles G. D. Roberts,*6* Clinton Scollard,*7*
-and Maurice Thompson.*8*  It is noteworthy, too, that many of
 the younger poets of the day, both in Canada and the United States,
 have sung Lanier's praise.  A complete list is given in the `Bibliography'.
 Still further, a devoted admirer, Mrs. Lawrence Turnbull, of Baltimore,
@@ -510,14 +442,6 @@ Finally, only a few months ago the Chautauquans of the class of 1898
 determined to call themselves "The Laniers", in honor of
 the poet and his brother.
 --
-*1* See the `Bibliography'.
-*2* `Memorial', p. xi.
-*3* Gilman's `A Memorial of Sidney Lanier', pp. 5-6.
-*4* Published in `The Atlanta (Ga.) Constitution' of October 19, 1890.
-*5* See `The Chautauquan', as cited in the `Bibliography'.
-*6* See recent files of `The Independent' (New York).
-*7* See his `Pictures in Song' (New York, 1884), pp. 45-49.
-*8* See his `Songs of Fair Weather' (Boston, 1883), pp. 27-28.
 --
 II.   Lanier's Prose Works
 With this brief sketch of his life, let us turn to Lanier's works,
@@ -529,16 +453,10 @@ the horror of war in general and of the Civil War in particular.
 An entertaining love-story runs through the book, the plot of which
 space does not allow me to detail.  In execution the novel has grave defects:
 it lacks unity; the characters talk as learnedly as Lanier afterward
-wrote of music; and at times, as in the oft-quoted picture of the war,*1*
 the style is grandiloquent; owing to which blemishes the author
 wisely discouraged its republication.  But, in spite of these defects,
-the book has one very strongly put scene,*2* the interview
-between Smallin and his deserter brother, and several beautiful passages*3*
 that distinctly proclaim the high-souled poet.
 --
-*1* `Tiger-lilies', p. 115 ff.
-*2* `Tiger-lilies', p. 149 ff.
-*3* That on "love" (p. 26) is quoted later.
 --
 Lanier's next publication, `Florida:  Its Scenery, Climate, and History',
 was written by commission of the Atlantic Coast Line, and appeared in 1876.
@@ -550,7 +468,6 @@ and was published in 1880.  According to competent critics, the book gives
 as searching an investigation of the science of verse on its formal side
 as is to be had in any language.  Since the treatise is so evidently
 an epoch-making one, I regret that the technicality of the subject forbids
-my attempting in this connection even a brief exposition* of its principles.
 I can say only that Lanier treats verse in the terms of music;
 that, according to the promise of the preface, he gives
 "an account of the true relations of music and verse"; and that in so doing
@@ -559,15 +476,11 @@ from Caedmon to Tennyson.  This is a high estimate, but it is by no means
 so high as that of the lamented poet-professor, Edmund Rowland Sill,
 who said of `The Science of English Verse', "It is the only work
 that has ever made any approach to a rational view of the subject.
-Nor are the standard ones overlooked in making this assertion."**
 --
-* This may be found in Professor Tolman's article,
 cited in the `Bibliography'.
-** Quoted by Tolman.
 --
 Lanier's second course of lectures at the Johns Hopkins University,
 delivered in the winter and spring of 1881, was published in 1883
-under the title, `The English Novel and the Principles of Its Development'.*
 According to the author's statement, the purpose of the book
 is "first, to inquire what is the special relation of the novel
 to the modern man, by virtue of which it has become a paramount literary form;
@@ -589,16 +502,13 @@ whom he takes to be the greatest modern English novelist.  Even this
 brief synopsis of the book must indicate its broad and stimulating character,
 in which respect it is a worthy successor of `The Science of English Verse'.
 Despite the limitations induced by failing life, which necessitated
-the cutting down of the course of lectures from twenty to twelve,**
 I know of few more life-giving books; and I venture to assert
 that it cannot safely be overlooked by any careful student of the subject.
 --
-* Mrs. Lanier informs me that `The English Novel' will soon
 be issued in an amended form and with a new sub-title,
 `Studies in the Development of Personality', which indicates precisely
 what Mr. Lanier intended to attempt, and relieves the book
 of its seeming incompleteness as to scope.
-** `Spann'.
 --
 Among other prose works I may mention Lanier's early extravaganza,
 `Three Waterfalls'; `Bob', a happy account of a pet mocking-bird,
@@ -640,9 +550,7 @@ To see and not to see.  Hence, crime on crime.
 Yea, if the Christ (called thine) now paced yon street,
 Thy halfness hot with his rebuke would swell;
 Legions of scribes would rise and run and beat
-His fair intolerable Wholeness twice to hell."*
 --
-* `Acknowledgment', ll. 1-12.
 --
 More hurtful than agnosticism, because affecting larger masses of people,
 is the rapid growth of the mercantile spirit during the present century,
@@ -651,7 +559,6 @@ and felt most keenly, as every one may learn by reading `The Symphony',
 his great poem in which the speakers are the various musical instruments.
 The violins begin:
 "O Trade! O Trade! would thou wert dead!
-The Time needs heart -- 'tis tired of head."*
 Then all the stringed instruments join with the violins in giving
 the wail of the poor, who "stand wedged by the pressing of Trade's hand":
 "`We weave in the mills and heave in the kilns,
@@ -684,10 +591,7 @@ That trade no more than trade must be!
 Does business mean, "Die, you -- live, I"?
 Then "Trade is trade" but sings a lie:
 'Tis only war grown miserly.
-If business is battle, name it so.'"**
 --
-* `The Symphony', ll. 1-2.
-** `The Symphony', ll. 31-61.
 --
 Of even wider sweep than mercantilism is the spirit of intolerance;
 for, while the diffusion of knowledge and of grace has in a measure
@@ -699,24 +603,19 @@ But Lanier had an eye for life's beauties as well as its ills.
 To him music was one of earth's chief blessings.  Of his early passion
 for the violin and his substitution of the flute therefor,
 we have already learned.  According to competent critics he was possibly
-the greatest flute-player*1* in the world, a fact all the more interesting
-when we remember that, as he himself tells us,*2* he never had a teacher.
 With such a talent for music the poet has naturally strewn his pages
 with fine tributes thereto.  In `Tiger-lilies', for instance,
 he tells us that, while explorers say that they have found
 some nations that had no god, he knows of none that had no music,
 and then sums up the matter in this sentence:  "Music means harmony;
-harmony means love; and love means -- God!"*3*  Even more explicit
 is this declaration in a letter of May, 1873, to Hayne:  "I don't know
 that I've told you that whatever turn I may have for art is purely MUSICAL;
 poetry being with me A MERE TANGENT INTO WHICH I SHOOT SOMETIMES.
 I could play passably on several instruments before I could write legibly,
 and SINCE then the very deepest of my life has been filled with music,
-which I have studied and cultivated far more than poetry."*4*
 We have already seen incidentally that in his `Symphony'
 the speakers are musical instruments; and it is in this poem that occurs
 his felicitous definition,
-"Music is love in search of a word."*5*
 In `To Beethoven' he describes the effect of music upon himself:
 "I know not how, I care not why,
 Thy music brings this broil at ease,
@@ -725,43 +624,26 @@ In satisfying symphonies.
 "Yea, it forgives me all my sins,
 Fits life to love like rhyme to rhyme,
 And tunes the task each day begins
-By the last trumpet-note of Time."*6*
 It was this profound knowledge of music, of course, that enabled Lanier
 to write his work on `The Science of English Verse', and gave him
 a technical skill in versification akin to that of Tennyson.
 --
-*1* See Ward's `Memorial', pp. xx, xxxi.
-*2* Hayne's (P. H.) `A Poet's Letters to a Friend'.
-*3* `Tiger-lilies', p. 32.
-*4* Hayne's `A Poet's Letters to a Friend'.  After settling in Baltimore
 Lanier devoted more time to poetry than to music, as we may see
 from this sentence to Judge Bleckley, in his letter of March 20, 1876:
 "As for me, life has resolved simply into a time during which
 I must get upon paper as many as possible of the poems
 with which my heart is stuffed like a schoolboy's pocket."
-*5* `The Symphony', l. 368.
-*6* `To Beethoven', ll. 61-68.
 --
 Like most great poets of modern times, Lanier was a sincere lover of nature.
 And it seems to me that with him this love was as all-embracing as
-with Wordsworth.  Lanier found beauty in the waving corn*1* and the clover;*2*
-in the mocking-bird,*3* the robin,*4* and the dove;*5*
-in the hickory,*6* the dogwood,*6* and the live-oak;*7*
-in the murmuring leaves*8* and the chattering streams;*9*
-in the old red hills*10* and the sea;*11* in the clouds,*12*
-sunrise,*13* and sunset;*14* and even in the marshes,*15*
 which "burst into bloom" for this worshiper.  Again, Lanier's love of nature
 was no less insistent than Wordsworth's.  We all remember the latter's
 oft-quoted lines:
 "To me the meanest flower that blows can give
-Thoughts that do often lie too deep for tears;"*16*
 and beside them one may put this line of Lanier's,
-"The little green leaves would not let me alone in my sleep,"*17*
 because, as the context shows, he was
 "Shaken with happiness:
-The gates of sleep stood wide."*18*
 And how naive and tender was this nature-worship!  He speaks of
-the clover*19* and the clouds*20* as cousins, and of the leaves*21*
 as sisters, and in so doing reminds us of the earliest Italian poetry,
 especially of `The Canticle of the Sun', by St. Francis of Assisi,
 who brothers the wind, the fire, and the sun, and sisters the water,
@@ -771,7 +653,6 @@ Like women's hands; the embracing boughs express
 A subtlety of mighty tenderness;
 The copse-depths into little noises start,
 That sound anon like beatings of a heart,
-Anon like talk 'twixt lips not far apart;"*22*
 to which we find a beautiful parallel in a poem by Paul Hamilton Hayne,
 himself a reverent nature-worshiper:
 "Ah! Nature seems
@@ -783,7 +664,6 @@ Pulsing in tender neighborhood,
 And soft as any mortal maid,
 Half veiled in the twilight shade,
 Who leans above her love to tell
-Secrets almost ineffable!"*23*
 Moreover, this worship is restful:
 "Oh, what is abroad in the marsh and the terminal sea?
 Somehow my soul seems suddenly free
@@ -793,7 +673,6 @@ By the length and the breadth and the sweep of the marshes of Glynn.
 "By so many roots as the marsh-grass sends in the sod
 I will heartily lay me a-hold on the greatness of God:
 Oh, like to the greatness of God is the greatness within
-The range of the marshes, the liberal marshes of Glynn."*24*
 But to Lanier the ministration of nature was by no means passive;
 and we find him calling upon the leaves actively to minister to his need
 and even to intercede for him to their Maker:
@@ -811,38 +690,10 @@ Teach me the terms of silence, -- preach me
 The passion of patience, -- sift me, -- impeach me, --
 And there, oh there
 As ye hang with your myriad palms upturned in the air,
-Pray me a myriad prayer."*25*
 In this earnest ascription of spirituality to the leaves
-Lanier recalls Ruskin.*26*
 --
-*1* See `The Waving of the Corn' and `Corn'.
-*2* See `Clover'.
-*3* See `The Mocking-Bird' and `To Our Mocking-Bird'.
-*4* See `Tampa Robins'.
-*5* See `The Dove'.
-*6* See `From the Flats', last stanza.
-*7* See `Sunrise'.
-*8* See `Sunrise' and `Corn'.
-*9* See `The Song of the Chattahoochee' and `Sunrise'.
-*10* See `Corn'.
-*11* See `Sunrise' and `At Sunset'.
-*12* See `Individuality'.
-*13* See `Sunrise', etc.
-*14* See `At Sunset'.
-*15* See `The Marshes of Glynn', and read Barbe's tribute to Lanier,
 cited in the `Bibliography'.
-*16* `Intimations of Immortality', ll. 202-203.
-*17* `The Symphony', l. 3.
-*18* `The Symphony', ll. 13-14.
-*19* `Clover', l. 57.
-*20* `Individuality', l. 1.
-*21* `Sunrise', l. 42.
-*22* `Corn', ll. 4-9.  Compare `The Symphony', ll. 183-190.
-*23* Hayne's `In the Gray of Evening':  Autumn, ll. 37-46,
 in `Poems' (Boston, 1882), p. 250.
-*24* `The Marshes of Glynn', ll. 61-64, 75-78.
-*25* `Sunrise', ll. 39-53.
-*26* See his `Modern Painters', vol. v., part vi., chapter iv.,
 and Scudder's note to the same in her `Introduction to Ruskin'
 (Chicago, 1892), p. 249.
 --
@@ -859,7 +710,6 @@ The one red sweet of gracious ladies'-praise.
 Now, comes a suitor with sharp prying eye --
 Says, `Here, you lady, if you'll sell, I'll buy:
 Come, heart for heart -- a trade?  What! weeping? why?'
-Shame on such wooer's dapper-mercery!"*1*
 And then follows a wooing that, to my mind, should be irresistible, and that,
 at any rate, is quite as high-souled as Browning's `One Way of Love',
 which I have long considered the high-water-mark of the chivalrous in love.
@@ -871,31 +721,22 @@ I ask not if thy love my love can meet:
 Whate'er thy worshipful soft tongue shall say,
 I'll kiss thine answer, be it yea or nay:
 I do but know I love thee, and I pray
-To be thy knight until my dying day.'"*2*
 I imagine, too, that any wife that ever lived would be satisfied
 with his glorious tribute to Mrs. Lanier in `My Springs', which closes thus:
 "Dear eyes, dear eyes, and rare complete --
 Being heavenly-sweet and earthly-sweet --
 I marvel that God made you mine,
-For when he frowns, 'tis then ye shine."*3*
 Almost equally felicitous are these lines of `Acknowledgment':
 "Somehow by thee, dear Love, I win content:
-Thy Perfect stops th' Imperfect's argument."*4*
 But the cleverest thing that Lanier has written of woman
 occurs in his `Laus Mariae':
 "But thou within thyself, dear manifold heart,
 Dost bind all epochs in one dainty fact.
 Oh, Sweet, my pretty sum of history,
-I leapt the breadth of time in loving thee!"*5*
 -- a scrap worthy to be placed beside Steele's "To love her
 is a liberal education," which has often been declared
 the happiest thing on the subject in the English language.
 --
-*1* `The Symphony', ll. 232-240.
-*2* `The Symphony', ll. 241-248.
-*3* `My Springs', ll. 53-56.
-*4* `Acknowledgment', ll. 41-42.
-*5* `Laus Mariae', ll. 11-14.
 --
 To Lanier there was but one thing that made life worth living,
 and that was love.  Even the superficial reader must be struck
@@ -911,29 +752,20 @@ Love for man, love for woman, love for God, -- these three chime
 like bells in a steeple and call us to worship, which is to work. . . .
 Inasmuch as we love, in so much do we conquer death and flesh;
 by as much as we love, by so much are we gods.  For God is love;
-and could we love as He does, we could be as He is."*1*
 To the same effect is his statement in `The English Novel':
-"A republic is the government of the spirit."*2*  The same thought
 recurs later:  "In love, and love only, can great work
 that not only pulls down, but builds, be done; it is love, and love only,
-that is truly constructive in art."*3*  In the poem entitled
 `How Love Looked for Hell', Mind and Sense at Love's request
 go to seek Hell; but ever as they point it out to Love, whether in
 the material or the immaterial world, it vanishes; for where Love is
 there can be no Hell, since, in the words of Tolstoi's story,
 "Where Love is there is God."  But in one of his poems Lanier sums up
 the whole matter in a line:
-"When life's all love, 'tis life:  aught else, 'tis naught."*4*
 --
-*1* `Tiger-lilies', p. 26.
-*2* `The English Novel', p. 55.
-*3* `The English Novel', p. 204.
-*4* `In Absence', l. 42.
 --
 It is but a short way from love to its source, -- God.
 And, as Lanier was continually in the atmosphere of the one, so, I believe,
 he was ever in the presence of the other; for the poet's "Love means God"
-is but another phrasing of the evangelist's "God is love".*1*
 Of Lanier's grief over church broils and of his longing for freedom
 to worship God according to one's own intuition, we have already learned
 from his `Remonstrance'.  What he thought of the Christ we learn
@@ -949,7 +781,6 @@ What rumor, tattled by an enemy,
 Of inference loose, what lack of grace
 Even in torture's grasp, or sleep's, or death's --
 Oh, what amiss may I forgive in Thee,
-Jesus, good Paragon, Thou Crystal Christ?"*2*
 How tenderly Lanier was touched by the life of our Lord may be seen
 in his `Ballad of Trees and the Master', a dramatic presentation of the scene
 in Gethsemane and on Calvary.  How implicit was his trust in the Christ
@@ -962,8 +793,6 @@ in his large, open eye, teaches me new things.  I say to myself,
 Where are the strong arms in which I, too, might lay me and repose,
 and yet be full of the fire of life?  And always through the twilight
 come answers from the other world, `Master! Master! there is one -- Christ --
-in His arms we rest!'"*3*  Perhaps, however, Lanier's notion of God,
-whom he declared*4* all his roads reached, is most clearly expressed
 in a scrap quoted by Ward, apparently the outline for a poem:
 "I fled in tears from the men's ungodly quarrel about God.
 I fled in tears to the woods, and laid me down on the earth.
@@ -972,63 +801,40 @@ and I looked and my cheek lay close to a violet.  Then my heart took courage,
 and I said:  `I know that thou art the word of my God, dear Violet.
 And oh, the ladder is not long that to my heaven leads.
 Measure what space a violet stands above the ground.  'Tis no further climbing
-that my soul and angels have to do than that.'"*5*  In this high spirituality
 Lanier is in line with the greatest poets of our race, from
 "Caedmon, in the morn
 A-calling angels with the cow-herd's call
-That late brought up the cattle,"*6*
 to him
 "Who never turned his back, but marched breast forward,
 Never doubted clouds would break,
 Never dreamed, though right were worsted, wrong would triumph,
 Held we fall to rise, are baffled to fight better,
-Sleep to wake."*7*
 --
-*1* 1 John 4:16.
-*2* `The Crystal', ll. 100-111.
-*3* Hayne's `A Poet's Letters to a Friend'.
-*4* In `A Florida Sunday', l. 85.
-*5* Ward's `Memorial', p. xxxix.
-*6* Lanier's `The Crystal', ll. 90-93.
-*7* Browning's `Asolando':  Epilogue, ll. 11-15.
 --
 Perhaps I may append here a paragraph upon Lanier's criticisms
 of other writers, for they seem to me acute in the extreme.
 Despite the elaborate essays in defence of Whitman's poetry
-by Dowden,*1* Symonds,*2* and Whitman himself, I believe Lanier is right
 in declaring that "Whitman is poetry's butcher.  Huge raw collops
 slashed from the rump of poetry and never mind gristle --
 is what Whitman feeds our souls with.  As near as I can make it out,
 Whitman's argument seems to be, that, because a prairie is wide,
 therefore debauchery is admirable, and because the Mississippi is long,
-therefore every American is God."*3*  Notice, again, how well
 the defect of `Paradise Lost' is pointed out:
 "And I forgive
 Thee, Milton, those thy comic-dreadful wars
 Where, armed with gross and inconclusive steel,
 Immortals smite immortals mortalwise
-And fill all heaven with folly."*4*
 Few better things have been said of Langland than this, --
 "That with but a touch
 Of art hadst sung Piers Plowman to the top
 Of English songs, whereof 'tis dearest, now
-And most adorable;"*5*
 or of Emerson than this, --
 "Most wise, that yet, in finding Wisdom, lost
-Thy Self, sometimes;"*6*
 or of Tennyson than this, --
 "Largest voice
 Since Milton, yet some register of wit
-Wanting."*7*
 `The Crystal' abounds in such happy characterizations.
 --
-*1* See Dowden's `Studies in Literature', pp. 468-523.
-*2* See Symonds's `Walt Whitman:  A Study'.  London, 1893.
-*3* Ward's `Memorial', p. xxxviii.
-*4* `The Crystal', ll. 66-70.
-*5* Ibid., ll. 87-90.
-*6* Ibid., ll. 93-94.
-*7* Ibid., ll. 95-97.
 --
 IV.   Lanier's Poetry:  Its Style
 So much for the poet's thoughts; what shall we say of their expression?
@@ -1038,31 +844,18 @@ with the elements of style, some of which, however, I pass by
 as not calling for special comment.
 Of Lanier's felicitous choice of words we have already had
 incidental illustration; but it is desirable, perhaps, to group here
-a few of his happiest phrases, to show that, as Lowell*1* said,
 he is "a man of genius with a rare gift for the happy word."
 Notice this speech about the brook:
 "And down the hollow from a ferny nook
-`Lull' sings a little brook!"*2*
 and this of the well-bucket:
 "The rattling bucket plumps
-Souse down the well;"*3*
 and this of the outburst of a bird:
-"Dumb woods, have ye uttered a bird?"*4*
 and the description of a mocking-bird as
-"Yon trim Shakspere on the tree;"*5*
 and of midnight as
-"Death's and truth's unlocking time."*6*
 Moreover, it should be observed that Lanier frequently uses
 significant compounds, -- a habit acquired, no doubt,
 from his study of Old English, in which, as in German, such compounds abound.
 --
-*1* See `Lowell' in `Bibliography'.
-*2* `From the Flats', ll. 23-24; cited by Gates.  [Line 24 was changed
-(to "Bright leaps a living brook!") in later editions.  -- A. L., 1998.]
-*3* `Clover', ll. 29-30.
-*4* `Sunrise', l. 57; cited by Gates.
-*5* `The Mocking-Bird', l. 14.
-*6* `The Crystal', l. 1.  Other illustrations may be found in the paragraph
 on figures of speech.
 --
 While in the main Lanier's sentence-construction is good,
@@ -1074,55 +867,34 @@ That this detracts from clearness and euphony both, every reader will admit.
 To come to the figures of speech, one must be struck at once
 with the delicacy and the vigor of Lanier's imagination.  The poet's fancy
 personifies what at first blush seems to us incapable of personification.
-Thus at one time*1* he likens men to clover-leaves and the Course-of-things
 to the browsing ox, which makes way with the clover-heads;
 while at another he addresses an old red hill of Georgia as
 "Thou gashed and hairy Lear
 Whom the divine Cordelia of the year,
-E'en pitying Spring, will vainly strive to cheer."*2*
-Like other Southern poets,*3* Lanier sometimes fails to check his imagination,
 and in consequence leaves his readers "bramble-tangled in a brilliant maze,"
-as in his description of the stars in `June Dreams'*4*
-and in the `Psalm of the West'.*5*  While I do not like a maze,
 brilliant though it be and sweet, I must say that I prefer
 the embarrassment of riches to the embarrassment of poverty.  On the whole,
 however, Lanier's figures strike me as singularly fresh and happy.
 In `Sunrise', for example, the poet speaks of the marsh as follows:
 "The tide's at full:  the marsh with flooded streams
-Glimmers a limpid labyrinth of dreams;"*6*
 and of the heavens reflected in the marsh waters:
 "Each winding creek in grave entrancement lies
 A rhapsody of morning-stars.  The skies
 Shine scant with one forked galaxy, --
-The marsh brags ten:  looped on his breast they lie."*7*
 Later, as the ebb-tide flows from marsh to sea, we are parenthetically treated
 to these two lines:
 "Run home, little streams,
-With your lapfuls of stars and dreams."*8*
 Finally, the heaven itself is thus pictured:
 "Now in each pettiest personal sphere of dew
 The summ'd morn shines complete as in the blue
-Big dew-drop of all heaven;"*9*
 beside which must be hung this exquisite picture:
-"The dew-drop morn may fall from off the petal of the sky."*10*
 --
-*1* In `Clover'.
-*2* `Corn', ll. 185-187.
-*3* See on this point the remarks of Professor Trent
 in his admirable life of `Simms' (Boston, 1892), p. 149.
-*4* `June Dreams', l. 21 ff.
-*5* `Psalm of the West', l. 183 ff.
-*6* `Sunrise', ll. 80-81.
-*7* Ibid., ll. 82-85.
-*8* Ibid., ll. 114-115.
-*9* Ibid., ll. 134-136.
-*10* `The Ship of Earth', l. 5.
 --
 As to versification, Lanier uses almost all the types of verse
 -- iambic, trochaic, blank, the sonnet, etc. -- and with about equal skill.
 Three features, however, specially characterize his verse:
 the careful distribution of vowel-colors and the frequent use
-of alliteration and of phonetic syzygy,*1* by which last is meant
 a combination or succession of identical or similar consonants,
 whether initially, medially, or finally, as for instance
 the succession of M's in Tennyson's
@@ -1132,24 +904,17 @@ All of these phenomena are illustrated in Lanier's
 `Song of the Chattahoochee', which has often been compared
 to Tennyson's `The Brook', and which alone proves the author
 a master in versification.  To be sure, Lanier occasionally gives us
-an improper rhyme, as `thwart:  heart',*2* etc., but so does every poet.
 No doubt, too, his love of music sometimes led him,
 not "to strain for form effects", but to indulge too much therein,
 or, in the words of Mr. Stedman, "to essay in language
-feats that only the gamut can render possible."*3*  But, as Professor Kent
 admirably puts it, "Lanier was a poet as well as an artist,
 and if at times his artistic temperament seemed to eclipse his poetic thought,
 grant that to the poet mind the very manner of expression
 may indicate the thought that lies beneath, while to the duller ear
-the thought must come in completed form."*4*  Moreover, as we shall see later,
 this extraordinary musical endowment gave Lanier a unique position
 among English poets.
 --
-*1* See `The Science of English Verse', p. 306 ff.
-*2* `In the Foam', ll. 6, 8.  See, too, Kent's `Study of Lanier's Poems',
 which gives an exhaustive treatment of Lanier's versification.
-*3* Stedman's `Poets of America', p. 449.
-*4* `Kent', p. 60.
 --
 After what has been said the qualities of style may be briefly handled.
 As we have already seen, Lanier sometimes fails in clearness,
@@ -1157,7 +922,6 @@ or, more precisely, in simplicity.  This comes partly
 from infelicitous sentence-construction, partly, perhaps,
 from Lanier's extraordinary musical endowment, but chiefly, I think,
 from over-luxuriance of imagination.  But this occasional defect
-has been unduly exaggerated.  Thus Mr. Gosse*1* declares
 that Lanier is "never simple, never easy, never in one single lyric
 natural and spontaneous for more than one stanza," -- a statement
 so clearly hyperbolic as hardly to call for notice.  As a matter of fact,
@@ -1167,17 +931,14 @@ to the reader of average intelligence, as `Life and Song', `My Springs',
 `The Waving of the Corn', `The Revenge of Hamish', `Remonstrance',
 `A Ballad of Trees and the Master', etc.  More than this,
 Lanier at times manifests the simplicity that is granted
-only to genius of the highest order:  thus an English critic,*2*
 who by the way declares that Lanier's volume has more of genius than
 all the poems of Poe, or Longfellow, or Lowell (the humorous poems excepted),
 and who considers Lanier the most original of all American poets,
 and more original than any England has produced for the last thirty years,
 says that "nothing can be more perfect than --
 `The whole sweet round
-Of littles that large life compound,'"*3*
 lines in `My Springs', and that "the touch of wonder in the last two lines,
 `I marvel that God made you mine,
-For when he frowns, 'tis then ye shine,'*4*
 is as simple and exquisite as any touch of tenderness in our literature."
 I frankly admit that several of Lanier's best poems,
 as `Corn', `The Marshes of Glynn', and `Sunrise', are not simple;
@@ -1189,7 +950,6 @@ with extraordinary skill.  But of the real thing, of the genuine
 traditional article, not a trace"!  What do these poems show, then?
 Mr. Gosse answers:  "I find a painful effort, a strain and rage,
 the most prominent qualities in everything he wrote;" which strikes me
-as the reverse of the facts.  In one of his letters*5* to Judge Bleckley,
 Lanier wrote this sentence:  "My head and my heart are both so full of poems
 which the dreadful struggle for bread does not give me time
 to put on paper, that I am often driven to headache and heartache,
@@ -1204,11 +964,6 @@ too gross to hear and see what Lanier puts before them,
 whereas a bit of patient listening and looking reveals delights
 hitherto undreamed of.
 --
-*1* See `Bibliography'.
-*2* `The Spectator' (London); see `Bibliography'.
-*3* `My Springs', ll. 49-50.
-*4* `My Springs', ll. 55-56.
-*5* It is to be hoped that these letters may yet be published.
 I quote from one dated November 15, 1874.
 --
 If not always simple, Lanier is often forcible in the extreme,
@@ -1216,17 +971,14 @@ as in `The Symphony', `The Revenge of Hamish', `Remonstrance', and `Sunrise'.
 Of course, it is open to any one to see in these poems the "rage"
 attributed to Lanier by Mr. Gosse, but I prefer to consider it divine wrath
 in all but the last, and in it wonder unutterable, which yet is so uttered
-that ears become eyes.  I allude to the stanzas* describing
 the break of dawn and the rising of the sun.
 --
-* `Sunrise', ll. 86-152.
 --
 Of the poet's marvelous euphony, `The Song of the Chattahoochee'
 speaks clearly enough.  As we have seen in our treatment of versification,
 it is here a question not of too little but of too much.
 But, despite an occasional too great yielding to his passion for music,
 his extraordinary endowment in this direction gave Lanier a unique position
-among English poets.  I quote again from Professor Kent:*
 "But if his sense of beauty made him a peer of our great poets,
 it was the heavenly gift of music that distinguished him from them.
 Milton, it is true, whom he most resembles in this respect,
@@ -1252,7 +1004,6 @@ In discussing his love of nature we have seen that he was a pantheist
 in the best sense of the term.  So delicate was his sensibility
 that we do not wonder when we hear him declaring,
 "And I am one with all the kinsmen things
-That e'er my Father fathered,"*
 a saying as felicitous as the Roman's "I am a man, and, therefore,
 nothing human is stranger to me."  The tenderness of
 the `Ballad of Trees and the Master' must touch all readers.
@@ -1274,10 +1025,7 @@ For Mary, though she starved upon my breast?'
 And then he fell upon his couch, and sobbed,
 And, late, just when his heart leaned o'er
 The very edge of breaking, fain to fall,
-God sent him sleep."**
 --
-* `A Florida Sunday', ll. 102-103.
-** `June Dreams in January', ll. 68-78.
 --
 V.    Lanier's Theory of Poetry
 It is now time to say a word about Lanier's theory of art,
@@ -1286,30 +1034,18 @@ already been noticed in the consideration of his `Science of English Verse',
 and hence receive no further comment here.
 That Lanier keenly appreciated the responsibility resting upon the artist,
 appears from `Individuality', where he tells us,
-"Awful is art because 'tis free,"*1*
 and,
-"Each artist -- gift of terror! -- owns his will."*2*
 But he accepts the responsibility reverently and confidently:
 "I work in freedom wild,
 But work, as plays a little child,
-Sure of the Father, Self, and Love, alone."*3*
 --
-*1* `Individuality', l. 62.
-*2* `Individuality', l. 76.
-*3* `Individuality', ll. 89-91.
 --
 Again, the province of poetry is pointed out, as in `Clover':
 "The artist's market is the heart of man;
-The artist's price, some little good of man;"*1*
 and in `The Bee':
 "Wilt ask, `What profit e'er a poet brings?'
 He beareth starry stuff about his wings
-To pollen thee and sting thee fertile."*2*
-In `Corn',*3* too, the "tall corn-captain" "types the poet-soul sublime."
 --
-*1* `Clover', ll. 126-127.
-*2* `The Bee', ll. 40-42.
-*3* `Corn', l. 52 ff.
 --
 But it is in his prose works that Lanier has treated the matter
 most at length, and to these I turn.  In the first place,
@@ -1318,24 +1054,19 @@ a statement that would appear superfluous but for its frequent overlooking
 by would-be artists.  Hence he is right in warning young writers:
 "You need not dream of winning the attention of sober people with your poetry
 unless that poetry and your soul behind it are informed and saturated
-with at least the largest final conceptions of current science."*
 That Lanier strove to follow this precept, we have abundant evidence
 in his life and in his works; and I think that, if we remember
 his environments, we must wonder at the vastness, the accuracy,
 and the variety of his knowledge.  As additionally illustrative of the last,
 I may add that Lanier invented some improvements for the flute,
 and made a discovery in the physics of music that the Professor of Physics
-in the University of Virginia thought considerable.**
 --
-* `Gates', p. 29.
-** See `West', p. 23.
 --
 In the second place, Lanier thinks that a poet's knowledge of his art
 should be scientific.  It was this that led him to write
 `The Science of English Verse', the motto of which is,
 "But the best conceptions cannot be, save where science and genius are."
 In `The English Novel' he declares that "not a single verse
-was ever written by instinct alone since the world began,"*
 and fortifies his statement by Ben Jonson's tribute to Shakespeare, --
 "For a good poet's made as well as born,
 And such wert thou."
@@ -1346,7 +1077,6 @@ which tells us that the educated love of beauty is the artist's only law,
 and from this other motto, from Sir Philip Sidney:  "A Poet,
 no industrie can make, if his owne Genius bee not carried unto it."
 --
-* `The English Novel', p. 33.
 --
 In the third place, Lanier holds that a moral intention on the part
 of an artist does not interfere with the naturalness or intrinsic beauty
@@ -1371,7 +1101,6 @@ with moral beauty just as with artistic beauty -- that he, in short,
 who has not come to that stage of quiet and eternal frenzy
 in which the beauty of holiness and the holiness of beauty mean one thing,
 burn as one fire, shine as one light, within him; he is not yet
-the great artist."*  By copious quotations Lanier then shows
 that "many fine and beautiful souls appear after a while
 to lose all sense of distinction between these terms, Beauty, Truth, Love,
 Wisdom, Goodness, and the like," and concludes thus:  "And if this be true,
@@ -1386,10 +1115,7 @@ unless you are suffused with this love, do not dare to meddle with beauty;
 unless you are suffused with beauty, do not meddle with love;
 unless you are suffused with truth, do not dare to meddle with goodness; --
 in a word, unless you are suffused with beauty, truth, wisdom, goodness,
-AND love, abandon the hope that the ages will accept you as an artist."**
 --
-* `The English Novel', p. 272 f.
-** `The English Novel', p. 280.  Of the numerous discussions of this thesis,
 the student should consult at least those by Matthew Arnold
 (`Preface' to his edition of `Wordsworth's Poems'),
 John Ruskin (`Stones of Venice', vol. iii., chap. iv.),
@@ -1403,7 +1129,6 @@ several other great poets.  Now of all English poets,
 I know of none that came nearer being a true poem than did Lanier.
 He was as spotless as "the Lady of Christ's", and infinitely more lovable.
 Indeed, he seems to me to have realized the ideal of his own knightly Horn,
-who hopes that some day men will be "maids in purity".*
 I will not recall his gentle yet heroic life amid drawbacks
 almost unparalleled; for it is even sadder than it is beautiful.
 It is my deliberate judgment that, while, as the poet says
@@ -1415,13 +1140,11 @@ His work, a singing with his hand."
 And, for my part, I am as grateful for his noble private life
 as for his distinguished public work.
 --
-* `The Symphony', l. 302.
 --
 And yet I will not close with this picture of the man; for my purpose
 is rather to present the poet.  Hampered though he was by fewness of years,
 by feebleness of body, by shortness of bread, and, most of all perhaps,
 by over-luxuriance of imagination, Lanier was yet, to my mind,
-indisputably a great poet.  For in technique he was akin to Tennyson;*
 in the love of beauty and in lyric sweetness, to Keats and Shelley;
 in the love of nature, to Wordsworth; and in spirituality, to Ruskin,
 the gist of whose teaching is that we are souls temporarily having bodies;
@@ -1431,7 +1154,6 @@ is not equal to that of any one of the poets mentioned,
 but I venture to believe that it is of the same order, and, therefore,
 deserving of lasting remembrance.
 --
-* Mr. Thayer puts it stronger:  "As a master of melodious metre
 only Tennyson, and he not often, has equalled Lanier."  Mr. F. F. Browne,
 Editor of `The Dial' (Chicago), compares the two poets in another aspect:
 "`The Symphony' of Lanier may recall some parts of `Maud';
@@ -1447,7 +1169,6 @@ he justifies his right to the title of poet."
 --
 Poems
 Life and Song
-If life were caught by a clarionet,            [1]
 And a wild heart, throbbing in the reed,
 Should thrill its joy and trill its fret,
 And utter its heart in every deed,
@@ -1457,7 +1178,6 @@ For none o' the singers ever yet
 Has wholly lived his minstrelsy,
 Or clearly sung his true, true thought,
 Or utterly bodied forth his life,
-Or out of life and song has wrought           [11]
 The perfect one of man and wife;
 Or lived and sung, that Life and Song
 Might each express the other's all,
@@ -1484,7 +1204,6 @@ The remaining numbers of the series are:  1. `Remonstrance',
 given in this volume; 2. `The Ship of Earth'; 3. `How Love Looked for Hell';
 I can think of no more helpful comment on the subject of our poem
 than this sentence from Milton's `Apology for Smectymnuus',
-already alluded to in the `Introduction' (p. liv [Part VI]):
 "And long it was not after, when I was confirmed in this opinion,
 that he who would not be frustrate of his hope to write well hereafter
 in laudable things, ought himself to be a true poem; that is,
@@ -1494,13 +1213,11 @@ unless he have in himself the experience and the practice of all that
 which is praiseworthy."
 Lines 19-20.  I have been pleased to discover that the application
 I have made of this poem, especially of these lines
-(see `Introduction', p. liv [Part VI]), is likewise made
 by most students of Lanier's life, and that Mrs. Lanier has chosen
 these two lines for inscription on the monument to be erected to his memory.
 On the reverse side of the stone, I may add, are to be put these words:
 "He that dwelleth in love dwelleth in God" (I John iv. 16).
 Jones's Private Argyment
-That air same Jones, which lived in Jones,     [1]
 He had this pint about him:
 He'd swear with a hundred sighs and groans,
 That farmers MUST stop gittin' loans,
@@ -1510,14 +1227,12 @@ Was fatt'nin' on the planter,
 And Tennessy was rotten-rich
 A-raisin' meat and corn, all which
 Draw'd money to Atlanta:
-And the only thing (says Jones) to do         [11]
 Is, eat no meat that's boughten:
 Thus spouted Jones (whar folks could hear,
 -- At Court and other gatherin's),
 And thus kep' spoutin' many a year,
 Proclaimin' loudly far and near
 Sich fiddlesticks and blatherin's.
-But, one all-fired sweatin' day,              [21]
 It happened I was hoein'
 My lower corn-field, which it lay
 'Longside the road that runs my way
@@ -1527,7 +1242,6 @@ I felt a kinder faggin',
 And laid myself un'neath a plum
 To let my dinner settle sum,
 When 'long come Jones's waggin,
-And Jones was settin' in it, SO:              [31]
 A-readin' of a paper.
 His mules was goin' powerful slow,
 Fur he had tied the lines onto
@@ -1537,7 +1251,6 @@ From me, and went to feedin'
 'Longside the road, upon the sod,
 But Jones (which he had tuck a tod)
 Not knowin', kept a-readin'.
-And presently says he:  "Hit's true;          [41]
 That Clisby's head is level.
 Thar's one thing farmers all must do,
 To keep themselves from goin' tew
@@ -1572,7 +1285,6 @@ frequent use of `I-O-U-'s'.
 of the Macon (Ga.) `Telegraph and Messenger', who had written editorials
 favoring the planting of more corn.
 Corn
-To-day the woods are trembling through and through       [1]
 With shimmering forms, that flash before my view,
 Then melt in green as dawn-stars melt in blue.
 The leaves that wave against my cheek caress
@@ -1582,7 +1294,6 @@ The copse-depths into little noises start,
 That sound anon like beatings of a heart,
 Anon like talk 'twixt lips not far apart.
 The beech dreams balm, as a dreamer hums a song;
-Through that vague wafture, expirations strong         [11]
 Throb from young hickories breathing deep and long
 With stress and urgence bold of prisoned spring
 And ecstasy of burgeoning.
@@ -1592,7 +1303,6 @@ And heavenlier giving.  Like Jove's locks awry,
 Long muscadines
 Rich-wreathe the spacious foreheads of great pines,
 And breathe ambrosial passion from their vines.
-I pray with mosses, ferns, and flowers shy             [21]
 That hide like gentle nuns from human eye
 To lift adoring perfumes to the sky.
 I hear faint bridal-sighs of brown and green
@@ -1602,7 +1312,6 @@ I start at fragmentary whispers, blown
 From undertalks of leafy souls unknown,
 Vague purports sweet, of inarticulate tone.
 Dreaming of gods, men, nuns, and brides, between
-Old companies of oaks that inward lean                  [31]
 To join their radiant amplitudes of green
 I slowly move, with ranging looks that pass
 Up from the matted miracles of grass
@@ -1612,7 +1321,6 @@ So close, the heaven of blue is seen
 Inwoven with a heaven of green.
 I wander to the zigzag-cornered fence
 Where sassafras, intrenched in brambles dense,
-Contests with stolid vehemence                          [41]
 The march of culture, setting limb and thorn
 As pikes against the army of the corn.
 There, while I pause, my fieldward-faring eyes
@@ -1622,7 +1330,6 @@ And large benignities and insights wise,
 Graces and modest majesties.
 Thus, without theft, I reap another's field;
 Thus, without tilth, I house a wondrous yield,
-And heap my heart with quintuple crops concealed.       [51]
 Look, out of line one tall corn-captain stands
 Advanced beyond the foremost of his bands,
 And waves his blades upon the very edge
@@ -1632,7 +1339,6 @@ Still shalt thou type the poet-soul sublime
 That leads the vanward of his timid time
 And sings up cowards with commanding rhyme --
 Soul calm, like thee, yet fain, like thee, to grow
-By double increment, above, below;                      [61]
 Soul homely, as thou art, yet rich in grace like thee,
 Teaching the yeomen selfless chivalry
 That moves in gentle curves of courtesy;
@@ -1642,7 +1348,6 @@ Transmuted from the four wild elements.
 Drawn to high plans,
 Thou lift'st more stature than a mortal man's,
 Yet ever piercest downward in the mould
-And keepest hold                                    [71]
 Upon the reverend and steadfast earth
 That gave thee birth;
 Yea, standest smiling in thy future grave,
@@ -1652,7 +1357,6 @@ Inhaling life from death,
 Thine epitaph writ fair in fruitage eloquent,
 Thyself thy monument.
 As poets should,
-Thou hast built up thy hardihood                        [81]
 With universal food,
 Drawn in select proportion fair
 From honest mould and vagabond air;
@@ -1662,7 +1366,6 @@ From antique ashes, whose departed flame
 In thee has finer life and longer fame;
 From wounds and balms,
 From storms and calms,
-From potsherds and dry bones                            [91]
 And ruin-stones.
 Into thy vigorous substance thou hast wrought
 Whate'er the hand of Circumstance hath brought;
@@ -1672,7 +1375,6 @@ So thou dost mutually leaven
 Strength of earth with grace of heaven;
 So thou dost marry new and old
 Into a one of higher mould;
-So thou dost reconcile the hot and cold,              [101]
 The dark and bright,
 And many a heart-perplexing opposite,
 And so,
@@ -1682,7 +1384,6 @@ Richly expending thy much-bruised heart
 In equal care to nourish lord in hall
 Or beast in stall:
 Thou took'st from all that thou mightst give to all.
-O steadfast dweller on the selfsame spot               [111]
 Where thou wast born, that still repinest not --
 Type of the home-fond heart, the happy lot! --
 Deeply thy mild content rebukes the land
@@ -1692,7 +1393,6 @@ With alternation whimsical,
 Enduring scarce a day,
 Then swept away
 By swift engulfments of incalculable tides
-Whereon capricious Commerce rides.                     [121]
 Look, thou substantial spirit of content!
 Across this little vale, thy continent,
 To where, beyond the mouldering mill,
@@ -1702,7 +1402,6 @@ And seamy breast,
 By restless-hearted children left to lie
 Untended there beneath the heedless sky,
 As barbarous folk expose their old to die.
-Upon that generous-rounding side,                      [131]
 With gullies scarified
 Where keen Neglect his lash hath plied,
 Dwelt one I knew of old, who played at toil,
@@ -1712,7 +1411,6 @@ He sowed his heart with hopes of swifter gain,
 Then sat him down and waited for the rain.
 He sailed in borrowed ships of usury --
 A foolish Jason on a treacherous sea,
-Seeking the Fleece and finding misery.                 [141]
 Lulled by smooth-rippling loans, in idle trance
 He lay, content that unthrift Circumstance
 Should plough for him the stony field of Chance.
@@ -1722,7 +1420,6 @@ And turned each field into a gambler's hell.
 Aye, as each year began,
 My farmer to the neighboring city ran;
 Passed with a mournful anxious face
-Into the banker's inner place;                         [151]
 Parleyed, excused, pleaded for longer grace;
 Railed at the drought, the worm, the rust, the grass;
 Protested ne'er again 'twould come to pass;
@@ -1732,7 +1429,6 @@ And kissed the dust to soften Dives's mood.
 At last, small loans by pledges great renewed,
 He issues smiling from the fatal door,
 And buys with lavish hand his yearly store
-Till his small borrowings will yield no more.         [161]
 Aye, as each year declined,
 With bitter heart and ever-brooding mind
 He mourned his fate unkind.
@@ -1742,7 +1438,6 @@ Fretted for news that made him fret again,
 Snatched at each telegram of Future Sale,
 And thrilled with Bulls' or Bears' alternate wail --
 In hope or fear alike for ever pale.
-And thus from year to year, through hope and fear,    [171]
 With many a curse and many a secret tear,
 Striving in vain his cloud of debt to clear,
 At last
@@ -1752,7 +1447,6 @@ Of squandering scamps and quacks that lined his way
 With vile array,
 From rascal statesman down to petty knave;
 Himself, at best, for all his bragging brave,
-A gamester's catspaw and a banker's slave.             [181]
 Then, worn and gray, and sick with deep unrest,
 He fled away into the oblivious West,
 Unmourned, unblest.
@@ -1762,7 +1456,6 @@ E'en pitying Spring, will vainly strive to cheer --
 King, that no subject man nor beast may own,
 Discrowned, undaughtered and alone --
 Yet shall the great God turn thy fate,
-And bring thee back into thy monarch state             [191]
 And majesty immaculate.
 Lo, through hot waverings of the August morn,
 Thou givest from thy vasty sides forlorn
@@ -1775,7 +1468,6 @@ With antique sinew and with modern art.
 ____
 Sunnyside, Ga., August, 1874.
 Notes:  Corn
-As stated elsewhere (`Introduction', p. xvii [Part I]),
 `Corn' was the first of Lanier's poems to attract general attention;
 for this reason as well as for its absolute merit the poem deserves
 careful study.
@@ -1863,11 +1555,9 @@ to draw out manhood, with enough of bounty to sanction the struggle --
 that a more exquisite co-adaptation of all blessed circumstances
 for man's life need not be sought.'"
 --
-* Gayley's `The Classic Myths in English Literature' (Boston, Ginn & Co.)
 is an excellent book.
 --
 My Springs
-In the heart of the Hills of Life, I know           [1]
 Two springs that with unbroken flow
 Forever pour their lucent streams
 Into my soul's far Lake of Dreams.
@@ -1877,7 +1567,6 @@ And mirror all of life and time,
 -- Serene and dainty pantomime.
 Shot through with lights of stars and dawns,
 And shadowed sweet by ferns and fawns,
--- Thus heaven and earth together vie              [11]
 Their shining depths to sanctify.
 Always when the large Form of Love
 Is hid by storms that rage above,
@@ -1887,7 +1576,6 @@ Always when Faith with stifling stress
 Of grief hath died in bitterness,
 I gaze in my two springs and see
 A Faith that smiles immortally.
-Always when Charity and Hope,                      [21]
 In darkness bounden, feebly grope,
 I gaze in my two springs and see
 A Light that sets my captives free.
@@ -1897,7 +1585,6 @@ I gaze in my two springs and see
 A charm that brings him back to me.
 When Labor faints, and Glory fails,
 And coy Reward in sighs exhales,
-I gaze in my two springs and see                   [31]
 Attainment full and heavenly.
 O Love, O Wife, thine eyes are they,
 -- My springs from out whose shining gray
@@ -1907,7 +1594,6 @@ Oval and large and passion-pure
 And gray and wise and honor-sure;
 Soft as a dying violet-breath
 Yet calmly unafraid of death;
-Thronged, like two dove-cotes of gray doves,       [41]
 With wife's and mother's and poor-folk's loves,
 And home-loves and high glory-loves
 And science-loves and story-loves,
@@ -1917,7 +1603,6 @@ And lady-loves for spidery lace
 And broideries and supple grace
 And diamonds and the whole sweet round
 Of littles that large life compound,
-And loves for God and God's bare truth,            [51]
 And loves for Magdalen and Ruth,
 Dear eyes, dear eyes and rare complete --
 Being heavenly-sweet and earthly-sweet,
@@ -1927,7 +1612,6 @@ ____
 Baltimore, 1874.
 Notes:  My Springs
 For my appreciation of this tribute to the poet's wife
-see `Introduction', p. xxxv [Part III].  Mr. Lanier's estimate is given
 in a letter of March, 1874, quoted in Mrs. Lanier's introductory note:
 "Of course, since I have written it to print I cannot make it such
 as _I_ desire in artistic design:  for the forms of to-day
@@ -1942,7 +1626,6 @@ Other tributes to his wife are:  `In Absence', `Acknowledgment',
 `One in Two', and `Two in One'; while she is referred to
 in `The Hard Times in Elfland' and `June Dreams in January'.
 It will be interesting to compare `My Springs' with other poems on the eyes.
-Among the most noteworthy* may be cited Shakespeare's
 "And those eyes, the break of day,
 Lights that do mislead the morn;"
 Lodge's
@@ -1985,14 +1668,12 @@ Than smiles of other maidens are;"
 and Wordsworth's
 "Her eyes are stars of twilight fair."
 --
-* These may be found either in Gosse's `English Lyrics' (D. Appleton & Co.,
 New York) or in Palgrave's `Golden Treasury of Songs and Lyrics'
 (Macmillan & Co., New York).
 --
 entitled `Mary Magdalene':  see Pollard's `English Miracle Plays' (New York),
 where extracts are given.
 The Symphony
-"O Trade! O Trade! would thou wert dead!            [1]
 The Time needs heart -- 'tis tired of head:
 We're all for love," the violins said.
 "Of what avail the rigorous tale
@@ -2002,7 +1683,6 @@ Level red gold with blue sky-slope,
 And base it deep as devils grope:
 When all's done, what hast thou won
 Of the only sweet that's under the sun?
-Ay, canst thou buy a single sigh                   [11]
 Of true love's least, least ecstasy?"
 Then, with a bridegroom's heart-beats trembling,
 All the mightier strings assembling
@@ -2012,7 +1692,6 @@ And, heart in voice, together cried:
 "Yea, what avail the endless tale
 Of gain by cunning and plus by sale?
 Look up the land, look down the land,
-The poor, the poor, the poor, they stand           [21]
 Wedged by the pressing of Trade's hand
 Against an inward-opening door
 That pressure tightens evermore:
@@ -2022,7 +1701,6 @@ Where Art, sweet lark, translates the sky
 Into a heavenly melody.
 `Each day, all day' (these poor folks say),
 `In the same old year-long, drear-long way,
-We weave in the mills and heave in the kilns,      [31]
 We sieve mine-meshes under the hills,
 And thieve much gold from the Devil's bank tills,
 To relieve, O God, what manner of ills? --
@@ -2032,7 +1710,6 @@ Hush, fellow-swine:  why nuzzle and cry?
 "Swinehood hath no remedy"
 Say many men, and hasten by,
 Clamping the nose and blinking the eye.
-But who said once, in the lordly tone,             [41]
 "Man shall not live by bread alone
 But all that cometh from the Throne?"
 Hath God said so?
@@ -2042,7 +1719,6 @@ There's plenty that can, if you can't:  we know.
 Move out, if you think you're underpaid.
 The poor are prolific; we're not afraid;
 Trade is trade."'"
-Thereat this passionate protesting                 [51]
 Meekly changed, and softened till
 It sank to sad requesting
 And suggesting sadder still:
@@ -2052,7 +1728,6 @@ That trade no more than trade must be!
 Does business mean, "Die, you -- live, I"?
 Then `Trade is trade' but sings a lie:
 'Tis only war grown miserly.
-If business is battle, name it so:                 [61]
 War-crimes less will shame it so,
 And widows less will blame it so.
 Alas, for the poor to have some part
@@ -2062,7 +1737,6 @@ Vainly might Plato's brain revolve it:
 Plainly the heart of a child could solve it."
 And then, as when from words that seem but rude
 We pass to silent pain that sits abrood
-Back in our heart's great dark and solitude,       [71]
 So sank the strings to gentle throbbing
 Of long chords change-marked with sobbing --
 Motherly sobbing, not distinctlier heard
@@ -2072,7 +1746,6 @@ Then stirring and demurring ceased, and lo!
 Every least ripple of the strings' song-flow
 Died to a level with each level bow
 And made a great chord tranquil-surfaced so,
-As a brook beneath his curving bank doth go        [81]
 To linger in the sacred dark and green
 Where many boughs the still pool overlean
 And many leaves make shadow with their sheen.
@@ -2082,7 +1755,6 @@ Upon the bosom of that harmony,
 And sailed and sailed incessantly,
 As if a petal from a wild-rose blown
 Had fluttered down upon that pool of tone
-And boatwise dropped o' the convex side            [91]
 And floated down the glassy tide
 And clarified and glorified
 The solemn spaces where the shadows bide.
@@ -2092,7 +1764,6 @@ As if a rose might somehow be a throat:
 "When Nature from her far-off glen
 Flutes her soft messages to men,
 The flute can say them o'er again;
-Yea, Nature, singing sweet and lone,           [101]
 Breathes through life's strident polyphone
 The flute-voice in the world of tone.
 Sweet friends,
@@ -2102,7 +1773,6 @@ Than man's mere thought e'er comprehends
 For I, e'en I,
 As here I lie,
 A petal on a harmony,
-Demand of Science whence and why                  [111]
 Man's tender pain, man's inward cry,
 When he doth gaze on earth and sky?
 I am not overbold:
@@ -2112,7 +1782,6 @@ I speak for each no-tongued tree
 That, spring by spring, doth nobler be,
 And dumbly and most wistfully
 His mighty prayerful arms outspreads
-Above men's oft-unheeding heads,                  [121]
 And his big blessing downward sheds.
 I speak for all-shaped blooms and leaves,
 Lichens on stones and moss on eaves,
@@ -2122,7 +1791,6 @@ And briery mazes bounding lanes,
 And marsh-plants, thirsty-cupped for rains,
 And milky stems and sugary veins;
 For every long-armed woman-vine
-That round a piteous tree doth twine;             [131]
 For passionate odors, and divine
 Pistils, and petals crystalline;
 All purities of shady springs,
@@ -2132,7 +1800,6 @@ All modesties of mountain-fawns
 That leap to covert from wild lawns,
 And tremble if the day but dawns;
 All sparklings of small beady eyes
-Of birds, and sidelong glances wise               [141]
 Wherewith the jay hints tragedies;
 All piquancies of prickly burs,
 And smoothnesses of downs and furs
@@ -2142,7 +1809,6 @@ At stamen-bases, nor deny
 The humming-birds' fine roguery,
 Bee-thighs, nor any butterfly;
 All gracious curves of slender wings,
-Bark-mottlings, fibre-spiralings,                 [151]
 Fern-wavings and leaf-flickerings;
 Each dial-marked leaf and flower-bell
 Wherewith in every lonesome dell
@@ -2152,7 +1818,6 @@ Wind-sighings, doves' melodious moans,
 And night's unearthly under-tones;
 All placid lakes and waveless deeps,
 All cool reposing mountain-steeps,
-Vale-calms and tranquil lotos-sleeps; --          [161]
 Yea, all fair forms, and sounds, and lights,
 And warmths, and mysteries, and mights,
 Of Nature's utmost depths and heights,
@@ -2162,7 +1827,6 @@ And servant, all love-eloquent.
 I heard, when `ALL FOR LOVE' the violins cried:
 So, Nature calls through all her system wide,
 `Give me thy love, O man, so long denied.'
-Much time is run, and man hath changed his ways,  [171]
 Since Nature, in the antique fable-days,
 Was hid from man's true love by proxy fays,
 False fauns and rascal gods that stole her praise.
@@ -2172,7 +1836,6 @@ Never to lave its love in them again.
 Later, a sweet Voice `Love thy neighbor' said;
 Then first the bounds of neighborhood outspread
 Beyond all confines of old ethnic dread.
-Vainly the Jew might wag his covenant head:       [181]
 `ALL MEN ARE NEIGHBORS,' so the sweet Voice said.
 So, when man's arms had circled all man's race,
 The liberal compass of his warm embrace
@@ -2182,7 +1845,6 @@ Drew her to breast and kissed her sweetheart face:
 Yea man found neighbors in great hills and trees
 And streams and clouds and suns and birds and bees,
 And throbbed with neighbor-loves in loving these.
-But oh, the poor! the poor! the poor!             [191]
 That stand by the inward-opening door
 Trade's hand doth tighten ever more,
 And sigh their monstrous foul-air sigh
@@ -2192,7 +1854,6 @@ For Art to make into melody!
 Thou Trade! thou king of the modern days!
 Change thy ways,
 Change thy ways;
-Let the sweaty laborers file                      [201]
 A little while,
 A little while,
 Where Art and Nature sing and smile.
@@ -2202,7 +1863,6 @@ I'm all for heart," the flute-voice said,
 And into sudden silence fled,
 Like as a blush that while 'tis red
 Dies to a still, still white instead.
-Thereto a thrilling calm succeeds,                [211]
 Till presently the silence breeds
 A little breeze among the reeds
 That seems to blow by sea-marsh weeds:
@@ -2212,7 +1872,6 @@ Like as a lady sings while yet
 Her eyes with salty tears are wet.
 "O Trade! O Trade!" the Lady said,
 "I too will wish thee utterly dead
-If all thy heart is in thy head.                  [221]
 For O my God! and O my God!
 What shameful ways have women trod
 At beckoning of Trade's golden rod!
@@ -2222,7 +1881,6 @@ Are merchandise!
 O purchased lips that kiss with pain!
 O cheeks coin-spotted with smirch and stain!
 O trafficked hearts that break in twain!
--- And yet what wonder at my sisters' crime?      [231]
 So hath Trade withered up Love's sinewy prime,
 Men love not women as in olden time.
 Ah, not in these cold merchantable days
@@ -2232,7 +1890,6 @@ Now, comes a suitor with sharp prying eye --
 Says, `Here, you Lady, if you'll sell I'll buy:
 Come, heart for heart -- a trade?  What! weeping? why?'
 Shame on such wooers' dapper mercery!
-I would my lover kneeling at my feet              [241]
 In humble manliness should cry, `O sweet!
 I know not if thy heart my heart will greet:
 I ask not if thy love my love can meet:
@@ -2242,7 +1899,6 @@ I do but know I love thee, and I pray
 To be thy knight until my dying day.'
 Woe him that cunning trades in hearts contrives!
 Base love good women to base loving drives.
-If men loved larger, larger were our lives;       [251]
 And wooed they nobler, won they nobler wives."
 There thrust the bold straightforward horn
 To battle for that lady lorn,
@@ -2252,7 +1908,6 @@ Like any knight in knighthood's morn.
 "Fair Lady.
 For God shall right thy grievous wrong,
 And man shall sing thee a true-love song,
-Voiced in act his whole life long,                [261]
 Yea, all thy sweet life long,
 Fair Lady.
 Where's he that craftily hath said,
@@ -2262,7 +1917,6 @@ Or I will die instead,
 Fair Lady.
 Is Honor gone into his grave?
 Hath Faith become a caitiff knave,
-And Selfhood turned into a slave                  [271]
 To work in Mammon's cave,
 Fair Lady?
 Will Truth's long blade ne'er gleam again?
@@ -2272,7 +1926,6 @@ And hates of inward stain,
 Fair Lady?
 For aye shall name and fame be sold,
 And place be hugged for the sake of gold,
-And smirch-robed Justice feebly scold             [281]
 At Crime all money-bold,
 Fair Lady?
 Shall self-wrapt husbands aye forget
@@ -2282,7 +1935,6 @@ Blind to lips kiss-wise set --
 Fair Lady?
 Shall lovers higgle, heart for heart,
 Till wooing grows a trading mart
-Where much for little, and all for part,          [291]
 Make love a cheapening art,
 Fair Lady?
 Shall woman scorch for a single sin
@@ -2292,7 +1944,6 @@ When that the flames begin,
 Fair Lady?
 Shall ne'er prevail the woman's plea,
 `We maids would far, far whiter be
-If that our eyes might sometimes see              [301]
 Men maids in purity,'
 Fair Lady?
 Shall Trade aye salve his conscience-aches
@@ -2302,7 +1953,6 @@ For Christ's and ladies' sakes,
 Fair Lady?
 Now by each knight that e'er hath prayed
 To fight like a man and love like a maid,
-Since Pembroke's life, as Pembroke's blade,       [311]
 I' the scabbard, death, was laid,
 Fair Lady,
 I dare avouch my faith is bright
@@ -2312,7 +1962,6 @@ Nor His dear love to spite,
 Fair Lady.
 I doubt no doubts:  I strive, and shrive my clay,
 And fight my fight in the patient modern way
-For true love and for thee -- ah me! and pray     [321]
 To be thy knight until my dying day,
 Fair Lady."
 Made end that knightly horn, and spurred away
@@ -2322,7 +1971,6 @@ And sang like any large-eyed child,
 Cool-hearted and all undefiled.
 "Huge Trade!" he said,
 "Would thou wouldst lift me on thy head
-And run where'er my finger led!                   [331]
 Once said a Man -- and wise was He --
 `Never shalt thou the heavens see,
 Save as a little child thou be.'"
@@ -2332,7 +1980,6 @@ Like weird
 Gray-beard
 Old harpers sitting on the high sea-dunes,
 Chanted runes:
-"Bright-waved gain, gray-waved loss,              [341]
 The sea of all doth lash and toss,
 One wave forward and one across:
 But now 'twas trough, now 'tis crest,
@@ -2342,7 +1989,6 @@ And curst to blest.
 Love, Love alone can pore
 On thy dissolving score
 Of harsh half-phrasings,
-Blotted ere writ,                             [351]
 And double erasings
 Of chords most fit.
 Yea, Love, sole music-master blest,
@@ -2352,7 +1998,6 @@ And never to lose the old in the new,
 And ever to solve the discords true --
 Love alone can do.
 And ever Love hears the poor-folks' crying,
-And ever Love hears the women's sighing,          [361]
 And ever sweet knighthood's death-defying,
 And ever wise childhood's deep implying,
 But never a trader's glozing and lying.
@@ -2363,7 +2008,6 @@ Music is Love in search of a word."
 ____
 Baltimore, 1875.
 Notes:  The Symphony
-The `Introduction' (pp. xxviii f., xxxiii ff. [Part III], xlvii [Part IV])
 gives, besides the plan of `The Symphony', a detailed statement
 of its two themes, -- the evils of the trade-spirit
 in the commercial and social world and the need in each of the love-spirit.
@@ -2372,7 +2016,6 @@ in `The Jacquerie' also, which he expected to make his great work,
 but which he was unable to complete.  This he tells us in a noble passage
 to Judge Bleckley, in his letter of November 15, 1874.  After deploring
 the lack of time for literary labor (see quotation in `Introduction',
-p. xlvi [Part IV]), he continues:  "I manage to get a little time tho'
 to work on what is to be my first `magnum opus', a long poem,
 founded on that strange uprising in the middle of the fourteenth century
 in France, called `The Jacquerie'.  It was the first time
@@ -2411,7 +2054,6 @@ when he condemns the commercial text, "Buy in the cheapest market and sell
 in the dearest," and when he declares that "Competition is the law of death"
 (`Unto This Last', pp. 40, 59).
 which almost lulls one to sleep, and `The Odyssey' ix. 80-104.
-p. xxxii [Part III].
 `Lady Clarinda's Song' (Gosse's `English Lyrics').
 complete `Poems', p. 213.  These lines of `The Symphony' show clearly that
 Lanier did not believe that God made one law for man and another for woman,
@@ -2428,15 +2070,12 @@ Art symbolizes Heaven, but Love is God
 And makes Heaven;"
 and Langland's `Piers the Plowman' (ed. by Skeat, i. 202-3):
 "Love is leche of lyf and nexte oure Lorde selve,
-And also the graith gate that goth into hevene."*
 --
-* The two lines may be translated:  "Love is the physician of life
 and next to our Lord himself; moreover, it is the way that goes
 straight to Heaven."
 --
 The Power of Prayer; or, The First Steamboat up the Alabama
 By Sidney and Clifford Lanier
-You, Dinah!  Come and set me whar de ribber-roads does meet.            [1]
 De Lord, HE made dese black-jack roots to twis' into a seat.
 Umph dar!  De Lord have mussy on dis blin' old nigger's feet.
 It 'pear to me dis mornin' I kin smell de fust o' June.
@@ -2446,7 +2085,6 @@ Well, ef dis nigger IS been blind for fo'ty year or mo',
 Dese ears, DEY sees de world, like, th'u' de cracks dat's in de do'.
 For de Lord has built dis body wid de windows 'hind and 'fo'.
 I know my front ones IS stopped up, and things is sort o' dim,
-But den, th'u' DEM, temptation's rain won't leak in on ole Jim!        [11]
 De back ones show me earth enough, aldo' dey's mons'ous slim.
 And as for Hebben, -- bless de Lord, and praise His holy name --
 DAT shines in all de co'ners of dis cabin jes' de same
@@ -2456,7 +2094,6 @@ Somebody holl'in' "HOO, JIM, HOO?"  My Sarah died las' y'ar;
 IS dat black angel done come back to call ole Jim f'om hyar?
 My stars, dat cain't be Sarah, shuh!  Jes' listen, Dinah, NOW!
 What KIN be comin' up dat bend, a-makin' sich a row?
-Fus' bellerin' like a pawin' bull, den squealin' like a sow?           [21]
 De Lord 'a' mussy sakes alive, jes' hear, -- ker-woof, ker-woof --
 De Debble's comin' round dat bend, he's comin' shuh enuff,
 A-splashin' up de water wid his tail and wid his hoof!
@@ -2466,7 +2103,6 @@ YOU screech, and swish de water, Satan!  I'se a gwine to pray.
 O hebbenly Marster, what thou willest, dat mus' be jes' so,
 And ef Thou hast bespoke de word, some nigger's bound to go.
 Den, Lord, please take ole Jim, and lef young Dinah hyar below!
-'Scuse Dinah, 'scuse her, Marster; for she's sich a little chile,      [31]
 She hardly jes' begin to scramble up de homeyard stile,
 But dis ole traveller's feet been tired dis many a many a mile.
 I'se wufless as de rotten pole of las' year's fodder-stack.
@@ -2476,7 +2112,6 @@ What use de wheel, when hub and spokes is warped and split, and rotten?
 What use dis dried-up cotton-stalk, when Life done picked my cotton?
 I'se like a word dat somebody said, and den done been forgotten.
 But, Dinah!  Shuh dat gal jes' like dis little hick'ry tree,
-De sap's jes' risin' in her; she do grow owdaciouslee --               [41]
 Lord, ef you's clarin' de underbrush, don't cut her down, cut me!
 I would not proud persume -- but I'll boldly make reques';
 Sence Jacob had dat wrastlin'-match, I, too, gwine do my bes';
@@ -2486,7 +2121,6 @@ Jes' for to strength dese idle hands to scratch dis ole bald head?
 T'ink of de 'conomy, Marster, ef dis ole Jim was dead!
 Stop; -- ef I don't believe de Debble's gone on up de stream!
 Jes' now he squealed down dar; -- hush; dat's a mighty weakly scream!
-Yas, sir, he's gone, he's gone; -- he snort way off, like in a dream!  [51]
 O glory hallelujah to de Lord dat reigns on high!
 De Debble's fai'ly skeered to def, he done gone flyin' by;
 I know'd he couldn't stand dat pra'r, I felt my Marster nigh!
@@ -2626,7 +2260,6 @@ is the first line of Mr. Clifford Lanier's `Transformation'
 thinks the poet must have used `de' here as elsewhere.
 Rose-morals
 I. -- Red
-Would that my songs might be                       [1]
 What roses make by day and night --
 Distillments of my clod of misery
 Into delight.
@@ -2636,7 +2269,6 @@ All clean, and large, and calm with velvet rest?
 Say yea -- say yea!
 Ah, dear my Rose, good-bye;
 The wind is up; so; drift away.
-That songs from me as leaves from thee may fly,    [11]
 I strive, I pray.
 II. -- White
 Soul, get thee to the heart
@@ -2647,7 +2279,6 @@ Of spirit grave yet light,
 How fervent fragrances uprise
 Pure-born from these most rich and yet most white
 Virginities!
-Mulched with unsavory death,                      [21]
 Grow, Soul! unto such white estate,
 That virginal-prayerful art shall be thy breath,
 Thy work, thy fate.
@@ -2683,9 +2314,7 @@ The red my martyrdom betraying.
 The frowns that on your brow resided
 Have those roses thus divided;
 Oh! let your smiles but clear the weather,
-And then they both shall grow together."*
 --
-* See Saintsbury's `Elizabethan Literature' (Macmillan & Co., New York, 1887),
 p. 363.
 --
 Rollicking Robert Herrick, too, draws his morals, now advising the virgins
@@ -2708,9 +2337,7 @@ May read how soon things have
 Their end, though ne'er so brave:
 And after they have shown their pride
 Like you, awhile, they glide
-Into the grave."*
 --
-* `Palgrave', p. 89.
 --
 Much like this last piece in import, and scarcely inferior to it in execution,
 is `My life is like the summer rose' of Richard Henry Wilde,
@@ -2721,7 +2348,6 @@ an "earthly queen" and the latter a "heaven-bound votaress".
 Mrs. Browning's `A Lay of the Early Rose' shows that we are not to strive
 "for the dole of praise."
 To ----, with a Rose
-I asked my heart to say                     [1]
 Some word whose worth my love's devoir might pay
 Upon my Lady's natal day.
 Then said my heart to me:
@@ -2755,7 +2381,6 @@ It could not withered be.
 But thou thereon did'st only breathe,
 And sent'st it back to me;
 Since when it grows and smells, I swear,
-Not of itself, but thee."*
 Even more felicitous, perhaps, is Waller's `Go, lovely rose!' which is at once
 a compliment and a moral (`Gosse', p. 134):
 "Go, lovely rose
@@ -2781,13 +2406,11 @@ That are so wond'rous sweet and fair."
 Browning's `Women and Roses' should also be mentioned,
 and Mrs. Browning's translation of Sappho's lovely `Song of the Rose'.
 --
-* The fact that Jonson here translates a prose love-letter of Philostratus,
 the Greek sophist, may detract from the originality but not the beauty
 of his poem.
 --
 Uncle Jim's Baptist Revival Hymn
 By Sidney and Clifford Lanier
-SOLO. --  Sin's rooster's crowed, Ole Mahster's riz,     [1]
 De sleepin'-time is pas';
 Wake up dem lazy Baptissis,
 CHORUS. --       Dey's mightily in de grass, grass,
@@ -2797,7 +2420,6 @@ He's blowed a powerful blas';
 O Baptis' come, come hoe de corn,
 You's mightily in de grass, grass,
 You's mightily in de grass.
-De Meth'dis team's done hitched; O fool,              [11]
 De day's a-breakin' fas';
 Gear up dat lean ole Baptis' mule,
 Dey's mightily in de grass, grass,
@@ -2807,7 +2429,6 @@ De cotton's sheddin' fas';
 Whoop, look, jes' look at de Baptis' row,
 Hit's mightily in de grass, grass,
 Hit's mightily in de grass.
-De jay-bird squeal to de mockin'-bird:  "Stop!        [21]
 Don' gimme none o' yo' sass;
 Better sing one song for de Baptis' crop,
 Dey's mightily in de grass, grass,
@@ -2817,7 +2438,6 @@ But de fiel'-lark say, "Yaas, yaas,
 An' I spec' you mighty glad, you debblish crow,
 Dat de Baptissis's in de grass, grass,
 Dat de Baptissis's in de grass!"
-Lord, thunder us up to de plowin'-match,              [31]
 Lord, peerten de hoein' fas',
 Yea, Lord, hab mussy on de Baptis' patch,
 Dey's mightily in de grass, grass,
@@ -2852,7 +2472,6 @@ probably needs to be informed that the phrase `peerten up' means substantially
 and which has much the signification of `smart' in New England, as e.g.,
 a `peert' horse, in antithesis to a `sorry' -- i.e., poor, mean, lazy one."
 The Mocking-bird
-Superb and sole, upon a plumed spray                     [1]
 That o'er the general leafage boldly grew,
 He summ'd the woods in song; or typic drew
 The watch of hungry hawks, the lone dismay
@@ -2862,7 +2481,6 @@ At morn in brake or bosky avenue.
 What e'er birds did or dreamed, this bird could say.
 Then down he shot, bounced airily along
 The sward, twitched in a grasshopper, made song
-Midflight, perched, prinked, and to his art again.      [11]
 Sweet Science, this large riddle read me plain:
 How may the death of that dull insect be
 The life of yon trim Shakspere on the tree?
@@ -3013,7 +2631,6 @@ The listening leaves divinely stirred,
 As if the vanished soul of Keats
 Had found its new birth in a bird."
 Song of the Chattahoochee
-Out of the hills of Habersham,              [1]
 Down the valleys of Hall,
 I hurry amain to reach the plain,
 Run the rapid and leap the fall,
@@ -3023,7 +2640,6 @@ And flee from folly on every side
 With a lover's pain to attain the plain
 Far from the hills of Habersham,
 Far from the valleys of Hall.
-All down the hills of Habersham,           [11]
 All through the valleys of Hall,
 The rushes cried `Abide, abide,'
 The willful waterweeds held me thrall,
@@ -3033,7 +2649,6 @@ The dewberry dipped for to work delay,
 And the little reeds sighed `Abide, abide,
 Here in the hills of Habersham,
 Here in the valleys of Hall.'
-High o'er the hills of Habersham,          [21]
 Veiling the valleys of Hall,
 The hickory told me manifold
 Fair tales of shade, the poplar tall
@@ -3043,7 +2658,6 @@ Overleaning, with flickering meaning and sign,
 Said, `Pass not, so cold, these manifold
 Deep shades of the hills of Habersham,
 These glades in the valleys of Hall.'
-And oft in the hills of Habersham,         [31]
 And oft in the valleys of Hall,
 The white quartz shone, and the smooth brook-stone
 Did bar me of passage with friendly brawl,
@@ -3053,7 +2667,6 @@ Ruby, garnet, and amethyst --
 Made lures with the lights of streaming stone
 In the clefts of the hills of Habersham,
 In the beds of the valleys of Hall.
-But oh, not the hills of Habersham,        [41]
 And oh, not the valleys of Hall
 Avail:  I am fain for to water the plain.
 Downward the voices of Duty call --
@@ -3076,7 +2689,6 @@ in his `Tallulah and Other Poems' (Savannah, Ga., 1850);
 and Mr. M. V. Moore, in his poem, `Southern Rivers' (`Harper', 66. 464,
 February, 1883), has a paragraph on the rivers of Georgia,
 in which he speaks of "the sandy Chattahoochee".
-In the `Introduction' (pp. xxxi [Part III], xliv, xlvii [Part IV])
 I have spoken of this `Song' as Lanier's most finished nature poem,
 as the most musical of his productions.  "The music of a song
 easily eludes all analysis and may be dissipated by a critic's breath,
@@ -3105,7 +2717,6 @@ Mary Ainge De Vere (`Century', 21. 283, December, 1891),
 Longfellow, Weir Mitchell (`Atlantic', 65. 629, May, 1890),
 Clinton Scollard (`Lippincott', 50. 226, August, 1892), etc., etc.
 The Revenge of Hamish
-It was three slim does and a ten-tined buck in the bracken lay;            [1]
 And all of a sudden the sinister smell of a man,
 Awaft on a wind-shift, wavered and ran
 Down the hill-side and sifted along through the bracken and passed that way.
@@ -3115,7 +2726,6 @@ She reared, and rounded her ears in turn.
 Then the buck leapt up, and his head as a king's to a crown did go
 Full high in the breeze, and he stood as if Death had the form of a deer;
 And the two slim does long lazily stretching arose,
-For their day-dream slowlier came to a close,                            [11]
 Till they woke and were still, breath-bound with waiting and wonder and fear.
 Then Alan the huntsman sprang over the hillock, the hounds shot by,
 The does and the ten-tined buck made a marvelous bound,
@@ -3126,7 +2736,6 @@ And he cursed at old Alan till Alan fared off with the hounds
 For to drive him the deer to the lower glen-grounds:
 "I will kill a red deer," quoth Maclean, "in the sight of the wife
 and the child."
-So gayly he paced with the wife and the child to his chosen stand;        [21]
 But he hurried tall Hamish the henchman ahead:  "Go turn," --
 Cried Maclean -- "if the deer seek to cross to the burn,
 Do thou turn them to me:  nor fail, lest thy back be red as thy hand."
@@ -3138,7 +2747,6 @@ His shouts, and his nether lip twitched, and his legs were o'er-weak
 for his will.
 So the deer darted lightly by Hamish and bounded away to the burn.
 But Maclean never bating his watch tarried waiting below.
-Still Hamish hung heavy with fear for to go                              [31]
 All the space of an hour; then he went, and his face was greenish and stern,
 And his eye sat back in the socket, and shrunken the eyeballs shone,
 As withdrawn from a vision of deeds it were shame to see.
@@ -3149,7 +2757,6 @@ Brake Maclean, and his wrath rose red as a beacon the wind hath upblown.
 I was weak, for ye called ere I broke me my fast."
 Cried Maclean:  "Now a ten-tined buck in the sight of the wife and the child
 I had killed if the gluttonous kern had not wrought me
-a snail's own wrong!"                                                   [41]
 Then he sounded, and down came kinsmen and clansmen all:
 "Ten blows, for ten tine, on his back let fall,
 And reckon no stroke if the blood follow not at the bite of thong!"
@@ -3159,7 +2766,6 @@ If a slimmer-paunched henchman will hurry with me,
 I shall kill me the ten-tined buck for a gift to the wife and the child!"
 Then the clansmen departed, by this path and that; and over the hill
 Sped Maclean with an outward wrath for an inward shame;
-And that place of the lashing full quiet became;                         [51]
 And the wife and the child stood sad; and bloody-backed Hamish sat still.
 But look! red Hamish has risen; quick about and about turns he.
 "There is none betwixt me and the crag-top!" he screams under breath.
@@ -3170,7 +2776,6 @@ Till the motherhood, mistress of death, shrieks, shrieks through the glen,
 And that place of the lashing is live with men,
 And Maclean, and the gillie that told him, dash up in a desperate race.
 Not a breath's time for asking; an eye-glance reveals
-all the tale untold.                                                    [61]
 They follow mad Hamish afar up the crag toward the sea,
 And the lady cries:  "Clansmen, run for a fee! --
 Yon castle and lands to the two first hands that shall hook him and hold
@@ -3180,7 +2785,6 @@ But, mother, 'tis vain; but, father, 'tis vain;
 Stern Hamish stands bold on the brink, and dangles the child o'er the deep.
 Now a faintness falls on the men that run, and they all stand still.
 And the wife prays Hamish as if he were God, on her knees,
-Crying:  "Hamish! O Hamish! but please, but please                       [71]
 For to spare him!" and Hamish still dangles the child, with a wavering will.
 On a sudden he turns; with a sea-hawk scream, and a gibe, and a song,
 Cries:  "So; I will spare ye the child if, in sight of ye all,
@@ -3191,7 +2795,6 @@ Breathed short for a space, said:  "Nay, but it never shall be!
 Let me hurl off the damnable hound in the sea!"
 But the wife:  "Can Hamish go fish us the child from the sea, if dead?
 "Say yea! --  Let them lash ME, Hamish?" --  "Nay!" --
-"Husband, the lashing will heal;                                        [81]
 But, oh, who will heal me the bonny sweet bairn in his grave?
 Could ye cure me my heart with the death of a knave?
 Quick! Love! I will bare thee -- so -- kneel!"  Then Maclean 'gan slowly
@@ -3203,7 +2806,6 @@ Then he struck him, and "One!" sang Hamish, and danced with the child
 in his mirth.
 And no man spake beside Hamish; he counted each stroke with a song.
 When the last stroke fell, then he moved him a pace down the height,
-And he held forth the child in the heartaching sight                     [91]
 Of the mother, and looked all pitiful grave, as repenting a wrong.
 And there as the motherly arms stretched out with the thanksgiving prayer --
 And there as the mother crept up with a fearful swift pace,
@@ -3215,7 +2817,6 @@ Age-feeble with anger and impotent pain,
 Crawled up on the crag, and lay flat, and locked hold of dead roots
 of a tree --
 And gazed hungrily o'er, and the blood from his back
-drip-dripped in the brine,                                             [101]
 And a sea-hawk flung down a skeleton fish as he flew,
 And the mother stared white on the waste of blue,
 And the wind drove a cloud to seaward, and the sun began to shine.
@@ -3223,7 +2824,6 @@ ____
 Baltimore, 1878.
 Notes:  The Revenge of Hamish
 For an appreciation of this fine poem see `Introduction',
-pp. xlv, xlvii [Part IV], Mr. J. R. Tait, a friend with whom Mr. Lanier
 discussed `The Revenge of Hamish', kindly writes me that the author
 took the plot from William Black's novel, `Macleod of Dare'.
 In chapter iii. Macleod, of Castle Dare, Mull, tells the story
@@ -3251,7 +2851,6 @@ Johnson's `A Journey to the Hebrides' and Robert Buchanan's `The Hebrid Isles'
 (London, 1883).  Instructive, too, is Cummin's `Around Mull'
 (`The Atlantic Monthly', 16. 11-19, 167-176, July, August, 1865).
 The Marshes of Glynn
-Glooms of the live-oaks, beautiful-braided and woven                       [1]
 With intricate shades of the vines that myriad-cloven
 Clamber the forks of the multiform boughs, --
 Emerald twilights, --
@@ -3261,7 +2860,6 @@ When lovers pace timidly down through the green colonnades
 Of the dim sweet woods, of the dear dark woods,
 Of the heavenly woods and glades,
 That run to the radiant marginal sand-beach within
-The wide sea-marshes of Glynn; --                                     [11]
 Beautiful glooms, soft dusks in the noon-day fire, --
 Wildwood privacies, closets of lone desire,
 Chamber from chamber parted with wavering arras of leaves, --
@@ -3271,7 +2869,6 @@ Cool for the dutiful weighing of ill with good; --
 O braided dusks of the oak and woven shades of the vine,
 While the riotous noon-day sun of the June-day long did shine
 Ye held me fast in your heart and I held you fast in mine;
-But now when the noon is no more, and riot is rest,                       [21]
 And the sun is a-wait at the ponderous gate of the West,
 And the slant yellow beam down the wood-aisle doth seem
 Like a lane into heaven that leads from a dream, --
@@ -3281,7 +2878,6 @@ Of the scythe of time and the trowel of trade is low,
 And belief overmasters doubt, and I know that I know,
 And my spirit is grown to a lordly great compass within,
 That the length and the breadth and the sweep of the marshes of Glynn
-Will work me no fear like the fear they have wrought me of yore           [31]
 When length was fatigue, and when breadth was but bitterness sore,
 And when terror and shrinking and dreary unnamable pain
 Drew over me out of the merciless miles of the plain, --
@@ -3291,7 +2887,6 @@ To the edge of the wood I am drawn, I am drawn,
 Where the gray beach glimmering runs, as a belt of the dawn,
 For a mete and a mark
 To the forest-dark: --
-So:                                                           [41]
 Affable live-oak, leaning low, --
 Thus -- with your favor -- soft, with a reverent hand,
 (Not lightly touching your person, Lord of the land!)
@@ -3302,7 +2897,6 @@ By a world of marsh that borders a world of sea.
 Sinuous southward and sinuous northward the shimmering band
 Of the sand-beach fastens the fringe of the marsh to the folds of the land.
 Inward and outward to northward and southward the beach-lines
-linger and curl                                                         [51]
 As a silver-wrought garment that clings to and follows
 the firm sweet limbs of a girl.
 Vanishing, swerving, evermore curving again into sight,
@@ -3313,7 +2907,6 @@ A league and a league of marsh-grass, waist-high, broad in the blade,
 Green, and all of a height, and unflecked with a light or a shade,
 Stretch leisurely off, in a pleasant plain,
 To the terminal blue of the main.
-Oh, what is abroad in the marsh and the terminal sea?                     [61]
 Somehow my soul seems suddenly free
 From the weighing of fate and the sad discussion of sin,
 By the length and the breadth and the sweep of the marshes of Glynn.
@@ -3323,7 +2916,6 @@ Tolerant plains, that suffer the sea and the rains and the sun,
 Ye spread and span like the catholic man who hath mightily won
 God out of knowledge and good out of infinite pain
 And sight out of blindness and purity out of a stain.
-As the marsh-hen secretly builds on the watery sod,                       [71]
 Behold I will build me a nest on the greatness of God:
 I will fly in the greatness of God as the marsh-hen flies
 In the freedom that fills all the space 'twixt the marsh and the skies:
@@ -3333,7 +2925,6 @@ Oh, like to the greatness of God is the greatness within
 The range of the marshes, the liberal marshes of Glynn.
 And the sea lends large, as the marsh:  lo, out of his plenty the sea
 Pours fast:  full soon the time of the flood-tide must be:
-Look how the grace of the sea doth go                                     [81]
 About and about through the intricate channels that flow
 Here and there,
 Everywhere,
@@ -3343,7 +2934,6 @@ That like as with rosy and silvery essences flow
 In the rose-and-silver evening glow.
 Farewell, my lord Sun!
 The creeks overflow:  a thousand rivulets run
-'Twixt the roots of the sod; the blades of the marsh-grass stir;          [91]
 Passeth a hurrying sound of wings that westward whirr;
 Passeth, and all is still; and the currents cease to run;
 And the sea and the marsh are one.
@@ -3353,7 +2943,6 @@ The tide is at his highest height:
 And it is night.
 And now from the Vast of the Lord will the waters of sleep
 Roll in on the souls of men,
-But who will reveal to our waking ken                                    [101]
 The forms that swim and the shapes that creep
 Under the waters of sleep?
 And I would I could know what swimmeth below when the tide comes in
@@ -3412,7 +3001,6 @@ His spirit is grown to a lordly great compass within, -- he is ready
 for what Wordsworth calls a `god-like hour'."
 Mr. Callaway also treats the poem in Part III of the `Introduction'.
 Remonstrance
-Opinion, let me alone:  I am not thine.                 [1]
 Prim Creed, with categoric point, forbear
 To feature me my Lord by rule and line.
 Thou canst not measure Mistress Nature's hair,
@@ -3422,7 +3010,6 @@ Forbear, forbear.
 Oh let me love my Lord more fathom deep
 Than there is line to sound with:  let me love
 My fellow not as men that mandates keep:
-Yea, all that's lovable, below, above,                  [11]
 That let me love by heart, by heart, because
 (Free from the penal pressure of the laws)
 I find it fair.
@@ -3432,7 +3019,6 @@ Opinion! for thy sole salt vintage fall.
 Time through my casement cheerily doth call,
 "Nature is new, 'tis birthday every day,
 Come feast with me, let no man say me nay,
-Whate'er befall."                           [21]
 So fare I forth to feast:  I sit beside
 Some brother bright:  but, ere good-morrow's passed,
 Burly Opinion wedging in hath cried,
@@ -3442,7 +3028,6 @@ Save to our Rubric thou subscribe and swear --
 She's Saxon, all."
 Then, hard a-hungered for my brother's grace
 Till well-nigh fain to swear his folly's true,
-In sad dissent I turn my longing face                  [31]
 To him that sits on the left:  "Brother, -- with you?"
 -- "Nay, not with me, save thou subscribe and swear
 `Religion hath black eyes and raven hair':
@@ -3452,7 +3037,6 @@ With every man on every day of life,
 I homeward turn, my fires of pain to slake
 In deep endearments of a worshiped wife.
 "I love thee well, dear Love," quoth she, "and yet
-Would that thy creed with mine completely met,       [41]
 As one, not two."
 Assassin! Thief! Opinion, 'tis thy work.
 By Church, by throne, by hearth, by every good
@@ -3462,7 +3046,6 @@ Thou hand'st sweet Socrates his hemlock sour;
 Thou sav'st Barabbas in that hideous hour,
 And stabb'st the good
 Deliverer Christ; thou rack'st the souls of men;
-Thou tossest girls to lions and boys to flames;         [51]
 Thou hew'st Crusader down by Saracen;
 Thou buildest closets full of secret shames;
 Indifferent cruel, thou dost blow the blaze
@@ -3472,7 +3055,6 @@ Smell scorched; I would
 Bigot Pretender unto Judgment's throne --
 Bastard, that claimest with a cunning face
 Those rights the true, true Son of Man doth own
-By Love's authority -- thou Rebel cold               [61]
 At head of civil wars and quarrels old --
 Thou Knife on a throne --
 I would thou left'st me free, to live with love,
@@ -3487,8 +3069,6 @@ Baltimore, 1878-9.
 Notes:  Remonstrance
 This is the first and the greatest of the `Street-cries':
 see the introductory note to `Life and Song'.
-For an interpretation of the poem see `Introduction', pp. xxix [Part III],
-xlv, xlvii [Part IV].
 in `Jack-knife and Brambles' (Nashville, 1893), by Bishop Atticus G. Haygood,
 of the Methodist Church, South.  One brother, we are told (p. 278),
 objected to hearing Bishop Haygood in 1859 because of his wearing a beard;
@@ -3499,7 +3079,6 @@ on October 16, 1555, see Green's `Shorter History of England'.
 Michael Servetus, a Spanish scientific and theological writer,
 was burned as a heretic at Geneva, October 27, 1553.
 Opposition
-Of fret, of dark, of thorn, of chill,     [1]
 Complain no more; for these, O heart,
 Direct the random of the will
 As rhymes direct the rage of art.
@@ -3509,7 +3088,6 @@ For governance and nice consort
 Doth bar his willful wavering.
 The dark hath many dear avails;
 The dark distils divinest dews;
-The dark is rich with nightingales,      [11]
 With dreams, and with the heavenly Muse.
 Bleeding with thorns of petty strife,
 I'll ease (as lovers do) my smart
@@ -3519,7 +3097,6 @@ What grace may lie within the chill
 Of favor frozen fast in scorn!
 When Good's a-freeze, we call it Ill!
 This rosy Time is glacier-born.
-Of fret, of dark, of thorn, of chill,    [21]
 Complain thou not, O heart; for these
 Bank-in the current of the will
 To uses, arts, and charities.
@@ -3537,7 +3114,6 @@ as would have driven most men to the inert, self-indulgent life of an invalid.
 The superb power of will which he displayed is a lesson as valuable
 as the noble poems which it illustrates and enforces."
 Marsh Song -- At Sunset
-Over the monstrous shambling sea,              [1]
 Over the Caliban sea,
 Bright Ariel-cloud, thou lingerest:
 Oh wait, oh wait, in the warm red West, --
@@ -3547,7 +3123,6 @@ Over the Caliban sea,
 O cloud in the West, like a thought in the heart
 Of pardon, loose thy wing, and start,
 And do a grace for me.
-Over the huge and huddling sea,               [11]
 Over the Caliban sea,
 Bring hither my brother Antonio, -- Man, --
 My injurer:  night breaks the ban;
@@ -3565,7 +3140,6 @@ and Ariel, the ministering spirit of the air.
 With `At Sunset' compare Lanier's `Evening Song', another and a more agreeable
 sunset picture.
 A Ballad of Trees and the Master
-Into the woods my Master went,       [1]
 Clean forspent, forspent.
 Into the woods my Master came,
 Forspent with love and shame.
@@ -3575,7 +3149,6 @@ The thorn-tree had a mind to Him
 When into the woods He came.
 Out of the woods my Master went,
 And He was well content.
-Out of the woods my Master came,    [11]
 Content with death and shame.
 When Death and Shame would woo Him last,
 From under the trees they drew Him last:
@@ -3584,7 +3157,6 @@ When out of the woods He came.
 ____
 Baltimore, November, 1880.
 Notes:  A Ballad of Trees and the Master
-In the `Introduction' (p. xxxi ff. [Part III]) I have tried to show
 the intensity and the breadth of Lanier's love of nature in general.
 President Gates gives a separate section to Lanier's love
 of trees and plant-life; and, after quoting some lines
@@ -3603,9 +3175,7 @@ sympathetic ministrations of nature -- perhaps the heart of the reason
 why this olive-grove was `the place where He was wont to go' for prayer."
 See St. Luke 22:39.
 For Lanier's other poems on Christ see `Introduction',
-p. xxxvii f. [Part III].
 Sunrise
-In my sleep I was fain of their fellowship, fain                        [1]
 Of the live-oak, the marsh, and the main.
 The little green leaves would not let me alone in my sleep;
 Up-breathed from the marshes, a message of range and of sweep,
@@ -3615,7 +3185,6 @@ Came to the gates of sleep.
 Then my thoughts, in the dark of the dungeon-keep
 Of the Castle of Captives hid in the City of Sleep,
 Upstarted, by twos and by threes assembling:
-The gates of sleep fell a-trembling                                   [11]
 Like as the lips of a lady that forth falter "yes",
 Shaken with happiness:
 The gates of sleep stood wide.
@@ -3625,7 +3194,6 @@ In your gospelling glooms, -- to be
 As a lover in heaven, the marsh my marsh and the sea my sea.
 Tell me, sweet burly-bark'd, man-bodied Tree
 That mine arms in the dark are embracing, dost know
-From what fount are these tears at thy feet which flow?                [21]
 They rise not from reason, but deeper inconsequent deeps.
 Reason's not one that weeps.
 What logic of greeting lies
@@ -3635,7 +3203,6 @@ All the dull-tissued dark with your luminous darks that emboss
 The vague blackness of night into pattern and plan,
 So,
 (But would I could know, but would I could know,)
-With your question embroid'ring the dark of the question of man, --    [31]
 So, with your silences purfling this silence of man
 While his cry to the dead for some knowledge is under the ban,
 Under the ban, --
@@ -3645,7 +3212,6 @@ So,
 That haply we know somewhat more than we know.
 Ye lispers, whisperers, singers in storms,
 Ye consciences murmuring faiths under forms,
-Ye ministers meet for each passion that grieves,                   [41]
 Friendly, sisterly, sweetheart leaves,
 Oh, rain me down from your darks that contain me
 Wisdoms ye winnow from winds that pain me, --
@@ -3655,7 +3221,6 @@ Me the woods-smell that swiftly but now brought breath
 From the heaven-side bank of the river of death, --
 Teach me the terms of silence, -- preach me
 The passion of patience, -- sift me, -- impeach me, --
-And there, oh there                                           [51]
 As ye hang with your myriad palms upturned in the air,
 Pray me a myriad prayer.
 My gossip, the owl, -- is it thou
@@ -3666,7 +3231,6 @@ Dumb woods, have ye uttered a bird?
 Reverend Marsh, low-couched along the sea,
 Old chemist, rapt in alchemy,
 Distilling silence, -- lo,
-That which our father-age had died to know --                          [61]
 The menstruum that dissolves all matter -- thou
 Hast found it:  for this silence, filling now
 The globed clarity of receiving space,
@@ -3676,7 +3240,6 @@ Must in yon silence clear solution lie.
 Too clear!  That crystal nothing who'll peruse?
 The blackest night could bring us brighter news.
 Yet precious qualities of silence haunt
-Round these vast margins, ministrant.                                  [71]
 Oh, if thy soul's at latter gasp for space,
 With trying to breathe no bigger than thy race
 Just to be fellow'd, when that thou hast found
@@ -3686,7 +3249,6 @@ To entertain that New thou tell'st, thou art, --
 And breathe it free, and breathe it free,
 By rangy marsh, in lone sea-liberty.
 The tide's at full:  the marsh with flooded streams
-Glimmers, a limpid labyrinth of dreams.                                [81]
 Each winding creek in grave entrancement lies
 A rhapsody of morning-stars.  The skies
 Shine scant with one forked galaxy, --
@@ -3696,7 +3258,6 @@ Oh, what if a bound should be laid
 To this bow-and-string tension of beauty and silence a-spring, --
 To the bend of beauty the bow, or the hold of silence the string!
 I fear me, I fear me yon dome of diaphanous gleam
-Will break as a bubble o'er-blown in a dream, --                       [91]
 Yon dome of too-tenuous tissues of space and of night,
 Over-weighted with stars, over-freighted with light,
 Over-sated with beauty and silence, will seem
@@ -3706,7 +3267,6 @@ Or a sound or a motion made.
 But no:  it is made:  list! somewhere, -- mystery, where?
 In the leaves? in the air?
 In my heart? is a motion made:
-'Tis a motion of dawn, like a flicker of shade on shade.              [101]
 In the leaves 'tis palpable:  low multitudinous stirring
 Upwinds through the woods; the little ones, softly conferring,
 Have settled my lord's to be looked for; so; they are still;
@@ -3716,7 +3276,6 @@ And look where a passionate shiver
 Expectant is bending the blades
 Of the marsh-grass in serial shimmers and shades, --
 And invisible wings, fast fleeting, fast fleeting,
-Are beating                                               [111]
 The dark overhead as my heart beats, -- and steady and free
 Is the ebb-tide flowing from marsh to sea --
 (Run home, little streams,
@@ -3726,7 +3285,6 @@ For list, down the inshore curve of the creek
 How merrily flutters the sail, --
 And lo, in the East!  Will the East unveil?
 The East is unveiled, the East hath confessed
-A flush:  'tis dead; 'tis alive:  'tis dead, ere the West             [121]
 Was aware of it:  nay, 'tis abiding, 'tis unwithdrawn:
 Have a care, sweet Heaven!  'Tis Dawn.
 Now a dream of a flame through that dream of a flush is uprolled:
@@ -3736,7 +3294,6 @@ The hive is of gold undazzling, but oh, the Bee,
 The star-fed Bee, the build-fire Bee,
 Of dazzling gold is the great Sun-Bee
 That shall flash from the hive-hole over the sea.
-Yet now the dew-drop, now the morning gray,                       [131]
 Shall live their little lucid sober day
 Ere with the sun their souls exhale away.
 Now in each pettiest personal sphere of dew
@@ -3746,7 +3303,6 @@ O'er-silvered to the farthest sea-confines,
 The sacramental marsh one pious plain
 Of worship lies.  Peace to the ante-reign
 Of Mary Morning, blissful mother mild,
-Minded of nought but peace, and of a child.                           [141]
 Not slower than Majesty moves, for a mean and a measure
 Of motion, -- not faster than dateless Olympian leisure
 Might pace with unblown ample garments from pleasure to pleasure, --
@@ -3756,7 +3312,6 @@ Edgewise, bladewise, halfwise, wholewise, -- 'tis done!
 Good-morrow, lord Sun!
 With several voice, with ascription one,
 The woods and the marsh and the sea and my soul
-Unto thee, whence the glittering stream of all morrows doth roll,     [151]
 Cry good and past-good and most heavenly morrow, lord Sun.
 O Artisan born in the purple, -- Workman Heat, --
 Parter of passionate atoms that travail to meet
@@ -3766,7 +3321,6 @@ King in the blouse of flame, that loiterest o'er
 The idle skies yet laborest fast evermore, --
 Thou, in the fine forge-thunder, thou, in the beat
 Of the heart of a man, thou Motive, -- Laborer Heat:
-Yea, Artist, thou, of whose art yon sea's all news,                   [161]
 With his inshore greens and manifold mid-sea blues,
 Pearl-glint, shell-tint, ancientest perfectest hues
 Ever shaming the maidens, -- lily and rose
@@ -3776,7 +3330,6 @@ It is thine, it is thine:
 Thou chemist of storms, whether driving the winds a-swirl
 Or a-flicker the subtiler essences polar that whirl
 In the magnet earth, -- yea, thou with a storm for a heart,
-Rent with debate, many-spotted with question, part                    [171]
 From part oft sundered, yet ever a globed light,
 Yet ever the artist, ever more large and bright
 Than the eye of a man may avail of: --  manifold One,
@@ -3786,7 +3339,6 @@ The worker must pass to his work in the terrible town:
 But I fear not, nay, and I fear not the thing to be done;
 I am strong with the strength of my lord the Sun:
 How dark, how dark soever the race that must needs be run,
-I am lit with the Sun.                                    [181]
 Oh, never the mast-high run of the seas
 Of traffic shall hide thee,
 Never the hell-colored smoke of the factories
@@ -3796,7 +3348,6 @@ Hide thee,
 And ever my heart through the night shall with knowledge abide thee,
 And ever by day shall my spirit, as one that hath tried thee,
 Labor, at leisure, in art, -- till yonder beside thee
-My soul shall float, friend Sun,                                  [191]
 The day being done.
 ____
 Baltimore, December, 1880.
@@ -3804,18 +3355,14 @@ Notes:  Sunrise
 In the words of Mrs. Lanier, "`Sunrise', Mr. Lanier's latest completed poem,
 was written while his sun of life seemed fairly at the setting,
 and the hand which first pencilled its lines had not strength
-to carry nourishment to the lips."  See `Introduction', p. xviii [Part I].
 Lanier has two other poems on the same theme, both short:
 `A Sunrise Song' and `Between Dawn and Sunrise' (entered under `Marsh Hymns').
-As already pointed out (`Introduction', pp. xxxi [Part III], xlvii [Part IV]),
 `Sunrise' shows in a powerful way the delicacy and the comprehensiveness
 of Lanier's love for nature.  True, as I have elsewhere stated
-(`Introduction', p. xlvi [Part IV]), the poem has some serious limitations,
 more I think than has `The Marshes of Glynn'; but, despite its shortcomings,
 `Sunrise' is from an absolute stand-point a great poem;
 while, if we consider the circumstances under which it was produced,
 it is, in the words of Professor Kent, "a world-marvel".
-Aside from the numerous unapproachable snatches in Shakespeare,*
 I know of nothing on the subject in English literature
 comparable to `Sunrise'.  Mr. W. W. Story's `Sunrise' is perhaps
 the closest parallel, and yet it is far inferior to Lanier's,
@@ -3826,7 +3373,6 @@ Willis, etc.  I may add that an interesting, though superficial article
 on `The Poetry of Sunrise and Sunset' may be found in
 `Chambers's Edinburgh Journal', 22, 234, October 7, 1854.
 --
-* Among others I may cite the following passages:
 "Hark! hark! the lark at heaven's gate sings,"
 in `Cymbeline', 2, 3;
 "But look the morn in russet mantle clad
@@ -3971,8 +3517,6 @@ Stedman (E. C.) and Hutchinson (Ellen M.):  `A Library of American Literature'
 (New York, 1891) gives (vol. x., pp. 145-151) `The Marshes of Glynn',
 `Song of the Chattahoochee', `The Mocking-bird', `The Revenge of Hamish',
 `Night and Day', and a portrait.
-VI.  Criticisms* of Lanier's Life and Works
-* Unless the title of the criticism is given, the article treats
 Lanier's life and works in general.  Except in special cases
 no account is made of articles in the daily papers. --  For brevity's sake
 I cite under this head the music composed for several of Lanier's poems.
@@ -4129,8 +3673,6 @@ vol. 2. 669-723, has several letters from B. T. to S. L.
 Thayer, W. R.:  `The Independent' (New York), 1883; March, 1884;
 June 12, 1884; December 18, 1884; 1886:  `Stedman's Poets of America'.
 Thayer, W. R.:  `The American' (Phila.) December 20, 1884; February 18, 1888.
-Thayer, W. R. (ed.):  `Letters of Sidney Lanier' [to Mr. and Mrs.
-Gibson Peacock], `The Atlantic Monthly' (Boston) 74. 14-28, 181-193,
 July and August, 1894.
 Tolman, A. H.:  `Lanier's Science of English Verse', in Gilman's `Memorial',
 pp. 37-45.
@@ -4207,16 +3749,12 @@ as a pointer to other materials.)
 Centennial Edition of the Works of Sidney Lanier (in 10 volumes),
 ed. Charles R. Anderson and others (Baltimore:  Johns Hopkins Press, 1945).
 Flute Concerto of Sidney Lanier, by Myrtle Whittemore
-(New York:  Pageant Press, 1953). *
 The Life of Sidney Lanier, by Lincoln Lorenz (New York:  Coward-McCann, 1935).
 A Living Minstrelsy:  The Poetry and Music of Sidney Lanier,
-by Jane S. Gabin (Macon, Ga.:  Mercer University Press, 1985). *
 Sidney Lanier, by Jack De Bellis (New York:  Twayne Publishers, 1972).
 Sidney Lanier, by Edwin Mims (Boston & New York:  Houghton, Mifflin & Co.,
 Sidney Lanier:  A Biographical and Critical Study, by Aubrey Harrison Starke
-(Chapel Hill:  University of North Carolina Press, 1933). *
 Sidney Lanier, Poet and Prosodist, by Richard Webb
-(Athens:  University of Georgia Press, 1941). *
 Sidney Lanier:  The Man, the Poet, the Critic, by Edd Winfield Parks
 (Athens:  University of Georgia Press, 1969).
 Letters of Sidney Lanier, Selections from His Correspondence, 1866-1881,
@@ -4226,7 +3764,6 @@ Letters of Sidney Lanier to Col. John G. James, ed. Margaret Lee Wiley
 Some Reminiscences and Early Letters of Sidney Lanier,
 ed. George Herbert Clarke (Macon, Ga.:  Burke, 1907).
 --
-* According to Mrs. Oliver at the Middle Georgia Historical Society,
 in Macon, Ga., patrons express special interest in these works.
 --
 The Johns Hopkins University has a large collection of Lanier materials.
@@ -4276,7 +3813,6 @@ Richly expending thy much-bruise/d heart
 I speak for each no-tongue/d tree
 I'm gwine to stand stiff-legged for de Lord dis blesse\d day.
 `Yes,' I rejoined, `a difference toto c(oe)lo,' whereat he laughed again,
-Superb and sole, upon a plume/d spray                    [1]
 All instances of Cyclop(ae)dia
 On the sense, entrance/d, flinging
 (Ae)olian

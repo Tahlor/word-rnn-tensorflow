@@ -1,5 +1,3 @@
-Produced by David Starner and the Online Distributed
-Proofreading Team at http://www.pgdp.net
 +--------------------------------------------------------+
 |                                                        |
 | Small discrepancies in punctuation between the Table   |
@@ -13,7 +11,6 @@ Proofreading Team at http://www.pgdp.net
 | Table of Contents, but is titled "Love's constancy"    |
 | on page 95.                                            |
 +--------------------------------------------------------+
-_[Illustration]_
 Editor of "The Bibelots"
 The spirit of reform which was developed during the early part of the
 sixteenth century brought about a desire on the part of young men of
@@ -48,7 +45,6 @@ his "Miscellany" in 1557. It is to this work, and to Richard Edwards'
 the best poetical literature of the sixteenth century has come down to
 us. The first-named passed through eight editions during thirty years:
 the last issue being dated 1587.
-From the amatory verses produced by seventy-one writers during the reign
 of Henry the Eighth and down to those of the early Georges one hundred
 and thirteen appear in this love anthology. The limitation of space
 prevents further biographical particulars being given than the years of
@@ -63,43 +59,19 @@ authors who have been requisitioned for the purpose of this volume of
 "Tudor and Stuart Love Songs."
 Page
 Sir Thomas Wyatt (1503-1542).
-The lost heart                                 1
-The lover's appeal                             2
 Henry Howard, Earl of Surrey (1517?-1547).
-A sonnet--"Love that liveth," etc.             3
-A vow to love faithfully                       4
 Anon., _circa_ 1530.
-My sweet sweeting                              5
 George Turberville (1540?-1610?).
-The lover to his lady                          6
-Master George: his sonnet                      7
-Turberville's answer and distich               8
 Edward Vere, Earl of Oxford (1550-1604).
-The shepherd's commendation of his nymph       9
-A renunciation                                11
 Barnaby Googe (?) (1535?-1594).
-The complaint of Harpalus                     12
 George Gascoigne (1525-1577).
-A strange passion of a lover                  14
 Sir Edward Dyer (   -1607).
-To Phyllis, the fair shepherdess              16
 George Peele (1558?-1596-1597?).
-The enamoured shepherd                        17
 Sir Walter Raleigh (1552?-1618).
-His love admits no rival                      18
-The shepherd's description of love            20
-The shepherdess' reply                        22
 Fulke Greville, Lord Brooke (1554-1628).
-Love for love                                 24
 John Lyly (1554?-1606).
-Cupid and Campaspe: Apelles' song             26
 Sir Philip Sidney (1554-1586).
-A ditty--"My true love," etc.                 27
-Love is dead                                  28
-He that loves                                 30
 Thomas Lodge (1558?-1625).
-Love's wantonness                             31
-Rosaline                                      32
 Thomas Watson (1557?-1592?).
 The May Queen                                 34
 Nicholas Breton (1545?-1626?).
@@ -473,7 +445,6 @@ Mine eye is builded all on trust,
 And yet mistrust breeds mine annoy.
 I live and lack, I lack and have;
 I have and miss the thing I crave.
-*       *       *       *       *
 Then like the lark that passed the night
 In heavy sleep with cares oppressed;
 Yet when she spies the pleasant light,
@@ -2039,7 +2010,6 @@ When I lie tangled in her hair,
 And fetter'd to her eye--
 The birds that wanton in the air,
 Know no such liberty.
-*       *       *       *       *
 Stone walls do not a prison make,
 Nor iron bars a cage;
 Minds innocent and quiet take
@@ -2292,7 +2262,6 @@ And who the happy pairs
 Whose yielding hearts, and joining hands,
 Find blessings twisted with their bands
 To soften all their cares.
-*       *       *       *       *
 Two kindest souls alone must meet,
 'Tis friendship makes the bondage sweet,
 And feeds their mutual loves:
@@ -2527,3 +2496,4 @@ Shakespeare, William. 54.
 Sherburne, Sir Edmund. 111.
 Sidney, Sir Philip. 27.
 Southwell, Robert. 43.
+Sta

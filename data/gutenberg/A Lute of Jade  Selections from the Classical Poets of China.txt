@@ -1,36 +1,22 @@
-ade, by L. Cranmer-Byng
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
 further information is included below.  We need your donations.
 A Lute of Jade/Being Selections from the Classical Poets of China
 by L. Cranmer-Byng
-January, 1996  [Etext #390]
-entered/proofed by A. Light, of Waxhaw <alight@mercury.interpath.net>
-proofed by L. Bowser <bowser@mars.senecac.on.ca>
-**This file should be named 390.txt or 390.zip**
 We are now trying to release all our books one month in advance
 of the official release dates, for time for better editing.
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
 in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
 We produce about two million dollars for each hour we work.  The
 fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar, then we produce 2
 million dollars per hour this year we, will have to do four text
 files per month:  thus upping our productivity from one million.
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
 This is ten thousand titles each to one hundred million readers,
 which is 10% of the expected number of computer users by the end
 of the year 2001.
@@ -39,31 +25,19 @@ tax deductible to the extent allowable by law ("IBC" is Illinois
 Benedictine College).  (Subscriptions to our paper newsletter go
 to IBC, too)
 For these and other matters, please mail to:
-P. O. Box  2782
-Champaign, IL 61825
 When all other email fails try our Michael S. Hart, Executive
 Director:
-hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
 We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
-******
 If you have an FTP program (or emulator), please
 ftp mrcnext.cso.uiuc.edu
 login:  anonymous
 password:  your@login
-cd etext/etext91
-or cd etext92
-or cd etext93 [for new books]  [now also in cd etext/etext93]
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
 get INDEX100.GUT
 get INDEX200.GUT
 for a list of books
 and
 get NEW.GUT for general information
 and
-mget GUT* for newsletters.
 (Three Pages)
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
@@ -80,23 +54,19 @@ you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
 tm etexts, is a "public domain" work distributed by Professor
 Illinois Benedictine College (the "Project").  Among other
-things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
 medium they may be on may contain "Defects".  Among other
 things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
 But for the "Right of Replacement or Refund" described below,
 liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -114,7 +84,6 @@ You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-or addition to the etext, or [3] any Defect.
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
 or:
@@ -124,9 +93,7 @@ if you wish, distribute this etext in machine readable
 binary, compressed, mark-up, or proprietary form,
 including any form resulting from conversion by word pro-
 cessing or hypertext software, but only so long as
-does *not* contain characters other than those
 intended by the author of the work, although tilde
-(~), asterisk (*) and underline (_) characters may
 be used to convey punctuation intended by the
 author, and additional characters may be used to
 indicate hypertext links; OR
@@ -145,12 +112,9 @@ date you prepare (or were legally required to prepare)
 your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
 Association / Illinois Benedictine College".
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 A Lute of Jade:  Being Selections from the Classical Poets of China
 by L. Cranmer-Byng
-Some slight errors have been corrected.]
 including many accent marks (and some strange ones),
 please refer to the following chart to see how these words
 originally appeared, and how they are presented in this text.
@@ -160,21 +124,17 @@ Names of People
 ---------------
 "  "           ^                 ^                "
 Ch`u Yuan        Meng Hao-jan    Ts`en-Ts`an    Po Chu-i
-"                     ^              *                 *
 Ssu-K`ung T`u    T`ai Chen       Lao Tzu        Chuang Tzu
 Names of Places
 ---------------
-*                 "
 Ssuch`uan        Ch`u
 The accent marked by an asterisk resembles the lower half of a circle.
 It is noted in the appendix that Mr. Lionel Giles is responsible
-for these transliterations.]
 Please note that not only is the system of transliteration out of date
 (though perhaps still easier to use than the current standard),
 but other things may be out of date as well.  The study of Chinese literature
 has come a long way from the time when Mr. Cranmer-Byng had to include
 books in four languages to come up with a short bibliography.
-Still, this book may serve well as an introduction to the subject.]
 To Professor Herbert Giles
 A Lute of Jade
 Being Selections from the Classical Poets of China
@@ -392,7 +352,6 @@ I want not power:  heaven is beyond my hopes.  Then let me stroll
 through the bright hours as they pass, in my garden among my flowers,
 or I will mount the hill and sing my song, or weave my verse
 beside the limpid brook.  Thus will I work out my allotted span,
-content with the appointments of Fate, my spirit free from care."*
 For him enjoyment and scarcely happiness is the thing.
 And although many of his word-pictures are not lacking in charm or colour,
 they have but little significance beyond them.  They are essentially
@@ -401,7 +360,6 @@ have due regard for them, for they only miss greatness by a little,
 and remind us of the faint threnodies that stir in the throats
 of bird musicians upon the dawn.
 --
-*  Giles, `Chinese Literature', p. 130.
 --
 The Poets of the T`ang Dynasty
 At last the golden age of Chinese poetry is at hand.
@@ -485,14 +443,12 @@ in whose immortality, like flies in amber, they are caught.
 A Poet's Emperor
 In the long list of imperial patrons the name of the Emperor Ming Huang
 of the T`ang dynasty holds the foremost place.  History alone would not have
-immortalized his memory.*  But romance is nearer to this Emperor's life
 than history.  He was not a great ruler, but an artist stifled in ceremony
 and lost in statecraft.  Yet what Emperor could escape immortality
 who had Tu Fu and Li Po for contemporaries, Ch`ang-an for his capital,
 and T`ai Chen of a thousand songs to wife?  Poet and sportsman,
 mystic and man of this world, a great polo player, and the passionate lover
 of one beautiful woman whose ill-starred fate inspired Po Chu-i,
-the tenderest of all their singers,** Ming Huang is more to literature
 than to history.  Of his life and times the poets are faithful recorders.
 Tu Fu in `The Old Man of Shao-Ling' leaves us this memory of his peaceful days
 passed in the capital, before the ambition of the Turkic general An Lu-shan
@@ -500,7 +456,6 @@ had driven his master into exile in far Ssuch`uan.  The poet himself
 is speaking in the character of a lonely old man, wandering slowly
 down the winding banks of the river Kio.
 --
-**  See <Po Chu-i> and <The Never-ending Wrong>.
 --
 "`Alas!' he murmured, `they are closed, the thousand palace doors,
 mirrored in clear cool waters.  The young willows and the rushes renewing
@@ -611,7 +566,6 @@ the rhythm of infinite sorrow, one to the rhythm of infinite joy.
 Neither knows anything of reward at the hands of men or angels.
 The teaching of the Semitic religions, "Do good to others that you may benefit
 at their hands," does not occur in their pages, nor any hints
-of sensuous delights hereafter.*  In all the great Buddhist poems,
 of which the Shu Hsing Tsan Ching is the best example,
 there is the same deep sadness, the haunting sorrow of doom.
 To look on beautiful things is only to feel more poignantly
@@ -620,7 +574,6 @@ The form of desire hides within it the seeds of decay.  In this epic
 of which I have spoken, Buddha sees the lovely and virtuous Lady Aruna
 coming to greet him, says to his disciples:
 --
-*  This is a simplistic and inaccurate picture of religious teachings.
 Mr. Cranmer-Byng, like many cross-cultural scholars,
 seems to have fallen into the trap of seeing only noble things afar,
 and only ignoble things at hand.  As counter-examples, there are
@@ -643,9 +596,7 @@ should you suspect her studied, amorous beauty! when she displays
 her dainty outline, her richly ornamented form, and chatters gaily
 with the foolish man!  Ah, then! what perturbation and what evil thoughts,
 not seeing underneath the sorrows of impermanence, the impurity,
-the unreality!  Considering these as the reality, all desires die out."*
 --
-*  `Sacred Books of the East', vol. 19 pp. 253-4.
 --
 How different is this meeting of beauty and Buddhism from the meeting
 of Ssu-K`ung T`u, the great Taoist poet, with an unknown girl!
@@ -660,14 +611,12 @@ Darting orioles collect in groups.
 Eagerly I press forward
 As the reality grows upon me. . . .
 'Tis the eternal theme,
-Which, though old, is ever new.*
 Here is reality emerging from the unreal, spring renewing, love and beauty
 triumphant over death and decay.  The girl is the central type and symbol.
 From her laughing eyes a thousand dead women look out once more on spring,
 through her poets find their inspiration.  Beauty is the key that unlocks
 the secrets of the frozen world, and brings the dead to life again.
 --
-*  `History of Chinese Literature', by Professor Herbert Giles, p. 180.
 --
 The Symbol of Decay!
 The Symbol of Immortality!
@@ -919,14 +868,12 @@ And the dead leaves' 'wildering flight;
 And the mantle of Autumn lies
 On the wanderer's soul to-night!
 Desolation
-There was a King of Liang* -- a king of wondrous might --
 Who kept an open palace, where music charmed the night --
 Since he was Lord of Liang a thousand years have flown,
 And of the towers he builded yon ruin stands alone.
 There reigns a heavy silence; gaunt weeds through windows pry,
 And down the streets of Liang old echoes, wailing, die.
 --
-*  Strictly speaking, the pronunciation of all words such as Liang,
 Kiang, etc., is nearer one syllable than two.  For purposes of euphony,
 however, without which the lines would be harsh and unpoetical,
 I have invariably made two syllables of them.
@@ -1138,7 +1085,6 @@ Each calls his latest song to mind;
 Then white sails taper down the stream,
 While lingering thoughts still look behind.
 The Recruiting Sergeant
-At sunset in the village of Che-Kao*
 I sought for shelter; on my heels there trod
 A grim recruiting sergeant, of the kind
 That seize their prey by night.  A poor old man
@@ -1173,7 +1119,6 @@ At the break
 Of dawn I hurried on my road, and left
 None but an old and broken man behind.
 --
-*  All words ending in `ao' are pronounced `ow', as in English
 `vow', `allow', etc.
 --
 Chants of Autumn
@@ -1278,7 +1223,6 @@ Now leans she from the tower in moonlight pale.
 A flower-girt branch grows sweeter from the dew.
 A spirit of snow and rain unheeded calls.
 Who wakes to memory in these palace walls?
-Fei-yen!* -- but in the robes an Empress knew.
 The most renowned of blossoms, most divine
 Of those whose conquering glances overthrow
 Cities and kingdoms, for his sake combine
@@ -1288,7 +1232,6 @@ Blot out the garden?  She shall still recline
 Upon the scented balustrade and glow
 With spring that thrills her warm blood into wine.
 --
-*  A delicate compliment to the beautiful T`ai Chen,
 of which the meaning is that, as the Emperor Yang-ti of the Sui dynasty
 elevated his mistress Fei-yen to share with him the throne,
 so shall T`ai Chen become the Empress of Ming Huang.
@@ -1349,9 +1292,7 @@ We drink deep draughts unto The Lady Moon.
 Then as without the touch of verse divine
 There is no outlet for the pent-up soul,
 'Twas ruled that he who quaffed no fancy's bowl
-Should drain the "Golden Valley"* cups of wine.
 --
-*  i.e. drink three cups of wine, the "Golden Valley" being the name
 of a garden, the owner of which enforced this penalty
 among his boon companions (`Gems of Chinese Literature', p. 113).
 --
@@ -1705,7 +1646,6 @@ So the bald narrative resumes:
 As the Emperor was followed by a numerous suite, and because
 time was lacking, the arrangements for so long a journey
 were found to be insufficient.  On their arrival at Ma-wei
-both officers and men murmured loudly against Yang Kuo-chung*,
 accusing him of having brought all the present evils upon them.
 The ambassador of the King of Tibet, followed by twenty retainers,
 seeing the Prime Minister pass, stopped him, and asked for provisions.
@@ -1727,7 +1667,6 @@ from the dangers of (another) revolution.  The Emperor,
 yielding to political necessity, gave her into the hands of the envoy
 with the order that she should be strangled.
 --
-*  Minister of State, brother to T`ai Chen.
 --
 Ennui
 Tired of pale languors and the painted smile,
@@ -1767,7 +1706,6 @@ Moonlit hours go luting by,
 She who leads the flight of Spring
 Leads the midnight revelry.
 Flawless beauties, thousands three,
-Deck the Imperial harem,*
 Yet the monarch's eyes may see
 Only one, and one supreme.
 Goddess in a golden hall,
@@ -1795,7 +1733,6 @@ Loud the fish-skin war-drums roar;
 Cease the plaintive "rainbow skirt":
 Death is drumming at the door.
 --
-*  Pronounced `hareem'.
 --
 Flight
 Clouds upon clouds of dust enveloping
@@ -1861,9 +1798,7 @@ In autumn rains when the wut`ung leaves must fall?
 South of the western palace many trees
 Shower their dead leaves upon the terraces,
 And not a hand to stir their crimson pall.
-Ye minstrels of the Garden of the Pear,*
 Grief with the touch of age has blanched your hair.
-Ye guardians of the Pepper Chamber,** now
 No longer young to him, the firefly flits
 Through the black hall where, lost to love, he sits,
 Folding the veil of sorrows round his brow,
@@ -1880,9 +1815,7 @@ Parted by life and death; the ebb and flow
 Of night and day over his spirit go;
 He hunts her face in dreams, and finds despair.
 --
-*  The Pear Garden was a college of music founded by Ming Huang
 for the purpose of training the youth of both sexes.
-**  The women's part of the palace.
 --
 Spirit-Land
 A priest of Tao, one of the Hung-tu school,
@@ -1896,7 +1829,6 @@ Low down to earth, he, seeking everywhere,
 Floats on the far empyrean, and below
 The yellow springs; but nowhere in great space
 Can he find aught of her.  At length he hears
-An old-world tale:  an Island of the Blest* --
 So runs the legend -- in mid-ocean lies
 In realms of blue vacuity, too faint
 To be described; there gaily coloured towers
@@ -1954,7 +1886,6 @@ Long lasting as they are.  But this great wrong
 Shall stretch from end to end the universe,
 And shine beyond the ruin of the stars."
 --
-*  The fabled Island of P`eng-lai.
 --
 The River and the Leaf
 Into the night the sounds of luting flow;
@@ -2021,7 +1952,6 @@ A network handkerchief contains no tear.
 The rich red crops no aftermath await.
 Rest on a screen, and you will fall, I fear.
 Peaceful Old Age
-Chuang Tzu said:  "Tao* gives me this toil in manhood,
 this repose in old age, this rest in death."
 Swiftly and soon the golden sun goes down,
 The blue sky wells afar into the night.
@@ -2046,7 +1976,6 @@ Of little moments are the days to spare.
 Thus strong in faith I wait, and long to be
 One with the pulsings of Eternity.
 --
-*  Literally, "The Way".
 --
 Sleeplessness
 I cannot rest when the cool is gone from June,
@@ -2277,9 +2206,7 @@ And the wind blows ceaseless around,
 Beyond the range of conceptions
 Let us gain the Centre,
 And there hold fast without violence,
-Fed from an inexhaustible supply.*
 --
-*  `Chinese Literature', p. 179.
 --
 With such a philosophy there are infinite possibilities.
 The poet is an occultist in the truest sense of the word.

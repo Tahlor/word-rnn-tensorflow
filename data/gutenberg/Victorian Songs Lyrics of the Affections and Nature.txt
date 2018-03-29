@@ -1,7 +1,4 @@
-Produced by Louise Hope, David Starner and the Online
-Distributed Proofreading Team at http://www.pgdp.net. (This
 file includes images generously made available by The
-Internet Archive.)
 that works best on your text reader.
 --In the Latin-1 version, names like "Aide" and words like "naivete"
 have accents, and "ae" is a single letter. If any part of this paragraph
@@ -9,7 +6,6 @@ displays as garbage, try changing your text reader's "character set" or
 "file encoding". If that doesn't work, proceed to:
 --The ASCII-7 or rock-bottom version. All essential text will still be
 there; it just won't be as pretty.
-Spacing of contractions such as _I 've_ follows the original.]
 Victorian Songs
 "'Let some one sing to us, lightlier move
 The minutes fledged with music'."
@@ -21,106 +17,14 @@ by Edmund H Garrett
 with an Introduction by
 Edmund Gosse
 Little Brown and Company
-Boston 1895
-_Copyright, 1895._
 University Press:
 John Wilson and Son, Cambridge, U.S.A.
 Some printings of the book have a two-page Editor's Note before the
 Contents, acknowledging the "publishers and authors who have given
 permission for the use of many of the songs included in this volume".
-It has been omitted from this e-text.]
 Where are the songs I used to know?
 Christina Rossetti.
 AIDE, HAMILTON (1830).                                    Page
-Remember or Forget                                         3
-Oh, Let Me Dream                                           6
-Love, the Pilgrim                                          7
-Lovely Mary Donnelly                                       9
-Song                                                      13
-Serenade                                                  14
-Across the Sea                                            16
-Serenade                                                  18
-A Love Song of Henri Quatre                               20
-No and Yes                                                22
-At Altenahr                                               23
-Marit                                                     24
-A Night in June                                           26
-Dream-Pedlary                                             30
-Song from the Ship                                        33
-Song                                                      34
-Song                                                      35
-Song, by Two Voices                                       36
-Song                                                      38
-Cradle Song                                               39
-My Roses blossom the Whole Year Round                     41
-Cradle Song                                               42
-Love's Meinie                                             43
-The Night has a Thousand Eyes                             44
-A Lost Voice                                              45
-Serenade                                                  46
-Song                                                      48
-To F. C.                                                  49
-A Game of Chess                                           50
-Multum in Parvo                                           52
-Violets at Home                                           53
-My Thrush                                                 54
-Too Late                                                  56
-A Silly Song                                              58
-May Day                                                   60
-I 've been Roaming                                        62
-Sylvia's Song                                             63
-Serenade                                                  64
-A Winter Sketch                                           66
-The Second Madrigal                                       69
-Song                                                      70
-Song                                                      72
-Song                                                      74
-The Ivy Green                                             75
-The Ladies of St. James's                                 77
-The Milkmaid                                              81
-A Glee for Winter                                         84
-A Kiss                                                    86
-Song                                                      88
-Lament of the Irish Emigrant                              90
-Winds To-day are Large and Free                           94
-Let us Wreathe the Mighty Cup                             96
-Where Winds abound                                        97
-A Song                                                    98
-Song                                                      99
-Song for the Lute                                        101
-Ballad                                                   102
-Song                                                     104
-I Remember, I Remember                                   106
-Ballad                                                   108
-Song                                                     110
-The Brookside                                            111
-The Venetian Serenade                                    113
-From Love and Nature                                     115
-The Long White Seam                                      116
-Love                                                     118
-Sweet is Childhood                                       120
-Airly Beacon                                             121
-The Sands of Dee                                         122
-Three Fishers went Sailing                               124
-A Farewell                                               126
-Rose Aylmer                                              127
-Rubies                                                   128
-The Fault is not Mine                                    129
-Under the Lindens                                        130
-Sixteen                                                  131
-Ianthe                                                   132
-One Lovely Name                                          133
-Forsaken                                                 133
-A Garden Lyric                                           134
-The Cuckoo                                               137
-Gertrude's Necklace                                      139
-The Angel's Whisper                                      141
-What will you do, Love?                                  143
-I Love my Love                                           145
-O Ye Tears!                                              147
-The Bells of Shandon                                     149
-Song                                                     153
-A Love Symphony                                          156
 I made Another Garden                                    158
 The Lost Chord                                           160
 Sent to Heaven                                           162
@@ -1789,7 +1693,6 @@ Wheresoe'er thy steps are roving,
 Night or day, by land or sea,
 Think of her, whose life of loving
 Is but one long thought of thee!
-then at sea, in 1833, and set to music by herself.]
 I 'm sitting on the stile, Mary,
 Where we sat, side by side,
 That bright May morning long ago
@@ -2098,7 +2001,6 @@ Has accosted the ear of each passionate maid,
 She may open the window that looks on the stream,--
 She may smile on her pillow and blend it in dream;
 Half in words, half in music, it pierces the gloom,
-"I am coming--Stali[B]--but you know not for whom!
 Stali--not for whom!"
 Now the tones become clearer,--you hear more and more
 How the water divided returns on the oar,--
@@ -2115,7 +2017,6 @@ May, the next time you listen, your fancy be true,
 "I am coming--Sciar--and for you and to you!
 Sciar--and to you!"
 indicating the direction they are rowing. "Sciar" is to stop the
-boat.]
 The Sun came through the frosty mist
 Most like a dead-white moon;
 Thy soothing tones I seemed to list,
@@ -2456,7 +2357,6 @@ And the wife wept with joy her babe's father to see;
 And closely caressing
 Her child, with a blessing,
 Said, "I knew that the angels were whispering with thee!"
-that when a child smiles in its sleep it is "talking with angels."]
 "What will you do, love, when I am going
 With white sail flowing,
 The seas beyond--

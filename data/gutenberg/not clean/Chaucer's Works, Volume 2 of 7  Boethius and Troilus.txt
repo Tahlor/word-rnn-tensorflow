@@ -1,0 +1,1755 @@
+Transcriber's note: Text enclosed by underscores is in italics (_italics_).
+superscription: a single character following the carat is superscripted
+(example: 4^o).
+Glossary covering the two texts in this volume. See:
+'Adam scriveyn, if ever it thee befalle
+Boece or Troilus to wryten newe,
+Under thy lokkes thou most have the scalle,
+But after my making thou wryte trewe.'
+_Chaucers Wordes unto Adam._
+Oxford
+Oxford
+INTRODUCTION TO BOETHIUS.--§ 1. Date of the Work. § 2. Boethius.
+§ 3. The Consolation of Philosophy; and fate of its author. § 4.
+Jean de Meun. § 5. References by Boethius to current events.
+§ 6. Cassiodorus. § 7. Form of the Treatise. § 8. Brief sketch
+of its general contents. § 9. Early translations. § 10. Translation
+by Ælfred. § 11. MS. copy, with A.S. glosses. § 12. Chaucer's
+translation mentioned. § 13. Walton's verse translation. § 14.
+Specimen of the same. § 15. His translation of Book ii. met. 5.
+§ 16. M. E. prose translation; and others. § 17. Chaucer's
+translation and le Roman de la Rose. § 18. Chaucer's scholarship.
+§ 19. Chaucer's prose. § 20. Some of his mistakes. § 21. Other
+variations considered. § 22. Imitations of Boethius in Chaucer's
+works. § 23. Comparison with 'Boece' of other works by
+Chaucer. § 24. Chronology of Chaucer's works, as illustrated by
+'Boece.' § 25. The Manuscripts. § 26. The Printed Editions.
+§ 27. The Present Edition                                             vii
+INTRODUCTION TO TROILUS.--§ 1. Date of the Work. § 2. Sources of
+the Work; Boccaccio's Filostrato. §§ 3, 4. Other sources.
+§ 5. Chaucer's share in it. § 6. Vagueness of reference to sources.
+§ 7. Medieval note-books. § 8. Lollius. § 9. Guido delle
+Colonne. § 10. 'Trophee.' §§ 11, 12. The same continued.
+§§ 13-17. Passages from Guido. §§ 18, 19. Dares, Dictys, and
+Benôit de Ste-More. § 20. The names; Troilus, &c. § 21.
+Roman de la Rose. § 22. Gest Historiale. § 23. Lydgate's
+Siege of Troye. § 24. Henrysoun's Testament of Criseyde. § 25.
+The MSS. § 26. The Editions. § 27. The Present Edition.
+§ 28. Deficient lines. § 29. Proverbs. § 30. Kinaston's Latin
+translation. § 31. Sidnam's translation                              xlix
+In my introductory remarks to the Legend of Good Women, I refer to the
+close connection that is easily seen to subsist between Chaucer's
+translation of Boethius and his Troilus and Criseyde. All critics seem now
+to agree in placing these two works in close conjunction, and in making the
+prose work somewhat the earlier of the two; though it is not at all
+unlikely that, for a short time, both works were in hand together. It is
+also clear that they were completed before the author commenced the House
+of Fame, the date of which is, almost certainly, about 1383-4. Dr. Koch, in
+his Essay on the Chronology of Chaucer's Writings, proposes to date
+'Boethius' about 1377-8, and 'Troilus' about 1380-1. It is sufficient to be
+able to infer, as we can with tolerable certainty, that these two works
+belong to the period between 1377 and 1383. And we may also feel sure that
+the well-known lines to Adam, beginning--
+'Adam scriveyn, if ever it thee befalle
+_Boece_ or _Troilus_ to wryten newe'--
+were composed at the time when the fair copy of Troilus had just been
+finished, and may be dated, without fear of mistake, in 1381-3. It is not
+likely that we shall be able to determine these dates within closer limits;
+nor is it at all necessary that we should be able to do so. A few further
+remarks upon this subject are given below.
+Before proceeding to remark upon Chaucer's translation of Boethius, or (as
+he calls him) Boece, it is necessary to say a few words as to the original
+work, and its author.
+Anicius Manlius Torquatus Severinus Boethius, the most learned philosopher
+of his time, was born at Rome about A. D. 480, and was put to death A. D.
+the rare privilege of being able to read the Greek philosophers in their
+own tongue. In the particular treatise which here most concerns us, his
+Greek quotations are mostly taken from Plato, and there are a few
+references to Aristotle, Homer, and to the _Andromache_ of Euripides. His
+extant works shew that he was well acquainted with geometry, mechanics,
+astronomy, and music, as well as with logic and theology; and it is an
+interesting fact that an illustration of the way in which waves of sound
+are propagated through the air, introduced by Chaucer into his House of
+Fame, ll. 788-822, is almost certainly derived from the treatise of
+Boethius _De Musica_, as pointed out in the note upon that passage. At any
+rate, there is an unequivocal reference to 'the felinge' of Boece 'in
+musik' in the Nonnes Preestes Tale, B 4484.
+§ 3. The most important part of his political life was passed in the
+service of the celebrated Theodoric the Goth, who, after the defeat and
+death of Odoacer, A. D. 493, had made himself undisputed master of Italy,
+and had fixed the seat of his government in Ravenna. The usual account,
+that Boethius was twice married, is now discredited, there being no clear
+evidence with respect to Elpis, the name assigned to his supposed first
+wife; but it is certain that he married Rusticiana, the daughter of the
+patrician Symmachus, a man of great influence and probity, and much
+respected, who had been consul under Odoacer in 485. Boethius had the
+singular felicity of seeing his two sons, Boethius and Symmachus, raised to
+the consular dignity on the same day, in 522. After many years spent in
+indefatigable study and great public usefulness, he fell under the
+suspicion of Theodoric; and, notwithstanding an indignant denial of his
+supposed crimes, was hurried away to Pavia, where he was imprisoned in a
+tower, and denied the means of justifying his conduct. The rest must be
+'While Boethius, oppressed with fetters, expected each moment the sentence
+or the stroke of death, he composed in the tower of Pavia the "Consolation
+of Philosophy"; a golden volume, not unworthy of the leisure of Plato or
+Tully, but which claims incomparable merit from the barbarism of the times
+long invoked at Rome and at Athens, now condescended to illumine his
+dungeon, to revive his courage, and to pour into his wounds her salutary
+balm. She taught him to compare his long prosperity and his recent
+Reason had informed him of the precarious condition of her gifts;
+without guilt; he might resign them without a sigh, and calmly disdain the
+impotent malice of his enemies, who had left him happiness, since they had
+generously attempted to reconcile the perfect attributes of the Deity with
+of consolation, so obvious, so vague, or so abstruse, are ineffectual to
+subdue the feelings of human nature. Yet the sense of misfortune may be
+diverted by the labour of thought; and the sage who could artfully combine,
+in the same work, the various riches of philosophy, poetry, and eloquence,
+must already have possessed the intrepid calmness which he affected to
+seek. Suspense, the worst of evils, was at length determined by the
+ministers of death, who executed, and perhaps exceeded, the inhuman mandate
+of Theodoric. A strong cord was fastened round the head of Boethius, and
+forcibly tightened till his eyes almost started from their sockets; and
+some mercy may be discovered in the milder torture of beating him with
+clubs till he expired. But his genius survived to diffuse a ray of
+knowledge over the darkest ages of the Latin world; the writings of the
+philosopher were translated by the most glorious of the English Kings, and
+the third emperor of the name of Otho removed to a more honourable tomb the
+bones of a catholic saint, who, from his Arian persecutors, had acquired
+the honours of martyrdom and the fame of miracles. In the last hours of
+Boethius, he derived some comfort from the safety of his two sons, of his
+wife, and of his father-in-law, the venerable Symmachus. But the grief of
+Symmachus was indiscreet, and perhaps disrespectful; he had presumed to
+lament, he might dare to revenge, the death of an injured friend. He was
+dragged in chains from Rome to the palace of Ravenna; and the suspicions of
+Theodoric could only be appeased by the blood of an innocent and aged
+senator.'
+This deed of injustice brought small profit to its perpetrator; for we read
+that Theodoric's own death took place shortly afterwards; and that, on his
+death-bed, 'he expressed in broken murmurs to his physician Elpidius, his
+deep repentance for the murders of Boethius and Symmachus.'
+§ 4. For further details, I beg leave to refer the reader to the essay on
+'Boethius' by H. F. Stewart, published by W. Blackwood and Sons, Edinburgh
+and London, in 1891. We are chiefly concerned here with the 'Consolation of
+Philosophy,' a work which enjoyed great popularity in the middle ages, and
+first influenced Chaucer indirectly, through the use of it made by Jean de
+Meun in the poem entitled Le Roman de la Rose, as well as directly, at a
+later period, through his own translation of it. Indeed, I have little
+doubt that Chaucer's attention was drawn to it when, somewhat early in
+life, he first perused with diligence that remarkable poem; and that it was
+from the following passage that he probably drew the inference that it
+might be well for him to translate the whole work:--
+'Ce puet l'en bien des clers enquerre
+Qui _Boëce de Confort_ lisent,
+Et les sentences qui là gisent,
+_Dont grans biens as gens laiz feroit
+Qui bien le lor translateroit_' (ll. 5052-6).
+I.e. in modern English:--'This can be easily ascertained from the learned
+men who read Boece on the Consolation of Philosophy, and the opinions which
+are found therein; as to which, any one _who would well translate it for
+them_ would confer much benefit on the unlearned folk':--a pretty strong
+§ 5. The chief events in the life of Boethius which are referred to in the
+present treatise are duly pointed out in the notes; and it may be well to
+bear in mind that, as to some of these, nothing further is known beyond
+what the author himself tells us. Most of the personal references occur in
+Book i. Prose 4, Book ii. Prose 3, and in Book iii. Prose 4. In the first
+of these passages, Boethius recalls the manner in which he withstood one
+Conigastus, because he oppressed the poor (l. 40); and how he defeated the
+iniquities of Triguilla, 'provost' (_præpositus_) of the royal household
+(l. 43). He takes credit for defending the people of Campania against a
+particularly obnoxious fiscal measure instituted by Theodoric, which was
+called 'coemption' (_coemptio_); (l. 59.) This Mr. Stewart describes as 'a
+fiscal measure which allowed the state to buy provisions for the army at
+something under market-price--which threatened to ruin the province.' He
+tells us that he rescued Decius Paulinus, who had been consul in 498, from
+the rapacity of the officers of the royal palace (l. 68); and that, in
+order to save Decius Albinus, who had been consul in 493, from wrongful
+punishment, he ran the risk of incurring the hate of the informer Cyprian
+(l. 75). In these ways, he had rendered himself odious to the court-party,
+whom he had declined to bribe (l. 79). His accusers were Basilius, who had
+been expelled from the king's service, and was impelled to accuse him by
+pressure of debt (l. 81); and Opilio and Gaudentius, who had been sentenced
+to exile by royal decree for their numberless frauds and crimes, but had
+escaped the sentence by taking sanctuary. 'And when,' as he tells us, 'the
+king discovered this evasion, he gave orders that, unless they quitted
+Ravenna by a given day, they should be branded on the forehead with a hot
+iron and driven out of the city. Nevertheless on that very day the
+information laid against me by these men was admitted' (ll. 89-94). He next
+alludes to some forged letters (l. 123), by means of which he had been
+accused of 'hoping for the freedom of Rome,' (which was of course
+interpreted to mean that he wished to deliver Rome from the tyranny of
+Theodoric). He then boldly declares that if he had had the opportunity of
+confronting his accusers, he would have answered in the words of Canius,
+when accused by Caligula of having been privy to a conspiracy against
+him--'If I had known it, thou shouldst never have known it' (ll. 126-135).
+This, by the way, was rather an imprudent expression, and probably told
+against him when his case was considered by Theodoric.
+He further refers to an incident that took place at Verona (l. 153), when
+the king, eager for a general slaughter of his enemies, endeavoured to
+extend to the whole body of the senate the charge of treason, of which
+Albinus had been accused; on which occasion, at great personal risk,
+Boethius had defended the senate against so sweeping an accusation.
+In Book ii. Prose 3, he refers to his former state of happiness and good
+fortune (l. 26), when he was blessed with rich and influential
+parents-in-law, with a beloved wife, and with two noble sons; in particular
+(l. 35), he speaks with justifiable pride of the day when his sons were
+both elected consuls together, and when, sitting in the Circus between
+them, he won general praise for his wit and eloquence.
+In Book iii. Prose 4, he declaims against Decoratus, with whom he refused
+to be associated in office, on account of his infamous character.
+§ 6. The chief source of further information about these circumstances is a
+collection of letters (Variæ Epistolæ) by Cassiodorus, a statesman who
+enjoyed the full confidence of Theodoric, and collected various
+state-papers under his direction. These tell us, in some measure, what can
+be said on the other side. Here Cyprian and his brother Opilio are spoken
+of with respect and honour; and the only Decoratus whose name appears is
+spoken of as a young man of great promise, who had won the king's sincere
+esteem. But when all has been said, the reader will most likely be inclined
+to think that, in cases of conflicting evidence, he would rather take the
+word of the noble Boethius than that of any of his opponents.
+§ 7. The treatise 'De Consolatione Philosophiæ' is written in the form of a
+discourse between himself and the personification of Philosophy, who
+appears to him in his prison, and endeavours to soothe and console him in
+his time of trial. It is divided (as in this volume) into five Books; and
+each Book is subdivided into chapters, entitled Metres and Proses, because,
+in the original, the alternate chapters are written in a metrical form, the
+metres employed being of various kinds. Thus Metre 1 of Book I is written
+in alternate hexameters and pentameters; while Metre 7 consists of very
+short lines, each consisting of a single dactyl and spondee. The Proses
+contain the main arguments; the Metres serve for embellishment and
+recreation.
+In some MSS. of Chaucer's translation, a few words of the original are
+quoted at the beginning of each Prose and Metre, and are duly printed in
+this edition, in a corrected form.
+§ 8. A very brief sketch of the general contents of the volume may be of
+some service.
+BOOK I. Boethius deplores his misfortunes (met. 1). Philosophy appears to
+him in a female form (pr. 2), and condoles with him in song (met. 2);
+after which she addresses him, telling him that she is willing to share
+his misfortunes (pr. 3). Boethius pours out his complaints, and
+vindicates his past conduct (pr. 4). Philosophy reminds him that he seeks
+a heavenly country (pr. 5). The world is not governed by chance (pr. 6).
+The book concludes with a lay of hope (met. 7).
+BOOK II. Philosophy enlarges on the wiles of Fortune (pr. 1), and
+addresses him in Fortune's name, asserting that her mutability is natural
+and to be expected (pr. 2). Adversity is transient (pr. 3), and Boethius
+has still much to be thankful for (pr. 4). Riches only bring anxieties,
+and cannot confer happiness (pr. 5); they were unknown in the Golden Age
+(met. 5). Neither does happiness consist in honours and power (pr. 6).
+The power of Nero only taught him cruelty (met. 6). Fame is but vanity
+(pr. 7), and is ended by death (met. 7). Adversity is beneficial (pr. 8).
+All things are bound together by the chain of Love (met. 8).
+BOOK III. Boethius begins to receive comfort (pr. 1). Philosophy
+discourses on the search for the Supreme Good (_summum bonum_; pr. 2).
+The laws of nature are immutable (met. 2). All men are engaged in the
+pursuit of happiness (pr. 3). Dignities properly appertain to virtue (pr.
+only true nobility is that of character (pr. 6). Happiness does not
+consist in corporeal pleasures (pr. 7); nor in bodily strength or beauty
+(pr. 8). Worldly bliss is insufficient and false; and in seeking true
+felicity, we must invoke God's aid (pr. 9). Boethius sings a hymn to the
+Creator (met. 9); and acknowledges that God alone is the Supreme Good (p.
+of life is instinctive (pr. 11). Error is dispersed by the light of Truth
+(met. 11). God governs the world, and is all-sufficient, whilst evil has
+no true existence (pr. 12). The book ends with the story of Orpheus (met.
+BOOK IV. This book opens with a discussion of the existence of evil, and
+the system of rewards and punishments (pr. 1). Boethius describes the
+flight of Imagination through the planetary spheres till it reaches
+heaven itself (met. 1). The good are strong, but the wicked are
+powerless, having no real existence (pr. 2). Tyrants are chastised by
+their own passions (met. 2). Virtue secures reward; but the wicked lose
+even their human nature, and become as mere beasts (pr. 3). Consider the
+enchantments of Circe, though these merely affected the outward form
+(met. 4). The wicked are thrice wretched; they _will_ to do evil, they
+_can_ do evil, and they actually _do_ it. Virtue is its own reward; so
+that the wicked should excite our pity (pr. 4). Here follows a poem on
+the folly of war (met. 4). Boethius inquires why the good suffer (pr. 5).
+Philosophy reminds him that the motions of the stars are inexplicable to
+one who does not understand astronomy (met. 5). She explains the
+difference between Providence and Destiny (pr. 6). In all nature we see
+concord, due to controlling Love (met. 6). All fortune is good; for
+punishment is beneficial (pr. 7). The labours of Hercules afford us an
+example of endurance (met. 7).
+BOOK V. Boethius asks questions concerning Chance (pr. 1). An example
+from the courses of the rivers Tigris and Euphrates (met. 1). Boethius
+asks questions concerning Free-will (pr. 2). God, who sees all things, is
+the true Sun (met. 2). Boethius is puzzled by the consideration of God's
+Predestination and man's Free-will (pr. 3). Men are too eager to inquire
+into the unknown (met. 3). Philosophy replies to Boethius on the subjects
+of Predestination, Necessity, and the nature of true Knowledge (pr. 4);
+on the impressions received by the mind (met. 4); and on the powers of
+Sense and Imagination (pr. 5). Beasts look downward to the earth, but man
+is upright, and looks up to heaven (met. 5). This world is not eternal,
+but only God is such; whose prescience is not subject to necessity, nor
+altered by human intentions. He upholds the good, and condemns the
+wicked; therefore be constant in eschewing vice, and devote all thy
+powers to the love of virtue (pr. 6).
+§ 9. It is unnecessary to enlarge here upon the importance of this
+treatise, and its influence upon medieval literature. Mr. Stewart, in the
+work already referred to, has an excellent chapter 'On Some Ancient
+Translations' of it. The number of translations that still exist, in
+various languages, sufficiently testify to its extraordinary popularity in
+the middle ages. Copies of it are found, for example, in Old High German by
+Notker, and in later German by Peter of Kastl; in Anglo-French by Simun de
+de Cis, Frere Renaut de Louhans, and by two anonymous authors; in Italian,
+by Alberto della Piagentina and several others; in Greek, by Maximus
+Planudes; and in Spanish, by Fra Antonio Ginebreda; besides various
+versions in later times. But the most interesting, to us, are those in
+English, which are somewhat numerous, and are worthy of some special
+notice. I shall here dismiss, as improbable and unnecessary, a suggestion
+sometimes made, that Chaucer may have consulted some French version in the
+hope of obtaining assistance from it; there is no sure trace of anything of
+the kind, and the internal evidence is, in my opinion, decisively against
+it.
+§ 10. The earliest English translation is that by king Ælfred, which is
+particularly interesting from the fact that the royal author frequently
+deviates from his original, and introduces various notes, explanations, and
+allusions of his own. The opening chapter, for example, is really a
+preface, giving a brief account of Theodoric and of the circumstances which
+led to the imprisonment of Boethius. This work exists only in two MSS.,
+neither being of early date, viz. MS. Cotton, Otho A VI, and MS. Bodley NE.
+C. 3. 11. It has been thrice edited; by Rawlinson, in 1698; by J. S.
+Cardale, in 1829; and by S. Fox, in 1864. The last of these includes a
+modern English translation, and forms one of the volumes of Bohn's
+Antiquarian Library; so that it is a cheap and accessible work. Moreover,
+it contains an alliterative verse translation of most of the _Metres_
+contained in Boethius (excluding the _Proses_), which is also attributed to
+Ælfred in a brief metrical preface; but whether this ascription is to be
+relied upon, or not, is a difficult question, which has hardly as yet been
+decided. A summary of the arguments, for and against Ælfred's authorship,
+will be found in Wülker's _Grundriss zur Geschichte der angelsächsischen
+Litteratur_, pp. 421-435.
+§ 11. I may here mention that there is a manuscript copy of this work by
+Boethius, in the original Latin, in Corpus Christi College, Cambridge, No.
+description of this MS., by Prof. J. W. Bright and myself, is printed in
+the American Journal of Philology, vol. v, no. 4.
+§ 12. The next English translation, in point of date, is Chaucer's;
+concerning which I have more to say below.
+§ 13. In the year 1410, we meet with a _verse_ translation of the whole
+treatise, ascribed by Warton (Hist. E. Poetry, § 20, ed. 1871, iii. 39) to
+John Walton, Capellanus, or John the Chaplain, a canon of Oseney. 'In the
+Walton's translation of Boethius; and the margin is filled throughout with
+Chaundler, among other preferments dean of the king's chapel and of
+Hereford Cathedral, chancellor of Wells, and successively warden of
+note:--'Explicit liber Boecij de Consolatione Philosophie de Latino in
+Anglicum translatus A.D. 1410, per Capellanum Ioannem. This is the
+of the translation:--"Alas, I wrecch, that whilom was in welth." I have
+was made at the request of Elizabeth Berkeley.'
+Todd, in his Illustrations of Gower and Chaucer, p. xxxi, mentions another
+MS. 'in the possession of Mr. G. Nicol, his Majesty's bookseller,' in which
+the above translation is differently attributed in the colophon, which ends
+thus: 'translatus anno d_omi_ni millesimo ccccx^o. per Capellanum Iohannem
+I may here note that this verse translation has _two_ separate Prologues.
+One Prologue gives a short account of Boethius and his times, and is extant
+in MS. Gg. iv. 18 in the Cambridge University Library. An extract from the
+other is quoted below. MS. E Museo 53, in the Bodleian Library, contains
+both of them.
+§ 14. As to the work itself, Metre 1 of Book i. and Metre 5 of the same are
+printed entire in Wülker's Altenglisches Lesebuch, ii. 56-9. In one of the
+metrical prologues to the whole work the following passage occurs, which I
+copy from MS. Royal 18 A xiii:--
+'I have herd spek and sumwhat haue y-seyne,
+In metir sum, and sum in prosë pleyne,
+Bot I most vse the wittes that I haue;
+Thogh I may noght do so, yit noght-for-thye,
+With helpe of god, the sentence schall I saue.
+To Chaucer, that is floure of rethoryk
+In Englisshe tong, and excellent poete,
+This wot I wel, no-thing may I do lyk,
+Thogh so that I of makynge entyrmete:
+And Gower, that so craftily doth trete,
+As in his book, of moralitee,
+Thogh I to theym in makyng am vnmete,
+This is an early tribute to the excellence of Chaucer and Gower as poets.
+§ 15. When we examine Walton's translation a little more closely, it soon
+becomes apparent that he has largely availed himself of Chaucer's prose
+translation, which he evidently kept before him as a model of language. For
+example, in Bk. ii. met. 5, l. 16, Chaucer has the expression:--'tho weren
+the cruel clariouns ful hust and ful stille.' This reappears in one of
+Walton's lines in the form:--'Tho was ful huscht the cruel clarioun.' This
+is poetry made easy, no doubt.
+In order to exhibit this a little more fully, I here transcribe the whole
+of Walton's translation of this metre, which may be compared with Chaucer's
+rendering at pp. 40, 41 below. I print in italics all the words which are
+common to the two versions, so as to shew this curious result, viz. that
+Walton was here more indebted to Chaucer, than Chaucer, when writing his
+poem of 'The Former Age,' was to himself. The MS. followed is the Royal MS.
+mentioned above (p. xvi).
+Full wonder _blisseful was_ that rather _age_,
+And so thei couthe sese thaire talent;
+_The white flees, with venym Tyryen_;
+_The rennyng_ ryver yaf hem lusty drynke,
+_The pynes_, that so full of braunches been,
+Ther was no man that _marchaundise_ made.
+They liked not to sailen vp and doun,
+_Tho was ful huscht the cruel clarioun_,
+For _eger hate_ ther was _no blood I-sched_,
+Ne therwith was non _armour_ yet be-bled;
+_For_ in that tyme who durst have be so _wood_
+Suche bitter _woundes_ that he nold have dred,
+With-outen réward, for to lese his _blood_.
+_I wold oure tyme_ myght _turne_ certanly,
+_But love of hauyng brenneth_ feruently,
+_More_ fersere _than the_ verray _fuyre_ of helle.
+_Allas!_ who _was_ that man _that_ wold him melle
+_That first_ began to myne; I can not telle,
+§ 16. MS. Auct. F. 3. 5, in the Bodleian Library, contains a _prose_
+translation, different from Chaucer's. After this, the next translation
+seems to be one by George Colvile; the title is thus given by Lowndes:
+'Boetius de Consolatione Philosophiæ, translated by George Coluile, alias
+Coldewel. London: by John Cawoode; 1556. 4to.' This work was dedicated to
+Queen Mary, and reprinted in 1561; and again, without date.
+There is an unprinted translation, in hexameters and other metres, in the
+British Museum (MS. Addit. 11401), by Bracegirdle, temp. Elizabeth. See
+Warton, ed. Hazlitt, iii. 39, note 6.
+Lowndes next mentions a translation by J. T., printed at London in 1609,
+A translation 'Anglo-Latine expressus per S. E. M.' was printed at London
+in quarto, in 1654, according to Hazlitt's Hand-book to Popular Literature.
+Next, a translation into English verse by H. Conningesbye, in 1664, 12mo.
+The next is thus described: 'Of the Consolation of Philosophy, made English
+and illustrated with Notes by the Right Hon. Richard (Graham) Lord Viscount
+Preston. London; 1695, 8vo. Second edition, corrected; London; 1712, 8vo.'
+A translation by W. Causton was printed in London in 1730; 8vo.
+A translation by the Rev. Philip Ridpath, printed in London in 1785, 8vo.,
+is described by Lowndes as 'an excellent translation with very useful
+notes, and a life of Boethius, drawn up with great accuracy and fidelity.'
+A translation by R. Duncan was printed at Edinburgh in 1789, 8vo.; and an
+anonymous translation, described by Lowndes as 'a pitiful performance,' was
+printed in London in 1792, 8vo.
+In a list of works which the Early English Text Society proposes shortly to
+print, we are told that 'Miss Pemberton has sent to press her edition of
+the fragments of Queen Elizabeth's Englishings (in the Record Office) from
+Boethius, Plutarch, &c.'
+§ 17. I now return to the consideration of Chaucer's translation, as
+printed in the present volume.
+I do not think the question as to the probable date of its composition need
+detain us long. It is so obviously connected with 'Troilus' and the 'House
+of Fame,' which it probably did not long precede, that we can hardly be
+wrong in dating it, as said above, about 1377-1380; or, in round numbers,
+about 1380 or a little earlier. I quite agree with Mr. Stewart (Essay, p.
+those poems which contain the greatest number of recollections and
+imitations of his original;' and I see no reason for ascribing it, with
+Professor Morley (English Writers, v. 144), to Chaucer's youth. Even Mr.
+Stewart is so incautious as to suggest that Chaucer's 'acquaintance with
+the works of the Roman philosopher ... would seem to date from about the
+year 1369, when he wrote the Deth of Blaunche.' When we ask for some
+tangible evidence of this statement, we are simply referred to the
+following passages in that poem, viz. the mention of 'Tityus (588); of
+Fortune the debonaire (623); Fortune the monster (627); Fortune's
+capriciousness and her rolling wheel (634, 642); Tantalus (708); the mind
+compared to a clean parchment (778); and Alcibiades (1055-6);' see Essay,
+p. 267. In every one of these instances, I believe the inference to be
+fallacious, and that Chaucer got all these illustrations, _at second hand_,
+from Le Roman de la Rose. As a matter of fact, they are all to be found
+there; and I find, on reference, that I have, in most instances, already
+given the parallel passages in my notes. However, to make the matter
+clearer, I repeat them here.
+Book Duch. 588. Cf. Comment li juisier _Ticius_
+S'efforcent ostoir de mangier;
+Rom. Rose, 19506.
+Si cum tu fez, las _Sisifus_, &c.;
+Book Duch. 623. The dispitouse debonaire,
+That scorneth many a creature.
+I cannot give the exact reference, because Jean de Meun's description of
+the various moods of Fortune extends to a portentous length. Chaucer
+reproduces the general impression which a perusal of the poem leaves on the
+mind. However, take ll. 4860-62 of Le Roman:--
+Que miex vaut asses et profite
+Fortune _perverse et contraire_
+Que la mole et _la debonnaire_.
+Surely 'debonaire' in Chaucer is rather French than Latin. And see
+_debonaire_ in the E. version of the Romaunt, l. 5412.
+Book Duch. 627. She is the monstres heed y-wryen,
+As _filth over y-strawed with floures_.
+Si di, par ma parole ovrir,
+Qui vodroit _un femier covrir_
+De dras de soie ou _de floretes_; R. R. 8995.
+As the second of the above lines from the Book of the Duchesse is obviously
+taken from _Le Roman_, it is probable that the first is also; but it is a
+hard task to discover the particular word _monstre_ in this vast poem.
+However, I find it, in l. 4917, with reference to Fortune; and her _wheel_
+is not far off, six lines above.
+B. D. 634, 642. Fortune's capriciousness is treated of by Jean de Meun at
+intolerable length, ll. 4863-8492; and elsewhere. As to her wheel, it is
+continually rolling through his verses; see ll. 4911, 5366, 5870, 5925,
+B. D. 708. Cf. Et de fain avec _Tentalus_; R. R. 19482.
+B. D. 778. Not from Le Roman, nor from Boethius, but from Machault's
+_Remède de Fortune_, as pointed out by M. Sandras long ago; see my note.
+B. D. 1055-6. Cf. Car le cors Alcipiades
+Qui de biauté avoit adés ...
+_Ainsinc le raconte Boece_; R. R. 8981.
+See my note on the line; and note the spelling of _Alcipiades_ with a _p_,
+as in the English MSS.
+We thus see that all these passages (except l. 778) are really taken from
+Le Roman, not to mention many more, already pointed out by Dr. Köppel
+(_Anglia_, xiv. 238). And, this being so, we may safely conclude that they
+were _not_ taken from Boethius directly. Hence we may further infer that,
+in all probability, Chaucer, in 1369, was not very familiar with Boethius
+in the Latin original. And this accounts at once for the fact that he
+seldom quotes Boethius at first hand, perhaps not at all, in any of his
+earlier poems, such as the Complaint unto Pite, the Complaint of Mars, or
+Anelida and Arcite, or the Lyf of St. Cecilie. I see no reason for
+supposing that he had closely studied Boethius before (let us say) 1375;
+though it is extremely probable, as was said above, that Jean de Meun
+inspired him with the idea of reading it, to see whether it was really
+worth translating, as the French poet said it was.
+§ 18. When we come to consider the style and manner in which Chaucer has
+executed his self-imposed task, we must first of all make some allowance
+for the difference between the scholarship of his age and of our own. One
+great difference is obvious, though constantly lost sight of, viz. that the
+teaching in those days was almost entirely oral, and that the student had
+to depend upon his memory to an extent which would now be regarded by many
+as extremely inconvenient. Suppose that, in reading Boethius, Chaucer comes
+across the phrase 'ueluti quidam clauus atque gubernaculum' (Bk. iii. pr.
+be done? It is quite certain, though this again is frequently lost sight
+of, that he had no access to a convenient and well-arranged Latin
+Dictionary, but only to such imperfect glossaries as were then in use.
+Almost the only resource, unless he had at hand a friend more learned than
+himself, was to guess. He guesses accordingly; and, taking _clauus_ to mean
+much the same thing as _clauis_, puts down in his translation: 'and he is
+as a _keye_ and a stere.' Some mistakes of this character were almost
+inevitable; and it must not greatly surprise us to be told, that the
+'inaccuracy and infelicity' of Chaucer's translation 'is not that of an
+inexperienced Latin scholar, but rather of one who was no Latin scholar at
+all,' as Mr. Stewart says in his Essay, p. 226. It is useful to bear this
+in mind, because a similar lack of accuracy is characteristic of Chaucer's
+other works also; and we must not always infer that emendation is
+necessary, when we find in his text some curious error.
+§ 19. The next passage in Mr. Stewart's Essay so well expresses the state
+of the case, that I do not hesitate to quote it at length. 'Given (he says)
+a man who is sufficiently conversant with a language to read it fluently
+without paying too much heed to the precise value of participle and
+preposition, who has the wit and the sagacity to grasp the meaning of his
+author, but not the intimate knowledge of his style and manner necessary to
+a right appreciation of either, and--especially if he set himself to write
+in an uncongenial and unfamiliar form--he will assuredly produce just such
+a result as Chaucer has done.
+'We must now glance (he adds) at the literary style of the translation. As
+Ten Brink has observed, we can here see as clearly as in any work of the
+middle ages what a high cultivation is requisite for the production of a
+good prose. Verse, and not prose, is the natural vehicle for the expression
+of every language in its infancy, and it is certainly not in prose that
+Chaucer's genius shews to best advantage. The restrictions of metre were
+indeed to him as silken fetters, while the freedom of prose only served to
+embarrass him; just as a bird that has been born and bred in captivity,
+whose traditions are all domestic, finds itself at a sad loss when it
+escapes from its cage and has to fall back on its own resources for
+sustenance. In reading "Boece," we have often as it were to pause and look
+on while Chaucer has a desperate wrestle with a tough sentence; but though
+now he may appear to be down, with a victorious knee upon him, next moment
+he is on his feet again, disclaiming defeat in a gloss which makes us doubt
+whether his adversary had so much the best of it after all. But such
+strenuous endeavour, even when it is crowned with success, is strange in a
+writer one of whose chief charms is the delightful ease, the complete
+absence of effort, with which he says his best things. It is only necessary
+to compare the passages in Boethius in the prose version with the same when
+they reappear in the poems, to realise how much better they look in their
+verse dress. Let the reader take Troilus' soliloquy on Freewill and
+Predestination (Bk. iv. ll. 958-1078), and read it side by side with the
+corresponding passage in "Boece" (Bk. v. proses 2 and 3), and he cannot
+fail to feel the superiority of the former to the latter. With what
+clearness and precision does the argument unfold itself, how close is the
+reasoning, how vigorous and yet graceful is the language! It is to be
+regretted that Chaucer did not do for all the Metra of the "Consolation"
+what he did for the fifth of the second book. A solitary gem like "The
+unconsciously or of set purpose, it is difficult to decide, his prose slips
+into verse:--
+It lyketh me to shewe, by subtil song,
+With slakke and délitáble soun of strenges (Bk. iii. met. 2. 1).
+The reader should also consult Ten Brink's History of English Literature,
+Book iv. sect. 7. I here give a useful extract.
+'This version is complete, and faithful in all essential points. Chaucer
+had no other purpose than to disclose, if possible wholly, the meaning of
+this famous work to his contemporaries; and notwithstanding many errors in
+single points, he has fairly well succeeded in reproducing the sense of the
+original. He often employs for this purpose periphrastic turns, and for the
+explanation of difficult passages, poetical figures, mythological and
+historical allusions; and he even incorporates a number of notes in his
+text. His version thus becomes somewhat diffuse, and, in the undeveloped
+state of prose composition so characteristic of that age, often quite
+unwieldy. But there is no lack of warmth, and even of a certain
+colouring....
+'The language of the translation shews many a peculiarity; viz. numerous
+Latinisms, and even Roman idioms in synthesis, inflexion, or syntax, which
+are either wholly absent or at least found very rarely in Chaucer's poems.
+The labour of this translation proved a school for the poet, from which his
+powers of speech came forth not only more elevated but more self-reliant;
+and above all, with a greater aptitude to express thoughts of a deeper
+nature.'
+§ 20. Most of the instances in which Chaucer's rendering is inaccurate,
+unhappy, or insufficient are pointed out in the notes. I here collect some
+examples, many of which have already been remarked upon by Dr. Morris and
+Mr. Stewart.
+i. met. 1. 3. rendinge Muses: 'lacerae Camenae.'
+i. pr. 1. 49. til it be at the laste: 'usque in exitium;' (but see the
+note).
+i. pr. 3. 2. I took hevene: 'hausi caelum.'
+i. met. 4. 5. hete: 'aestum;' (see the note). So again, in met. 7. 3.
+i. pr. 4. 83. for nede of foreine moneye: 'alienae aeris necessitate.'
+i. pr. 4. 93. lykned: 'astrui;' (see the note).
+i. met. 5. 9. cometh eft ayein hir used cours: 'Solitas iterum mutet
+habenas;' (see the note).
+ii. pr. 1. 22. entree: 'adyto;' (see the note).
+ii. pr. 1. 45. use hir maneres: 'utere moribus.'
+ii. pr. 5. 10. to hem that despenden it: 'effundendo.'
+"      11. to thilke folk that mokeren it: 'coaceruando.'
+"      90. subgit: 'sepositis;' (see the note).
+ii. met. 6. 21. _the gloss is wrong_; (see the note).
+ii. met. 7. 20. cruel day: 'sera dies;' (see the note).
+iii. pr. 2. 57. birefte awey: 'adferre.' Here MS. C. has _afferre_, and
+Chaucer seems to have resolved this into _ab-ferre_.
+iii. pr. 3. 48. foreyne: 'forenses.'
+iii. pr. 4. 42. many maner dignitees of consules: 'multiplici consulatu.'
+iii. pr. 4. 64. of usaunces: 'utentium.'
+iii. pr. 8. 11. anoyously: 'obnoxius;' (see the note).
+"      29. of a beest that highte lynx: 'Lynceis;' (see the note).
+iii. pr. 9. 16. Wenest thou that he, that hath nede of power, that him ne
+lakketh no-thing? 'An tu arbitraris quod nihilo indigeat egere potentia?'
+On this Mr. Stewart remarks that 'it is easy to see that _indigeat_ and
+_egere_ have changed places.' To me, it is not quite easy; for the senses
+of the M.E. _nede_ and _lakken_ are very slippery. Suppose we make them
+change places, and read:--'Wenest thou that he, that hath lak of power,
+that him ne nedeth no-thing?' This may be better, but it is not wholly
+satisfactory.
+iii. pr.9. 39-41. that he ... yif him nedeth = whether he needeth. A very
+clumsy passage; see the Latin quoted in the note.
+iii. pr. 10. 165. the soverein fyn and the cause: 'summa, cardo, atque
+caussa.'
+iii. pr. 12. 55, 67. a keye: 'clauus;' and again, 'clauo.'
+"          74. a yok of misdrawinges: 'detrectantium iugum.'
+"          75. the savinge of obedient thinges: 'obtemperantium
+salus.'
+iii. pr. 12. 136. the whiche proeves drawen to hem-self hir feith and hir
+acord, everich of hem of other: 'altero ex altero fidem trahente ...
+probationibus.' (Not well expressed.)
+iii. met. 12. 5. the wodes, moveable, to rennen; and had maked the riveres,
+&c.: 'Siluas currere, mobiles Amnes,' &c.
+iii. met. 17-19. Obscure and involved.
+iv. pr. 1. 22. of wikkede felounes: 'facinorum.'
+iv. pr. 2. 97. Iugement: 'indicium' (_misread as_ iudicium).
+iv. met. 7. 15. empty: 'immani;' (_misread as_ inani).
+v. pr. 1. 3. ful digne by auctoritee: 'auctoritate dignissima.'
+"     34. prince: 'principio.'
+"     57. the abregginge of fortuit hap: 'fortuiti caussae compendii.'
+v. pr. 4. 30. by grace of position (_or_ possessioun): 'positionis gratia.'
+v. pr. 4. 56. right as we trowen: 'quasi uero credamus.'
+v. met. 5. 6. by moist fleeinge: 'liquido uolatu.'
+§ 21. In the case of a few supposed errors, as pointed out by Mr. Stewart,
+there remains something to be said on the other side. I note the following
+instances.
+i. pr. 6. 28. Lat. 'uelut hiante ualli robore.' Here Mr. Stewart quotes the
+reading of MS. A., viz. 'so as the strengthe of the paleys schynyng is
+open.' But the English text in that MS. is corrupt. The correct reading is
+'palis chyning;' where _palis_ means _palisade_, and translates _ualli_;
+and _chyning is open_ means _is gaping open_, and translates _hiante_.
+ii. pr. 5. 16. Lat. 'largiendi usu.' The translation has: 'by usage of
+large yevinge _of him that hath yeven it_.' I fail to see much amiss; for
+the usual sense of _large_ in M. E. is _liberal_, _bounteous_, _lavish_. Of
+course we must not substitute the modern sense without justification.
+ii. pr. 5. 35. 'of the laste beautee' translates Lat. 'postremae
+pulcritudinis.' For this, see my note on p. 431.
+ii. pr. 7. 38. Lat. 'tum commercii insolentia.' Chaucer has: 'what for
+defaute of unusage and entrecomuninge of marchaundise.' There is not much
+amiss; but MS. A. omits the word _and_ after _unusage_, which of course
+makes nonsense of the passage.
+ii. met. 8. 6. Lat. 'Ut fluctus auidum mare Certo fine coerceat.' Chaucer
+has: 'that the see, greedy to flowen, constreyned with a certein ende hise
+floodes.' Mr. Stewart understands 'greedy to flowen' to refer to 'fluctus
+auidum.' It seems to me that this was merely Chaucer's first idea of the
+passage, and that he afterwards meant 'hise floodes' to translate
+'fluctus,' but forgot to strike out 'to flowen.' I do not defend the
+translation.
+iii. pr. 11. 86. Lat. 'sede;' Eng. 'sete.' This is quite right. Mr. Stewart
+quotes the Eng. version as having 'feete,' but this is only a corrupt
+reading, though found in the best MS. Any one who is acquainted with M. E.
+MSS. will easily guess that 'feete' is merely mis-copied from 'seete,' with
+a long _s_; and, indeed, _sete_ is the reading of the black-letter
+editions. There is a blunder here, certainly; only it is not the author's,
+but due to the scribes.
+iv. pr. 6. 176. Lat. 'quidam me quoque excellentior:' Eng. 'a philosophre,
+the more excellent by me.' The M. E. use of _by_ is ambiguous; it
+frequently means 'in comparison with.'
+v. met. 5. 14. Lat. 'male dissipis:' Eng. 'wexest yvel out of thy wit.' In
+this case, _wexest out of thy wit_ translates _dissipis_; and _yvel_, which
+is here an adverb, translates _male_.
+Of course we must also make allowances for the variations in Chaucer's
+Latin MS. from the usually received text. Here we are much assisted by MS.
+C., which, as explained below, appears to contain a copy of the very text
+which he consulted, and helps to settle several doubtful points. To take
+two examples. In Book ii. met. 5. 17, Chaucer has 'ne hadde nat deyed yit
+_armures_,' where the usual Lat. text has 'tinxerat _arua_.' But many MSS.
+have _arma_; and, of these, MS. C. is one.
+Once more, in Book ii. met. 2. 11, Chaucer has 'sheweth _other_ gapinges,'
+where the usual Lat. text has '_Altos_ pandit hiatus.' But some MSS. have
+_Alios_; and, of these, MS. C. is one.
+§ 22. After all, the chief point of interest about Chaucer's translation of
+Boethius is the influence that this labour exercised upon his later work,
+owing to the close familiarity with the text which he thus acquired. I have
+shewn that we must not expect to find such influence upon his earliest
+writings; and that, in the case of the Book of the Duchesse, it affected
+him at second hand, through Jean de Meun. But in other poems, viz. Troilus,
+the House of Fame, The Legend of Good Women, some of the Balades, and in
+the Canterbury Tales, the influence of Boethius is frequently observable;
+and we may usually suppose such influence to have been direct and
+immediate; nevertheless, we should always keep an eye on Le Roman de la
+Rose, for Jean de Meun was, in like manner, influenced in no slight degree
+by the same work. I have often taken an opportunity of pointing out, in my
+Notes to Chaucer, passages of this character; and I find that Mr. Stewart,
+with praiseworthy diligence, has endeavoured to give (in Appendix B,
+following his Essay, at p. 260) 'An Index of Passages in Chaucer which seem
+to have been suggested by the De Consolatione Philosophiae.' Very useful,
+in connection with this subject, is the list of passages in which Chaucer
+seems to have been indebted to Le Roman de la Rose, as given by Dr. E.
+Köppel in _Anglia_, vol. xiv. 238-265. Another most useful help is the
+comparison between Troilus and Boccaccio's _Filostrato_, by Mr. W. M.
+Rossetti; which sometimes proves, beyond all doubt, that a passage which
+may seem to be due to Boethius, is really taken from the Italian poet. As
+this seems to be the right place for exhibiting the results thus obtained,
+I proceed to give them, and gladly express my thanks to the above-named
+authors for the opportunity thus afforded.
+So mote hir sorwes passen everichoon.--B. ii. pr. 3. 52-4.
+Than cessed she Fortune anoon to be.
+B. ii. pr. 1. 82-4.
+(This case is doubtful. Chaucer's phrase--_men seyn_--shews that he is
+quoting a common proverb. 'Ase fele thedes, as fele thewes, quoth Hendyng.'
+'Tant de gens, tant de guises.'--Ray. So many countries, so many
+customs.--Hazlitt).
+Ledest the fyn, by Iuste purveyaunce,
+Of every wight.              B. iv. pr. 6. 149-151.
+Which over-sprat the sonne as for a space.
+B. i. met. 3. 8-10.
+O influences of thise hevenes hye!
+Soth is, that, under god, ye ben our hierdes.
+B. iv. pr. 6. 60-71.
+Y-medled is with many a bitternesse.--B. ii. pr. 4. 86, 87.
+Condicioun of veyn prosperitee.
+B. ii. pr. 4. 56.
+B. ii. pr. 4. 130.
+B. ii. met. 8. 9-11; 15, 16; 3-8; 11-14; 17, 18.
+met. 1. 1, 5-10; pr. ii. 37. (But note, that ll. 1-3 are really due to the
+_Filostrato_, Bk. iii. st. 94; and ll. 6, 7 are copied from _Le Roman de la
+Rose_, 8076-9).
+Ay propretee; hir yeftes ben comune.
+B. ii. pr. 2. 7-9; 61-2.
+the _Filostrato_, Bk. iv. st. 56).
+That, oft y-cleped, comth and endeth peyne.
+B. i. met. 1. 12-14.
+The ende of blisse ay sorwe it occupyeth.
+B. ii. pr. 4. 90.
+(A very doubtful instance; for l. 836 is precisely the same as Prov. xiv.
+Of Fortune ay, that nought wol of hir recche;
+And she ne daunteth no wight but a wrecche.
+B. ii. pr. 4. 98-101.
+(But note that l. 1589 really translates two lines in the _Filostrato_, Bk.
+iv. st. 154).
+Of thinges hath, as it is hir committed
+Through purveyaunce and disposicioun
+Of heighe Iove.        B. iv. pr. 6. 75-77.
+to Boethius (iv. met. 1. 16-19); for this stanza 259 is translated from
+Boccaccio's _Teseide_, Bk. xi. st. 1).
+It thus appears that, for this poem, Chaucer made use of B. i. met. 1, pr.
+pr. 7, met. 8; iii. met. 1, pr. 2, met. 2, pr. 3, met. 11, 12; iv. pr. 6;
+v. pr. 2, pr. 3.
+from Machault, as shewn in my note; but Machault probably took it from
+Boeth. i. met. 4. 8; and it is curious that Chaucer has _tour_, not
+_toun_).
+Roman de la Rose, 16957-69; Dante, _Purg._ xviii. 28).
+very slight).
+cleped is.--B. iii. pr. 12. 118.
+same is in _Le Roman de la Rose_, 16931-6, which is taken from Boethius.
+And Köppel remarks that the word _Eternally_ answers to nothing in the
+Latin text, whilst it corresponds to the French _Tous jors en
+pardurableté_).
+The quotations from Boethius are all taken at second-hand. See above, pp.
+xx, xxi.
+(Practically, a chance resemblance; these lines are really from Alanus, De
+Planctu Naturæ; see the note).
+The day hem blent, ful wel they see by night.
+B. iv. pr. 4. 132-3.
+Partly from B. ii. met. 5; see the notes.
+For the general idea, see B. iii. pr. 6. 24-38; met. 6. 2, and 6-10. With
+l. 5 compare B. iii. pr. 4. 25.
+For the general idea, cf. B. ii. met. 8.
+PROLOGUE. 337-8. Pleyn delyt, &c.--B. iii. pr. 2. 55.
+KNIGHTES TALE. 925. Thanked be Fortune, and hir false wheel.--B. ii. pr. 2.
+But we goon wrong ful often, trewely.
+B. iii. pr. 2. 59, 60; met. 8. 1.
+and notes.)
+the _Teseide_, Bk. ix. st. 51.)
+MAN OF LAWES TALE. 295-299. O firste moeving cruel firmament. Cf. B. i.
+met. 5. 1-3; iii. pr. 8. 22; pr. 12. 145-147; iv. met. 1. 6.
+N.B. The stanzas 421-7, and 925-931, are not from Boethius, but from Pope
+Innocent; see notes.
+THE TALE OF MELIBEUS. The suggested parallels between this Tale and Boece
+are only three; the first is marked by Mr. Stewart as doubtful, the third
+follows Albertano of Brescia word for word; and the second is too general a
+THE MONK'S PROLOGUE. 3163. Tragedie.--B. ii. pr. 2. 51.
+THE MONKES TALE: HERCULES. 3285-3300.--B. iv. met. 7. 20-42. (But see
+Sources of the Tales, § 48; vol. iii. p. 430.)
+Mishap wol make hem enemys, I gesse.
+B. iii. pr. 5. 48-50.
+NONNE PREESTES TALE. 4190. That us governeth alle as in comune.--B. ii. pr.
+pr. 4. 25-34; &c.
+THE FRERES TALE. 1483. For som-tyme we ben goddes instruments.--B. iv. pr.
+THE SOMNOURS TALE. 1968. Lo, ech thing that is oned in him-selve, &c.--B.
+iii. pr. 11. 37-40.
+THE CLERKES TALE. Mr. Stewart refers ll. 810-2 to Boethius, but these lines
+translate Petrarch's sentence--'Nulla homini perpetua sors est.' Also ll.
+tamen et sæpe nos, multis ac _grauibus flagellis exerceri sinit_, non ut
+animum nostrum sciat, quem sciuit antequam crearemur ... abundè ergo
+constantibus uiris ascripserim, quisquis is fuerit, qui pro Deo suo sine
+murmure patiatur.' I find no hint that Chaucer was directly influenced by
+Boethius, while writing this Tale.
+THE MARCHANTES TALE. Mr. Stewart refers ll. 1311-4 to Boethius, but they
+are more likely from Albertanus Brixiensis, _Liber de Amore dei_, fol. 30 a
+(as shewn by Dr. Köppel):--'Et merito uxor est diligenda, qui donum est
+Dei,' followed by a quotation from Prov. xix. 14.
+iv. met. 5. 6. (Somewhat doubtful.)
+THE FRANKELEINS TALE. 865. Eterne god, that thurgh thy purveyaunce, &c.--B.
+i. met. 5. 22, 23; iii. met. 9. 1; cf. iii. pr. 9. 147, 148.
+THE SECONDE NONNES TALE. I think it certain that this early Tale is quite
+independent of Boethius. L. 114, instanced by Mr. Stewart, is from
+'Ysidorus'; see my note.
+have.--B. iii. pr. 9. 89-91. (Very doubtful.)
+ther may no man embrace
+As to destreyne a thing, which that nature
+Hath naturelly set in a creature.--B. iii. met. 2. 1-5.
+it is shadwe, but shadwe is nat the same thing of which it is shadwe.--B.
+v. pr. 4. 45, 46. (Doubtful.)
+for som-tyme is a man a greet lord by the morwe, that is a caitif and a
+wrecche er it be night.--B. ii. met. 3. 16-18. (I think this is doubtful,
+and mark it as such.)
+which he dyeth.--B. iii. pr. 7. 3-5.
+§ 24. It is worth while to see what light is thrown upon the chronology of
+the Canterbury Tales by comparison with Boethius.
+In the first place, we may remark that, of the Tales mentioned above, there
+is nothing to shew that The Seconde Nonnes Tale, the Clerkes Tale, or even
+the Tale of Melibeus, really refer to any passages in Boethius. They may,
+in fact, have been written _before_ that translation was made. In the
+instance of the Second Nonnes Tale, this was certainly the case; and it is
+not unlikely that the same is true with respect to the others.
+But the following Tales (_as revised_) seem to be later than 'Boece,' viz.
+The Knightes Tale, The Man of Lawes Tale, and The Monkes Tale; whilst it is
+quite certain that the following Tales were amongst the latest written,
+viz. the Nonne Preestes Tale, the three tales in Group D (Wyf, Frere,
+Somnour), the Marchantes Tale, the Squieres Tale, the Frankeleins Tale, the
+Canouns Yemannes Tale, and the Maunciples Tale; all of which are in the
+heroic couplet, and later than 1385.
+The case of the Knightes Tale is especially interesting; for the numerous
+references in it to Boece, and the verbal resemblances between it and
+Troilus shew that _either_ the original _Palamoun and Arcite_ was written
+just after those works, _or else_ (which is more likely) it was revised,
+and became the Knight's Tale, nearly at that time. The connection between
+Palamon and Arcite, Anelida, and the Parlement of Foules, and the
+introduction of three stanzas from the Teseide near the end of Troilus,
+render the former supposition unlikely; whilst at the same time we are
+confirmed in the impression that the (revised) Knightes Tale succeeded
+Boece and Troilus at no long interval, and was, in fact, the _first_ of the
+Canterbury Tales that was written _expressly for the purpose_ of being
+inserted in that collection, viz. about 1385-6.
+I have now to explain the sources of the present edition.
+Library, is certainly the best; and has therefore been taken as the basis
+of the text. The English portion of it was printed by Dr. Furnivall for the
+Chaucer Society in 1886; and I have usually relied upon this very useful
+Consolatione Philosophiae_), and comments upon it.
+It is divided into two distinct parts, which have been bound up together.
+The latter portion consists of a lengthy commentary upon Boethius, at the
+end of which we find the title, viz.--'Exposicio preclara quam Iohannes
+Theutonicus prescripsit et finiuit Anno d_omi_ni M^oCCCvj viij ydus Iunii;'
+i.e. An Excellent Commentary, written by Johannes Teutonicus, and finished
+June 6, 1306. This vast commentary occupies 118 folios, in double columns.
+The former part of the volume concerns us more nearly. I take it to be, for
+all practical purposes, _the authentic copy_. For it presents the following
+peculiarities. It contains the whole of the Latin text, as well as
+Chaucer's English version; and it is surprising to find that these are
+written in alternate chapters. Thus the volume begins with the Latin text
+of Metre 1, at the close of which there follows immediately, on the same
+page, Chaucer's translation of Metre 1. Next comes Prose 1 in Latin,
+followed by Prose 1 in English; and so throughout.
+Again, if we examine the Latin text, there seems reason to suppose that it
+fairly represents the very recension which Chaucer used. It abounds with
+side-notes and glosses, all in Latin; and the glosses correspond to those
+in Chaucer's version. Thus, to take an example, the following lines occur
+near the end of Bk. iii. met. 11:--
+Ni mersus alto uiueret fomes corde.'
+Over _rogati_ is written the gloss _i. interrogato_.
+Over _censetis_ is written _i. iudicatis_.
+Over _Ni_ is _i. nisi_; over _mersus alto_ is _i. latenter conditos_; over
+_uiueret_ is _i. vigeret_; and over _fomes_ is _i. radix veritatis_.
+Besides these glosses, there is here the following side-note:--'Nisi radix
+veritatis latenter conditus vigeret in abscondito mentis, homo non
+iudicaret recta quacunque ordinata interrogata.'
+When we turn to Chaucer's version, we find that he first gives a
+translation of the two verses, thus:--
+'For wherefor elles demen ye of your owne wil the rightes, whan ye ben
+axed, but-yif so were that the norisshinge of resoun ne livede y-plounged
+in the depthe of your herte?'
+After this he adds, by way of comment:--'This is to seyn, how sholden men
+demen the sooth of anything that were axed, yif ther nere a rote of
+soothfastnesse that were y-plounged and hid in naturel principles, the
+whiche soothfastnesse lived with-in the deepnesse of the thought.'
+It is obvious that he has here reproduced the general sense of the Latin
+side-note above quoted. The chief thing which is missing in the Latin is
+the expression 'in naturel principles.' But we have only to look to a
+passage a little higher up, and we find the line--
+'Suis retrusum possidere thesauris.'
+Over the word _retrusum_ is written _i. absconditum_; and over _thesauris_
+is _i. naturalibus policiis et principiis naturaliter inditis_. Out of
+these we have only to pick the words _absconditum naturalibus ...
+principiis_, and we at once obtain the missing phrase--'hid in naturel
+principles.'
+Or, to take another striking example. Bk. iv. met. 7 begins, in the MS.,
+with the lines:
+'Bella bis quinis operatus annis
+Vltor attrides frigie ruinis,
+Fratris amissos thalamos piauit.'
+At the beginning, just above these, is written a note: 'Istud metrum est de
+tribus exemplis: de agamenone (_sic_); secundum de vlixe; tertium, de
+hercule.'
+The glosses are these; over _quinis_ is _i. decim_; over _attrides_ is
+_agamenon_ (_sic_); over _Fratris_ is _s. menelai_; and over _piauit_ is
+_i. vlcissendo_ (_sic_) _purgauit: troia enim erat metropolis Frigie_.
+If we turn to Chaucer's version, in which I print the additions to the text
+in italics, we find that it runs thus:--
+'The wreker Attrides, _that is to seyn, Agamenon_, that wroughte and
+continuede the batailes by ten yeer, recovered and purgede _in wrekinge_,
+by the destruccioun of Troye, the loste chaumbres of mariage of his
+brother; _this is to seyn, that he, Agamenon, wan ayein Eleyne, that was
+Menelaus wyf his brother_.'
+We see how this was made up. Not a little curious are the spellings
+MS. and in Chaucer's version. Again, Chaucer has _ten_, corresponding to
+the gloss _decim_, not to the textual phrase _bis quinis_. His explanation
+of _piauit_ by _recovered and purgede in wrekinge_ is clearly due to the
+gloss _ulciscendo purgauit_. His substitution of _Troye_ for _Frigie_ is
+due to the gloss: _troia enim erat metropolis Frigie_. And even the name
+_Menelaus his brother_ answers to _Fratris, s. menelai_. And all that is
+left, as being absolutely his own, are the words _and continuede_,
+_recovered_, and _wan ayein Eleyne_. We soon discover that, in a hundred
+instances, he renders a single Latin verb or substantive by two English
+verbs or substantives, by way of making the sense clearer; which accounts
+for his introduction of the verbs _continuede_ and _recovered_; and this
+consideration reduces Chaucer's additional contribution to a mention of the
+name of _Eleyne_, which was of course extremely familiar to him.
+Similarly, we find in this MS. the original of the gloss explaining
+_coempcioun_ (p. 11); of the 'Glose' on p. 15; of the 'Glosa' on p. 26; and
+of most of the notes which, at first sight, look like additions by Chaucer
+The result is that, in all difficulties, the first authority to be
+consulted is the Latin text in this particular MS.; for we are easily led
+to conclude that it was intentionally designed to preserve both Chaucer's
+translation and the original text. It does not follow that it is always
+perfect; for it can only be a _copy_ of the Latin, and the scribe may err.
+In writing _recte_ for _recta_ (see note on p. xxxviii), he has certainly
+committed an error by a slip of the pen. The same mistake has been observed
+to occur in another MS., viz. Codex Gothanus I.
+The only drawback is this. The MS. is so crowded with glosses and
+side-notes, many of them closely written in small characters, that it is
+almost impossible to consult them all. I have therefore contented myself
+with resorting to them for information in difficult passages only. For
+further remarks on this subject, I must refer the reader to the Notes.
+Lastly, I may observe that the design of preserving in this MS. all the
+apparatus referring to Chaucer's Boethius, is made the more apparent by the
+curious fact that, _in this MS. only_, the two poems by Chaucer that are
+closely related to Boethius, viz. The Former Age, and Fortune, are actually
+inserted into the very body of it, immediately after Bk. ii. met. 5. This
+place was of course chosen because The Former Age is, to some extent, a
+verse translation of that metre; and Fortune was added because, being
+founded upon scraps from several chapters, it had no definite claim to any
+specific place of its own.
+In this MS., the English text, like the Latin one, has a few imperfections.
+One imperfection appears in certain peculiarities of spelling. The scribe
+seems to have had some habits of pronunciation that betoken a greater
+familiarity with Anglo-French than with English. The awkward position of
+the guttural sound of _gh_ in _neighebour_ seems to have been too much for
+him; hence he substituted _ssh_ (= _sh-sh_) for _gh_, and gives us the
+spelling _neysshebour_ (Bk. ii. pr. 3. 24, foot-note; pr. 7. 57,
+foot-note.) Nevertheless, it is the best MS. and has most authority. For
+further remarks, see the account of the present edition, on pp.
+xlvi-xlviii.
+Library, and was written early in the fifteenth century. It contains 8
+complete quires of 8 leaves, and 1 incomplete quire of 6 leaves, making 70
+leaves in all. The English version appears alone, and occupies 68 leaves,
+and part of leaf 69 recto; leaf 69, verso, and leaf 70, are blank. The last
+words are:--'þe eyen of þe Iuge þat seeth and demeth alle thinges.
+_Explicit liber boecij, &c._' Other treatises, in Latin, are bound up with
+it, but are unrelated. The readings of this MS. agree very closely with
+those of Ii. 3. 21, and of our text. Thus, in Met. i. l. 9, it has the
+reading _wyerdes_, with the gloss _s. fata_, as in Ii. 3. 21. (The scribe
+at first wrote _wyerldes_, but the _l_ is marked for expunction.) In l. 12,
+it has _emptid_, whereas the Addit. MS. has _emty_; and in l. 16 it has
+_nayteth_, whereas the Addit. MS. wrongly has _naieth_. On account of its
+close agreement with the text, I have made but little use of it.
+It is worth notice that this MS. (like Harl. 2421) frequently has correct
+readings in cases where even the MS. above described exhibits some blunder.
+A few such instances are given in the notes. For example, it has the
+reading _wrythith_ in Bk. i. met. 4. 7, where MS. C. has the absurd word
+_writith_, and MS. A. has _wircheth_. In the very next line, it has
+_thonder-leit_, and it is highly probable that _leit_ is the real word, and
+Stratmann. So again, in Bk. ii. met. 3. 13, it reads _ouer-whelueth_, like
+the black-letter editions; whilst MS. C. turns _whelueth_ into _welueeth_,
+and MS. A. gives the spelling _whelweth_. In Bk. ii. pr. 6. 63, it
+correctly retains _I_ after _may_, though MSS. C. and A. both omit it. In
+Bk. ii. pr. 8. 17, it has _wyndy_, not _wyndynge_; and I shew (in the note
+at p. 434) that _windy_ is, after all, the correct reading, since the Lat.
+text has _uentosam_. In Bk. iii. met. 3. 1, it resembles the printed
+editions in the insertion of the words _or a goter_ after _river_. In Bk.
+iv. pr. 3. 47, 48, it preserves the missing words: _peyne, he ne douteth
+nat þat he nys entecchid and defouled with_. In Bk. iv. met. 6. 24, it has
+the right reading, viz. _brethith_. Finally, it usually retains the word
+_whylom_ in places where the MS. next described substitutes the word
+_somtyme_. If any difficulty in the text raises future discussion, it is
+clear that this MS. should be consulted.
+printed at length by Dr. Morris for the Early English Text Society, and
+denoted by the letter 'A.' in my foot-notes. As it is so accessible, I need
+say but little. It is less correct than MS. Ii. 3. 21 in many readings, and
+the spelling, on the whole, is not so good. The omissions in it are also
+more numerous, but it occasionally preserves a passage which the Cambridge
+MS. omits. It is also imperfect, as it omits Prose 8 and Metre 8 of Bk.
+ii., and Prose 1 of Bk. iii. It has been collated throughout, though I have
+usually refrained from quoting such readings from it as are evidently
+inferior or wrong. I notice one peculiarity in particular, viz. that it
+almost invariably substitutes the word _somtyme_ for the _whylom_ found in
+other copies; and _whylom_, in this treatise, is a rather common word. Dr.
+Morris's account of the MS. is here copied.
+'The Additional MS. is written by a scribe who was unacquainted with the
+force of the final _-e_. Thus he adds it to the preterites of strong verbs,
+which do not require it; he omits it in the preterites of weak verbs where
+it is wanted, and attaches it to passive participles of weak verbs, where
+it is superfluous. The scribe of the Cambridge MS. is careful to preserve
+the final _-e_ where it is a sign (1) of the definite declension of the
+adjective; (2) of the plural adjective; (3) of the infinitive mood; (4) of
+the preterite of weak verbs; (5) of present participles; (6) of the 2nd
+pers. pret. indic. of strong verbs; (7) of adverbs; (8) of an older
+vowel-ending.
+'The Addit. MS. has frequently _thilk_ (singular and plural) and _-nes_ (in
+_wrechednes_, &c.), when the Camb. MS. has _thilke_ (as usual in the
+Canterbury Tales) and _-nesse_.'
+The copy of Boethius is contained on foll. 3-40. On fol. 41, recto, is a
+copy of Chaucer's _Truth_, and the description of the 'Persone,' extracted
+from the Prologue to the Cant. Tales. The other side of the leaf is blank.
+This is, in fact, the MS. which I denote by 'At.,' as described in the
+Introduction to the 'Minor Poems' in vol. i. p. 57.
+being that which I denote by 'Ad.,' and have described in the Introduction
+to the 'Minor Poems' in vol. i. p. 56. I believe this MS. to be of less
+value than MS. A. (above), and have therefore not collated it; for even A.
+is not a very good authority.
+Boetius: his 5 Books of the Comfort of Philosophy. Translated into English.
+On vellum, 152 leaves. XV century.'
+A small quarto MS. of the middle of the fifteenth century. The first Prose
+of Bk. i. begins (like MS. A.) with the words: 'In þe mene while þat y stil
+recorded þese þinges;' &c. Hence are derived the readings marked 'H.' in
+Morris's edition, pp. 62-64. It rightly reads _writheth_, _wyndy_,
+_bretheth_ (see p. xlii).
+the foot-notes to that poem) contains a part of Chaucer's Boethius. See the
+Second Report of the Historical MSS. Commission, p. 106.
+Salisbury. It was discovered by Dr. Wülker in 1875; see the _Academy_ for
+Oct. 5, 1875. Bk. i. met. 1 was printed, from this MS., by Dr. Wülker in
+_Anglia_, ii. 373. It resembles MS. A.
+of Comfort,' and is said to be of the fifteenth century. I do not know its
+real contents.
+CAXTON. Chaucer's Boethius was first printed by Caxton, without date; but
+probably before 1479. See the description in The Biography and Typography
+of W. Caxton, by W. Blades; second edition, 1882; p. 213. A complete
+collation of this text with MS. A., as printed by Morris, was printed by L.
+Kellner, of Vienna, in Englische Studien, vol. xiv, pp. 1-53; of which I
+have gladly availed myself. The text agrees very closely indeed with that
+printed by Thynne in 1532, and resembles MS. C. rather than MS. A.
+Perhaps it is necessary to remark that the readings of MS. C., as given in
+Kellner's collation, are sometimes incorrect, because MS. C. had not at
+that time been printed, and the readings of that MS. were only known to him
+from the foot-notes in Morris's edition, which are not exhaustive, but only
+record the more important variations. There is a curious but natural error,
+for example, in his note on l. 1002 of Morris's edition (Bk. ii. met. 3.
+missing in MS. A., but Morris supplied it from C. to complete the text.
+Caxton are given with all possible care and minuteness; and now that C. is
+also in type, the slight inevitable errors are easily put right. This
+excellent piece of work has saved me much trouble.
+It turns out that Caxton's text is of great value. He followed a MS. (now
+lost) which is, in some places, even more correct than MS. C. The following
+readings are of great importance, as they correct MSS. C. and A. (I denote
+Caxton's edition by the symbol Cx.)
+Bk. i. met. 4. 7. Cx. writheth. (Cf. p. xlii. above, l. 6.)
+Bk. i. met. 5. 26. Cx. punisheth.
+Bk. i. met. 5. 28. Cx. on the nekkes.
+Bk. i. pr. 6. 54. Cx. funden (_but read_ founden).
+Bk. i. pr. 6. 65. Cx. norissing. (Perhaps better than _norisshinges_, as in
+the MSS.; for the Lat. text has the sing. _fomitem_.) Cf. Bk. iii. met. 11.
+Bk. ii. pr. 3. 59. Cx. seeld (_better_ selde). It is clear that _yelde_ in
+Southern form of _selde_. See below.
+Bk. ii. met. 3. 14. Cx. selde (_correctly_). And so again in Bk. ii. pr. 6.
+Bk. ii. pr. 6. 63. Cx. may I most. (MSS. C. A. _omit_ I.)
+Bk. ii. pr. 8. 17. Cx. wyndy (which is right; see note, p. 434).
+Bk. iii. pr. 1. 26. Cx. thyne (_better_ thyn, _as in_ Thynne).
+Bk. iii. pr. 10. 10. Cx. denyed (_or read_ deneyed).
+Bk. iii. pr. 10. 51. Cx. that the fader. (MSS. that this prince.) Caxton's
+translation is closer; Lat. text, _patrem_.
+Bk. iii. pr. 11. 116. Cx. slepen.
+Bk. iii. pr. 11. 152. Cx. maistow (Thynne _has_ mayst thou) MS. C. _omits_
+thou; and MS. A. is defective.
+Bk. iii. pr. 12. 143. Cx. Parmenides.
+Bk. iv. pr. 6. 52. Cx. be cleped.
+Bk. iv. pr. 6. 188, 189. Cx. and some dispyse that they mowe not here
+(_misprint for_ bere). MSS. C. and A. omit this clause.
+Bk. v. pr. 1. 9, 10. Cx. assoilen to the the dette (where the former _the_
+= thee).
+Bk. v. pr. 3. 142. Cx. impetren.
+In a few places, Caxton's text is somewhat fuller than that of the MSS.
+Thus in Bk. ii. pr. 3. 8, Cx. has: thei ben herd _and sowne in eeres_ thei,
+&c. However, the Lat. text has merely: 'cum audiuntur.' And again, only 9
+lines lower (l. 17), Cx. inserts _and ajuste_ after _moeve_; but the Lat.
+text has merely: 'admouebo.' In some cases, it is closer to the Latin text;
+as, e. g. in Bk. i. met. 3. 9, where Cx. has _kaue_ (Lat. _antro_), whereas
+MSS. C. and A. have the pl. _kaues_. In Bk. i. pr. 3. 41, where C. has the
+E. form _Sorans_, Cx. preserves the Latin form _Soranos_.
+It thus appears that a collation with Caxton's text is of considerable
+service.
+THYNNE. Thynne's edition of Chaucer, printed in 1532, contains Boethius. I
+suspect that Thynne simply reprinted Caxton's text, without consulting any
+other authority; for it is hard to detect any difference, except that his
+spellings are somewhat less archaic. Hence this text, by a lucky accident,
+is an extremely good one, and I have constantly referred to it in all cases
+of difficulty. Readings from this edition are marked in the foot-notes with
+the symbol 'Ed.'
+The later black-letter copies are mere reprints of Thynne's text, each
+being, as usual, a little worse than its predecessor, owing to the
+introduction of misprints and later forms. I have consulted the editions of
+Chalmers, in vol. i. of his British Poets, as it is in Roman type. It
+closely resembles the edition of 1561, and is therefore not very correct.
+The present edition is, practically, the first in which the preparation of
+the text has received adequate attention. Caxton's edition probably
+represents a single MS., though a very good one; and all the black-letter
+editions merely reproduce the same text, with various new errors. Dr.
+Morris's edition was unfortunately founded on an inferior MS., as he
+discovered before the printing of it was completed. Dr. Furnivall's text
+reproduces the excellent MS. C., but collation was rightly refrained from,
+as his object was to give the exact spellings of the MS. for the benefit of
+students. Hence there are several passages, in both of these editions,
+which do not afford the best sense; in a few places, they are less correct
+than the black-letter editions. It is also a considerable drawback to the
+reader, that they reproduce, of course intentionally and fully, the
+troublesome and obscure punctuation-marks of the MSS.
+Finding the ground thus clear, I have taken occasion to introduce the
+following improvements. The text is founded on MS. C., certainly the best
+extant authority, which it follows, on the whole, very closely. At the same
+time, it has been carefully collated throughout with the text of MS. A.,
+and (what is even more important) with the texts printed by Caxton and
+Thynne and with the original Latin text (1) as given in the edition by
+gives the exact readings of the MS. used by Chaucer himself. By taking
+these precautions, I have introduced a considerable number of necessary
+corrections, so that we now possess a very close approximation to the
+original text as it left Chaucer's hands. In all cases where emendations
+are made, the various readings are given in the foot-notes, where 'C.' and
+'A.' refer to the two chief MSS., and 'Ed.' refers to Thynne's first
+edition (1532). But I have intentionally refrained from crowding these
+foot-notes with inferior readings which are certainly false. Some readings
+from the excellent MS. Ii. 1. 38 are given in the Notes; I now wish that I
+had collated it throughout. I have introduced modern punctuation. As I am
+here entirely responsible, the reader is at liberty to alter it, provided
+that he is justified in so doing by the Latin text.
+Wherever Chaucer has introduced explanatory words and phrases which are not
+in the Latin text, I have printed them _in italics_; as in lines 6, 7, and
+are usually translated or adapted from some of the Latin glosses and notes
+with which MS. C. abounds; as explained above, at p. xxxviii.
+I have also adopted an entirely new system of numbering. In Dr. Morris's
+edition, every line of the _printed_ text is numbered consecutively, from 1
+up to 5219, which is the last line of the treatise. In Dr. Furnivall's
+print of MS. C., a new numbering begins on every page, from 1 to 32, 33,
+The right method of reference is Tyrwhitt's, viz. to treat every chapter
+separately. Thus a reference to 'Bk. 1. met. 2' serves for every edition;
+but I have further taken occasion to number the lines of every chapter, for
+greater convenience. Thus the word _acountinge_ occurs in Bk. i. met. 2.
+some use, since it shews that the word occurs very nearly _in the middle_
+of the Metre. The usual method of referring to editions _by the page_ is an
+extremely poor and inconvenient makeshift; and it is really nearly time
+that editors should learn this elementary lesson. Unfortunately, some
+difficulty will always remain as to the numbering of the lines of _prose_
+works, because the length of each line is indefinite. The longest chapter,
+Bk. iv. pr. 6, here extends to 258 lines; the shortest, Bk. iii. met. 3,
+has less than 7 lines.
+I have also corrected the spelling of MS. C. in a large number of places,
+but within very narrow limits. The use of the final _e_ in that MS. is
+exceedingly correct, and has almost always been followed, except where
+notice to the contrary is given in the notes. My corrections are chiefly
+limited to the substitution of _in_ for _yn_, and of _i_ for short _y_, in
+such words as _bygynnen_, for which I write _biginnen_; the substitution of
+_y_ for long _i_, as in _whylom_, when the MS. has _whilom_; the use of _v_
+for the MS. symbol _u_ (where necessary); the substitution of _sch_ or
+_ssh_ for _ss_, when the sound intended is double _sh_; and the
+substitution of _e_ and _o_ for _ee_ and _oo_ where the vowels are
+obviously long by their position in the word. I also substitute _-eth_ and
+_-ed_ for the variable _-eth_ or _-ith_, and _-ed_, _-id,_ or _-yd_ of the
+MS. Such changes render the text more uniformly phonetic, and much more
+readable, without really interfering with the evidence. Changes of a bolder
+character are duly noted.
+The introduction of these slight improvements will not really trouble the
+reader. The trouble has been the editor's; for I found that the only
+satisfactory way of producing a really good text was to rewrite the whole
+of it. It seemed worth while to have a useful critical edition of
+'Boethius' for general reference, because of the considerable use which
+Chaucer himself made of his translation when writing many of his later
+poems.
+The Notes are all new, in the sense that no annotated edition of Chaucer's
+text has hitherto appeared. But many of them are, necessarily, copied or
+adapted from the notes to the Latin text in the editions by Vallinus and
+Valpy.
+§ 1. DATE OF THE WORK. The probable date is about 1380-2, and can hardly
+have been earlier than 1379 or later than 1383. No doubt it was in hand for
+a considerable time. It certainly followed close upon the translation of
+Boethius; see p. vii above.
+§ 2. SOURCES OF THE WORK. The chief authority followed by Chaucer is
+Boccaccio's poem named _Il Filostrato_, in 9 Parts or Books of very
+variable length, and composed in ottava rima, or stanzas containing eight
+lines each. I have used the copy in the Opere Volgari di G. Boccaccio;
+Firenze, 1832.
+Owing to the patient labours of Mr. W. M. Rossetti, who has collated the
+_Filostrato_ with the _Troilus_ line by line, and published the results of
+his work for the Chaucer Society in 1875, we are able to tell the precise
+extent to which Chaucer is indebted to Boccaccio for this story. The
+do not reckon in the 12 Latin lines printed below, at p. 404. Hence we
+obtain the following result.
+Total of lines in _Troilus_       8239
+Adapted from the _Filostrato_
+(2730 lines, condensed into)   2583
+----
+Balance due to Chaucer     5656
+In other words, Chaucer's debt to Boccaccio amounts to _less than_
+one-third of the whole poem; and there remains more than two-thirds of it
+to be accounted for from other sources. But even after all deductions have
+been made for passages borrowed from other authors, very nearly two-thirds
+remain for which Chaucer is solely responsible. As in the case of the
+Knightes Tale, close investigation shews that Chaucer is, after all, less
+indebted to Boccaccio than might seem, upon a hasty comparison, to be the
+case.
+As it was found impracticable to give Mr. Rossetti's results in full, I
+have drawn up lists of parallel passages in a somewhat rough way, which are
+given in the Notes, at the beginning of every Book; see pp. 461, 467, 474,
+general, to discover the passages which are in no way due to the
+_Filostrato_.
+§ 3. I have taken occasion, at the same time, to note _other_ passages for
+which Chaucer is indebted to some other authors. Of these we may
+particularly note the following. In Book I, lines 400-420 are translated
+from Petrarch's 88th Sonnet, which is quoted at length at p. 464. In Book
+III, lines 813-833, 1625-9, and 1744-1768 are all from the second Book of
+Boethius (Prose 4, 86-120 and 4-10, and Metre 8). In Book IV, lines
+from various parts of Boccaccio's _Teseide_; and a part of the last stanza
+is from Dante. On account of such borrowings, we may subtract about 220
+lines more from Chaucer's 'balance'; which still leaves due to him nearly
+§ 4. Of course it will be readily understood that, in the case of these
+are pointed out in the notes. Thus, in Book II, lines 402-3 are from Ovid,
+on. No particular notice need be taken of this, as similar hints are
+utilised in other poems by Chaucer; and, indeed, by all other poets. But
+there is one particular case of borrowing, of considerable importance,
+which will be considered below, in § 9 (p. liii).
+§ 5. It is, however, necessary to observe here that, in taking his story
+from Boccaccio, Chaucer has so altered and adapted it as to make it
+peculiarly his own; precisely as he has done in the case of the Knightes
+Tale. Sometimes he translates very closely and even neatly, and sometimes
+he takes a mere hint from a long passage. He expands or condenses his
+material at pleasure; and even, in some cases, transposes the order of it.
+It is quite clear that he gave himself a free hand.
+The most important point is that he did not accept the characters of the
+three chief actors, Troilus, Criseyde, and Pandarus, as pourtrayed by
+Boccaccio; he did not even accept all the incidents which gave occasion for
+their behaviour. Pandarus is no longer the cousin of Criseyde, a young and
+dashing gallant, but her middle-aged uncle, with blunted perceptions of
+what is moral and noble. In fact, Chaucer's Pandarus is a thorough and
+perfect study of character, drawn with a dramatic skill not inferior to
+that of Shakespeare, and worthy of the author of the immortal Prologue to
+the Canterbury Tales. I must leave the fuller consideration of these points
+to others; it is hardly necessary to repeat, at full length, the Prefatory
+Remarks by Mr. Rossetti, whilst at the same time, if I begin to quote from
+them, I shall hardly know where to stop. See also Ten Brink's English
+Literature, and Morley's English Writers, vol. v.
+§ 6. It has been observed that, whilst Chaucer carefully read and made very
+good use of two of Boccaccio's works, viz. Il Filostrato and Il Teseide, he
+nowhere mentions Boccaccio by name; and this has occasioned some surprise.
+But we must not apply modern ideas to explain medieval facts, as is so
+frequently done. When we consider how often MSS. of works by known authors
+have no author's name attached to them, it becomes likely that Chaucer
+obtained manuscript copies of these works unmarked by the author's name;
+and though he must doubtless have been aware of it, there was no cogent
+reason why he should declare himself indebted to one in whom Englishmen
+were, as yet, quite uninterested. Even when he refers to Petrarch in the
+Clerk's Prologue (E 27-35), he has to explain who he was, and to inform
+readers of his recent death. In those days, there was much laxity in the
+mode of citing authors.
+§ 7. It will help us to understand matters more clearly, if we further
+observe the haphazard manner in which quotations were often made. We know,
+for example, that no book was more accessible than the Vulgate version of
+the Bible; yet it is quite common to find the most curious mistakes made in
+reference to it. The author of Piers Plowman (B. text, iii. 93-95)
+attributes to Solomon a passage which he quotes from Job, and (B. vii. 123)
+to St. Luke, a passage from St. Matthew; and again (B. vi. 240) to St.
+Matthew, a passage from St. Luke. Chaucer makes many mistakes of a like
+nature; I will only cite here his reference to Solomon (Cant. Tales, A
+dictionaries we find passages cited from 'Dryden' or 'Bacon' at large,
+without further remark; as if the verification of a reference were of
+slight consequence. This may help to explain to us the curious allusion to
+_Zanzis_ as being the author of a passage which Chaucer must have known was
+from his favourite Ovid (see note to Troil. iv. 414), whilst he was, at the
+same time, well aware that Zanzis was not a poet, but a painter (Cant.
+Tales, C 16); however, in this case we have probably to do with a piece of
+our author's delicious banter, since he adds that Pandarus was speaking
+'for the nonce.'
+There is another point about medieval quotations which must by no means be
+missed. They were frequently made, not from the authors themselves, but
+from manuscript note-books which contained hundreds of choice passages,
+from all sorts of authors, collected by diligent compilers. Thus it was, I
+strongly suspect, that Albertano of Brescia was enabled to pour out such
+quantities of quotations as those which Chaucer copied from him in his Tale
+of Melibeus. Thus it was that borrowers of such note-books often trusted to
+their strong memories for the words of a quotation, yet forgot or mistook
+the author's name; as was readily done when a dozen such names occurred on
+every page. A MS. of this character is before me now. It contains many
+subjects in alphabetical order. Under _Fortitudo_ are given 17 quotations
+which more or less relate to it, from Ambrose, Gregory, Chrysostom, and the
+rest, all in less than a single page. And thus it was, without doubt, that
+Chaucer made acquaintance with the three scraps of Horace which I shall
+presently consider. It is obvious that Chaucer never saw Horace's works in
+the complete state; if he had done so, he would have found a writer after
+his own heart, and he would have quoted him even more freely than he has
+quoted Ovid. 'Chaucer on Horace' would have been delightful indeed; but
+this treat was denied, both to him and to us.
+§ 8. The first and second scraps from Horace are hackneyed quotations.
+'Multa renascentur' occurs in Troil. ii. 22 (see note, p. 468); and 'Humano
+capiti' in Troil. ii. 1041 (note, p. 472). In the third case (p. 464),
+there is no reason why we should hesitate to accept the theory, suggested
+by Dr. G. Latham (_Athenæum_, Oct. 3, 1868) and by Professor Ten Brink
+independently, that the well-known line (Epist. I, 2. 1)--
+'Troiani belli scriptorem, maxime Lolli,'
+was misunderstood by Chaucer (or by some one else who misled him) as
+implying that Lollius was the name of a writer on the Trojan war. Those who
+are best acquainted with the ways of medieval literature will least
+hesitate to adopt this view. It is notorious that _first lines_ of a poem
+are frequently quoted apart from their context, and repeated as if they
+were complete; and, however amazing such a blunder may seem to us now,
+there is really nothing very extraordinary about it.
+We should also notice that Lollius was to Chaucer a mere name, which he
+used, in his usual manner, as a sort of convenient embellishment; for he is
+inconsistent in his use of it. In Book i. 394, 'myn autour called Lollius'
+really means Petrarch; whereas in Book v. 1653, though the reference is to
+the Filostrato, Bk. viii. st. 8, Chaucer probably meant no more than that
+note to the House of Fame, 1468, where the name occurs for the third time.
+We may also notice that, in Book iii. 1325, Chaucer bears testimony to the
+'excellence' of his 'auctor.' The statement, in Book ii. 14, that he took
+the story 'out of Latin' is less helpful than it appears to be; for 'Latin'
+may mean either Latin or Italian.
+§ 9. I have spoken (§ 4) of 'a particular case of borrowing,' which I now
+propose to consider more particularly. The discovery that Chaucer mainly
+drew his materials from Boccaccio seems to have satisfied most enquirers;
+and hence it has come to pass that one of Chaucer's sources has been little
+regarded, though it is really of some importance. I refer to the Historia
+de Columpnis, i.e. Columnis (House of Fame, 1469). Chaucer's obligations to
+this author have been insufficiently explored.
+When, in 1889, in printing the Legend of Good Women with an accuracy never
+before attempted, I restored the MS. reading _Guido_ for the _Ouyde_ of all
+previous editions in l. 1396, a clue was thus obtained to a new source for
+some of Chaucer's work. It was thus made clear that the Legend of Hypsipyle
+and Medea was primarily derived from this source; and further, that it was
+from Guido that Chaucer derived his use of _Ilioun_ to mean the citadel of
+Troy (Leg. of Good Women, 936, and note). In the Nonne Prestes Tale, B
+taken from Guido. And I find in Lounsbury's Studies in Chaucer, ii. 315,
+the significant but insufficient remark, that 'it was in Guido da (_sic_)
+Colonna's work that Chaucer found the martial deeds of Troilus recounted in
+full, the slaughter he wrought, and the terror he inspired.' Hence we
+naturally come to the question, what incidents in Troilus are expressly due
+to Guido?
+§ 10. Before answering this question, it will be best to consider the
+famous _crux_, as to the meaning of the word _Trophee_.
+When Lydgate is speaking of his master's Troilus, viz. in his Prologue to
+the Falls of Princes, st. 3, he says that Chaucer
+'made a translacion
+Of a boke which called is _Trophe_
+In Lumbarde tong,' &c.
+No book or author is now known by that name; and, as Chaucer was in this
+case much indebted to Boccaccio, critics have jumped to the conclusion that
+_Trophee_ means either Boccaccio or the Filostrato; and this conclusion has
+been supported by arguments so hopeless as to need no repetition. But it is
+spoke somewhat casually; and, as Chaucer was to some extent indebted to
+Guido, he may possibly have meant Guido.
+So far, I have merely stated a supposition which is, in itself, possible;
+but I shall now adduce what I believe to be reasonable and solid proof of
+it.
+We have yet another mention of _Trophee_, viz. in Chaucer himself! In the
+Monkes Tale, B 3307, he says of Hercules--
+'At bothe the worldes endes, _seith Trophee_,
+In stede of boundes, he a piler sette.'
+Whence, we may ask, is this taken? My answer is, _from Guido_.
+§ 11. If we examine the sources of the story of Hercules in the Monkes
+Tale, we see that all the supposed facts _except_ the one mentioned in the
+two lines above quoted are taken from Boethius and Ovid (see the Notes).
+Now the next most obvious source of information was Guido's work, since the
+very first Book has a good deal about Hercules, and the Legend of Hypsipyle
+clearly shews us that Chaucer was aware of this. And, although neither Ovid
+(in Met. ix.) nor Boethius has any allusion to the Pillars of Hercules,
+they are expressly mentioned by Guido. In the English translation called
+the Gest Historiale of the Destruction of Troy, ed. Panton and Donaldson
+(which I call, for brevity, the alliterative Troy-book), l. 308, we read:--
+'But the wonders that he wroght in this world here
+In yche cuntré ben knowen under Criste evyn.
+Tow pyllers he pight in a place lowe
+Vppon Gades groundes, that he gotton had.'
+And again, further on, the Latin text has:--'Locus ille, in quo predicte
+_Herculis columpne_ sunt affixe, dicitur Saracenica lingua Saphy.' To which
+is added, that Alexander afterwards came to the same spot.
+When Lydgate, in translating Guido, comes to this passage, he says:--
+'And of the pyllers that at Gades he set,
+Which Alexsaundre, of Macedone the kyng,
+That was so worthy here in his lyuynge,
+Rood in his conquest, as _Guydo_ list to write,
+With all his hoost proudely to visyte ...
+And these boundes named be of all
+Of Hercules, for he hymselfe theim set
+As for his markes, all other for to lette
+Ferther to passe, as _Guydo_ maketh mynde'; &c.
+Siege of Troye, ed. 1555, fol. B6.
+We can now easily see that, when Lydgate speaks of the book 'which called
+is Trophe in Lumbarde tong,' he is simply copying the name of the book from
+Chaucer, though he seems also to have heard some rumour of its being so
+called in Italy.
+§ 12. _Why_ this particular book was so called, we have no means of
+course the Latin side-note in some of the MSS. of the Monkes Tale, which
+explains 'Trophee' as referring to 'ille vates Chaldeorum Tropheus,' must
+be due to some mistake, even if it emanated (as is possible) from Chaucer
+himself. It is probable that, when the former part of the Monkes Tale was
+written, Chaucer did not know much about Guido's work; for the account of
+Hercules occurs in the very first chapter. Perhaps he confused the name of
+Tropheus with that of Trogus, i.e. Pompeius Trogus the historian, whose
+work is one of the authorities for the history of the Assyrian monarchy.
+§ 13. It remains for me to point out some of the passages in Troilus which
+are clearly due to Guido, and are not found in Boccaccio at all.
+Book I. 145-7:--
+'But the Troyane gestes, as they felle,
+In Omer, or in Dares, or in Dyte,
+Who-so that can, may rede hem as they wryte.'
+The reference here is simply to Guido's history, whence, and not at first
+hand, both Chaucer and his readers could easily get the required
+information. Guido constantly refers to these authors; and, although he
+Dares and Dytes, whose names he frequently cites as being those of his best
+With the description of Troilus in ll. 1072-1085, it is interesting to
+compare the words of Guido, in Book VIII. 'Troilus vero, licet multum fuit
+corpore magnus, magis fuit tamen corde magnanimus; animosus multum, set
+multam habuit in sua animositate temperiem; dilectus plurimum a puellis cum
+ipse aliqualem seruando modestiam delectaretur in illis. In viribus et
+strenuitate bellandi _uel fuit alius Hector uel secundus ab ipso_. In toto
+eciam regno Troie iuuenis nullus fuit tantis viribus nec tanta audacia
+Book II. 157-161, where the very phrase 'Ector the secounde' is used; see
+also ll. 181-189.
+§ 14. Book II. 618. 'The yate ... Of Dardanus.' The six gates of Troy are
+named in Guido, Book IV, 'Quarum vna _Dardanides_, secunda Tymbrea, tercia
+Helyas, quarta Chetas, quinta Troiana, vltima Anthenorides vocabantur.'
+'The furst and the fairest fourmet was Dardan.'
+Allit. Troy-book, l. 1557.
+Lydgate keeps the form 'Dardanydes'; cap. xi. fol. F 5.
+§ 15. Book IV. 204. 'For he was after traytour to the toun.' The treason of
+Antenor is told by Guido at great length; see 'Boke xxviii' of the allit.
+Troy-book, p. 364; Lydgate, Siege of Troye, Y 6, back. Cf. Dictys
+Cretensis, lib. iv. c. 22.
+Book IV. 1397, &c. 'For al Apollo and his clerkish lawes,' &c. Guido gives
+rather a long account of the manner in which Criseyde upbraided her father
+Chalcas at their meeting. Chaucer says nothing about this matter in Book V.
+Creseyde _intended_ to make it! I quote from Book XIX. 'Sane deceperunt te
+Apollinis friuola responsa, a quo dicis te suscepisse mandatum vt tu
+specialiter hostibus adhereres. Sane non fuit ille deus Apollo, set, puto,
+fuit comitiua infernalium Furiarum a quibus responsa talia recepisti.' Cf.
+allit. Troy-book, 8103-40; and observe that Lydgate, in his Siege of Troye,
+R 3, back, omits the speech of Criseyde to her father, on the ground that
+it is given in Chaucer. Yet such is not the case, unless we allow the
+present passage to stand for it. In Book V. 194, Chaucer (following
+Boccaccio) expressly says that she was _mute_!
+Book IV. 1695-1701. This last stanza is not in Boccaccio; but the general
+sense of it is in Guido, Book XIX, where the interview ends thus:--'Set
+diei Aurora quasi superueniente uicina, Troilus a Brisaida in multis
+anxietatibus et doloribus discessit; et ea relicta ad sui palacii menia
+properauit.' Lydgate, at this point, refers us to Chaucer; Siege of Troye,
+fol. R 2, back. The allit. Troy-book actually does the same; l. 8054.
+§ 16. Book V. 92-189. These fourteen stanzas are not in Boccaccio. The
+corresponding passage in Guido (Book XIX) is as follows:--
+'Troilus et Troiani redeunt, Grecis eam recipientibus in suo commeatu.
+Inter quos dum esset Diomedes, et illam Diomedes inspexit, statim in ardore
+veneris exarsit et eam vehementi desiderio concupiuit, qui collateralis
+associando Brisaidam cum insimul equitarent, sui ardoris flammam continere
+non valens Brisaide reuelat sui estuantis cordis amorem; quam in multis
+affectuosis verbis et blandiciis necnon et promissionibus reuera magnificis
+allicere satis humiliter est rogatus. Set Brisaida in primis monitis, vt
+mulierum moris est, suum prestare recusauit assensum; nec tamen passa est
+quin post multa Diomedis verba, ipsum nolens a spe sua deicere verbis
+similibus dixit ei: "Amoris tui oblaciones ad presens nec repudio nec
+admitto, cum cor meum non sit ad presens ita dispositum quod tibi possim
+aliter respondere."'
+is merely as follows:--
+'Egli era grande e bel della persona,
+Giovane fresco e piacevole assai,
+E forte e fier siccome si ragiona,
+E parlante quant'altro Greco mai,
+E ad amor la natura aveva prona.'
+The account in Guido (Book VIII) is as follows:--'Diomedes vero multa fuit
+proceritate, distensus amplo pectore, robustis scapulis, aspectu ferox; in
+promissis fallax; in armis strenuus; victorie cupidus; timendus a multis,
+cum multum esset iniuriosus; sermonibus sibi nimis impaciens, cum molestus
+seruientibus nimis esset; libidinosus quidem multum, et qui multas traxit
+angustias ob feruorem amoris.' Cf. allit. Troy-book, ll. 3794-3803;
+Lydgate, Siege of Troye, fol. K 1, back.
+Book V. 810. To gon y-tressed, &c. Perhaps suggested by the remark in Guido
+(Book XIX) that Cressid's hair was unbound in her hour of deepest
+sorrow:--'aureos crines suos a lege ligaminis absolutos a lactea sui
+capitis cute diuellit.' Cf. IV. 736.
+Book V. 827-840. Troilus is not described by Boccaccio. Guido's description
+of him has already been quoted above; see remarks on Book I. 1072; pp. lvi,
+lvii.
+Book V. 1002-4. The parallel passage in Guido has already been quoted,
+viz.: 'Amoris tui oblaciones ad presens nec repudio nec admitto.' See
+remarks on l. 92; p. lviii.
+Book V. 1013. Obviously from Guido; the passage follows soon after that
+patris tentoria se debebat. Et ea perueniente ibidem, ipse eam ab equo
+gerebat in manu, ab ea nullo percipiente furtiue subtraxit. Set cum ipsa
+sola presensit, placitum furtum dissimulauit amantis.'
+For this incident of the glove, cf. allit. Troy-book, l. 8092.
+Book V. 1023-1099. This passage is not in Boccaccio. Several hints for it
+seem to have been taken from Guido, Book XIX, whence I quote the following.
+'Nondum dies illa ad horas declinauerat vespertinas, cum iam suas Brisaida
+recentes mutauerat voluntates,' &c.. 'Et iam nobilis Troili amor ceperat in
+sua mente tepescere, et sic repente subito facta volubilis se in omnibus
+variauit. Quid est ergo quod dicitur de constancia mulierum,' &c.
+'Tunc ilico Diomedes superuenit . . qui repente in Troilum irruit, ipsum ab
+equo prosternit, ab eo auferens equum suum, quem per suum nuncium specialem
+Brisaide nunciet equum ipsum eius fuisse dilecti . . . . Brisaida vero
+equum Troili recepit hilariter, et ipsi nuncio refert hec verba: "Dic
+secure domino tuo quod ilium odio habere non possum, qui me tanta puritate
+hortatur vt sibi consenciat in multitudine lacrimarum. Set illa, que multum
+vigebat sagacitatis astucia, Diomedem sagacibus machinacionibus differre
+procurat, ut ipsum afflictum amoris incendio magis affligat, et eius amoris
+vehemenciam in maioris augmentum ardoris extollat. Vnde Diomedi suum amorem
+non negat, etiam nec promittit."'
+In l. 1039, read _he_, i. e. Diomede; see my note on the line, at p. 499.
+In l. 1037, _the story_ means the Historia Troiana; and in l. 1044, _in the
+stories elles-where_ means 'elsewhere in the same History.' The passage (in
+Book XXV) is as follows:--
+'Troilus autem tunc amorem Brisaide Diomedi obprobriosis verbis improperat;
+set Greci Diomedem ... abstraxerunt' ...
+'Interim Brisaida contra patris sui voluntatem videre Diomedem in lecto suo
+iacentem ex vulnere sibi facto frequenter accedit, et licet sciuisset illum
+a Troilo dudum dilecto suo sic vulneratum, multa tamen in mente sua
+reuoluit; et dum diligenter attendit de se iungenda cum Troilo nullam sibi
+superesse fiduciam, totum suum animum, tanquam varia et mutabilis, sicut
+est proprium mulierum, in Diomedis declinat amorem.'
+Cf. Troy-book, ll. 9942-59; Lydgate, Siege of Troye, fol. U 4.
+Book V. 1558-60. The treacherous slaughter of Hector by Achilles is in
+Guido, near the end of Book XXV. See my note to l. 1558, at p. 503.
+Book V. 1771. 'Read Dares.' This merely means that Guido cites Dares as his
+authority for the mighty deeds of Troilus. In Book XXV, I find:--'_Scripsit
+cf. l. 1802 below. So in the allit. Troy-book, ll. 9877-9:--
+'As _Dares_ of his dedis duly me tellus,
+A thowsaund thro knightes throng he to dethe,
+That day with his dynttes, of the derffe Grekes.'
+So Lydgate, Siege of Troye, fol. U 3, back:--
+'And, as _Dares_ wryteth specyally,
+A thousand knightes this Troyan champyowne
+That day hath slayne, rydyng vp and downe,
+As myne auctour Guydo lyst endyte;
+_Saue after hym_, I can no ferther wryte.'
+I. e. he only knew of Dares through the medium of Guido. In fact, Dares
+(capp. 29, 31, 32) has 'multos,' not 'mille.'
+Book V. 1849-1855. The introduction of this stanza is quite irrelevant,
+unless we remember that, in Guido, the story of Troy is completely mixed up
+with invectives against idolatry. In Book X, there is a detailed account of
+the heathen gods, the worship of which is attributed to the instigation of
+fiends. See the long account in the allit. Troy-book, ll. 4257-4531,
+concluding with the revelation by Apollo to Calchas of the coming fall of
+Troy. Cf. Lydgate, Siege of Troye, fol. K 6. Of course, this notion of the
+interference of the gods in the affairs of the Greeks and Trojans is
+ultimately due to Homer.
+§ 17. With regard to the statement in Guido, that Achilles slew Hector
+_treacherously_, we must remember how much turns upon this assertion. His
+object was to glorify the Trojans, the supposed ancestors of the Roman
+race, and to depreciate the Greeks. The following passage from Guido, Book
+XXV, is too characteristic to be omitted. 'Set o Homere, qui in libris tuis
+Achillem tot laudibus, tot preconiis extulisti, _que probabilis racio_ te
+induxit, vt Achillem tantis probitatis meritis vel titulis exultasses?'
+Such was the general opinion about Homer in the thirteenth and fourteenth
+centuries.
+§ 18. This is not the place for a full consideration of the further
+question, as to the sources of information whence Boccaccio and Guido
+respectively drew their stories. Nor is it profitable to search the
+supposed works of Dares and Dictys for the passages to which Chaucer
+appears to refer; since he merely knew those authors by name, owing to
+Guido's frequent appeals to them. Nevertheless, it is interesting to find
+that Guido was quite as innocent as were Chaucer and Lydgate of any
+knowledge of Dares and Dictys at first hand. He acquired his great
+reputation in the simplest possible way, by stealing the whole of his
+'History' bodily, from a French romance by Benoît de Sainte-More, entitled
+_Le Roman de Troie_, which has been well edited and discussed by Mons. A.
+Joly. Mons. Joly has shewn that the _Roman de Troie_ first appeared between
+the years 1175 and 1185; and that Guido's _Historia Troiana_ is little more
+than an adaptation of it, which was completed in the year 1287, without any
+acknowledgment as to its true source.
+Benoît frequently cites Dares (or Daires), and at the end of his poem, ll.
+'Ce que dist Daires et Dithis
+I avons si retreit et mis.'
+In his Hist. of Eng. Literature (E. version, ii. 113), Ten Brink remarks
+that, whilst Chaucer prefers to follow Guido rather than Benoît in his
+Legend of Good Women, he 'does the exact opposite to what he did in
+Troilus.' For this assertion I can find but little proof. It is hard to
+find anything in Benoît's lengthy Romance which he may not have taken, much
+more easily, from Guido. There are, however, just a few such points in Book
+V. 1037-1078. Thus, in l. 1038, Criseyde gives Diomede Troilus' horse; cf.
+Benoît, l. 15046--'lo cheval Vos presterai.' L. 1043 is from the same, ll.
+'La destre manche de son braz
+Bone et fresche de ciclaton
+Li done en leu de gonfanon.'
+Ll. 1051-7 answer to the same, beginning at l. 20233; and l. 1074 is from
+the same, l. 20308:--'Dex donge bien à Troylus!' I doubt if there is much
+more.
+For some further account of the works ascribed to Dares Phrygius and Dictys
+Cretensis, both duly edited among the 'Delphin Classics,' I must refer the
+reader to Smith's Classical Dictionary.
+§ 19. The whole question of the various early romances that relate to Troy
+is well considered in a work entitled 'Testi Inediti di Storia Trojana,
+preceduti da uno studio sulla Leggenda Trojana in Italia, per Egidio Gorra;
+Torino, 1887'; where various authorities are cited, and specimens of
+several texts are given. At p. 136 are given the very lines of Benoît's
+_Roman_ (ll. 795-6) where Guido found a reference to the columns of
+Hercules:--
+'Et les bonnes ilec ficha
+Ou Alixandre les trova.'
+This hint he has somewhat elaborated, probably because he took a personal
+interest in 'columns,' on account of their reference to his own
+name--'delle Colonne.' I believe that the notion of Alexander finding
+Hercules' Pillars is due to a rather large blunder in geography. Hercules
+set up his pillars 'at the end of the world,' viz. at the straits of
+Gibraltar, whereas Alexander set up his at another 'end of the world,' viz.
+at the furthest point of India which he succeeded in reaching. So says his
+Romance; see Alexander and Dindimus, ed. Skeat, l. 1137; Wars of Alexander,
+l. 5063. The setting up of pillars as boundary-marks seems to have been
+common; cf. Vergil, Æn. xi. 262. Among the points noticed by Gorra, I may
+mention the following:--
+who, it was pretended, accompanied Idomeneus to the Trojan war. Achilles is
+depicted in dark colours; he is treacherous towards Agamemnon; falls in
+love with the Trojan princess, Polyxena; and slays Hector by a stratagem.
+It appears to have been a work of invention, resting upon no Greek
+original.
+Phrygius, a work which (as was pretended) was discovered by Cornelius
+Nepos. This also, in the opinion of most critics, was an original work. At
+p. 115, there is a comparison of the lists of Greek leaders and the number
+of their ships (cf. Homer, Il. ii.) as given by Dares, Benoît, and Guido.
+Benoît.
+Troy. Such are: La Istorietta Trojana, with extracts from it at p. 371; a
+romance by Binduccio dello Scelto, with extracts relating to 'Troilo e
+Briseida' at p. 404; a version of Guido by Mazzeo Bellebuoni, with extracts
+relating to 'Paride ed Elena' at p. 443; an anonymous version, with
+extracts relating to 'Giasone e Medea' at p. 458; a version in the Venetian
+dialect, with extracts relating to 'Ettore ed Ercole' at p. 481; another
+anonymous version, with extracts at p. 493; and La 'Fiorita' of Armannino,
+Giudice da Bologna, with extracts at p. 532.
+Hector, Poema d'Achille, Il Trojano di Domenico da Montechiello, Il Trojano
+a stampa (i.e. a printed edition of Il Trojano), and L'Intelligenza. At p.
+anonymous poem, also in ottava rima, called Il cantare di Insidoria. It
+appears that Boccaccio followed some recension of the French text of
+Benoît, but much of the work is his own invention. In particular, he
+created the character of Pandaro, who resembles a Neapolitan courtier of
+his own period.
+The most interesting of the extracts given by Gorra are those from
+Binduccio dello Scelto; at p. 411, we have the incident of Diomede
+possessing himself of Briseida's glove, followed by the interview between
+Briseida and her father Calcas. At p. 413, Diomede overthrows Troilus,
+takes his horse from him and sends it to Briseida, who receives it
+graciously; and at p. 417, Briseida gives Diomede her sleeve as a
+love-token, after which a 'jousting' takes place between Diomede and
+Troilus, in which the former is badly wounded.
+For further remarks, we are referred, in particular, to H. Dunger's
+Dictys-Septimius: über die ursprüngliche Abfassung und die Quellen der
+Ephemeris belli Troiani; Dresden, 1878 (Programm des Vitzthumschen
+Gymnasiums); to another essay by the same author on Die Sage vom
+trojanischen Kriege, Leipzig, 1869; to Koerting's Dictys und Dares, &c.,
+Halle, 1874; to A. Joly's Benoît de Sainte-More et le Roman de Troie,
+Paris, 1871; and to an article by C. Wagener on Dares Phrygius, in
+_Philologus_, vol. xxxviii. The student may also consult E. Meybrinck, Die
+Auffassung der Antike bei Jacques Millet, Guido de Columna, und Benoît de
+Ste-More, printed in Ausgaben und Abhandlungen aus dem Gebiete für
+Romanischen Philologie, Marburg, 1886; where the author concludes that
+Millet was the originator of the story in France. Also W. Greif, Die
+mittelalterlichen Bearbeitungen der Trojanersage; Marburg, 1886.
+§ 20. A few words may be said as to the names of the characters. Troilus is
+only once mentioned in Homer, where he is said to be one of the sons of
+Priam, who were slain in battle, Iliad, xxiv. 257; so that his story is of
+medieval invention, except as to the circumstance of his slayer being
+Achilles, as stated by Vergil, Æn. i. 474, 475; cf. Horace, Carm. ii. 9.
+archer, who wounded Menelaus; see Homer, Il. iv. 88, Vergil, Æn. 5. 496;
+and (2) a companion of Æneas, slain by Turnus; see Vergil, Æn. ix. 672, xi.
+late invention. The heroine of Benoît's poem is Briseida, of whom Dares (c.
+venustis, corpore aequali, blandam, affabilem, uerecundam, animo simplici,
+piam'; but he records nothing more about her. The name is simply copied
+often) as a new nominative case; this Briseis was the captive assigned to
+Achilles. But Boccaccio substitutes for this the form Griseida, taken from
+the accusative of Homer's Chryseis, mentioned just two lines above, Il. i.
+form, with the _ey_ pronounced as the _ey_ in _prey_. He probably was led
+to this correction by observing the form Chryseida in his favourite author,
+Ovid; see Remed. Amoris, 469. Calchas, in Homer, Il. i. 69, is a Grecian
+priest; but in the later story he becomes a Trojan soothsayer, who,
+foreseeing the destruction of Troy, secedes to the Greek side, and is
+looked upon as a traitor. Cf. Vergil, Æn. ii. 176; Ovid, Art. Amat. ii.
+§ 21. In Anglia, xiv. 241, there is a useful comparison, by Dr. E. Köppel,
+of the parallel passages in Troilus and the French Roman de la Rose, ed.
+Méon, Paris, 1814, which I shall denote by 'R.' These are mostly pointed
+out in the Notes. Köppel's list is as follows:--
+Troilus. I. 635 (cf. III. 328).--Rom. Rose, 8041. 637.--R. 21819. 747.--R.
+II. 167.--R. 5684. 193.--R. 8757. 716.--R. 5765. 754.--R. 6676. 784 (cf.
+III. 294.--R. 7085. 328; _see_ I. 635. 1035; _see_ II. 784. 1634.--R. 8301.
+Some of the resemblances are but slight; but others are obvious. The
+numbers refer to the beginning of a passage; sometimes the really
+coincident lines are found a little further on.
+The parallel passages common to Troilus and Boethius are noted above, pp.
+xxviii-xxx.
+An excellent and exhaustive treatise on the Language of Chaucer's Troilus,
+by Prof. Kitteredge, is now (1893) being printed for the Chaucer Society. A
+Ryme-Index to the same, compiled by myself, has been published for the same
+society, dated 1891.
+§ 22. I have frequently alluded above to the alliterative 'Troy-book,' or
+'Gest Historiale,' edited for the Early English Text Society, in 1869-74,
+by Panton and Donaldson. This is useful for reference, as being a tolerably
+close translation of Guido, although a little imperfect, owing to the loss
+of some leaves and some slight omissions (probably) on the part of the
+scribe. It is divided into 36 Books, which agree, very nearly, with the
+Books into which the original text is divided. The most important passages
+for comparison with Troilus are lines 3922-34 (description of Troilus);
+(Briseida and her dismissal from Troy); 8026-8181 (sorrow of Troilus and
+Briseida, her departure, and the interviews between Briseida and Diomede,
+and between her and Calchas her father); 8296-8317 (Diomede captures
+Troilus' horse, and presents it to Briseida); 8643-60 (death of Hector);
+wounded Diomede); 10055-85, 10252-10311 (deeds of Troilus, and his death);
+At l. 8053, we have this remarkable allusion; speaking of Briseida and
+Troilus, the translator says:--
+I.e. whoever wishes to know more about their wo, let him turn to TROILUS,
+and there find enough. This is a clear allusion to Chaucer's work by its
+name, and helps to date the translation as being later than 1380 or 1382.
+And, as the translator makes no allusion to Lydgate's translation of Guido,
+the date of which is 1412-20, we see that he probably wrote between 1382
+§ 23. Another useful book, frequently mentioned above, is Lydgate's Siege
+several allusions to Chaucer's Troilus, and more than one passage in praise
+of Chaucer's poetical powers, two of which are quoted in Mr. Rossetti's
+remarks on MS. Harl. 3943 (Chaucer Soc. 1875), pp. x, xi. These passages
+are not very helpful, though it is curious to observe that he speaks of
+Chaucer not only as 'my maister Chaucer,' but as 'noble Galfride, chefe
+Poete of Brytaine,' and 'my maister Galfride.' The most notable passages
+occur in cap. xv, fol. K 2; cap. xxv, fol. R 2, back; and near the end,
+fol. Ee 2. Lydgate's translation is much more free than the preceding one,
+and he frequently interpolates long passages, besides borrowing a large
+number of poetical expressions from his 'maister.'
+§ 24. Finally, I must not omit to mention the remarkable poem by Robert
+Henrysoun, called the Testament and Complaint of Criseyde, which forms a
+sequel to Chaucer's story. Thynne actually printed this, in his edition of
+black-letter editions follow suit. Yet the 9th and 10th stanzas contain
+these words, according to the edition of 1532:--
+'Of his distresse me nedeth nat reherse;
+For worthy Chaucer, in that same boke,
+In goodly termes, and in ioly verse,
+Compyled hath his cares, who wyl loke.
+To breke my slepe, another queare I toke,
+In whiche I founde the fatal desteny
+Of fayre Creseyde, whiche ended wretchedly.
+Who wot if al that Chaucer wrate was trewe?
+Nor I wotte nat if this narration
+Be authorysed, or forged of the newe
+Of some poete by his inuention,
+Made to reporte the lamentation
+And woful ende of this lusty Creseyde,
+And what distresse she was in or she deyde.'
+Henry, Prince of Wales, afterwards Henry V, as shewn by his arms on leaf 2.
+The poem occupies leaves 2-120; each page usually contains five stanzas.

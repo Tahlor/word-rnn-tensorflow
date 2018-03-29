@@ -35,7 +35,7 @@ class TextLoader():
         Tokenization/string cleaning for all datasets except for SST.
         Original taken from https://github.com/yoonkim/CNN_sentence/blob/master/process_data
         """
-        string = re.sub(r"\n\s*", r" | ", string)
+            string = re.sub(r"\n\s*", r" | ", string)
         string = re.sub(r"[^|^가-힣A-Za-z0-9(),!?\'\`]", " ", string)
         #string = re.sub(r"\'s", " \'s", string)
         #string = re.sub(r"\'ve", " \'ve", string)
@@ -173,6 +173,13 @@ class TextLoader():
         
     def get_sentiment():
         pass
-        
+
     def get_summary():
         gensim.summarization.summarizer.summarize(text, ratio=0.2, word_count=None, split=False)
+
+if __name__ == "__main__":
+    path = r"D:\PyCharm Projects\word-rnn-tensorflow\data"
+    data_loader = TextLoader(path, 1, 100)
+    x,y,z = data_loader.next_batch()
+    print(data_loader.words[x[0].astype(int)])
+    print(data_loader.words[z[0]])

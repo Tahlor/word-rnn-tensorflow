@@ -1,4 +1,3 @@
-Produced by Alan R. Light
 By Vachel Lindsay
 With an introduction by Harriet Monroe Editor of "Poetry"
 poems which are meant to be read aloud, are traditionally printed to the
@@ -7,7 +6,6 @@ impracticable, to imitate in a simple ASCII text.  Therefore these
 'stage-directions' are given on the line BEFORE the first line they
 refer to, and are furthermore indented 20 spaces and enclosed by #s to
 keep it clear to the reader which parts are text and which parts
-directions.]
 edition, which was first published in New York, in September, 1914. Due
 to a great deal of irregularity between titles in the table of contents
 and in the text of the original, there are some slight differences from
@@ -15,7 +13,6 @@ the original in these matters--with the more complete titles replacing
 cropped ones.  In one case they are different enough that both are
 given, and "Twenty Poems in which...." was originally "Twenty Moon
 Poems" in the table of contents--the odd thing about both these titles
-is that there are actually twenty-TWO moon poems.]
 Introduction.  By Harriet Monroe
 When 'Poetry, A Magazine of Verse', was first published in Chicago in
 the autumn of 1912, an Illinois poet, Vachel Lindsay, was, quite
@@ -2677,7 +2674,6 @@ Good comrade and philosopher and prince,
 Thoughtful and thoroughbred and strong and kind,
 Dare they to move against your pride benign,
 Lord of the Law, high chieftain of the mind?
-*****
 But what can Europe say, when in your name
 The throats are cut, the lotus-ponds turn red?
 And what can Europe say, when with a laugh
@@ -2742,7 +2738,6 @@ Booth Enters into Heaven" (1913) and "The Congo" (1914).
 Lindsay himself considered his drawings and his prose writings to be as
 important as his verse, all coming together to form a whole. His
 "Collected Poems" (1925) gives a good selection.
-*****
 From an anthology of verse by Jessie B. Rittenhouse (1913, 1917):
 "Lindsay, Vachel.  Born November 10, 1879.  Educated at Hiram College,
 Ohio. He took up the study of art and studied at the Art Institute,

@@ -1,13 +1,4 @@
-sz by Adam Mickiewicz
-This eBook is for the use of anyone anywhere at no cost and with almost no
 restrictions whatsoever. You may copy it, give it away or re-use it under
-online at http://www.gutenberg.org/license
-Title: Pan Tadeusz
-Author: Adam Mickiewicz
-Release Date:  [Ebook #28240]
-Language: English
-Character set encoding: US-ASCII
-_All rights reserved_
 THE present translation of _Pan Tadeusz_ is based on the editions of
 Biegeleisen (Lemberg, 1893) and Kallenbach (Brody, 1911). I have had
 constantly by me the German translation by Lipiner (ed. 2, Leipzig, 1898)
@@ -230,11 +221,9 @@ from afar like grave-diggers; if even in Heaven they see no hope--then it
 is no marvel that they loathe men, the world, themselves; that, losing
 their reason from their long tortures, they spit upon themselves and
 consume one another.
-* * * * * *
 "I longed to pass by in my flight, bird of feeble wing--to pass by regions
 of storm and thunder, and to search out only pleasant shade and fair
 weather--the days of my childhood, and my home gardens.
-* * * * * *
 "One happiness remains: when in a grey hour you sit by the fireside with a
 few of your friends and lock the door against the uproar of Europe, and
 escape in thought to happier times, and muse and dream of your own land.
@@ -243,14 +232,11 @@ flooded the face of all Poland, of the glory that not yet has ceased
 resounding: of these to think we had never the heart! For the nation is in
 such anguish that even Valour, when he turns his gaze on its torture, can
 do naught but wring the hands.
-* * * * * *
 "Those generations black with mourning--that air heavy with so many
 curses--there--thought dared not turn its flight to a sphere dreadful even
 to the birds of thunder.
-* * * * * *
 "O Mother Poland! Thou wast so lately laid in the grave. No man has the
 strength to speak of thee!
-* * * * * *
 "Ah! whose lips can dare to fancy that to-day they will at last find the
 magic word that will soften marble-like despair, that will lift the stony
 lid from men's hearts, and will open eyes heavy with so many tears?
@@ -271,7 +257,6 @@ happiness for a Pole: the land of his childhood! That land will ever
 remain holy and pure as first love; undisturbed by the remembrance of
 errors, not undermined by the deceitfulness of hopes, and unchanged by the
 stream of events.
-* * * * * *
 "Gladly would I greet with my thoughts those lands where I rarely wept and
 never gnashed my teeth; lands of my childhood, where one roamed over the
 world as through a meadow, and among the flowers knew only those that were
@@ -299,7 +284,6 @@ for my songs; like the fabled cranes on the wild island, which flew in
 spring over the enchanted palace and heard the loud lament of an enchanted
 boy: each bird threw the boy a single feather; he made him wings and
 returned to his own people.
-* * * * * *
 "O, if some time I might attain this joy--that this book might find shelter
 beneath roofs of thatch, and that the village girls, as they spin and turn
 the wheel, humming the while their much-loved verses, of the girl who so
@@ -328,32 +312,17 @@ Literackie_, Lemberg).
 THE principal characters in _Pan Tadeusz_ are as follows. The approximate
 pronunciation of each proper name is indicated in brackets, according to
 the system used in _Webster's New International Dictionary_.
-Thaddeus (Tadeusz) Soplica [Ta-de'oosh So-ple'tsae].
-Jacek Soplica, his father [Yae'tsek],
 Judge Soplica, brother of Jacek.
 Telimena, a distant relative of the Soplicas and of
-the Horeszkos [Te-li-me'nae, Ho-resh'ko].
-Zosia, ward of Telimena [Zo'shae],
-Hreczecha, the Seneschal [Hre-che'hae].
 The Chamberlain.
-Protazy Brzechalski, the Apparitor [Pro-tae'zi Bzhe-hael'ski].
 The Assessor.
-Bolesta, the Notary [Bo-les'tae].
 The Count, a distant relative of the Horeszko
 family.
 Gerwazy Rembajlo, the Warden, formerly a servant
-of the Horeszko family [Ger-vae'zi Rem-bai'wo].
-Rykov, a Russian captain [Ri'kof].
-Jankiel, a Jew [Yaen'kyel].
-Maciej (Maciek) Dobrzynski [Mae'cha (Mae'chek)
-Dob-zhin'ski].
 Sprinkler (also called Baptist), Bucket, Buzzard,
 Razor, Awl, the Prussian: all members of
 the Dobrzynski clan.
-Henryk Dombrowski [Hen'rik Dom-brof'ski].
-Otton-Karol Kniaziewicz [Ot'ton-Kae'rol Knyae-zhe'vich].
 The following names are frequently mentioned in the poem: Kosciuszko
-the words _wojewoda_ [vo-ye-vo'da] and _kontusz_ [kon'toosh].
 Polish names in this book are generally given in their original spelling,
 except that the diacritical marks used on many letters in the Polish
 alphabet are here omitted, and that _on_ (or _om_) and _en_ (or _em_) are
@@ -1566,8 +1535,6 @@ not to fall asleep.
 The Count was awakened by a pattering on his shoulders and brow; it was
 the Bernardine, Father Robak, who held aloft in his hand the knotted cords
 of his belt.
-"Will you have cucumbers?" he cried; "Here they are!" [So saying he showed
-him the knots on his belt, which were shaped like cucumbers.41] "Look out
 for danger, in this garden patch there is no fruit for you; nothing will
 come of it!"
 Then he threatened him with his finger, adjusted his cowl, and departed;
@@ -2535,7 +2502,6 @@ and through the opening cut in the shutter observed the doings of the
 watchman, who was continually walking about the yard. When he saw him far
 away, at one bound he leapt out, closed the window, and bending to the
 ground crept along like a pointer. His further steps the autumn night
-shrouded in thick darkness.61]
 A vision in curl papers awakes Thaddeus--Belated discovery of a
 mistake--The tavern--The emissary--The skilful use of a snuffbox
 turns discussion into the proper channel--The jungle--The
@@ -6846,13 +6812,11 @@ and could fill up the gaps in it; but the Judge entirely failed to
 understand many points. Both listened attentively, bending their heads
 forward; but Jacek spoke more and more slowly, and often interrupted
 himself.
-* * * * * * * *
 "You already know, my dear Gerwazy, how often the Pantler used to invite
 me to banquets; he would propose my health, and many a time he cried,
 raising his beaker aloft, that he had no better friend than Jacek Soplica.
 How he would embrace me! All who saw it thought that he shared his very
 soul with me. He a friend? He knew what then was passing within my soul!
-* * * * * * * *
 "Meanwhile the neighbourhood was already whispering; gossips would say to
 me: 'Ah, Pan Soplica, your suit is vain; the threshold of a dignitary is
 too high for the feet of Jacek the Cup-Bearer's son.' I laughed,
@@ -6866,7 +6830,6 @@ powerful lord. Once Tenczynski asked in marriage a daughter of a royal
 house, and the King gave her to him without shame.173 Are not the Soplicas
 of equal merit with the Tenczynskis, through their blood, through their
 ancient crest, and through their faithful service to the Commonwealth!
-* * * * * * * *
 "How easily a man may ruin the happiness of others in a single instant;
 and in a long lifetime he cannot restore it! One word from the Pantler,
 and how happy we should have been! Who knows? Perhaps we should be living
@@ -6877,7 +6840,6 @@ he himself--and that murder--and all the consequences of that crime, all my
 sufferings and transgressions! I have no right to accuse him, I am his
 slayer; I have no right to accuse him, I forgive him from my heart--but he
 too----
-* * * * * * * *
 "If he had but once openly refused me--for he knew our feelings--if he had
 not received my visits, then who knows? Perhaps I should have gone away,
 have become enraged, have cursed him, and finally have left him in peace.
@@ -6889,7 +6851,6 @@ before and even insisted that I should come more often; but whenever we
 were alone together, seeing my eyes darkened with tears and my heart
 over-full and ready to burst forth, the sly old man would suddenly throw
 in some indifferent word about lawsuits, district diets, or hunting----
-* * * * * * * *
 "Ah, often over the winecups, when he was in a melting mood, when he
 clasped me so closely and assured me of his friendship, since he needed my
 sabre or my vote at the diet, and when in return I was forced to clasp him
@@ -6907,7 +6868,6 @@ not have allowed the Pantler, no, not the King himself, to do me wrong; I,
 who was driven to fury by the least disagreement--I, then, though angry and
 drunken, held my peace like a lamb!--as though I had suddenly beheld the
 consecrated Host!174
-* * * * * * * *
 "How many times did I wish to open my heart and even to humble myself to
 implore him; but when I looked into his eyes and met his gaze cold as ice,
 I felt shame for my emotion; I hastened once more to discourse as coldly
@@ -6916,7 +6876,6 @@ All this, to be sure, was from pride, in order not to debase the name of
 the Soplicas, in order not to lower myself before a magnate by a vain
 request and receive a refusal--for what gossip there would have been among
 the gentry, if they had known that I, Jacek----
-* * * * * * * *
 "The Horeszkos refuse a wench to a Soplica! They serve me, Jacek, with
 black soup!
 "Finally, not knowing myself what way to turn, I bethought me of gathering
@@ -6932,11 +6891,9 @@ least a trace of a human soul, as a snail shows its horns!
 for a friend, that spark will break forth when he bids him farewell, like
 the last flame of life before a man expires! The coldest eye, when for the
 last time it touches the brow of a friend, will often shed a tear!
-* * * * * * * *
 "The poor girl, hearing that I was about to leave the country, turned
 pale, and fell in a swoon, almost dead; she could not speak, but from her
 eyes there streamed a flood of tears--I learned how dear I was to her.
-* * * * * * * *
 "I remember that for the first time in my life I shed tears, for joy and
 for despair; I forgot myself, I went mad; I was ready once more to fall at
 her father's feet, to cling like a serpent about his knees, to cry out,
@@ -6950,7 +6907,6 @@ know, sir, that I have a daughter, fair and rich--and the Castellan of
 Witepsk! That is a low, parvenu seat in the Senate; what do you advise me,
 brother?' I have entirely forgotten what I said in reply to that, probably
 nothing at all--I mounted my horse and fled!"
-* * * * * * * *
 "Jacek!" cried the Warden, "you are clever at finding excuses! Well? They
 do not lessen your guilt! For it has happened many a time ere now that a
 man has fallen in love with the daughter of a lord or king, and has tried
@@ -6987,7 +6943,6 @@ could find no comfort in anything in the world--and thus I passed from one
 sin to another; I began to drink.
 "And so in no long time my wife died of grief, leaving me that child; and
 despair consumed me!
-* * * * * * * *
 "How ardently I must have loved that poor girl! for so many years! Where
 have I not been! And yet I have never been able to forget her, and still
 does her beloved form stand before mine eyes as if painted! I drank, but I
@@ -7041,14 +6996,11 @@ And shall not this castle crash down upon his bald head?
 "Think of vengeance, and a demon will at once furnish you a weapon. Hardly
 had I thought of it, when the demon sent the Muscovites. I stood gazing;
 you know how they stormed your castle.
-* * * * * * * *
 "For it is false that I was in any league with the Muscovites.
-* * * * * * * *
 "I gazed; various thoughts passed through my head: at first with a stupid
 laugh I gazed as a child upon a burning house; then I felt a murderous
 joy, expecting that speedily it would begin to blaze and totter; at times
 I was prompted to leap in and save her--even the Pantler----
-* * * * * * * *
 "Your defence, as you know, was vigorous and prompt. I was amazed; the
 Muscovites kept falling close by me; the beasts aimed poorly.--At the sight
 of their overthrow hatred again overcame me.--That Pantler a victor! And
@@ -7065,7 +7017,6 @@ You know the rest!
 press on; he parries and flourishes; he may disarm his enemy and check his
 sword halfway. But with these firearms it is enough to hold the gun; an
 instant, a single spark----
-* * * * * * * *
 "Did I flee when you aimed at me from above? I levelled my eyes at the two
 barrels of your gun. What despair! A strange grief pinned me to the earth!
 Why, Gerwazy, ah why did you miss at that time? You would have done me a
@@ -7099,10 +7050,8 @@ now it has been irritated--there is gangrene there already. I am familiar
 with wounds; see how black the blood is, like soot; a doctor could do
 nothing. But this is a trifle; we die but once; to-morrow or to-day we
 must yield up our souls. Warden, thou wilt forgive me; I must die!
-* * * * * * * *
 "There is merit in refusing to betray your country, though your own people
 proclaim you a traitor! Especially for a man who had such pride as mine!
-* * * * * * * *
 "The name of traitor clove to me like a pestilence. The neighbours turned
 their faces from me, my former friends fled from me, the timid greeted me
 from afar and turned aside; even a mere peasant boor or a Jew, though he
@@ -7119,16 +7068,12 @@ Muscovite?--The foremost magnates would have sought my favour; even my
 brother gentlemen--even the mob, which is so ready to disparage those of
 its own number, is prone to forgive those happier men who serve the
 Muscovites! I knew this, and yet--I could not.
-* * * * * * * *
 "I fled from my country! Where have I not been! what have I not suffered!
-* * * * * * * *
 "At last God deigned to reveal to me the one true remedy: I must reform
 myself and repair as much as possible what----
-* * * * * * * *
 "The Pantler's daughter and her husband the Wojewoda had been transported
 to some place in Siberia; there she died young, leaving here behind her a
 daughter, little Zosia. I had her brought up.
-* * * * * * * *
 "Perchance I slew him more through stupid arrogance than through
 disappointed love; so I humbly became a monk. I, once proud of my birth, I
 who was once a warlike hero, I bowed my head, I became a gatherer of alms,
@@ -7942,7 +7887,6 @@ champagne; then in the evening he loses as much money at cards as would
 suffice for a banquet for a hundred gentlemen and brothers. Even--for what
 I have in my heart I will to-day speak out frankly; let not the
 Chamberlain take it ill of me--when I was getting that wonderful
-centre-*piece from the treasure room, then even the Chamberlain, even he
 made fun of me, saying that this was a tiresome, antiquated
 contrivance--that it looked like a child's plaything and was unfit for such
 famous men as we have with us to-day! Judge!--even you, Judge, said that it
@@ -8512,7 +8456,6 @@ Mickiewicz, _Herr Thaddaeus_, uebersetzt von Siegfried Lipiner, ed. 2
 It was difficult to draw the line between direct quotation and mere
 utilization of material. In particular, the translator's indebtedness to
 Jaroszynski is much greater than the quotation marks here used would
-indicate.]
 some of the leading features of Polish society and institutions, may be of
 assistance to readers of _Pan Tadeusz_.
 The Polish Commonwealth was formed by the union of two separate states,
@@ -8678,7 +8621,6 @@ Polish self-government under Russian rule. To drown the grief and despair
 with which that tragedy had filled his mind Mickiewicz turned back in the
 next year (when he began _Pan Tadeusz_) to the scenes of his childhood, to
 the days full of hope and joyful expectation that had preceded Napoleon's
-attack on Russia.]
 decrees was very difficult, in a country where the executive authorities
 had almost no police at their disposal, and where powerful citizens
 maintained household regiments, some of them, for example the Princes
@@ -8689,18 +8631,14 @@ power. Armed kinsmen, friends, and neighbours set out, verdict in hand, in
 company with the apparitor, and gained possession, often not without
 bloodshed, of the goods adjudged to the plaintiff, which the apparitor
 legally made over or gave into his possession. Such an armed execution of
-a verdict was called a _zajazd_ [foray]. In ancient times, while laws were
 respected, even the most powerful magnates did not dare to resist judicial
 decrees, armed attacks rarely took place, and violence almost never went
 unpunished. Well known in history is the sad end of Prince Wasil
 Sanguszko, and of Stadnicki, called the Devil.--The corruption of public
 morals in the Commonwealth increased the number of forays, which
-continually disturbed the peace of Lithuania. [The rendering of _zajazd_
 by _foray_ is of course inexact and conventional; but the translator did
 not wish to use the Polish word and could find no better English
-equivalent.]
 Gora in Czenstochowa. In Lithuania there are images of Our Lady, famed for
-miracles, at the Ostra [Pointed] Gate in Wilno, the Castle in Nowogrodek,
 and at Zyrowiec and Boruny.
 patriot was a native of the same portion of Lithuania as Mickiewicz. He
 early emigrated to America and served with distinction in the
@@ -8713,12 +8651,8 @@ service. At the Congress of Vienna he made fruitless efforts in behalf of
 Poland. His memory is probably more reverenced by the Polish people than
 that of any other man. His remains rest in the cathedral at Cracow, and on
 the outskirts of the city is a mound of earth 150 feet high raised as a
-monument to him.]
 the disasters to Poland he lost his reason, and in 1780 he killed
-himself.]
 fought in the war of 1792. He prepared and led the insurrection in Wilno
-in 1794, and perished at the siege of Praga in the same year.]
-in Kosciuszko's insurrection. He perished by the side of Jasinski.]
 overthrows their laws and civil institutions, but by its edicts it slowly
 undermines and saps them. For example, in Little Russia the Lithuanian
 Statute, modified by edicts, was maintained until the most recent times.
@@ -8737,8 +8671,6 @@ in correspondence, but later even in official documents. The Russian
 government has forbidden such titles, and would like to cover them with
 ridicule and to introduce in their place the system of titles based on the
 ranks in its own hierarchy, to which the Lithuanians still have great
-repugnance. [The present translator has followed Ostrowski's example in
-rendering _wojski_ as _seneschal_, "_ne pouvant mieux faire_."]
 Nobilitatis_, under the Russian government has become merely a titular
 dignitary. Formerly he was still judge of boundary disputes, but he
 finally lost even that part of his jurisdiction. Now he occasionally takes
@@ -8747,7 +8679,6 @@ surveyors.
 frock or coat, falling below the knees, and secured by a girdle round the
 waist. The effect was remarkably picturesque and graceful."--M. A. Biggs. A
 characteristic feature of the _kontusz_ was the turned-back upper false
-sleeves.]
 landed gentry by the decree of a tribunal or court, carried summonses,
 proclaimed persons in legal possession of property adjudged to them, made
 inquests, called cases on the court's calendar, etc. Usually this office
@@ -8756,7 +8687,6 @@ Mickiewicz later repeats this passage in true Homeric fashion: see pp. 85,
 of small birds, particularly swallows, will pursue a hawk. Hence the
 proverb, to fly as after a buzzard.
 which it becomes matted and twisted together. It is common in certain
-parts of Poland, as its name indicates.]
 the incantations of Bonaparte and Suvorov.
 edicts, they are in part elected by the citizens, in part appointed by the
 government; these last are called the _crown assessors_. Judges of appeal
@@ -8766,44 +8696,27 @@ appointed by the clerks of the courts.
 president of the revolutionary government during Jasinski's insurrection.
 _wojewodeship_. The office had very slight duties, and was rather a title
 of distinction than an administrative position. It was particularly valued
-because it conferred a seat in the Senate.]
 Lithuania, took an active part in the Lithuanian insurrection under
 Jasinski. He was judge of the state prisoners at Wilno. He was a man
 highly honoured in Lithuania for his virtues and his patriotism.
 Czech, and Rus, were the founders of the Polish, Bohemian, and Russian
-nations. Compare p. 289.]
 belts, which supplied all Poland. It was perfected by the efforts of
-Tyzenhaus. ["Antoni Tyzenhaus, 1733-85, first Grand Secretary, later
 Under-Court-Treasurer of Lithuania, a man who did much for the elevation
 of the economic condition and of the state of education in Lithuania, for
 a long time an unwavering partisan of King Stanislaw August."--Jaroszynski.
-Compare p. 173.]
-devotion in the eighteenth and nineteenth centuries.]
 book, in which were entered the names of the parties to suits in the order
 of the defendants. Every advocate and apparitor had to own such a
 calendar.
 with the silver eagles of Poland. The Polish coat-of-arms shows a white
-eagle on a red field.]
 all the wars of Napoleon; in 1812 he was stationed in White Russia and had
-an active share in the campaign only towards its close.]
-Directory the captured standards. [Otton-Karol Kniaziewicz (1762-1842).
-He, like Dombrowski, had taken part in Kosciuszko's insurrection.]
 Domingo, and almost all his legion perished there. Among the Polish
 emigrants there are a few veterans who survived that unhappy expedition,
-among others General Malachowski. [see p. 281 and note 184.]
 after that of the King, because he was the highest dignitary in the
-Kingdom. Between the death of one sovereign and [the] election of his
-successor, he was Interrex."--M. A. Biggs.]
 except for some very slight military duties the post was purely titular,
-but it was prized because it entitled the holder to a seat in the Senate.]
-hand, signified a refusal. [Naganowski states that it is "a thickish soup,
-made chiefly of the blood of a duck or goose, vinegar, and spice."]
 Lithuanians carry on trade with the Prussians, freighting grain down the
 river and receiving colonial wares in return for it.
 good and tender beef, mince it fine, add a little butter, spice, onions,
 salt, pepper, egg, bread-crumbs, make small pats or cakes of the compound;
-fried, boiled, or stewed."--M. A. Biggs.]
-incorporated in Prussia.]
 Grand Duchy of Warsaw, and equipped at his own cost a regiment of cavalry,
 which he commanded in person. He died in France. With him became extinct
 the male line of the Princes of Olyka and Nieswiez, the most powerful
@@ -8811,51 +8724,33 @@ lords in Poland and in all probability in Europe.
 Mejen's ramparts are still shown near Wilno.
 "supplied by Dr. Rostafinski of Cracow" as to the scientific names of the
 different mushrooms mentioned by Mickiewicz.
-(1) "_Lisica_ [fox-mushroom]. _Cantarellus cibarius_(Chantarelle).
-(2) _Borowik_ [pine-lover]. _Boletus edulis_ (called in Lithuania
-_Bovinus_). (3) _Rydz_ [orange-agaric]. _Agaricus deliciosus_ .
-(4) _Muchomor_ [fly-bane]. _Amanita muscaria_, or _Agaricus muscarius_
 (fly-agaric). This is the Siberian fungus, with remarkable intoxicating
 properties.
-(5) _Surojadki_ [leaf-mushrooms]. A species of the _Russula_. Those quoted
 by Mickiewicz seem to be _Russula nitida, R. alutacea_, and _R. emetica_.
 (6) _Kozlak_. Two species of _Boletus_; one _B. luteus_, the other
 (mentioned in the text) _B. luridus {poisonous)_.
-(7) _Bielaki_ [whities], _Agaricus piperatus_ and _Agaricus vellereus_.
-(8) _Purchawki_ [puffball]. _Lycoperdon bovista_.
-(9) _Lejki_ [funnels]. The word does not signify any particular sort of
 fungus; it may be that the poet created the name _a forma_. The shape
-suggests _Agaricus chloroides_."]
 war under the lead of the _pine-lover_. In this song the qualities of the
 edible mushrooms are described.
-_Serce nie sluga_.]
 and early seventeenth centuries. Pieter had a bent towards diabolic
 scenes, whence he received the title "hell Breughel" (Van der Helle); Jan,
 his younger brother, was a master in the painting of landscapes, flowers,
 flies, etc. Apparently the Count's learning did not extend to the father
-of these two brothers, who was also a famous painter.]
 landscapes. He died recently in St. Petersburg.
-_funereal_, but _dinnerial_."]
-conventional: compare pp. 105-107.]
-_leeches_], is used for hunting big game, particularly bears.
 The _strapczy_ is a sort of government attorney. These two officials, who
 have frequent opportunities for misusing their authority, are greatly
-hated by the people generally. [These offices, and the names of them, are
 Russian, not Polish. _Strapczyna_ would be the name given to the wife of a
-_strapczy_.]
 of _Pan Tadeusz_ published during the lifetime of Mickiewicz. It occurs in
 his manuscript, among many other passages that he did not choose to print;
 in the edition of 1858 it was added to the printed text. It has been
 included here, though with some hesitation, because the succeeding
 narrative did not seem quite clear without it. It seemed needless to
 record other variant readings, even in these notes; they are of little
-interest except to special students of the work of Mickiewicz.]
 mountain of Ponary of an iron wolf, and by the counsel of the wajdelota
 Lithuania. Giedymin (died 1341) was the founder of the power of that
 nation, and the father of Olgierd and Kiejstut. One son of Kiejstut was
 Witold, famous as a warrior and prince. One son of Olgierd was Jagiello:
 see p. 332. Lizdejko is said to have been the last high priest of heathen
-Lithuania.]
 Lithuania according to the ancient rites; he girt on him the sword and
 crowned himself with the soft cap (_kolpak_). He was a great lover of
 hunting.
@@ -8883,27 +8778,18 @@ Sweet sleep upon thee. Yea, 'tis true I bear
 No apples; yet my Lord speaks me as fair
 As the most fruitful trees
 That graced the Gardens of Hesperides."
-_Translated by Miss H. H. Havermate and G. R. Noyes_.]
 Goszczynski (1803-76) was published in 1828. The reference is probably to
 the following passage: "Does that prattling oak whisper in his ear sad
 tales of the disasters of this land, when beneath its sky the gloomy
 vulture of slaughter extended a dread shadow with bloody wings, and after
-it streamed clouds of Tatars?"]
 sunset, to avoid the 'work' of kindling light or fire on the Sabbath."--M.
-A. Biggs.]
 the same time. Naganowski adds that the first word is derived from the
 town of Kolomyja in Galicia. _Mazurka_ is "merely the feminine form of
-Mazur," a Masovian.]
 without share in the government of the country. They were separated from
 the Poles by religion, customs, and language. Yet instances of
-intermarriage and assimilation were not uncommon. Compare p. 100.]
 were set, and where still the Russians hang their sacred pictures (ikons).
 Here a Lithuanian peasant seats any guest whom he desires to honour.
 _linden-flower mead_. The Polish name of July, _lipiec_, is derived from
-_lipa_, a linden tree. See the epigram quoted in note 67.]
-finds occasion to hint at the reunion of Lithuania and the Kingdom.]
-Russia.]
-the Polish gentry.]
 the sources for the early history of Lithuania.
 "Polish heraldry is comparatively simple beside that of other countries.
 The use of family names was unknown till the fifteenth century; before
@@ -8918,11 +8804,9 @@ retainers and _famuli_ by 'admitting them to his escutcheon,' _i.e._
 obtaining for them a diploma of honour from the King, ratifying the
 knightly adoption. Hence it is common to hear of the greatest and most
 ancient Polish families having the same armorial bearings with some very
-obscure ones."--Naganowski. Compare p. 319.]
 frock-coat, braided on the back and chest like a huzzar's uniform, and
 with tight sleeves. The _sukmana_ is a sort of peasant's coat made of
 cloth, the wearing of which by Kosciuszko indicated his strong democratic
-tendencies, and sympathy with the lower classes."--M. A. Biggs.]
 advancing age, and finally the upper part grows so crooked that it closes
 the bill, and the bird must die of hunger. This popular belief has been
 accepted by some ornithologists.
@@ -8934,24 +8818,16 @@ the University of Santiago (Chili), related during his stay in Warsaw last
 year (1884) that he challenged the young poet, then at Wilno, to find a
 proper name riming with Domejko. Mickiewicz improvised a verse riming
 Domejko with Dowejko. It is not, however, quite certain whether there was
-actually a family of that name."--Naganowski.]
-of the Second Partition, 1793.]
 is usually made in large quantities, put into barrels, and stored in
-cellars. The oftener it is heated the more savoury it is."--M. A. Biggs.]
 the circuit of the hide a considerable territory, where she afterwards
 built Carthage. The Seneschal did not read the description of this event
 in the _Aeneid_, but in all probability in the scholiasts' commentaries.
-N.B.--Some places in the fourth book are by the hand of Stefan Witwicki.]
 obtaining the floor, wandered so far from the subject that he raised a
 general laugh in the chamber. Hence arose the proverb: "He has bobbed up
 like Philip from the hemp."
-Polish word for _German_, is derived from _niemy_, _dumb_.]
-St. John are often used as an exclamation of astonishment."--M. A. Biggs.]
 applied to those only which the commander-in-chief of a Roman army
 stripped in a field of battle from the leader of the foe."--_Smith's
 Dictionary of Antiquities_. They were awarded but three or four times in
-the course of Roman history.]
-(warden) and _puszczyk_ (screech owl).]
 greatest poem, next to _Pan Tadeusz_. The poet's own explanation of it is
 in part as follows: "This is the name of a festival still celebrated among
 the common folk in many districts of Lithuania, Prussia, and Courland. The
@@ -8964,43 +8840,29 @@ the _forefathers_ secretly in chapels or in empty houses not far from the
 graveyard. There they ordinarily spread a feast of food, drink, and fruits
 of various sorts and invoke the spirits of the dead. The folk hold the
 opinion that by this food and drink and by their songs they bring relief
-to souls in Purgatory."]
 lord's high-flown word _wassalow_ (vassals) as _wonsalow_ (mustachioed
 champions). A long mustache was the dearest adornment of a Polish
 gentleman; compare Gerwazy's description of Jacek on pages 43 and 115,
-where _wonsal_ is the title given him in the original.]
 officers in the Polish army, as the _bulawa_ was that of the _hetmans_ or
 generals. Each was a short rod with a knob at the end, but the knob on the
 _bulawa_ was round, that on the _buzdygan_ was pear-shaped, with
-longitudinal notches.]
 settlement of gentry, to distinguish them from true villages, which are
-settlements of peasants. ["These _zascianki_ were inhabited by the poorest
 of the lesser nobility, who were in fact peasants, but possessed of truly
 Castilian pride. The wearing of a sword being restricted to nobles, it was
 not unusual to see such _zasciankowicze_, or peasant nobles, following the
 plough bare-footed, wearing an old rusty sword hanging at their side by
 hempen cords."--Naganowski. In this volume _hamlet_ has been arbitrarily
-chosen as a translation for the name of these villages of gentry.]
 which is washed with water until all the mealy parts are separated from
-it: hence the proverb. [The literal translation of the Polish line is
-simply: "To the Horeszkos he is merely the tenth water on the kisiel."]
 career, with sword uplifted to strike. The Bear is the coat-of-arms of
-Zmudz, a portion of Lithuania, on the Baltic]
-representative at Warsaw.]
 bench, and in that position to bark three times like a dog, and pronounce
 his recantation. Hence the Polish word _odszczekac_, to bark back,
-generally used to express recanting."--M. A. Biggs.]
 accordance with a court decree.
 up in each parish with a broom or bundle of twigs tied to the top. This
 was called _sending out the twigs_. Every grown man of the knightly order
 was obliged, under pain of loss of the privileges of gentle birth, to
-rally at once to the Wojewoda's standard. [The twigs symbolised the King's
 authority to inflict punishment. The reign of Jan III. Sobieski was
 the central point of which is Warsaw. The inhabitants of it are called
 Masovians; hence this name is also applied to the men of Dobrzyn who
-emigrated from Masovia to Lithuania."--Lipiner.]
-diminutive) are variant forms of Matyasz (Matthias).]
-_kinglet_.]
 King because of his subserviency to the Russians. "But when the King later
 declared himself for the patriotic party{~HORIZONTAL ELLIPSIS~} it is no wonder that our Maciek
 took sides with the crown, the power of which then needed strengthening.
@@ -9010,25 +8872,19 @@ After the King's contemptible desertion to the camp of the Confederates of
 Targowica, all noble and patriotic men in Poland had of course to oppose
 him. Thus the King, and not Maciek, was the real Cock-on-the-Steeple, and
 our man of Dobrzyn was really always on the side of those who fought for
-'the good of the country.' "--Lipiner.]
-insurrection: compare p. 3 and note 7.]
 assisted those of his fellow-countrymen who were emigrating abroad, and
 sent considerable sums to the treasury of the Legions.
-(1741-1825).]
 was a colonel of the General Staff during the Napoleonic wars, and later
 played an important part in the public life of the Grand Duchy. At Lukow,
 near Obiezierz, in 1831, he entertained Mickiewicz and his brother
-Franciszek.]
 cities at stated times, for the conclusion of agreements of all
 sorts."--Jaroszynski. As these are the only contracts of which Maciej has
 heard, the word, as used by the eloquent student of Rousseau, naturally
-puzzles him. (Adapted from Naganowski.)]
 Babin, near Lublin, a satiric society, called the Babin Republic. It
 scourged contemporary manners in a peculiar fashion, sending to every man
 who became noted for some crime or folly a diploma by virtue of which he
 was admitted to the 'Republic' and had an office conferred on him. Thus,
 for example, a quack was appointed physician, a coward general, and a
-spendthrift steward."--Lipiner.]
 Jesuits in 1773, great influence over the education of youth, and
 initiated, mainly by the efforts of Konarski, an improved system of
 education. While the Jesuits had laid the main stress upon Latin, the
@@ -9036,51 +8892,33 @@ Piarists substituted French as the groundwork of education. This was an
 improvement upon the previous system, but it had the effect of inducing an
 aping of French manners and customs in literature and social life, till
 the reaction in favour of Polish nationality."--M. A. Biggs (slightly
-altered).]
-which is (or was) famous for its flour.]
 "stupid as a sack," is a Polish proverb. As an equivalent, the archaic
-_Buzzard_ seemed preferable to the grotesque modern _Donkey_.]
 brothers in the Polish pagan mythology. Slowacki introduces them into his
-drama _Lilla Weneda_.]
 be discovered; the people regard them as the bones of giants.
 seer divines its coming; for, if one may believe the bards, often in the
 desolate graveyards and meadows the Maid of Pestilence rises to sight, in
 a white garment, with a fiery crown on her temples; her brow towers over
 the trees of Bialowieza, and in her hand she waves a bloody
-kerchief."--Mickiewicz, _Konrad Wallenrod_.]
 work on the Zodiac of Denderah, and by his observations aided Lalande in
 calculating the motions of the moon. See the biography of him by Jan
 Sniadecki.
 astronomer and as one of the intellectual leaders of Poland. During
 Mickiewicz's student days he was professor at the University of Wilno. The
 young poet disliked him, as a representative of the cold, rationalistic
-tradition of the eighteenth century.]
 Turkey. The poet represents Branicki and his comrades as rushing to the
-protection of the Russian armies: compare p. 334.]
-typis Collegij Societatis Jesv. 1684.]
-Poniatowski, and one of the leading men of his time in Poland.]
 adventurer of those times. He was a Muscovite admiral and defeated the
-Turks in the bay [of the Dnieper, near Ochakov]; later he was himself
 utterly defeated by the Swedes. He spent some time in Poland, where he was
 granted the rights of a citizen. The combat of the Prince de Nassau with
-the tiger [in Africa!] was noised abroad at the time through all the
 newspapers of Europe.
 keyhole, apparently does not hear the conversation, if one may judge by
-his later ignorance: compare p. 261.]
 himself invented as an inhabitant of the Switez, a small lake near his
-home. One of his ballads is entitled _Switezianka_, another _Switez_.]
-three English miles; the "long mile" was of 22,500 feet.]
-_Balladyna_.]
-_Skinnem_.]
 of Russian martial law. Frequently in time of peace the government
 proclaims whole provinces as being in a state of war, and on the authority
 of the _Yellow Book_ confers on the military commander complete power over
 the estates and lives of the citizens. It is a well-known fact that from
-the year 1812 to the revolution [of 1831] all Lithuania was subject to the
 _Yellow Book_, of which the executor was the Grand Duke the Tsarevich
 Death, Common to All_. His short doggerel rimes, which breathe a jovial
 gaiety, were long extremely popular. In recent times suspicion has been
-cast on Baka's authorship of the work. (Adapted from Jaroszynski.)]
 selected and is slashed from the bottom upwards with an axe, so that bark
 and bast are cut through and the wood slightly wounded. Into these notches
 are thrust sharp flints, which in time grow into the tree and form hard
@@ -9096,24 +8934,16 @@ shot saved Wilno for the time being; General Deyov and several officers
 perished; the rest, fearing an ambuscade, retired from the city. I do not
 know with certainty the name of that townsman.
 famous, were still bloody and much talked of. About the year 1817 a man
-named U[zlowski] in the wojewodeship of Nowogrodek defeated in a foray the
 whole garrison of Nowogrodek and took its leaders captive.
-Potemkin.]
 Suvorov in 1790, after a peculiarly bloody siege. (Byron chose this
 episode for treatment in _Don Juan_, cantos vii and viii.) Mickiewicz
 makes Rykov give the name as Izmailov; Rykov is a bluff soldier, not a
-stickler for geographical nomenclature.]
-Austrians over the French in 1799.]
 to Switzerland in aid of Suvorov; he was beaten on September 25, before
 uniting with Suvorov, and was in consequence for a time dismissed from the
-service.]
 with an army of 6000, among them 2000 peasants, armed with scythes,
-defeated a body of 7000 Russians.]
 of a Swedish princess. On his journey to espouse her he was captured by
 the Danes, in 1562, and he died in confinement in Copenhagen in the next
 year. His memory has been honoured in verse by Kochanowski and in prose by
-Niemcewicz.]
-the first war. [In the chronology of this poem there is serious confusion.
 From Jacek's narrative (pp. 269-272) it is plain that Thaddeus was born
 shortly before the death of the Pantler. At the time of the action of the
 poem he is about twenty years old (p. 21), and he was born at the time of
@@ -9127,50 +8957,32 @@ the note above in a vain attempt to restore consistency. The "first war"
 could be none other than that following the Constitution of May 3, 1791,
 in which Prince Joseph Poniatowski and Kosciuszko were leaders. But this
 war did not begin until after the proclamation of the Confederacy of
-Targowica, which was on May 14,1792.]
 the premonitions of the Muscovite people before the war of 1812.
 green.
 properly the autumn season, when the migratory birds fly away; to fly to
 _wyraj_ means to fly to warm countries. Hence figuratively the folk
 applies the word _wyraj_ to warm countries and especially to some
 fabulous, happy countries, lying beyond the seas.
-(1784-1860),the youngest brother of Napoleon.]
-insurrection of 1831. Compare note 35.]
-Lithuania.]
 Stanislaw Czerniecki.
 preface to _The Perfect Cook_: "This embassy, being a great source of
 amazement to every western state, redounded to the wisdom of the
-incomparable gentleman [Ossolinski] as well as to the splendour of his
 house and the magnificence of his table--so that one of the Roman princes
 said: 'To-day Rome is happy in having such an ambassador.' "
-N.B.--Czerniecki himself was Ossolinski's head cook. [The information given
 by Mickiewicz does not quite agree with that furnished by Estreicher,
 _Bibliografia Polska_ (Cracow, 1896), xiv. 566, 567. Czerniecki was
 apparently the head cook of Lubomirski, Wojewoda of Cracow, etc., not of
-Ossolinski.]
 he constantly repeated, the richest magnate of his time in Poland and one
 immensely popular among the gentry, led a gay and adventurous life. In
-millions.]
 confederacies were formed in each wojewodeship and deputies to the Diet
 were elected.
-General Kniaziewicz decided the victory. [At Hohenlinden in Bavaria the
 French under Moreau defeated the Austrians, December 3, 1800; compare p.
-the Latin text of the law.] 196  [_Militem_ (soldier) here signifies a
 full-fledged gentleman, of ancient lineage. _Skartabell_ (a word of
 uncertain etymology) was a term applied to a newly created noble, who was
-not yet entitled to all the privileges of his order.]
 political rights on the inhabitants of the Polish cities and took the
 peasants "under the protection of the law," though it did not set them
-free.]
 who died in exile at Smyrna."--Ostrowski. The proprietor of the palace
-seems to have been present at Soplicowo at this very time: see p. 301.]
-six-pointed golden star. It was borne by the Soplicas: see p. 319.]
-the Turks and the Poles under Sobieski.]
-of his journey to the Holy Land. [Mikolaj Krzysztof Radziwill was
 converted from Calvinism to Catholicism. In 1582-84 he made a pilgrimage
-to the Holy Land and Egypt, on which he wrote a book.]
 dish of milk, cream, and yolks of eggs, and _blemas_ (the same word as
-_blancmange_) as almond jelly.]
 the time when the arts flourished, even banquets were directed by artists,
 and were full of symbols and of theatrical scenes. At a famous banquet
 given in Rome for Leo X. there was a centrepiece that represented the four
@@ -9178,30 +8990,17 @@ seasons of the year in turn, and that evidently served as a model for
 Radziwill's. Table customs altered in Europe about the middle of the
 eighteenth century, but remained unchanged longest in Poland.
 visited the country I do not know.
-insurrection of 1831, and the Hungarian insurrection of 1849.]
 fitted out a squadron at his own cost. In 1826 he was made a general, and
-distinguished himself in the insurrection of 1831.]
-insurrection of 1831.]
-but does not know how else to render _kontrpunkt_.]
 leaders of the Confederacy of Bar. Joseph Pulawski was the first
 commander-in-chief of its armed forces. His son Kazimierz won fame as a
 leader after his father's death. Later, in 1777, he came to America, and
 distinguished himself by his services to the cause of the revolutionists.
-He was killed in 1779 at the attack on Savannah.]
 in the eighteenth century; he took part in almost all the wars of his
 time. He died in 1808. The Cossack Sawa was one of the most active leaders
-in the Confederacy of Bar.]
 cards to the Muscovites, is well known in Lithuania.
-version.]
 government sent to support the Confederacy of Bar. He later became
-prominent in the affairs of his own country.]
 name was used to denote any candidate for the Polish throne who was of
-native birth.]
 old Maciek everything not Polish is Muscovite or German. Gerwazy has the
-same way of thinking: compare p. 318.]
-VII. in 1809.]
-before marriage at the desire of their future wives. [On the _kontusz_ see
-note 13.]
 the Seneschal never concluded, is well known in popular tradition. We add
 here its conclusion, in order to gratify the curious reader.--Rejtan,
 angered by the boasting of the Prince de Nassau, took his stand beside him
@@ -9228,9 +9027,7 @@ Poland produced a quantity of _panegyrics_ or complimentary verses in
 honour of great personages, with stale classical images, and strained,
 far-fetched metaphors, destitute of real poetry. Our author has seized
 this happy opportunity of satirising the faults of classicism."--M. A.
-Biggs.]
 music, was fashionable in eastern Europe in the eighteenth century, and
-was introduced into Poland."--Jaroszynski.]
 Mickiewicz loves to bring the phenomena of nature and the affairs of men,
 will not find it difficult, nor will they regard it as a forced
 interpretation, to understand the clouds, which at the close of the
@@ -9245,217 +9042,4 @@ recognise in the gleaming, but fleeting picture, which 'slowly turned
 yellow, then pale and grey,' and behind which the sun fell asleep with a
 sigh. Thus in this passage, as well as earlier, in the words of Maciek
 (page 314), the poet gives us warning of the great tragedy which was soon
-to overwhelm not only Lithuania and Poland but the world."--Lipiner.]
-fairy tale.]
 March 2, 2009
-Produced by Jimmy O'Regan, and the Online Distributed
-Proofreading Team at <http://dp.rastko.net/>. (Produced from
-images generously made available by the Internet
-Archive/University of Toronto)
-This file should be named 28240.txt or 28240.zip.
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/2/8/2/4/28240/
-Updated editions will replace the previous one -- the old editions will be
-renamed.
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties. Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given away
--- you may do practically _anything_ with public domain eBooks.
-Redistribution is subject to the trademark license, especially commercial
-redistribution.
-_Please read this before you distribute or use this work._
-distribution of electronic works, by using or distributing this work (or
-License (available with this file or online at
-http://www.gutenberg.org/license).
-Section 1.
-you indicate that you have read, understand, agree to and accept all the
-terms of this license and intellectual property (trademark/copyright)
-agreement. If you do not agree to abide by all the terms of this
-agreement, you must cease using and return or destroy all copies of
-and you do not agree to be bound by the terms of this agreement, you may
-obtain a refund from the person or entity to whom you paid the fee as set
-forth in paragraph 1.E.8.
-associated in any way with an electronic work by people who agree to be
-bound by the terms of this agreement. There are a few things that you can
-with the full terms of this agreement. See paragraph 1.C below. There are
-follow the terms of this agreement and help preserve free future access to
-PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg{~TRADE MARK SIGN~} electronic works. Nearly all the individual works in the
-collection are in the public domain in the United States. If an individual
-work is in the public domain in the United States and you are located in
-the United States, we do not claim a right to prevent you from copying,
-distributing, performing, displaying or creating derivative works based on
-promoting free access to electronic works by freely sharing Project
-Gutenberg{~TRADE MARK SIGN~} works in compliance with the terms of this agreement for
-easily comply with the terms of this agreement by keeping this work in the
-share it without charge with others.
-The copyright laws of the place where you are located also govern what you
-can do with this work. Copyright laws in most countries are in a constant
-state of change. If you are outside the United States, check the laws of
-your country in addition to the terms of this agreement before
-downloading, copying, displaying, performing, distributing or creating
-The Foundation makes no representations concerning the copyright status of
-any work in any country outside the United States.
-The following sentence, with active links to, or other immediate access
-is associated) is accessed, displayed, performed, viewed, copied or
-distributed:
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever. You may copy it, give it away
-included with this eBook or online at http://www.gutenberg.org
-public domain (does not contain a notice indicating that it is posted with
-permission of the copyright holder), the work can be copied and
-distributed to anyone in the United States without paying any fees or
-charges. If you are redistributing or providing access to a work with the
-must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-permission of the copyright holder, your use and distribution must comply
-with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed
-by the copyright holder. Additional terms will be linked to the Project
-Gutenberg{~TRADE MARK SIGN~} License for all works posted with the permission of the
-copyright holder found at the beginning of this work.
-terms from this work, or any files containing a part of this work or any
-Do not copy, display, perform, distribute or redistribute this electronic
-work, or any part of this electronic work, without prominently displaying
-the sentence set forth in paragraph 1.E.1 with active links or immediate
-You may convert to and distribute this work in any binary, compressed,
-marked up, nonproprietary or proprietary form, including any word
-processing or hypertext form. However, if you provide access to or
-"Plain Vanilla ASCII" or other format used in the official version posted
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other form.
-specified in paragraph 1.E.1.
-Do not charge a fee for access to, viewing, displaying, performing,
-with paragraph 1.E.8 or 1.E.9.
-You may charge a reasonable fee for copies of or providing access to or
-- You pay a royalty fee of 20% of the gross profits you derive from
-already use to calculate your applicable taxes. The fee is owed to
-Literary Archive Foundation. Royalty payments must be paid within 60
-days following each date on which you prepare (or are legally
-required to prepare) your periodic tax returns. Royalty payments
-Literary Archive Foundation at the address specified in Section 4,
-Archive Foundation."
-You provide a full refund of any money paid by a user who notifies
-you in writing (or by e-mail) within 30 days of receipt that s/he
-You must require such a user to return or destroy all copies of the
-works possessed in a physical medium and discontinue all use of and
-You provide, in accordance with paragraph 1.F.3, a full refund of
-any money paid for a work or a replacement copy, if a defect in the
-electronic work is discovered and reported to you within 90 days of
-receipt of the work.
-You comply with all other terms of this agreement for free
-work or group of works on different terms than are set forth in this
-agreement, you must obtain permission in writing from both the Project
-Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
-Section 3 below.
-identify, do copyright research on, transcribe and proofread public domain
-may be stored, may contain "Defects," such as, but not limited to,
-incomplete, inaccurate or corrupt data, transcription errors, a copyright
-or other intellectual property infringement, a defective or damaged disk
-or other medium, a computer virus, or computer codes that damage or cannot
-be read by your equipment.
-LIMITED WARRANTY, DISCLAIMER OF DAMAGES -- Except for the "Right of
-electronic work under this agreement, disclaim all liability to you for
-damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE
-LIMITED RIGHT OF REPLACEMENT OR REFUND -- If you discover a defect in this
-electronic work within 90 days of receiving it, you can receive a refund
-of the money (if any) you paid for it by sending a written explanation to
-the person you received the work from. If you received the work on a
-physical medium, you must return the medium with your written explanation.
-The person or entity that provided you with the defective work may elect
-to provide a replacement copy in lieu of a refund. If you received the
-work electronically, the person or entity providing it to you may choose
-to give you a second opportunity to receive the work electronically in
-lieu of a refund. If the second copy is also defective, you may demand a
-refund in writing without further opportunities to fix the problem.
-Except for the limited right of replacement or refund set forth in
-paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
-Some states do not allow disclaimers of certain implied warranties or the
-exclusion or limitation of certain types of damages. If any disclaimer or
-limitation set forth in this agreement violates the law of the state
-applicable to this agreement, the agreement shall be interpreted to make
-the maximum disclaimer or limitation permitted by the applicable state
-law. The invalidity or unenforceability of any provision of this agreement
-shall not void the remaining provisions.
-INDEMNITY -- You agree to indemnify and hold the Foundation, the trademark
-owner, any agent or employee of the Foundation, anyone providing copies of
-any volunteers associated with the production, promotion and distribution
-and expenses, including legal fees, that arise directly or indirectly from
-any of the following which you do or cause to occur: (a) distribution of
-you cause.
-Section  2.
-works in formats readable by the widest variety of computers including
-obsolete, old, middle-aged and new computers. It exists because of the
-efforts of hundreds of volunteers and donations from people in all walks
-of life.
-Volunteers and financial support to provide volunteers with the assistance
-Foundation was created to provide a secure and permanent future for
-Gutenberg Literary Archive Foundation and how your efforts and donations
-can help, see Sections 3 and 4 and the Foundation web page at
-http://www.pglaf.org.
-Section 3.
-Mississippi and granted tax exempt status by the Internal Revenue Service.
-The Foundation's EIN or federal tax identification number is 64-6221541.
-Its 501(c)(3) letter is posted at
-http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
-Gutenberg Literary Archive Foundation are tax deductible to the full
-extent permitted by U.S. federal laws and your state's laws.
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809 North
-business@pglaf.org. Email contact links and up to date contact information
-can be found at the Foundation's web site and official page at
-http://www.pglaf.org
-For additional contact information:
-Dr. Gregory B. Newby
-Chief Executive and Director
-gbnewby@pglaf.org
-Section 4.
-Foundation
-public support and donations to carry out its mission of increasing the
-number of public domain and licensed works that can be freely distributed
-in machine readable form accessible by the widest array of equipment
-including outdated equipment. Many small donations ($1 to $5,000) are
-particularly important to maintaining tax exempt status with the IRS.
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United States.
-Compliance requirements are not uniform and it takes a considerable
-effort, much paperwork and many fees to meet and keep up with these
-requirements. We do not solicit donations in locations where we have not
-received written confirmation of compliance. To SEND DONATIONS or
-determine the status of compliance for any particular state visit
-http://www.gutenberg.org/fundraising/donate
-While we cannot and do not solicit contributions from states where we have
-not met the solicitation requirements, we know of no prohibition against
-accepting unsolicited donations from donors in such states who approach us
-with offers to donate.
-International donations are gratefully accepted, but we cannot make any
-statements concerning tax treatment of donations received from outside the
-United States. U.S. laws alone swamp our small staff.
-and addresses. Donations are accepted in a number of other ways including
-checks, online payments and credit card donations. To donate, please
-visit: http://www.gutenberg.org/fundraising/donate
-Section 5.
-concept of a library of electronic works that could be freely shared with
-eBooks with only a loose network of volunteer support.
-all of which are confirmed as Public Domain in the U.S. unless a copyright
-notice is included. Thus, we do not necessarily keep eBooks in compliance
-with any particular paper edition.
-Each eBook is in a subdirectory of the same number as the eBook's eBook
-number, often in several formats including plain vanilla ASCII, compressed
-(zipped), HTML and others.
-Corrected _editions_ of our eBooks replace the old file and take over the
-old filename and etext number. The replaced older file is renamed.
-_Versions_ based on separate sources are treated as new eBooks receiving
-new filenames and etext numbers.
-Most people start at our Web site which has the main PG search facility:
-http://www.gutenberg.org
-how to help produce our new eBooks, and how to subscribe to our email
-newsletter to hear about new eBooks.

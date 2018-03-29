@@ -1,4 +1,3 @@
-Produced by Al Haines
 Other Poems and Lyrics
 Montreal:
 Kingston:
@@ -9,62 +8,8 @@ Province of Canada.
 Poems and Lyrics
 My Niece,
 {v}
-Dedicatory Poem  . . . . . . . . . . . . . . . . . . . . .    9
-Hesperus . . . . . . . . . . . . . . . . . . . . . . . . .   11
-Crowned  . . . . . . . . . . . . . . . . . . . . . . . . .   29
-Mariline . . . . . . . . . . . . . . . . . . . . . . . . .   30
-The Happy Harvesters . . . . . . . . . . . . . . . . . . .   40
-Falls of the Chaudiere, Ottawa . . . . . . . . . . . . . .   53
-A Royal Welcome  . . . . . . . . . . . . . . . . . . . . .   59
-Malcolm  . . . . . . . . . . . . . . . . . . . . . . . . .   61
-The Comet, October 1858  . . . . . . . . . . . . . . . . .   63
-Autumn . . . . . . . . . . . . . . . . . . . . . . . . . .   65
-Colin  . . . . . . . . . . . . . . . . . . . . . . . . . .   68
-Margery  . . . . . . . . . . . . . . . . . . . . . . . . .   70
-Eva  . . . . . . . . . . . . . . . . . . . . . . . . . . .   76
-The Poet's Recompense  . . . . . . . . . . . . . . . . . .   77
-The Wine of Song . . . . . . . . . . . . . . . . . . . . .   78
-The Plains of Abraham  . . . . . . . . . . . . . . . . . .   80
-Death of Wolfe . . . . . . . . . . . . . . . . . . . . . .   83
-Brock  . . . . . . . . . . . . . . . . . . . . . . . . . .   84
-Song for Canada  . . . . . . . . . . . . . . . . . . . . .   86
-Song.--I'd be a Fairy King . . . . . . . . . . . . . . . .   89
-Song.--Love while you may  . . . . . . . . . . . . . . . .   91
 {vi}
-The Snows, Upper Ottawa  . . . . . . . . . . . . . . . . .   92
-The Rapid. . . . . . . . . . . . . . . . . . . . . . . . .   94
-Lost and Found . . . . . . . . . . . . . . . . . . . . . .   96
-Again  . . . . . . . . . . . . . . . . . . . . . . . . . .   99
-Glimpses . . . . . . . . . . . . . . . . . . . . . . . . .  100
-My Prayer  . . . . . . . . . . . . . . . . . . . . . . . .  102
-Her Star . . . . . . . . . . . . . . . . . . . . . . . . .  104
-The Mystery  . . . . . . . . . . . . . . . . . . . . . . .  107
-Love and Truth . . . . . . . . . . . . . . . . . . . . . .  109
-The Wren . . . . . . . . . . . . . . . . . . . . . . . . .  111
-Grandpere  . . . . . . . . . . . . . . . . . . . . . . . .  113
-England's Hope and England's Heir  . . . . . . . . . . . .  114
-Rose . . . . . . . . . . . . . . . . . . . . . . . . . . .  116
-The Dreamer  . . . . . . . . . . . . . . . . . . . . . . .  118
-Night and Morning  . . . . . . . . . . . . . . . . . . . .  119
-Within thine eyes  . . . . . . . . . . . . . . . . . . . .  120
-Gertrude . . . . . . . . . . . . . . . . . . . . . . . . .  121
-Flowers  . . . . . . . . . . . . . . . . . . . . . . . . .  122
-The Unattainable . . . . . . . . . . . . . . . . . . . . .  123
-Yearnings  . . . . . . . . . . . . . . . . . . . . . . . .  124
-Ingratitude  . . . . . . . . . . . . . . . . . . . . . . .  125
-True Love  . . . . . . . . . . . . . . . . . . . . . . . .  126
-An Evening Thought . . . . . . . . . . . . . . . . . . . .  127
-A Thought for Spring . . . . . . . . . . . . . . . . . . .  128
-The Swallows . . . . . . . . . . . . . . . . . . . . . . .  129
-Song.--Clara and I . . . . . . . . . . . . . . . . . . . .  130
-The April Snow Storm, 1858 . . . . . . . . . . . . . . . .  132
-Good Night . . . . . . . . . . . . . . . . . . . . . . . .  134
-Hopeless . . . . . . . . . . . . . . . . . . . . . . . . .  135
-Into the Silent Land . . . . . . . . . . . . . . . . . . .  139
 {vii}
-Proem  . . . . . . . . . . . . . . . . . . . . . . . . . .  159
-Sonnet   I . . . . . . . . . . . . . . . . . . . . . . . .  162
-Au Revoir  . . . . . . . . . . . . . . . . . . . . . . . .  184
 {9}
 Dear Carrie, were we truly wise,
 And could discern with finer eyes,
@@ -1994,7 +1939,6 @@ Wrestling with some Pythonic wrong,
 In prayer, in thunder, thought, or song;
 Briarcus-limbed, they sweep along,
 The Typhons of the time.
-* The day of the inauguration of the new Monument on Queenston Heights.
 {86}
 Sons of the race whose sires
 Aroused the martial flame
@@ -2435,7 +2379,6 @@ Love will come to thee unsought;
 Love is the divine Irene,--
 It is given, and not bought.
 the e's in the "Irene" in the above verse
-were e-macrons, Unicode U+0113.]
 Strong of heart.  Be wise, be steadfast,
 Learn, endeavour, and endure;
 Blest with strength and light, in wisdom

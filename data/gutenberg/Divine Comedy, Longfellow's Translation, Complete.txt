@@ -1,17 +1,9 @@
-vine Comedy of Dante***
 Translanted by Henry Wadsworth Longfellow
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
 further information is included below.  We need your donations.
 The Divine Comedy of Dante by H. W. Longfellow
-August, 1997  [Etext #1004]
-****This file should be named 1004.txt or 1004.zip*****
 This etext was prepared by Dennis McCarthy, Atlanta, GA.
 We are now trying to release all our books one month in advance
 of the official release dates, for time for better editing.
@@ -20,50 +12,33 @@ midnight of the last day of the month of any such announcement.
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
 in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
 We produce about two million dollars for each hour we work.  The
 fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
 million dollars per hour this year as we release thirty-two text
 files per month, or 384 more Etexts in 1997 for a total of 1000+
 If these reach just 10% of the computerized population, then the
 total should reach over 100 billion Etexts given away.
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
 This is ten thousand titles each to one hundred million readers,
-which is only 10% of the present number of computer users.  2001
 should have at least twice as many computer users as that, so it
 will require us reaching less than 5% of the users in 2001.
 We need your donations more than ever!
 tax deductible to the extent allowable by law.  (CMU = Carnegie-
 Mellon University).
 For these and other matters, please mail to:
-P. O. Box  2782
-Champaign, IL 61825
 When all other email fails try our Executive Director:
-Michael S. Hart <hart@pobox.com>
 We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
-******
 If you have an FTP program (or emulator), please
 ftp uiarchive.cso.uiuc.edu
 login:  anonymous
 password:  your@login
-cd etext/etext90 through /etext96
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
 for a list of books
 and
 GET NEW GUT for general information
 and
-MGET GUT* for newsletters.
 (Three Pages)
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
@@ -80,23 +55,19 @@ you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
 tm etexts, is a "public domain" work distributed by Professor
 Carnegie-Mellon University (the "Project").  Among other
-things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
 medium they may be on may contain "Defects".  Among other
 things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
 But for the "Right of Replacement or Refund" described below,
 liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -114,7 +85,6 @@ You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-or addition to the etext, or [3] any Defect.
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
 or:
@@ -124,9 +94,7 @@ if you wish, distribute this etext in machine readable
 binary, compressed, mark-up, or proprietary form,
 including any form resulting from conversion by word pro-
 cessing or hypertext software, but only so long as
-does *not* contain characters other than those
 intended by the author of the work, although tilde
-(~), asterisk (*) and underline (_) characters may
 be used to convey punctuation intended by the
 author, and additional characters may be used to
 indicate hypertext links; OR
@@ -145,9 +113,7 @@ date you prepare (or were legally required to prepare)
 your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
 Association / Carnegie-Mellon University".
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 This etext was prepared by Dennis McCarthy, Atlanta, GA.
 (1265-1321)
 (1807-1882)
@@ -165,8 +131,6 @@ scholar, and teacher, perusing the Web: to become proficient in the new
 tools, e.g., Search, the Discussion Group, well enough to look beyond the
 technology and delve into the content.  For more information and access to
 the project, please visit its web site at:
-http://www.ilt.columbia.edu/projects/dante/
-greatly thanks Dian McCarthy for her assistance in proofreading the
 Paradiso.  Also deserving praise are Herbert Fann for programming the text
 editor "Desktop Tools/Edit" and the late August Dvorak for designing his
 other editions or translations of 'The Divine Comedy.'  Please refer to
@@ -8874,9 +8838,7 @@ Consiros vei la passada folor,
 E vei jauzen lo jorn qu' esper denan.
 Ara vus prec per aquella valor,
 Que vus condus al som de la scalina,
-Sovenga vus a temprar ma dolor.'*
 Then hid him in the fire that purifies them.
-* So pleases me your courteous demand,
 I cannot and I will not hide me from you.
 I am Arnaut, who weep and singing go;
 Contrite I see the folly of the past,
@@ -14900,30 +14862,3 @@ Dante's characters come from his present and literature's past; they are
 mythological, biblical, classical, ancient, and medieval.  They, rather than
 Calliope and her sisters, were Dante's muses.
 'La Divina Commedia' seems a natural candidate to complete Project
-Gutenberg's first milleditio and to begin its second thousand e-texts.
-Although distinctly medieval, its continuum of influence spans the
-Renaissance and modernity.  Terragni saw his place within the Comedy as
-surely as Dante saw his own.  We too fit within Dante's understanding of the
-human condition; we differ less from our past than we might like to
-believe.  T. S. Eliot understood this when he wrote "Dante and Shakespeare
-divide the modern world between them, there is no third."  So now Dante
-works that influenced Dante are also part of the collection: The Bible
-(#10) and Virgil's Aeneid (#227).  Other major influences--St. Thomas of
-Aquinas' Summa Theologica, The Metamorphoses of Ovid, and Aristotle's
-Nicomachean Ethics--are available in electronic form at other Internet
-sites.  If one searches enough he may even find a computer rendering of the
-Danteum on the Internet.  By presenting this electronic text to Project
-Gutenberg it is my hope that in will not rest in a computer unknown and
-unread; it is my hope that artists will see themselves in the Divine Comedy
-and be inspired, just as Dante ran the paths left by Virgil and St. Thomas
-that led him to the stars.
-Dennis McCarthy, July 1997
-Atlanta, Georgia USA
-imprimatur@juno.com
-Text that was originally in italics has been placed within single
-quotes ('italics').  Where italic text coincided with existing
-quotation marks it was not given any additional markup.  Extended
-characters, used occasionally in the original, have been transcribed
-into 7-bit ASCII.  To view the italics and special characters please
-refer to the HTML version of this e-text.
-as translanted by Henry Wadsworth Longfellow

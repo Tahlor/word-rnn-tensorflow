@@ -1,7 +1,3 @@
-Produced by Chris Curnow, David E. Brown and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 _Printed by R. & R. CLARK, Edinburgh._
 Century of Emblems
 By the Lady Marian Alford, Rear-Admiral Lord W. Compton,
@@ -9,9 +5,7 @@ Ven^{ble.} Lord A. Compton, R. Barnes, J. D. Cooper,
 and the Author
 London
 To the Memory
-This small volume is the latest of above three thousand[1] of a similar
 kind, which, under the general title of "Books of Emblems" have followed
-in the wake of the _Libellus Emblematum_,[2] a work, much resembling a
 child's primer in outward appearance, published at Augsburg in A.D.
 litterateur of Milan.
 This book consisted of nearly a hundred Latin Epigrams, some original,
@@ -40,7 +34,6 @@ Now Emblem books have had their day, and are no longer regarded as a
 means of instruction or delight. They have done their duty as ornamental
 wits and lively educators, and now make way for others more suited to
 the age. There will be found very few theological teachers of our day
-who would, like Sebastian Stockhamer,[3] not only advise a patron to
 have the Emblems of Alciati always at hand at home and abroad, but
 suggest that he should do as Alexander did with the works of Homer,
 sleep with them under his pillow.
@@ -76,31 +69,11 @@ learned writer states he has "formed an index of Emblem Books of which
 the titles number upwards of 3000, and the authors above 1300.
 published at Venice 1546. These two were afterwards combined into one
 volume.
-EMBLEMS EVERYWHERE              _R. Barnes_                  3
 _From Drawing by the Author._
-CUPID REFORMED                 _J. D. Cooper_                7
 _From a slight Sketch by the late
 Marquis of Northampton._
-THE BEACON CREST        _Rear-Admiral Lord W. Compton_      10
-LIGHTHOUSE LIKE A CHURCH         _The Author_               13
-THE BROOK AT SUNSET                 _Do._                   16
-THE COMET                     _Do. and J. D. Cooper_        19
-THE MOON                            _Do._                   22
-COTTAGE SMOKE ASCENDING             _Do._                   26
-CHILD AND SNAKES             _Lady Marian Alford_           29
-THE FOOLISH COLT                _The Author_                33
-THE RAPE OF PROSERPINE              _Do._                   36
-THE STRANGE CHOICE                  _Do._                   39
-THE DOUBTFUL RACE                   _Do._                   42
-THE FERRY OF DEATH               _R. Barnes_                45
 _From Sketch by the Author._
-WINTER IN MAY                   _The Author_                48
-AUTUMN                              _Do._                   51
-HOME AND ABROAD                     _Do._                   54
-HAPPINESS                        _R. Barnes_                57
 _From Sketch by the Author._
-THE SCARECROW                    _The Author_               60
-THE WINDMILL                        _Do._                   64
 INEXPERIENCE            _Rear-Admiral Lord W. Compton_      67
 NOW OR NEVER                        _Do._                   70
 STRIKING THE TENT                _The Author_               73
@@ -138,7 +111,6 @@ I venture forth, but not alone,
 Too well aware its roar and strife
 Would drown my feeble undertone.
 And mindful of the world's disdain,
-I mimic him of Rhodope,[A]
 And start, escorted by a train
 Of beast, and bird, and flower, and tree;
 For lack of these, his guardian brood,
@@ -1723,4 +1695,4 @@ Like Cupid's bow her vermeil lip she bends,
 And with a twang her flashing wit descends.
 Dearer his name than beauty, youth, and pelf;
 She'd be his Fame, and blow the trump herself.
-About the world Youth loves to
+About the world Youth loves to peer

@@ -1,24 +1,15 @@
-nd Book of Modern Verse*
 Ed. Jessie B. Rittenhouse
 #2 in our series by Jessie B. Rittenhouse
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
 Please take a look at the important information in this header.
 We encourage you to keep this file on your own disk, keeping an
 electronic path open for the next readers.  Do not remove this.
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
 further information is included below.  We need your donations.
 The Second Book of Modern Verse
 Edited by Jessie B. Rittenhouse
-January, 1998  [Etext #1166]
-******This file should be named 1166.txt or 1166.zip******
 This etext was prepared by Alan R. Light (alight@vnet.net, formerly
 alight@mercury.interpath.net, etc.).  To assure a high quality text,
 the original was typed in (manually) twice and electronically compared.
 all of which are in the Public Domain in the United States, unless a
-copyright notice is included.  Therefore, we do NOT keep these books
 in compliance with any particular paper edition, usually otherwise.
 We are now trying to release all our books one month in advance
 of the official release dates, for time for better editing.
@@ -27,50 +18,33 @@ midnight of the last day of the month of any such announcement.
 Midnight, Central Time, of the last day of the stated month.  A
 preliminary version may often be posted for suggestion, comment
 and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
 in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
 look at the file size will have to do, but we will try to see a
 new copy has at least one byte more or less.
 We produce about two million dollars for each hour we work.  The
 fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
 million dollars per hour this year as we release thirty-two text
 files per month, or 384 more Etexts in 1997 for a total of 1000+
 If these reach just 10% of the computerized population, then the
 total should reach 80 billion Etexts.
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
 This is ten thousand titles each to one hundred million readers,
-which is only 10% of the present number of computer users.  2001
 should have at least twice as many computer users as that, so it
 will require us reaching less than 5% of the users in 2001.
 We need your donations more than ever!
 tax deductible to the extent allowable by law.  (CMU = Carnegie-
 Mellon University).
 For these and other matters, please mail to:
-P. O. Box  2782
-Champaign, IL 61825
 When all other email fails try our Executive Director:
-Michael S. Hart <hart@pobox.com>
 We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
-******
 If you have an FTP program (or emulator), please
 ftp uiarchive.cso.uiuc.edu
 login:  anonymous
 password:  your@login
-cd etext/etext90 through /etext96
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
 for a list of books
 and
 GET NEW GUT for general information
 and
-MGET GUT* for newsletters.
 (Three Pages)
 Why is this "Small Print!" statement here?  You know: lawyers.
 They tell us you might sue us if there is something wrong with
@@ -87,23 +61,19 @@ you got it from.  If you received this etext on a physical
 medium (such as a disk), you must return it with your request.
 tm etexts, is a "public domain" work distributed by Professor
 Carnegie-Mellon University (the "Project").  Among other
-things, this means that no one owns a United States copyright
 on or for this work, so the Project (and you!) can copy and
 distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
 below, apply if you wish to copy and distribute this etext
 To create these etexts, the Project expends considerable
 efforts to identify, transcribe and proofread public domain
 works.  Despite these efforts, the Project's etexts and any
 medium they may be on may contain "Defects".  Among other
 things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged
 disk or other etext medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
 But for the "Right of Replacement or Refund" described below,
 liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 If you discover a Defect in this etext within 90 days of
 receiving it, you can receive a refund of the money (if any)
 you paid for it by sending an explanatory note within that
@@ -121,7 +91,6 @@ You will indemnify and hold the Project, its directors,
 officers, members and agents harmless from all liability, cost
 and expense, including legal fees, that arise directly or
 indirectly from any of the following that you do or cause:
-or addition to the etext, or [3] any Defect.
 You may distribute copies of this etext electronically, or by
 disk, book or any other medium if you either delete this
 or:
@@ -131,9 +100,7 @@ if you wish, distribute this etext in machine readable
 binary, compressed, mark-up, or proprietary form,
 including any form resulting from conversion by word pro-
 cessing or hypertext software, but only so long as
-does *not* contain characters other than those
 intended by the author of the work, although tilde
-(~), asterisk (*) and underline (_) characters may
 be used to convey punctuation intended by the
 author, and additional characters may be used to
 indicate hypertext links; OR
@@ -152,9 +119,7 @@ date you prepare (or were legally required to prepare)
 your annual (or equivalent periodic) tax return.
 The Project gratefully accepts contributions in money, time,
 scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
 Association / Carnegie-Mellon University".
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 This etext was prepared by Alan R. Light (alight@vnet.net, formerly
 alight@mercury.interpath.net, etc.).  To assure a high quality text,
 the original was typed in (manually) twice and electronically compared.
@@ -162,7 +127,6 @@ The Second Book of Modern Verse
 Ed. Jessie B. Rittenhouse
 Other italicized words are capitalized.  Lines longer than 78 characters
 are broken and the continuation is indented two spaces.  Some obvious errors
-may have been corrected.]
 The Second Book of Modern Verse
 A Selection from the work of contemporaneous American poets
 Edited by Jessie B. Rittenhouse
@@ -200,204 +164,9 @@ Jessie B. Rittenhouse
 New York
 September 23, 1919
 Contents
-Abraham Lincoln walks at Midnight.  [Vachel Lindsay]
-Acceptance.  [Willard Wattles]
 Ad Matrem Amantissimam et Carissimam Filii in Aeternum Fidelitas.
-After Apple-Picking.  [Robert Frost]
-After Sunset.  [Grace Hazard Conkling]
-Afternoon on a Hill.  [Edna St. Vincent Millay]
-Afterwards.  [Mahlon Leonard Fisher]
-Ambition.  [Aline Kilmer]
-The Ancient Beautiful Things.  [Fannie Stearns Davis]
-Apology.  [Amy Lowell]
-April on the Battlefields.  [Leonora Speyer]
-April -- North Carolina.  [Harriet Monroe]
-Atropos.  [John Myers O'Hara]
-Autumn.  [Jean Starr Untermeyer]
-Autumn Movement.  [Carl Sandburg]
-Ballad of a Child.  [John G. Neihardt]
-Behind the House is the Millet Plot.  [Muna Lee]
-Berkshires in April.  [Clement Wood]
-Beyond Rathkelly.  [Francis Carlin]
-Birches.  [Robert Frost]
-The Bitter Herb.  [Jeanne Robert Foster]
-Blind.  [Harry Kemp]
-Blue Squills.  [Sara Teasdale]
-The Breaking.  [Margaret Steele Anderson]
-Chanson of the Bells of Oseney.  [Cale Young Rice]
-The Chant of the Colorado.  [Cale Young Rice]
-The Child in Me.  [May Riley Smith]
-The Chinese Nightingale.  [Vachel Lindsay]
-Choice.  [Angela Morgan]
-Cinquains.  [Adelaide Crapsey]
-The City.  [Charles Hanson Towne]
-City Roofs.  [Charles Hanson Towne]
-Compensation.  [William Ellery Leonard]
-Convention.  [Agnes Lee]
-Cradle Song.  [Josephine Preston Peabody]
-The Dark Cavalier.  [Margaret Widdemer]
-The Day before April.  [Mary Carolyn Davies]
-Days.  [Karle Wilson Baker]
-Death -- Divination.  [Charles Wharton Stork]
-Dialogue.  [Walter Conrad Arensberg]
-Dilemma.  [Orrick Johns]
-Doors.  [Hermann Hagedorn]
-Dream.  [Anna Hempstead Branch]
-The Dream of Aengus Og.  [Eleanor Rogers Cox]
-Dusk at Sea.  [Thomas S. Jones, Jr.]
-Earth.  [John Hall Wheelock]
-Earth's Easter.  [Robert Haven Schauffler]
-Ellis Park.  [Helen Hoyt]
-The Enchanted Sheepfold.  [Josephine Preston Peabody]
-Envoi.  [Josephine Preston Peabody]
-Evening Song of Senlin.  [Conrad Aiken]
-Exile from God.  [John Hall Wheelock]
-Eye-Witness.  [Ridgely Torrence]
-The Falconer of God.  [William Rose Benet]
-"Feuerzauber".  [Louis Untermeyer]
-The Fields.  [Witter Bynner]
-Fifty Years Spent.  [Maxwell Struthers Burt]
-The First Food.  [George Sterling]
-Flammonde.  [Edwin Arlington Robinson]
-The Flower of Mending.  [Vachel Lindsay]
-Four Sonnets.  [Thomas S. Jones, Jr.]
-Francis Ledwidge.  [Grace Hazard Conkling]
-General William Booth Enters into Heaven.  [Vachel Lindsay]
-The Gift.  [Louis V. Ledoux]
-A Girl's Songs.  [Mary Carolyn Davies]
-God's Acre.  [Witter Bynner]
-God's World.  [Edna St. Vincent Millay]
-Good-Bye.  [Norreys Jephson O'Conor]
-Good Company.  [Karle Wilson Baker]
-The Great Hunt.  [Carl Sandburg]
-Harbury.  [Louise Driscoll]
-Have you an Eye.  [Edwin Ford Piper]
-Heat.  [H. D.]
-The Hill Wife.  [Robert Frost]
-Hills of Home.  [Witter Bynner]
-The Homeland.  [Dana Burnet]
-How much of Godhood.  [Louis Untermeyer]
-Hrolf's Thrall, His Song.  [Willard Wattles]
-"I am in Love with High Far-Seeing Places".  [Arthur Davison Ficke]
-I have a Rendezvous with Death.  [Alan Seeger]
-"I Pass a Lighted Window".  [Clement Wood]
-Idealists.  [Alfred Kreymborg]
-The Idol-Maker prays.  [Arthur Guiterman]
-"If you should tire of loving me".  [Margaret Widdemer]
-In Excelsis.  [Thomas S. Jones, Jr.]
-In Patris Mei Memoriam.  [John Myers O'Hara]
-In Spite of War.  [Angela Morgan]
-In the Hospital.  [Arthur Guiterman]
-In the Monastery.  [Norreys Jephson O'Conor]
-In the Mushroom Meadows.  [Thomas Walsh]
-Indian Summer.  [William Ellery Leonard]
-Interlude.  [Scudder Middleton]
-The Interpreter.  [Orrick Johns]
-Invocation.  [Clara Shanafelt]
-Irish Love Song.  [Margaret Widdemer]
-Jerico.  [Willard Wattles]
-The Kings are passing Deathward.  [David Morton]
-A Lady.  [Amy Lowell]
-The Last Piper.  [Edward J. O'Brien]
-Lincoln.  [John Gould Fletcher]
-Little Things.  [Orrick Johns]
-Loam.  [Carl Sandburg]
-Lonely Burial.  [Stephen Vincent Benet]
-The Lonely Death.  [Adelaide Crapsey]
-Love is a Terrible Thing.  [Grace Fallow Norton]
-A Love Song.  [Theodosia Garrison]
-Love Songs.  [Sara Teasdale]
-The Lover envies an Old Man.  [Shaemas O Sheel]
-A Lynmouth Widow.  [Amelia Josephine Burr]
-Mad Blake.  [William Rose Benet]
-Madonna of the Evening Flowers.  [Amy Lowell]
-Mater Dolorosa.  [Louis V. Ledoux]
-Men of Harlan.  [William Aspinwall Bradley]
-The Monk in the Kitchen.  [Anna Hempstead Branch]
-Morning Song of Senlin.  [Conrad Aiken]
-The Most-Sacred Mountain.  [Eunice Tietjens]
-Moth-Terror.  [Benjamin De Casseres]
-The Mould.  [Gladys Cromwell]
-Music I heard.  [Conrad Aiken]
-Muy Vieja Mexicana.  [Alice Corbin]
-The Name.  [Anna Hempstead Branch]
-The Narrow Doors.  [Fannie Stearns Davis]
-New Dreams for Old.  [Cale Young Rice]
-The New God.  [James Oppenheim]
-Nirvana.  [John Hall Wheelock]
-A Note from the Pipes.  [Leonora Speyer]
-A Nun.  [Odell Shepard]
-Of One Self-Slain.  [Charles Hanson Towne]
-Old Age.  [Cale Young Rice]
-Old Amaze.  [Mahlon Leonard Fisher]
-Old King Cole.  [Edwin Arlington Robinson]
-Old Manuscript.  [Alfred Kreymborg]
-Old Ships.  [David Morton]
-Omnium Exeunt in Mysterium.  [George Sterling]
-Open Windows.  [Sara Teasdale]
-Orchard.  [H. D.]
-Our Little House.  [Thomas Walsh]
-Overnight, a Rose.  [Caroline Giltinan]
-Overtones.  [William Alexander Percy]
-Path Flower.  [Olive Tilford Dargan]
-The Path that leads to Nowhere.  [Corinne Roosevelt Robinson]
-Patterns.  [Amy Lowell]
-Peace.  [Agnes Lee]
-Pierrette in Memory.  [William Griffith]
-Poets.  [Joyce Kilmer]
-Prayer during Battle.  [Hermann Hagedorn]
-Prayer of a Soldier in France.  [Joyce Kilmer]
-Prevision.  [Aline Kilmer]
-The Provinces.  [Francis Carlin]
-Reveille.  [Louis Untermeyer]
-Richard Cory.  [Edwin Arlington Robinson]
-The Road not taken.  [Robert Frost]
-Romance.  [Scudder Middleton]
-Rouge Bouquet.  [Joyce Kilmer]
-The Runner in the Skies.  [James Oppenheim]
-A Saint's Hours.  [Sarah N. Cleghorn]
-Silence.  [Edgar Lee Masters]
-The Silent Folk.  [Charles Wharton Stork]
-Slumber Song.  [Louis V. Ledoux]
-Smith, of the Third Oregon, dies.  [Mary Carolyn Davies]
-The Son.  [Ridgely Torrence]
-Song.  [Margaret Steele Anderson]
-Song.  [Adelaide Crapsey]
-Song.  [Edward J. O'Brien]
-Song.  [Margaret Widdemer]
-A Song of Two Wanderers.  [Marguerite Wilkinson]
-Songs of an Empty House.  [Marguerite Wilkinson]
-Spoon River Anthology.  [Edgar Lee Masters]
-Spring.  [John Gould Fletcher]
-Spring in Carmel.  [George Sterling]
-Spring Song.  [William Griffith]
-Students.  [Florence Wilkinson]
-Symbol.  [David Morton]
-Tampico.  [Grace Hazard Conkling]
-"There will come Soft Rain".  [Sara Teasdale]
-The Three Sisters.  [Arthur Davison Ficke]
-A Thrush in the Moonlight.  [Witter Bynner]
-To a Portrait of Whistler in the Brooklyn Art Museum.  [Eleanor Rogers Cox]
-To Any one.  [Witter Bynner]
-Trees.  [Joyce Kilmer]
-The Unknown Beloved.  [John Hall Wheelock]
-Valley Song.  [Carl Sandburg]
-Venus Transiens.  [Amy Lowell]
-Voyage a l'Infini.  [Walter Conrad Arensberg]
-The Wanderer.  [Zoe Akins]
-The Water Ouzel.  [Harriet Monroe]
-When the Year grows Old.  [Edna St. Vincent Millay]
-Where Love is.  [Amelia Josephine Burr]
-Where Love once was.  [James Oppenheim]
-Which.  [Corinne Roosevelt Robinson]
-The White Comrade.  [Robert Haven Schauffler]
-Wide Haven.  [Clement Wood]
-"A Wind Rose in the Night".  [Aline Kilmer]
-Yellow Warblers.  [Katharine Lee Bates]
-You.  [Ruth Guthrie Harding]
 Biographical Notes
 The Second Book of Modern Verse
-The Road not taken.  [Robert Frost]
 Two roads diverged in a yellow wood,
 And sorry I could not travel both
 And be one traveler, long I stood
@@ -418,7 +187,6 @@ Somewhere ages and ages hence:
 Two roads diverged in a wood, and I --
 I took the one less traveled by,
 And that has made all the difference.
-Symbol.  [David Morton]
 My faith is all a doubtful thing,
 Wove on a doubtful loom, --
 Until there comes, each showery spring,
@@ -427,7 +195,6 @@ And Christ who died upon a tree
 That death had stricken bare,
 Comes beautifully back to me,
 In blossoms, everywhere.
-Spring.  [John Gould Fletcher]
 At the first hour, it was as if one said, "Arise."
 At the second hour, it was as if one said, "Go forth."
 And the winter constellations that are like patient ox-eyes
@@ -444,7 +211,6 @@ At the ninth hour, they sealed up the tomb;
 And the earth was then silent for the space of three hours.
 But at the twelfth hour, a single lily from the gloom
 Shot forth, and was followed by a whole host of flowers.
-"There will come Soft Rain".  [Sara Teasdale]
 There will come soft rain and the smell of the ground,
 And swallows circling with their shimmering sound;
 And frogs in the pools singing at night,
@@ -457,7 +223,6 @@ Not one would mind, neither bird nor tree,
 If mankind perished utterly.
 And Spring herself when she woke at dawn,
 Would scarcely know that we were gone.
-Spring Song.  [William Griffith]
 Softly at dawn a whisper stole
 Down from the Green House on the Hill,
 Enchanting many a ghostly bole
@@ -466,7 +231,6 @@ Gossiping on the country-side,
 Spring and the wandering breezes say,
 God has thrown Heaven open wide
 And let the thrushes out to-day.
-The Day before April.  [Mary Carolyn Davies]
 The day before April
 Alone, alone,
 I walked in the woods
@@ -475,7 +239,6 @@ I sat on a broad stone
 And sang to the birds.
 The tune was God's making
 But I made the words.
-Berkshires in April.  [Clement Wood]
 It is not Spring -- not yet --
 But at East Schaghticoke I saw an ivory birch
 Lifting a filmy red mantle of knotted buds
@@ -498,7 +261,6 @@ The high hill birches shine like purple plumes,
 A royal headdress for the brow of Spring.
 It is the doubtful, unquiet end of Winter,
 And Spring is pulsing out of the wakening soil.
-In Excelsis.  [Thomas S. Jones, Jr.]
 Spring!
 And all our valleys turning into green,
 Remembering --
@@ -539,7 +301,6 @@ Yet never can be paid
 The debt long laid
 Upon my heart, because my lips did press
 In youth's glad Spring the Cup of Loveliness!
-Blue Squills.  [Sara Teasdale]
 How many million Aprils came
 Before I ever knew
 How white a cherry bough could be,
@@ -556,7 +317,6 @@ O shaken flowers, O shimmering trees,
 O sunlit white and blue,
 Wound me, that I through endless sleep
 May bear the scar of you.
-Earth.  [John Hall Wheelock]
 Grasshopper, your fairy song
 And my poem alike belong
 To the dark and silent earth
@@ -635,7 +395,6 @@ Yea, and this, my poem, too,
 Is part of her as dust and dew,
 Wherein herself she doth declare
 Through my lips, and say her prayer.
-Trees.  [Joyce Kilmer]
 I think that I shall never see
 A poem lovely as a tree.
 A tree whose hungry mouth is prest
@@ -648,7 +407,6 @@ Upon whose bosom snow has lain;
 Who intimately lives with rain.
 Poems are made by fools like me,
 But only God can make a tree.
-Idealists.  [Alfred Kreymborg]
 Brother Tree:
 Why do you reach and reach?
 Do you dream some day to touch the sky?
@@ -660,7 +418,6 @@ Why do you sing and sing?
 Do you dream --
 ~Young Man:
 Why do you talk and talk and talk?~
-Blind.  [Harry Kemp]
 The Spring blew trumpets of color;
 Her Green sang in my brain --
 I heard a blind man groping
@@ -673,7 +430,6 @@ A spirit who hears me tapping
 The five-sensed cane of mind
 Amid such unguessed glories --
 That I am worse than blind.
-Yellow Warblers.  [Katharine Lee Bates]
 The first faint dawn was flushing up the skies
 When, dreamland still bewildering mine eyes,
 I looked out to the oak that, winter-long,
@@ -699,7 +455,6 @@ From lyric dawn through dreamland's open door,
 And there was God, Eternal Life that sings,
 Eternal joy, brooding all mortal things,
 A nest of stars, beneath untroubled wings.
-April -- North Carolina.  [Harriet Monroe]
 Would you not be in Tryon
 Now that the spring is here,
 When mocking-birds are praising
@@ -720,7 +475,6 @@ Hark -- what a rushing torrent
 Of crystal song falls sheer!
 Would you not be in Tryon
 Now that the spring is here?
-Path Flower.  [Olive Tilford Dargan]
 A red-cap sang in Bishop's wood,
 A lark o'er Golder's lane,
 As I the April pathway trod
@@ -813,7 +567,6 @@ Afar she turned her head and smiled
 As might have smiled the Spring,
 And humble as a wondering child
 I watched her vanishing.
-Little Things.  [Orrick Johns]
 There's nothing very beautiful and nothing very gay
 About the rush of faces in the town by day,
 But a light tan cow in a pale green mead,
@@ -830,7 +583,6 @@ Oh, better let the little things I loved when little
 Return when the heart finds the great things brittle;
 And better is a temple made of bark and thong
 Than a tall stone temple that may stand too long.
-New Dreams for Old.  [Cale Young Rice]
 Is there no voice in the world to come crying,
 "New dreams for old!
 New for old!"?
@@ -853,7 +605,6 @@ That ever blows
 Out of the lands that are called Elysian?
 I must have new dreams!
 New for old!
-Invocation.  [Clara Shanafelt]
 O Glass-Blower of time,
 Hast blown all shapes at thy fire?
 Canst thou no lovelier bell,
@@ -862,7 +613,6 @@ Worthy to hold such wine
 As was never yet trod from the grape,
 Since the stars shed their light, since the moon
 Troubled the night with her beauty?
-Dream.  [Anna Hempstead Branch]
 But now the Dream has come again, the world is as of old.
 Once more I feel about my breast the heartening splendors fold.
 Now I am back in that good place from which my footsteps came,
@@ -895,7 +645,6 @@ All day, sweet land, I fight for thee outside the goodly wall,
 And 'twixt my breathless wounds I have no sight of thee at all!
 And sometimes I forget thy looks and what thy ways may be!
 I have denied thou wert at all -- yet still I fight for thee.
-Four Sonnets.  [Thomas S. Jones, Jr.]
 Sanctuary
 How may one hold these days of wonderment
 And bind them into stillness with a thong,
@@ -956,7 +705,6 @@ Was as a mighty symphony unfurled;
 And back from out the Stars like homing birds
 They fell in love upon the sleeping ground
 And were forever in a wakened world.
-Chanson of the Bells of Oseney.  [Cale Young Rice]
 Thirteenth Century
 The bells of Oseney
 (Hautclere, Doucement, Austyn)
@@ -998,7 +746,6 @@ Tell slowly,
 Tell lowly,
 Of Christ the High and Holy,
 Who makes the whole world fair.
-Poets.  [Joyce Kilmer]
 Vain is the chiming of forgotten bells
 That the wind sways above a ruined shrine.
 Vainer his voice in whom no longer dwells
@@ -1007,7 +754,6 @@ Light songs we breathe that perish with our breath
 Out of our lips that have not kissed the rod.
 They shall not live who have not tasted death.
 They only sing who are struck dumb by God.
-Acceptance.  [Willard Wattles]
 I cannot think nor reason,
 I only know he came
 With hands and feet of healing
@@ -1020,7 +766,6 @@ I only know he loves me,
 Enfolds and understands --
 And oh, his heart that holds me,
 And oh, his certain hands!
-In the Hospital.  [Arthur Guiterman]
 Because on the branch that is tapping my pane
 A sun-wakened leaf-bud, uncurled,
 Is bursting its rusty brown sheathing in twain,
@@ -1033,7 +778,6 @@ Because even here in this Mansion of Woe
 Where creep the dull hours, leaden-shod,
 Compassion and Tenderness aid me, I know
 There is God.
-Overnight, a Rose.  [Caroline Giltinan]
 That overnight a rose could come
 I one time did believe,
 For when the fairies live with one,
@@ -1054,7 +798,6 @@ So maybe I, who cannot see
 What God wills not to show,
 May, some day, bear a rose for Him
 It took my life to grow.
-The Idol-Maker prays.  [Arthur Guiterman]
 Great god whom I shall carve from this gray stone
 Wherein thou liest, hid to all but me,
 Grant thou that when my art hath made thee known
@@ -1069,7 +812,6 @@ Content at any goal!  Still bid me spurn
 Each transient triumph on the Eternal Quest,
 Abjuring godlings whom my hand hath made
 For Deity, revealed, but unportrayed!
-Reveille.  [Louis Untermeyer]
 What sudden bugle calls us in the night
 And wakes us from a dream that we had shaped;
 Flinging us sharply up against a fight
@@ -1082,7 +824,6 @@ Summoned by a supreme and confident power
 That wakes our sleeping courage like a blow,
 We rise, half-shaken, to the challenging hour,
 And answer it -- and go.
-The Breaking.  [Margaret Steele Anderson]
 (The Lord God speaks to a youth)
 Bend now thy body to the common weight!
 (But oh, that vine-clad head, those limbs of morn!
@@ -1096,7 +837,6 @@ Nay then, thou shalt!  Resist not, have a care!
 (Yea, I must work my plans who sovereign sit!
 Yet do not tremble so!  I cannot bear --
 Though I am God -- to see thee so submit!)
-The Falconer of God.  [William Rose Benet]
 I flung my soul to the air like a falcon flying.
 I said, "Wait on, wait on, while I ride below!
 I shall start a heron soon
@@ -1137,7 +877,6 @@ The fens and the sedges.
 The pledge is still the same -- for all disastrous pledges,
 All hopes resigned!
 My soul still flies above me for the quarry it shall find.
-Dilemma.  [Orrick Johns]
 What though the moon should come
 With a blinding glow,
 And the stars have a game
@@ -1154,7 +893,6 @@ I would have to labor
 And dig with my brain
 Still to get a truth
 Out of all words new.
-To a Portrait of Whistler in the Brooklyn Art Museum.  [Eleanor Rogers Cox]
 What waspish whim of Fate
 Was this that bade you here
 Hold dim, unhonored state,
@@ -1187,7 +925,6 @@ Ah, Prince, you smile again --
 "My faith, the court is small!"
 I know, dear James -- but then
 It's I or none at all!
-Flammonde.  [Edwin Arlington Robinson]
 The man Flammonde, from God knows where,
 With firm address and foreign air,
 With news of nations in his talk
@@ -1284,7 +1021,6 @@ We've each a darkening hill to climb;
 And this is why, from time to time
 In Tilbury Town, we look beyond
 Horizons for the man Flammonde.
-The Chinese Nightingale.  [Vachel Lindsay]
 "How, how," he said.  "Friend Chang," I said,
 "San Francisco sleeps as the dead --
 Ended license, lust and play:
@@ -1522,7 +1258,6 @@ One thing I remember:
 Spring came on forever,
 Spring came on forever,"
 Said the Chinese nightingale.
-Love Songs.  [Sara Teasdale]
 Come
 Come, when the pale moon like a petal
 Floats in the pearly dusk of Spring,
@@ -1572,7 +1307,6 @@ If any one asks, say it was forgotten
 Long and long ago,
 As a flower, as a fire, as a hushed footfall
 In a long forgotten snow.
-Love is a Terrible Thing.  [Grace Fallow Norton]
 I went out to the farthest meadow,
 I lay down in the deepest shadow;
 And I said unto the earth, "Hold me,"
@@ -1592,7 +1326,6 @@ And to the still hills and cool earth and far sky I made moan,
 "The heart in my bosom is not my own!
 "O would I were free as the wind on wing;
 Love is a terrible thing!"
-Valley Song.  [Carl Sandburg]
 Your eyes and the valley are memories.
 Your eyes fire and the valley a bowl.
 It was here a moonrise crept over the timberline.
@@ -1606,7 +1339,6 @@ These are three sumach-red dogs I run with.
 All of it wraps and knots to a riddle:
 I have the moon, the timberline, and you.
 All three are gone -- and I keep all three.
-Spring in Carmel.  [George Sterling]
 O'er Carmel fields in the springtime the sea-gulls follow the plow.
 White, white wings on the blue above!
 White were your brow and breast, O Love!
@@ -1655,7 +1387,6 @@ Time-to-be, shall I hear it ever?
 Time-that-is, with the hands that sever,
 Cry all words but the dreadful "Never"!
 And name of her far away.
-Music I heard.  [Conrad Aiken]
 Music I heard with you was more than music,
 And bread I broke with you was more than bread;
 Now that I am without you, all is desolate;
@@ -1668,7 +1399,6 @@ For it was in my heart you moved among them,
 And blessed them with your hands and with your eyes;
 And in my heart they will remember always, --
 They knew you once, O beautiful and wise.
-Dusk at Sea.  [Thomas S. Jones, Jr.]
 To-night eternity alone is near:
 The sea, the sunset, and the darkening blue;
 Within their shelter is no space for fear,
@@ -1677,7 +1407,6 @@ The thought of you is like the dusk at sea --
 Space and wide freedom and old shores left far,
 The shelter of a lone immensity
 Sealed by the sunset and the evening star.
-Old Ships.  [David Morton]
 There is a memory stays upon old ships,
 A weightless cargo in the musty hold, --
 Of bright lagoons and prow-caressing lips,
@@ -1692,7 +1421,6 @@ There is a dream upon them, evermore; --
 And there be some who say that sunk ships rise
 To seek familiar harbors in the night,
 Blowing in mists, their spectral sails like light.
-The Wanderer.  [Zoe Akins]
 The ships are lying in the bay,
 The gulls are swinging round their spars;
 My soul as eagerly as they
@@ -1701,7 +1429,6 @@ So much do I love wandering,
 So much I love the sea and sky,
 That it will be a piteous thing
 In one small grave to lie.
-Harbury.  [Louise Driscoll]
 All the men of Harbury go down to the sea in ships,
 The wind upon their faces, the salt upon their lips.
 The little boys of Harbury when they are laid to sleep,
@@ -1734,7 +1461,6 @@ That no one ever drowns in and souls may cross dry-shod.
 Who miss the old salt danger of the singing sea.
 "For in my heart, like some old shell, inland, safe and dry,
 Any one who harks will still hear the sea cry."
-A Lynmouth Widow.  [Amelia Josephine Burr]
 He was straight and strong, and his eyes were blue
 As the summer meeting of sky and sea,
 And the ruddy cliffs had a colder hue
@@ -1751,7 +1477,6 @@ He would have taken a long, long grave --
 A long, long grave, for he stood so tall . . .
 Oh, God, the crash of a breaking wave,
 And the smell of the nets on the churchyard wall!
-City Roofs.  [Charles Hanson Towne]
 Roof-tops, roof-tops, what do you cover?
 Sad folk, bad folk, and many a glowing lover;
 Wise people, simple people, children of despair --
@@ -1772,7 +1497,6 @@ Roof-tops, roof-tops, this is what I wonder:
 You are thick as poisonous plants, thick the people under;
 Yet roofless, and homeless, and shelterless they roam,
 The driftwood of the town who have no roof-top and no home!
-Eye-Witness.  [Ridgely Torrence]
 Down by the railroad in a green valley
 By dancing water, there he stayed awhile
 Singing, and three men with him, listeners,
@@ -1936,7 +1660,6 @@ A little longer till the moon came up;
 Then on the gilded track leading to the mountains,
 Against the moon they faded in common gold
 And earth bore East with all toward the new morning.
-God's Acre.  [Witter Bynner]
 Because we felt there could not be
 A mowing in reality
 So white and feathery-blown and gay
@@ -1949,7 +1672,6 @@ And when we bent the white aside
 We came to paupers who had died:
 Rough wooden shingles row on row,
 And God's name written there -- `John Doe'.
-General William Booth Enters into Heaven.  [Vachel Lindsay]
 (To be sung to the tune of `The Blood of the Lamb' with indicated instrument)
 (Bass drum beaten loudly)
 Booth led boldly with his big bass drum --
@@ -2014,7 +1736,6 @@ For Booth the soldier, while the throng knelt down.
 He saw King Jesus.  They were face to face,
 And he knelt a-weeping in that holy place.
 Are you washed in the blood of the Lamb?
-Compensation.  [William Ellery Leonard]
 I know the sorrows of the last abyss:
 I walked the cold black pools without a star;
 I lay on rock of unseen flint and spar;
@@ -2029,7 +1750,6 @@ I seem to know at last of mighty song;
 And with no blush, no tremor on the cheek,
 I do claim consort with the great and strong
 Who suffered ill and had the gift to speak.
-A Girl's Songs.  [Mary Carolyn Davies]
 Borrower
 I sing of sorrow,
 I sing of weeping.
@@ -2067,7 +1787,6 @@ But when the night comes black and cold,
 I who am young, with fear grow old;
 And I know, when the world is clear of sound,
 I am bound -- bound.
-The Enchanted Sheepfold.  [Josephine Preston Peabody]
 The hills far-off were blue, blue,
 The hills at hand were brown;
 And all the herd-bells called to me
@@ -2088,7 +1807,6 @@ And he is fairer than all -- all.
 How could a heart go wrong?
 For his eyes I knew, and his knew mine,
 Like an old, old song.
-Where Love is.  [Amelia Josephine Burr]
 By the rosy cliffs of Devon, on a green hill's crest,
 I would build me a house as a swallow builds its nest;
 I would curtain it with roses, and the wind should breathe to me
@@ -2101,7 +1819,6 @@ Narrow is the street, Dear, and dingy are the walls
 Wherein I wait your coming as the twilight falls.
 All day with dreams I gild the grime till at your step I start --
 Ah Love, my country in your arms -- my home upon your heart!
-Interlude.  [Scudder Middleton]
 I am not old, but old enough
 To know that you are very young.
 It might be said I am the leaf,
@@ -2110,7 +1827,6 @@ So I shall grow a while with you,
 And hear the bee and watch the cloud,
 Before the dragon on the branch,
 The caterpillar, weaves a shroud.
-The Lover envies an Old Man.  [Shaemas O Sheel]
 I envy the feeble old man
 Dozing there in the sun.
 When all you can do is done
@@ -2143,7 +1859,6 @@ Moving not,
 Loving not,
 Only dozing my days till my days be done,
 Under the sun.
-"If you should tire of loving me".  [Margaret Widdemer]
 If you should tire of loving me
 Some one of our far days,
 Oh, never start to hide your heart
@@ -2156,7 +1871,6 @@ For God must give you happiness,
 And Oh, it may befall
 In listening long to Heaven-song
 I may not care at all!
-The Flower of Mending.  [Vachel Lindsay]
 When Dragon-fly would fix his wings,
 When Snail would patch his house,
 When moths have marred the overcoat
@@ -2177,7 +1891,6 @@ Your hand was honey-comb to heal,
 Your voice a web to bind.
 You were a Mending Flower to me
 To cure my heart and mind.
-Venus Transiens.  [Amy Lowell]
 Tell me,
 Was Venus more beautiful
 Than you are,
@@ -2202,7 +1915,6 @@ Treading the sunlight.
 And the waves which precede you
 Ripple and stir
 The sands at your feet.
-The Dream of Aengus Og.  [Eleanor Rogers Cox]
 When the rose of Morn through the Dawn was breaking,
 And white on the hearth was last night's flame,
 Thither to me 'twixt sleeping and waking,
@@ -2235,7 +1947,6 @@ And light as the thought of a love forgotten,
 The hours skim past, while before me flies
 That face of the Sun and Mist begotten,
 Its singing lips and death-cold eyes.
-"I am in Love with High Far-Seeing Places".  [Arthur Davison Ficke]
 I am in love with high far-seeing places
 That look on plains half-sunlight and half-storm, --
 In love with hours when from the circling faces
@@ -2250,7 +1961,6 @@ I seek the wonder at the heart of man;
 I would go up to the far-seeing places.
 While youth is ours, turn toward me for a space
 The marvel of your rapture-lighted face!
-You.  [Ruth Guthrie Harding]
 Deep in the heart of me,
 Nothing but You!
 See through the art of me --
@@ -2259,7 +1969,6 @@ Find the best part of me,
 Changeless and true.
 Deep in the heart of me,
 Nothing but You!
-Choice.  [Angela Morgan]
 I'd rather have the thought of you
 To hold against my heart,
 My spirit to be taught of you
@@ -2285,7 +1994,6 @@ Within the great abyss
 Than claim another's kiss --
 Alone I'd rather go my way
 Throughout eternity.
-Song.  [Margaret Steele Anderson]
 The bride, she wears a white, white rose -- the plucking it was mine;
 The poet wears a laurel wreath -- and I the laurel twine;
 And oh, the child, your little child, that's clinging close to you,
@@ -2294,7 +2002,6 @@ And I, I have a wreath to wear -- ah, never rue nor thorn!
 I sometimes think that bitter wreath could be more sweetly worn!
 For mine is made of ghostly bloom, of what I can't forget --
 The fallen leaves of other crowns -- rose, laurel, violet!
-Romance.  [Scudder Middleton]
 Why should we argue with the falling dust
 Or tremble in the traffic of the days?
 Our hearts are music-makers in the clouds,
@@ -2307,7 +2014,6 @@ She'll lead us to the forest where she hides
 The yellow wine that keeps the angels young --
 We are the chosen lovers of the earth
 For whom alone the golden comb was hung.
-Good-Bye.  [Norreys Jephson O'Conor]
 Good-bye to tree and tower,
 To meadow, stream, and hill,
 Beneath the white clouds marshalled close
@@ -2328,7 +2034,6 @@ I would return to Erin
 When all these wars are by,
 Live long among her hills before
 My last good-bye.
-Beyond Rathkelly.  [Francis Carlin]
 As I went over the Far Hill,
 Just beyond Rathkelly,
 -- Och, to be on the Far Hill
@@ -2353,7 +2058,6 @@ As I went over the Far Hill,
 I wished for little Nellie,
 And if a star were falling now
 I'd wish for her again.
-A Song of Two Wanderers.  [Marguerite Wilkinson]
 Dear, when I went with you
 To where the town ends,
 Simple things that Christ loved --
@@ -2398,7 +2102,6 @@ Simple folk that Christ loved --
 They were our friends. . . .~
 Dear, we must go again
 To where the town ends. . . .
-In the Mushroom Meadows.  [Thomas Walsh]
 Sun on the dewy grasslands where late the frost hath shone,
 And lo, what elfin cities are these we come upon!
 What pigmy domes and thatches, what Arab caravan,
@@ -2407,7 +2110,6 @@ Are these the oldtime meadows?  Yes, the wildgrape scents the air;
 The breath of ripened orchards still is incense everywhere;
 Yet do these dawn-encampments bring the lurking memories
 Of Egypt and of Burma and the shores of China Seas.
-The Path that leads to Nowhere.  [Corinne Roosevelt Robinson]
 There's a path that leads to Nowhere
 In a meadow that I know,
 Where an inland island rises
@@ -2440,12 +2142,10 @@ Bids me dream and bids me linger,
 Joy and Beauty are its goal, --
 On the path that leads to Nowhere
 I have sometimes found my soul!
-Days.  [Karle Wilson Baker]
 Some days my thoughts are just cocoons -- all cold, and dull, and blind,
 They hang from dripping branches in the grey woods of my mind;
 And other days they drift and shine -- such free and flying things!
 I find the gold-dust in my hair, left by their brushing wings.
-Ellis Park.  [Helen Hoyt]
 Little park that I pass through,
 I carry off a piece of you
 Every morning hurrying down
@@ -2476,7 +2176,6 @@ For me to borrow
 On the morrow.
 Do you hear this praise of you,
 Little park that I pass through?
-A Note from the Pipes.  [Leonora Speyer]
 Pan, blow your pipes and I will be
 Your fern, your pool, your dream, your tree!
 I heard you play, caught your swift eye,
@@ -2491,7 +2190,6 @@ Blow, blow your pipes!  And from afar
 I'll come -- I'll be your bird, your star,
 Your wood, your nymph, your kiss, your rhyme,
 And all your godlike summer-time!
-Afternoon on a Hill.  [Edna St. Vincent Millay]
 I will be the gladdest thing
 Under the sun!
 I will touch a hundred flowers
@@ -2504,7 +2202,6 @@ And when lights begin to show
 Up from the town,
 I will mark which must be mine,
 And then start down!
-Open Windows.  [Sara Teasdale]
 Out of the window a sea of green trees
 Lift their soft boughs like the arms of a dancer;
 They beckon and call me, "Come out in the sun!"
@@ -2521,7 +2218,6 @@ They are the runners in the sun,
 Breathless and blinded by the race,
 But we are watchers in the shade
 Who speak with Wonder face to face.
-Old Amaze.  [Mahlon Leonard Fisher]
 Mine eyes are filled today with old amaze
 At mountains, and at meadows deftly strewn
 With bits of the gay jewelry of June
@@ -2536,7 +2232,6 @@ An odor reminiscent of the rose;
 And everywhere her seal has Summer set;
 And, as of old, in the horizon-sky,
 The sun can find a lovely place to die.
-Voyage a l'Infini.  [Walter Conrad Arensberg]
 The swan existing
 Is like a song with an accompaniment
 Imaginary.
@@ -2557,7 +2252,6 @@ Alone.
 At night
 The lake is a wide silence,
 Without imagination.
-After Sunset.  [Grace Hazard Conkling]
 I have an understanding with the hills
 At evening when the slanted radiance fills
 Their hollows, and the great winds let them be,
@@ -2582,7 +2276,6 @@ To the still land beyond the evening star,
 Where everlasting hills and valleys are:
 And silence may not hurt us any more,
 And terror shall be past, and grief, and war.
-Morning Song of Senlin.  [Conrad Aiken]
 It is morning, Senlin says, and in the morning
 When the light drips through the shutters like the dew,
 I arise, I face the sunrise,
@@ -2647,7 +2340,6 @@ Vine-leaves tap at the window,
 Dew-drops sing to the garden stones,
 The robin chirps in the chinaberry tree
 Repeating three clear tones.
-Good Company.  [Karle Wilson Baker]
 To-day I have grown taller from walking with the trees,
 The seven sister-poplars who go softly in a line;
 And I think my heart is whiter for its parley with a star
@@ -2656,7 +2348,6 @@ The call-note of a redbird from the cedars in the dusk
 Woke his happy mate within me to an answer free and fine;
 And a sudden angel beckoned from a column of blue smoke --
 ~Lord, who am I that they should stoop -- these holy folk of thine?~
-"Feuerzauber".  [Louis Untermeyer]
 I never knew the earth had so much gold --
 The fields run over with it, and this hill,
 Hoary and old,
@@ -2673,7 +2364,6 @@ Aye, you are touched; your singing lips grow dumb;
 The fields absorb you, color you entire . . .
 And you become
 A goddess standing in a world of fire!
-Birches.  [Robert Frost]
 When I see birches bend to left and right
 Across the lines of straighter darker trees,
 I like to think some boy's been swinging them.
@@ -2734,7 +2424,6 @@ TOWARD heaven, till the tree could bear no more,
 But dipped its top and set me down again.
 That would be good both going and coming back.
 One could do worse than be a swinger of birches.
-Fifty Years Spent.  [Maxwell Struthers Burt]
 Fifty years spent before I found me,
 Wind on my mouth and the taste of the rain,
 Where the great hills circled and swept around me
@@ -2771,7 +2460,6 @@ Where is the heart of the boy to sing thee?
 Where is the life for thy living to fill?
 And thirty years back in a city crowd
 I passed a girl when my heart cried loud!
-The City.  [Charles Hanson Towne]
 When, sick of all the sorrow and distress
 That flourished in the City like foul weeds,
 I sought blue rivers and green, opulent meads,
@@ -2786,7 +2474,6 @@ It would not cease though far my heart might roam.
 It called me in the sunrise and the dew,
 At noon and twilight, sadly, hungrily,
 The jealous City, whispering always -- "Home!"
-The Most-Sacred Mountain.  [Eunice Tietjens]
 Space, and the twelve clean winds of heaven,
 And this sharp exultation, like a cry, after the slow six thousand
 steps of climbing!
@@ -2814,7 +2501,6 @@ Yet, having known, life will not press so close, and always I shall feel time
 ravel thin about me;
 For once I stood
 In the white windy presence of eternity.
-The Chant of the Colorado.  [Cale Young Rice]
 (At the Grand Canyon)
 My brother, man, shapes him a plan
 And builds him a house in a day,
@@ -2855,7 +2541,6 @@ With beauty the earth and air,
 Are ever at play, by night and day,
 My house of eternity to array
 In visions ever fair.
-The Water Ouzel.  [Harriet Monroe]
 Little brown surf-bather of the mountains!
 Spirit of foam, lover of cataracts, shaking your wings in falling waters!
 Have you no fear of the roar and rush when Nevada plunges --
@@ -2868,7 +2553,6 @@ the rocks?
 Must you fly through mad waters where the heaped-up granite breaks them?
 Must you batter your wings in the torrent?
 Must you plunge for life and death through the foam?
-Old Manuscript.  [Alfred Kreymborg]
 The sky
 Is that beautiful old parchment
 In which the sun
@@ -2886,14 +2570,12 @@ In having been, always,
 The only confidant --
 Like the earth
 Or the sky.
-The Runner in the Skies.  [James Oppenheim]
 Who is the runner in the skies,
 With her blowing scarf of stars,
 And our Earth and sun hovering like bees about her blossoming heart?
 Her feet are on the winds, where space is deep,
 Her eyes are nebulous and veiled,
 She hurries through the night to a far lover.
-Evening Song of Senlin.  [Conrad Aiken]
 It is moonlight.  Alone in the silence
 I ascend my stairs once more,
 While waves, remote in a pale blue starlight,
@@ -2930,7 +2612,6 @@ And the star I laugh on tilts through heaven;
 And the heavens are dark and steep . . .
 I will forget these things once more
 In the silence of sleep.
-A Thrush in the Moonlight.  [Witter Bynner]
 In came the moon and covered me with wonder,
 Touched me and was near me and made me very still.
 In came a rush of song, like rain after thunder,
@@ -2940,7 +2621,6 @@ The birdsong had stricken me, had brought the moon too near.
 But when I dared to lift my head, night began to fill
 With singing in the darkness.  And then the thrush grew still.
 And the moon came in, and silence, on my window-sill.
-Orchard.  [H. D.]
 I saw the first pear
 As it fell --
 The honey-seeking, golden-banded,
@@ -2972,7 +2652,6 @@ Pomegranates already broken,
 And shrunken figs
 And quinces untouched,
 I bring you as offering.
-Heat.  [H. D.]
 O wind, rend open the heat,
 Cut apart the heat,
 Rend it to tatters.
@@ -2986,7 +2665,6 @@ Cut the heat --
 Plough through it,
 Turning it on either side
 Of your path.
-Madonna of the Evening Flowers.  [Amy Lowell]
 All day long I have been working,
 Now I am tired.
 I call:  "Where are you?"
@@ -3013,7 +2691,6 @@ White heart-flame of polished silver,
 Burning beneath the blue steeples of the larkspur.
 And I long to kneel instantly at your feet,
 While all about us peal the loud, sweet `Te Deums' of the Canterbury bells.
-The New God.  [James Oppenheim]
 Ye morning-glories, ring in the gale your bells,
 And with dew water the walk's dust for the burden-bearing ants:
 Ye swinging spears of the larkspur, open your wells of gold
@@ -3045,7 +2722,6 @@ This Earth's star and sun that rises singing and toiling among you,
 This that is I, in joy, in the garden,
 Singing to you, ye morning-glories,
 Calling to you, ye swinging spears of the larkspur.
-Patterns.  [Amy Lowell]
 I walk down the garden paths,
 And all the daffodils
 Are blowing, and the bright blue squills.
@@ -3154,7 +2830,6 @@ For the man who should loose me is dead,
 Fighting with the Duke in Flanders,
 In a pattern called a war.
 Christ!  What are patterns for?
-Richard Cory.  [Edwin Arlington Robinson]
 Whenever Richard Cory went down town,
 We people on the pavement looked at him:
 He was a gentleman from sole to crown,
@@ -3171,7 +2846,6 @@ So on we worked, and waited for the light,
 And went without the meat, and cursed the bread;
 And Richard Cory, one calm summer night,
 Went home and put a bullet through his head.
-Of One Self-Slain.  [Charles Hanson Towne]
 When he went blundering back to God,
 His songs half written, his work half done,
 Who knows what paths his bruised feet trod,
@@ -3180,7 +2854,6 @@ I hope God smiled and took his hand,
 And said, "Poor truant, passionate fool!
 Life's book is hard to understand:
 Why couldst thou not remain at school?"
-The Silent Folk.  [Charles Wharton Stork]
 Oh, praise me not the silent folk;
 To me they only seem
 Like leafless, bird-abandoned oak
@@ -3193,7 +2866,6 @@ Your silent folk may be sincere,
 But still, when all is said,
 We have to grant they're rather drear, --
 And maybe, too, they're dead.
-Convention.  [Agnes Lee]
 The snow is lying very deep.
 My house is sheltered from the blast.
 I hear each muffled step outside,
@@ -3202,7 +2874,6 @@ But I'll not venture in the drift
 Out of this bright security,
 Till enough footsteps come and go
 To make a path for me.
-Mad Blake.  [William Rose Benet]
 Blake saw a treeful of angels at Peckham Rye,
 And his hands could lay hold on the tiger's terrible heart.
 Blake knew how deep is Hell, and Heaven how high,
@@ -3219,7 +2890,6 @@ And I stand and I hold my breath, daylong, yearlong,
 Out of comfort and easy dreaming evermore starting awake, --
 Yearning beyond all sanity for some echo of that Song
 Of Songs that was sung to the soul of the madman, Blake!
-The Name.  [Anna Hempstead Branch]
 When I come back from secret dreams
 In gardens deep and fair,
 How very curious it seems --
@@ -3292,7 +2962,6 @@ By this Name do I answer yes --
 Word beautiful and true.
 By this I'll sew the bridal dress
 I shall put on for you.
-Songs of an Empty House.  [Marguerite Wilkinson]
 Vista
 Before I die I may be great,
 The chanting guest of kings,
@@ -3339,7 +3008,6 @@ And I make answer to my haughty dead,
 Who made me, heart and head,
 "Even the sunbeams falter, flicker and bend --
 I am the end."
-The Hill Wife.  [Robert Frost]
 Loneliness
 (Her Word)
 One ought not to have to care
@@ -3407,7 +3075,6 @@ Sudden and swift and light as that
 The ties gave,
 And he learned of finalities
 Besides the grave.
-A Love Song.  [Theodosia Garrison]
 My love it should be silent, being deep --
 And being very peaceful should be still --
 Still as the utmost depths of ocean keep --
@@ -3416,7 +3083,6 @@ Yet is my love so great it needs must fill
 With very joy the inmost heart of me,
 The joy of dancing branches on the hill
 The joy of leaping waves upon the sea.
-Envoi.  [Josephine Preston Peabody]
 Beloved, till the day break,
 Leave wide the little door;
 And bless, to lack and longing,
@@ -3425,7 +3091,6 @@ Is love a scanted portion,
 That we should hoard thereof? --
 Oh, call unto the deserts,
 Beloved and my Love!
-Our Little House.  [Thomas Walsh]
 Our little house upon the hill
 In winter time is strangely still;
 The roof tree, bare of leaves, stands high,
@@ -3444,7 +3109,6 @@ And whether showing or unseen,
 Hid behind its leafy screen;
 There's a star that points it out
 When the lamp lights are in doubt.
-The Homeland.  [Dana Burnet]
 My land was the west land; my home was on the hill,
 I never think of my land but it makes my heart to thrill;
 I never smell the west wind that blows the golden skies,
@@ -3457,7 +3121,6 @@ My land was a high land; my home was near the skies.
 I never think of my land but a light is in my eyes;
 I never smell the west wind that blows the summer rain --
 But I am at my mother's knee, a little lad again.
-Cradle Song.  [Josephine Preston Peabody]
 Lord Gabriel, wilt thou not rejoice
 When at last a little boy's
 Cheek lies heavy as a rose
@@ -3524,7 +3187,6 @@ When the first faint red shall come,
 Bid the Day-star lead him home,
 For the bright world's sake,
 To my heart, awake.
-Slumber Song.  [Louis V. Ledoux]
 Drowsily come the sheep
 From the place where the pastures be,
 By a dusty lane
@@ -3546,7 +3208,6 @@ After one comes two,
 Comes two and then three and four.
 First one, then two, by the paths of sleep,
 Drowsily come the sheep.
-Ballad of a Child.  [John G. Neihardt]
 Yearly thrilled the plum tree
 With the mother-mood;
 Every June the rose stock
@@ -3627,7 +3288,6 @@ Something of the world-joy
 Dreaming into flesh!
 Bird-song, vine-thrill
 Quickened to a child!~
-Ambition.  [Aline Kilmer]
 Kenton and Deborah, Michael and Rose,
 These are fine children as all the world knows,
 But into my arms in my dreams every night
@@ -3644,7 +3304,6 @@ When people inquire I always just state:
 "I have four nice children and hope to have eight.
 Though the first four are pretty and certain to please,
 Who knows but the rest may be nicer than these?"
-The Gift.  [Louis V. Ledoux]
 Let others give you wealth and love,
 And guard you while you live;
 I cannot set my gift above
@@ -3653,7 +3312,6 @@ And yet the gift I give is good:
 In one man's eyes to see
 The worship of your maidenhood
 While children climb your knee.
-The Ancient Beautiful Things.  [Fannie Stearns Davis]
 I am all alone in the room.
 The evening stretches before me
 Like a road all delicate gloom
@@ -3756,7 +3414,6 @@ O God, they would be like this,
 Your ancient beautiful things?
 ~Are there more?  Are there more, -- out there? --
 O God, are there always more?~
-Mater Dolorosa.  [Louis V. Ledoux]
 O clinging hands, and eyes where sleep has set
 Her seal of peace, go not from me so soon.
 O little feet, take not the pathway yet,
@@ -3769,7 +3426,6 @@ Full soon the feet of youth will turn the bend,
 The eyes will see where followed footsteps wend.
 Go not so soon, though death be found a friend;
 For kingly death will wait until you come.
-Prevision.  [Aline Kilmer]
 I know you are too dear to stay;
 You are so exquisitely sweet:
 My lonely house will thrill some day
@@ -3786,7 +3442,6 @@ My heart shall keep the child I knew,
 When you are really gone from me,
 And spend its life remembering you
 As shells remember the lost sea.
-"A Wind Rose in the Night".  [Aline Kilmer]
 A wind rose in the night,
 (She had always feared it so!)
 Sorrow plucked at my heart
@@ -3803,7 +3458,6 @@ The candles flickered and leapt,
 The shadows jumped on the wall.
 She lay before me small and still
 And did not care at all.
-How much of Godhood.  [Louis Untermeyer]
 How much of Godhood did it take --
 What purging epochs had to pass,
 Ere I was fit for leaf and lake
@@ -3820,7 +3474,6 @@ But oh, what cleansings and what fears,
 What countless raisings from the dead,
 Ere I could see Her, touched with tears,
 Pillow the little weary head.
-The First Food.  [George Sterling]
 Mother, in some sad evening long ago,
 From thy young breast my groping lips were taken,
 Their hunger stilled, so soon again to waken,
@@ -3845,7 +3498,6 @@ How poor an end of that solicitude
 And all the love I had not from another!
 Peace to thine unforgetting heart, O Mother,
 Who gav'st the dear and unremembered food!
-The Monk in the Kitchen.  [Anna Hempstead Branch]
 Order is a lovely thing;
 On disarray it lays its wing,
 Teaching simplicity to sing.
@@ -3954,7 +3606,6 @@ Like white doves wheeling in mid-air.
 Nay -- thy soul remembers not?
 Work on, and cleanse thy iron pot."
 What are we?  I know not.
-A Saint's Hours.  [Sarah N. Cleghorn]
 In the still cold before the sun
 (Her Matins)    Her brothers and her sisters small
 She woke, and washed and dressed each one.
@@ -3976,7 +3627,6 @@ When the sleek cat yawned on the sill.
 In the late hours and drowsy house,
 (Evensong)      At last, too tired, beside her bed
 She fell asleep -- her prayers half said.
-A Lady.  [Amy Lowell]
 You are beautiful and faded
 Like an old opera tune
 Played upon a harpsichord;
@@ -3994,7 +3644,6 @@ My vigour is a new-minted penny,
 Which I cast at your feet.
 Gather it up from the dust,
 That its sparkle may amuse you.
-The Child in Me.  [May Riley Smith]
 She follows me about my House of Life
 (This happy little ghost of my dead Youth!)
 She has no part in Time's relentless strife
@@ -4023,7 +3672,6 @@ And we depart to come again no more.
 We comrades who have travelled far
 Will hail the Twilight and the Star,
 And smiling, pass together through the Door!
-The Son.  [Ridgely Torrence]
 I heard an old farm-wife,
 Selling some barley,
 Mingle her life with life
@@ -4040,7 +3688,6 @@ It feels like frost was near --
 His hair was curly.
 The spring was late that year,
 But the harvest early."
-Muy Vieja Mexicana.  [Alice Corbin]
 I've seen her pass with eyes upon the road --
 An old bent woman in a bronze-black shawl,
 With skin as dried and wrinkled as a mummy's,
@@ -4085,7 +3732,6 @@ Of comfort when the long day's done,
 And smoke away the nights, and see the sun
 Far off, a shrivelled orange in a sky gone black,
 Through eyes that open inward and look back.
-Hrolf's Thrall, His Song.  [Willard Wattles]
 There be five things to a man's desire:
 Kine flesh, roof-tree, his own fire,
 Clean cup of sweet wine from goat's hide,
@@ -4098,7 +3744,6 @@ Plow, shove deep through gray loam;
 Hack, sword, hack for straw-thatch home;
 Guard, buckler, guard both beast and human --
 God, send true man his true woman!
-The Interpreter.  [Orrick Johns]
 In the very early morning when the light was low
 She got all together and she went like snow,
 Like snow in the springtime on a sunny hill,
@@ -4111,7 +3756,6 @@ She never is around for any one to touch,
 But of ecstasy and longing she too knew much,
 And always when any one has time to call his own
 She will come and be beside him as quiet as a stone.
-Old King Cole.  [Edwin Arlington Robinson]
 In Tilbury Town did Old King Cole
 A wise old age anticipate,
 Desiring, with his pipe and bowl,
@@ -4192,7 +3836,6 @@ And if I'd rather live than weep
 Meanwhile, do you find that surprising?
 Why, bless my soul, the man's asleep!
 That's good.  The sun will soon be rising."
-Spoon River Anthology.  [Edgar Lee Masters]
 Washington McNeely
 Rich, honored by my fellow citizens,
 The father of many children, born of a noble mother,
@@ -4342,7 +3985,6 @@ Wedded to him, not through union,
 But through separation.
 Bloom forever, O Republic,
 From the dust of my bosom!
-Lincoln.  [John Gould Fletcher]
 Like a gaunt, scraggly pine
 Which lifts its head above the mournful sandhills;
 And patiently, through dull years of bitter silence,
@@ -4410,7 +4052,6 @@ Rayed, violet, dim,
 With the nails that pierced, the cross that he bore and the circlet,
 And beside it there lay also one lonely snow-white magnolia,
 Bitter for remembrance of the healing which has passed.
-Abraham Lincoln walks at Midnight.  [Vachel Lindsay]
 (In Springfield, Illinois)
 It is portentous, and a thing of state
 That here at midnight, in our little town
@@ -4444,7 +4085,6 @@ It breaks his heart that kings must murder still,
 That all his hours of travail here for men
 Seem yet in vain.  And who will bring white peace
 That he may sleep upon his hill again?
-Prayer during Battle.  [Hermann Hagedorn]
 Lord, in this hour of tumult,
 Lord, in this night of fears,
 Keep open, oh, keep open
@@ -4453,7 +4093,6 @@ Not blindly, not in hatred,
 Lord, let me do my part.
 Keep open, oh, keep open
 My mind, my heart!
-Prayer of a Soldier in France.  [Joyce Kilmer]
 My shoulders ache beneath my pack
 (Lie easier, Cross, upon His back).
 I march with feet that burn and smart
@@ -4470,7 +4109,6 @@ Lord, Thou didst suffer more for me
 Than all the hosts of land and sea.
 So let me render back again
 This millionth of Thy gift.  Amen.
-The White Comrade.  [Robert Haven Schauffler]
 Under our curtain of fire,
 Over the clotted clods,
 We charged, to be withered, to reel
@@ -4553,7 +4191,6 @@ A dull stain grew.
 His words I already foreknew:
 "These are old wounds," said he,
 "But of late they have troubled me."
-Smith, of the Third Oregon, dies.  [Mary Carolyn Davies]
 Autumn in Oregon is wet as Spring,
 And green, with little singings in the grass,
 And pheasants flying,
@@ -4588,7 +4225,6 @@ Color, not see the tall spar of a ship
 In our old harbor. --  They say that I am dying,
 Perhaps that's why it all comes back again:
 Autumn in Oregon and pheasants flying --
-Song.  [Edward J. O'Brien]
 She goes all so softly
 Like a shadow on the hill,
 A faint wind at twilight
@@ -4597,7 +4233,6 @@ She weaves her thoughts whitely,
 Like doves in the air,
 Though a gray mound in Flanders
 Clouds all that was fair.
-Lonely Burial.  [Stephen Vincent Benet]
 There were not many at that lonely place,
 Where two scourged hills met in a little plain.
 The wind cried loud in gusts, then low again.
@@ -4612,7 +4247,6 @@ Short words in swordlike Latin -- and a rout
 Of dreams most impotent, unwearying.
 Then, like a blind door shut on a carouse,
 The terrible bareness of the soul's last house.
-I have a Rendezvous with Death.  [Alan Seeger]
 I have a rendezvous with Death
 At some disputed barricade,
 When Spring comes back with rustling shade
@@ -4637,7 +4271,6 @@ At midnight in some flaming town,
 When Spring trips north again this year,
 And I to my pledged word am true,
 I shall not fail that rendezvous.
-Rouge Bouquet.  [Joyce Kilmer]
 In a wood they call the Rouge Bouquet
 There is a new-made grave to-day,
 Built by never a spade nor pick
@@ -4692,7 +4325,6 @@ And your memory shine like the morning-star.
 Brave and dear,
 Shield us here.
 Farewell!"
-Francis Ledwidge.  [Grace Hazard Conkling]
 (Killed in action July 31, 1917)
 Nevermore singing
 Will you go now,
@@ -4722,7 +4354,6 @@ What voice will cry them
 The grief at dawn
 Or say to the blackbird
 You are gone?
-April on the Battlefields.  [Leonora Speyer]
 April now walks the fields again,
 Trailing her tearful leaves
 And holding all her frightened buds against her heart:
@@ -4762,7 +4393,6 @@ Her green;
 She wanders in her mournful garden,
 Dropping her buds like tears,
 Spreading her lovely grief upon the graves of man.
-Earth's Easter.  [Robert Haven Schauffler]
 (1915)
 Earth has gone up from its Gethsemane,
 And now on Golgotha is crucified;
@@ -4778,7 +4408,6 @@ This hope shall be a spark within the gloom:
 That, in the glow of some stupendous dawn,
 We may go forth to find, where lilies bloom,
 Two angels bright before an empty tomb.
-The Fields.  [Witter Bynner]
 Though wisdom underfoot
 Dies in the bloody fields,
 Slowly the endless root
@@ -4787,7 +4416,6 @@ In fields where hate has hurled
 Its force, where folly rots,
 Wisdom shall be unfurled
 Small as forget-me-nots.
-In Spite of War.  [Angela Morgan]
 In spite of war, in spite of death,
 In spite of all man's sufferings,
 Something within me laughs and sings
@@ -4816,7 +4444,6 @@ And in my ear a whispering breath,
 "Wake from the nightmare!  Look and see
 That life is naught but ecstasy
 In spite of war, in spite of death!"
-Wide Haven.  [Clement Wood]
 Tired of man's futile, petty cry,
 Of lips that lie and flout,
 I saw the slow sun dim and die
@@ -4827,7 +4454,6 @@ In War's insane crusade,
 Last night I saw Orion rise
 And the great day-star fade,
 And I am not dismayed.
-To Any one.  [Witter Bynner]
 Whether the time be slow or fast,
 Enemies, hand in hand,
 Must come together at the last
@@ -4836,7 +4462,6 @@ No matter how the die is cast
 Nor who may seem to win,
 You know that you must love at last --
 Why not begin?
-Peace.  [Agnes Lee]
 Suddenly bells and flags!
 Suddenly -- door to door --
 Tidings!  Can we believe,
@@ -4853,7 +4478,6 @@ Soon where the shrapnel fell
 Petals shall wake and stir.
 Look -- she is here, she lives!
 Beauty has died for her.
-The Kings are passing Deathward.  [David Morton]
 The Kings are passing deathward in the dark
 Of days that had been splendid where they went;
 Their crowns are captive and their courts are stark
@@ -4868,7 +4492,6 @@ They walk in awful splendor, regal yet,
 Wearing their crimes like rich and kingly capes . . .
 Curse them or taunt, they will not hear or see;
 The Kings are passing deathward:  let them be.
-Jerico.  [Willard Wattles]
 Jerico, Jerico,
 Round and round the walls I go
 Where they watch with scornful eyes,
@@ -4905,7 +4528,6 @@ From my brazen bugle's throat
 Till the sand and thistle know
 The leveled walls of Jerico,
 Jerico, Jerico, Jerico. . . .
-Students.  [Florence Wilkinson]
 John Brown and Jeanne at Fontainebleau --
 'T was Toussaint, just a year ago;
 Crimson and copper was the glow
@@ -4972,7 +4594,6 @@ Curtained away from all the rude
 Rumors, in silken solitude;
 And, John, her head upon your knees --
 Time waits for moments such as these.
-Tampico.  [Grace Hazard Conkling]
 Oh, cut me reeds to blow upon,
 Or gather me a star,
 But leave the sultry passion-flowers
@@ -4981,7 +4602,6 @@ I fear their sombre yellow deeps,
 Their whirling fringe of black,
 And he who gives a passion-flower
 Always asks it back.
-Which.  [Corinne Roosevelt Robinson]
 We ask that Love shall rise to the divine,
 And yet we crave him very human, too;
 Our hearts would drain the crimson of his wine,
@@ -4996,7 +4616,6 @@ Alas! it seems we want so many things,
 That no dear love could ever grant them all!
 Which shall we choose, the human or divine,
 The crystal stream, or yet the crimson wine?
-Apology.  [Amy Lowell]
 Be not angry with me that I bear
 Your colours everywhere,
 All through each crowded street,
@@ -5027,7 +4646,6 @@ Rims in my life.  And yet
 You set
 The word upon me, unconfessed
 To go unguessed.
-The Great Hunt.  [Carl Sandburg]
 I cannot tell you now;
 When the wind's drive and whirl
 Blow me along no longer,
@@ -5048,7 +4666,6 @@ I have broken down under the wind
 And into the roses looking for you.
 I shall never find any
 greater than you.
-Dialogue.  [Walter Conrad Arensberg]
 Be patient, Life, when Love is at the gate,
 And when he enters let him be at home.
 Think of the roads that he has had to roam.
@@ -5063,7 +4680,6 @@ And give thy dreamy hair that Love may spin.
 Let Love come last, and then may Love last long.~
 Be patient, Life, for Love is not the last.
 Be patient now with Death, for Love has passed.
-Song.  [Margaret Widdemer]
 The Spring will come when the year turns,
 As if no Winter had been,
 But what shall I do with a locked heart
@@ -5076,7 +4692,6 @@ Oh! youth will turn as the world turns,
 And dim grow laughter and pain,
 But how shall I hide from an old dream
 I never may dream again?
-The Bitter Herb.  [Jeanne Robert Foster]
 O bitter herb, Forgetfulness,
 I search for you in vain;
 You are the only growing thing
@@ -5093,7 +4708,6 @@ O bitter herb, Forgetfulness,
 Where is your drowsy breath?
 Oh, can it be your seed has blown
 Far as the Vales of Death?
-Behind the House is the Millet Plot.  [Muna Lee]
 Behind the house is the millet plot,
 And past the millet, the stile;
 And then a hill where melilot
@@ -5102,7 +4716,6 @@ There was a youth who bade me goodby
 Where the hill rises to meet the sky.
 I think my heart broke; but I have forgot
 All but the smell of the white melilot.
-Men of Harlan.  [William Aspinwall Bradley]
 Here in the level country, where the creeks run straight and wide,
 Six men upon their pacing nags may travel side by side.
 But the mountain men of Harlan, you may tell them all the while,
@@ -5133,7 +4746,6 @@ These silent men, in sombre black, all clad from foot to head,
 Though they have left their lonely hills and the narrow creek's rough bed.
 And 't is no wonder children stop their play and stand and cry:
 "Here come the men of Harlan, men of Harlan, riding by."
-Have you an Eye.  [Edwin Ford Piper]
 Have you an eye for the trails, the trails,
 The old mark and the new?
 What scurried here, what loitered there,
@@ -5158,7 +4770,6 @@ Have you an eye for the laden wheel,
 The worn tire or the new?
 Or the sign of the prairie pony's hoof
 Was never trimmed for shoe?
-After Apple-Picking.  [Robert Frost]
 My long two-pointed ladder's sticking through a tree
 Toward heaven still,
 And there's a barrel that I didn't fill
@@ -5201,7 +4812,6 @@ Were he not gone,
 The woodchuck could say whether it's like his
 Long sleep, as I describe its coming on,
 Or just some human sleep.
-Autumn.  [Jean Starr Untermeyer]
 (For my Mother)
 How memory cuts away the years,
 And how clean the picture comes
@@ -5244,14 +4854,12 @@ With the precision of a ritual.
 I like to think of you in your years of power --
 You, now so shaken and so powerless --
 High priestess of your home.
-Autumn Movement.  [Carl Sandburg]
 I cried over beautiful things knowing no beautiful thing lasts.
 The field of cornflower yellow is a scarf at the neck of the copper
 sunburned woman, the mother of the year, the taker of seeds.
 The northwest wind comes and the yellow is torn full of holes,
 new beautiful things come in the first spit of snow on the northwest wind,
 and the old things go, not one lasts.
-God's World.  [Edna St. Vincent Millay]
 O world, I cannot hold thee close enough!
 Thy winds, thy wide grey skies!
 Thy mists that roll and rise!
@@ -5266,7 +4874,6 @@ As stretcheth me apart, -- Lord, I do fear
 Thou'st made the world too beautiful this year;
 My soul is all but out of me, -- let fall
 No burning leaf; prithee, let no bird call.
-Overtones.  [William Alexander Percy]
 I heard a bird at break of day
 Sing from the autumn trees
 A song so mystical and calm,
@@ -5275,7 +4882,6 @@ No man, I think, could listen long
 Except upon his knees.
 Yet this was but a simple bird,
 Alone, among dead trees.
-When the Year grows Old.  [Edna St. Vincent Millay]
 I cannot but remember
 When the year grows old --
 October -- November --
@@ -5304,7 +4910,6 @@ I cannot but remember
 When the year grows old --
 October -- November --
 How she disliked the cold!
-In the Monastery.  [Norreys Jephson O'Conor]
 Cold is the wind to-night, and rough the sea,
 Too rough for even the daring Dane to find
 A landing-place upon the frozen lea.
@@ -5316,7 +4921,6 @@ Patrick and Brigid, I have prayed to ye!
 The night is over, and my task resigned
 To Colum.  Though God's own dwelling shelter me,
 Cold is the wind.
-The Narrow Doors.  [Fannie Stearns Davis]
 The Wide Door into Sorrow
 Stands open night and day.
 With head held high and dancing feet
@@ -5337,7 +4941,6 @@ They stop the heart in me.
 Of loneliness and strife
 The Doors that let the dark leap in
 Across my sunny life!
-"I Pass a Lighted Window".  [Clement Wood]
 I pass a lighted window
 And a closed door --
 And I am not troubled
@@ -5362,7 +4965,6 @@ How can life annoy me
 Any more?
 Life:  a lighted window
 And a closed door.
-Doors.  [Hermann Hagedorn]
 Like a young child who to his mother's door
 Runs eager for the welcoming embrace,
 And finds the door shut, and with troubled face
@@ -5377,7 +4979,6 @@ Beats on my spirit, as on fairy shores
 The spectral sea; and through the sobbing -- hark!
 Down the fair-chambered corridor of years,
 The quiet shutting, one by one, of doors.
-Where Love once was.  [James Oppenheim]
 Where love once was, let there be no hate:
 Though they that went as one by night and day
 Go now alone,
@@ -5393,7 +4994,6 @@ Let us go separate ways with a blessing each for each,
 And gentle parting,
 And let there be no hate,
 Where love once was.
-Irish Love Song.  [Margaret Widdemer]
 Well, if the thing is over, better it is for me,
 The lad was ever a rover, loving and laughing free,
 Far too clever a lover not to be having still
@@ -5415,7 +5015,6 @@ Never the need to hide the sighs and the flushing thoughts and the fret,
 And after awhile my heart will hush and my hungering hands forget . . .
 Peace on my ways, and peace in my step, and maybe my heart grown light --
 (~Mary, helper of heartbreak, send him to me to-night!~)
-Nirvana.  [John Hall Wheelock]
 Sleep on -- I lie at heaven's high oriels,
 Over the stars that murmur as they go
 Lighting your lattice-window far below;
@@ -5426,7 +5025,6 @@ Like the sweet, silver singing of thin bells
 Vanished, or music fading faint and low.
 Sleep on -- I lie at heaven's high oriels,
 Who loved you so.
-A Nun.  [Odell Shepard]
 One glance and I had lost her in the riot
 Of tangled cries.
 She trod the clamor with a cloistral quiet
@@ -5443,7 +5041,6 @@ Far voices of a joy that sought and missed her
 Fail now, and cease . . .
 And this has given the deep eyes of God's sister
 Their dreadful peace.
-Silence.  [Edgar Lee Masters]
 I have known the silence of the stars and of the sea,
 And the silence of the city when it pauses,
 And the silence of a man and a maid,
@@ -5510,7 +5107,6 @@ Why do you marvel that the dead
 Do not tell you of death?
 Their silence shall be interpreted
 As we approach them.
-The Dark Cavalier.  [Margaret Widdemer]
 I am the Dark Cavalier; I am the Last Lover:
 My arms shall welcome you when other arms are tired;
 I stand to wait for you, patient in the darkness,
@@ -5523,7 +5119,6 @@ I am the Dark Cavalier; I am the Last Lover;
 I promise faithfulness no other lips may keep;
 Safe in my bridal place, comforted by darkness,
 You shall lie happily, smiling in your sleep.
-Indian Summer.  [William Ellery Leonard]
 (After completing a book for one now dead)
 (~O Earth-and-Autumn of the Setting Sun,
 She is not by, to know my task is done.~)
@@ -5573,7 +5168,6 @@ Dear, many a winter fire upon the hearth) . . .
 (. . . farewell . . . farewell . . . farewell . . .)
 We dare not think too long on those who died,
 While still so many yet must come to birth.
-Death -- Divination.  [Charles Wharton Stork]
 Death is like moonlight in a lofty wood,
 That pours pale magic through the shadowy leaves;
 'T is like the web that some old perfume weaves
@@ -5588,7 +5182,6 @@ Beyond the flickering good and ill of chance;
 But most is Death like Music's buoyant wings,
 That bear the soul, a willing Ganymede,
 Where joys on joys forevermore succeed.
-The Mould.  [Gladys Cromwell]
 No doubt this active will,
 So bravely steeped in sun,
 This will has vanquished Death
@@ -5601,7 +5194,6 @@ Feel death as though it were
 A shadowy caress;
 And win and wear a frail
 Archaic wistfulness.
-In Patris Mei Memoriam.  [John Myers O'Hara]
 By the fond name that was his own and mine,
 The last upon his lips that strove with doom,
 He called me and I saw the light assume
@@ -5631,7 +5223,6 @@ The gentler angels, eager and apart;
 Be there, near God's own fairest, with the fond
 Sweet smile that was your own, and let me hear
 Your voice again and clasp you to my heart.
-Afterwards.  [Mahlon Leonard Fisher]
 There was a day when death to me meant tears,
 And tearful takings-leave that had to be,
 And awed embarkings on an unshored sea,
@@ -5646,7 +5237,6 @@ The coveted something time nor age can spoil;
 I know it is a fabric finely spun
 Between the stars and dark; to seize and keep,
 Such glad romances as we read in sleep.
-Pierrette in Memory.  [William Griffith]
 Pierrette has gone, but it was not
 Exactly that she died,
 So much as vanished and forgot
@@ -5663,7 +5253,6 @@ She went so softly and so soon,
 She hardly made a stir;
 But going took the stars and moon
 And sun away with her.
-The Three Sisters.  [Arthur Davison Ficke]
 Gone are the three, those sisters rare
 With wonder-lips and eyes ashine.
 One was wise and one was fair,
@@ -5672,7 +5261,6 @@ Ye mourners, weave for the sleeping hair
 Of only two, your ivy vine.
 For one was wise and one was fair,
 But one was mine.
-Song.  [Adelaide Crapsey]
 I make my shroud, but no one knows --
 So shimmering fine it is and fair,
 With stitches set in even rows,
@@ -5681,7 +5269,6 @@ In door-way where the lilac blows,
 Humming a little wandering air,
 I make my shroud and no one knows,
 So shimmering fine it is and fair.
-The Unknown Beloved.  [John Hall Wheelock]
 I dreamed I passed a doorway
 Where, for a sign of death,
 White ribbons one was binding
@@ -5706,7 +5293,6 @@ I dreamed I passed a doorway
 Where, for a sign of death,
 White ribbons one was binding
 About a flowery wreath.
-Cinquains.  [Adelaide Crapsey]
 Fate Defied
 As it
 Were tissue of silver
@@ -5725,7 +5311,6 @@ Out of the strange
 Still dusk . . . as strange, as still . . .
 A white moth flew . . .  Why am I grown
 So cold?
-The Lonely Death.  [Adelaide Crapsey]
 In the cold I will rise, I will bathe
 In waters of ice; myself
 Will shiver, and shrive myself,
@@ -5737,7 +5322,6 @@ Tall candles and set them aflame
 In the grey of the dawn; and myself
 Will lay myself straight in my bed,
 And draw the sheet under my chin.
-Exile from God.  [John Hall Wheelock]
 I do not fear to lay my body down
 In death, to share
 The life of the dark earth and lose my own,
@@ -5754,7 +5338,6 @@ Lest from my God in lonely death I lapse,
 And the dumb clod
 Lose him; for God is life, and death perhaps
 Exile from God.
-Loam.  [Carl Sandburg]
 In the loam we sleep,
 In the cool moist loam,
 To the lull of years that pass
@@ -5769,7 +5352,6 @@ To a whiff of life,
 Lifted to the silver of the sun
 Over and out of the loam
 A day.
-Hills of Home.  [Witter Bynner]
 Name me no names for my disease,
 With uninforming breath;
 I tell you I am none of these,
@@ -5782,7 +5364,6 @@ And though they break my heart at last,
 Yet name no name of ills.
 Say only, "Here is where he passed,
 Seeking again those hills."
-The Last Piper.  [Edward J. O'Brien]
 Dark winds of the mountain,
 White winds of the sea,
 Are skirling the pibroch
@@ -5807,7 +5388,6 @@ To the moan of the waters,
 The drone of the foam,
 Where his soul, a white gannet,
 Wings silently home.
-The Provinces.  [Francis Carlin]
 ~O God that I
 May arise with the Gael
 To the song in the sky
@@ -5824,7 +5404,6 @@ Stone for me!
 May arise with the Gael
 To the song in the sky
 Over Inisfail!~
-Omnium Exeunt in Mysterium.  [George Sterling]
 The stranger in my gates -- lo! that am I,
 And what my land of birth I do not know,
 Nor yet the hidden land to which I go.
@@ -5839,7 +5418,6 @@ Scanning the shadows with a sense of haste --
 Where fade the tracks of all who went before:
 A dim and solitary traveller
 On ways that end in evening and the waste.
-Moth-Terror.  [Benjamin De Casseres]
 I have killed the moth flying around my night-light; wingless and dead it lies
 upon the floor.
 (O who will kill the great Time-Moth that eats holes in my soul
@@ -5849,7 +5427,6 @@ or be hidden behind the curtains that swing in the winds.
 (But O who will shatter the Change-Moth that leaves me in rags --
 tattered old tapestries that swing in the winds that blow out of Chaos!)
 Night-Moth, Change-Moth, Time-Moth, eaters of dreams and of me!
-Old Age.  [Cale Young Rice]
 I have heard the wild geese,
 I have seen the leaves fall,
 There was frost last night
@@ -5864,7 +5441,6 @@ Like a soul in fear;
 I will think no more
 Of the dying year,
 And the wind, its seer.
-Atropos.  [John Myers O'Hara]
 Atropos, dread
 One of the Three,
 Holding the thread
@@ -5891,8 +5467,6 @@ These notes (first included in 1920, whereas the selections were made in 1919)
 combined with the searchability of electronic texts,
 renders the original Indexes of Authors and of First Lines obsolete,
 and so both have been dropped.  Occasionally, relevant comments follow
-in angled brackets.  -- A. L., 1998.]
-Aiken, Conrad.  [1889-1973]  (3)
 Born at Savannah, Ga., Aug. 5, 1889.  Received the degree of A.B.
 from Harvard University in 1912 and in August of the same year married
 Miss Jessie McDonald, of Montreal, Canada.  Mr. Aiken's first volume
@@ -5902,7 +5476,6 @@ and "The Charnel Rose", 1918.  Mr. Aiken is a keen and trenchant critic,
 as well as a poet, and his volume on the modern movement in poetry,
 "Skepticisms", is one of the finest and most stimulating contributions
 to the subject.
-Akins, Zoe.  [1886-1958]  (1)  <Zoe">
 Born at Humansville, Mo., Oct. 30, 1886.  Educated at home and at
 Monticello Seminary, Godfrey, Ill.  Miss Akins began her literary work
 by contributing poems and critical articles to `Reedy's Mirror', St. Louis,
@@ -5910,7 +5483,6 @@ and in 1911 published her volume of poems, "Interpretations".  The drama,
 however, soon began to absorb her, and she has had several plays produced,
 including "The Magical City", "Papa", a comedy, and "Declasse",
 which won a great success with Ethel Barrymore in the leading role.
-Anderson, Margaret Steele.  [1867-1921]  (2)
 Born in Louisville, Ky., and educated in the public schools of that city,
 with special courses at Wellesley College.  Since 1901 Miss Anderson has been
 Literary Editor of the `Evening Post' of Louisville, and is known
@@ -5918,11 +5490,9 @@ as one of the most discriminating critics of the South.
 She has published but one volume of verse, "The Flame in the Wind", 1914,
 but it is choice in quality.  Miss Anderson is also a critic of Art
 and is the author of "A Study of Modern Painting".
-Arensberg, Walter Conrad.  [1878-1954]  (2)
 Mr. Arensberg has been active in the new movement in poetry and was
 one of the group who contributed to the yearly collection called "Others".
 He is the author of "Idols", 1916.
-Baker, Karle Wilson.  [1878-1960]  (2)
 Born in Little Rock, Ark., Oct. 13, 1878.  Educated in
 public and private schools at Little Rock and at the University of Chicago.
 Mrs. Baker taught for several years in Virginia and in the High Schools
@@ -5931,7 +5501,6 @@ whither her family had preceded her, and in 1907 was married
 to Thomas Ellis Baker, of Nacogdoches, which is her present home.
 Mrs. Baker is one of the promising new writers, her first volume of verse,
 "Blue Smoke", having been published in 1919, by the Yale Press.
-Bates, Katharine Lee.  [1859-1929]  (1)
 Born at Falmouth, Mass., Aug. 12, 1859.  Was educated at Wellesley College,
 from which she received the degree of A.B., in 1880 and that of A.M. in 1891.
 She also had the honorary degree of Litt.D. conferred upon her by
@@ -5942,7 +5511,6 @@ Miss Bates spent four years in foreign travel and study
 and published numerous books in the field of education.
 Her best-known volumes of verse are:  "America the Beautiful", 1911;
 "Fairy Gold", 1916; and "The Retinue", 1918.
-Benet, Stephen Vincent.  [1898-1943]  (1)  <Bene/t>
 Born at Bethlehem, Pa., 1898.  Was educated at the Summerville Academy
 at Augusta, Ga., and at Yale University, taking the degree of A.B. in 1919
 and of A.M. in 1920.  His first volume, "Young Adventure", was brought out
@@ -5950,8 +5518,6 @@ by the Yale University Press in 1918 and he also contributed largely
 to the "Yale Book of Student Verse", published in 1919.
 Mr. Benet is a gifted young writer from whom much may be expected.
 in 1929 for "John Brown's Body" and in 1944 (posthumous) for "Western Star".
-See note to William Rose Benet.  -- A. L., 1998.]
-Benet, William Rose.  [1886-1950]  (2)  <Bene/t>
 Born at Fort Hamilton, N.Y. Harbor, Feb. 2, 1886.  Graduated at
 the Academy of Albany, N.Y., in 1904, and took the degree of Ph.B.
 from the Sheffield Scientific School of Yale University in 1907.
@@ -5966,8 +5532,6 @@ of the `Evening Post', of New York.  His successive volumes of verse are:
 and "Perpetual Light", 1919.
 in 1942 for "The Dust Which Is God".  Both were members of a talented family,
 in both military and literary affairs, descended from Minorcan settlers
-who lived in St. Augustine, Florida.  -- A. L., 1998.]
-Bradley, William Aspinwall.  [1878-1939]  (1)
 Born at Hartford, Conn., Feb. 8, 1878.  Educated at Columbia University
 where he received the degree of A.M. in 1900.  Married Miss Grace Goodrich
 in 1903.  From 1900 to 1908 Mr. Bradley was art director and literary advisor
@@ -5983,7 +5547,6 @@ In poetry, he is the author of "Garlands and Wayfarings", 1917;
 "Old Christmas and Other Kentucky Tales in Verse", 1917; "Singing Carr", 1918.
 The last two books are based upon Kentucky folk-tales and ballads
 gathered by Mr. Bradley among the people of the Cumberland Mountains.
-Branch, Anna Hempstead.  [1875-1937]  (3)
 Born at Hempstead House, New London, Conn.  Graduated from
 Smith College in 1897 and from the American Academy of Dramatic Art,
 in New York City, in 1900.  While at college she began writing poetry
@@ -5995,7 +5558,6 @@ soon after by the publication of Miss Branch's first volume,
 "The Heart of the Road", 1901.  She has since published two volumes,
 "The Shoes That Danced", 1902, and "Rose of the Wind", 1910,
 both marked by imagination and beauty of a high order.
-Burnet, Dana.  [1888-1962]  (1)
 Born in Cincinnati, Ohio, July 3, 1888.  Graduated at
 the Woodward High School of Cincinnati and took the degree of LL.B.
 at the Cornell University College of Law in 1911.
@@ -6004,13 +5566,11 @@ Mr. Burnet has been associated with the `Evening Sun', of New York,
 since 1911, in various capacities, from that of reporter
 to editor of the magazine page.  He is the author of "Poems", 1915,
 and "The Shining Adventure", 1916.
-Burr, Amelia Josephine.  [1878-?]  (2)  <New works published in the 1930's>
 Educated at Hunter College in the City of New York.  Miss Burr
 has published successively the following books of verse:
 "A Roadside Fire", 1913; "In Deep Places", 1914; "Life and Living", 1916;
 "The Silver Trumpet", 1918; and "Hearts Awake", 1919.  The last two volumes
 relate chiefly to the World War.
-Burt, Maxwell Struthers.  [1882-1954]  (1)
 Born at Baltimore, Md., Oct. 18, 1882.  Early education at private schools,
 Philadelphia.  Received the degree of A.B. from Princeton University in 1904
 and later studied at Merton College, Oxford University.
@@ -6020,7 +5580,6 @@ though he usually returns to Princeton for the winter months.
 In 1913 he married Katharine Newlin, a writer of fiction.
 Mr. Burt is the author of two volumes of verse, "In the High Hills", 1914,
 and "Songs and Portraits", 1920; he has also written many short stories.
-Bynner, Witter.  [1881-1968]  (5)
 Born at Brooklyn, Aug. 10, 1881.  Graduated at Harvard University in 1902.
 After his graduation, until 1906, he served as assistant editor
 of `McClure's Magazine' and literary editor of McClure, Phillips & Co.
@@ -6046,17 +5605,14 @@ who were much discomfited when the truth of the matter was known.
 In 1919 Mr. Bynner published "The Beloved Stranger", a volume of `vers libre',
 written in a style that grew out of the "Spectra" experiment,
 but divested of its extravagant features.
-Carlin, Francis (James F. C. MacDonnell).  [1881-?]  (2)
 Born April 7, 1881, at Bay Shore, L.I., N.Y.  Educated at
 St. Mary's Parochial School, Norwalk, Conn.  Author of "My Ireland",
 privately printed, 1917 (taken over by Henry Holt & Co.
 and republished in the following year), "The Cairn of Stars", 1920.
 Mr. Carlin takes his pen-name from that of his grandfather
 who was a cottage weaver of linen and a local rhymer in Tyrone, Ireland.
-Cleghorn, Sarah N.  [1876-1959]  (1)
 Born in Manchester, Vt.  Educated at Burr and Burton Seminary, of Manchester.
 Miss Cleghorn is the author of "Portraits and Protests", 1917.
-Conkling, Grace Hazard.  [1878-1958]  (3)
 Born in New York City.  Graduated at Smith College in 1899,
 and later studied music and languages at the University of Heidelberg
 and at Paris; was for several years a teacher of English, Latin, and Greek
@@ -6071,7 +5627,6 @@ and her gift seems to have been transmitted to her daughter, Hilda,
 whose poems written, or told, between the ages of five and eight,
 and published in a volume in 1920, prove her to be a child
 of remarkable poetic talent.
-Corbin, Alice (Mrs. Wm. Penhallow Henderson).  [1881-1949]  (1)
 Born in St. Louis, of Southern parentage.  Educated at
 the University of Chicago.  Since its founding in 1912,
 Mrs. Henderson has been associate editor, with Harriet Monroe,
@@ -6080,7 +5635,6 @@ of "The New Poetry", an anthology of modern English and American poets.
 She is the author of "Adam's Dream and Two Other Miracle Plays for Children"
 (in verse), and of a collection of poems called
 "The Spinning Woman of the Sky".
-Cox, Eleanor Rogers.  [?-1936(possibly 1931)]  (2)
 Born at Enniskillen, Ireland.  Came with family to the United States
 in childhood; citizen; educated at St. Gabriel's High School
 and private tuition.  Although Miss Cox has lived in America since childhood,
@@ -6089,7 +5643,6 @@ her mother country, to which she returns at intervals.
 Her two volumes of verse, "A Hosting of Heroes", 1911,
 and "Singing Fires of Erin", 1916, are instinct with the Celtic spirit.
 Miss Cox also lectures upon Irish legendry.
-Crapsey, Adelaide.  [1878-1914]  (3)
 Born in Brooklyn, Sept. 9, 1878.  Her young girlhood was spent
 in Rochester, N.Y., where her father, Algernon S. Crapsey,
 was rector of St. Andrew's Episcopal Church.  After preparatory work
@@ -6109,7 +5662,6 @@ the Manas Press of Rochester brought out a small volume of her poetry,
 and her "Study of English Metrics" was published in 1918 by Alfred Knopf.
 Adelaide Crapsey had a rarely beautiful and original poetic gift,
 and her early death is greatly to be regretted.
-Cromwell, Gladys.  [1885-1919]  (1)
 Born in Brooklyn, but lived the greater part of her life in New York City.
 She was educated at private schools in New York, and had a period of study
 in Paris, supplemented by extensive foreign travel.  At the outbreak
@@ -6129,7 +5681,6 @@ to a world at variance with it.  Had Miss Cromwell lived
 she would almost certainly have added some distinguished work to our poetry,
 since the lyrics contained in the volume of her verse issued after her death
 are of so fine a quality.
-Dargan, Olive Tilford.  [1869-1968]  (1)
 Born in Grayson County, Ky., and educated at the University of Nashville
 and at Radcliffe College.  She became a teacher and was connected with
 various schools in Arkansas, Missouri, and Texas until her marriage.
@@ -6140,7 +5691,6 @@ and "The Mortal Gods", 1912.  As a lyric poet Mrs. Dargan has done
 some beautiful work, most of which may be found in her collection
 "Path Flower", 1914, and she has also published a sequence of fine sonnets
 under the title of "The Cycle's Rim", 1916.
-Davies, Mary Carolyn (Mrs. Leland Davis).  [?]  (3)
 Miss Davies was born and educated in California and came to New York
 from her home in that state, where she soon began to attract attention
 by the fresh and original quality of her verse, which appeared frequently
@@ -6150,12 +5700,10 @@ brought out a much finer and more characteristic collection of her poems
 under the title, "Youth Riding".  Miss Davies has also written
 several one-act plays, one of which, "The Slave with Two Faces",
 has had successful presentation.
-Davis, Fannie Stearns (Mrs. Augustus McKinstrey Gifford).  [1884-?]  (2)
 Born at Cleveland, Ohio, March 6, 1884.  Educated at Smith College,
 from which she graduated in 1904.  She is the author of two volumes of poetry:
 "Myself and I", 1913; and "Crack o' Dawn", 1915, both marked
 by unusually sensitive feeling and delicate artistry.
-De Casseras, Benjamin.  [1873-1945]  (1)
 Born in Philadelphia in 1873, of old Spanish and American stock
 and educated in the public schools of Philadelphia.
 He entered the office of the `Philadelphia Press' in 1889
@@ -6171,14 +5719,12 @@ and satirist.  As a poet his best-known work is in "The Shadow-Eater", 1915.
 Among his other volumes are "The Chameleon", "Forty Immortals",
 "Edelweiss and Mandragora", and "Counsels of Imperfection",
 translated into French by Remy de Gourmont.
-Driscoll, Louise.  [1875-1957]  (1)
 Born in Poughkeepsie, educated by private teachers and in the public schools
 of Catskill, N.Y.  Miss Driscoll first attracted attention
 by a poem called "Metal Checks" which received a prize of $100 offered by
 `Poetry:  A Magazine of Verse', for the best poem on the European war.
 Since then Miss Driscoll has been a constant contributor
 to the best magazines, but has not yet published a collection of her verse.
-Ficke, Arthur Davison.  [1883-1945]  (2)
 Born Davenport, Iowa, Nov. 10, 1883.  Educated at Harvard University
 where he graduated in 1904.  Later he studied at the College of Law
 of the Iowa State University and was admitted to the bar in 1908.
@@ -6190,7 +5736,6 @@ also written two volumes upon "Japanese Painting" and "Japanese Prints",
 in part the outcome of a trip to Japan, taken in company
 with his friend Witter Bynner.  As mentioned in the sketch of Mr. Bynner,
 Mr. Ficke was associated with him in writing the volume, "Spectra".
-Fisher, Mahlon Leonard.  [1874-?]  (2)
 Born in Williamsport, Pa., July 20, 1874.  Educated in private study
 and in the schools of his native city.  Mr. Fisher took up architecture
 and practiced this profession for seventeen years, but although
@@ -6200,7 +5745,6 @@ called `The Sonnet', which he founded.  Mr. Fisher has written
 some of the finest sonnets that have appeared in America in recent years
 and has brought out the first collection of them under the title,
 "Sonnets:  A First Series", 1918.
-Fletcher, John Gould.  [1886-1950]  (2)
 Born at Little Rock, Ark., Jan. 3, 1886.  He was educated
 in the public schools of Little Rock, in Phillips Academy, Andover,
 and at Harvard University, but becoming restive under the formal curriculum
@@ -6222,8 +5766,6 @@ and in April of 1916 he published in this country "Goblins and Pagodas";
 the following month he returned to England and married
 Miss Florence Emily Arbuthnot.  He continues to make England his home
 and brought out there his latest volume, "The Tree of Life".
-for "Selected Poems".  -- A. L., 1998.]
-Foster, Jeanne Robert.  [1879-1970]  (1)
 Born in the Adirondack Mountains in the town of Johnsburg, N.Y.,
 of English and French stock.  Attended the schools of the neighborhood
 and at the age of sixteen began teaching.  Two years later
@@ -6238,8 +5780,6 @@ until 1919.  Mrs. Foster has published two books of verse,
 "Wild Apples" and "Neighbors of Yesterday", both 1916.  In the latter
 she writes, with much narrative skill, of the isolated mountain folk
 whom she knew in her girlhood.
-Frost, Robert.  [1874-1963]  (4)
-Born in San Francisco, March 26, 1875 [sic].  Studied at
 Dartmouth College and Harvard University from 1892 to 1899.
 Married Miss Elinor M. White, of Lawrence, Mass., and went to live upon a farm
 at Derry, N.H., where he followed the occupation of farming from 1900 to 1905.
@@ -6270,19 +5810,15 @@ building his poems primarily upon the rhythms of the speaking voice.
 "North of Boston" was followed in 1916 by "A Mountain Interval",
 containing some beautiful lyric as well as narrative work.
 in 1931 for "Collected Poems", in 1937 for "A Further Range",
-and in 1943 for "A Witness Tree".  -- A. L., 1998.]
-Garrison, Theodosia (Mrs. Frederick J. Faulks).  [1874-1944]  (1)
 Born at Newark, N.J.  Educated at private schools in New York.
 Mrs. Garrison was for several years a constant contributor to the magazines,
 but has written less of late.  Her volumes of verse are:  "Joy o' Life", 1908,
 "The Earth Cry", 1910, and "The Dreamers", 1917.
-Giltinan, Caroline.  [1884-?]  (1)  <Mrs. Leo P. Harlow>
 Born in Philadelphia, Pa.  Educated in the public schools of that city
 and at the University of Pennsylvania.  Miss Giltinan served
 very conspicuously abroad during the World War, as an army nurse,
 and later in an important position in the Department of Sick and Wounded.
 She is the author of "The Divine Image", 1917.
-Griffith, William.  [1876-1936]  (2)
 Born Memphis, Mo., Feb. 15, 1876.  Educated in public schools.
 Married Florence Vernon, of Brooklyn, in 1909.  Mr. Griffith
 has had an active career in the newspaper profession, having been
@@ -6293,7 +5829,6 @@ a large newspaper syndicate, 1912-16; since then associate editor
 of `Current Opinion'.  His best-known books of verse are:
 "City Views and Visions", 1911; "Loves and Losses of Pierrot", 1916;
 "City Pastorals", 1918; "The House of the Sphinx and Other Poems", 1918.
-Guiterman, Arthur.  [1871-1943]  (2)
 Born, of American parentage, at Vienna, Austria, Nov. 20, 1871.
 Graduated at the College of the City of New York in 1891.
 Married Vida Lindo, of New York, 1909.  Mr. Guiterman did editorial work
@@ -6303,7 +5838,6 @@ before doing those which contain his representative work:
 "The Laughing Muse", 1915; "The Mirthful Lyre", 1917;
 and "Ballads of Old New York", 1920.  While Mr. Guiterman is widely known
 as a humorous poet, he is also an accomplished poet in other moods.
-"H. D." (Hilda Doolittle).  [1886-1961]  (2)
 Born at Bethlehem, Pa., Sept. 10, 1886.  Educated at the Gordon School
 and the Friends' Central School of Philadelphia and at Bryn Mawr College.
 Miss Doolittle went to Europe in 1911 and, after a tour of the Continent,
@@ -6325,7 +5859,6 @@ continued for several years to appear in America under the title of
 has been published, "Sea Garden", London and Boston, 1917.
 For the finest and most comprehensive study of "H. D.'s" work
 see "Tendencies in Modern American Poetry", by Amy Lowell, 1917.
-Hagedorn, Hermann.  [1882-1964]  (2)
 Born in New York City, July 18, 1882.  Educated at Harvard University
 and University of Berlin.  Served as Instructor at Harvard from 1909 to 1911.
 Married Dorothy Oakley of Englewood, N.J., 1908.  Mr. Hagedorn
@@ -6336,18 +5869,14 @@ and "Hymn of Free Peoples Triumphant", 1918.  Mr. Hagedorn
 is an ardent American and organized "The Vigilantes", a body of writers
 to do patriotic work with the pen during the World War.
 Edited "Fifes and Drums", a collection of war poetry, 1917.
-Harding, Ruth Guthrie.  [1882-?]  (1)  <Ruth Guthrie Thomson Harding Burton>
 Born at Tunkhannock, Pa., Aug. 20, 1882.  Educated at Wyoming Seminary,
 Kingston, Pa., and at Bucknell University.  Married John Ward Harding
 of Pateson, N.J., Oct. 1901.  Mrs. Harding is the author of
 "A Lark Went Singing", 1916.
-Hoyt, Helen.  [1887-1972]  (1)  <There appear to have been two poets
-with this name writing at the same time.  The dates are possibly 1897-1930.>
 Born at Norwalk, Conn.  Educated at Barnard College.
 Has been connected with `Poetry', of Chicago, as associate editor.
 Miss Hoyt has contributed to the best magazines for several years,
 but has not, as yet, published a volume of verse.
-Johns, Orrick.  [1887-1946]  (3)
 Born in St. Louis, Mo., in 1887.  Educated at the University of Missouri
 and at Washington University in St. Louis.  Was associated for a short time
 with `Reedy's Mirror'.  In 1912 he received the first prize, of $500,
@@ -6355,7 +5884,6 @@ for a poem entitled "Second Avenue", contributed to the contest
 of "The Lyric Year" and afterwards published in that volume.
 Since then Mr. Johns has written "Asphalt", 1917, which contains
 his charming group of poems, "Country Rhymes", the best of his lyric work.
-Jones, Thomas S., Jr.  [1882-1932]  (3)
 Born at Boonville, N.Y., Nov. 6, 1882.  Graduated at Cornell University
 in 1904.  He was on the dramatic staff of the `New York Times'
 from 1904 to 1907, and associate editor of `The Pathfinder' in 1911.
@@ -6367,7 +5895,6 @@ his first series of American poetry.  Mr. Mosher has also added
 "The Voice in the Silence" to this series.  Mr. Jones is a poet
 of rare delicacy and fineness whose work has gathered to itself
 a discriminating group of readers.
-Kemp, Harry.  [1883-1960]  (1)
 Born in Youngstown, Ohio, Dec. 15, 1883, but came East in his childhood.
 Mr. Kemp has had a most romantic and picturesque career.
 He ran away from High School to go to sea, shipping first to Australia.
@@ -6382,14 +5909,12 @@ and produced them with his own company at a small theater in New York,
 but it is in poetry that he has done his best work thus far.
 He has the true lyric quality, as shown in his two volumes,
 "Poems", and "The Passing God", 1919.
-Kilmer, Aline (Mrs. Joyce Kilmer).  [1888-1941]  (3)
 Born Norfolk, Va.  Daughter of the poet Ada Foster Murray.
 Educated in public schools and at the Vail-Deane School of Elizabeth, N.J.
 Married in 1908 to Joyce Kilmer, who met death in France during the World War.
 Mrs. Kilmer is the author of "Candles that Burn", 1919,
 which contains some of the sincerest and most moving lyric poetry
 that has come out of our present revival.
-Kilmer, Joyce.  [1886-1918]  (4)
 Born at New Brunswick, N.J., Dec. 6, 1886.  Educated at Columbia University.
 After a short period of teaching he became associated with
 the Funk and Wagnalls Company, where he remained from 1909 to 1912
@@ -6425,7 +5950,6 @@ his complete work in prose and verse, his letters from abroad,
 and an excellent memoir written by his friend, Robert Holliday,
 have been published and will do much to perpetuate the memory
 of this beloved soldier-poet.
-Kreymborg, Alfred.  [1883-1966]  (2)
 Born in New York City and educated in the public schools of New York.
 Mr. Kreymborg was the founder and editor of a little magazine called `Others',
 which became the organ of a group of insurgent poets.
@@ -6435,24 +5959,20 @@ In addition to writing poetry which he has published in a collection
 called "Mushrooms", 1917, Mr. Kreymborg is the author of
 several brief poetic plays which he presents as "Poem-Mimes",
 performed by puppets.
-Lee, Agnes (Mrs. Otto Freer).  [1868-1939]  (2)
 Born in Chicago, Ill.  Educated in Switzerland.  Married, 2d, Otto Freer,
 "The Sharing", 1914; translator of the poems of Theophile Gautier,
 and of "The Gates of Childhood", by Fernand Gregh.  A contributor of poems
 to the leading magazines, particularly `Poetry', of Chicago.
-Lee, Muna.  [1895-1965]  (1)
 Miss Lee spent her early life in Oklahoma, and first came into notice
 as a poet by gaining a prize given by `Poetry', of Chicago,
 for the best lyric verse by a young writer.  She afterward came to New York
 and married Luis Marin, of South America.  Is at present living in Porto Rico;
 has not, as yet, published a volume of poetry.
-Ledoux, Louis V.  [1880-1948]  (3)
 Born in New York City, June 6, 1880.  Educated at Columbia University
 where he graduated in 1902.  He is a poet who writes chiefly upon Greek themes
 and is the author of "Songs from the Silent Land", 1905;
 "The Soul's Progress", 1907; "Yzdra:  A Poetic Drama", 1909;
 "The Shadow of Aetna", 1914; "The Story of Eleusis:  A Lyrical Drama", 1916.
-Leonard, William Ellery.  [1876-1944]  (2)
 Born at Plainfield, N.J., Jan. 25, 1876.  A.B. Boston University, 1898;
 A.M. Harvard, 1899.  Fellow of Boston University in philology and literature,
 fellow of Columbia University, 1902-03; Ph.D. Columbia, 1904.
@@ -6468,7 +5988,6 @@ His best-known works are:  "Byron and Byronism in America", 1905;
 "Glory of the Morning", a play, 1912; "Aesop and Hyssop", 1913.
 Mr. Leonard has also made a remarkable blank-verse translation of Lucretius,
 which was published in 1916, and has translated from the Greek and the German.
-Lindsay, Vachel.  [1879-1931]  (4)
 Born in Springfield, Ill., Nov. 10, 1879.  Educated at Hiram College, Ohio.
 His first intention was to enter the field of art and he became a student
 at the Art Institute of Chicago where he remained from 1900 to 1903,
@@ -6503,7 +6022,6 @@ and became quite as well known for his interpretations of his work
 as for the work itself.  Much of his verse is social in appeal,
 but he was at his best in poems of more imaginative beauty,
 such as "The Chinese Nightingale".
-Lowell, Amy.  [1874-1925]  (5)
 Born in Brookline, Mass., Feb. 9, 1874.  Educated at private schools.
 Author of "A Dome of Many-Coloured Glass", 1912;
 "Sword Blades and Poppy Seed", 1914; "Men, Women and Ghosts", 1916;
@@ -6534,8 +6052,6 @@ and opened up many interesting avenues of poetic form.  Her volume,
 "Can Grande's Castle", is devoted to work in the medium
 which she styled "Polyphonic Prose" and contains some of her finest work,
 particularly "The Bronze Horses".
-for "What's O'Clock".  -- A. L., 1998.]
-Masters, Edgar Lee.  [1869-1950]  (2)
 Born Garnett, Kan., Aug. 23, 1869.  Educated at Knox College, Ill.
 He studied law in his father's office and was admitted to the bar in 1891.
 Married Helen M. Jenkins, of Chicago, in 1898.  Mr. Masters wrote
@@ -6550,12 +6066,10 @@ humanity's finer side.  "Spoon River Anthology", which had perhaps
 a wider recognition than that of any volume of verse of the period,
 was followed by "Songs and Satires", 1916; "The Great Valley", 1916;
 "Toward the Gulf", 1917; and "Starved Rock", 1920.
-Middleton, Scudder.  [1888-1959]  (2)
 Born in New York City, Sept. 9, 1888.  Educated at Columbia University.
 Was connected for several years with the publishing firm
 of The Macmillan Company.  Mr. Middleton is the author of
 "Streets and Faces", 1917, and "The New Day", 1919.
-Millay, Edna St. Vincent.  [1892-1950]  (3)
 Born at Camden, Maine, and educated at Vassar College.
 Before entering college, however, when she was but nineteen years of age,
 she wrote the poem, "Renascence", entered in the prize contest
@@ -6563,620 +6077,3 @@ of "The Lyric Year", a poem showing a remarkable imagination
 in so young a writer.  After leaving college Miss Millay came to New York
 and became associated with the Provincetown Players for whom she wrote
 several one-act plays in which she herself acted the leading part.
-Her plays have also been produced by other companies and have attracted
-the attention of critics, particularly the poetic drama, "Aria da Capo", 1920.
-Miss Millay is one of our most gifted young poets.  Her volumes of verse
-to date are:  "Renascence, and Other Poems", 1917, and "Poems", 1920.
-for "The Ballad of the Harp-Weaver", &c.  -- A. L., 1998.]
-Monroe, Harriet.  [1860-1936]  (2)
-Born in Chicago.  Graduated at Visitation Academy, Georgetown, D.C.,
-March, 1891.  Miss Monroe was chosen to write the ode
-for the dedication of the World's Columbian Exposition in Chicago in 1892.
-After some years in literary work, chiefly as an art critic,
-Miss Monroe founded, in October of 1912, `Poetry; A Magazine of Verse',
-an organ which has done much to stimulate interest in poetry
-and also its production, since it has become the recognized vehicle
-for the work of the newer school.  The first "Imagist" poems
-appeared in its pages and it was the first to print the work
-of Carl Sandburg and other well-known poets of the poetic revival.
-Miss Monroe is the author of "Valeria and Other Poems", 1892;
-"The Passing Show, Modern Plays in Verse", 1903; "You and I", 1914,
-and was co-editor, with Alice Corbin Henderson, of "The New Poetry",
-an anthology, 1917.
-Morgan, Angela.  [1873/74-1957]  (2)
-Born in Washington, D.C.  Educated by private tutors, the public schools,
-and by special University courses.  Miss Morgan entered the journalistic field
-while still a young girl and did very brilliant work
-on papers of Chicago and New York.  Her work covered all phases of life
-from those of society to the slums.  She visited police courts, jails,
-and all places where humanity suffers and struggles, and it was no doubt
-her early work in the newspaper field that gave to her later work,
-both in poetry and fiction, its strong social bias.  Probably no poet
-of the present time responds more keenly to the social needs of the period,
-nor has a keener sense of the opportunity for service.  Miss Morgan
-was one of the delegates to the First International Congress of Women,
-at The Hague, during the first year of the war, and has appeared frequently
-in readings from her own work.  Her volumes of verse are
-"The Hour Has Struck", 1914; "Utterance and Other Poems", 1916;
-"Forward, March", 1918; and "Hail, Man", 1919.  She has also published
-a volume of stories under the title "The Imprisoned Splendor".
-Morton, David.  [1886-1957]  (3)
-Born in Elkton, Ky., Feb. 21, 1886.  Educated in the public schools
-of Louisville, Ky., and at Vanderbilt University, Nashville, Tenn.,
-where he graduated with the degree of B.S. in 1909.  Mr. Morton
-first took up journalism and was reporter and associate editor of various
-Southern periodicals up to 1915, when he entered the teaching profession
-as Professor of English at the Boys' High School of Louisville.
-He is now teacher of History and English at the Morristown High School,
-Morristown, N.J.  In 1919 Mr. Morton took the first prize, of $150,
-for the best poem read at the Poetry Society of America
-during the current year, and in 1920 he was awarded a $500 prize
-for one of three book manuscripts considered the best submitted
-to the contest of "The Lyric Society".  The volume, "Ships in Harbor,
-and Other Poems", will be published in the autumn of 1920.
-Mr. Morton is one of the finest sonneteers of this period
-and a poet of rare and authentic gifts.
-Neihardt, John G.  [1881-1973]  (1)
-Born at Sharpsburg, Ill., Jan. 8, 1881.  Removed in his early boyhood
-to Bancroft, Neb., his present home.  He has made a special study
-of the pioneer life of the West and also of the Indian life,
-having spent some time among the Omaha Indians.  His work has
-great virility and sweep and he has a fine gift of narrative.
-His first volume, "A Bundle of Myrrh", 1908, showed unmistakably
-that a new poet had appeared in the West.  This was followed
-by the lyric collections, "Man-Song", 1909; "The Stranger at the Gate", 1912;
-and "The Quest", 1916.  Mr. Neihardt then turned his attention
-to the writing of a trilogy of narrative poems, each devoted
-to some character identified with the pioneer life of the Far West.
-"The Song of Hugh Glass", 1915, and "The Song of Three Friends", 1919,
-have thus far been published.  The material used by Mr. Neihardt
-is not only romantic and picturesque, but valuable in the historical sense
-and he is able to shape it with dramatic imagination.
-Norton, Grace Fallow.  [1876-?]  (1)
-Born at Northfield, Minn., Oct. 29, 1876.  Author of
-"Little Gray Songs from St. Joseph's", 1912; "The Sister of the Wind", 1914;
-"Roads", 1915; and "What is Your Legion?", 1916.
-O'Brien, Edward Joseph.  [1890-1941]  (2)
-Born in Boston, Mass., Dec. 10, 1890.  Educated at Boston College
-and Harvard University.  Author of "White Fountains", 1917;
-"The Forgotten Threshold", 1918.  Editor of "The Masque of Poets", 1918.
-Since 1915 Mr. O'Brien has been editing a collection of
-"The Best Short Stories" of the current season.
-O'Conor, Norreys Jephson.  [1885-1958]  (2)
-Born in New York City, Dec. 31, 1885.  Was educated at Harvard University
-where he took the degrees of A.B. and A.M., making a special study
-of the Gaelic language and literature in which he has also done
-some valuable research work.  Having, through his own Celtic descent,
-a particular interest in Ireland and its literature, and having spent
-a part of his time in that country, Mr. O'Conor's poetry naturally turns
-upon Celtic themes which have inspired some excellent dramatic
-as well as lyric work from his pen.  His volumes in their order are:
-"Celtic Memories", 1914; "Beside the Blackwater", 1915; "The Fairy Bride:
-A Play in Three Acts", 1916; and "Songs of the Celtic Past", 1918.
-O'Hara, John Myers.  [1870-1944]  (3)
-Born at Cedar Rapids, Iowa.  Educated at Northwestern University,
-Evanston, Ill.  Was admitted to the bar and practiced law in Chicago
-for twelve years, when he gave up this profession and came to New York
-to become a stock-broker.  Although Mr. O'Hara has followed
-this exacting occupation for the past ten years, it has not prevented him
-from writing and publishing several volumes of poetry,
-largely classic in theme, and handled with an adequate and beautiful art.
-"The Poems of Sappho", 1907, built upon the authentic fragments,
-are acknowledged to be among the finest in English literature.
-Mr. O'Hara's other volumes comprise:  "Songs of the Open", 1909;
-"Pagan Sonnets", 1910; "The Ebon Muse", 1912; "Manhattan", 1915;
-and "Threnodies", 1918.
-O Sheel, Shaemas.  [1886-1954]  (1)  <also O'Sheel>
-Born in New York City, Sept. 19, 1886.  Educated at Columbia University.
-His two volumes of verse are:  "The Blossomy Bough", 1911,
-and "The Light Feet of Goats", 1915.  Mr. O Sheel is a true poet,
-writing in the Celtic tradition.
-Oppenheim, James.  [1882-1932]  (3)
-Born at St. Paul, Minn., May 24, 1882, but a resident of New York City,
-where he has spent most of his life.  He was educated at Columbia University
-and first entered sociological work, becoming assistant head worker
-at the Hudson Guild Settlement, 1901-03.  Married Lucy Seckel,
-of New York, June, 1905.  Was teacher and acting superintendent
-of the Hebrew Technical School for Girls, New York, 1905-07,
-when he left to engage entirely in literary work.  Mr. Oppenheim
-is a well-known short-story writer and novelist as well as poet,
-but we will confine ourselves to listing his work in poetry,
-which has in itself been voluminous.  Since his first collection,
-"Monday Morning and Other Poems", 1909, his work has been written
-chiefly in free verse, or in "polyphonic poetry", to use his own term,
-usually in sweeping rhythms more akin to those of Whitman than to the later
-free-verse writers.  In spirit, too, he has the Whitman mood, or rather,
-he is absorbed by the same great social and democratic aspects of life.
-Few poets see life so broadly as Mr. Oppenheim or look as deeply
-below its surface; his work, however, is beset technically
-by the danger that attends a poet who works in a semi-prose medium,
-and the art is not always commensurate with the thought.
-Mr. Oppenheim's other volumes of verse are:  "Pioneers", a poetic play, 1910;
-"Songs for the New Age", 1914; "War and Laughter", 1916;
-"The Book of Self", 1917; "The Solitary", 1919.
-Peabody, Josephine Preston (Mrs. Lionel Marks).  [1874-1922]  (3)
-Born in New York City.  Educated at the Girls' Latin School of Boston
-and at Radcliffe College.  Miss Peabody was Instructor of English
-at Wellesley College from 1901 to 1903.  Her volumes in their order are:
-"The Wayfarers", 1898; "Fortune and Men's Eyes", 1900;
-"Marlowe, a Drama", 1901; "The Singing Leaves", 1903; "The Wings", 1905;
-"The Piper", a drama, awarded the Stratford-on-Avon Prize of $1500 in 1910;
-"The Singing Man", 1911; "The Wolf of Gubbio", a drama, 1913;
-and "The Harvest Moon", 1916.  Miss Peabody's charming play, "The Piper",
-first produced at Stratford, was played also in New York
-at the Century Theater, having a successful run, and was revived
-in the winter of 1920 by the Drama League.  Miss Peabody was a poet
-of a very delicate and individual art, whether in lyric or drama.
-Percy, William Alexander.  [1885-1942]  (1)
-Born in Greenville, Miss., May 14, 1885.  Was prepared for college
-chiefly by a Roman Catholic priest; went to the University of the South,
-at Sewanee, Tenn., where he received his B.A. degree.
-The next year he spent abroad, and the following entered
-Harvard Law School, where he took the degree of LL.B.
-He is now in the active practice of law in Greenville, Miss.
-His first book of poems, "Sappho in Levkas and Other Poems",
-was published in 1915, and his second, "In April Once", in 1920.
-During the World War, Mr. Percy had active service in France,
-having the rank of Captain.
-Piper, Edwin Ford.  [1871-1939]  (1)
-Born at Auburn, Neb., Feb. 8, 1871.  Spent his early youth on a farm
-near his native town and in various parts of the cattle country of the State.
-Took his degree of A.B. from the University of Nebraska in 1897
-and of A.M. in 1900, and later took graduate-student work at Harvard.
-Mr. Piper was Instructor in English at the University of Nebraska
-from 1899 to 1903, when he went to Harvard, and returned to the University
-in the same capacity for the two years following, when he entered upon
-the same position at the University of Iowa, where he still remains.
-He has published but one collection of verse, "Barbed Wire",
-a volume dealing with life in the West, though he appears frequently
-in the magazines.
-Rice, Cale Young.  [1872-1943]  (4)
-Born at Dixon, Ky., Dec. 7, 1872.  Graduated from Cumberland University
-in 1893 and from Harvard University in 1895, where he remained to take
-the degree of A.M. in 1896.  He is the author of many fine poetic dramas,
-some of which have had successful stage presentation,
-and of several volumes of lyric poetry.  In poetic drama his best-known works
-are "Charles di Tocca", 1903; "David", 1904; "Yolanda of Cyprus", 1905;
-"A Night in Avignon", 1907; "The Immortal Lure", 1911; and "Porzia", 1913.
-Of late Mr. Rice has confined himself chiefly to lyric poetry,
-covering a wide range of subjects, since he has traveled extensively
-and finds inspiration for his work in the beauty of far countries
-and their philosophies, as well as in the more familiar life about him.
-His best-known lyric collections are:  "Nirvana Days", 1908;
-"Many Gods", 1910; "Far Quests", 1912; "At the World's Heart", 1914;
-"Earth and New Earth", 1916; "Trails Sunward", 1917;
-"Wraiths and Realities", 1918; "Songs to A. H. R.", 1918;
-and "Shadowy Thresholds", 1919.  With the exception of the last five titles,
-Mr. Rice's work, both in lyric and drama, may be found
-in his two volumes of "Collected Plays and Poems", 1915.
-Robinson, Corinne Roosevelt.  [1861-1933]  (2)
-Born in New York City in 1861.  Educated by private teachers,
-and at Miss Comstock's School in New York, supplemented by
-a short period of study in Dresden.  Married Douglas Robinson, 1882.
-Mrs. Robinson, who is a sister to Col. Theodore Roosevelt,
-has always taken an active part in philanthropic and political affairs,
-and, since her brother's death, has given much of her time
-to speaking upon his life and work, in the interest of Americanization.
-Mrs. Robinson has written several volumes of verse:
-"The Call of Brotherhood", 1912; "One Woman to Another", 1914;
-and "Service and Sacrifice", 1919.  All show the fine ideals
-and gracious spirit of their writer.
-Robinson, Edwin Arlington.  [1869-1935]  (3)
-Born at Head Tide, Maine, Dec. 22, 1869.  Educated at Harvard University.
-Mr. Robinson is a psychological poet of great subtlety;
-his poems are usually studies of types and he has given us
-a remarkable series of portraits.  He is recognized
-as one of the finest and most distinguished poets of our time.
-His successive volumes are:  "Children of the Night", 1897;
-"Captain Craig", 1902; "The Town Down the River", 1910;
-"The Man Against the Sky", 1916; "Merlin", 1917; and "Launcelot", 1920.
-The last-named volume was awarded a prize of five hundred dollars,
-given by The Lyric Society for the best book manuscript offered to it in 1919.
-In addition to his work in poetry, Mr. Robinson has written two prose plays,
-"Van Zorn", and "The Porcupine".
-for "Collected Poems", in 1925 for "The Man Who Died Twice",
-and in 1928 for "Tristram".  -- A. L., 1998.]
-Sandburg, Carl.  [1878-1967]  (4)
-Born at Galesburg, Ill., Jan. 6, 1878.  Educated at Lombard College,
-Galesburg.  Married Lillian Steichen, of Milwaukee, 1908.
-Mr. Sandburg served several years as secretary to the Mayor of Milwaukee,
-then went to Chicago where he became associate editor of `System',
-leaving this magazine to become an editorial writer
-upon the `Chicago Daily News'.  He first came into prominence
-by a poem on "Chicago" published in `Poetry', of that city,
-and was awarded the Levinson Prize for this poem, in 1914.
-The following year he published a collection of his verse
-under the title of "Chicago Poems", and in 1918 appeared
-his second volume, "Corn Huskers".  This was one of two volumes to receive
-the Columbia University award of $500 for the best book of verse of the year.
-Mr. Sandburg belongs to the newer movement in poetry,
-using the `vers-libre' forms.  He is a writer of rugged power,
-interested in the social aspects of modern life, but a poet
-who is also sensitive to beauty and a frequent master of the magic phrase.
-and in 1951 for his "Complete Poems".  (Same as the Columbia University Prize
-listed above.)  -- A. L., 1998.]
-Schauffler, Robert Haven.  [1879-1964]  (2)
-Born at Brun, Austria, though of American parentage, on April 8, 1879.
-He studied at Northwestern University, but took his degree of A.B.
-from Princeton, in 1902, and afterwards spent a year in study
-at the University of Berlin.  Mr. Schauffler was a musician before he
-took up literature and was a pupil of several famous masters of the 'cello.
-He has written upon musical subjects, notably in his volume,
-"The Musical Amateur", and in his delightful account
-of his musical experiences in the Army, "Fiddler's Luck", 1920.
-He is also the author of several books of travel, such as "Romantic Germany",
-and "Romantic America", but it was with his poem, "Scum o' the Earth",
-published in one of the magazines in 1912, that he first came into prominence
-as a poet.  As its name implies, it is a poem taking up the question
-of America's debt to the immigrant, and looking at it
-with the vision of the poet.  This poem furnished the title
-to Mr. Schauffler's collection of verse, published in 1912.
-Seeger, Alan.  [1888-1916]  (1)
-Born in New York City, June 22, 1888.  He spent his childhood
-upon Staten Island, where he was constantly in sight of
-the great steamships of all nations moving in and out of New York Harbor --
-the gateway to the Western Hemisphere.  Returning to Manhattan,
-he was sent to the Horace Mann School, but while still a lad,
-the family removed to Mexico where the most impressionable years
-of his boyhood were spent.  The influence of the romantic Southern life
-is shown in his earliest poetry.  Upon his return to America,
-several years later, he was prepared for college at the Hackley School
-at Tarrytown, N.Y., and entered Harvard in 1906, where he remained to graduate
-in 1910.  Then followed a period of indecision as to his future work,
-a period of two years spent in New York, seeking some adequate outlet
-for the gifts which he seemed unable to bring to a practical issue.
-Finally, his family decided to give him a period in Paris,
-and he had been living there, with excursions to other parts of the Old World,
-for nearly two years when the Great War broke out and furnished him
-with the incentive to high adventure which his spirit craved.
-He enlisted at once and was enrolled in the Foreign Legion
-which was soon sent to the front.  For two years he played not only
-a gallant part as a soldier, but, as his letters and journal show,
-he developed personal qualities of the noblest.  Indeed no dedication
-made by youth to the ideal of the war was more complete than his.
-During his period with the Legion he wrote the poems by which
-he will be remembered, "Champagne, 1914", "Ode to the American Volunteers
-Fallen for France", and his exquisite "Rendezvous",
-published in this collection.  All are beautiful and all have the exaltation
-which marked the soldier's spirit in the earlier years of the war.
-Not only did his poems foreshadow his own death, but they showed
-the willingness, almost eagerness, with which he offered himself.
-Although America was not yet in the war, a tardiness which had been
-a great grief to Alan Seeger, there is a poetic coincidence in the fact
-that he met his death on July 4, 1916, while the Legion was carrying out
-an attack on the little village of Belloy-en-Santerre.  After his death
-two volumes, containing his poems, letters, and diary, were issued, 1917,
-with an Introduction by William Archer.
-Shanafelt, Clara.  [?]  (1)
-Miss Shanafelt has, as yet, published no collection of poetry,
-but has appeared in the magazines, particularly `Poetry', of Chicago,
-from whose pages we took the lyric included in this volume.
-Shepard, Odell.  [1884-1967]  (1)
-Born in Sterling, Ill., July 22, 1884.  Educated at Harvard University.
-Is now instructor in the English department of Yale University.
-He is the author of "A Lonely Flute", 1917.
-Smith, May Riley.  [1842-1927]  (1)
-Born in Rochester, N.Y., May 7, 1842.  Educated at Tracey Female Institute,
-Rochester, and at Brockport, N.Y., Collegiate Institute.
-Married Albert Smith, of Springfield, Ill., in 1869.
-Author of "The Gift of Gentians", 1882; "The Inn of Rest", 1888;
-"Sometime and Other Poems", 1892.  While Mrs. Smith has in recent years
-done work much more modern in character and finer as poetry,
-she is most widely known for her poem, "Sometime", written in
-her earlier life.
-Speyer, Leonora.  [1872-1956]  (2)
-Born in Washington, D.C., in 1872.  Studied music in Brussels, Paris,
-and Leipzig, and played the violin professionally under Nikisch, Seidl,
-and others.  Married Sir Edgar Speyer, of London, and lived in that city
-until 1915, when they came to America and took up their residence in New York.
-Lady Speyer, who had never written poetry until her return
-to her native country, has since that time made for herself
-a place among the newer group and is doing excellent work
-both in the free forms and lyric.
-for "Fiddlers Farewell".  -- A. L., 1998.]
-Sterling, George.  [1869-1926]  (3)
-Born at Sag Harbor, N.Y., Dec. 1, 1869.  Educated at private schools
-and at St. Charles College, Ellicott City, Md.  Mr. Sterling is a poet
-to whom the sublimer aspects of nature and thought appeal
-and he has a style admirably suited to their portrayal.
-He is the author of "The Testimony of the Suns", 1903;
-"A Wine of Wizardry", 1908; "The House of Orchids", 1911;
-"Beyond the Breakers", 1914; "Exposition Ode", 1915;
-and "Lilith, A Dramatic Poem", 1919.
-Stork, Charles Wharton.  [1881-1971]  (2)
-Born in Philadelphia, Pa., Feb. 12, 1881.  Took the degree of A.B.
-at Haverford College, 1902; of A.M. at Harvard, 1903, and of Ph.D.
-at the University of Pennsylvania, 1905.  He then went abroad
-to do research work in the universities of England and Germany,
-where he spent several years.  In 1908 he married Elisabeth,
-daughter of Franz von Pausinger, artist, of Salzburg, Austria,
-and, returning to America, took up his work at the University of Pennsylvania,
-where he remained as instructor and associate professor until 1916,
-when he resigned to engage in literary work.  Mr. Stork's first book of verse
-to become known was "Sea and Bay", 1916.  Since then he has done
-a great deal of translating from the Swedish and German,
-having made admirable renderings of Gustaf Froding, 1916,
-as well as many other Swedish poets, whose work he published
-in an "Anthology of Swedish Lyrics", 1917.  He has since made
-a translation of "Selected Poems of Verner Von Heidenstam",
-the Nobel Prize winner of 1916.  In addition to his work in Swedish poetry,
-he has made an excellent rendering of the lyrics of Hofmansthal,
-the Austrian poet.  Mr. Stork is the editor and owner of `Contemporary Verse',
-devoted to the poetry of the present group in America.
-A second collection of his own verse will soon appear.
-Teasdale, Sara.  [1884-1933]  (4)
-Born in St. Louis, Mo., Aug. 10, 1884.  Educated at private schools.
-Married Ernst B. Filsinger, 1915.  She is the author of "Sonnets to Duse",
-"Love Songs", 1917, which was awarded the Columbia University Prize of $500
-for the best book of poems of the current year.  Miss Teasdale was also
-the editor of "The Answering Voice; A Hundred Love Lyrics by Women", 1917.
-She herself wrote some of the finest love songs of our period
-and was one of the purest and most spontaneous lyric poets of her generation.
-for "Love Songs".  (Same as the Columbia University Prize listed above.)
-Tietjens, Eunice.  [1884-1944]  (1)
-Born in Chicago, Ill., July 29, 1884.  Educated in Europe,
-chiefly at Geneva, Dresden, and Paris.  Married Paul Tietjens, musician,
-in 1904.  Was divorced in 1914, and in 1920 married Cloyd Head, of Chicago.
-Was for several years associate editor of `Poetry'.  Mrs. Tietjens
-has traveled extensively, especially in the interior of China.  She also spent
-sixteen months in France as a war correspondent for the Chicago Daily News.
-Mrs. Tietjens is the author of "Profiles from China", 1917,
-and "Body and Raiment", 1919.
-Torrence, Ridgely.  [1875-1950]  (2)
-Born at Xenia, Ohio, Nov. 27, 1875.  Educated at Miami University, Ohio,
-and at Princeton.  Served as assistant librarian at
-the Astor and Lenox Libraries in New York City from 1897 to 1903.
-His volumes of poetry and poetic drama include:
-"The House of a Hundred Lights", 1900; "El Dorado, A Tragedy", 1903;
-"Abelard and Heloise:  A Drama", 1907.  Since Mr. Torrence published
-his last collection, he has done some of his finest work
-in lyric and narrative poetry, work that has appeared in the magazines
-and which will probably be collected soon into book form.
-He is a poet of vision, one of the truest voices of our day,
-though his work is sparse in output.
-Towne, Charles Hanson.  [1877-1949]  (3)
-Born at Louisville, Ky., Feb. 2, 1877.  Educated at New York City College.
-Mr. Towne has been an active journalist, having been connected with
-several metropolitan magazines and successively editor of `The Smart Set',
-`The Delineator', `The Designer', and `McClure's Magazine'.
-Despite his journalistic work he has found time to write
-several volumes of poetry largely reflective of the life of to-day
-and particularly of Manhattan.  The best-known are:  "The Quiet Singer,
-and Other Poems", 1908; "Manhattan", 1909; "Youth, and Other Poems", 1910;
-"Beyond the Stars, and Other Poems", 1912; "To-Day and To-Morrow", 1916;
-and "A World of Windows", 1919.
-Untermeyer, Jean Starr.  [1886-1970]  (1)
-Born at Zanesville, Ohio, in 1886.  Educated in private schools
-of New York City and in special courses at Columbia University.
-Married Louis Untermeyer, the poet, 1907.  Mrs. Untermeyer
-did not begin writing until the free verse movement was at its height,
-but she has done some excellent work and made a place for herself
-in the movement.  Her volume of verse, "Growing Pains", was published in 1918.
-Untermeyer, Louis.  [1885-1977]  (3)
-Born in New York City, Oct. 1, 1885.  Educated in the public schools
-of that city.  Mr. Untermeyer, in addition to writing poetry, has done
-much work in book reviewing, particularly for the `Chicago Evening Post',
-and is the author of a critical book, "The New Era in American Poetry", 1919,
-which discusses in a stimulating manner the work of a group of poets
-of the day.  His own volumes of poems are:  "First Love", 1911;
-"Challenge", 1914; "And Other Poets:  A Book of Parodies", 1916;
-"These Times", 1917; "Including Horace", another volume of parodies, 1919.
-Mr. Untermeyer has made an excellent translation of
-the "Poems of Heinrich Heine", 1917, and has edited
-a school anthology of "Modern American Poetry", 1919.
-Walsh, Thomas.  [1875-1928]  (2)
-Born in Brooklyn, Oct. 14, 1875.  Educated at Georgetown University,
-where he took the degree of Ph.D. in 1892.  Spent the years from 1892 to 1895,
-at Columbia University.  In 1917 he received the honorary degree of Litt.D.
-from Georgetown University and of LL.D. from the University of Notre Dame.
-He is the author of "The Prison Ships", 1909; "The Pilgrim Kings", 1915;
-"Gardens Overseas", 1917; and is the translator of a collection of the poems
-of the Nicaraguan poet, Ruben Dario.  Mr. Walsh is much interested
-in Spanish literature and art and much of his work turns upon these themes.
-Wattles, Willard.  [1888-1950]  (3)
-Born in Bayneville, Kan., June 8, 1888.  Educated at the University of Kansas,
-where he took the degree of A.B. in 1909 (Phi Beta Kappa) and of A.M. in 1911.
-Mr. Wattles took up the profession of teaching and was instructor in English
-at the High School, Leavenworth, Kan., 1910-11, leaving this position to
-go East and become one of the staff of the Massachusetts Agricultural College,
-where he remained until 1914, when he returned to his alma mater,
-the University of Kansas.  He is still assistant in the English department
-of that college.  He has published as yet but one collection,
-"Lanterns in Gethsemane", 1917, a volume of poems pertaining to
-the life of Christ, but not written in the usual vein of religious poetry.
-He is also the compiler of "Sunflowers", a book of Kansas poems, 1916.
-Wheelock, John Hall.  [1886-1978]  (4)
-Born at Far Rockaway, N.Y., in 1886.  He took the degree of A.B.
-from Harvard University in 1908 and spent the next two years
-in Germany, studying during 1909 at Gottingen and during 1910
-at the University of Berlin.  Since his return to America
-he has been connected with the publishing house of Charles Scribner's Sons.
-His first volume, "The Human Fantasy", 1911, attracted attention
-by the faithfulness with which it depicted the motley life of New York.
-His second was "The Beloved Adventure", 1912; followed by
-"Love and Liberation", 1913, and "Dust and Light", 1919.
-The last volume, from which the selections in this anthology are taken,
-contains some of Mr. Wheelock's finest lyrical work,
-work full of the passion for beauty.
-Widdemer, Margaret.  [1884-1978]  (4)
-Born at Doylestown, Pa.  Educated by private teachers and at
-the Drexel Institute Library School of Philadelphia, where she graduated
-in 1909.  Attention was first drawn to her work by a child-labor poem,
-"The Factories", which was widely quoted, the social movement in poetry
-being then at its height.  Miss Widdemer is both poet and novelist,
-having published several books in each field.  In poetry her work includes:
-"The Factories with Other Lyrics", 1915; and "The Old Road to Paradise", 1918.
-This volume shared with that of Carl Sandburg the Columbia University Prize
-of $500 for the best book of poems published in 1918.
-In the same year Miss Widdemer was married to Robert Haven Schauffler,
-author of "Scum o' the Earth".  She is a poet of much delicacy,
-and several of her poems, notably "The Dark Cavalier" in this volume,
-are among the best lyric work of the period.
-for "Old Road to Paradise".  (Same as the Columbia University Prize
-listed above.)  -- A. L., 1998.]
-Wilkinson, Florence (Mrs. Wilfrid Muir Evans).  [1878-?]  (1)  <F. W. Evans>
-Born at Tarrytown, N.Y.  Miss Wilkinson studied at
-Chicago University and other American colleges and afterwards at
-the Sorbonne and the Bibliotheque Nationale of Paris.
-She is the author of several novels, of which the best known are:
-"The Lady of the Flag Flowers", "The Strength of the Hills",
-and "The Silent Door"; and also of one or two volumes of plays,
-but her best work is found in her poetry of which she has written
-two volumes:  "The Far Country", 1906, and "The Ride Home", 1913.
-Wilkinson, Marguerite Ogden Bigelow.  [1883-1928]  (2)
-Born at Halifax, Nova Scotia, Nov. 15, 1883.  Educated at
-Northwestern University.  Married James Wilkinson, 1909.
-Author of "In Vivid Gardens", 1911; "By a Western Wayside", 1912;
-"New Voices", a critical study of present-day poetry,
-with a supplementary anthology, 1919; and "Bluestone",
-a collection of her own poems, 1920.  The title poem of this volume
-was awarded a prize of $150 by the Poetry Society of America
-for the best poem read at its meetings during 1919.  Mrs. Wilkinson did
-a great deal of journalistic work, having conducted literary departments
-on various journals.
-Wood, Clement.  [1888-1950]  (3)
-Born at Tuscaloosa, Ala., Sept. 1, 1888, but reared in Birmingham, Ala.,
-where he attended Taylor's Academy and Birmingham High School.
-Received his degree of A.B. from the University of Alabama in 1909,
-and of LL.B. from Yale University in 1911.  He returned
-to his home city of Birmingham and practiced law for several years,
-becoming assistant city attorney of Birmingham in 1912,
-and police magistrate of the Central District of Birmingham, 1912-13.
-The following year he came to New York for advanced work
-in sociology and literature and became a contributor of poems, essays,
-and short stories to various magazines.  In 1917 he was awarded
-the first prize of $250 by the Newark Committee of One Hundred,
-as part of their Anniversary Celebration, for his poem, "The Smithy of God",
-and in 1919 he was also awarded one of the three Lyric Society Prizes,
-of $500 each, for his poem, "Jehovah".  In 1914 Mr. Wood married
-Mildred M. Cummer, of Buffalo, N.Y., who is also a writer.
-In poetry he is the author of the following books:  "Glad of Earth", 1917;
-"The Earth Turns South", 1919; and "Jehovah", 1920.  He has also written
-a novel called "Mountain", published in 1920.
-----
-Rittenhouse, Jessie Belle.  [1869-1948]
-Jessie Rittenhouse is best known as an editor and for her compilations,
-but she was also a poet -- though she did not include her own work
-in her compilations.  Her compilations and criticisms include:
-"The younger American poets", 1904; "The Little Book of Modern Verse", 1913;
-"The Little Book of American Poets, 1787-1900", 1915; "The Second Book
-of Modern Verse", 1919; "The Little Book of Modern British Verse:
-One Hundred Poets since Henley", 1924; "The Third Book of Modern Verse", 1927.
-Her own works include:  "The Door of Dreams", 1918; "The Lifted Cup", 1921;
-"The Secret Bird", 1930; "My House of Life; an Autobiography", 1934;
-and "The Moving Tide; New and Selected Lyrics", 1939.
-Her compilations went through numerous printings, and are still a good guide
-to the poetry of the era.
-----
-Notes to the text:
-Though most of the publishers only required acknowledgements in the section
-devoted to such, one apparently insisted that they also appear in the text.
-These intrusions have been removed from the text, but are noted here:
-Edwin Arlington Robinson.
-`Flammonde' & `Old King Cole', reprinted from "The Man against the Sky", 1916.
-Vachel Lindsay.
-`The Chinese Nightingale' & `The Flower of Mending', reprinted from
-"The Chinese Nightingale, and Other Poems", 1917.
-`General William Booth Enters into Heaven', reprinted from
-"General William Booth Enters into Heaven, and Other Poems", 1913.
-`Abraham Lincoln Walks at Midnight', reprinted from
-"The Congo, and Other Poems", 1914.
-Sara Teasdale.
-`Love Songs' (only the first 4 out of 5) reprinted from "Love Songs", 1917.
-Scudder Middleton.
-`Interlude' & `Romance', reprinted from "The New Day", 1919.
-Amy Lowell.
-`Venus Transiens' & `Madonna of the Evening Flowers' , reprinted from
-"Pictures of the Floating World", 1919.
-`Patterns', reprinted from "Men, Women and Ghosts", 1916.
-`A Lady' & `Apology', reprinted from "Sword Blades and Poppy Seed", 1914.
-John G. Neihardt.
-`Ballad of a Child', reprinted from "The Quest", 1916.
-Louis V. Ledoux.
-`Mater Dolorosa', reprinted from "The Story of Eleusis", 1916.
-Edgar Lee Masters.
-`Spoon River Anthology' (selections from), reprinted from
-"Spoon River Anthology", 1915.
-`Silence', reprinted from "Songs and Satires", 1915.
-Mary Carolyn Davies.
-`Smith, of the Third Oregon, Dies', reprinted from
-"Drums in Our Street", 1918.
-Hermann Hagedorn.
-`Doors', reprinted from "Poems and Ballads", 1913.
-In some cases, e.g. "Love Songs" and "Spoon River Anthology",
-there is a selection of short poems grouped together under the title
-of the book from which they were drawn -- though in the case of "Love Songs",
-only the first four are actually from the book of the same name.
-Due to the technical limitations of ASCII, accents were not included
-in the text.  However, a complete list follows of each line
-where an accent occurred in the original.  The "pipe" character (|)
-indicates a special character, and a marker for the accent follows,
-except in cases where two vowels make a combined character, as in C(ae)sar.
-The appropriate accents should be obvious.  The affected lines are:
-Ad Matrem Amantissimam et Carissimam Filii in |Aeternum Fidelitas.
-Chanson of the Bells of Osen|\ey.  [Cale Young Rice]
-Reveill|/e.  [Louis Untermeyer]
-The Unknown Belov|\ed.  [John Hall Wheelock]
-Voyage |\a l'Infini.  [Walter Conrad Arensberg]
-The bells of Osen|\ey
-(Hautcl|\ere, Doucement, Austyn)
-The bells of Osen|\ey
-Hautcl|\ere chants to the East
-The bells of Osen|\ey
-(Doucement, Austyn, Hautcl|\ere)
-The loveliest f|^ete and carnival
-These things do not remember you, belov|\ed, --
-I am in love with all unveil|\ed faces.
-Belov|\ed, till the day break,
-Belov|\ed and my Love!
-Bosomed with the Bless|\ed One,
-Thinking, beside the pi|~nons' flame, of days
-The bright Champs-Elys|/ees at last --
-The impasse and the loved caf|/e;
-|\A deux and pledge across the wine!"
-Of bearing in grand d|/ejeuner.
-And rich perfum|/ed smells
-Of pil|\ed masonry, which shall be ours
-Said he, "Your most belov|\ed
-Here have I no belov|\ed,
-Here lies, thy true belov|\ed
-including "The Magical City", "Papa", a comedy, and "D|/eclass|/e",
-which won a great success with Ethel Barrymore in the leading r|^ole.
-the Croix de Guerre and the M|/edaille de Reconnaissance fran|,caise.
-"The Sharing", 1914; translator of the poems of Th|/eophile Gautier,
-"The Shadow of |Aetna", 1914; "The Story of Eleusis:  A Lyrical Drama", 1916.
-"Glory of the Morning", a play, 1912; "|Aesop and Hyssop", 1913.
-Born at Br|"un, Austria, though of American parentage, on April 8, 1879.
-having made admirable renderings of Gustaf Fr|"oding, 1916,
-"Abelard and H|/eloise:  A Drama", 1907.  Since Mr. Torrence published
-of the Nicaraguan poet, Rub|/en Dario.  Mr. Walsh is much interested
-in Germany, studying during 1909 at G|"ottingen and during 1910
-the Sorbonne and the Biblioth|\eque Nationale of Paris.
-Also all occurences of Ben|/et (Stephen Vincent & William Rose Ben|/et)
-and of Zo|"e for Zo|"e Akins.
-The Acknowledgements section has been omitted.
-Corrections to the text:
-(These were checked against copies of the volumes from which
-the poems were extracted.)
-Spoon River Anthology.  [Edgar Lee Masters]
-"As Bryon's did, in song, in something noble,"
-changed to
-"As Byron's did, in song, in something noble,"
-Abraham Lincoln walks at Midnight.  [Vachel Lindsay]
-added subtitle:  (In Springfield, Illinois)
-"A famous high-top hat and plain worn shawl"
-changed to
-"A famous high top-hat and plain worn shawl"
-"The prairie lawyer, master of us all."
-changed to
-"The prairie-lawyer, master of us all."
-Apology.  [Amy Lowell]
-"You blazen me with jewelled insignia."
-changed to
-"You blazon me with jewelled insignia."
-Biographical Notes:
-"H. D." was incorrectly identified as "Helena Doolittle".
-This has been corrected to "Hilda Doolittle".
-In addition, some information was added to the Biographical Notes,
-most notably dates for each author (when available) and which ones
-won a Pulitzer Prize, and in which year(s).

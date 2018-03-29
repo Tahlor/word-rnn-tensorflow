@@ -1,77 +1,16 @@
-Produced by Juliet Sutherland, Diane Monico, and the Online
-Distributed Proofreading Team at http://www.pgdp.net
 All That Matters
 by
 _With Pictures
 by_
 _Chicago_
 _Printed in the United States of America_
-_Copyright, 1922_
 _by_
-_All Rights Reserved_
-_Illustrations Copyrighted, 1920, 1921, 1922
 by The International Magazine Company
-and reproduced by special
 arrangement with
 the Cosmopolitan Magazine_
-_Second Printing--August, 1922
 Third Printing--October, 1922_
 _All That Matters_
-_From a painting by_ FRANK X. LEYENDECKER.]
 _Poem_                                   _Page_
-Accomplished Care                           66
-Afraid of His Dad                           94
-All That Matters                             9
-Boy and His Dad, A                          36
-Boy's Ideal, The                            30
-Bread and Gravy                             38
-Bulb Planting Time                          67
-Call, The                                   11
-Clinching the Bolt                          50
-Common Touch, The                           32
-Denial                                      72
-Effort                                      86
-Example                                     53
-Family Doctor, The                          70
-Forgetful Pa                                18
-Frosting Dish, The                          24
-God Made This Day For Me                    16
-Grate Fire, The                             40
-Harder Part, The                            62
-His Other Chance                            68
-His Pa                                      52
-Homely Man, The                             76
-Joys We Miss, The                           44
-Just Half of That, Please                   31
-Just Like a Man                             48
-Kindly Neighbor, The                        42
-Life                                        80
-Little Feet                                 46
-Living                                      88
-Lonely Old Fellow, The                      82
-Marjorie                                    33
-Mother and the Baby                         12
-Motherhood                                  20
-Need, The                                   56
-Newspaper Man, The                          34
-Old-Fashioned Letters                       14
-One In Ten, The                             91
-Play the Game                               26
-Playing For Keeps                           22
-Service                                     96
-Somebody Else                               84
-Success                                     81
-Tears Expressive, The                       43
-Ten-Fingered Mice                           58
-Things They Mustn't Touch, The              60
-To a Young Man                              92
-Unchangeable Mother                         78
-Until She Died                              10
-Warm House and a Ruddy Fire, A              90
-When the Young are Grown                    28
-Winding the Clock                           54
-Workman's Dream, The                        74
-Youth                                       64
 _"All That Matters"
 Is Dedicated
 To My Wife
@@ -149,7 +88,6 @@ I never see this lovely pair nor hear the mother sing
 The lullabies of babyhood, but I start wondering
 How much of every man to-day the world thinks wise or brave
 Is of the songs his mother sang and of the strength she gave.
-_From a drawing by_ W. T. BENDA.]
 "Just like a mother!" Oh, to be so tender and so true,
 No man has reached so high a plane with all he's dared to do.
 And yet, I think she understands, with every step she takes
@@ -206,7 +144,6 @@ An' the woods chock-full o' singin' till you'd think birds never had
 A single care to fret 'em or a grief to make 'em sad.
 Oh, I settle down contented in the shadow of a tree,
 An' tell myself right proudly that the day was made fer me.
-_From a painting by_ M. L. BOWER.]
 It's my day, sky an' sunshine, an' the temper o' the breeze.
 Here's the weather I would fashion could I run things as I please--
 Beauty dancin' all around me, music ringin' everywhere,
@@ -275,7 +212,6 @@ But who recalls the tears she shed,
 And all the wishes gratified,
 The eager journeys to his bed,
 The pleas which never she denied?
-_From a painting by_ ROBERT E. JOHNSTON.]
 I took for granted, just as he,
 The boundless love that mother gives,
 But watching them I've come to see
@@ -341,7 +277,6 @@ And stood beside my mother fair,
 Waiting the time when she
 Would gently stoop to kiss me there
 And hand the plate to me.
-_From a painting by_ H. C. PITZ.]
 Now there's another in my place
 Who stands where once I stood.
 And watches with an upturned face
@@ -410,7 +345,6 @@ Oh, there's just one consolation, as we're sittin' here at night,
 They've grown to men an' women, an' we brought 'em up all right;
 We've watched 'em as we've loved 'em an' they're splendid, every one,
 An' we feel the Lord won't blame us for the way our work was done.
-_From a painting by_ ROBERT E. JOHNSTON.]
 They're clean, an' kind an' honest, an' the world respects 'em, too;
 That's the dream of parents always, an' our dreams have all come true.
 So although the house is lonely an' sometimes our eyes grow wet,
@@ -483,7 +417,6 @@ God grant that I may live upon this earth
 And face the tasks which every morning brings,
 And never lose the glory and the worth
 Of humble service and the simple things.
-_From a painting by_ HARVEY EMRICH.]
 The house is as it was when she was here;
 There's nothing changed at all about the place;
 The books she loved to read are waiting near
@@ -564,7 +497,6 @@ He is learning the glorious depths of him,
 And the thoughts he thinks and his every whim;
 And he shall discover, when night comes on,
 How close he has grown to his little son.
-_From a painting by_ M. L. BOWER.]
 A boy and his dad on a fishing-trip--
 Builders of life's companionship!
 Oh, I envy them, as I see them there
@@ -609,7 +541,6 @@ In the cold, long nights of autumn I can sit before the blaze
 And watch a panorama born of all my yesterdays.
 I can leave the present burdens and that moment's bit of woe,
 And claim once more the gladness of the bygone long ago.
-_From a drawing by_ W. T. BENDA.]
 There are no absent faces in the grate fire's merry throng;
 No hands in death are folded, and no lips are stilled to song.
 All the friends who were are living--like the sparks that fly about;
@@ -672,7 +603,6 @@ We little guessed how much he did to smooth our pathway day by day,
 How much of joy he brought to us, how much of care he brushed away;
 But now that we must tread alone the thoroughfare of life, we find
 How many burdens we were spared by him who was so brave and kind.
-_From a painting by_ M. L. BOWER.]
 Death robs the living, not the dead--they sweetly sleep whose tasks
 are done;
 But we are weaker than before who still must live and labor on.
@@ -749,13 +679,11 @@ Yet wanting her stylishly garbed, and that's
 Unannounced strangers we bring to tea:
 "Just like a man!"
 Heedless of every propriety:
-"Just like a man!"]
 Grumbling at money she spends for spats
 And filmy dresses and gloves and hats,
 Yet wanting her stylishly garbed, and that's
 "Just like a man!"
 _"Just Like A Man"_
-_From a charcoal drawing by_ W. T. BENDA.]
 Wanting attention from year to year:
 "Just like a man!"
 Seemingly helpless when she's not near:
@@ -804,7 +732,6 @@ He talks of the things I want to know,
 Just like one of our gang, an' so,
 Whenever we're out, it seems that he
 Is more like a pal than a pa to me.
-_From a painting by_ M. L. BOWER.]
 Perhaps the victory shall not come to me,
 Perhaps I shall not reach the goal I seek,
 It may be at the last I shall be weak
@@ -847,7 +774,6 @@ We could stop our writin' law-books an' our regulatin' rules
 If a better sort of manhood was the product of our schools.
 For the things that we air needin' isn't writin' from a pen
 Or bigger guns to shoot with, but a bigger type of men.
-_From a painting by_ PRUETT CARTER.]
 "I reckon all these problems air jest ornery like the weeds.
 They grow in soil that oughta nourish only decent deeds,
 An' they waste our time an' fret us when, if we were thinkin' straight
@@ -938,7 +864,6 @@ I'd dice with danger--aye!--and glory in it;
 I'd make high stakes the purpose of my throw.
 I'd risk for much, and should I fail to win it,
 I would not even whimper at the blow.
-_From a drawing by_ W. T. BENDA.]
 If I had youth no chains of fear should bind me;
 I'd brave the heights which older men must shun.
 I'd leave the well-worn lanes of life behind me,
@@ -1011,7 +936,6 @@ And he was decent, but now he's gone."
 That life has little of joy in store,
 But there's always something you still can do,
 And there's never a man but can try once more.
-_From a drawing by_ W. T. BENDA.]
 "There are always two to the end of time--
 The fellow we are and the future man.
 The Lord never meant you should cease to climb,
@@ -1056,7 +980,6 @@ I only know I'd like to see them smile forever on life's way;
 I would not have them shed one tear or ever meet a troubled day.
 And I would be content with life and gladly face each dreary task,
 If I could always give to them the little treasures that they ask.
-_From a painting by_ F. C. YOHN.]
 Sometimes we pray to God above and ask for joys that are denied,
 And when He seems to scorn our plea, in bitterness we turn aside.
 And yet the Father of us all, Who sees and knows just what is best,
@@ -1117,7 +1040,6 @@ Rough roads he is always smoothin',
 An' his way is, oh, so soothin'
 That he takes away the sting
 When your heart is sorrowing.
-_From a painting by_ M. L. BOWER.]
 Children gather round about him
 Like they can't get on without him.
 An' the old depend upon him,
@@ -1182,7 +1104,6 @@ Your life and mine,
 The bare bread and the cake of it,
 End in this line:
 Life must be what we make of it.
-_From a charcoal drawing by_ W. T. BENDA.]
 This I would claim for my success--not fame nor gold,
 Nor the throng's changing cheers from day to day,
 Not always ease and fortune's glad display,
@@ -1242,7 +1163,6 @@ And as I am strong so her laughter will ring,
 And as I am true she will smile;
 It's the somebody else of the toiler or king
 That makes all the struggle worth while.
-_From a charcoal drawing by_ M. L. BOWER.]
 Somebody needs all the courage I own,
 And somebody's trust is in me;
 For never a man who can go it alone,
@@ -1281,7 +1201,6 @@ I wouldn't call it living to spend all my strength for fame,
 And forego the many pleasures which to-day are mine to claim.
 I wouldn't for the splendor of the world set out to roam,
 And forsake my laughing children and the peace I know at home.
-_From a painting by_ FRANK X. LEYENDECKER.]
 Oh, the thing that I call living isn't gold or fame at all!
 It's fellowship and sunshine, and it's roses by the wall.
 It's evenings glad with music and a hearth-fire that's ablaze,
@@ -1356,7 +1275,6 @@ Took up the gauntlet life had thrown,
 Charged full-front to the fray,
 Mastered their fear of self, and then,
 Learned that our great men are but men.
-_From a charcoal drawing by_ W. T. BENDA.]
 Oh, youth, go forth and do!
 You, too, to fame may rise;
 You can be strong and wise.
@@ -1408,4 +1326,4 @@ To be so frightened of your dad.
 I have no wealth of gold to give away,
 But I can pledge to worthy causes these:
 I'll give my strength, my days and hours of ease,
-My finest thought and co
+My finest thought and courag

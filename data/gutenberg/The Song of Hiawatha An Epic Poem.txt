@@ -1,7 +1,4 @@
-Produced by Juliet Sutherland, Leonard Johnson and the
-Online Distributed Proofreading Team at http://www.pgdp.net
 Vainly walked he through the forest,
-Sought for bird or beast and found none.]
 The Song of Hiawatha
 An Epic Poem
 By
@@ -10,29 +7,6 @@ Song of Hiawatha
 by
 Henry Wadsworth Longfellow
 Contents
-Introduction                                                 7
-The Peace-Pipe                                              13
-The Four Winds                                              21
-Hiawatha's Childhood                                        35
-Hiawatha and Mudge-Keewis                                   45
-Hiawatha's Fasting                                          59
-Hiawatha's Friends                                          72
-Hiawatha's Sailing                                          80
-Hiawatha's Fishing                                          87
-Hiawatha and the Pearl-Feather                              98
-Hiawatha's Wooing                                          111
-Hiawatha's Wedding Feast                                   124
-The Son of the Evening Star                                137
-Blessing the Cornfields                                    153
-Picture-Writing                                            164
-Hiawatha's Lamentation                                     172
-Pau-puk-Keewis                                             182
-The Hunting of Pau-puk-Keewis                              194
-The Death of Kwasind                                       210
-The Ghosts                                                 216
-The Famine                                                 227
-The White Man's Foot                                       235
-Hiawatha's Departure                                       245
 The Song of Hiawatha first appeared in 1855. In it Mr. Longfellow has
 woven together the beautiful traditions of the American Indians into one
 grand and delightful epic poem. The melodies of its rhythm and measure
@@ -64,62 +38,50 @@ Should you ask me, whence these stories?
 Whence these legends and traditions,
 With the odors of the forest,
 With the dew and damp of meadows,
-With the curling smoke of wigwams,                           5
 With the rushing of great rivers,
 With their frequent repetitions,
 And their wild reverberations,
 As of thunder in the mountains?
-I should answer, I should tell you,                       10
 "From the forests and the prairies,
 From the great lakes of the Northland,
 From the land of the Ojibways,
 From the land of the Dacotahs,
-From the mountains, moors, and fen-lands,                   15
 Where the heron, the Shuh-shuh-gah,
 Feeds among the reeds and rushes.
 I repeat them as I heard them
 From the lips of Nawadaha,
-The musician, the sweet singer."                            20
 Should you ask where Nawadaha
 Found these songs so wild and wayward,
 Found these legends and traditions,
 I should answer, I should tell you,
-"In the bird's-nests of the forest,                         25
 In the lodges of the beaver,
 In the hoof-prints of the bison,
 In the eyry of the eagle!
 "All the wild-fowl sang them to him,
-In the moorlands and the fen-lands,                         30
 In the melancholy marshes;
 Chetowaik, the plover, sang them,
 Mahn, the loon, the wild goose, Wawa,
 The blue heron, the Shuh-shuh-gah
-And the grouse, the Mushkodasa!"                            35
 If still further you should ask me,
 Saying, "Who was Nawadaha?
 Tell us of this Nawadaha,"
 I should answer your inquiries
-Straightway in such words as follow.                        40
 "In the Vale of Tawasentha,
 In the green and silent valley,
 By the pleasant water-courses,
 Dwelt the singer Nawadaha.
-Round about the Indian village                              45
 Spread the meadows and the cornfields,
 And beyond them stood the forest,
 Stood the groves of singing pine-trees,
 Green in Summer, white in Winter,
-Ever sighing, ever singing.                                 50
 "And the pleasant water-courses,
 You could trace them through the valley,
 By the rushing in the Spring-time,
 By the alders in the Summer,
-By the white fog in the Autumn,                             55
 By the black line in the Winter;
 And beside them dwelt the singer,
 In the vale of Tawasentha,
 In the green and silent valley.
-"There he sang of Hiawatha,                               60
 Sang the Song of Hiawatha,
 Sang his wondrous birth and being,
 How he prayed and how he fasted,
@@ -206,7 +168,6 @@ And erect upon the mountains,
 Gitche Manito, the mighty,
 Smoked the calumet, the Peace-Pipe,                         30
 As a signal to the nations.
-*       *       *       *       *
 And the smoke rose slowly, slowly,
 Through the tranquil air of morning,
 First a single line of darkness,
@@ -340,7 +301,6 @@ Vanished from before their faces,
 In the smoke that rolled around him,
 The Pukwana of the Peace-Pipe!
 "Break the red stone from this quarry,
-Mould and make it into Peace-Pipes."]
 "Honor be to Mudjekeewis!"
 Cried the warriors, cried the old men,
 When he came in triumph homeward
@@ -1044,7 +1004,6 @@ Tossed his gray hairs to the West-Wind,
 Bowed his hoary head in anguish,
 With a silent nod assented.
 "He was dressed in deer-skin leggings,
-Fringed with hedge-hog quills and ermine."]
 Then up started Hiawatha,
 And with threatening look and gesture                      165
 Laid his hand upon the black rock,
@@ -1540,7 +1499,6 @@ He the best of all musicians,
 He the sweetest of all singers;
 For his gentleness he loved him,                            70
 And the magic of his singing.
-*       *       *       *       *
 Dear, too, unto Hiawatha
 Was the very strong man, Kwasind,
 He the strongest of all mortals,
@@ -1580,7 +1538,6 @@ Such the strength was in his fingers.
 "Not a woodchuck could get through them;
 Not a squirrel clamber o'er them!
 And straightway his pipe he lighted,
-And sat down to smoke and ponder."]
 "Lazy Kwasind!" said his father,
 "In the hunt you never help me;
 Every bow you touch is broken,                             110
@@ -1654,7 +1611,6 @@ How the tribes of men might prosper.
 Thus the Birch Canoe was builded
 In the valley by the river,
 In the bosom of the forest;
-And the forest's life was in it.]
 Give me of your bark, O Birch-Tree!
 Of your yellow bark, O Birch-Tree!
 Growing by the rushing river,
@@ -1750,7 +1706,6 @@ Into his canoe he wrought them,
 Round its waist a shining girdle,
 Round its bows a gleaming necklace,
 On its breast two stars resplendent.                        95
-*       *       *       *       *
 Thus the Birch Canoe was builded
 In the valley, by the river,
 In the bosom of the forest;
@@ -1764,7 +1719,6 @@ Like a yellow leaf in Autumn,                              105
 Like a yellow water-lily.
 "And thus sailed my Hiawatha,
 Down the rushing Taquamenaw,
-Sailed through all its bends and windings."]
 Paddles none had Hiawatha,
 Paddles none he had or needed,
 For his thoughts as paddles served him,
@@ -1932,7 +1886,6 @@ Throbbing in that utter darkness.                          130
 "That the birch canoe stood endwise,
 Like a birch log in the water,
 With the squirrel Adjidaumo,
-Perched and frisking on the summit."]
 And he smote it in his anger,
 With his fist, the heart of Nahma,
 Felt the mighty King of Fishes
@@ -2153,7 +2106,6 @@ In their weary night-encampments.
 "Seized his arrows jasper-headed,
 Shot them fast among the serpents;
 Every twanging of the bow-string
-Was a war-cry and a death-cry."]
 All the air was white with moonlight,
 All the water black with shadow,
 And around him the Suggema,
@@ -2396,7 +2348,6 @@ Would I wed the fair Dacotah,
 That our tribes might be united,
 That old feuds might be forgotten,
 And old wounds be healed forever!"                          55
-*       *       *       *       *
 Thus departed Hiawatha
 To the land of the Dacotahs,
 To the land of handsome women;
@@ -2426,7 +2377,6 @@ And sped forward without pausing.
 "Sat his daughter Laughing Water,
 Plaiting mats of flags and rushes;
 Of the past the old man's thoughts were
-And the maiden's of the future."]
 At the doorway of his wigwam
 Sat the ancient Arrow-maker,
 In the land of the Dacotahs,
@@ -2568,7 +2518,6 @@ Wanders piping through the village,
 Beckons to the fairest maiden,                             220
 And she follows where he leads her,
 Leaving all things for the stranger!"
-*       *       *       *       *
 Pleasant was the journey homeward,
 Through interminable forests,
 Over meadow, over mountain,                                225
@@ -2580,7 +2529,6 @@ To the steps of Laughing Water.                            230
 Who stands on that cliff, like a figure of stone,
 Unmoving and tall in the light of the sky,
 Where the spray of the cataract sparkles on high
-All lonely and sternly, save Mogg Megone?]
 Over wide and rushing rivers
 In his arms he bore the maiden;
 Light he thought her as a feather,
@@ -2634,7 +2582,6 @@ Minnehaha, Laughing Water,                                 280
 Handsomest of all the women
 In the land of the Dacotahs,
 In the land of handsome women.
-Brotherly Love._]
 You shall hear how Pau-Puk-Keewis,
 How the handsome Yenadizze
 Danced at Hiawatha's wedding;
@@ -2838,7 +2785,6 @@ Ever caught so many fishes,                                200
 Ever killed so many reindeer,
 Ever trapped so many beaver!
 "And the wedding guests assembled,
-Clad in all their richest raiment."]
 None could run so fast as he could,
 None could dive so deep as he could,
 None could swim so far as he could;                        205
@@ -3211,9 +3157,7 @@ And they whispered to each other:
 "Does he mean himself, I wonder?
 And are we the aunts and uncles?"
 The moon was up. One general smile
-Was resting on the Indian isle-- * *
 Rose, mellow'd through the silver gleam,
-Soft as the landscape of a dream.]
 Then again sang Chibiabos,
 Sang a song of love and longing,                           335
 In those accents sweet and tender,
@@ -3438,7 +3382,6 @@ And the maize-ears full and shining
 Gleamed from bursting sheaths of verdure.                  180
 "Called the young men and the maidens,
 To the harvest of the cornfields,
-To the husking of the maize ear."]
 Then Nokomis, the old woman,
 Spake, and said to Minnehaha:
 "'T is the Moon when leaves are falling;
@@ -3678,7 +3621,6 @@ On the smooth bark of the birch-tree,
 On the white skin of the reindeer,
 On the grave-posts of the village.
 "Danced the medicine-dance around him;
-And upstarting wild and haggard."]
 In those days the Evil Spirits,
 All the Manitos of mischief,
 Fearing Hiawatha's wisdom,
@@ -3788,7 +3730,6 @@ Onward to the Sacred Wigwam.
 "Then the medicine-men, the Medas,
 The magicians, the Wabenos,
 And the Jossakeeds, the prophets,
-Came to visit Hiawatha."]
 There a magic drink they gave him,
 Made of Nahma-wusk, the spearmint,
 And Wabeno-wusk, the yarrow,
@@ -3899,7 +3840,6 @@ And the cure of all diseases.
 Thus was first made known to mortals
 All the mystery of Medamin,                                215
 All the sacred art of healing.
-Berries._]
 You shall hear how Pau-Puk-Keewis,
 He, the handsome Yenadizze,
 Whom the people called the Storm Fool,
@@ -4013,7 +3953,6 @@ I can even give you lessons                                110
 In your game of Bowl and Counters!"
 "Then again he shook the pieces,
 Shook and jostled them together,
-Threw them on the ground before him."]
 So they sat and played together,
 All the old men and the young men,
 Played for dresses, weapons, wampum,
@@ -4229,7 +4168,6 @@ And he spake unto the beaver,
 With a smile he spake in this wise:
 "From the bottom rose a beaver,
 Looked with two great eyes of wonder,
-Eyes that seemed to ask a question."]
 "O my friend Ahmeek, the beaver,
 Cool and pleasant is the water;                             65
 Let me dive into the water,
@@ -4645,7 +4583,6 @@ Drifted empty down the river,                              110
 Bottom upward swerved and drifted:
 Nothing more was seen of Kwasind.
 "There they stood, all armed and waiting,
-Hurled the pine-cones down upon him."]
 But the memory of the Strong Man
 Lingered long among the people,
 And whenever through the forest                            115
@@ -5194,7 +5131,6 @@ Went forth from his gloomy doorway,
 Stood and gazed into the heaven,
 Gazed upon the earth and waters.                           135
 "Came a great canoe with pinions,
-A canoe with wings came flying,"]
 From his wanderings far to eastward,
 From the regions of the morning,
 From the shining land of Wabun,
@@ -5243,8 +5179,6 @@ Like the crows upon the hemlocks.
 Do not think that we believe them!"
 "And the land was full of people
 Restless, struggling, toiling, striving
-* * Over all the lakes and rivers.
-Rushed their great canoes of thunder.]
 Only Hiawatha laughed not,
 But he gravely spake and answered
 To their jeering and their jesting:
@@ -5404,11 +5338,8 @@ Water brought in birchen dippers,
 And the calumet, the peace-pipe,
 Filled and lighted for their smoking.
 "_Bring a wife with nimble fingers,_
-_Heart and hand that move together._"]
 Then the joyous Hiawatha
 Cried aloud and spoke on this wise:
-* * You shall enter all our wigwams
-For the heart's right hand we give you"]
 All the old men of the village,                          110
 All the warriors of the nation,
 All the Jossakeeds, the prophets,
@@ -5453,7 +5384,6 @@ Told the story of the strangers                            150
 Whom the Master of Life had sent them
 From the shining land of Wabun.
 "Then the Black-Robe chief, the prophet,
-Told his message to the people."]
 Heavy with the heat and silence
 Grew the afternoon of Summer,
 With a drowsy sound the forest                             155
@@ -5588,7 +5518,6 @@ an honest citizen of Newport, who has passed his days within sight
 of the Round Tower, will be ready to exclaim with Sancho; "God bless
 me! did I not warn you to have a care of what you were doing, for
 that it was nothing but a wind-mill; and nobody could mistake it,
-but one who had the like in his head."]
 "Speak! speak! thou fearful guest!
 Who, with thy hollow breast
 Still in rude armor drest,
@@ -5747,7 +5676,6 @@ Up to its native stars
 My soul ascended!
 There from the flowing bowl
 Deep drinks the warrior's soul,
-_Skoal!_ to the Northland! _Skoal!_"[A]
 --Thus the tale ended.
 A: In Scandinavia this is the customary salutation when drinking a
 health. I have slightly changed the orthography of the word, in
@@ -5843,7 +5771,6 @@ On the reef of Norman's Woe!
 of the Luck of Edenhall," still exist in England. The goblet is in
 the possession of Sir Christopher Musgrave, Bart., of Eden Hall,
 Cumberland; and is not so entirely shattered, as the ballad leaves
-it.]
 Of Edenhall, the youthful Lord
 Bids sound the festal trumpet's call:
 He rises at the banquet board,
@@ -5903,7 +5830,6 @@ and Rahbek's _Danske Viser_ of the Middle Ages. It seems to
 refer to the first preaching of Christianity in the North, and to
 the institution of Knight-Errantry. The three maidens I suppose to
 be Faith, Hope, and Charity. The irregularities of the original have
-been carefully preserved in the translation.]
 Sir Oluf he rideth over the plain,
 Full seven miles broad and seven miles wide,
 But never, ah never can meet with the man
@@ -5984,7 +5910,6 @@ Therefore each nook and corner was swept and cleaned, and the dust
 was
 Blown from the walls and ceiling, and from the oil-painted benches.
 There stood the church like a garden; the Feast of the Leafy
-Pavilions[A]
 Saw we in living presentment. From noble arms on the church wall
 Grew forth a cluster of leaves, and the preacher's pulpit of oakwood
 Budded once more anew, as aforetime the rod before Aaron.
@@ -5992,7 +5917,6 @@ Wreathed thereon was the Bible with leaves, and the dove, washed with
 silver,
 Under its conopy fastened, a necklace had on of wind-flowers.
 But in front of the choir, round the altarpiece painted by
-Horberg,[B]
 Crept a garland gigantic; and bright-curling tresses of angels
 Peeped, like the sun from a cloud, out of the shadowy leaf-work.
 Likewise the lustre of brass, new-polished, blinked from the ceiling,
@@ -6004,7 +5928,6 @@ Hover like voices from God, aloft like invisible spirits.
 Like as Elias in heaven, when he cast off from him his mantle,
 Even so cast off the soul its garments of earth; and with one voice
 Chimed in the congregation, and sang an anthem immortal
-Of the sublime Wallin,[C] of David's harp in the North-land
 Tuned to the choral of Luther; the song on its powerful pinions
 Took every living soul, and lifted it gently to heaven.
 And every face did shine like the Holy One's face upon Tabor.

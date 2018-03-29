@@ -1,15 +1,10 @@
-Produced by Chris Curnow, Joseph Cooper, David Garcia and
-the Online Distributed Proofreading Team at
-http://www.pgdp.net
 The Augustan Reprint Society
 The Art of Architecture
 In Imitation of Horace's ART OF POETRY
 (Anonymous)
 (1742)
-*       *       *       *       *
 _Introduction by_
 William A. Gibson
-*       *       *       *       *
 University of California, Los Angeles
 William E. Conway, _William Andrews Clark Memorial Library_
 George Robert Guffey, _University of California, Los Angeles_
@@ -34,13 +29,11 @@ John Gwynn, generally accepted as the author of _The Art of
 Architecture_ (1742), is best known to students of English literature
 as one of the founders of the Royal Academy and as a friend of Samuel
 Johnson, who undertook in 1759 to win the Blackfriars Bridge commission
-for Gwynn with a series of three letters in the _Daily Gazeteer_[1].
 To  architectural historians Gwynn is best known as the architect whose
 proposals for regularizing the street plans of London and Westminster
 (in _London and Westminster Improved_, 1766) were prophetic both of the
 plan which eventually emerged from the land speculation and building
 boom of the eighteenth and nineteenth centuries and of the prominence
-subsequently given to city-planning.[2] But like Dr. Johnson, Gwynn
 looked as much to the past as he anticipated the future. This is almost
 inevitable since he too spans the years which saw the last expressions
 of humanist principles of art and the first struggles to find new bases
@@ -53,7 +46,6 @@ Their careers exhibit two more instructive parallels. Both began
 as amateurs, possessed of no specific training, and ended as
 self-supporting "professionals," able to exercise their skills on
 demand and fully conscious of the qualifications needed for membership
-within their professions.[3] Second, both began with the hope of
 "fixing" the rules of their arts, but ended by disavowing the intention
 or by implicitly contradicting it. Johnson records his disillusionment
 with one such attempt in the "Preface" to his _Dictionary_ (1755).
@@ -74,7 +66,6 @@ Take, for example, one of his lists of architects worthy of study:
 "With _M----s, F----ft, G----s, L----i, W----e_,/ Let ADMIRALTY,
 or CUSTOM-HOUSE compare" (p. 18). Four of these architects published
 treatises or translations of treatises which Gwynn certainly knew:
-Robert Morris, _Lectures on Architecture_, 1734-36[4]; James Gibbs,
 _Rules for Drawing the Several Parts of Architecture_, 1733; James
 Leoni, translations of Palladio, 1715-16, and of Alberti, 1726; Isaac
 Ware, translation of Palladio, 1737. The other architect referred to is
@@ -107,13 +98,11 @@ his other "villain" architects, Gwynn reveals his political preferences
 and some acquaintance with current scandals. At least two of them were
 aligned with the court party. Thomas Ripley, a one-time carpenter who
 was one of Pope's targets of satire, erected Houghton for Robert
-Walpole in accordance with designs by Campbell (pp. 15, 17).[5] Edward
 Oakley dedicated his _Magazine of Architecture_, _Perspective and
 Sculpture_ (1730) to Walpole, but received no posts such as those which
 Ripley, Hawksmoor, Vanbrugh, or John James enjoyed under the Walpole
 administration (p. 28). Two more architects whom he mentions, besides
 Gibbs, Vanbrugh, and Ripley, were employed on the notorious projects of
-the Duke of Chandos--John James and Andrew Shepherd (pp. 10, 23).[6]
 Gwynn's taste and principles were those of an educated elite to which
 he did not belong--conventional in their moral and aesthetic
 implications, and conservative in their political ones.
@@ -137,7 +126,6 @@ imitate his strive" (p. 26). Kent edited the drawings of the English
 Palladio for the Earl of Burlington (_The Designs of Inigo Jones, With
 Some Additional Designs_, 1727); but at Esher Place, Surrey (ca. 1730),
 and again in Merlin's Cave, erected at Richmond Park for Queen Caroline
-(1735), he "anticipate[d] by twenty years the rococo Gothic of the
 years after _The Art of Architecture_ in John Vardy's _Some Designs of
 Mr. Inigo Jones and Mr. William Kent_ (1744). Clearly Vitruvius's rule
 of _decor_ had not restrained even the publicists of Palladianism.
@@ -151,8 +139,6 @@ aesthetic relativity by demonstrating the disparity between ancient
 practice and Vitruvius's rules. Claude Perrault attempted to resolve
 these disparities by a system of mathematical averages, but the result
 of his empirical method is only to substitute one source of relativity
-for another.[8] By the 1740's what Rudolf Wittkower has called the
-"break-away from the laws of harmonic proportion"[9] was well under
 way, and it represented but a part of the collapse of the several
 systems of arithmetic and geometric proportion which had dominated
 humanist theory. Developments in the history of thought made this
@@ -194,7 +180,6 @@ on _Nature's_ Laws" (p. 30). Perhaps most important, however, is the
 authority of Horace himself, who provides the model for the poem.
 Although neoclassical critics generally accepted the reality of
 correspondences between architectural and literary criticism, Gwynn did
-not find the _Ars Poetica_ an entirely manageable model.[10] Horace's
 figures of the mad painter and the mad poet which frame the poem at
 either end serve Gwynn well, for his imitations of them as the mad
 painter and the mad architect emphasize the personal, social, and
@@ -287,7 +272,6 @@ But Use has rais'd the _Greek_ and _Roman_ Rules,
 And banish'd GOTHICK Practice from the Schools.
 Use is the Judge, the Law, the Rule of Things,
 Whence ARTS arose, and whence the SCIENCE springs.
-(p. 11)[11]
 Horace and Gwynn both think of "use" operating as a kind of historical
 necessity causing the resurrection of a rule or a form. Gwynn adds to
 this the concept, drawn from Vitruvius and his commentators, that the
@@ -320,7 +304,6 @@ developed. One brief passage beginning "If to adapt your Fabrick, you
 would choose,/ To suit the _Builder's_ Genius, or his Use" (pp. 15-16)
 effectively summarizes the primary dictates of _decor_. The architect
 has to choose forms and ornaments having attributes in common with the
-social station and character traits of the builder of a residence,[12]
 with the deity to whom a temple is dedicated, with a building's
 function, or with the landscape in which it is placed. Thus, for
 example, the heavy, plain Tuscan order is appropriate for "A _little_
@@ -353,7 +336,6 @@ These lines may be construed as the architect's equivalent of Horace's
 advice for winning applause. But in fact the entire verse paragraph
 which these lines introduce is simply a paraphrase of Vitruvius (I,
 iii, 2. Cf. Wotton's remark, "_Wel-building_ hath three Conditions,
-_Commodity_, _Firmnesse_, and _Delight_").[13] The leap which follows
 the introduction of these three principles has no precedent in Horace,
 but it does in Vitruvius, whose _De Architectura_ is notorious for its
 eccentric organization and abrupt transitions. Immediately following
@@ -374,7 +356,6 @@ psychology drawn largely from the Earl of Shaftesbury (pp. 19-22).
 In his earlier _Essay on Harmony_. _As it relates chiefly to Situation
 in Building_ he quotes Shaftesbury on the title page, acknowledges
 his debt to Thomson, and quotes long passages from _The Seasons_ to
-illustrate various rural "situations."[14] In _The Art of Architecture_
 he follows Morris's example in writing his own verse in language
 imitative of Thomson's (except for one direct quotation, "From the
 _moist Meadow_; to the _brown-brow'd Hill_"). The verbal precision of
@@ -386,7 +367,6 @@ a _mode_ appropriate to a site. The perfect fitting of a building
 to its site, as of the parts to a whole, will result in what Gwynn
 calls "Ideal Harmony," for it "ariseth from such Numbers, Parts, or
 Proportions, which may be resolved in the Mind, and ranged together
-in Order, by Contemplation."[15]
 For Gwynn such harmony still has quite clear religious and moral
 implications, although he does not, like Morris, attribute to it a
 specifically religious function. Yet since the rules are supposedly
@@ -396,7 +376,6 @@ This accounts for the indignation Gwynn reveals in attacking mad
 architects and patrons at the end of the poem, even if it also reveals
 his obtuseness in failing to perceive the causes of his outrage.
 But, then, Gwynn was no Alexander Pope, either as a poet or as a
-thinker.[16]
 The Ohio State University
 relations with Gwynn in their biographies of Johnson. The fullest
 accounts of Gwynn's life and professional activities are those in
@@ -434,7 +413,6 @@ is reproduced from a copy in the British Museum.
 Art of Architecture,
 In Imitation of HORACE'S Art of POETRY.
 Humbly Inscribed to the R^{t}. Hon^{ble} the Earl of ----
-*       *       *       *       *
 _Ingenuas didicisse fideliter artes,
 Emollit mores, nec finit esse feros._
 Printed for R. DODSLEY, at TULLY's Head in _Pall-Mall_; and
@@ -1032,7 +1010,6 @@ No one escapes them: from Lord O--R--D: down,
 To _B----s_, and every errant Fool in Town:
 They _build_, or teach; are leading, or are led;
 And never cease, till they're in Jail, or dead.
-*       *       *       *       *
 The Augustan Reprint Society
 The Augustan Reprint Society
 (1719), and Aaron Hill, _Preface to The Creation_ (1720).
@@ -1062,7 +1039,6 @@ Library; George Robert Guffey, University of California, Los Angeles;
 Maximillian E. Novak, University of California, Los Angeles
 _Corresponding Secretary_: Mrs. Edna C. Davis, William Andrews Clark
 Memorial Library
-*       *       *       *       *
 The Society's purpose is to publish rare Restoration and
 eighteenth-century works (usually as facsimile reproductions).
 All income of the Society is devoted to defraying costs of
@@ -1081,7 +1057,6 @@ the Corresponding Secretary.
 Publications of the first fifteen years of the Society (numbers 1-90)
 are available in paperbound units of six issues at $16.00 per unit,
 from the Kraus Reprint Company, 16 East 46th Street, New York, N.Y.
-*       *       *       *       *
 Make check or money order payable to THE REGENTS OF THE UNIVERSITY
 (1762). Introduction by Wallace Jackson.
 to pot or a compleat key to the Dissertation on Dumpling_ (1727).
@@ -1095,23 +1070,18 @@ Gerard Langbaine, _An Account of the English Dramatick Poets_ (1691),
 Introduction by John Loftis. 2 Volumes. Approximately 600 pages. Price
 to members of the Society, $7.00 for the first copy (both volumes),
 and $8.50 for additional copies. Price to non-members, $10.00.
-*       *       *       *       *
 Already published in this series:
 an Introduction by Earl Miner. 228 pages.
 Dearing. 366 pages.
-Empress of Morocco_ [1673] with five plates; _Notes and Observations on
-the Empress of Morocco_ [1674] by John Dryden, John Crowne and Thomas
 Snadwell; _Notes and Observations on the Empress of Morocco Revised_
 by Thomas Duffett), with an Introduction by Maximillian E. Novak. 348
 pages.
-_Mock-Tempest_ [1675]; and the "Garrick" _Tempest_ [1756]), with an
 Introduction by George Robert Guffey. 332 pages.
 Price to members of the Society, $3.50 for the first copy of each
 title, and $4.25 for additional copies. Price to non-members, $5.00.
 Standing orders for this continuing series of Special Publications will
 be accepted. British and European orders should be addressed to B. H.
 Blackwell, Broad Street, Oxford, England.
-*       *       *       *       *
 =Transcriber's Notes:= Spelling is retained as in the original.
 _Contact information and pricing for the Augustan Reprint Society is
 presented solely as content original to the physical volume from which
