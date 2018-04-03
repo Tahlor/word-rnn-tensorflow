@@ -11,28 +11,19 @@ from utils import TextLoader
 from model import Model
 
 import sample
+import subprocess
 
 # Defaults
-# python train.py --data_dir .\data --rnn_size 256 --num_layers 2 --model lstm --batch_size 50 --seq_length 25 --num_epochs 50
-
-BONUS = True
+# python train.py --data_dir ./data --rnn_size 256 --num_layers 2 --model lstm --batch_size 50 --seq_length 25 --num_epochs 50
 
 # "D:\PyCharm Projects\word-rnn-tensorflow\data\poems_large.txt"
-def main(data_dir=r".\data", rnn_size=256, num_layers=2, model= "lstm", batch_size = 50, seq_length = 200, num_epochs=10, save_dir = "save", bonus = False):
-
-    if not os.path.exists(save_dir):
-        os.mkdir(save_dir)
-    else:
-        n = 1
-        while os.path.exists(save_dir+str(n)):
-            n += 1
-        new_save_dir = save_dir+str(n)
-        os.mkdir(new_save_dir)
-        save_dir = new_save_dir
+def main(data_dir=r".\data\original", rnn_size=256, num_layers=2, model= "lstm", batch_size = 50, seq_length = 200, num_epochs=10, save_dir = "save", bonus = False, sample = True):
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--bonus', type=str, default=bonus,
+    parser.add_argument('--bonus', type=str2bool    , default=bonus,
                         help='include extra input features')
+    parser.add_argument('--sample', type=str2bool    , default=sample,
+                        help='sample periodically')
     parser.add_argument('--data_dir', type=str, default=data_dir,
                        help='data directory containing input.txt')
     parser.add_argument('--input_encoding', type=str, default=None,
@@ -61,8 +52,10 @@ def main(data_dir=r".\data", rnn_size=256, num_layers=2, model= "lstm", batch_si
                        help='learning rate')
     parser.add_argument('--decay_rate', type=float, default=0.97,
                        help='decay rate for rmsprop')
-    parser.add_argument('--gpu_mem', type=float, default=0.666,
+    parser.add_argument('--gpu_mem', type=float, default=.8,
                        help='%% of gpu memory to be allocated to this process. Default is 66.6%%')
+    parser.add_argument('--end_word_training', type=str2bool, default=False,
+                       help='train network to spit out last word')
     parser.add_argument('--init_from', type=str, default=None,
                        help="""continue training from saved model at this path. Path must contain files saved by previous training process:
                             'config.pkl'        : configuration;
@@ -73,9 +66,36 @@ def main(data_dir=r".\data", rnn_size=256, num_layers=2, model= "lstm", batch_si
                         """)
     args = parser.parse_args()
 
+    ##global save_dir
+    #save_dir=("./save/BONUS" if BONUS else "save")
+    default_save = save_dir
+    save_dir = args.save_dir
+
+    # Only number when using default save direectory
+    if not os.path.exists(save_dir):
+        os.mkdir(save_dir)
+    elif default_save == save_dir:
+        n = 1
+        while os.path.exists(save_dir+str(n)):
+            n += 1
+        new_save_dir = save_dir+str(n)
+        os.mkdir(new_save_dir)
+        save_dir = new_save_dir
+
+    args.save_dir = save_dir
+    
     train(args)
 
+def str2bool(v):
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+    
 def train(args):
+    tf.reset_default_graph()
     data_loader = TextLoader(args.data_dir, args.batch_size, args.seq_length, args.input_encoding)
     args.vocab_size = data_loader.vocab_size
 
@@ -114,7 +134,13 @@ def train(args):
     gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=args.gpu_mem)
 
     with tf.Session(config=tf.ConfigProto(gpu_options=gpu_options)) as sess:
+        model_dict = {"model":model, "words":data_loader.words, "vocab":data_loader.vocab, "sess":sess} 
         train_writer.add_graph(sess.graph)
+
+        # Write graph quick
+        writer = tf.summary.FileWriter(os.path.join(args.save_dir, "graph"), sess.graph)
+        writer.close()
+
         tf.global_variables_initializer().run()
         saver = tf.train.Saver(tf.global_variables())
         # restore model
@@ -141,26 +167,38 @@ def train(args):
 
                 # Concatenate Inputs
                 #x = tf.concat([x[:,:,None],last_words[:,:,None]],2)
-                feed = {model.input_data: x, model.targets: y, model.bonus_features:last_words, model.initial_state: state,
-                        model.batch_time: speed}
+                if args.end_word_training:
+                    feed = {model.input_data: x, model.targets: last_words, model.bonus_features: last_words,
+                            model.initial_state: state,
+                            model.batch_time: speed}
+                else:
+                    feed = {model.input_data: x, model.targets: y, model.bonus_features:last_words, model.initial_state: state,
+                            model.batch_time: speed}
                 summary, train_loss, state, _, _ = sess.run([merged, model.cost, model.final_state,
                                                              model.train_op, model.inc_batch_pointer_op], feed)
                 train_writer.add_summary(summary, e * data_loader.num_batches + b)
                 speed = time.time() - start
-                #if (e * data_loader.num_batches + b) % args.batch_size == 0:
-                # Print every epoch
-                if True:
+                if (e * data_loader.num_batches + b) % args.batch_size == 0:
                     print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
                         .format(e * data_loader.num_batches + b,
                                 args.num_epochs * data_loader.num_batches,
                                 e, train_loss, speed))
+                #if (e * data_loader.num_batches + b) % args.save_every == 0 \
+                #if b % 1000 in [1, 100] \
                 if (e * data_loader.num_batches + b) % args.save_every == 0 \
-                        or (e==args.num_epochs-1 and b == data_loader.num_batches-1): # save for the last result
+                    or (e==args.num_epochs-1 and b == data_loader.num_batches-1): # save for the last result
                     checkpoint_path = os.path.join(args.save_dir, 'model.ckpt')
                     saver.save(sess, checkpoint_path, global_step = e * data_loader.num_batches + b)
                     print("model saved to {}".format(checkpoint_path))
-                #sample.main()
+                                    
+                    #sample.main(save_dir = args.save_dir, output_path = "sample.txt", internal_call = True, model = model_dict)
+                    python_path = "python"
+                    #python_path = r"/usr/bin/python2.6/python"
+                    if args.sample:
+                        subprocess.call("python sample.py -e turtle -o sample.txt -s {}".format(args.save_dir).split(), shell=False)
+                    
+                    
         train_writer.close()
 
 if __name__ == '__main__':
-    main(bonus = BONUS, save_dir=("./save/BONUS" if BONUS else "save"))
+    main(bonus = True, sample = False)

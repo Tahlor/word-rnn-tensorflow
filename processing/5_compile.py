@@ -1,22 +1,29 @@
 import os
 import re
 import nltk
+nltk.download('perluniprops')
+
 from nltk.tokenize.moses import MosesDetokenizer
 from collections import Counter
 import heapq
 import operator
 from operator import *
 import pickle
-#nltk.download('perluniprops')
-    
-DIR = r"D:\PyCharm Projects\word-rnn-tensorflow\data\gutenberg"
+
+DIR = r"../data/gutenberg"
 TEST = False
+
+# SUFFIX for files too big for github
+# Files ending with LARGE are ignored
+
 if TEST:
-    OUTPUT = r"D:\PyCharm Projects\word-rnn-tensorflow\data\test.txt"
+    OUTPUT = r"../data/test.txt"
     VOCAB = 300
+    SUFFIX = ""    
 else:
-    OUTPUT = r"D:\PyCharm Projects\word-rnn-tensorflow\data\gutenberg.txt"
+    OUTPUT = r"../data/gutenberg.txt"
     VOCAB = 100000
+    SUFFIX = "LARGE"    
 
 def create_corpus(DIR, recursive = False):
     for root, sub, files in os.walk(DIR):
@@ -101,24 +108,24 @@ def remove_lines(text, char = "@@"):
 # Read in corpus
 if False:
     text = create_corpus(DIR)
-    write_out(text, OUTPUT)
-    pickle.dump(text, open(OUTPUT+".pickle", "wb"))
+    write_out(text, OUTPUT + SUFFIX)
+    pickle.dump(text, open(OUTPUT+".pickle" + SUFFIX, "wb"))
 
 # Prune vocab for most common words
 if TEST:
-    text = read_in(OUTPUT)
+    text = read_in(OUTPUT + SUFFIX)
 else:
     print("Loading pickle...")
-    text = pickle.load(open(OUTPUT+".pickle", "rb"))
+    text = pickle.load(open(OUTPUT+".pickle" + SUFFIX, "rb"))
 
 
 # Should entire lines with uncommon words be deleted??
 print("Pruning text...")
 text = vocab_prune(text, VOCAB)
 text = remove_lines(text)
-out = OUTPUT.replace(".txt", "_restricted.txt")
+out = OUTPUT.replace(".txt", "_restricted.txt" + SUFFIX)
 
 # Output vocabulary restricted version
 print("Writing text...")
-pickle.dump(text, open(out+".pickle", "wb"))
+pickle.dump(text, open(out+".pickle"+ SUFFIX, "wb"))
 write_out(text, out)

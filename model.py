@@ -8,6 +8,9 @@ from beam import BeamSearch
 
 class Model():
     def __init__(self, args, infer=False):
+
+        self.return_dict = {}
+
         input_dim = 2
 
         self.args = args
@@ -56,7 +59,7 @@ class Model():
                 tf.summary.scalar('min', tf.reduce_min(var))
                 #tf.summary.histogram('histogram', var)
 
-        with tf.variable_scope('rnnlm'):
+        with tf.variable_scope('rnnlm', reuse=None):
             softmax_w = tf.get_variable("softmax_w", [args.rnn_size, args.vocab_size])
             variable_summaries(softmax_w)
             softmax_b = tf.get_variable("softmax_b", [args.vocab_size])
@@ -66,6 +69,7 @@ class Model():
                 # Create new variable named 'embedding' to connect the character input to the base layer
                 # of the RNN. Its role is the conceptual inverse of softmax_w.
                 # It contains the trainable weights from the one-hot input vector to the lowest layer of RNN.
+                mult = 2 if BONUS else 1
                 embedding = tf.get_variable("embedding", [args.vocab_size, args.rnn_size])
 
                 # Inputs is: BATCHES, SEQ in BATCH, WORdS in SEQ
@@ -87,16 +91,19 @@ class Model():
                     #print(inputs[0].shape)
                     #print(bonus_features[0].shape)
                     last_word_size = int(args.rnn_size/2)
-                    last_word_size = 128
+                    #last_word_size = 128
                     for n in range(0,len(inputs)):
-                        o.append(tf.concat([inputs[n][:, :, :args.rnn_size-last_word_size], bonus_features[n][:, :, :last_word_size]], 2))
+                        #o.append(tf.concat([inputs[n][:, :, :args.rnn_size*mult-last_word_size], bonus_features[n][:, :, :last_word_size]], 2))
+                        o.append(tf.concat([inputs[n], bonus_features[n]], 2))
                         #o = bonus_features
+                    #seq length, (batch size x 1 x 2*rnn)
                     inputs = o
 
                 # Iterate through these resulting tensors and eliminate that degenerate second dimension of 1,
                 # i.e. squeeze each from batch_size x 1 x rnn_size down to batch_size x rnn_size.
                 # Thus we now have a list of seq_length tensors, each with dimension batch_size x rnn_size.
                 inputs = [tf.squeeze(input_, [1]) for input_ in inputs] # make it into a list, squeeze removes the 1 dimensional SEQ-in-Batch;
+            #self.return_dict["INPUT SHAPE"] = inputs.shape
 
 
         def loop(prev, _):
@@ -130,8 +137,11 @@ class Model():
             print("End word: " + end_word)
             #end_word = "monarchise"
             idx = vocab[end_word]
-            end_tensor = np.asarray([[idx]])
-
+            #end_tensor = np.asarray([[idx]])
+            end_tensor = np.zeros((1, 1))                    
+            end_tensor[0, 0] = vocab.get(end_word,0)
+            
+            
         def weighted_pick(weights):
             t = np.cumsum(weights)
             s = np.sum(weights)
@@ -144,6 +154,7 @@ class Model():
             """
 
             x = np.zeros((1, 1))
+            #x = np.zeros((512, 50))
             x[0, 0] = sample[-1]
 
             # Keep feeding one rhyming word UNTIL newline space is sampled, then feed next

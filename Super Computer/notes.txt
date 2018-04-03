@@ -1,0 +1,146 @@
+#scancel -u tarch --state=running
+
+salloc --mem 16000M --time 1:00:00 --gres=gpu:1
+cd /fslhome/tarch/compute/673/word-rnn-tensorflow
+
+module purge
+module load defaultenv
+module load cuda/8.0
+module load cudnn/5.1_cuda-8.0
+module load python/2/7
+
+module purge
+module load python/2/7
+
+
+module load python/3/6
+module load anaconda/3/4.3.1
+
+# For scikit etc.:
+module load anaconda/3/4.3.1
+
+
+pip install --user tensorflow
+pip install --user package
+pip install --user gensim -U
+
+pip3 install --user package
+
+salloc --mem 16000M --time 2:00:00 --gres=gpu:4
+
+
+
+# Main training
+python3 train.py --data_dir ./data --rnn_size 256 --num_layers 2 --model lstm --batch_size 50 --seq_length 50 --num_epochs 5000
+
+
+python train.py --data_dir ./data/large --rnn_size 256 --num_layers 2 --model lstm --batch_size 512 --seq_length 50 --num_epochs 5000 --init_from "./save/NOBONUS"
+
+python train.py --data_dir ./data/original --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 30 --num_epochs 5000 --sample true --bonus true --save_dir "./save/THEBONUS"
+
+
+python train.py --data_dir ./data/original --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 30 --num_epochs 5000 --sample true --bonus true --save_dir "./save/THEBONUSX" --init_from "./save/THEBONUSX" --end_word_training True
+
+
+
+
+
+
+python train.py --data_dir ./data/original --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 30 --num_epochs 5000 --sample true --bonus false --save_dir "./save/NOBONUS" --init_from "./save/NOBONUS"
+
+
+# THEBONUS
+python sample.py -e turtle -o sample.txt -s ./save/THEBONUSX5 --pick 1
+
+cd /fslhome/tarch/compute/673/word-rnn-tensorflow
+python ./sample.py -e turtle -o sample.txt -s ./save/THEBONUS --pick 1 -n 200
+
+
+python ./sample.py -e turtle -o sample.txt -s ./save/THEBONUS --pick 1 -n 200
+
+
+--init_from "./save/NOBONUS"
+
+sbatch ./train.sh
+
+# NO BONUS
+python sample.py -e turtle -o sample.txt -s ./save/NOBONUSX1 --pick 1
+
+
+# Process
+python3 ./processing/5_compile.py
+
+
+# RESTORE
+python train.py --data_dir ./data/original --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 30 --num_epochs 5000 --sample true --bonus true --save_dir "./save/THEBONUS" --init_from "./save/THEBONUS"
+
+
+# RESET
+cd /fslhome/tarch/compute/673/wordrnn
+git clone https://github.com/Tahlor/wordrnn
+cp /fslhome/tarch/compute/673/word-rnn-tensorflow/data /fslhome/tarch/compute/673/wordrnn/data
+
+## NO BONUS
+python train.py --data_dir ./data/large --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 30 --num_epochs 5000 --sample false --bonus false --save_dir "./save/NOBONUSX" 
+
+sbatch ./train2.sh
+
+
+
+
+## Original
+salloc --mem 32000M --time 2:00:00 --gres=gpu:2
+
+module purge
+module load defaultenv
+module load cuda/8.0
+module load cudnn/5.1_cuda-8.0
+module load python/2/7
+
+
+cd /fslhome/tarch/compute/673/wordrnn
+
+python train.py --data_dir ./data/original --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 30 --num_epochs 5000  --save_dir "./save/" --init_from "./save/"
+python sample.py  --save_dir ./save --pick 2 --prime "marriage is death" -n 20
+
+
+python train.py --data_dir ./data/large --rnn_size 196 --num_layers 2 --model gru --batch_size 256 --seq_length 40 --num_epochs 5000  --save_dir "./save/LARGE"  --init_from "./save/LARGE"
+python sample.py  --save_dir ./save/LARGE --pick 1 --prime "marriage is death" -n 40
+
+
+
+# This is the regular bonus one
+python ./sample.py  --save_dir ./save/THEBONUSX54 --pick 1 -n 40 --prime "ocean is black, marriage is death" -e ocean
+
+# This is the endword trained, then retrained
+python ./sample.py  --save_dir ./save/THEBONUSX_MASTER --pick 1 -n 40 --prime "ocean is black, marriage is death" -e "ocean"
+
+# Regular
+python ./sample.py  --save_dir ./save/THEBONUSX5 --pick 1 -n 40 --prime "ocean is black, marriage is death" -e ocean
+
+
+
+## NEXT TRY:
+ python train.py --data_dir ./data/original --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 30 --num_epochs 5000 --sample true --bonus true  --save_dir "./save/THEBONUS2" --init_from "./save/THEBONUS2"
+ 
+python ./sample.py -e turtle -o sample.txt -s ./save/THEBONUS2 --pick 1 -n 200
+ 
+ 
+ 
+ 
+-bash-4.1$ sbatch ./train.sh
+Submitted batch job 24061048
+-bash-4.1$ sbatch ./train2.sh
+Submitted batch job 24061049
+-bash-4.1$ sbatch ./train_endword.sh
+Submitted batch job 24061056
+
+
+
+ORIGINAL:
+
+-bash-4.1$ sbatch ./train.sh
+Submitted batch job 24061052
+
+
+scancel 24061050

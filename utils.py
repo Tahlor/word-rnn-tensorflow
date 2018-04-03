@@ -6,7 +6,7 @@ from six.moves import cPickle
 import numpy as np
 import re
 import itertools
-    
+import pickle
 from gensim.summarization.summarizer import summarize
 
 class TextLoader():
@@ -16,9 +16,15 @@ class TextLoader():
         self.seq_length = seq_length
         self.simple_vocab = simple_vocab
         
-        input_file = os.path.join(data_dir, "input.txt")
+        if not os.path.isdir(data_dir):
+            input_file = data_dir
+            data_dir = os.path.pardir(input_file)
+        else:
+            input_file = os.path.join(data_dir, "input.txt")
+        
         vocab_file = os.path.join(data_dir, "vocab.pkl")
         tensor_file = os.path.join(data_dir, "data.npy")
+        
 
         # Let's not read vocab and data from file. We many change them.
         if True or not (os.path.exists(vocab_file) and os.path.exists(tensor_file)):
@@ -35,7 +41,7 @@ class TextLoader():
         Tokenization/string cleaning for all datasets except for SST.
         Original taken from https://github.com/yoonkim/CNN_sentence/blob/master/process_data
         """
-            string = re.sub(r"\n\s*", r" | ", string)
+        string = re.sub(r"\n\s*", r" | ", string)
         string = re.sub(r"[^|^가-힣A-Za-z0-9(),!?\'\`]", " ", string)
         #string = re.sub(r"\'s", " \'s", string)
         #string = re.sub(r"\'ve", " \'ve", string)
@@ -46,8 +52,8 @@ class TextLoader():
         string = re.sub(r"[0-9]+", "  ", string)
         string = re.sub(r",", " , ", string)
         string = re.sub(r"!", " ! ", string)
-        string = re.sub(r"\(", " \( ", string)
-        string = re.sub(r"\)", " \) ", string)
+        #string = re.sub(r"\(", " \( ", string)
+        #string = re.sub(r"\)", " \) ", string)
         string = re.sub(r";", " ; ", string)
         string = re.sub(r":", " : ", string)
         string = re.sub(r"\?", " \? ", string)
@@ -70,8 +76,24 @@ class TextLoader():
         return [vocabulary, vocabulary_inv]
 
     def preprocess(self, input_file, vocab_file, tensor_file, encoding):
-        with codecs.open(input_file, "r", encoding=encoding) as f:
-            data = f.read()
+        pickle_path = input_file.replace(".txt", ".pickle")
+
+        failed = True
+        if os.path.exists(pickle_path):
+            try:
+                with open(pickle_path, "rb") as pkl:
+                    data = pickle.load(pkl)
+                    failed = False
+            except:
+                pass
+        if failed:
+            with codecs.open(input_file, "r", encoding=encoding) as f:
+                data = f.read()
+                
+            # Dump to pickle
+            with open(pickle_path, "wb") as fobj:
+                pickle.dump(data,fobj)
+
 
         # Optional text cleaning or make them lower case, etc.
         if self.simple_vocab:
