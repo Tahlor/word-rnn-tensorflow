@@ -96,7 +96,7 @@ class Model():
                         #o.append(tf.concat([inputs[n][:, :, :args.rnn_size*mult-last_word_size], bonus_features[n][:, :, :last_word_size]], 2))
                         o.append(tf.concat([inputs[n], bonus_features[n]], 2))
                         #o = bonus_features
-                    #seq length, (batch size x 1 x 2*rnn)
+                    #seq length, batch size x 1 x 2*rnn)
                     inputs = o
 
                 # Iterate through these resulting tensors and eliminate that degenerate second dimension of 1,

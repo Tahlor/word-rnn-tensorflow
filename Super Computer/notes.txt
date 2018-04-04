@@ -1,6 +1,6 @@
 #scancel -u tarch --state=running
 
-salloc --mem 16000M --time 1:00:00 --gres=gpu:1
+salloc --mem 32000M --time 3:00:00 --gres=gpu:1
 cd /fslhome/tarch/compute/673/word-rnn-tensorflow
 
 module purge
@@ -109,15 +109,17 @@ python sample.py  --save_dir ./save/LARGE --pick 1 --prime "marriage is death" -
 
 
 
-# This is the regular bonus one
-python ./sample.py  --save_dir ./save/THEBONUSX54 --pick 1 -n 40 --prime "ocean is black, marriage is death" -e ocean
-
 # This is the endword trained, then retrained
 python ./sample.py  --save_dir ./save/THEBONUSX_MASTER --pick 1 -n 40 --prime "ocean is black, marriage is death" -e "ocean"
 
-# Regular
+# Regular new version
 python ./sample.py  --save_dir ./save/THEBONUSX5 --pick 1 -n 40 --prime "ocean is black, marriage is death" -e ocean
 
+# No bonus, original corpus
+python ./sample.py  --save_dir ./save/NOBONUSX1 --pick 1 -n 40 --prime "ocean is black, marriage is death" -e ocean
+
+# Original
+python ../wordrnn/sample.py  --save_dir ../wordrnn/save/LARGE --pick 1 --prime "marriage is death" -n 40
 
 
 ## NEXT TRY:
