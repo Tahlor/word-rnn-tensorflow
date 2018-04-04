@@ -39,6 +39,7 @@ class Model():
         self.input_data = tf.placeholder(tf.int32, [args.batch_size, args.seq_length])
         #self.input_data = tf.placeholder(tf.int32, [args.batch_size, args.seq_length, input_dim])
         self.bonus_features = tf.placeholder(tf.int32, [args.batch_size, args.seq_length], name = "BonusFeatures")
+        self.syllables = tf.placeholder(tf.int32, [args.batch_size, args.seq_length], name = "SyllableCount")
         self.targets = tf.placeholder(tf.int32, [args.batch_size, args.seq_length])
         self.initial_state = cell.zero_state(args.batch_size, tf.float32)
         self.batch_pointer = tf.Variable(0, name="batch_pointer", trainable=False, dtype=tf.int32)
@@ -72,8 +73,6 @@ class Model():
                 mult = 2 if BONUS else 1
                 embedding = tf.get_variable("embedding", [args.vocab_size, args.rnn_size])
 
-                # Inputs is: BATCHES, SEQ in BATCH, WORdS in SEQ
-
                 # Create an embedding tensor with tf.nn.embedding_lookup(embedding, self.input_data).
                 # This tensor has dimensions batch_size x seq_length x rnn_size.
                 # tf.split splits that embedding lookup tensor into seq_length tensors (along dimension 1).
@@ -82,8 +81,6 @@ class Model():
                 inputs = tf.split(tf.nn.embedding_lookup(embedding, self.input_data), args.seq_length, 1) # substitute embedding with input; split along SEQ in Batch
 
                 if BONUS:
-                    # Each word is being embedded onto a cell-size vector
-                    # Crap
                     bonus_features = tf.split(tf.nn.embedding_lookup(embedding, self.bonus_features), args.seq_length, 1)
 
                     # Concat these - 10 cells will be given the last word
@@ -92,9 +89,14 @@ class Model():
                     #print(bonus_features[0].shape)
                     last_word_size = int(args.rnn_size/2)
                     #last_word_size = 128
+
+                    # Syllables [sequences in batch, words in sequence, 1,1] => seqlength, batch_size x 1 x 1:
+                    syllables = self.syllables[..., None, None]
+                    syllables = tf.cast(tf.transpose(syllables, [1,0,2,3]), tf.float32)
+
                     for n in range(0,len(inputs)):
                         #o.append(tf.concat([inputs[n][:, :, :args.rnn_size*mult-last_word_size], bonus_features[n][:, :, :last_word_size]], 2))
-                        o.append(tf.concat([inputs[n], bonus_features[n]], 2))
+                        o.append(tf.concat([inputs[n], bonus_features[n], syllables[n]], 2))
                         #o = bonus_features
                     #seq length, batch size x 1 x 2*rnn)
                     inputs = o
@@ -129,7 +131,7 @@ class Model():
         optimizer = tf.train.AdamOptimizer(self.lr)
         self.train_op = optimizer.apply_gradients(zip(grads, tvars))
 
-    def sample(self, sess, words, vocab, num=200, prime='first all', sampling_type=1, pick=0, width=4, quiet=False, end_word = "end"):
+    def sample(self, sess, words, vocab, num=200, prime='first all', sampling_type=1, pick=1, width=4, quiet=False, end_word = "end", syllables = 10):
 
         # Find endword in vocab
         if type(end_word) == type(""):
@@ -140,8 +142,9 @@ class Model():
             #end_tensor = np.asarray([[idx]])
             end_tensor = np.zeros((1, 1))                    
             end_tensor[0, 0] = vocab.get(end_word,0)
-            
-            
+
+        syl_tensor = np.ones((1, 1)) * syllables
+
         def weighted_pick(weights):
             t = np.cumsum(weights)
             s = np.sum(weights)
@@ -160,7 +163,7 @@ class Model():
             # Keep feeding one rhyming word UNTIL newline space is sampled, then feed next
             # Need to adjust beam search to go line by line UGH!
 
-            feed = {self.input_data: x, self.initial_state: state, self.bonus_features: end_tensor}
+            feed = {self.input_data: x, self.initial_state: state, self.bonus_features: end_tensor, self.syllables: syl_tensor}
             [probs, final_state] = sess.run([self.probs, self.final_state],
                                             feed)
             return probs, final_state

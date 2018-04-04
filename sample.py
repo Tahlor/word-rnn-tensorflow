@@ -14,7 +14,7 @@ import sys
 
 # Prime - first word
 # Update model to prime with end words
-def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt",      internal_call = False, model = None):
+def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1):
     parser = argparse.ArgumentParser()
     parser.add_argument('--save_dir', '-s', type=str, default=save_dir,
                        help='model directory to load stored checkpointed models from')
@@ -36,7 +36,8 @@ def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", ou
                        help='Last word of line')
     parser.add_argument('--output_path', '-o', default=output_path,
                        help='Last word of line')
-
+    parser.add_argument('--syllables', '-y', default=syllables,
+                       help='Last word of line')
     if internal_call:
         args = parser.parse_args("")
         #sample2(args, model_dict = model)
@@ -50,7 +51,7 @@ def sample2(args, model_dict):
     model = model_dict["model"]
     words = model_dict["words"]
     vocab = model_dict["vocab"]
-    samp = model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet, args.end_word)    
+    samp = model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet, args.end_word, args.syllables)
 
     output_path = args.output_path
     if not output_path is None:
@@ -93,4 +94,4 @@ def sample(args):
                     f.write(item)
                 
 if __name__ == '__main__':
-    main(save_dir = r"./save/BONUS35", end_word="turtle", output_path = "sample.txt")
+    main(save_dir = r"./save3", end_word="from", output_path = "sample.txt")

@@ -8,6 +8,8 @@ import re
 import itertools
 import pickle
 from gensim.summarization.summarizer import summarize
+import poetrytools
+
 
 class TextLoader():
     def __init__(self, data_dir, batch_size, seq_length, encoding=None, simple_vocab = True):
@@ -159,19 +161,75 @@ class TextLoader():
         self.y_batches = np.split(ydata.reshape(self.batch_size, -1), self.num_batches, 1)
         self.get_last_words()
 
-    def get_last_words(self):
-        self.last_words = np.copy(self.x_batches)
-        for batch in self.last_words:
+    def tokenize_by_line(self, input_list):
+        temp_list = np.copy(self.input_list)
+        for batch in temp_list:
             for element in batch:
                 last_word = element[::-1][0]
+                next_line = []
+                all_lines = []
                 for n, word in enumerate(element[::-1]):
                     if word == self.endline_idx and n + 1 < len(element):
+                        all_lines.append(next_line)
+                        next_line = []
+                    next_line.append(word)
+                    del element[::-1][n]
+                element = all_lines
+
+    def get_syllables(self):
+        import poetrytools
+        self.syllables = poetrytools.scanscion(self.x_batches)
+        for line in self.syllables:
+            pass
+
+
+    def get_last_words(self):
+
+        self.last_words = np.copy(self.x_batches)
+        self.syllables = np.copy(self.x_batches)
+
+        for bn, batch in enumerate(self.last_words):
+            for en, element in enumerate(batch):
+                last_word = element[::-1][0]
+                next_line = []
+                start_index = -1
+
+                # One sequence
+                for n, word in enumerate(element[::-1]):
+                    if word == self.endline_idx and n + 1 < len(element):
+
+                        # Syllables
+                        syllables = self.get_syllables_from_indices(next_line)
+                        self.syllables[bn][en][start_index:-n-1:-1] = syllables
+
+                        #print(self.syllables[bn][en][start_index:-n-1:-1])
+                        #print("Full Line:", self.syllables[bn])
+                        next_line = []
+                        start_index = -n-1
+
                         last_word = self.get_non_symbol(element[::-1][n+1:])
+                    if self.words[word].isalpha():
+                        next_line.append(word)
+
                     element[::-1][n] = last_word
+
+                # Do syllables for last bit
+                syllables = self.get_syllables_from_indices(next_line)
+                self.syllables[bn][en][start_index::-1] = syllables
+
                 #print(element)
-                #print(np.asarray(self.words)[element])
+            #print(np.asarray(self.words)[self.x_batches[bn]])
+            #print(self.syllables[bn])
         #print(np.asarray(self.words)[self.last_words[0][0]])
         #print(np.asarray(self.x_batches).shape)
+
+    def get_syllables_from_indices(self, indices):
+        words = [list(np.asarray(self.words)[indices])]
+        #print(words)
+        #print(poetrytools.scanscion(words))
+        syllables = len(''.join(poetrytools.scanscion(words)[0]))
+        #print(syllables, start_index, -n - 1)
+        return syllables
 
     def get_non_symbol(self, l):
         for el in l:
@@ -183,9 +241,9 @@ class TextLoader():
 
     #X is input, Y is output
     def next_batch(self):
-        x, y, last_words = self.x_batches[self.pointer], self.y_batches[self.pointer], self.last_words[self.pointer]
+        x, y, last_words, syllables = self.x_batches[self.pointer], self.y_batches[self.pointer], self.last_words[self.pointer], self.syllables[self.pointer]
         self.pointer += 1
-        return x, y, last_words
+        return x, y, last_words, syllables
 
     def reset_batch_pointer(self):
         self.pointer = 0
@@ -200,8 +258,8 @@ class TextLoader():
         gensim.summarization.summarizer.summarize(text, ratio=0.2, word_count=None, split=False)
 
 if __name__ == "__main__":
-    path = r"D:\PyCharm Projects\word-rnn-tensorflow\data"
-    data_loader = TextLoader(path, 1, 100)
+    path = r"D:\PyCharm Projects\word-rnn-tensorflow\data\test"
+    data_loader = TextLoader(path, 2, 30)
     x,y,z = data_loader.next_batch()
-    print(data_loader.words[x[0].astype(int)])
-    print(data_loader.words[z[0]])
+    #print(data_loader.words[x[0].astype(int)])
+    #print(data_loader.words[z[0]])

@@ -49,7 +49,7 @@ def write_out(text, f):
     with open(f, "w") as fobj:
         fobj.write(text)
 
-def vocab_prune(text, keep_words = 100000):
+def vocab_prune(text, keep_words = 100000, remove_apostrophe = True):
     print("Tokenizing...")
     text = text.replace("\n", " |||| ")
     token_list = nltk.word_tokenize(text.lower(), preserve_line = True)
@@ -67,14 +67,15 @@ def vocab_prune(text, keep_words = 100000):
     lc = least_common((cnt), eliminate)
 
     # Regex remove ridiculous apostrophes
-    apostrophed_words = re.compile(".*\'[A-z][A-z][A-z]+")
     awords = []
-    for word in token_list:        
-		if apostrophed_words.match(word) != None:
-			awords.append(word)
-    awords = list(set(awords))
-        
-        
+    if remove_apostrophe:
+        apostrophed_words = re.compile(".*\'[A-z][A-z][A-z]+")
+
+        for word in token_list:        
+            if apostrophed_words.match(word) != None:
+                awords.append(word)
+        awords = list(set(awords))
+               
     print("Last words out: {}".format(lc[-10:]))    
 
     # Prep for devocabularization
