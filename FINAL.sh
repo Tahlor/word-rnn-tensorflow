@@ -21,7 +21,7 @@ module load cudnn/5.1_cuda-8.0
 module load python/2/7
 
 cd /fslhome/tarch/compute/673/word-rnn-tensorflow
-python train.py --data_dir ./data/FINAL --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 40 --num_epochs 5000 --bonus True --sample False  --save_dir "./save/FINAL" --init_from "./save/FINAL" --end_word_training false
+python -u train.py --data_dir ./data/FINAL --rnn_size 256 --num_layers 2 --model lstm --batch_size 256 --seq_length 50 --num_epochs 5000 --bonus True --sample False  --save_dir "./save/FINAL" --end_word_training false --init_from "./save/FINAL"
 
 # To run:
 #sbatch ./FINAL.sh

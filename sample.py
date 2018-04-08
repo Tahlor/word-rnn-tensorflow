@@ -37,7 +37,7 @@ def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", ou
     parser.add_argument('--output_path', '-o', default=output_path,
                        help='Last word of line')
     parser.add_argument('--syllables', '-y', default=syllables,
-                       help='Last word of line')
+                       help='Last word of line', type=int)
     if internal_call:
         args = parser.parse_args("")
         #sample2(args, model_dict = model)
@@ -81,7 +81,7 @@ def sample(args):
             if ckpt and ckpt.model_checkpoint_path:
                 saver.restore(sess, ckpt.model_checkpoint_path)
                 for _ in range(args.count):
-                    s = model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet, args.end_word)
+                    s = model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet, args.end_word, args.syllables)
                     print(s)
                     text_list.append(s)
         output_path = args.output_path
@@ -94,4 +94,20 @@ def sample(args):
                     f.write(item)
                 
 if __name__ == '__main__':
-    main(save_dir = r"./save3", end_word="from", output_path = "sample.txt")
+    main(save_dir = r"./save4", end_word="a", output_path = "sample.txt", syllables = 2, prime = "a")
+
+
+# Basic rhyming sketch:
+    # Sample one line - evaluate
+    # [Sample as necessary]
+    # Sample next line -- attempt to rhyme with end of first line using (datamuse)
+        # Verify word is in vocabulary
+        # If failed , repeat
+
+    # metaphor injection:
+        # ask for metaphor or generate a pair of words
+        # OR ask for a topic
+        #  - get relationship from metaphor magnet
+        # prime line with words from the magnet, try to end the rhyme with the other word???
+        # Substitute word patterns with the metaphor
+            # Once a pattern is found, get next metaphor

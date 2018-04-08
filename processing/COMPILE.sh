@@ -23,7 +23,7 @@ module load python/2/7
 
 cd /fslhome/tarch/compute/673/word-rnn-tensorflow
 cd ./processing
-python ./5_compile.py
+python -u ./5_compile.py
 
 # To run:
 #sbatch ./COMPILE.sh

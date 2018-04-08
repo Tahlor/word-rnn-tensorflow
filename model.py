@@ -143,7 +143,7 @@ class Model():
             end_tensor = np.zeros((1, 1))                    
             end_tensor[0, 0] = vocab.get(end_word,0)
 
-        syl_tensor = np.ones((1, 1)) * syllables
+        syl_tensor = np.zeros((1, 1)) + syllables
 
         def weighted_pick(weights):
             t = np.cumsum(weights)
@@ -191,7 +191,7 @@ class Model():
                     print(word)
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word,0)
-                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor}
+                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor}
                 [state] = sess.run([self.final_state], feed)
 
             ret = prime
@@ -199,7 +199,7 @@ class Model():
             for n in range(num):
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word, 0)
-                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor}
+                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor}
                 [probs, state] = sess.run([self.probs, self.final_state], feed)
                 p = probs[0]
 

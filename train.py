@@ -56,6 +56,8 @@ def main(data_dir=r".\data\original", rnn_size=256, num_layers=2, model= "lstm",
                        help='%% of gpu memory to be allocated to this process. Default is 66.6%%')
     parser.add_argument('--end_word_training', type=str2bool, default=False,
                        help='train network to spit out last word')
+    parser.add_argument('--syllable_training', type=str2bool, default=False,
+                        help='train network to count syllables')
     parser.add_argument('--init_from', type=str, default=None,
                        help="""continue training from saved model at this path. Path must contain files saved by previous training process:
                             'config.pkl'        : configuration;
@@ -171,6 +173,10 @@ def train(args):
                     feed = {model.input_data: x, model.targets: last_words, model.bonus_features: last_words,
                             model.initial_state: state, model.syllables : syllables,
                             model.batch_time: speed}
+                elif args.syllable_training:
+                    feed = {model.input_data: x, model.targets: syllables, model.bonus_features: last_words,
+                            model.initial_state: state, model.syllables: syllables,
+                            model.batch_time: speed}
                 else:
                     feed = {model.input_data: x, model.targets: y, model.bonus_features:last_words,
                             model.syllables : syllables,
@@ -202,4 +208,4 @@ def train(args):
         train_writer.close()
 
 if __name__ == '__main__':
-    main(bonus = True, sample = False, data_dir=r".\data\test", batch_size = 5, seq_length = 30, num_epochs = 100)
+    main(bonus = True, sample = False, data_dir=r"./data/test", batch_size = 50, seq_length = 100, num_epochs = 200, rnn_size=6)
