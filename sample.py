@@ -14,7 +14,7 @@ import sys
 
 # Prime - first word
 # Update model to prime with end words
-def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1):
+def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, width = 4, sampling_type = 2):
     parser = argparse.ArgumentParser()
     parser.add_argument('--save_dir', '-s', type=str, default=save_dir,
                        help='model directory to load stored checkpointed models from')
@@ -22,11 +22,11 @@ def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", ou
                        help='number of words to sample')
     parser.add_argument('--prime', type=str, default=prime,
                        help='prime text')
-    parser.add_argument('--pick', type=int, default=2,
+    parser.add_argument('--pick', type=int, default=pick,
                        help='1 = weighted pick, 2 = beam search pick')
     parser.add_argument('--width', type=int, default=5,
                        help='width of the beam search')
-    parser.add_argument('--sample', type=int, default=1,
+    parser.add_argument('--sample', type=int, default=sampling_type,
                        help='0 to use max at each timestep, 1 to sample at each timestep, 2 to sample on spaces')
     parser.add_argument('--count', '-c', type=int, default=count,
                        help='number of samples to print')
@@ -38,6 +38,8 @@ def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", ou
                        help='Last word of line')
     parser.add_argument('--syllables', '-y', default=syllables,
                        help='Last word of line', type=int)
+    parser.add_argument('--sampling_type', '-t', default=1,
+                       help='0 - Greedy sample', type=int)
     if internal_call:
         args = parser.parse_args("")
         #sample2(args, model_dict = model)
@@ -94,7 +96,7 @@ def sample(args):
                     f.write(item)
                 
 if __name__ == '__main__':
-    main(save_dir = r"./save4", end_word="a", output_path = "sample.txt", syllables = 2, prime = "a")
+        main(save_dir = r"./save/MASTER", end_word="naval", output_path = "sample.txt", syllables = 10, prime = "lest i paint the gentle sea amidst this tempestuous storm", pick = 1, n = 200, width = 3, sampling_type = 2)
 
 
 # Basic rhyming sketch:

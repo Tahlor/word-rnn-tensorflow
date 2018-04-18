@@ -15,7 +15,9 @@ module load python/2/7
 
 module load tensorflow/0.9.0_python-3.4.4+cuda
 
-python ./sample.py -e light -o sample.txt -s ./save/FINAL --pick 1 -n 200 --prime "sun" -y 10
+python ./sample.py -e princess -o sample.txt -s ./save/FINAL --pick 1 -n 200 --prime "kingdom" -y 10
+
+python ./sample.py -e fife -o sample.txt -s ./save/FINAL --pick 1 -n 200 --prime "sun" -y 10
 
 python ./sample.py -e $'\n' -o sample.txt -s ./save/FINAL --pick 1 -n 200 --prime "light" -y 10
 
@@ -42,9 +44,17 @@ nano ~/.bashrc
 ANACONDA:
 export PATH=~/anaconda3/bin:$PATH
 conda search "^python$"
-conda create --name conda3 python=3
-source activate conda3
+conda create --name conda3tf2 python=3
+source activate conda3tf2
+
+# INSTALL
 conda install -c anaconda tensorflow-gpu 
+conda install -c anaconda gym
+conda install -c anaconda matplotlib
+
+OR 
+module load anaconda/3/4.3.1
+pip install --user gym
 
 
 module show anaconda/3/4.3.1
