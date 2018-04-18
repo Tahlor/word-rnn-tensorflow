@@ -17,7 +17,7 @@ import subprocess
 # python train.py --data_dir ./data --rnn_size 256 --num_layers 2 --model lstm --batch_size 50 --seq_length 25 --num_epochs 50
 
 # "D:\PyCharm Projects\word-rnn-tensorflow\data\poems_large.txt"
-def main(data_dir=r".\data\original", rnn_size=256, num_layers=2, model= "lstm", batch_size = 50, seq_length = 200, num_epochs=10, save_dir = "save", bonus = False, sample = True):
+def main(data_dir=r".\data\original", rnn_size=256, num_layers=2, model= "gru", batch_size = 50, seq_length = 200, num_epochs=10, save_dir = "save", bonus = False, sample = True):
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--bonus', type=str2bool    , default=bonus,
@@ -145,6 +145,7 @@ def train(args):
 
         tf.global_variables_initializer().run()
         saver = tf.train.Saver(tf.global_variables())
+
         # restore model
         if args.init_from is not None:
             saver.restore(sess, ckpt.model_checkpoint_path)
@@ -208,4 +209,4 @@ def train(args):
         train_writer.close()
 
 if __name__ == '__main__':
-    main(bonus = True, sample = False, data_dir=r"./data/test", batch_size = 50, seq_length = 100, num_epochs = 200, rnn_size=6)
+    main(bonus = True, sample = False, data_dir=r"./data/test", batch_size = 50, seq_length = 60, num_epochs = 200, rnn_size=256)

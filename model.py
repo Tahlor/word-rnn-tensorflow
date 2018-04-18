@@ -168,16 +168,35 @@ class Model():
                                             feed)
             return probs, final_state
 
-        def beam_search_pick(prime, width):
+        def create_bs(prime):
             """Returns the beam search pick."""
             if not len(prime) or prime == ' ':
-                prime = random.choice(list(vocab.keys()))
-            prime_labels = [vocab.get(word, 0) for word in prime.split()]
+                prime = random.choice(list(vocab.keys())) # pick a random prime word if needed
+            prime_labels = [vocab.get(word, 0) for word in prime.split()] # tokenize prime words
             bs = BeamSearch(beam_search_predict,
-                            sess.run(self.cell.zero_state(1, tf.float32)),
-                            prime_labels)
-            samples, scores = bs.search(None, None, k=width, maxsample=num)
-            return samples[np.argmin(scores)]
+                            sess.run(self.cell.zero_state(1, tf.float32)), # reset state?
+                            prime_labels) # pass labels?
+            return bs, prime_labels
+
+        def beam_search_pick(prime, width):
+            total_sample = 0
+            ret = prime + ' '
+            eol = None
+            # "\n"
+            while total_sample < num:
+                bs, prime_labels = create_bs(prime)
+                samples, scores, states = bs.search(None, eol, k=width, maxsample=1000)
+                # Choose
+                sample_choice = np.argmin(scores)
+                chosen = samples[sample_choice]
+                next_words = ""
+                for i, label in enumerate(chosen):
+                    next_words += words[label] + ' '
+                ret = next_words
+                total_sample += i - len(prime_labels)
+                prime = ret
+
+            return ret
 
         ret = ''
         if pick == 1:
@@ -207,9 +226,16 @@ class Model():
                     sample = np.argmax(p)
                 elif sampling_type == 2:
                     if word == '\n':
-                        sample = weighted_pick(p)
+                        sample = weighted_pick(p) # sample from everywhere
                     else:
-                        sample = np.argmax(p)
+                        p[0:3] = 10 * p[0:3] # make top words even more probable
+                        sample = weighted_pick(p)
+
+                        #sample = np.argmax(p) # p is just the list of probabilities
+                        #p.argsort()[-10:][::-1]
+                        #top_args = self.argmaxn(p, 2)
+                        #sample = top_args[np.random.randint(0, len(top_args))] # sample from top 10 words
+
                 else: # sampling_type == 1 default:
                     sample = weighted_pick(p)
 
@@ -218,6 +244,14 @@ class Model():
                 word = pred
         elif pick == 2:
             pred = beam_search_pick(prime, width)
-            for i, label in enumerate(pred):
-                ret += ' ' + words[label] if i > 0 else words[label]
+            ret = pred
         return ret
+
+    def argmaxn(self, array, n):
+        a = np.copy(array)
+        out = []
+        for i in range(n):
+            idx = np.argmax(a)
+            out.append(idx);
+            a[idx] = 0
+        return out
