@@ -69,12 +69,13 @@ class PoemWriter():
             if ckpt and ckpt.model_checkpoint_path:
                 saver.restore(sess, ckpt.model_checkpoint_path)
 
-                prime = 'a\n'
+                prime = '{}\n'.format(topic_word)
+                # prime = '{} {} {}\n'.format(topic_word, topic_word, topic_word)
                 orig_prime = prime
                 quiet = False
                 poem_lines = []
 
-                related_words = datamuser.get_all_related_words([topic_word])
+                related_words = datamuser.get_all_related_words(topic_word.split())
                 topic_words = list(related_words.intersection(set(self.vocab.keys())))
                 if len(topic_words) == 0:
                     raise ValueError("No vocab words related to topic")
@@ -146,10 +147,19 @@ class PoemWriter():
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--topic', '-t', type=str, default='love',
+                        help='topic word for poem')
+    parser.add_argument('--n_lines', '-l', type=int, default=8,
+                        help='number of lines to generate')
+    parser.add_argument('--n_syllables', '-s', type=int, default=8,
+                        help='number of syllables per line')
 
-    syllables = 8
-    n_lines = 6
-    topic = 'ocean'
+    # syllables = 8
+    # n_lines = 9
+    #
+
+    args = parser.parse_args()
 
     pw = PoemWriter()
-    pw.sample(syllables, n_lines, topic)
+    pw.sample(args.n_syllables, args.n_lines, args.topic)
