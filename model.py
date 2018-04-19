@@ -100,7 +100,10 @@ class Model():
 
                     for n in range(0,len(inputs)):
                         #o.append(tf.concat([inputs[n][:, :, :args.rnn_size*mult-last_word_size], bonus_features[n][:, :, :last_word_size]], 2))
-                        o.append(tf.concat([inputs[n], bonus_features[n], topic_words[n], syllables[n]], 2))
+                        if args.use_topics:
+                            o.append(tf.concat([inputs[n], bonus_features[n], topic_words[n], syllables[n]], 2))
+                        else:
+                            o.append(tf.concat([inputs[n], bonus_features[n], syllables[n]], 2))
                         #o = bonus_features
                     #seq length, batch size x 1 x 2*rnn)
                     inputs = o
@@ -198,7 +201,7 @@ class Model():
             # Keep feeding one rhyming word UNTIL newline space is sampled, then feed next
             # Need to adjust beam search to go line by line UGH!
 
-            feed = {self.input_data: x, self.initial_state: state, self.bonus_features: end_tensor, self.syllables: syl_tensor, self.topic_word : topic_tensor}
+            feed = {self.input_data: x, self.initial_state: state, self.bonus_features: end_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
             [probs, final_state] = sess.run([self.probs, self.final_state],
                                             feed)
             return probs, final_state
@@ -254,7 +257,7 @@ class Model():
                     print(word)
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word,0)
-                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_word : topic_tensor}
+                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
                 [state] = sess.run([self.final_state], feed)
 
             ret = prime
@@ -262,7 +265,7 @@ class Model():
             for n in range(num):
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word, 0)
-                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_word : topic_tensor}
+                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
                 [probs, state] = sess.run([self.probs, self.final_state], feed)
                 p = probs[0]
                 if sampling_type == 0:

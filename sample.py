@@ -8,13 +8,14 @@ import os
 from six.moves import cPickle
 
 from utils import TextLoader
+from utils import str2bool
 from model import Model
 import sys
 
 
 # Prime - first word
 # Update model to prime with end words
-def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, width = 4, sampling_type = 2, return_line_list = False):
+def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, width = 4, sampling_type = 2, return_line_list = False, use_topics = False):
     parser = argparse.ArgumentParser()
     parser.add_argument('--save_dir', '-s', type=str, default=save_dir,
                        help='model directory to load stored checkpointed models from')
@@ -40,6 +41,9 @@ def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", ou
                        help='Last word of line', type=int)
     parser.add_argument('--return_line_list', '-r', default=return_line_list,
                        help='0 - Return lines as a list of lines', type=int)
+    parser.add_argument('--use_topics', '-t', default=use_topics,
+                       help='Use topic words', type=str2bool)
+
 
     if internal_call:
         args = parser.parse_args("")
@@ -72,7 +76,7 @@ def sample(args):
                 words, vocab = cPickle.load(f, encoding = 'latin-1')
             else:
                 words, vocab = cPickle.load(f)
-            
+            saved_args.use_topics=args.use_topics
             model = Model(saved_args, True)
         with tf.Session() as sess:
             tf.global_variables_initializer().run()
@@ -96,7 +100,52 @@ def sample(args):
                     f.write(item)
                 
 if __name__ == '__main__':
-        main(save_dir = r"./save/MASTER", end_word="turtle", output_path = "sample.txt", syllables = 10, prime = "lest i paint the gentle sea amidst this tempestuous storm", pick = 1, n = 500, width = 3, sampling_type = 1, return_line_list = True)
+        prime = """      In deep suspense the Trojan seem’d to stand,
+      And, just prepar’d to strike, repress’d his hand.
+      He roll’d his eyes, and ev’ry moment felt
+      His manly soul with more compassion melt;
+      When, casting down a casual glance, he spied
+      The golden belt that glitter’d on his side,
+      The fatal spoils which haughty Turnus tore
+      From dying Pallas, and in triumph wore.
+      Then, rous’d anew to wrath, he loudly cries
+      (Flames, while he spoke, came flashing from his eyes)
+      “Traitor, dost thou, dost thou to grace pretend,
+      Clad, as thou art, in trophies of my friend?
+      To his sad soul a grateful off’ring go!
+      ’Tis Pallas, Pallas gives this deadly blow.”
+      He rais’d his arm aloft, and, at the word,
+      Deep in his bosom drove the shining sword.
+      The streaming blood distain’d his arms around;
+      And the disdainful soul came rushing through the wound.
+        """
+        prime = """Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference."""
+        end_word = "\n"
+        prime= prime
+
+        main(save_dir = r"./save/MASTER", end_word=end_word, output_path = "sample.txt", syllables = 10, prime = prime, pick = 1, n = 500, width = 3, sampling_type = 1, return_line_list = False)
         # Sampling type - 2 - weighted sample first word of each line
         #                 1 - weighted sample all
         #                 0 - best word

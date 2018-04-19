@@ -17,7 +17,7 @@ import subprocess
 # python train.py --data_dir ./data --rnn_size 256 --num_layers 2 --model lstm --batch_size 50 --seq_length 25 --num_epochs 50
 
 # "D:\PyCharm Projects\word-rnn-tensorflow\data\poems_large.txt"
-def main(data_dir=r".\data\original", rnn_size=256, num_layers=2, model= "gru", batch_size = 50, seq_length = 200, num_epochs=10, save_dir = "save", bonus = False, sample = True):
+def main(data_dir=r".\data\original", rnn_size=256, num_layers=2, model= "gru", batch_size = 50, seq_length = 200, num_epochs=10, save_dir = "save", bonus = False, sample = True, use_topics = True):
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--bonus', type=str2bool    , default=bonus,
@@ -66,6 +66,9 @@ def main(data_dir=r".\data\original", rnn_size=256, num_layers=2, model= "gru", 
                                                   Note: this file contains absolute paths, be careful when moving files around;
                             'model.ckpt-*'      : file(s) with model definition (created by tf)
                         """)
+    parser.add_argument('--use_topics', '-t', default=str2bool,
+                        help='Use topic words', type=str)
+
     args = parser.parse_args()
 
     ##global save_dir
@@ -103,28 +106,32 @@ def train(args):
 
     # check compatibility if training is continued from previously saved model
     if args.init_from is not None:
-        # check if all necessary files exist
-        assert os.path.isdir(args.init_from)," %s must be a path" % args.init_from
-        assert os.path.isfile(os.path.join(args.init_from,"config.pkl")),"config.pkl file does not exist in path %s"%args.init_from
-        assert os.path.isfile(os.path.join(args.init_from,"words_vocab.pkl")),"words_vocab.pkl.pkl file does not exist in path %s" % args.init_from
-        ckpt = tf.train.get_checkpoint_state(args.init_from)
-        assert ckpt,"No checkpoint found"
-        assert ckpt.model_checkpoint_path,"No model path found in checkpoint"
+        try:
+            # check if all necessary files exist
+            assert os.path.isdir(args.init_from)," %s must be a path" % args.init_from
+            assert os.path.isfile(os.path.join(args.init_from,"config.pkl")),"config.pkl file does not exist in path %s"%args.init_from
+            assert os.path.isfile(os.path.join(args.init_from,"words_vocab.pkl")),"words_vocab.pkl.pkl file does not exist in path %s" % args.init_from
+            ckpt = tf.train.get_checkpoint_state(args.init_from)
+            assert ckpt,"No checkpoint found"
+            assert ckpt.model_checkpoint_path,"No model path found in checkpoint"
 
-        # open old config and check if models are compatible
-        with open(os.path.join(args.init_from, 'config.pkl'), 'rb') as f:
-            saved_model_args = cPickle.load(f)
-        need_be_same=["model","rnn_size","num_layers","seq_length"]
-        for checkme in need_be_same:
-            assert vars(saved_model_args)[checkme]==vars(args)[checkme],"Command line argument and saved model disagree on '%s' "%checkme
+            # open old config and check if models are compatible
+            with open(os.path.join(args.init_from, 'config.pkl'), 'rb') as f:
+                saved_model_args = cPickle.load(f)
+            need_be_same=["model","rnn_size","num_layers","seq_length"]
+            for checkme in need_be_same:
+                assert vars(saved_model_args)[checkme]==vars(args)[checkme],"Command line argument and saved model disagree on '%s' "%checkme
 
-        # open saved vocab/dict and check if vocabs/dicts are compatible
-        with open(os.path.join(args.init_from, 'words_vocab.pkl'), 'rb') as f:
-            saved_words, saved_vocab = cPickle.load(f)
-        assert saved_words==data_loader.words, "Data and loaded model disagree on word set!"
-        assert saved_vocab==data_loader.vocab, "Data and loaded model disagree on dictionary mappings!"
+            # open saved vocab/dict and check if vocabs/dicts are compatible
+            with open(os.path.join(args.init_from, 'words_vocab.pkl'), 'rb') as f:
+                saved_words, saved_vocab = cPickle.load(f)
+            assert saved_words==data_loader.words, "Data and loaded model disagree on word set!"
+            assert saved_vocab==data_loader.vocab, "Data and loaded model disagree on dictionary mappings!"
+        except:
+            print("Could not init from old file")
 
-    with open(os.path.join(args.save_dir, 'config.pkl'), 'wb') as f:    
+    ## Dump new stuff
+    with open(os.path.join(args.save_dir, 'config.pkl'), 'wb') as f:
         cPickle.dump(args, f)
     with open(os.path.join(args.save_dir, 'words_vocab.pkl'), 'wb') as f:
         cPickle.dump((data_loader.words, data_loader.vocab), f)
@@ -148,7 +155,10 @@ def train(args):
 
         # restore model
         if args.init_from is not None:
-            saver.restore(sess, ckpt.model_checkpoint_path)
+            try:
+                saver.restore(sess, ckpt.model_checkpoint_path)
+            except:
+                print("Could not restore")
             
         # Epoch loop    
         for e in range(model.epoch_pointer.eval(), args.num_epochs):
@@ -160,8 +170,11 @@ def train(args):
                 assign_op = model.epoch_pointer.assign(e)
                 sess.run(assign_op)
             if args.init_from is not None:
-                data_loader.pointer = model.batch_pointer.eval()
-                args.init_from = None
+                try:
+                    data_loader.pointer = model.batch_pointer.eval()
+                    args.init_from = None
+                except:
+                    pass
 
             # Batch step loop
             for b in range(data_loader.pointer, data_loader.num_batches):

@@ -15,6 +15,15 @@ else:
     import pickle
 
 
+def str2bool(v):
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
+
 class TextLoader():
     def __init__(self, data_dir, batch_size, seq_length, encoding=None, simple_vocab = True, load_from_file = True):
 
@@ -177,7 +186,7 @@ class TextLoader():
         self.save_inputs()
 
     def save_inputs(self):
-        d = {"x_batches":self.x_batches, "y_batches":self.y_batches, "last_words":self.last_words, "syllables":self.syllables}
+        d = {"x_batches":self.x_batches, "y_batches":self.y_batches, "last_words":self.last_words, "syllables":self.syllables, "topic_words":self.topic_words}
         with open(self.save_file, 'wb') as f:
             pickle.dump(d, f,2)
 
@@ -188,6 +197,7 @@ class TextLoader():
         self.y_batches  = d["y_batches"]
         self.last_words = d["last_words"]
         self.syllables  = d["syllables"]
+        self.topic_words = d["topic_words"]
         self.endline_idx = self.vocab['\n']
 
     def tokenize_by_line(self, input_list):
@@ -327,3 +337,4 @@ if __name__ == "__main__":
     print(z[0:10])
 
     print(data_loader.words[syl[0:10]])
+
