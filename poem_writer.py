@@ -14,8 +14,12 @@ import datamuser
 import random
 
 
-# if os.environ["COMPUTERNAME"] == 'DALAILAMA':
-#     TAYLOR = True
+TAYLOR = False
+try:
+    if os.environ["COMPUTERNAME"] == 'DALAILAMA':
+        TAYLOR = True
+except:
+    TAYLOR = False
 
 
 class PoemWriter():

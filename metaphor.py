@@ -6,6 +6,18 @@ import urllib
 import collections
 import json
 
+poem = """
+Come live with me and be my Love, 
+And we will all the pleasures prove 
+That hills and valleys, dale and field, 
+And all the craggy mountains yield. 
+
+There will we sit upon the rocks 
+And see the shepherds feed their flocks 
+By shallow rivers, to whose falls 
+Melodious birds sing madrigals. 
+"""
+
 def get_metaphor(phrase):
     if sys.version_info[0] < 3:
         phrase = urllib.quote_plus(phrase)
@@ -46,10 +58,11 @@ def get_rhyme(rhyme, relation):
     return rhymes
 
 def substitute(poem, metaphor):
-
+    master_dict = get_metaphor(metaphor)
 
 if __name__ == '__main__':
+    metaphor = "Marriage as death"
     print(get_rhyme("grape", "breakfast"))
-    master_dict = get_metaphor("Marriage as death")
+    master_dict = get_metaphor(metaphor)
     print(master_dict)
-    
+    substitute(poem, metaphor)
