@@ -13,6 +13,7 @@ import sys
 import datamuser
 import random
 
+
 TAYLOR = False
 try:
     if os.environ["COMPUTERNAME"] == 'DALAILAMA':
@@ -58,7 +59,9 @@ class PoemWriter():
 
         self.args = parser.parse_args("")
 
-        with open(os.path.join(self.args.save_dir, 'config.pkl'), 'rb') as f:
+        path = os.path.join(self.args.save_dir, 'config.pkl')
+        with open(path, 'rb') as f:
+
             saved_args = cPickle.load(f)
             saved_args.use_topics=self.args.use_topics
 
@@ -85,16 +88,18 @@ class PoemWriter():
             if ckpt and ckpt.model_checkpoint_path:
                 saver.restore(sess, ckpt.model_checkpoint_path)
 
-                prime = 'a\n'
+                prime = '{}\n'.format(topic_word)
+                # prime = '{} {} {}\n'.format(topic_word, topic_word, topic_word)
                 orig_prime = prime
-                quiet = False
+                quiet = True
                 poem_lines = []
 
-                related_words = datamuser.get_all_related_words([topic_word])
+                related_words = datamuser.get_all_related_words(topic_word.split())
+                print(related_words)
+                print(self.vocab.keys())
                 topic_words = list(related_words.intersection(set(self.vocab.keys())))
                 if len(topic_words) == 0:
                     raise ValueError("No vocab words related to topic")
-
                 print (topic_words)
 
                 i = 0
@@ -114,19 +119,34 @@ class PoemWriter():
                         # print (len(rhymes))
                         if len(rhymes)==0: end_word = random.choice(topic_words)
                         else: end_word = random.choice(rhymes)
-                        print('LAST WORD: {}  END WORD: {}'.format(last_word, end_word))
+                        # print('LAST WORD: {}  END WORD: {}'.format(last_word, end_word))
 
-                    print ('END WORD: {}'.format(end_word))
+                    # print ('END WORD: {}'.format(end_word))
                     # end_word = 'flag'
 
-                    lines = self.model.sample(sess, self.words, self.vocab, self.args.n,
+                    candidate_lines = []
+                    scores = []
+                    print ("GENERATING A NEW LINE -- SAMPLING SOME CANDIDATES")
+                    for j in range(5):  # get best of 10 lines
+                        line, score = self.model.sample(sess, self.words, self.vocab, self.args.n,
                                           prime, self.args.sample, self.args.pick,
-                                          self.args.width, quiet, end_word, num_syllables)
-                    quiet = True
-                    line = lines[len(prime):].split('\n')[1]  # strip off prime and keep next single line
+                                          self.args.width, quiet, end_word, num_syllables, True)
+                        # quiet = True
+                        # line = lines[len(prime):].split('\n')[0]  # strip off prime and keep next single line
+                        candidate_lines.append(line)
+                        scores.append(score)
+                        # print ("LINE: {}  SCORE: {}".format(lines, score))
+
+
+                    line = candidate_lines[np.argmax(scores)]
+                    print("CHOSEN LINE::: {}".format(line))
                     last_word = line.split()[-1]
                     if not last_word.isalpha(): last_word = line.split()[-2]
-                    if not last_word.isalpha(): last_word = line.split()[-3]
+                    if not last_word.isalpha():
+                        # bad line-- try again
+                        i -= 1
+                        continue
+
 
                     # evaluate line here
                     keep = self.evaluate_line(line)
@@ -162,10 +182,18 @@ class PoemWriter():
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--topic', '-t', type=str, default='cheese',
+                        help='topic word for poem')
+    parser.add_argument('--n_lines', '-l', type=int, default=4,
+                        help='number of lines to generate')
+    parser.add_argument('--n_syllables', '-s', type=int, default=10,
+                        help='number of syllables per line')
 
-    syllables = 8
-    n_lines = 6
-    topic = 'ocean'
+    # syllables = 8
+    # n_lines = 9
+    #
 
-    pw = PoemWriter()
-    pw.sample(syllables, n_lines, topic, save_dir = save_dir)
+    args = parser.parse_args()
+    pw = PoemWriter(save_dir = save_dir)
+    pw.sample(args.n_syllables, args.n_lines, args.topic)
