@@ -132,20 +132,25 @@ class PoemWriter():
 
 
                     line = candidate_lines[np.argmax(scores)]
-                    if len(line) < 15:
-                        # bad line
-                        i -= 1
-                        continue
+                    # if len(line) < 15:
+                    #     # bad line, too short
+                    #     i -= 1
+                    #     continue
                     count = lambda l1, l2: len(list(filter(lambda c: c in l2, l1)))
-                    if count(line, string.punctuation) > 5:
-                        # bad line
+                    if count(line, string.punctuation) > 6:
+                        # bad line, too much punctuation
                         i -= 1
                         continue
 
                     last_word = line.split()[-1]
-                    if not last_word.isalpha(): last_word = line.split()[-2]
+                    try:
+                        if not last_word.isalpha(): last_word = line.split()[-2]
+                    except IndexError:
+                        i -= 1
+                        continue
+
                     if not last_word.isalpha():
-                        # bad line-- try again
+                        # bad line, ends in multiple punctuations
                         i -= 1
                         continue
 
