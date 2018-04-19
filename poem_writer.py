@@ -12,6 +12,7 @@ from model import Model
 import sys
 import datamuser
 import random
+import string
 
 
 TAYLOR = False
@@ -131,13 +132,26 @@ class PoemWriter():
 
 
                     line = candidate_lines[np.argmax(scores)]
-                    print("CHOSEN LINE::: {}".format(line))
+                    if len(line) < 15:
+                        # bad line
+                        i -= 1
+                        continue
+                    count = lambda l1, l2: len(list(filter(lambda c: c in l2, l1)))
+                    if count(line, string.punctuation) > 5:
+                        # bad line
+                        i -= 1
+                        continue
+
                     last_word = line.split()[-1]
                     if not last_word.isalpha(): last_word = line.split()[-2]
                     if not last_word.isalpha():
                         # bad line-- try again
                         i -= 1
                         continue
+
+
+
+                    print("CHOSEN LINE::: {}".format(line))
 
 
                     # evaluate line here
@@ -159,7 +173,7 @@ class PoemWriter():
                     i += 1
 
                 poem = prime[len(orig_prime):]
-                print (poem)
+                print ("\n\nLINES WRITTEN BY CANDLELIGHT\n{}".format(poem))
 
 
         output_path = self.args.output_path
