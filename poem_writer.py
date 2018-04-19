@@ -14,6 +14,10 @@ import datamuser
 import random
 
 
+if os.environ["COMPUTERNAME"] == 'DALAILAMA':
+    TAYLOR = True
+
+
 class PoemWriter():
 
     def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False):
@@ -48,7 +52,7 @@ class PoemWriter():
 
         with open(os.path.join(self.args.save_dir, 'config.pkl'), 'rb') as f:
             saved_args = cPickle.load(f)
-            saved_args.use_topics=args.use_topics
+            saved_args.use_topics=self.args.use_topics
 
         with open(os.path.join(self.args.save_dir, 'words_vocab.pkl'), 'rb') as f:
             if sys.version_info[0] >= 3:

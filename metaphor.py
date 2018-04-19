@@ -45,7 +45,11 @@ def get_rhyme(rhyme, relation):
     rhymes = json.loads(response.text)
     return rhymes
 
+def substitute(poem, metaphor):
+
+
 if __name__ == '__main__':
     print(get_rhyme("grape", "breakfast"))
     master_dict = get_metaphor("Marriage as death")
     print(master_dict)
+    
