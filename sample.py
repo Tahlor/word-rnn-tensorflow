@@ -31,7 +31,7 @@ def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", ou
                        help='0 to use max at each timestep, 1 to sample at each timestep, 2 to sample on spaces')
     parser.add_argument('--count', '-c', type=int, default=count,
                        help='number of samples to print')
-    parser.add_argument('--quiet', '-q', default=False, action='store_true',
+    parser.add_argument('--quiet', '-q', default=True, action='store_true',
                        help='suppress printing the prime text (default false)')
     parser.add_argument('--end_word', '-e', default=end_word,
                        help='Last word of line')
@@ -145,7 +145,7 @@ And that has made all the difference."""
         end_word = "\n"
         prime= prime
 
-        main(save_dir = r"./save/MASTER", end_word=end_word, output_path = "sample.txt", syllables = 10, prime = prime, pick = 1, n = 500, width = 3, sampling_type = 1, return_line_list = False)
+        main(save_dir = r"./save/MASTER", end_word=end_word, output_path = "sample.txt", syllables = 10, prime = prime, pick = 1, n = 500, width = 3, sampling_type = 1, return_line_list = True)
         # Sampling type - 2 - weighted sample first word of each line
         #                 1 - weighted sample all
         #                 0 - best word

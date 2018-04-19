@@ -252,6 +252,8 @@ class Model():
                 prime  = random.choice(list(vocab.keys()))
             if not quiet:
                 print(prime)
+
+            # prime network
             for word in prime.split()[:-1]:
                 if not quiet:
                     print(word)
@@ -260,7 +262,7 @@ class Model():
                 feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
                 [state] = sess.run([self.final_state], feed)
 
-            ret = prime
+            ret = ""
             word = prime.split()[-1]
             for n in range(num):
                 x = np.zeros((1, 1))
@@ -297,8 +299,10 @@ class Model():
         if return_line_list and pick != 2: # don't do it on the beam search
             lines = [l for l in ret.split("\n") ]
             score_list = [list(group) for k, group in groupby(chosen_ps, lambda x: x == "|") if not k]
+            print(score_list)
+            output_score = []
             for i, l in enumerate(lines):
-                if len(score_list) <= i:
+                if i < len(score_list):
                     s = score_list[i]
                     # ignore most surprising word
                     # s = [m for m in s if m < .8] # ignore obvious over 8
@@ -309,10 +313,12 @@ class Model():
                     score = np.product(s_trim)**(1/len(s_trim))
                     if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
                         score -= .1
-                    score_list[i] = score
+                    output_score.append(score)
+                    #print(l)
+                    #print(s)
                     print(l + " {:4.2f} ".format(score))
                 else: # don't score if bad index
                     pass
-            return lines[0], score_list[0]
+            return lines[0], output_score[0]
 
         return ret
