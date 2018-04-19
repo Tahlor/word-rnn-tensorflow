@@ -311,8 +311,8 @@ class Model():
                         score -= .1
                     score_list[i] = score
                     print(l + " {:4.2f} ".format(score))
-                else:
-                    
+                else: # don't score if bad index
+                    pass
             return lines[0], score_list[0]
 
         return ret
