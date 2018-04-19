@@ -14,6 +14,10 @@ import datamuser
 import random
 
 
+if os.environ["COMPUTERNAME"] == 'DALAILAMA':
+    TAYLOR = True
+
+
 class PoemWriter():
 
     def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False):

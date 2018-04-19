@@ -298,18 +298,22 @@ class Model():
             lines = [l for l in ret.split("\n") ]
             score_list = [list(group) for k, group in groupby(chosen_ps, lambda x: x == "|") if not k]
             for i, l in enumerate(lines):
-                s = score_list[i]
-                # ignore most surprising word
-                # s = [m for m in s if m < .8] # ignore obvious over 8
-                s_trim = np.copy(s)
-                if len(s) > 10:
-                    s_trim = sorted(s)[2:-3] # ignore least common, and top 3, end word, end punc, new line
+                if len(score_list) <= i:
+                    s = score_list[i]
+                    # ignore most surprising word
+                    # s = [m for m in s if m < .8] # ignore obvious over 8
+                    if len(s) > 10:
+                        s_trim = sorted(s)[2:-3] # ignore least common, and top 3, end word, end punc, new line
+                    else:
+                        s_trim = s
+                    score = np.product(s_trim)**(1/len(s_trim))
+                    if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
+                        score -= .1
+                    score_list[i] = score
+                    print(l + " {:4.2f} ".format(score))
+                else: # don't score if bad index
+                    pass
+            return lines[0], score_list[0]
 
-                score = np.product(s_trim)**(1/len(s))
-                if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
-                    score -= .1
-
-                print(l + " {:4.2f} ".format(score))
-            return lines, score_list
 
         return ret
