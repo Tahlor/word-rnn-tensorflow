@@ -139,41 +139,23 @@ class PoemWriter():
                     count = lambda l1, l2: len(list(filter(lambda c: c in l2, l1)))
                     if count(line, string.punctuation) > 6:
                         # bad line, too much punctuation
-                        i -= 1
                         continue
 
                     last_word = line.split()[-1]
                     try:
                         if not last_word.isalpha(): last_word = line.split()[-2]
                     except IndexError:
-                        i -= 1
                         continue
 
                     if not last_word.isalpha():
                         # bad line, ends in multiple punctuations
-                        i -= 1
                         continue
 
 
 
                     print("CHOSEN LINE::: {}".format(line))
-
-
-                    # evaluate line here
-                    keep = self.evaluate_line(line)
-                    if not keep:
-                        # try a new line, don't change prime
-                        i -= 1
-
-                    else:
-
-                        # print(line)
-                        # text_list.append(line)
-                        poem_lines.append(line)
-
-
-                        prime += (line + '\n')
-
+                    poem_lines.append(line)
+                    prime += (line + '\n')
 
                     i += 1
 
