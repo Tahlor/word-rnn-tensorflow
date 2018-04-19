@@ -1,4 +1,4 @@
 *.pyc
 *LARGE
 ./save/*
-
+*.xml

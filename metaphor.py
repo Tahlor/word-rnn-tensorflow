@@ -5,6 +5,7 @@ import lxml
 import urllib
 import collections
 import json
+import re
 
 poem = """
 Come live with me and be my Love, 
@@ -28,7 +29,7 @@ def get_metaphor(phrase):
     response = requests.get(url, verify = False)
     return parse_metaphor(lxml.etree.XML(response.text), response.text)
 
-def parse_metaphor(tree, return_targets = True):
+def parse_metaphor(tree):
     # {word : [{score: , metaphor: , attribute: }, ...]
     master_dict = collections.defaultdict(list)
 
@@ -47,9 +48,11 @@ def parse_metaphor(tree, return_targets = True):
     for item in master_dict:
         master_dict[item] = sorted(master_dict[item], key=lambda k: -k['score']) 
     print(target_source)
-    typ = "Target" if return_targets else "Source"
-    return master_dict[target_source[typ]]
+    target = target_source["Target"].lower()
+    source = re.search("([^a-z])([a-z]*)(.*)", target_source["Source"].lower()).group(2)
 
+    master_dict = {"target":master_dict[target_source["Target"]],"source":master_dict[target_source["Source"]]}
+    return master_dict, target, source
 
 def get_rhyme(rhyme, relation):
     url = r"http://api.datamuse.com/words?ml={}&rel_rhy={}&max=1000".format(relation, rhyme)
@@ -59,10 +62,16 @@ def get_rhyme(rhyme, relation):
 
 def substitute(poem, metaphor):
     master_dict = get_metaphor(metaphor)
+    # take a line
+    # pick an adj, noun, or verb
+    # alternatingly substitute it with metaphor and word related to
+
 
 if __name__ == '__main__':
     metaphor = "Marriage as death"
     print(get_rhyme("grape", "breakfast"))
-    master_dict = get_metaphor(metaphor)
+    master_dict, target, source = get_metaphor(metaphor)
     print(master_dict)
+
+
     substitute(poem, metaphor)

@@ -20,6 +20,12 @@ try:
 except:
     TAYLOR = False
 
+# Sterling's globals
+save_dir = 'save'
+
+if TAYLOR:
+    save_dir = r"./save/FINAL"
+
 class PoemWriter():
 
     def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False):
@@ -162,4 +168,4 @@ if __name__ == "__main__":
     topic = 'ocean'
 
     pw = PoemWriter()
-    pw.sample(syllables, n_lines, topic)
+    pw.sample(syllables, n_lines, topic, save_dir = save_dir)
