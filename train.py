@@ -166,22 +166,22 @@ def train(args):
             # Batch step loop
             for b in range(data_loader.pointer, data_loader.num_batches):
                 start = time.time()
-                x, y, last_words, syllables = data_loader.next_batch()
+                x, y, last_words, syllables, topic_words = data_loader.next_batch()
 
                 # Concatenate Inputs
                 #x = tf.concat([x[:,:,None],last_words[:,:,None]],2)
                 if args.end_word_training:
                     feed = {model.input_data: x, model.targets: last_words, model.bonus_features: last_words,
-                            model.initial_state: state, model.syllables : syllables,
+                            model.initial_state: state, model.syllables : syllables, model.topic_words : topic_words,
                             model.batch_time: speed}
                 elif args.syllable_training:
-                    feed = {model.input_data: x, model.targets: syllables, model.bonus_features: last_words,
-                            model.initial_state: state, model.syllables: syllables,
+                    feed = {model.input_data: x, model.targets: last_words, model.bonus_features: last_words,
+                            model.initial_state: state, model.syllables : syllables, model.topic_words : topic_words,
                             model.batch_time: speed}
                 else:
-                    feed = {model.input_data: x, model.targets: y, model.bonus_features:last_words,
-                            model.syllables : syllables,
-                            model.initial_state: state, model.batch_time: speed}
+                    feed = {model.input_data: x, model.targets: last_words, model.bonus_features: last_words,
+                            model.initial_state: state, model.syllables : syllables, model.topic_words : topic_words,
+                            model.batch_time: speed}
                 summary, train_loss, state, _, _ = sess.run([merged, model.cost, model.final_state,
                                                              model.train_op, model.inc_batch_pointer_op], feed)
                 train_writer.add_summary(summary, e * data_loader.num_batches + b)

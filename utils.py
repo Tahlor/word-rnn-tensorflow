@@ -55,6 +55,12 @@ class TextLoader():
         """
         string = re.sub(r"\n\s*", r"  |||  ", string)
 
+        # No accents
+        string = re.sub(r"[`]", r"", string)
+
+        # Fix apostrophes
+        string = re.sub(r"( ')([a-z][a-z][a-z]+)", r" \2 ", string)
+
         # Separate symbols from words
         string = re.sub(r"([,.-;:!?~])", r" \1 ", string)
         string = re.sub(r"~", "--", string)
@@ -71,7 +77,7 @@ class TextLoader():
         word_counts = collections.Counter(sentences)
         # Mapping from index to word
         vocabulary_inv = [x[0] for x in word_counts.most_common()]
-        vocabulary_inv = list(sorted(vocabulary_inv))
+        vocabulary_inv = list(vocabulary_inv) # why is it alphabetized here?
         # Mapping from word to index
         vocabulary = {}
         for i, x in enumerate(vocabulary_inv):
@@ -100,7 +106,7 @@ class TextLoader():
 
         # Optional text cleaning or make them lower case, etc.
         if self.simple_vocab:
-            data = self.clean_str(data)        
+            data = self.clean_str(data)
 
         # This is not optimized, shouldn't be too bad though
         x_text = ["\n" if i == "|||" else i for i in data.split()]
@@ -164,7 +170,7 @@ class TextLoader():
         self.get_last_words2(xdata)
         self.syllables = np.split(self.syllables.reshape(self.batch_size, -1), self.num_batches, 1)
         self.last_words = np.split(self.last_words.reshape(self.batch_size, -1), self.num_batches, 1)
-
+        self.topic_words = np.split(self.topic_words.reshape(self.batch_size, -1), self.num_batches, 1)
 
 
         print("Getting last words/syllables")
@@ -183,8 +189,6 @@ class TextLoader():
         self.last_words = d["last_words"]
         self.syllables  = d["syllables"]
         self.endline_idx = self.vocab['\n']
-
-
 
     def tokenize_by_line(self, input_list):
         temp_list = np.copy(self.input_list)
@@ -210,6 +214,7 @@ class TextLoader():
     def get_last_words2(self, xdata):
         self.last_words = np.copy(xdata)
         self.syllables = np.copy(xdata)
+        self.topic_words = np.copy(xdata)
 
         line_start = 0
         last_word = self.last_words[-1]
@@ -220,15 +225,16 @@ class TextLoader():
         #print(self.words[m])
         for n, word in enumerate(l):
             #print(self.words[word])
-            if word == self.endline_idx or n + 1 == len(l):
+            if word == self.endline_idx or n + 1 == len(l): # if EOL or punctuation
                 line_slice = slice(line_start,n+1)
                 line = l[line_slice]
                 #print(list(np.asarray(self.words)[line]))
                 syllables = self.get_syllables_from_indices(line)
-
+                topic_word = np.max(self.topic_words[::-1][line_slice])
                 # Make replacement
                 self.syllables[::-1][line_slice] = syllables
                 self.last_words[::-1][line_slice] = last_word
+                self.topic_words[::-1][line_slice] = topic_word
                 last_word = self.get_next_word(l, n+1)
                 line_start = n+1
         #print(list(np.asarray(self.words)[self.last_words[0:100]]))
@@ -238,9 +244,11 @@ class TextLoader():
 
         print(self.syllables[0:100])
         print(self.last_words[0:100])
+        print(self.topic_words[0:100])
         print(xdata[0:100])
 
-
+        print(list(np.asarray(self.words)[self.topic_words[0:1000]]))
+        print(list(np.asarray(self.words)[xdata[0:1000]]))
 
 
     def get_next_word(self, array, idx):
@@ -265,22 +273,26 @@ class TextLoader():
         return self.endline_idx
 
     #X is input, Y is output
-    def next_batch(self, dropout = .2): # dropout = 0 means no dropout
-        x, y, last_words, syllables = self.x_batches[self.pointer], self.y_batches[self.pointer], self.last_words[self.pointer], self.syllables[self.pointer]
+    def next_batch(self, dropout = .4): # dropout = 0 means no dropout
+        x, y, last_words, syllables, topic_words = np.copy(self.x_batches[self.pointer]), np.copy(self.y_batches[self.pointer]), np.copy(self.last_words[self.pointer]), np.copy(self.syllables[self.pointer]), np.copy(self.topic_words[self.pointer])
         self.pointer += 1
+
         if dropout > 0:
             dropout_mask = np.random.binomial([np.ones(last_words.shape[:-1])], 1 - dropout)[0][..., None]
             dropout_mask2 = np.random.binomial([np.ones(syllables.shape[:-1])], 1 - dropout)[0][..., None]
+            dropout_mask3 = np.random.binomial([np.ones(syllables.shape[:-1])], 1 - dropout)[0][..., None]
 
             if self.endline_idx == 0:
                 last_words = last_words * dropout_mask
+                topic_words = dropout_mask3 * topic_words
             else: # if endline is not the first vocab word
                 last_words = last_words * dropout_mask + (1-dropout_mask) * self.endline_idx
+                topic_words = topic_words * dropout_mask3 + (1-dropout_mask3) * self.endline_idx
 
             # Syllable dropout - 0
             syllables = syllables * dropout_mask2
 
-        return x, y, last_words, syllables
+        return x, y, last_words, syllables, topic_words
 
     def reset_batch_pointer(self):
         self.pointer = 0
@@ -307,7 +319,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     data_loader = TextLoader(args.path, 10, 50, load_from_file=False)
-    x,y,z,syl = data_loader.next_batch()
+    x,y,z,syl,topic_words = data_loader.next_batch()
     #print(data_loader.words[x[0].astype(int)])
     print(syl[0:10])
 

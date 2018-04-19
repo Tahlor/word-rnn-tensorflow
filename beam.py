@@ -70,7 +70,7 @@ class BeamSearch():
 
         while live_k and dead_k < k:
             # total score for every sample is sum of -log of word prb
-            cand_scores = np.array(live_scores)[:, None] - np.log(probs + 1e-7)
+            cand_scores = np.array(live_scores)[:, None] - np.log(probs + 1e-7) # more negative = less likely
             if not use_unk and oov is not None:
                 cand_scores[:, oov] = 1e20
             cand_flat = cand_scores.flatten()

@@ -1,8 +1,10 @@
+import re
 import tensorflow as tf
 from tensorflow.contrib import rnn
 from tensorflow.contrib import legacy_seq2seq
 import random
 import numpy as np
+from itertools import groupby
 
 from beam import BeamSearch
 
@@ -39,6 +41,7 @@ class Model():
         self.input_data = tf.placeholder(tf.int32, [args.batch_size, args.seq_length])
         #self.input_data = tf.placeholder(tf.int32, [args.batch_size, args.seq_length, input_dim])
         self.bonus_features = tf.placeholder(tf.int32, [args.batch_size, args.seq_length], name = "BonusFeatures")
+        self.topic_words = tf.placeholder(tf.int32, [args.batch_size, args.seq_length], name="Topics")
         self.syllables = tf.placeholder(tf.int32, [args.batch_size, args.seq_length], name = "SyllableCount")
         self.targets = tf.placeholder(tf.int32, [args.batch_size, args.seq_length])
         self.initial_state = cell.zero_state(args.batch_size, tf.float32)
@@ -82,6 +85,7 @@ class Model():
 
                 if BONUS:
                     bonus_features = tf.split(tf.nn.embedding_lookup(embedding, self.bonus_features), args.seq_length, 1)
+                    topic_words = tf.split(tf.nn.embedding_lookup(embedding, self.topic_words), args.seq_length, 1)
 
                     # Concat these - 10 cells will be given the last word
                     o = []
@@ -96,7 +100,7 @@ class Model():
 
                     for n in range(0,len(inputs)):
                         #o.append(tf.concat([inputs[n][:, :, :args.rnn_size*mult-last_word_size], bonus_features[n][:, :, :last_word_size]], 2))
-                        o.append(tf.concat([inputs[n], bonus_features[n], syllables[n]], 2))
+                        o.append(tf.concat([inputs[n], bonus_features[n], topic_words[n], syllables[n]], 2))
                         #o = bonus_features
                     #seq length, batch size x 1 x 2*rnn)
                     inputs = o
@@ -131,7 +135,9 @@ class Model():
         optimizer = tf.train.AdamOptimizer(self.lr)
         self.train_op = optimizer.apply_gradients(zip(grads, tvars))
 
-    def sample(self, sess, words, vocab, num=200, prime='first all', sampling_type=1, pick=1, width=4, quiet=False, end_word = "end", syllables = 10):
+
+
+    def sample(self, sess, words, vocab, num=200, prime='first all', sampling_type=1, pick=1, width=4, quiet=False, end_word = "end", syllables = 10, return_line_list = False, topic_word = "\n"):
 
         # Find endword in vocab
         if type(end_word) == type(""):
@@ -142,13 +148,42 @@ class Model():
             #end_tensor = np.asarray([[idx]])
             end_tensor = np.zeros((1, 1))                    
             end_tensor[0, 0] = vocab.get(end_word,0)
+            topic_tensor = np.zeros((1, 1))
+            topic_tensor[0, 0] = vocab.get(topic_word,0)
+
 
         syl_tensor = np.zeros((1, 1)) + syllables
 
+        def argmaxn(array, n):
+            a = np.copy(array)
+            out = []
+            for i in range(n):
+                idx = np.argmax(a)
+                out.append(idx);
+                a[idx] = 0
+            return out
+
         def weighted_pick(weights):
-            t = np.cumsum(weights)
-            s = np.sum(weights)
-            return(int(np.searchsorted(t, np.random.rand(1)*s)))
+            if False:
+                w = np.copy(weights)
+                top_words = []
+                wts = []
+                for x in argmaxn(w,4):
+                    top_words.append(words[x])
+                    wts.append(w[x])
+                    w[x] = 5 * w[x]
+                print("Top words: {}".format(top_words))
+                print("Weights: {}".format(wts))
+            else:
+                w = weights
+
+            t = np.cumsum(w) # you basically make a line, where the width of each word is the probability of that word
+            s = np.sum(w)
+            prev_word_idx = 0 if len(chosen_words)==0 else vocab[chosen_words[-1]] # don't randomly pick the same word 2x
+            chosen = prev_word_idx
+            while chosen == prev_word_idx:
+                chosen = (int(np.searchsorted(t, np.random.rand(1)*s)))
+            return chosen
 
         def beam_search_predict(sample, state):
             """Returns the updated probability distribution (`probs`) and
@@ -163,7 +198,7 @@ class Model():
             # Keep feeding one rhyming word UNTIL newline space is sampled, then feed next
             # Need to adjust beam search to go line by line UGH!
 
-            feed = {self.input_data: x, self.initial_state: state, self.bonus_features: end_tensor, self.syllables: syl_tensor}
+            feed = {self.input_data: x, self.initial_state: state, self.bonus_features: end_tensor, self.syllables: syl_tensor, self.topic_word : topic_tensor}
             [probs, final_state] = sess.run([self.probs, self.final_state],
                                             feed)
             return probs, final_state
@@ -183,22 +218,31 @@ class Model():
             ret = prime + ' '
             eol = None
             # "\n"
-            while total_sample < num:
+            if False:
+                while total_sample < num:
+                    bs, prime_labels = create_bs(prime)
+                    samples, scores, states = bs.search(None, eol, k=width, maxsample=1000)
+                    # Choose
+                    sample_choice = np.argmin(scores)
+                    chosen = samples[sample_choice]
+                    next_words = ""
+                    for i, label in enumerate(chosen):
+                        next_words += words[label] + ' '
+                    ret = next_words
+                    total_sample += i - len(prime_labels)
+                    prime = ret
+            else:
                 bs, prime_labels = create_bs(prime)
-                samples, scores, states = bs.search(None, eol, k=width, maxsample=1000)
-                # Choose
-                sample_choice = np.argmin(scores)
-                chosen = samples[sample_choice]
-                next_words = ""
-                for i, label in enumerate(chosen):
-                    next_words += words[label] + ' '
-                ret = next_words
-                total_sample += i - len(prime_labels)
-                prime = ret
-
+                samples, scores, states= bs.search(None, None, k=width, maxsample=num)
+                pred = samples[np.argmin(scores)]
+                for i, label in enumerate(pred):
+                    ret += ' ' + words[label] if i > 0 else words[label]
             return ret
 
         ret = ''
+        chosen_ps = []
+        chosen_words = []
+
         if pick == 1:
             state = sess.run(self.cell.zero_state(1, tf.float32))
             if not len(prime) or prime == ' ':
@@ -210,7 +254,7 @@ class Model():
                     print(word)
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word,0)
-                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor}
+                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_word : topic_tensor}
                 [state] = sess.run([self.final_state], feed)
 
             ret = prime
@@ -218,20 +262,17 @@ class Model():
             for n in range(num):
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word, 0)
-                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor}
+                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_word : topic_tensor}
                 [probs, state] = sess.run([self.probs, self.final_state], feed)
                 p = probs[0]
-
                 if sampling_type == 0:
                     sample = np.argmax(p)
                 elif sampling_type == 2:
                     if word == '\n':
                         sample = weighted_pick(p) # sample from everywhere
                     else:
-                        p[0:3] = 10 * p[0:3] # make top words even more probable
-                        sample = weighted_pick(p)
-
-                        #sample = np.argmax(p) # p is just the list of probabilities
+                        #sample = weighted_pick(p)
+                        sample = np.argmax(p) # p is just the list of probabilities
                         #p.argsort()[-10:][::-1]
                         #top_args = self.argmaxn(p, 2)
                         #sample = top_args[np.random.randint(0, len(top_args))] # sample from top 10 words
@@ -239,19 +280,33 @@ class Model():
                 else: # sampling_type == 1 default:
                     sample = weighted_pick(p)
 
+                chosen_ps.append(p[sample])
+                chosen_words.append(words[sample])
                 pred = words[sample]
                 ret += ' ' + pred
+                if pred == '\n':
+                    chosen_ps.append("|")
                 word = pred
         elif pick == 2:
             pred = beam_search_pick(prime, width)
             ret = pred
-        return ret
 
-    def argmaxn(self, array, n):
-        a = np.copy(array)
-        out = []
-        for i in range(n):
-            idx = np.argmax(a)
-            out.append(idx);
-            a[idx] = 0
-        return out
+        if return_line_list and pick != 2: # don't do it on the beam search
+            lines = [l for l in ret.split("\n") ]
+            score_list = [list(group) for k, group in groupby(chosen_ps, lambda x: x == "|") if not k]
+            for i, l in enumerate(lines):
+                s = score_list[i]
+                # ignore most surprising word
+                # s = [m for m in s if m < .8] # ignore obvious over 8
+                s_trim = s.copy()
+                if len(s) > 10:
+                    s_trim = sorted(s)[2:-3] # ignore least common, and top 3, end word, end punc, new line
+
+                score = np.product(s_trim)**(1/len(s))
+                if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
+                    score -= .1
+
+                print(l + " {:4.2f} ".format(score))
+            return lines, score_list
+
+        return ret

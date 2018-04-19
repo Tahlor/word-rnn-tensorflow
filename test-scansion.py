@@ -18,3 +18,4 @@ words = "the nightingales thy coming each where sing:".split(" ")
 m = ''.join([poetrytools.stress(x, "min") for x in words])
 print(m)
 print(len(m))
+

@@ -14,7 +14,7 @@ import sys
 
 # Prime - first word
 # Update model to prime with end words
-def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, width = 4, sampling_type = 2):
+def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, width = 4, sampling_type = 2, return_line_list = False):
     parser = argparse.ArgumentParser()
     parser.add_argument('--save_dir', '-s', type=str, default=save_dir,
                        help='model directory to load stored checkpointed models from')
@@ -38,8 +38,9 @@ def main(save_dir='save', n=200, prime = ' ', count = 1, end_word = "turtle", ou
                        help='Last word of line')
     parser.add_argument('--syllables', '-y', default=syllables,
                        help='Last word of line', type=int)
-    parser.add_argument('--sampling_type', '-t', default=1,
-                       help='0 - Greedy sample', type=int)
+    parser.add_argument('--return_line_list', '-r', default=return_line_list,
+                       help='0 - Return lines as a list of lines', type=int)
+
     if internal_call:
         args = parser.parse_args("")
         #sample2(args, model_dict = model)
@@ -62,7 +63,6 @@ def sample2(args, model_dict):
     with open(output_path, "a") as f:
         f.write('\n\n')
         f.write(samp)
-
     
 def sample(args):
         with open(os.path.join(args.save_dir, 'config.pkl'), 'rb') as f:
@@ -83,11 +83,11 @@ def sample(args):
             if ckpt and ckpt.model_checkpoint_path:
                 saver.restore(sess, ckpt.model_checkpoint_path)
                 for _ in range(args.count):
-                    s = model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet, args.end_word, args.syllables)
+                    s = model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick, args.width, args.quiet, args.end_word, args.syllables, args.return_line_list)
                     print(s)
                     text_list.append(s)
         output_path = args.output_path
-        if not output_path is None:
+        if not output_path is None and not args.return_line_list:
             if not os.path.isdir(output_path):
                 output_path=os.path.join(args.save_dir, output_path)
             with open(output_path, "a") as f:
@@ -96,8 +96,10 @@ def sample(args):
                     f.write(item)
                 
 if __name__ == '__main__':
-        main(save_dir = r"./save/MASTER", end_word="naval", output_path = "sample.txt", syllables = 10, prime = "lest i paint the gentle sea amidst this tempestuous storm", pick = 1, n = 200, width = 3, sampling_type = 2)
-
+        main(save_dir = r"./save/MASTER", end_word="turtle", output_path = "sample.txt", syllables = 10, prime = "lest i paint the gentle sea amidst this tempestuous storm", pick = 1, n = 500, width = 3, sampling_type = 1, return_line_list = True)
+        # Sampling type - 2 - weighted sample first word of each line
+        #                 1 - weighted sample all
+        #                 0 - best word
 
 # Basic rhyming sketch:
     # Sample one line - evaluate

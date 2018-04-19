@@ -151,7 +151,7 @@ def clean_str(string):
     string = re.sub(r"--", "~", string)  # fix dashes
     string = unidecode(string)
     string = re.sub(r"\s*\n\s*", " {} ".format(newline), string) # delete crazy characters
-    string = re.sub(r"[^A-Za-z0-9,!\?\'\`\-\|\n\.:;~]", " ", string) # delete crazy characters
+    string = re.sub(r"[^A-Za-z0-9,!\?\'\-\|\n\.:;~]", " ", string) # delete crazy characters
 
     # Only keep apostrophe's in the middle of words
     string = re.sub(r"([A-Za-z])(')([A-Za-z])", r"\1@@@\3", string)
@@ -176,10 +176,17 @@ def clean_str(string):
     string = re.sub("(?m)^.*[0-9]+\s*$", "", string)
     string = re.sub("[0-9]+", " ", string) # remove all other numerics
 
+    # No accents
+    string = re.sub(r"[`]", r"", string)
+
+    # Fix apostrophes
+    string = re.sub(r"( ')([a-z][a-z][a-z]+)", r" \2 ", string)
+
     # Remove double punctuation
     string = re.sub(r'([~\-.?,:;])([~\-.?,:;\s]*)', r' \1 ', string)
     string = re.sub(r'~', r'--', string) # sub back in --
     string = re.sub(r"\s{2,}", " ", string)
+
 
 
     return string.strip().lower()
