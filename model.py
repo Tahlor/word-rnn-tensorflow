@@ -145,7 +145,7 @@ class Model():
         # Find endword in vocab
         if type(end_word) == type(""):
             #[args.batch_size, args.seq_length]
-            print("End word: " + end_word)
+            # print("End word: " + end_word)
             #end_word = "monarchise"
             idx = vocab[end_word]
             #end_tensor = np.asarray([[idx]])
@@ -301,7 +301,7 @@ class Model():
                 s = score_list[i]
                 # ignore most surprising word
                 # s = [m for m in s if m < .8] # ignore obvious over 8
-                s_trim = s.copy()
+                s_trim = np.copy(s)
                 if len(s) > 10:
                     s_trim = sorted(s)[2:-3] # ignore least common, and top 3, end word, end punc, new line
 

@@ -48,7 +48,7 @@ class PoemWriter():
 
         with open(os.path.join(self.args.save_dir, 'config.pkl'), 'rb') as f:
             saved_args = cPickle.load(f)
-            saved_args.use_topics=args.use_topics
+            saved_args.use_topics=self.args.use_topics
 
         with open(os.path.join(self.args.save_dir, 'words_vocab.pkl'), 'rb') as f:
             if sys.version_info[0] >= 3:
@@ -76,7 +76,7 @@ class PoemWriter():
                 prime = '{}\n'.format(topic_word)
                 # prime = '{} {} {}\n'.format(topic_word, topic_word, topic_word)
                 orig_prime = prime
-                quiet = False
+                quiet = True
                 poem_lines = []
 
                 related_words = datamuser.get_all_related_words(topic_word.split())
@@ -108,11 +108,16 @@ class PoemWriter():
                     print ('END WORD: {}'.format(end_word))
                     # end_word = 'flag'
 
-                    lines = self.model.sample(sess, self.words, self.vocab, self.args.n,
+                    for j in range(1):  # get best of 10 lines
+                        lines, score = self.model.sample(sess, self.words, self.vocab, self.args.n,
                                           prime, self.args.sample, self.args.pick,
-                                          self.args.width, quiet, end_word, num_syllables)
-                    quiet = True
-                    line = lines[len(prime):].split('\n')[1]  # strip off prime and keep next single line
+                                          self.args.width, quiet, end_word, num_syllables, True)
+                        # quiet = True
+                        line = lines[len(prime):].split('\n')[1]  # strip off prime and keep next single line
+                        print (line, score)
+
+
+
                     last_word = line.split()[-1]
                     if not last_word.isalpha(): last_word = line.split()[-2]
                     if not last_word.isalpha(): last_word = line.split()[-3]
