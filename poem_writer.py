@@ -16,7 +16,7 @@ import random
 
 class PoemWriter():
 
-    def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1):
+    def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False):
 
         parser = argparse.ArgumentParser()
         parser.add_argument('--save_dir', '-s', type=str, default=save_dir,
@@ -41,6 +41,8 @@ class PoemWriter():
                             help='Last word of line')
         parser.add_argument('--syllables', '-y', default=syllables,
                             help='Last word of line', type=int)
+        parser.add_argument('--use_topics', '-t', default=use_topics,
+                            help='Use topic words', type=bool)
 
         self.args = parser.parse_args("")
 
