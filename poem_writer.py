@@ -14,8 +14,8 @@ import datamuser
 import random
 
 
-if os.environ["COMPUTERNAME"] == 'DALAILAMA':
-    TAYLOR = True
+# if os.environ["COMPUTERNAME"] == 'DALAILAMA':
+#     TAYLOR = True
 
 
 class PoemWriter():
@@ -107,21 +107,27 @@ class PoemWriter():
                         # print (len(rhymes))
                         if len(rhymes)==0: end_word = random.choice(topic_words)
                         else: end_word = random.choice(rhymes)
-                        print('LAST WORD: {}  END WORD: {}'.format(last_word, end_word))
+                        # print('LAST WORD: {}  END WORD: {}'.format(last_word, end_word))
 
-                    print ('END WORD: {}'.format(end_word))
+                    # print ('END WORD: {}'.format(end_word))
                     # end_word = 'flag'
 
-                    for j in range(1):  # get best of 10 lines
-                        lines, score = self.model.sample(sess, self.words, self.vocab, self.args.n,
+                    candidate_lines = []
+                    scores = []
+                    print ("GENERATING A NEW LINE -- SAMPLING SOME CANDIDATES")
+                    for j in range(5):  # get best of 10 lines
+                        line, score = self.model.sample(sess, self.words, self.vocab, self.args.n,
                                           prime, self.args.sample, self.args.pick,
                                           self.args.width, quiet, end_word, num_syllables, True)
                         # quiet = True
-                        line = lines[len(prime):].split('\n')[1]  # strip off prime and keep next single line
-                        print (line, score)
+                        # line = lines[len(prime):].split('\n')[0]  # strip off prime and keep next single line
+                        candidate_lines.append(line)
+                        scores.append(score)
+                        # print ("LINE: {}  SCORE: {}".format(lines, score))
 
 
-
+                    line = candidate_lines[np.argmax(scores)]
+                    print("CHOSEN LINE::: {}".format(line))
                     last_word = line.split()[-1]
                     if not last_word.isalpha(): last_word = line.split()[-2]
                     if not last_word.isalpha(): last_word = line.split()[-3]
