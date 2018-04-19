@@ -46,6 +46,8 @@ class PoemWriter():
 
         with open(os.path.join(self.args.save_dir, 'config.pkl'), 'rb') as f:
             saved_args = cPickle.load(f)
+            saved_args.use_topics=args.use_topics
+
         with open(os.path.join(self.args.save_dir, 'words_vocab.pkl'), 'rb') as f:
             if sys.version_info[0] >= 3:
                 self.words, self.vocab = cPickle.load(f, encoding='latin-1')
