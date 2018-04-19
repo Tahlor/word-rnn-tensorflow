@@ -134,7 +134,11 @@ class PoemWriter():
                     print("CHOSEN LINE::: {}".format(line))
                     last_word = line.split()[-1]
                     if not last_word.isalpha(): last_word = line.split()[-2]
-                    if not last_word.isalpha(): last_word = line.split()[-3]
+                    if not last_word.isalpha():
+                        # bad line-- try again
+                        i -= 1
+                        continue
+
 
                     # evaluate line here
                     keep = self.evaluate_line(line)
@@ -171,9 +175,9 @@ class PoemWriter():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--topic', '-t', type=str, default='love',
+    parser.add_argument('--topic', '-t', type=str, default='cheese',
                         help='topic word for poem')
-    parser.add_argument('--n_lines', '-l', type=int, default=8,
+    parser.add_argument('--n_lines', '-l', type=int, default=4,
                         help='number of lines to generate')
     parser.add_argument('--n_syllables', '-s', type=int, default=8,
                         help='number of syllables per line')
