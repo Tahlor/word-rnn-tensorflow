@@ -314,7 +314,7 @@ class Model():
             for n in range(num):
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word, 0)
-                if len(chosen_words) < 5 or "\n" in chosen_words[-1:-4]:
+                if len(chosen_words) < 4 or "\n" in chosen_words[-1:-3]:
                     feed = {self.input_data: x, self.initial_state:state, self.bonus_features : topic_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
                 else:
                     feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
@@ -349,7 +349,9 @@ class Model():
 
         # Clean up output
         ret  = ret.replace("\?", "?")
-        ret = re.sub("( *)([-.,;:?\\\\]+)", r"\2", ret).replace("\\", "")
+
+        # Remove spaces before punctuation
+        ret = re.sub("( *)([-.,;:!?\\\\]+)", r"\2", ret).replace("\\", "")
 
         if return_line_list and pick != 2: # don't do it on the beam search
             lines = [l for l in ret.split("\n") ]

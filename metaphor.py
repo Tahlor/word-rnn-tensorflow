@@ -6,6 +6,7 @@ import urllib
 import collections
 import json
 import re
+import random
 
 poem = """
 Come live with me and be my Love, 
@@ -27,7 +28,25 @@ def get_metaphor(phrase):
         
     url = r"http://ngrams.ucd.ie/metaphor-magnet-acl/q?kw={}&xml=true".format(phrase)
     response = requests.get(url, verify = False)
+    master, target, source = parse_metaphor(lxml.etree.XML(response.text))
+    return master, target, source, url
+
+# metaphor word:word
+def get_metaphor_evidence(metaphor, link):
+    if sys.version_info[0] < 3:
+        phrase = urllib.quote_plus(metaphor)
+    else:
+        phrase = urllib.parse.quote_plus(metaphor)
+        
+    url = link+r"&event=target&click="+phrase
+    response = requests.get(url, verify = False)
     return parse_metaphor(lxml.etree.XML(response.text), response.text)
+
+"""def parse_metaphor_evidence(tree):
+    # {word : [{score: , metaphor: , attribute: }, ...]
+    master_dict = collections.defaultdict(list)
+"""
+
 
 def parse_metaphor(tree):
     # {word : [{score: , metaphor: , attribute: }, ...]
@@ -67,11 +86,31 @@ def substitute(poem, metaphor):
     # alternatingly substitute it with metaphor and word related to
 
 
+def main(metaphor):
+    master_dict, target, source, url = get_metaphor(metaphor) # list of attribute, score, metaphor dictionaries
+    colon_pairs = []
+    metaphors = []
+    for i in master_dict["source"][0:5]:
+        colon_pairs.append("{}:{}".format(i["attribute"], i["metaphor"]))
+        metaphors.append(i["metaphor"])
+    return metaphors
+
+
 if __name__ == '__main__':
     metaphor = "Marriage as death"
-    print(get_rhyme("grape", "breakfast"))
-    master_dict, target, source = get_metaphor(metaphor)
-    print(master_dict)
+    print(    main(metaphor))
 
+
+def test():
+    metaphor = "Marriage as death"
+    print(get_rhyme("grape", "breakfast"))
+    master_dict, target, source, url = get_metaphor(metaphor) # list of attribute, score, metaphor dictionaries
+
+    # Get top one
+    out = []
+    for i in master_dict["source"][0:10]:
+        out.append("{}:{}".format(i["attribute"], i["metaphor"]))
+    print(out)
+    get_metaphor_evidence(out[0], url)
 
     substitute(poem, metaphor)

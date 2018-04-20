@@ -192,7 +192,7 @@ def train(args):
                             model.initial_state: state, model.syllables : syllables, model.topic_words : topic_words,
                             model.batch_time: speed}
                 else:
-                    feed = {model.input_data: x, model.targets: last_words, model.bonus_features: last_words,
+                    feed = {model.input_data: x, model.targets: y, model.bonus_features: last_words,
                             model.initial_state: state, model.syllables : syllables, model.topic_words : topic_words,
                             model.batch_time: speed}
                 summary, train_loss, state, _, _ = sess.run([merged, model.cost, model.final_state,
