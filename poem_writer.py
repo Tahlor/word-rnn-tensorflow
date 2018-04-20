@@ -25,7 +25,7 @@ except:
 
 class PoemWriter():
 
-    def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False):
+    def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False, sample_type=1):
 
         parser = argparse.ArgumentParser()
         parser.add_argument('--save_dir', '-s', type=str, default=save_dir,
@@ -38,7 +38,7 @@ class PoemWriter():
                             help='1 = weighted pick, 2 = beam search pick')
         parser.add_argument('--width', type=int, default=5,
                             help='width of the beam search')
-        parser.add_argument('--sample', type=int, default=1,
+        parser.add_argument('--sample', type=int, default=sample_type,
                             help='0 to use max at each timestep, 1 to sample at each timestep, 2 to sample on spaces')
         parser.add_argument('--count', '-c', type=int, default=count,
                             help='number of samples to print')
@@ -108,13 +108,15 @@ class PoemWriter():
 
                     else:
                         # rhyme with last line
-                        rhymes = list(datamuser.get_rhymes(last_word, weak_rhymes=True).intersection(set(self.vocab.keys())))
+                        rhymes = list(datamuser.get_rhymes(last_word, weak_rhymes=False).intersection(set(self.vocab.keys())))
                         # print (len(rhymes))
-                        if len(rhymes)==0: end_word = random.choice(topic_words)
-                        else: end_word = random.choice(rhymes)
+                        if len(rhymes)==0:
+                            rhymes = list(datamuser.get_rhymes(last_word, weak_rhymes=True).intersection(set(self.vocab.keys())))
+                        if len(rhymes)==0: rhymes = topic_words
+                        end_word = random.choice(rhymes)
                         # print('LAST WORD: {}  END WORD: {}'.format(last_word, end_word))
 
-                    # print ('END WORD: {}'.format(end_word))
+                    print ('END WORD: {}'.format(end_word))
                     # end_word = 'flag'
 
                     candidate_lines = []
@@ -132,10 +134,9 @@ class PoemWriter():
 
 
                     line = candidate_lines[np.argmax(scores)]
-                    # if len(line) < 15:
-                    #     # bad line, too short
-                    #     i -= 1
-                    #     continue
+                    if line=="BAD LINE":
+                        # bad line
+                        continue
                     count = lambda l1, l2: len(list(filter(lambda c: c in l2, l1)))
                     if count(line, string.punctuation) > 6:
                         # bad line, too much punctuation
@@ -161,6 +162,7 @@ class PoemWriter():
 
                 poem = prime[len(orig_prime):]
                 print ("\n\nLINES WRITTEN BY CANDLELIGHT\n{}".format(poem))
+        return poem
 
 
         output_path = self.args.output_path
@@ -173,6 +175,20 @@ class PoemWriter():
                 #     f.write(item)
                 f.write(poem)
 
+    def write_poems(self, topics, n, filename):
+
+        syllables = 8
+        lines = 4
+
+        outfile = open(filename, 'a')
+        for topic in topics:
+            outfile.write('TOPIC: {}\n'.format(topic.upper()))
+            for i in range(n):
+                poem = self.sample(syllables, lines, topic)
+                outfile.write('Poem {}. \n{}\n'.format(i, poem))
+
+
+        outfile.close()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -189,5 +205,52 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    pw = PoemWriter()
-    pw.sample(args.n_syllables, args.n_lines, args.topic)
+    pw = PoemWriter(sample_type=0)
+    # pw.sample(args.n_syllables, args.n_lines, args.topic)
+
+#     topics = ['cheese',
+#               'furniture',
+#               'animals',
+#               'bear',
+#               'basketball',
+#               'soccer',
+#               'woman',
+#               'man',
+#               'map',
+#               'anger',
+#               'rejoice',
+#               'sandwich',
+#               'history',
+#               'convertibles',
+#               'flower',
+#               'dirt',
+#               'friendship',
+#               'poetry',
+#               'hardship',
+#               'heaven',  # 20 => 1.5 hours
+# ]
+    topics = [
+              # 'night',
+              # 'virtue',
+              # 'Rome',
+              'sky',
+              'creativity',
+              'desert',
+              'challenge',
+              'darkness',
+              'light',
+              'jupiter',
+              'taxes',
+              'immigration',
+              'ocean',
+              'pirate',
+              'darwin',
+              'texas',
+              'beauty',
+              'knight',
+              'marriage',
+              'magic'      # 40 => 4 hours?
+              ]
+
+    N = 5
+    pw.write_poems(topics, N, 'outputs/volume3.txt')
