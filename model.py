@@ -166,6 +166,9 @@ class Model():
                 a[idx] = 0
             return out
 
+        def is_punc(char):
+            return char in ["?", ".", "!", ",", "-", "--", ":", ";"]
+
         def weighted_pick(weights):
             if False:
                 w = np.copy(weights)
@@ -183,22 +186,54 @@ class Model():
             t = np.cumsum(w) # you basically make a line, where the width of each word is the probability of that word
             s = np.sum(w)
             prev_word_idx = 0 if len(chosen_words)==0 else vocab[chosen_words[-1]] # don't randomly pick the same word 2x
+            prev_word_idx2 = 0 if len(chosen_words)<=1 else vocab[chosen_words[-2]] # don't randomly pick the same word 2x
+
             chosen = prev_word_idx
-            while chosen in [prev_word_idx, len(words)] or (len(words[chosen]) == 1 and re.search("[-ai?.',:;\n]", words[chosen]) is None):
+            while chosen in [prev_word_idx2, prev_word_idx, len(words)]:
                 chosen = (int(np.searchsorted(t, np.random.rand(1)*s)))
+
+                # start over if chosen word out of range
+                if chosen >= len(words):
+                    continue
+
+                # sample again if a one word character, non punctuation
+                if (len(words[chosen]) == 1 and re.search("[-!ai?.',:;\n]", words[chosen]) is None):
+                    chosen = prev_word_idx
+
+                # sample again if first word is punctuation
+                if words[prev_word_idx]=="\n" and words[chosen] in ["?", ".", "!", ",", "-", "--", ":", ";"]:
+                    chosen = prev_word_idx
+
+                # sample again if previous word is punctuation
+                if is_punc(words[chosen]) and is_punc(words[prev_word_idx]):
+                    chosen = prev_word_idx
+
             return chosen
 
-        def score(line, s_trim):
+        def score_function(l, s_trim):
             actual_syllables = len(''.join([poetrytools.stress(x, "min") for x in l.split()]))
-            penalty = .1 * abs(actual_syllables - syllables)
+
+            if len(s) > 10:
+                s_trim = sorted(s)[2:-3] # ignore least common, and top 3, end word, end punc, new line
+            elif len(s) > 6:
+                s_trim = sorted(s)[1:-2]
+            else:
+                s_trim = [-1]
+
+            # lower score for missing syllable count
+            penalty = .05 * abs(actual_syllables - syllables)
             score = np.product(s_trim) ** (1 / len(s_trim)) - penalty
+
+            # lower score for just tacking on end word
             if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
                 score -= .2
-            print(l, actual_syllables)
+            if end_word not in l+"\n":
+                score -= .1
+            #print(l, actual_syllables)
             if len(l) < 15:
                 l = "BAD LINE"
-                score = -1
-            return s
+                score = -40
+            return score
 
         def beam_search_predict(sample, state):
             """Returns the updated probability distribution (`probs`) and
@@ -279,7 +314,11 @@ class Model():
             for n in range(num):
                 x = np.zeros((1, 1))
                 x[0, 0] = vocab.get(word, 0)
-                feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
+                if len(chosen_words) < 5 or "\n" in chosen_words[-1:-4]:
+                    feed = {self.input_data: x, self.initial_state:state, self.bonus_features : topic_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
+                else:
+                    feed = {self.input_data: x, self.initial_state:state, self.bonus_features : end_tensor, self.syllables: syl_tensor, self.topic_words : topic_tensor}
+
                 [probs, state] = sess.run([self.probs, self.final_state], feed)
                 p = probs[0]
                 if sampling_type == 0:
@@ -324,14 +363,8 @@ class Model():
                     # ignore most surprising word
                     # s = [m for m in s if m < .8] # ignore obvious over 8
 
-                    """if len(s) > 10:
-                        s_trim = sorted(s)[1:-2] # ignore least common, and top 3, end word, end punc, new line
-                    elif len(s) > 6:
-                        s_trim = sorted(s)[1:-1]
-                    else:
-                        s_trim = s"""
                     s_trim = s
-                    score = score(l, s_trim)
+                    score = score_function(l, s_trim)
                     # Count syllables
                     #print(l.split())
 

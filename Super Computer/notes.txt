@@ -4,7 +4,7 @@ scancel -u tarch --state=running
 
 cd /fslhome/tarch/compute/673/word-rnn-tensorflow
 
-salloc --mem 32000M --time 1:00:00 --gres=gpu:0
+salloc --mem 32000M --time 2:00:00 --gres=gpu:0
 module purge
 module load defaultenv
 module load cuda/8.0

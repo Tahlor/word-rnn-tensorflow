@@ -81,7 +81,6 @@ class TextLoader():
         Builds a vocabulary mapping from word to index based on the sentences.
         Returns vocabulary mapping and inverse vocabulary mapping.
         """
-        re.sub("( *)([-.,;:?\\\\]+)", r"\2", st)
         # Build vocabulary
         word_counts = collections.Counter(sentences)
         # Mapping from index to word
@@ -185,6 +184,25 @@ class TextLoader():
         print("Getting last words/syllables")
         self.save_inputs()
 
+    def recreate_batches(self):
+        old_length = np.product(np.array(self.x_batches).shape)
+        self.num_batches = int(old_length/ (self.batch_size * self.seq_length))
+        if self.num_batches==0:
+            assert False, "Not enough data. Make seq_length and batch_size small."
+        new_length = self.num_batches * self.batch_size * self.seq_length
+        print("Batching it up...")
+        self.x_batches = np.array(self.x_batches).reshape(-1)[:new_length].astype(int)
+        self.y_batches = np.array(self.y_batches).reshape(-1)[:new_length].astype(int)
+        self.syllables = np.array(self.syllables).reshape(-1)[:new_length].astype(int)
+        self.last_words = np.array(self.last_words).reshape(-1)[:new_length].astype(int)
+        self.topic_words = np.array(self.topic_words).reshape(-1)[:new_length].astype(int)
+        self.x_batches = np.split(self.x_batches.reshape(self.batch_size, -1), self.num_batches, 1)
+        self.y_batches = np.split(self.y_batches.reshape(self.batch_size, -1), self.num_batches, 1)
+        self.syllables = np.split(self.syllables.reshape(self.batch_size, -1), self.num_batches, 1)
+        self.last_words = np.split(self.last_words.reshape(self.batch_size, -1), self.num_batches, 1)
+        self.topic_words = np.split(self.topic_words.reshape(self.batch_size, -1), self.num_batches, 1)
+
+
     def save_inputs(self):
         d = {"x_batches":self.x_batches, "y_batches":self.y_batches, "last_words":self.last_words, "syllables":self.syllables, "topic_words":self.topic_words}
         with open(self.save_file, 'wb') as f:
@@ -199,6 +217,7 @@ class TextLoader():
         self.syllables  = d["syllables"]
         self.topic_words = d["topic_words"]
         self.endline_idx = self.vocab['\n']
+        self.recreate_batches()
 
     def tokenize_by_line(self, input_list):
         temp_list = np.copy(self.input_list)
@@ -284,7 +303,7 @@ class TextLoader():
 
     #X is input, Y is output
     def next_batch(self, dropout = .4): # dropout = 0 means no dropout
-        x, y, last_words, syllables, topic_words = np.copy(self.x_batches[self.pointer]), np.copy(self.y_batches[self.pointer]), np.copy(self.last_words[self.pointer]), np.copy(self.syllables[self.pointer]), np.copy(self.topic_words[self.pointer])
+        x, y, last_words, syllables, topics = np.copy(self.x_batches[self.pointer]), np.copy(self.y_batches[self.pointer]), np.copy(self.last_words[self.pointer]), np.copy(self.syllables[self.pointer]), np.copy(self.topic_words[self.pointer])
         self.pointer += 1
 
         if dropout > 0:
@@ -294,15 +313,15 @@ class TextLoader():
 
             if self.endline_idx == 0:
                 last_words = last_words * dropout_mask
-                topic_words = dropout_mask3 * topic_words
+                topic_words = dropout_mask3 * topics
             else: # if endline is not the first vocab word
                 last_words = last_words * dropout_mask + (1-dropout_mask) * self.endline_idx
-                topic_words = topic_words * dropout_mask3 + (1-dropout_mask3) * self.endline_idx
+                topic_words = topics * dropout_mask3 + (1-dropout_mask3) * self.endline_idx
 
             # Syllable dropout - 0
             syllables = syllables * dropout_mask2
 
-        return x, y, last_words, syllables, topic_words
+        return x, y, last_words, syllables, topics
 
     def reset_batch_pointer(self):
         self.pointer = 0
@@ -328,7 +347,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    data_loader = TextLoader(args.path, 10, 50, load_from_file=False)
+    data_loader = TextLoader(args.path, 13, 23, load_from_file=True)
     x,y,z,syl,topic_words = data_loader.next_batch()
     #print(data_loader.words[x[0].astype(int)])
     print(syl[0:10])
