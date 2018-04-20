@@ -81,7 +81,7 @@ class TextLoader():
         Builds a vocabulary mapping from word to index based on the sentences.
         Returns vocabulary mapping and inverse vocabulary mapping.
         """
-
+        re.sub("( *)([-.,;:?\\\\]+)", r"\2", st)
         # Build vocabulary
         word_counts = collections.Counter(sentences)
         # Mapping from index to word

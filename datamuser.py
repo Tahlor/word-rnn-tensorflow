@@ -6,7 +6,8 @@ def extract_words_to_set(json, ws):
     # words = []
     for d in json:
         # words.append(d['word'])
-        ws.add(d['word'].encode('utf-8'))
+        #ws.add(d['word'].encode('utf-8'))
+        ws.add(d['word'])
     # return words
 
 

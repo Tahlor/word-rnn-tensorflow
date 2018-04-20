@@ -5,6 +5,7 @@ from tensorflow.contrib import legacy_seq2seq
 import random
 import numpy as np
 from itertools import groupby
+
 import string
 import poetrytools
 
@@ -206,9 +207,21 @@ class Model():
             s = np.sum(w)
             prev_word_idx = 0 if len(chosen_words)==0 else vocab[chosen_words[-1]] # don't randomly pick the same word 2x
             chosen = prev_word_idx
-            while chosen == prev_word_idx:
+            while chosen in [prev_word_idx, len(words)] or (len(words[chosen]) == 1 and re.search("[-ai?.',:;\n]", words[chosen]) is None):
                 chosen = (int(np.searchsorted(t, np.random.rand(1)*s)))
             return chosen
+
+        def score(line, s_trim):
+            actual_syllables = len(''.join([poetrytools.stress(x, "min") for x in l.split()]))
+            penalty = .1 * abs(actual_syllables - syllables)
+            score = np.product(s_trim) ** (1 / len(s_trim)) - penalty
+            if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
+                score -= .2
+            print(l, actual_syllables)
+            if len(l) < 15:
+                l = "BAD LINE"
+                score = -1
+            return s
 
         def beam_search_predict(sample, state):
             """Returns the updated probability distribution (`probs`) and
@@ -320,6 +333,10 @@ class Model():
             pred = beam_search_pick(prime, width)
             ret = pred
 
+        # Clean up output
+        ret  = ret.replace("\?", "?")
+        ret = re.sub("( *)([-.,;:?\\\\]+)", r"\2", ret).replace("\\", "")
+
         if return_line_list and pick != 2: # don't do it on the beam search
             lines = [l for l in ret.split("\n") ]
             score_list = [list(group) for k, group in groupby(chosen_ps, lambda x: x == "|") if not k]
@@ -327,24 +344,33 @@ class Model():
 
             ### THE Following is the Statistical Evaluation of each Line.
             # output_score = []
+            # output_lines = []
             # for i, l in enumerate(lines):
             #     if i < len(score_list):
             #         s = score_list[i]
             #         # ignore most surprising word
             #         # s = [m for m in s if m < .8] # ignore obvious over 8
-            #         if len(s) > 10:
-            #             s_trim = sorted(s)[2:-3] # ignore least common, and top 3, end word, end punc, new line
+            #
+            #         """if len(s) > 10:
+            #             s_trim = sorted(s)[1:-2] # ignore least common, and top 3, end word, end punc, new line
+            #         elif len(s) > 6:
+            #             s_trim = sorted(s)[1:-1]
             #         else:
-            #             s_trim = s
-            #         score = np.product(s_trim)**(1./len(s_trim))
-            #         if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
-            #             score -= .1
+            #             s_trim = s"""
+            #         s_trim = s
+            #         score = score(l, s_trim)
+            #         # Count syllables
+            #         # print(l.split())
+            #
+            #         output_lines.append(l)
             #         output_score.append(score)
-            #         #print(l)
-            #         #print(s)
+            #         # print(l)
+            #         # print(s)
             #         # print(l + " {:4.2f} ".format(score))
-            #     else: # don't score if bad index
+            #     else:  # don't score if bad index
             #         pass
+            # if len(output_lines) == 0:
+            #     return "BAD LINE", 0
 
             scores = self.simple_line_eval(lines, end_word, syllables)
             # ind = np.random.choice(range(len(lines)-1))

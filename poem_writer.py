@@ -22,6 +22,11 @@ try:
 except:
     TAYLOR = False
 
+# Sterling's globals
+save_dir = 'save'
+
+if TAYLOR:
+    save_dir = r"./save/FINAL"
 
 class PoemWriter():
 
@@ -55,7 +60,9 @@ class PoemWriter():
 
         self.args = parser.parse_args("")
 
-        with open(os.path.join(self.args.save_dir, 'config.pkl'), 'rb') as f:
+        path = os.path.join(self.args.save_dir, 'config.pkl')
+        with open(path, 'rb') as f:
+
             saved_args = cPickle.load(f)
             saved_args.use_topics=self.args.use_topics
 
@@ -81,18 +88,18 @@ class PoemWriter():
 
             if ckpt and ckpt.model_checkpoint_path:
                 saver.restore(sess, ckpt.model_checkpoint_path)
-
-                prime = '{}\n'.format(topic_word)
+                prime = '{}\n'.format(topic_word) if self.args.prime == "" else self.args.prime
                 # prime = '{} {} {}\n'.format(topic_word, topic_word, topic_word)
                 orig_prime = prime
                 quiet = True
                 poem_lines = []
 
                 related_words = datamuser.get_all_related_words(topic_word.split())
+                print(related_words)
+                print(self.vocab.keys())
                 topic_words = list(related_words.intersection(set(self.vocab.keys())))
                 if len(topic_words) == 0:
                     raise ValueError("No vocab words related to topic")
-
                 print (topic_words)
 
                 i = 0
@@ -152,8 +159,6 @@ class PoemWriter():
                         # bad line, ends in multiple punctuations
                         continue
 
-
-
                     print("CHOSEN LINE::: {}".format(line))
                     poem_lines.append(line)
                     prime += (line + '\n')
@@ -196,7 +201,7 @@ if __name__ == "__main__":
                         help='topic word for poem')
     parser.add_argument('--n_lines', '-l', type=int, default=4,
                         help='number of lines to generate')
-    parser.add_argument('--n_syllables', '-s', type=int, default=8,
+    parser.add_argument('--n_syllables', '-s', type=int, default=10,
                         help='number of syllables per line')
 
     # syllables = 8
