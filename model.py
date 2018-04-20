@@ -5,7 +5,7 @@ from tensorflow.contrib import legacy_seq2seq
 import random
 import numpy as np
 from itertools import groupby
-
+import poetrytools
 from beam import BeamSearch
 
 class Model():
@@ -184,9 +184,21 @@ class Model():
             s = np.sum(w)
             prev_word_idx = 0 if len(chosen_words)==0 else vocab[chosen_words[-1]] # don't randomly pick the same word 2x
             chosen = prev_word_idx
-            while chosen in [prev_word_idx, len(words)] or (len(words[chosen]) == 1 and re.search("[ai-?.',:;]", words[chosen]) is None)):
+            while chosen in [prev_word_idx, len(words)] or (len(words[chosen]) == 1 and re.search("[-ai?.',:;\n]", words[chosen]) is None):
                 chosen = (int(np.searchsorted(t, np.random.rand(1)*s)))
             return chosen
+
+        def score(line, s_trim):
+            actual_syllables = len(''.join([poetrytools.stress(x, "min") for x in l.split()]))
+            penalty = .1 * abs(actual_syllables - syllables)
+            score = np.product(s_trim) ** (1 / len(s_trim)) - penalty
+            if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
+                score -= .2
+            print(l, actual_syllables)
+            if len(l) < 15:
+                l = "BAD LINE"
+                score = -1
+            return s
 
         def beam_search_predict(sample, state):
             """Returns the updated probability distribution (`probs`) and
@@ -319,12 +331,10 @@ class Model():
                     else:
                         s_trim = s"""
                     s_trim = s
-                    score = np.product(s_trim)**(1/len(s_trim))
-                    if not re.search("[-.,;:]+ ?(and)? ?" + end_word, l) is None:
-                        score -= .1
-                    if len(l) < 15:
-                        l = "BAD LINE"
-                        score = -1
+                    score = score(l, s_trim)
+                    # Count syllables
+                    #print(l.split())
+
                     output_lines.append(l)
                     output_score.append(score)
                     #print(l)

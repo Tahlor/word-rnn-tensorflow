@@ -88,8 +88,7 @@ class PoemWriter():
 
             if ckpt and ckpt.model_checkpoint_path:
                 saver.restore(sess, ckpt.model_checkpoint_path)
-
-                prime = '{}\n'.format(topic_word)
+                prime = '{}\n'.format(topic_word) if self.args.prime == "" else self.args.prime
                 # prime = '{} {} {}\n'.format(topic_word, topic_word, topic_word)
                 orig_prime = prime
                 quiet = True
@@ -159,8 +158,6 @@ class PoemWriter():
                         # bad line, ends in multiple punctuations
                         continue
 
-
-
                     print("CHOSEN LINE::: {}".format(line))
                     poem_lines.append(line)
                     prime += (line + '\n')
@@ -196,5 +193,6 @@ if __name__ == "__main__":
     #
 
     args = parser.parse_args()
-    pw = PoemWriter(save_dir = save_dir)
+
+    pw = PoemWriter(save_dir = save_dir, prime= "creamy milky kurds and feta cheese,\n")
     pw.sample(args.n_syllables, args.n_lines, args.topic)

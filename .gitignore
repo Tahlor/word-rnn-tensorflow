@@ -2,3 +2,4 @@
 *LARGE
 ./save/*
 *.xml
+*/*.xml
