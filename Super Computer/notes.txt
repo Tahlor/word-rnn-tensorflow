@@ -2,6 +2,9 @@
 squeue -u tarch
 scancel -u tarch --state=running
 
+scancel  24514947
+scancel  24504592 
+
 cd /fslhome/tarch/compute/673/word-rnn-tensorflow
 
 salloc --mem 32000M --time 2:00:00 --gres=gpu:0
@@ -18,7 +21,7 @@ python ./sample.py -e princess -o sample.txt -s ./save/FINAL --pick 1 -n 200 --p
 
 python ./sample.py -e fife -o sample.txt -s ./save/FINAL --pick 1 -n 200 --prime "sun" -y 10
 
-python ./sample.py -e $'\n' -o sample.txt -s ./save/FINAL --pick 1 -n 200 --prime "light" -y 10
+python ./sample.py -e $'\n' -o sample.txt -s ./save/FINAL --pick 1 -n 200 --prime "light" -y 10 
 
 
 module purge
@@ -168,6 +171,7 @@ python ../wordrnn/sample.py  --save_dir ../wordrnn/save/LARGE --pick 1 --prime "
  
 python ./sample.py -e turtle -o sample.txt -s ./save/THEBONUS2 --pick 1 -n 200
  
+python ./sample.py -e cheese -o sample.txt -s ./save/FINALv3 --pick 1 -n 200 -t cheese
  
  
  
@@ -198,3 +202,7 @@ with tf.device('/gpu:0'):
 
 with tf.Session() as sess:
     print (sess.run(c))
+    
+    
+    
+ python ./sample.py -e ship -o sample.txt -s ./save/FINALv3 --pick 1 -n 200 -t marriage --return_line_list 0 -y 10

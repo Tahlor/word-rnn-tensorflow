@@ -86,13 +86,19 @@ def substitute(poem, metaphor):
     # alternatingly substitute it with metaphor and word related to
 
 
-def main(metaphor):
+def main(metaphor, count = 20, all = False):
     master_dict, target, source, url = get_metaphor(metaphor) # list of attribute, score, metaphor dictionaries
     colon_pairs = []
     metaphors = []
-    for i in master_dict["source"][0:5]:
+    for i in master_dict["source"][0:count]:
         colon_pairs.append("{}:{}".format(i["attribute"], i["metaphor"]))
         metaphors.append(i["metaphor"])
+        metaphors.append(i["attribute"])
+    if all:
+        for i in master_dict["target"][0:count]:
+            colon_pairs.append("{}:{}".format(i["attribute"], i["metaphor"]))
+            metaphors.append(i["metaphor"])
+            metaphors.append(i["attribute"])
     return metaphors
 
 

@@ -29,13 +29,13 @@ if TAYLOR:
     save_dir = r"./save/MASTER"
     #save_dir = r"./save/FINAL"
 
-TOP_TOPIC_WORDS = 30
-TOP_VOCAB_WORDS = 20000
-NUM_OF_SAMPLES = 10
+TOP_TOPIC_WORDS = 10
+TOP_VOCAB_WORDS = 10000
+NUM_OF_SAMPLES = 4
 
 class PoemWriter():
 
-    def __init__(self, save_dir='save', n=50, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False):
+    def __init__(self, save_dir='save', n=20, prime = ' ', count = 1, end_word = "turtle", output_path = "sample.txt", internal_call = False, model = None, syllables = 10, pick = 1, use_topics = False, sample_type=1):
 
         if pick == 1:
             self.number_of_samples = NUM_OF_SAMPLES
@@ -53,7 +53,7 @@ class PoemWriter():
                             help='1 = weighted pick, 2 = beam search pick')
         parser.add_argument('--width', type=int, default=5,
                             help='width of the beam search')
-        parser.add_argument('--sample', type=int, default=1,
+        parser.add_argument('--sample', type=int, default=sample_type,
                             help='0 to use max at each timestep, 1 to sample at each timestep, 2 to sample on spaces')
         parser.add_argument('--count', '-c', type=int, default=count,
                             help='number of samples to print')
@@ -146,12 +146,21 @@ class PoemWriter():
                 saver.restore(sess, ckpt.model_checkpoint_path)
                 continuous = True
                 while continuous:
-                    related_words_muse = datamuser.get_all_related_words(topic_word.split(), TOP_TOPIC_WORDS)
+                    print("Syllables: {}".format(num_syllables))
+                    print("Topic: {}".format(topic_word))
+                    print("Custom Rhyme: {}".format(custom_rhyme))
+                    print("Related Words: {}".format(related_words))
+                    print("Metaphor: {}".format(metaphor))
+                    print("Prime: {}".format(self.args.prime))
+                    if topic_word == "":
+                        related_words = ["\n"]
+                    else:
+                        related_words_muse = datamuser.get_all_related_words(topic_word.split(), TOP_TOPIC_WORDS)
                     # Get related words
                     if metaphor != "":
-                        related_words = meta.main(metaphor)
+                        related_words = meta.main(metaphor, 10, False) + related_words_muse
                     elif related_words == []:
-                        related_words = related_words_muse[:]
+                        related_words = related_words_muse
 
                     if type(related_words) == type([]):
                         related_words = set(related_words)
@@ -189,7 +198,12 @@ class PoemWriter():
                     i = 0
                     while i < num_lines:
                         # get endword
-
+                        if metaphor != "":
+                            pass
+                            #all_words = meta.main(metaphor, 1000, True)
+                            #all_words = meta.main(metaphor, 10, True)
+                            #datamuser.find_rhyming_pairs(all_words)
+                            #print(all_words)
                         if i % 2 == 0 and custom_rhyme == []:
                             # pick random topic word
                             end_word = random.choice(topic_words)
@@ -200,9 +214,9 @@ class PoemWriter():
                                 last_word = custom_rhyme[i % len(custom_rhyme)]
 
                             # don't try to rhyme if doing a metaphor
-                            if metaphor == "":
+                            if metaphor == "" or True:
                                 rhymes = list(datamuser.get_rhymes(last_word, weak_rhymes=False).intersection(self.freq_words))
-                            else:
+                            else: # don't get rhymes, just topic words
                                 rhymes = list(related_words_muse.intersection(self.freq_words))
 
                             # print (len(rhymes))
@@ -233,6 +247,7 @@ class PoemWriter():
                         print(np.argmax(scores))
                         if scores[np.argmax(scores)] == -40:
                             print(candidate_lines)
+                            continue
 
                         line = candidate_lines[np.argmax(scores)]
                         # if len(line) < 15:
@@ -286,6 +301,74 @@ class PoemWriter():
 
                     #continuous = False
 
+    def write_poems(self, topics, n, filename):
+
+        syllables = 8
+        lines = 4
+
+        outfile = open(filename, 'a')
+        for topic in topics:
+            outfile.write('TOPIC: {}\n'.format(topic.upper()))
+            for i in range(n):
+                poem = self.sample(syllables, lines, topic)
+                outfile.write('Poem {}. \n{}\n'.format(i, poem))
+
+
+        outfile.close()
+
+
+def copy_a_poem():
+    PRIME = """Two roads diverged in a yellow wood,
+    And sorry I could not travel both
+    And be one traveler, long I stood
+    And looked down one as far as I could
+    To where it bent in the undergrowth;
+
+    Then took the other, as just as fair,
+    And having perhaps the better claim,
+    Because it was grassy and wanted wear;
+    Though as for that the passing there
+    Had worn them really about the same,
+
+    And both that morning equally lay
+    In leaves no step had trodden black.
+    Oh, I kept the first for another day!
+    Yet knowing how way leads on to way,
+    I doubted if I should ever come back.
+
+    I shall be telling this with a sigh
+    Somewhere ages and ages hence:
+    Two roads diverged in a wood, and I"""
+    RHYME = ["sigh", "hence"]
+    RELATED_WORDS = []
+    METAPHOR = ""
+    args.n_syllables = 9
+    args.topic = ""
+    pw = PoemWriter(save_dir=save_dir, prime=PRIME, pick=1)
+    pw.sample(args.n_syllables, args.n_lines, args.topic, custom_rhyme=RHYME, related_words=RELATED_WORDS,
+              metaphor=METAPHOR)
+
+
+def generate_new_poem(args):
+    PRIME = "creamy milky kurds and feta cheese,\n"
+    PRIME = ""
+    args.topic = "road"
+
+    RHYME = []
+    args.topic = "cheese"
+    PRIME = args.topic
+    RELATED_WORDS = ["creamey", "cheesy", "milk", "gooey", "cheddar", "feta", "culture", "cheese", "mold", "food", "delicious", "flavour"]
+    RELATED_WORDS = ["cheese", "food", "delicious", "flavour"]
+    RELATED_WORDS = []
+
+    METAPHOR = r"marriage as death"
+    METAPHOR = r"student as beggar"
+    #METAPHOR = r"child as tempest"
+    args.topic = "student"
+    PRIME=""
+
+    pw = PoemWriter(save_dir=save_dir, prime=PRIME, pick=1)
+    pw.sample(args.n_syllables, args.n_lines, args.topic, custom_rhyme=RHYME, related_words=RELATED_WORDS, metaphor=METAPHOR)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -296,46 +379,88 @@ if __name__ == "__main__":
     parser.add_argument('--n_syllables', '-s', type=int, default=8  ,
                         help='number of syllables per line')
 
-    # syllables = 8
-    # n_lines = 9
-    #
     args = parser.parse_args()
+    generate_new_poem(args)
+    #copy_a_poem()
+    if False:
+        pw = PoemWriter(save_dir = save_dir, prime= PRIME, pick=1)
+        pw.sample(args.n_syllables, args.n_lines, args.topic, custom_rhyme=RHYME, related_words=RELATED_WORDS, metaphor=METAPHOR)
 
-    PRIME = "creamy milky kurds and feta cheese,\n"
-    PRIME = ""
-    args.topic = "road"
+"""Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
 
-    PRIME = """Two roads diverged in a yellow wood,
-And sorry I could not travel both
-And be one traveler, long I stood
-And looked down one as far as I could
-To where it bent in the undergrowth;
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
 
-Then took the other, as just as fair,
-And having perhaps the better claim,
-Because it was grassy and wanted wear;
-Though as for that the passing there
-Had worn them really about the same,
+Good men, the last wave by, crying how bright
+Their frail deeds might have danced in a green bay,
+Rage, rage against the dying of the light.
 
-And both that morning equally lay
-In leaves no step had trodden black.
-Oh, I kept the first for another day!
-Yet knowing how way leads on to way,
-I doubted if I should ever come back.
+Wild men who caught and sang the sun in flight,
+And learn, too late, they grieved it on its way,
+Do not go gentle into that good night.
 
-I shall be telling this with a sigh
-Somewhere ages and ages hence:
-Two roads diverged in a wood, and I"""
-    RHYME = ["sigh", "hence"]
-    RHYME = []
-    args.topic = "cheese"
-    PRIME = args.topic
-    RELATED_WORDS = ["creamey", "cheesy", "milk", "gooey", "cheddar", "feta", "culture", "cheese", "mold", "food", "delicious", "flavour"]
-    RELATED_WORDS = ["cheese", "food", "delicious", "flavour"]
+Grave men, near death, who see with blinding sight
+Blind eyes could blaze like meteors and be gay,
+Rage, rage against the dying of the light.
 
-    METAPHOR = r"marriage as death"
-    METAPHOR = r"student as beggar"
-    args.topic = "scholar"
-    PRIME=""
-    pw = PoemWriter(save_dir = save_dir, prime= PRIME, pick=1)
-    pw.sample(args.n_syllables, args.n_lines, args.topic, custom_rhyme=RHYME, related_words=RELATED_WORDS, metaphor=METAPHOR)
+And you, my father, there on the sad height,
+Curse, bless, me now with your fierce tears, I pray.
+Do not go gentle into that good night.
+"""
+
+
+"""=======
+    pw = PoemWriter(sample_type=0)
+    # pw.sample(args.n_syllables, args.n_lines, args.topic)
+
+#     topics = ['cheese',
+#               'furniture',
+#               'animals',
+#               'bear',
+#               'basketball',
+#               'soccer',
+#               'woman',
+#               'man',
+#               'map',
+#               'anger',
+#               'rejoice',
+#               'sandwich',
+#               'history',
+#               'convertibles',
+#               'flower',
+#               'dirt',
+#               'friendship',
+#               'poetry',
+#               'hardship',
+#               'heaven',  # 20 => 1.5 hours
+# ]
+    topics = [
+              # 'night',
+              # 'virtue',
+              # 'Rome',
+              'sky',
+              'creativity',
+              'desert',
+              'challenge',
+              'darkness',
+              'light',
+              'jupiter',
+              'taxes',
+              'immigration',
+              'ocean',
+              'pirate',
+              'darwin',
+              'texas',
+              'beauty',
+              'knight',
+              'marriage',
+              'magic'      # 40 => 4 hours?
+              ]
+
+    N = 5
+    pw.write_poems(topics, N, 'outputs/volume3.txt')
+>>>>>>> 814b49a8ba62f3de50b7c1972b7ad33dcdb2ab76
+"""

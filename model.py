@@ -5,7 +5,10 @@ from tensorflow.contrib import legacy_seq2seq
 import random
 import numpy as np
 from itertools import groupby
+
+import string
 import poetrytools
+
 from beam import BeamSearch
 
 class Model():
@@ -137,6 +140,26 @@ class Model():
                 args.grad_clip)
         optimizer = tf.train.AdamOptimizer(self.lr)
         self.train_op = optimizer.apply_gradients(zip(grads, tvars))
+
+    def simple_line_eval(self, lines, end_word, sylls):
+        count = lambda l1, l2: len(list(filter(lambda c: c in l2, l1)))
+        scores = []
+        for line in lines:
+            punct_pen = -count(line, string.punctuation)
+
+            try:
+                last = line.split()[-1]
+                if not last.isalpha(): last = line.split()[-2]
+                end_pen = 1 if last == end_word else -1
+            except:
+                end_pen = -20
+
+            actual_syllables = len(''.join([poetrytools.stress(x, "min") for x in line.split()]))
+            syll_pen = -np.abs(actual_syllables - sylls)
+
+            score = punct_pen + 5 * end_pen + syll_pen
+            scores.append(score)
+        return scores
 
 
 
@@ -336,6 +359,8 @@ class Model():
                 else: # sampling_type == 1 default:
                     sample = weighted_pick(p)
 
+                if sample > len(p): sample -= 1
+
                 chosen_ps.append(p[sample])
                 chosen_words.append(words[sample])
                 pred = words[sample]
@@ -359,6 +384,10 @@ class Model():
             #print(score_list)
             output_score = []
             output_lines = []
+
+            # Naive score
+            #scores_list = self.simple_line_eval(lines, end_word, syllables)
+
             for i, l in enumerate(lines):
                 if i < len(score_list):
                     s = score_list[i]
@@ -381,4 +410,6 @@ class Model():
                 return "BAD LINE", 0
 
             return output_lines[0], output_score[0]
+            #return lines[np.argmax(scores)], max(scores)
         return ret
+

@@ -1,4 +1,5 @@
 import requests
+import pronouncing
 
 def extract_words_to_set(json, ws, related_words=True):
 
@@ -73,7 +74,7 @@ def get_all_related_words(topics, top_n = 1000):
         extract_words_to_set(r.json(), word_set)
 
         # Filter master dict
-        top_set = set(sorted(master_dict, key=master_dict.get, reverse=True)[0:top_n])
+        top_set = sorted(master_dict, key=master_dict.get, reverse=True)[0:top_n]
         #
         # # repeat with all new found words?
     return top_set
@@ -92,3 +93,12 @@ def get_rhymes(word, weak_rhymes=False):
     # r = requests.get('https://api.datamuse.com/words?rel_cns={}'.format(word))
 
     return word_set
+
+
+def find_rhyming_pairs(list_of_words):
+    rhyme_words = []
+    for word in list_of_words:
+        rhyme_words += pronouncing.rhymes(word)
+    rhyme_universe = set(list_of_words).intersection(set(rhyme_words))
+    print(rhyme_universe)
+    return rhyme_universe
