@@ -30,8 +30,8 @@ if TAYLOR:
     #save_dir = r"./save/FINAL"
 
 TOP_TOPIC_WORDS = 10
-TOP_VOCAB_WORDS = 10000
-NUM_OF_SAMPLES = 4
+TOP_VOCAB_WORDS = 5000
+NUM_OF_SAMPLES = 10
 
 class PoemWriter():
 
@@ -287,12 +287,13 @@ class PoemWriter():
                     poem_lines = self.clean_poem(poem_lines)
                     poem = "\n".join(poem_lines)
                     #poem = self.correct_grammar(poem)
-                    print ("\n\nLINES WRITTEN BY CANDLELIGHT\n{}".format(poem))
+                    print ("\n\nLINES WRITTEN BY GRAMPS\n{}".format(poem))
                     self.write_out_poem(poem)
 
-                    if False:
+                    if True:
                         topic_word = input("Topic?")
                         new_prime = input("Prime?")
+                        metaphor = input("Metaphor?")
                         related_words = [] # reset this
                         if new_prime == "same":
                             pass

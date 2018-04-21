@@ -1,4 +1,5 @@
 from nltk import ngrams
+from nltk.probability import LidstoneProbDist
 
 derived_source = r"D:\PyCharm Projects\word-rnn-tensorflow\save\MASTER\sample.txt"
 primary_source = r"D:\PyCharm Projects\word-rnn-tensorflow\data\final\input.txt"
@@ -21,9 +22,9 @@ for n in [4, 5]:
     print(intersection)
     print 1.0*intersection/total_out
 
-
-    from nltk.probability import LidstoneProbDist
-
+"""
     estimator = lambda fdist, bins: LidstoneProbDist(fdist, 0.2) 
-    lm = ngrams(5, train, estimator=estimator)
-    lm.perplexity(derived_text)
+    lm = ngrams(n, train, estimator=estimator)
+    x = lm.perplexity(derived_text)
+    print(x)
+"""
